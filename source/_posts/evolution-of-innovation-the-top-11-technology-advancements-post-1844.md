@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Innovation: The Top 11 Technology Advancements Post-1844"
-date: 2024-08-04 18:16:13
-updated: 2024-08-06 11:34:13
+date: 2024-08-05T01:59:18.733Z
+updated: 2024-08-06T01:59:18.733Z
 categories:
   - BestProducts
 description: "This Article Describes Evolution of Innovation: The Top 11 Technology Advancements Post-1844"
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/b5542e5d478c6dd2b37aeafac45234590634d7908
 
  We can avoid ever being in the dark with[smart light bulbs](https://www.lifewire.com/smart-light-bulbs-4149561) that you can turn on and off with a virtual assistant like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) or[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) .
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Television — 1927
 
 ![Old television on stand, in front of curtain](https://www.lifewire.com/thmb/sT1Lb9obt08EDKCn3w7CXCy6tE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-television-on-stand--in-front-of-curtain-200453943-001-293b961ae282457791c4eed589eff3cb.jpg)
@@ -48,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/b5542e5d478c6dd2b37aeafac45234590634d7908
 
  Many people watch movies and TV shows on their smartphones, tablets, or laptops, though flat-screen TVs are still popular.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Personal Computers — 1970s
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
@@ -68,6 +75,9 @@ EdnaM / Getty Images
 
  The system can triangulate data and pinpoint your location, and it powers the GPS devices and apps that people use now to get around.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Internet: ARPANET — 1973
 
 ![Arpanet Map from May 1973](https://www.lifewire.com/thmb/fsyBzcuavn9WlcR_Ve8EK_dlpro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Arpanet_map_1973-2983e062888f4a23a9ec989af0c6f487.jpg)
@@ -82,6 +92,9 @@ ARPANET /Public domain
 
 ## GPS Navigation — 1990s
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
 
  Robert Alexander / Getty Images
@@ -94,8 +107,14 @@ ARPANET /Public domain
 
 [How to Plan an Alternate Route With Google Maps](https://www.lifewire.com/alternate-route-plan-google-maps-1616470)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Digital Camera — 1990s
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
 
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
@@ -106,8 +125,14 @@ ARPANET /Public domain
 
  Digital cameras are everywhere now, from security cameras to smartphones and laptop and desktop computers. Even the least expensive product with a camera embedded in it is far better than those cameras from the early days.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Web Browser — 1994
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mosaic web browser](https://www.lifewire.com/thmb/ZHIWa9h-A3m6SDVXmfSIkj-wQP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NCSA_Mosaic_Browser_Screenshot-2f1f4b065a284b37bb79f433cc515659.jpg)
 
  Programm: National Center for Supercomputing Applications/CC0
@@ -116,6 +141,9 @@ ARPANET /Public domain
 
  Compatible with Windows, Mosaic was accessible to the masses, not just tech types, though Netscape Navigator eventually dethroned it. But we can thank Mosaic for giving us modern browsers like Chrome and Firefox.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Social Media — 2004
 
 ![Facebook's Sign Up Page](https://www.lifewire.com/thmb/49daxvoCJfOTzoBPeb_SlLG6Eho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FacebookSignIn-a4c1c336e92a436c952e1dc7e3813c40.jpg)
@@ -124,6 +152,9 @@ ARPANET /Public domain
 
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Modern Smartphone — 2007
 
 ![Steve Jobs Unveils Apple iPhone At MacWorld Expo](https://www.lifewire.com/thmb/sdGuvRRk_ow4aOyoLK4f3ibKOwo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steve-jobs-unveils-apple-iphone-at-macworld-expo-72959794-9b26521ca5f743119fc6b509d51ec8cc.jpg)

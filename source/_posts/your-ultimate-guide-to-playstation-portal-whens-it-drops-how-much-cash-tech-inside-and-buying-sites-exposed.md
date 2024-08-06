@@ -1,7 +1,7 @@
 ---
 title: Your Ultimate Guide to PlayStation Portal – When's It Drops? How Much Cash? Tech Inside & Buying Sites Exposed!
-date: 2024-08-04 15:20:12
-updated: 2024-08-06 12:24:32
+date: 2024-08-05T01:59:20.036Z
+updated: 2024-08-06T01:59:20.036Z
 categories:
   - BestProducts
 description: This Article Describes Your Ultimate Guide to PlayStation Portal – When's It Drops? How Much Cash? Tech Inside & Buying Sites Exposed!
@@ -21,18 +21,31 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 
  Sony's PlayStation Portal (formerly Project Q), a handheld device that lets you stream games from your PS5, is out now. Here are all of the details.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  PlayStation Portal Release Date 
 
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PlayStation Portal Price 
 
  The PlayStation Portal costs $199.99.  
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Where to Buy 
 
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  PlayStation Portal Specs and Features 
 
  PlayStation Portal has all the main features of the DualSense, including adaptive triggers, vibration, and a speaker. Sony has opted for an LCD screen rather than OLED, likely to help keep the production costs down.
@@ -50,6 +63,9 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Latest News About the PlayStation Portal 
 
  You can get[ more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Meanwhile, here are some stories about Sony and its other gaming products:

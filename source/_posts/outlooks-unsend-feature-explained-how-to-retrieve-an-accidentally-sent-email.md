@@ -1,7 +1,7 @@
 ---
 title: "Outlook's Unsend Feature Explained: How to Retrieve an Accidentally Sent Email"
-date: 2024-08-03 20:13:10
-updated: 2024-08-06 11:23:11
+date: 2024-08-05T01:59:10.261Z
+updated: 2024-08-06T01:59:10.261Z
 categories:
   - BestProducts
 description: "This Article Describes Outlook's Unsend Feature Explained: How to Retrieve an Accidentally Sent Email"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 ---
 
 ## Need to Retract an Email Sent Through Microsoft Outlook? Follow These Easy Steps
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Open the**Sent Items** folder > double-click the message > go to**Recall Message** \>**OK** .
@@ -18,11 +21,17 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  This article explains how to recall an email, the requirements for recalling Outlook emails, and potential results and delays that can occur during the process. Instructions in this article apply to all versions of Outlook, including Outlook 2021 through 2007, Outlook 365, New Outlook for Windows, and Outlook on the Web.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Recall Email in Outlook (and Replace It)
 
  Directions vary slightly between the different versions of Outlook. Below are instructions for recalling an email in the desktop and web versions.
 
 1. Open Outlook and go to the**Sent Items** folder.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sent Items side panel button in Outlook](https://www.lifewire.com/thmb/4BnADBRohOFqzovsge-fHOaPo4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_recall-a-message-in-outlook-4161319-c7834046614d4d83ac415bb4b7145b8b.jpg)
 2. Double-click the sent message you want to recall to open it in a separate window.  
  The options to recall a message are not available when the message is displayed in the Reading Pane.  
@@ -30,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 3. If you're using the latest version of Outlook for Windows or you're on the web version, select**Recall Message** in the toolbar and then choose**OK** . Skip down to Step 7.  
  For older versions of Outlook, go to the**Message** tab, select the**Actions** dropdown arrow, and choose**Recall This Message** .  
  If you don't see those options, select the**three-dot** menu and go to**Actions** \>**Recall This Message** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Recall This Message menu item in Outlook](https://www.lifewire.com/thmb/XnrsAKAkhegnZiJl3-wRh82zXLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_recall-a-message-in-outlook-4161319-01e67a25438345789124c6cb9f2ef5c9.jpg)
 4. In the dialog box, select one of the following:  
    * **Delete unread copies of this message** to recall the message.  
@@ -40,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 6. If you selected**Delete unread copies and replace with a new message** , modify the original message and select**Send** .
 7. You'll receive an Outlook notification message regarding the success or failure of your attempt to retract or replace the email.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Requirements for Recalling an Email Message
 
  Recalling emails in Outlook comes with some caveats:
@@ -51,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  If any of these requirements are not met, your recall will fail.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Possible Results When You Recall an Outlook Email
 
  Depending on the settings of the recipient's email client, whether the original email has already been read, and several other factors, the results of your attempt to recall a message can vary. Following are some of the potential results of an Outlook recall.

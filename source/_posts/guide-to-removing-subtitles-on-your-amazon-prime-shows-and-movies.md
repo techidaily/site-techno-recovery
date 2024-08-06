@@ -1,7 +1,7 @@
 ---
 title: Guide to Removing Subtitles on Your Amazon Prime Shows and Movies
-date: 2024-08-03 22:24:19
-updated: 2024-08-05 10:40:19
+date: 2024-08-05T01:59:26.119Z
+updated: 2024-08-06T01:59:26.119Z
 categories:
   - BestProducts
 description: This Article Describes Guide to Removing Subtitles on Your Amazon Prime Shows and Movies
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 
  This article explains how to turn off subtitles on Amazon Prime Video, including how to disable subtitles and closed captions on Amazon Prime Video on the website and app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## How Do I Turn Off Subtitles on Amazon Prime?
 
  When you turn on subtitles on Amazon Prime, the feature will stay on until you turn it off. If you’re in a different environment and no longer require subtitles, turning the feature off works a lot like turning it on. You need to play a video with subtitles enabled, and switch off the feature using the Closed Caption and Subtitles menu.
@@ -25,11 +28,21 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
  Here’s how to turn off Subtitles on Amazon Prime on the web player:
 
 1. Play a video that has subtitles turned on, and click the**Closed Caption or Subtitles (speech bubble)** icon.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The speech bubble icon highlighted in the Amazon Video web player](https://www.lifewire.com/thmb/bWbZ-efLsksHxw4h7ZlWF1qR164=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_turn-off-subtitles-amazon-prime-video-5198403-aa13aab9164c4b6395f46afad9b0ceb1.jpg)  
  The Amazon Prime Video interface is hidden during playback. Move your mouse cursor over the player, pause the video, or tap your touchscreen while a video is playing if you don't see the speech bubble icon.
 2. Click**Off** . Subtitles are now turned off.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -41,10 +54,16 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
 ![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
 3. Select**English \[CC\]** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
 5. Subtitles are now off.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
 ## How Do I Permanently Turn Off Subtitles?

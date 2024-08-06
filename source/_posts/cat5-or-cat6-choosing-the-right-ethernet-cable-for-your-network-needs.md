@@ -1,7 +1,7 @@
 ---
 title: Cat5 or Cat6? Choosing the Right Ethernet Cable for Your Network Needs
-date: 2024-08-04 17:48:41
-updated: 2024-08-06 12:58:26
+date: 2024-08-05T01:59:27.885Z
+updated: 2024-08-06T01:59:27.885Z
 categories:
   - BestProducts
 description: This Article Describes Cat5 or Cat6? Choosing the Right Ethernet Cable for Your Network Needs
@@ -34,12 +34,21 @@ thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/fi
 ![Wi-Fi icon in macOS menu bar.](https://www.lifewire.com/thmb/ZQJSC9POWF9sWOG1QhLW7RDze88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_reset-network-settings-on-mac-5184072-8a2df70ce23140b4840713440a0b7006.jpg)
 2. Choose**Wi-Fi Settings** .  
  You can also get to this area from**Apple** icon >**System Settings** \>**Network** \>**Wi-Fi** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wi-Fi Settings option from Wi-Fi menu bar in macOS.](https://www.lifewire.com/thmb/FTW5VOi-SWCWJTkAeO-JixFq45Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_reset-network-settings-on-mac-5184072-82054f43a0e64b3bbf42514fba247325.jpg)
 3. Select**Details** beside the network to forget.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Details button beside a network connection from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/FNdDQZBdPQIHnN_v6Yd40aZSEaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_reset-network-settings-on-mac-5184072-a10316d0d1fa4b5e85f2b1516cdaece4.jpg)
 4. Choose**Forget This Network** at the bottom left.  
 ![Forget This Network option from a connected network in macOS Wi-Fi settings.](https://www.lifewire.com/thmb/g_e1r5-LZ5pTqtOVemfyL7io_yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_reset-network-settings-on-mac-5184072-550c670121d048ad9b36bf5c3711f38f.jpg)
 5. Click**Remove** to confirm the deletion.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![The Remove option when deleting a connected network from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/7sXgyQ4pvZ0APV5IYNb9a0YbIVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_reset-network-settings-on-mac-5184072-d33999e98f4f41a9b5865dca38234821.jpg)  
  Make sure that you have your[Wi-Fi login information](https://www.lifewire.com/how-to-find-wifi-password-windows-mac-4177111) . You will need to re-enter it after the next step.
 6. Finally,[re-add your Wi-Fi connection](https://www.lifewire.com/add-wifi-network-to-any-device-4685456) from the Wi-Fi menu.
@@ -51,12 +60,18 @@ thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/fi
 1. Click the**Wi-Fi internet symbol** in the menu bar.  
 ![Mac desktop with Wi-Fi symbol highlighted](https://www.lifewire.com/thmb/xVX119_v-qCR6mDaxc3cjPMV4LM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201-reset-network-settings-on-mac-5184072-1b8173aa3f1143f8b8271be3a2086896.jpg)
 2. Click the switch to turn Wi-Fi off.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Mac desktop with Wi-Fi switch turned on and toggle highlighted](https://www.lifewire.com/thmb/Djr4uGfLmro0bitPwJrNPK8si9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/202-reset-network-settings-on-mac-5184072-72380288b1504d889574a5463faa398b.jpg)
 3. With Wi-Fi off, click**Go** .  
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
 5. Type**/Library/Preferences/SystemConfiguration/** into the text field and Enter.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Mac Go to Field](https://www.lifewire.com/thmb/oInJvndiGGUBjiVV4dCuYipWrK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/205-reset-network-settings-on-mac-5184072-01298987aa224234b7e9e2f8faa9633d.jpg)
 6. Select the following five files:  
    * **com.apple.airport.preferences.plist**  
@@ -65,13 +80,34 @@ thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/fi
    * **NetworkInterfaces.plist**  
    * **preferences.plist**  
  Depending on your macOS version, you may not see all of the above files.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac network settings with five files highlighted](https://www.lifewire.com/thmb/4knKSgQkHK2UZGhEN6af3HgOVf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-reset-network-settings-on-mac-5184072-b943ca5296604916a56612a49afabb87.jpg)
 7. **Command+click** to choose the select files, select**Copy** , then right-click the desktop and select**Paste** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
  If prompted to confirm the deletion with a password or an action on your Apple Watch, do so.  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac selected files with Move to Trash highlighted](https://www.lifewire.com/thmb/Sn7RQOe_p_Sep46jpbpmtSngU3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/208-reset-network-settings-on-mac-5184072-f136a9e1ab444832a681b2f7bb014497.jpg)
 9. Restart your Mac as usual and turn its Wi-Fi back on. The deleted files should be recreated within their original location, and all your network settings should now be reset.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Mac network settings files in folder](https://www.lifewire.com/thmb/TFIJTKhjr13-gJm5a2b7c1Qvs1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/209-reset-network-settings-on-mac-5184072-6ccf3e11aa614ea6b334efc3bb44c1ec.jpg)  
  If everything is working fine, feel free to delete the copies of the files on your desktop.  
 

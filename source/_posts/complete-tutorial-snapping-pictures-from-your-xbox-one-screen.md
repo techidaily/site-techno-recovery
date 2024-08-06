@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Snapping Pictures From Your Xbox One Screen"
-date: 2024-08-03 17:16:31
-updated: 2024-08-05 12:12:10
+date: 2024-08-05T01:59:37.486Z
+updated: 2024-08-06T01:59:37.486Z
 categories:
   - BestProducts
 description: "This Article Describes Complete Tutorial: Snapping Pictures From Your Xbox One Screen"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ---
 
 ## Digital Romance Made Simple: Your Go-To Tutorial for Typing Heart Characters
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Windows: Press**Alt+3** on your keyboard to instantly type a heart symbol (must have Number Pad).
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
  This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Type a Heart on a Windows Keyboard
 
  The heart symbol ❤️ is a commonly used emoji character, but most keyboards don’t have a designated key. Fortunately, you_can_ [type emoji from your keyboard on Windows and Macs](https://www.lifewire.com/how-to-type-emojis-4685680) if you know the right keyboard shortcuts.
@@ -28,11 +34,17 @@ These instructions apply to PCs running Windows 10 and up.
 2. Hold down the**Windows button** on your keyboard and then press the**. (Period)** . This sequence will bring up a small emoji keyboard.  
 ![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -41,13 +53,22 @@ These instructions apply to PCs running Windows 10 and up.
 
 1. Open a web page or file (Word, PowerPoint, Notepad, etc.) and click to position the cursor in the text field where the heart should appear.
 2. Press**Cmd+Ctrl+Space** on your keyboard at the same time. An emoji keyboard will appear.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Your Android Experience with Picture-in-Picture Mode
-date: 2024-08-02 12:38:40
-updated: 2024-08-05 10:16:36
+date: 2024-08-05T01:59:29.917Z
+updated: 2024-08-06T01:59:29.917Z
 categories:
   - BestProducts
 description: This Article Describes Enhancing Your Android Experience with Picture-in-Picture Mode
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/gA7-VyiSqg3M1EESDmVd8UFEvls=/540x405/fi
 ---
 
 ## Enhance Your Email Experience with Unique Gmail Alert Tones – Learn How
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/gA7-VyiSqg3M1EESDmVd8UFEvls=/540x405/fi
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -27,10 +33,19 @@ thumbnail: https://www.lifewire.com/thmb/gA7-VyiSqg3M1EESDmVd8UFEvls=/540x405/fi
  If you're using the Notifier for Gmail Chrome extension:
 
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
@@ -42,6 +57,9 @@ thumbnail: https://www.lifewire.com/thmb/gA7-VyiSqg3M1EESDmVd8UFEvls=/540x405/fi
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
  You can[turn on notification sounds for Outlook](https://www.lifewire.com/change-new-mail-notification-sound-outlook-1173674) email messages in the **FILE** \>**Options** \>**Mail**  menu, with the **Play a sound** option from the Message arrival section. To change the sound,[open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and search for "sound". Open the Sound [Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) and modify the **New Mail Notification** option from the Sounds tab.

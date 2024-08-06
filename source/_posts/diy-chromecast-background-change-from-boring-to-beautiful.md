@@ -1,7 +1,7 @@
 ---
 title: DIY Chromecast Background Change - From Boring to Beautiful!
-date: 2024-08-05 12:57:13
-updated: 2024-08-06 11:34:58
+date: 2024-08-05T01:59:12.308Z
+updated: 2024-08-06T01:59:12.308Z
 categories:
   - BestProducts
 description: This Article Describes DIY Chromecast Background Change - From Boring to Beautiful!
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/meyAIqP18KLUbB3-eIYF6OjGWa4=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Open the**Google Home app** \>**Chromecast** \>**Personalize Ambient** , and choose between**Google Photos** and**Art Gallery** .
@@ -45,6 +48,9 @@ Close
 2. Tap your**Chromecast** .
 3. Tap**Personalize Ambient** .
 4. Tap**Google Photos** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Chromecast > Personalize Ambient > Google Photos in app](https://www.lifewire.com/thmb/WGYadP41V_EpAPSuUDSlZKHV_A0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW34-8bb163c5ad6e44e3a7b8a3836b4487f6.jpg)  
  Want to customize a selection of Google-curated images?**Skip to step 11** instead of tapping Google Photos.
 5. To use a selection of your best photos, tap**Recent highlights** .  
@@ -60,17 +66,29 @@ Close
 12. Scroll through the options and tap the ones you want to remove.  
  Tapping a category will remove its blue check. Only images with blue checks will be displayed in Ambient Mode.
 13. When you’re satisfied with your selections, tap the**back arrow** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Art gallery, selected image, and back arrow in Chromecast app](https://www.lifewire.com/thmb/20q4xHx_KtSWHu5_7jXHcm-DUPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW1-77ab3ae446f440a89d7e79a2fd7d2a93.jpg)
 14. Ambient Mode will now display the images you want on your Chromecast background. If you want to adjust additional Ambient Mode settings, swipe up to scroll down.
 15. Tap**Hide** under Personal Photo Data to hide personal information in Ambient Mode. Tap**Live Albums Only** to use just your live albums. Tap a display time to change your slideshow speed.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hide personal data, Live albums only, and slideshow speed in Chromecast app](https://www.lifewire.com/thmb/EpMujR313_dPd0O6nLNQy3VVA-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW2-ca759fbff31b43f38bafc658da596862.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Do I Get Chromecast to Show My Pictures? 
 
  If you select the Recent Highlights or Family & Friends options using the process described above, Chromecast will show your pictures during Ambient Mode. However, there is no way to have it show specific pictures. You can adjust which pictures are displayed in a limited way by only allowing live albums in Ambient Mode settings in the Google Home app, but you can’t choose specific photos.
 
  If you want to display a specific picture, you need to[ cast photos to your Chromecast](https://www.lifewire.com/how-to-cast-google-photos-using-chromecast-5187994) from your phone or computer. You can accomplish this by opening an image in the Google Photos website on your computer or Google Photos app on your phone and clicking or tapping the cast icon. The selected photo will then appear on the TV or monitor your Chromecast is connected to.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Where Do Google Featured Photos Come From? 
 
  Google gets their featured photos used as Chromecast backgrounds and elsewhere from a variety of sources. When Google+ was still active, popular images posted to Google+ were commonly featured. Google also requests images from time to time. For example, they have asked photographers to post their pictures on social media using a specific[ X (formerly Twitter) hashtag](https://www.lifewire.com/what-is-a-hashtag-on-twitter-3486592) for photos taken with Pixel devices. Before Google features an image, they contact the photographer for permission.

@@ -1,7 +1,7 @@
 ---
 title: Stop Receiving AMBER Alerts on Your Android Device Today
-date: 2024-08-04 23:24:51
-updated: 2024-08-05 10:52:48
+date: 2024-08-05T01:59:40.666Z
+updated: 2024-08-06T01:59:40.666Z
 categories:
   - BestProducts
 description: This Article Describes Stop Receiving AMBER Alerts on Your Android Device Today
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
  This article explains how to turn off AMBER alerts on various versions of the Android operating system.  
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Turn Off AMBER Alerts on Most Androids
 
  The "emergency alerts" options is where you go on most Android devices to disable these alerts.
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 ![The AMBER alerts toggle in Android Settings](https://www.lifewire.com/thmb/VdMK8CpGgsIxaUCa5fK8SNeXq8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amber-alerts-android-4162530d8b1a4de19d5fbc3cef4f9614.png)  
  There's also a toggle for**Vibration** . Disable that if you don't want your phone to vibrate for AMBER alerts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Disable AMBER Alerts on Older Android Phones
 
  Where you'll find the AMBER alert settings on your phone depends entirely on your Android version, and some phone makers modify the operating system even more. Try these steps if the above directions don't work on your device:
@@ -43,14 +49,23 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 2. Tap**Connections** .
 3. Tap**More connection settings** .
 4. Tap**Wireless Emergency Alerts** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Screenshots showing the location of Wireless Emergency Alerts on Galaxy S9 and S10.](https://www.lifewire.com/thmb/xqb7ohcTiPKHSPNJuEdh2522tBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002a_Amber_Alert-c2813db398aa4354bfcabc28d9b5de0d.jpg)
 5. Tap the**Settings** menu (three dots) for**Wireless Emergency Alerts** .  
 ![The menu icon for Wireless Emergency Alerts on Samsung S9 and S10.](https://www.lifewire.com/thmb/J6I5ImobfQn9WnSdLZsPULHngqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003a_Amber_Alerts-2b888448aaa4450a9a7700362db7babd.jpg)
 6. From the options that appear, select**Settings** .
 7. Select**Alert types** .
 8. Tap the toggle next to any alert you want to disable.  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Where to disable Amber Alerts in Galaxy S9 and S10.](https://www.lifewire.com/thmb/0qhMlSLm0pnhBIA0drPY5D-janU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004a_Amber_Alerts-9751e7c6b8954b5cbc42552d050fcf92.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Directions for Other Android Phones
 
  The alert settings on some phones are in the Messaging window.
@@ -59,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 2. Select the**Menu** button in the upper-right corner, and choose**Settings** .
 3. Select**More** under**Advanced** .
 4. Tap**Emergency alerts** at the bottom of the list of options.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Screenshots show how to access Amber Alert notifications on older model Android devices.](https://www.lifewire.com/thmb/qYmF76CuNifnEDlOfbTc63wYs54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001a_Amber_Alert-f0470bccc55847a5b611f9246595afd6.jpg)
 5. Clear the checkbox next to**AMBER alerts** and anything else you're not interested in, like imminent extreme alerts and public safety alerts.
 

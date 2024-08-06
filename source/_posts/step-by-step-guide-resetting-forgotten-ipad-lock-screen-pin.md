@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resetting Forgotten iPad Lock Screen PIN"
-date: 2024-08-04 23:19:42
-updated: 2024-08-06 11:53:52
+date: 2024-08-05T01:59:21.535Z
+updated: 2024-08-06T01:59:21.535Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Resetting Forgotten iPad Lock Screen PIN"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 ---
 
 ## No More Distractions: A Step-By-Step Guide to Blocking Unwanted SMS on iPhone
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What To Know
 
 * To block text messages, tap the text > icon or number >**Info** \>**Block Caller** \>**Block Contact** .
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
  This article provides methods to stop unwanted texts on an iPhone. These instructions apply to the iPhone's built-in Messages app and not third-party tools.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Stop Unwanted Political Text Messages on an iPhone
 
  Once political groups or campaigns have your phone number, it's very hard to[stop unwanted political text messages](https://www.lifewire.com/how-to-stop-political-texts-4691829) . That's because organizations share supporters' numbers with each other (or even sell them). The best you can do is to opt out of these texts when you get them to take you off of a group or campaign list. However, this option won't stop others who have your number.
@@ -26,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
  Reply to the message with the suggested option—if there isn't one, Stop is the best thing to try—and you should be unsubscribed.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## How to Block Text Messages on iPhone
 
  No matter how many unwanted texts you're getting, we've got good news: it's easy to[block text messages on iPhone](https://www.lifewire.com/block-text-messages-every-phone-and-carrier-4172380) . Here's how to use the free, simple built-in feature:
@@ -33,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 1. In Messages, tap a text from the sender you want to block.
 2. Tap the sender's icon at the top.
 3. Select**Info** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
 5. In the confirmation pop up, tap**Block Contact** .  
@@ -54,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Stop Unwanted Group Texts on an iPhone
 
  If you're in a[group text](https://www.lifewire.com/text-multiple-people-using-iphone-2000555) that's just too chatty, you can silence notifications of messages or leave the group entirely by following these steps
@@ -67,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Block Texts With the Do Not Call Registry
 
  Another place to stop annoying communications to your phone is the National Do Not Call Registry. This government program attempts to enforce your preference to not get unwanted calls from marketers and other potential annoyances in the United States.

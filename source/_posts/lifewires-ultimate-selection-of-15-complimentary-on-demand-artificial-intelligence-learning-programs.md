@@ -1,7 +1,7 @@
 ---
 title: Lifewire’s Ultimate Selection of 15 Complimentary, On-Demand Artificial Intelligence Learning Programs
-date: 2024-08-03 10:29:33
-updated: 2024-08-06 12:10:56
+date: 2024-08-05T01:59:19.440Z
+updated: 2024-08-06T01:59:19.440Z
 categories:
   - BestProducts
 description: This Article Describes Lifewire’s Ultimate Selection of 15 Complimentary, On-Demand Artificial Intelligence Learning Programs
@@ -23,6 +23,9 @@ Close
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## [ Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) 
 
 ![Introduction to Generative AI Learning Path homepage](https://www.lifewire.com/thmb/dJve4yDxcw-UWWzP9Gi6tL7ZRC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Learning-Path-AI-83ec42d1c1454b2e85d2e36104c2f254.jpg) 
@@ -92,6 +95,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ AI for Everyone: Master the Basics](https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics) 
 
 ![IBM's AI Course on edX](https://www.lifewire.com/thmb/uooc44WrDB8dX8t2voyctEOjzBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IBM-Master-Basics-AI-b65ab798494544f69ec61a444630ebb0.jpg) 
@@ -117,6 +123,9 @@ of 15
 
 ## [ AI Chatbots without Programming](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![AI Chatbots without Programming course from IBM](https://www.lifewire.com/thmb/r0IhHWXg8ZSkSCO1vfv_CR8jYYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIChatbotswithoutProgramming-d7b03ca0c0e547da83e2cec9d662b759.jpg) 
 
  What We Like
@@ -138,6 +147,9 @@ of 15
 
 ## [ AI Ready Initiative](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses?tag=lifewire-onsite-prod-20&ascsubtag=8575868%7Cnf48ede0a4e0141ad80cc84b2294cc77115%7C) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Amazon's AI courses](https://www.lifewire.com/thmb/0FqNgfgmrnxaR1Phyf7V47hjeR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Courses-e5afbe12985c4fe5b8d739e9c02344e2.jpg) 
 
  What We Like
@@ -160,6 +172,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## [ AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) 
 
 ![AI for Everyone](https://www.lifewire.com/thmb/uXdCF2h3mYWdy3XvWHHXBJ3-PL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Everyone-a40263502d1444d2804ccb21deb0d032.jpg) 
@@ -186,6 +201,9 @@ of 15
 
 ## [ ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Prompt Engineering for Developers](https://www.lifewire.com/thmb/KLUhWSO4cL9fMo35fVLsesJZDCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChatGPT-Prompt-Engineering-00496292b31c4d80a2bb1fc350a7a296.jpg) 
 
  What We Like
@@ -205,8 +223,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## [ Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prompt Engineering for ChatGPT course from Vanderbilt University](https://www.lifewire.com/thmb/z5QMbLQA_EwxdkvRe07hUO2bMqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Prompt-Engineering-Vanderbilt-a229458f0d2244738281b5b40fd6ad36.jpg) 
 
  What We Like
@@ -228,8 +252,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## [ Data Science: Machine Learning](https://pll.harvard.edu/course/data-science-machine-learning/2023-10) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Data Science Course on HarvardX](https://www.lifewire.com/thmb/JPjYF-w_m3VTVTOOfauQ8cufIvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HarvardX-Data-Science-b2acd196a04f441c9251b84cc82536fa.jpg) 
 
  What We Like
@@ -249,6 +279,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) 
 
 ![Introduction to Artificial Intelligence with Python from Harvard](https://www.lifewire.com/thmb/WuzT3Q6Pq2kMEgvrauc2wNJ9QSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligencewithPython-8726503fd1224ddcae74c036178cd94e.jpg) 
@@ -293,6 +326,9 @@ of 15
 
 ## [ AI For Business Specialization](https://www.coursera.org/specializations/ai-for-business-wharton#courses) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![AI For Business Specialization from Penn University](https://www.lifewire.com/thmb/8bIek6HAlnBX4qgN4C0PCqV_Yw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Business-5f0f14f5ce7344c197fa4b79313eff64.jpg) 
 
  What We Like
@@ -313,6 +349,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/) 
 
 ![AI for Good from Deeplearning](https://www.lifewire.com/thmb/7jVB69zddjKCFVOuhIAbSTM5PeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Good-bac696068bf843ab8ddc5e66d112103c.jpg) 
@@ -334,6 +373,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Responsible AI: Applying AI Principles with Google Cloud](https://www.cloudskillsboost.google/course%5Ftemplates/388) 
 
 ![Responsible AI](https://www.lifewire.com/thmb/a9vc7kQgryt3ejJXOopCw09mSbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ResponsibleAI-c73e9beb6d2c44b0b0e1906ad4d8f43f.jpg) 

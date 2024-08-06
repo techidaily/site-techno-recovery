@@ -1,7 +1,7 @@
 ---
 title: The Student's Path to Affordable Music on Tidal - Insider Tips & Tricks
-date: 2024-08-02 12:55:24
-updated: 2024-08-05 10:32:39
+date: 2024-08-05T01:59:12.835Z
+updated: 2024-08-06T01:59:12.835Z
 categories:
   - BestProducts
 description: This Article Describes The Student's Path to Affordable Music on Tidal - Insider Tips & Tricks
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
 ---
 
 ## The Student's Path to Affordable Music on Tidal - Insider Tips & Tricks
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Go to Tidal and create an account. Select**Student** as the account type and enter payment information.
@@ -27,8 +30,14 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
 1. Visit the[Tidal login page](https://listen.tidal.com/login) and enter an email or social media account to start creating a profile.
 2. Once you've signed in, you can select which account type you'd like, including Individual, Family, or Student.
 3. Select**Student** , and complete the signup process by entering your payment information.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![A Tidal user selects the Student discount option](https://www.lifewire.com/thmb/PhTnJ0dyEQHv4DfZ0z4AtUdgThQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TidalExample2-735322765b994026bf5528ea5cbd1ff8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Verify You’re a Student
 
  Once you've signed up as a student, you'll need to upload documents to prove you're a student through SheerID. Your information remains private and isn't shared outside the verification process.
@@ -37,10 +46,16 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
 2. You then need to provide a document showing your first and last name and school name.  
  Example documents include: an enrollment letter, current class schedule, transcript, or a registration or tuition receipt. You may provide more than one document if necessary.
 3. Select**Choose File.** Then, navigate to and select the document you want to use to verify your student status.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![A Tidal user uploads documentation proving their status as a student](https://www.lifewire.com/thmb/XShjDCvMlHl4s0SA5rHzQzOkG3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TidalExample3-f3a7928bb2bd4bd2a43aa6c58f151bb7.jpg)
 4. Once you've attached the document, press**Next** , and a confirmation page appears stating an email will be sent when your verification is confirmed for the Tidal student discount.  
 You must reverify your student status every 12 months.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Understanding the Tidal for Students Fine Print
 
  While the SheerID says it won't rent or share your information and only uses it to verify details on behalf of Tidal, it also recommends you still cover sensitive information.
@@ -54,6 +69,9 @@ You must reverify your student status every 12 months.
 * School ID card with an expiration date
 * Official letters
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who Qualifies for a Tidal Student Discount?
 
  To get a student discount through Tidal, you must meet the following criteria:

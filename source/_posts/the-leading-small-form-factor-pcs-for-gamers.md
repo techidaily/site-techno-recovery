@@ -1,7 +1,7 @@
 ---
 title: The Leading Small Form Factor PCs for Gamers
-date: 2024-08-05 22:25:31
-updated: 2024-08-06 10:45:23
+date: 2024-08-05T01:59:17.389Z
+updated: 2024-08-06T01:59:17.389Z
 categories:
   - BestProducts
 description: This Article Describes The Leading Small Form Factor PCs for Gamers
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 
  This article explains how to watch all the_Superman_ movies in order of release and by series, along with some non-linear ways to watch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Note
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
@@ -28,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 
  The whole gang is there: ambitious Lois Lane who inexplicably can’t spell, Clark Kent’s gee-whiz disguise marked by oversized glasses and his hair parted on the opposite side, Jimmy Olsen’s trusty camera and enthusiasm, and the no-nonsense_Daily Planet_ editor Perry White.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Christopher Reeve as Superman in Superman: The Movie](https://www.lifewire.com/thmb/ZHL-RJQzh5JTDa7wGAkoe9HBn2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-watch-the-superman-movies-in-order-5089046-f2fb55ac5c7c456787e9e5f545bc3a8f.jpg)
 
  Keystone / Getty Images
@@ -52,6 +58,9 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 | _Justice League_ (2017)                     | Aquaman, Batman, Cyborg, the Flash, Superman, and Wonder Woman join up to save Earth from an alien invasion.                   | Max                |
 | _Zack Snyder's Justice League_ (2021)       | A four-hour version of the 2017 film by original director Zack Snyder. This one contains restored footage and reworked scenes. | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies By Era
 
  You could also break up your viewing with a couple of strategic groupings by series.
@@ -87,10 +96,16 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 | _Peacemaker_ (TV-2022)                      | Brad Abramenko plays Superman in a non-speaking role.                                                | Max                |
 | _The Flash_ (2023)                          | Cavill–along with several other former Superman actors–appears in a multiversal hub.                 | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Alternate Ways to View the 'Superman' Movies
 
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Compare Origin Stories
 
  Origin stories are a quintessential part of superhero anything. Watch the original_Superman: The Movie_ and_Man of Steel_ to see where the two meet and diverge. There’s a considerable time gap between the two, 1978 versus 2013, but all things considered, the special effects from 1978 still hold up in their own (often comical) way.
@@ -103,6 +118,9 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 
  As for the newer options, you have your pick between a few. You could opt for the stand-alone retelling in the mid-aughts or a_Man of Steel_ /_Batman v. Superman_ /_Justice League_ triple-feature.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is ‘Superman’ (2025)?
 
  The upcoming_Superman_ , directed by_The Suicide Squad_ writer-director James Gunn, is the start of the next franchise of DC movies: the DCU. It was formerly called_Superman: Legacy_ .

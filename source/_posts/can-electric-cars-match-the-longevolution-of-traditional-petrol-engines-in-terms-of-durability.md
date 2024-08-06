@@ -1,7 +1,7 @@
 ---
 title: Can Electric Cars Match the Longevolution of Traditional Petrol Engines in Terms of Durability?
-date: 2024-08-03 18:29:28
-updated: 2024-08-06 10:25:16
+date: 2024-08-05T01:59:16.431Z
+updated: 2024-08-06T01:59:16.431Z
 categories:
   - BestProducts
 description: This Article Describes Can Electric Cars Match the Longevolution of Traditional Petrol Engines in Terms of Durability?
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
 
  Just as gasoline and diesel engines were once new technology and poo-pooed by the horse-driven public, modern battery electric vehicles (EV) are facing similar criticisms. Will electric vehicles be on the road as long as gasoline cars and diesel vehicles? Absolutely, and automakers are already delivering.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Myth Busted: Neither EVs nor Gasoline Cars Are Infallible 
 
  Since the first automobile went from production to daily driver to a cube at the junkyard, car and truck lifespan has been increasing. Notwithstanding a few outliers, such as Irv Gordon’s 3.2-million-mile 1966 Volvo P1800S and Matt Farah’s million-mile 1996 Lexus LS400, the increasing life of the typical car is encouraging. In 1977, the average American car was just 5.5 years old. By 1995, it was 8.4 years, and in 2020, the average reached 11.9 years.
@@ -23,6 +26,9 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
 
  No vehicle is infallible but there are some things that tend to give EVs a better shot at a longer lifespan.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ##  EV Key Component Life Expectancy 
 
  When you’re trying to decide between buying an electric vehicle or a conventional vehicle, there are several shared components to take out of the lifespan comparison. Both types include the following similarities:
@@ -41,6 +47,9 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
 
 ### Motor 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Close Up Of Electric Motor In Engine Bay Of Electric Car](https://www.lifewire.com/thmb/ffwwoE4gDDdyP2WtPjkGPtd0ffQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVenginecloseup_mokeybusinessimages_iStock_GettyImagesPlus-44213dd675b54cf9851b2d793638aa74.jpg) 
 
  Close up of electric motor. 
@@ -49,6 +58,9 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  Electric motors typically have a single moving part, in comparison to several hundred parts in an engine. Electric motor maintenance is limited to coolant changes every 100,000 miles. Engines, in addition to coolant, require regular oil changes, air filters, and likely spark plugs in that time. Both motors and engines are proven to last upwards of 20 years.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Transmission 
 
 ![A closeup of a transmission repair with the No symbol superimposed over the top.](https://www.lifewire.com/thmb/WEaxfNxxCvlm47YNeJwcdvTKmUc=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Transmissiongearboxrepaircloseup_da-kuk_GettyWITHNOSYMBOL-3ad17d8a92ed46259e66ef5fc4ec32e4.jpg) 
@@ -59,6 +71,9 @@ da-kuk/Getty images
 
 ### Battery 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tesla S Model battery modules linked together to form a Tesla S Model battery.](https://www.lifewire.com/thmb/ZVUnfLFBdIKGsNU-rs1xb6oK5Fk=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/TeslaModelSindividualmoduleslinkedtogether-3ecbbc1b401845fd9fd98ec8eb261358.jpg) 
 
  Tesla S Model battery modules linked together to form a Tesla S Model battery. 
@@ -67,6 +82,9 @@ Tesla
 
  Lithium-ion battery packs_are_ expensive, but they last a long time. So far, the typical EV battery has been proven to last about 200,000 miles, nearly 20 years. Tesla is rumored to be developing an EV battery that will last 1,000,000 miles, much longer than the average vehicle, currently 11.9 years. Major EV makers report few battery replacements in the last decade.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Brakes 
 
  Brake services offer an interesting comparison. Because electric vehicles use regenerative braking to slow the vehicle, the hydraulic brake system isn’t used as much. While conventional vehicle brakes last 25,000 to 65,000 miles, depending on vehicle type and driver habits, hybrid and EV pads and rotors are known to last much longer. Some hybrid and EV owners report their brakes lasting over 100,000 miles.

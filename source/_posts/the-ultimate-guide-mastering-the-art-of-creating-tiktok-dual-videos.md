@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Mastering the Art of Creating TikTok Dual Videos"
-date: 2024-08-04 20:51:59
-updated: 2024-08-06 10:56:34
+date: 2024-08-05T01:59:24.685Z
+updated: 2024-08-06T01:59:24.685Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide: Mastering the Art of Creating TikTok Dual Videos"
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
  Follow these steps to collect the materials and craft an Awkward Potion in Minecraft.  
 
 1. Craft **Blaze Powder** with a**Blaze Rod** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Craft Blaze Powder with a Blaze Rod.](https://www.lifewire.com/thmb/qSMCUF6bbvZMVtIw7PWru7OxLnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-17cf8c053f0a43a7ad87853eab45ff92.jpg)
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
@@ -29,15 +35,33 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
 ![Place the Brewing Stand on the ground and interact with it to bring up the brewing menu.](https://www.lifewire.com/thmb/YfgJEhKKlkc-7vyOQvB0NpYmHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-76b8ca6ad2c04b3c95e6a7c15bb0f401.jpg)
 6. Add**1** **Blaze Powder** to the box in the upper-left corner of the brewing menu to activate the **Brewing Stand** .  
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Add 1 Blaze Powder to the box in the upper-left corner to activate the Brewing Stand.](https://www.lifewire.com/thmb/ePA5ABxVZJ_IXRMUbvCLECLQryw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-132e911c37704b818f71e52c2a4c2b6e.jpg)
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Awkward Potion Recipe  
 
  Here are the materials required to brew an Awkward Potion in Minecraft:  

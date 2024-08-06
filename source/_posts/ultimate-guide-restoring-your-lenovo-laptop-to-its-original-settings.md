@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Restoring Your Lenovo Laptop to Its Original Settings"
-date: 2024-08-04 13:35:24
-updated: 2024-08-06 10:50:34
+date: 2024-08-05T01:59:40.444Z
+updated: 2024-08-06T01:59:40.444Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Restoring Your Lenovo Laptop to Its Original Settings"
@@ -30,14 +30,26 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
  Different monitors can use different video connections. For example, you can connect two monitors with HDMI and then a third with DisplayPort.
 4. Connect the video cable for the first monitor to your PC and then to the monitor. Wait a moment for the PC to detect the monitor and display an image. If it's successful, repeat this for the second monitor and, finally, the third.
 5. Right-click on the Windows desktop and click**Display Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Right-click menu settings in Windows 11 with Display Settings highlighted](https://www.lifewire.com/thmb/MfaagGxQo95iNq8uX_dLvjVN9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DisplaySettingsannotated-56ca601f38694bd48a968d3dcb8baa44.jpg)
 6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
 7. Scroll back to the top of the**Display** menu. It will now show three rectangles, each labeled with a number. These rectangles show the position of each monitor on your Windows desktop. Change the diagram so that each rectangle's location is approximately the same as each monitor's physical location on your desk.  
  Verify the monitors are arranged as you want by opening a window and dragging it between monitors.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Multiple monitors being configured on Windows 10 Display settings](https://www.lifewire.com/thmb/yVjDg9fBA8hoBTzwZbVB_1qhIYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearrangedisplays-0e9cb668b33548caa615ae8d7c98f2c9.jpg)
 8. Close the**Display** menu.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can My Computer Support Three Monitors?
 
  A computer needs the proper hardware and software to support three monitors at once. Even one with enough physical video outputs might not support three monitors if the driver for its graphics hardware lacks support for so many displays.
@@ -64,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  There's no easy way to expand a PC's display output limitation with a splitter or adapter. The only option that genuinely extends a PC's display output is an external graphics card, one that bypasses the default graphics hardware. It's an expensive, niche option and only works with a small selection of PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Connecting 3 Monitors With a Daisy Chain
 
  Another option for connecting three monitors is a daisy chain. This option is supported by DisplayPort 1.2 and Thunderbolt 3 (or newer) and USB-C connections that include a DisplayPort mode. HDMI does not support daisy chains.
@@ -74,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  Your PC must support this feature. Most PCs sold in the last few years will, but older models often don't. Check the PC manufacturer's website or the company's website, which made your graphics card, to see if daisy chains are supported.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A person relaxing in front of 3 computer monitors.](https://www.lifewire.com/thmb/rNwm25Wi1gtnVKG6cT3WvYu1xsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215556128-c6efe0a4701f452e851a1ace021393a5.jpg)
 
 LanaStock / Getty Images

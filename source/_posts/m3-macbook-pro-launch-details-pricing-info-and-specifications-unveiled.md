@@ -1,7 +1,7 @@
 ---
 title: "M3 MacBook Pro Launch Details: Pricing Info & Specifications Unveiled"
-date: 2024-08-04 18:46:55
-updated: 2024-08-06 11:35:13
+date: 2024-08-05T01:59:09.423Z
+updated: 2024-08-06T01:59:09.423Z
 categories:
   - BestProducts
 description: "This Article Describes M3 MacBook Pro Launch Details: Pricing Info & Specifications Unveiled"
@@ -21,18 +21,30 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
  The rumor mill missed the mark on the latest MacBooks Pro. Here's what they are and how you can get them.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## M3 MacBook Pro Release Date
 
  The MacBook Pro with M3, M3 Pro, and M3 Max were announced on October 30, 2023\. The M3 and M3 Pro models were made available to order on October 30, 2023 with a release date of November 7, while the M3 Max was scheduled to be available in November 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## M3 MacBook Pro Prices
 
  The 14" M3 MacBook Pro starts at $1599 (a $400 price cut), and the 16" MacBook Pro starts at $2499\. The price goes up depending on which version of M3 you use, along with storage and RAM options, each of which will add at least $200 to the price.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Order Information
 
  Only 2 of the 3 models were made available to order on October 30\. The M3 Max shipped in late November. You can[order directly from Apple](https://www.apple.com/shop/buy-mac/macbook-pro) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## M3 MacBook Pro Features and Specs
 
  There are three levels of MacBook Pro systems in two sizes: 14- and 16-inch. There are three processors available (although the 16" only offers the two higher-end systems): M3, M3 Pro, and M3 Max.
@@ -49,10 +61,16 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
  Apple also showed off a new color for MacBooks: Space Black. This option isn't nearly as colorful or exciting as the options for iMacs, but it is new. It's also only available for the M3 Pro and M3 Max models.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![M3 MacBook Pro specs](https://www.lifewire.com/thmb/ugCpmMlO_coX0GaCQwwxNbKik5Q=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/M3-MacBook-Pro-specs-accad0f2631e470ca8738e9163ec1989.jpg)
 
 Apple Inc
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About the M3 MacBook Pro
 
  You can find[more computer and laptop news here at Lifewire](https://www.lifewire.com/computer-laptop-tablet-news-4797030) . Here are some stories about the upcoming MacBook Pro.

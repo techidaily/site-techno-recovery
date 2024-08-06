@@ -1,7 +1,7 @@
 ---
 title: "Before You Decide: 5 Must-Know Tips When Selecting Refurbished Computers"
-date: 2024-08-05 12:53:22
-updated: 2024-08-06 10:43:15
+date: 2024-08-05T01:59:33.961Z
+updated: 2024-08-06T01:59:33.961Z
 categories:
   - BestProducts
 description: "This Article Describes Before You Decide: 5 Must-Know Tips When Selecting Refurbished Computers"
@@ -31,6 +31,9 @@ Close
 
  The main question people ask is "Are refurbished laptops good?" The answer is, "It's complicated." However, there are a few key items to think about as you explore this type of purchase.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Top 5 Things to Consider When Buying a Refurbished Laptop 
 
  The source is the most important thing to consider when buying a refurbished laptop because not all restoration processes are equal. You can buy refurbished laptops from many different sources, so it’s crucial to find out who refurbished the laptop and what they did.
@@ -43,6 +46,9 @@ Close
 * What condition should a refurbished laptop have?
 * How old should a refurbished laptop be?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ##  Are Refurbished Laptops Just Used Laptops? 
 
  Refurbished and used laptops aren’t the same, but some refurbished laptops have been used before. In other cases, someone might have removed a computer from its box for some reason, at which point a seller can sell it as refurbished but not as new. Laptops purchased, opened, and returned to the store are prime candidates for refurbishment.
@@ -57,6 +63,9 @@ Close
 
 [  The 6 Best Places to Buy a Laptop in 2024 ](https://www.lifewire.com/best-places-to-buy-a-laptop-4164557) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ##  What Warranty Should a Refurbished Laptop Have? 
 
  Warranty periods vary from one refurbisher to the next, and some laptops don’t come with any warranty at all. New laptops usually come with a one-year warranty, and that’s what you should look for in a refurbished model. Even though refurbished laptops aren’t technically new, they’re sold as "like new," so the refurbisher should be willing to stand behind the product as if it were.
@@ -65,6 +74,10 @@ Close
 
  If you buy a refurbished laptop with a shorter warranty period, make sure to inspect and test it thoroughly as soon as you get it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  What Condition Should a Refurbished Laptop Have? 
 
  The condition of a refurbished laptop will depend on whether someone previously owned it and, if so, how much the old owner used it. The best refurbishing processes will return a used laptop to a like-new condition, but there may be some cosmetic issues like unrepairable scratches or dents. The refurbished laptop should be clean and as free from physical blemishes as possible.
@@ -85,6 +98,9 @@ Close
 
 [ How Long Do Laptops Last? ](https://www.lifewire.com/how-long-do-laptops-last-8550246) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Who Should Buy a Refurbished Laptop? 
 
  Refurbished laptops can save you a lot of money and provide excellent performance compared to the sticker price, so they represent a good option for many people.
@@ -103,6 +119,9 @@ Close
 * [ Scan for viruses and malware](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) , even if it looks like someone reset the laptop. You don’t want to get stuck with issues that the previous owner left behind.
 * Check the operation of the laptop. Make sure it boots up and runs all your apps or games, listen to see if the fan comes on, and verify that components like the[ optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) and webcam work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  More Tips for Buying a Refurbished Laptop 
 
  Buying a refurbished laptop can save you a lot of money, but you have to vet the seller carefully. Anyone can say they refurbished a computer, but that doesn’t mean it was. It’s good to stick with factory-refurbished laptops, programs from established retailers, and refurbishing companies willing to provide references and detailed information on what they do.

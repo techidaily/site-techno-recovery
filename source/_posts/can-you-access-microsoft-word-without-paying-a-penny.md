@@ -1,7 +1,7 @@
 ---
 title: Can You Access Microsoft Word Without Paying a Penny?
-date: 2024-08-05 20:31:51
-updated: 2024-08-06 12:52:24
+date: 2024-08-05T01:59:37.365Z
+updated: 2024-08-06T01:59:37.365Z
 categories:
   - BestProducts
 description: This Article Describes Can You Access Microsoft Word Without Paying a Penny?
@@ -19,15 +19,24 @@ thumbnail: https://www.lifewire.com/thmb/4LAWGdRhL5KUSVQ6A2SremFrAQ0=/400x300/fi
 1. Go to the[Microsoft Student and Military Discounts site](https://www.microsoft.com/en-us/store/r/student-discounts) , log in with your Microsoft account, and click**Shop Now** .  
 ![A screenshot of the Microsoft Student and Military Discounts site.](https://www.lifewire.com/thmb/X2vwXV9ttV8LhYs5flrq2E9F4I4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-get-a-microsoft-store-student-discount-c8d2274843014bbb90c744cecc473495.jpg)
 2. The site tells you you're eligible for special pricing. Select**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Who Is Eligible for Microsoft's Student Discount?
 
  The Microsoft student discount is available to a wide range of people, including students, faculty, and even parents. Here are the general requirements:
@@ -36,8 +45,14 @@ thumbnail: https://www.lifewire.com/thmb/4LAWGdRhL5KUSVQ6A2SremFrAQ0=/400x300/fi
 * Parent of a K-12 student or college student.
 * Enrolled at a four-year university, two-year college, or a vocational school.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -49,6 +64,9 @@ Certain items are specifically excluded, including:
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.

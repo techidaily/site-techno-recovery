@@ -1,7 +1,7 @@
 ---
 title: "Mastering File System Checks: A Guide to Using ChkDsk on Windows"
-date: 2024-08-04 12:54:26
-updated: 2024-08-06 10:28:25
+date: 2024-08-05T01:59:16.308Z
+updated: 2024-08-06T01:59:16.308Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering File System Checks: A Guide to Using ChkDsk on Windows"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
 ---
 
 ## Mastering the Art of Friendly Battles: A Guide to Teaming Up with Your Pokémon Pal in 'Go'
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Tap your trainer profile and select**Buddy History** to add or swap your_Pokémon Go_ buddy.
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
@@ -33,11 +39,17 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 1. From the main map screen, tap your current buddy Pokémon’s icon in the lower-left corner.  
  Alternatively, select your buddy Pokémon directly from your trainer profile screen if you already have that open.
 2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
  While having your favorite Pokémon appear alongside you on your trainer profile and walk on the map can be cool, there are several more practical benefits to having a buddy Pokémon.
@@ -64,8 +76,14 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.

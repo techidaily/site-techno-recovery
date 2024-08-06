@@ -1,7 +1,7 @@
 ---
 title: "Inside Scoop: What to Expect From the New Google Pixel Timepiece – Price, Launch Date & Specs"
-date: 2024-08-03 16:14:35
-updated: 2024-08-06 10:46:38
+date: 2024-08-05T01:59:27.322Z
+updated: 2024-08-06T01:59:27.322Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Scoop: What to Expect From the New Google Pixel Timepiece – Price, Launch Date & Specs"
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 
  Following two other Pixel-branded smartwatches, Google seems prepared to give their wearable an annual update. Nothing is official yet, but there's a good chance the Pixel Watch 3 will arrive in late 2024 and come in two sizes instead of just one. A bigger size could mean a bigger screen and longer battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When Will the Pixel Watch 3 Be Released?
 
  Based on how Google released the first two Pixel watches, we can expect the Pixel Watch 3 release date to coincide with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) launch. It will likely be revealed at[the next Made by Google event](https://www.lifewire.com/google-event-5205756) on August 13.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 
 Look for an official Pixel Watch 3 announcement on August 13.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Google Pixel Watch 3 Price Rumors
 
  The first two Pixel Watches started at $349.99\. This is likely how Google will price its next smartwatch. And, of course, you can expect to pay around $50 more for LTE.
@@ -42,12 +48,18 @@ Look for an official Pixel Watch 3 announcement on August 13.
 * **Pixel Watch 3 XL (45 mm)** : $379.99
 * **Pixel Watch 3 XL (45 mm / LTE)** : $429.99
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  You'll be able to pre-order the Pixel Watch 3 from the[Google Store](https://store.google.com/category/watches) . We'll drop the link here when pre-ordering starts.
 
 [The Best-Looking Smartwatches](https://www.lifewire.com/best-looking-smart-watches-3441410)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Google Pixel Watch 3 Specs & Features
 
  The battery life in the[Pixel Watch 2](https://www.lifewire.com/google-pixel-watch-2-7498464) received a bump over the first edition. This update was much needed, but it can still be improved. For example,[Samsung's Galaxy Watch 6](https://www.lifewire.com/samsung-galaxy-watch-6-news-and-rumors-7371704) lasts around 30 hours with Always-on Display enabled, while Google claims the Pixel Watch 2 can sustain 24 hours of use.
@@ -64,6 +76,9 @@ Look for an official Pixel Watch 3 announcement on August 13.
 
  According to a patent filing called[Gesture Recognition on Watch Bezel Using Strain Gauges](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11775167) , Google could even do away with all buttons on their smartwatch. If this technology makes its way into the Pixel Watch 3, you might be able to trigger specific actions or open apps using a gesture, like a tap, swipe, or squeeze on the side of the watch. The patent supports this not only for user-friendly reasons but also for aesthetic purposes and to make waterproofing easier.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An illustration of a finger touching the edge of a smartwatch from US Patent 11775167](https://www.lifewire.com/thmb/-Lv4nrmDdZKHX1WluU4VTS0ae7A=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-watch-patent-11775167-86bd6ece12bb4c90b0534dc5223df168.png)
 
 Google
@@ -76,6 +91,9 @@ Google
 
  We'll know more about the Pixel Watch 3 hardware as images leak (hopefully) and reports surface closer to the August event. There's also Wear OS 5 to watch on the software front.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About the Pixel Watch 3
 
  You can [get the latest smart and connected news on Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Below are the latest stories about Google and smartwatches.

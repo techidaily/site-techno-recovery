@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Resilience Against Liquids: How Durable Is the New iPhone 15?"
-date: 2024-08-04 11:40:35
-updated: 2024-08-06 11:54:29
+date: 2024-08-05T01:59:23.237Z
+updated: 2024-08-06T01:59:23.237Z
 categories:
   - BestProducts
 description: "This Article Describes Assessing the Resilience Against Liquids: How Durable Is the New iPhone 15?"
@@ -22,12 +22,18 @@ In This Article
 
  One idea floating around is Apple combining an iPhone and an iPad to make a double-wide phone, or maybe the iPhone Flip will fold like the iconic Motorola Razr. These are just rumors for now, and some experts think Apple might release a foldable iPad before a flip phone. Whatever the case, the talk about a foldable Apple gadget is picking up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Summary
 
 * **Release date** : 2026
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -40,6 +46,9 @@ In This Article
 
  There are various designs in those documents, and some of them are wildly different from the others (including a way to fold the device multiple ways). The plans could mean that they're referring to something different, like an e-reader or tablet, but they hint at what we could expect with this iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
 Patent US8929085B2.
@@ -54,6 +63,9 @@ Patent US8929085B2.
 
 We don’t expect a foldable iPhone until at least 2026.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Foldable iPhone Price Rumors
 
  It won’t be cheap. Phones are increasingly approaching or even exceeding $1,000\. Just look at the[iPhone 15 Pro Max](https://www.lifewire.com/iphone-15-5202683) which starts at just over a grand.
@@ -70,10 +82,16 @@ iPhone Fold concept.
 
 Michal Dufka
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Selecting the Perfect Mobile Case
-date: 2024-08-04 17:42:24
-updated: 2024-08-05 10:26:37
+date: 2024-08-05T01:59:16.750Z
+updated: 2024-08-06T01:59:16.750Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Selecting the Perfect Mobile Case
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 
  Lifewire / Maritsa Patrinos​
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Skype Is Not Working
 
  There could be a microphone problem or an issue with your audio settings, so you can't hear the other person, or they can't hear you. Or maybe you can't log in to Skype because you've forgotten your password. Still, another reason could be that your external speakers or microphone are no longer working, and you need to get new[hardware](https://www.lifewire.com/computer-hardware-2625895) . Maybe Skype won't connect because the service itself is having issues.
@@ -24,6 +27,10 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -32,6 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -58,6 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
@@ -71,6 +84,9 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Using Skype for Mobile Devices
 
  If you're using Skype on a tablet or phone, then your speakers and microphone are built-in to your device and can't be manually adjusted. However, there are still proper permissions that Skype requires in order to use your microphone, and if it doesn't have them, it won't let anyone hear what you say through it.
@@ -133,18 +149,27 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 10: Check the System Sound
 
  If you[can't hear audio anywhere else](https://www.lifewire.com/fix-no-sound-from-computer-speakers-5219903) , like from websites or system sounds, and the speakers are plugged in (if they're external), and the sound card drivers are updated, then see if the[operating system](https://www.lifewire.com/operating-systems-2625912) is blocking the sound.

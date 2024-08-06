@@ -1,7 +1,7 @@
 ---
 title: Step-By-Step Fixes for A Nonresponsive Microsoft Edge Browser
-date: 2024-08-04 10:15:55
-updated: 2024-08-05 12:35:54
+date: 2024-08-05T01:59:27.659Z
+updated: 2024-08-06T01:59:27.659Z
 categories:
   - BestProducts
 description: This Article Describes Step-By-Step Fixes for A Nonresponsive Microsoft Edge Browser
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 ---
 
 ## Effortless Techniques for Inserting Text-Based Programming Into Microsoft Word
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Go to**Insert** \>**Object** \>**Microsoft Word Document** \>**OK** to prepare a new document.
@@ -32,16 +35,28 @@ These instructions only work with a single page of code.
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -52,6 +67,9 @@ These instructions only work with a single page of code.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.

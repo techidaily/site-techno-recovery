@@ -1,7 +1,7 @@
 ---
 title: "Maintain a Wakeful MacBook: Techniques for Disabling Auto-Sleep with Closed Lid"
-date: 2024-08-03 21:54:18
-updated: 2024-08-06 11:41:59
+date: 2024-08-05T01:59:35.612Z
+updated: 2024-08-06T01:59:35.612Z
 categories:
   - BestProducts
 description: "This Article Describes Maintain a Wakeful MacBook: Techniques for Disabling Auto-Sleep with Closed Lid"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 ---
 
 ## Effortless Techniques for Inserting Text-Based Programming Into Microsoft Word
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Go to**Insert** \>**Object** \>**Microsoft Word Document** \>**OK** to prepare a new document.
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## How to Insert Code in Word With an Embedded Document
 
  While there isn't an 'insert code' option or a dedicated code block in Word, there is a way to insert one document into another. This effectively creates an isolated section that houses all the code. Here's how to make this work with your code:
@@ -25,10 +31,16 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 These instructions only work with a single page of code.
 
 1. Open the document you want the code to appear in, and select**Insert** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Word document with the Insert field highlighted](https://www.lifewire.com/thmb/hhaKemMmX0vrIo89Vh-8tqrp0Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-insert-source-code-into-word-document-3994582-1a2d127c226f4846bf9bec7d9a281fc5.jpg)
 2. In the**Text** group, select**Object** .  
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
@@ -37,6 +49,9 @@ These instructions only work with a single page of code.
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
@@ -52,6 +67,10 @@ These instructions only work with a single page of code.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.

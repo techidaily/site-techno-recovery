@@ -1,7 +1,7 @@
 ---
 title: "Insider Info on Upcoming Apple Household Automaton: Cost Estimates, Release Timeline & Technical Specs Revealed"
-date: 2024-08-03 23:14:18
-updated: 2024-08-05 10:10:58
+date: 2024-08-05T01:59:21.483Z
+updated: 2024-08-06T01:59:21.483Z
 categories:
   - BestProducts
 description: "This Article Describes Insider Info on Upcoming Apple Household Automaton: Cost Estimates, Release Timeline & Technical Specs Revealed"
@@ -21,6 +21,10 @@ In This Article
 
  A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## When Will the Google TV Streamer Be Released?
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
@@ -29,16 +33,25 @@ In This Article
 
 August 13 is our best guess.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
 
 [The Best Streaming Devices of 2024](https://www.lifewire.com/best-streaming-devices-8682806)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 9to5Google
@@ -55,10 +68,17 @@ August 13 is our best guess.
 
  The device doesn't look that much bigger than the remote, so we're not sure what, if anything, is different about the internal hardware.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
 9to5Google
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.

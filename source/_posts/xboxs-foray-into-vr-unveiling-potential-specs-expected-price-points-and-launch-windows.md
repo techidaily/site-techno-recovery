@@ -1,7 +1,7 @@
 ---
 title: "Xbox's Foray Into VR: Unveiling Potential Specs, Expected Price Points, and Launch Windows"
-date: 2024-08-02 17:22:45
-updated: 2024-08-05 11:54:55
+date: 2024-08-05T01:59:25.889Z
+updated: 2024-08-06T01:59:25.889Z
 categories:
   - BestProducts
 description: "This Article Describes Xbox's Foray Into VR: Unveiling Potential Specs, Expected Price Points, and Launch Windows"
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
  The Xbox VR Headset is in the works. It's the first confirmed third-party headset built on Meta's open-source Meta Horizon OS, now open to and in use by other tech companies—including Asus, Lenovo, and ROG. Beyond a[ confirmation from Meta](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/) about a "limited-edition Meta Quest, inspired by Xbox," details are slim. But here's what we know and speculate about this first-ever VR Headset for Xbox.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  When Will the Xbox VR Headset Be Released? 
 
  The Xbox VR Headset release date hasn’t been announced yet, but judging by the announcements of the Meta Quest 2, Meta Quest Pro, and Meta Quest 3, we think it’s safe to expect an October release of the VR Headset for Xbox.
@@ -36,10 +39,16 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
  An early October 2024 Xbox VR Headset release date is a fair bet based on past Meta Quest releases.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Xbox VR Headset Price Rumors 
 
  Pricing information isn’t yet circulating, but we’ll make sure it lands here as soon as there’s more chatter or official word.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  No pre-order details for the Xbox VR Headset are available at this point, though we know it’s billed as a limited-edition model. As soon as we learn more, we’ll update this story with details.
@@ -50,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
  Here are a few clues about the look and functionality based on Meta’s Horizon OS announcement.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Built with Meta Horizon OS label.](https://www.lifewire.com/thmb/8RsIhPXACIuKmLBSxjTJJGIZO_s=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/meta-horizon-os-announcement-1fea7d89b3e04280872bbe45b2a1afa6.png) 
 
 Meta
@@ -68,12 +80,18 @@ Meta
 * 3D spatial audio
 * [ Mixed reality](https://www.meta.com/blog/quest/mixed-reality-definition-passthrough-scene-understanding-spatial-anchors/) with RGB cameras.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%273000%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) ![Patent sketches for a Microsoft mixed-reality headset](https://www.lifewire.com/thmb/5-feBQK2PypVrm-2Vb0Dnc5tXUU=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Patent-Sketches-Microsoft-Headset-1fce31ef622f4dda9d9b741cf8446fa3.jpg) 
 
  PHOTO:
 
 Microsoft / USPTO
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Latest News About the Xbox VR Headset 
 
  While we wait for concrete Xbox VR Headset product and release details, catch up on more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) . Here are a few stories of interest about Xbox, Microsoft, and Meta.

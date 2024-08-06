@@ -1,7 +1,7 @@
 ---
 title: "PS5 Storage Expansion: Installing an SSD Without the Hassle – Detailed Steps Here"
-date: 2024-08-03 20:15:24
-updated: 2024-08-05 11:13:14
+date: 2024-08-05T01:59:23.560Z
+updated: 2024-08-06T01:59:23.560Z
 categories:
   - BestProducts
 description: "This Article Describes PS5 Storage Expansion: Installing an SSD Without the Hassle – Detailed Steps Here"
@@ -21,6 +21,9 @@ Close
 
  This article explains how to pick a compatible SSD to add storage to your PlayStation 5 console, as well as how to install it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  How to Upgrade the Storage in Your PS5 
 
  You will have to do just a little bit of work before installing your new PS5 SSD, but it’s all fairly simple stuff.  
@@ -40,15 +43,24 @@ Rob Rich/Lifewire
 
  The next steps will depend on whether you have a launch version or the newer Slim model of the PS5.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  How to Install a New SSD in a PS5 Launch Console 
 
  With your PS5 console, clean surface, and screwdriver ready, it’s time to get to work.  
 
 1. Remove the base by removing the single screw, and then set the base aside.  
  Place the PS5 in front of you with the front of the console (with the power button and controller port) facing you. You’ll also want the bottom of the console facing up (i.e., the PlayStation logo should be facing down).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![upside down PS5 console next to removed base](https://www.lifewire.com/thmb/7v8OaPPQBNWtSSdZecjNDIaU1rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps502-3d42b8c405ad4a74acaac480cea2d4eb.JPG)  
 Rob Rich/Lifewire
 2. Get your fingers under the top-left corner of the PS5’s cover, gently pull up, and then slide it to the right to unseat it.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PS5 with partially removed bottom cover piece](https://www.lifewire.com/thmb/DhqL5OfgaoSmxq7eThzy1X3-19Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps503-766f512399dc43f5b7a4dd6273ccc877.JPG)  
 Rob Rich/Lifewire
 3. Slowly slide the cover piece off to remove it entirely.
@@ -56,15 +68,24 @@ Rob Rich/Lifewire
 ![A launch-edition PS5 with the expansion slot highlighted](https://www.lifewire.com/thmb/kTNrs6Qh5WU9sU3JA63Mi2BGCCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PS5-Launch-expansion-slot-41533e8c65cf4aa587b0fc842768777d.jpg)  
 Rob Rich/Lifewire
 5. Loosen and remove the expansion slot’s screw (with the PlayStation symbols on it), and then pull the slot cover slightly to your left and lift it off.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![loosening the expansion slot screw with a screwdriver](https://www.lifewire.com/thmb/eTNdCWWtJHn56YjA5UC1hR6Rlu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps505-d246755f5b6547d4ba422b407f951d1f.JPG)  
 Rob Rich/Lifewire
 6. Remove the smaller expansion slot screw along with the metal spacer ring beneath it.  
 ![removing the inner expansion slot screw and spacer ring](https://www.lifewire.com/thmb/mRwa0xJ5BN7B3-1NkHie60j5nQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps507-1645fa76ec43488d905feb813d5e9fc0.JPG)  
 Rob Rich/Lifewire
 7. Line the spacer ring up with the expansion slow screw hole that matches the size of your SSD. You may want to hold the SSD up to the expansion slot to double-check the fit.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A PS5 expansion slot with the screw holes highlighted](https://www.lifewire.com/thmb/qJH9B_a4hchB75RdEwVg3LdYTW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Expansion-holes-PS5-5be6cc58831940a8a05056e89039ce95.jpg)  
 Rob Rich/Lifewire
 8. Line up the SSD connectors with the expansion connectors in the expansion slot and push it into place, leveling out the SSD as you go. Make sure to push the SSD firmly into place and that the end lines up with the spacer ring.  
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SSD and expansion slot connectors](https://www.lifewire.com/thmb/0w1M04ccBDN-Xk_w1Lv9mFj5a24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps510-7a3311ec863e4940af9a022cf026942b.JPG)  
 Rob Rich/Lifewire
 9. Screw the small expansion slot screw back into place, lining it up with the end of the SSD and the spacer ring.  
@@ -100,6 +121,9 @@ Sony Interactive Entertainment LLC
 9. Reattach the PS5 cover by first lining up the hooks towards the back side with their correct openings. Lower the cover piece over the PS5 and push it back into place along the front of the console until it clicks.
 10. Now, you can reconnect the console’s support legs, plug everything back in, and turn it on. Follow any prompts to format the new SSD, and then go to**System** \>**Storage** to ensure the console recognizes it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Which SSDs Are Compatible With the PS5? 
 
  Before you order a new SSD for your PS5—let alone open up the console—you’ll want to make sure the drive is compatible. You can find comprehensive lists all over the internet from reputable sources like[ IGN](https://www.ign.com/articles/best-ps5-ssd) , but there are some things to keep in mind if you decide to set out on your own:
@@ -112,6 +136,9 @@ Sony Interactive Entertainment LLC
 
  I recommend the[ Corsair MP600 PRO LPX](https://www.amazon.com/gp/product/B09Q2NCFS7/?tag=lifewire-onsite-prod-20&ascsubtag=8662653%7Cnc2c7794697264495acf0ee6dc4e7a99804%7C) , which as of writing, has thus far been performing admirably for close to a year after initial installation.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Troubleshooting Tips 
 
  There’s a small chance that following all the directions, hooking the PS5 back up, and turning it back on results in the new SSD not being recognized. If this happens, don’t panic: It’s more likely due to a loose connection than any busted or incompatible hardware.  

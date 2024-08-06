@@ -1,7 +1,7 @@
 ---
 title: "Exploring ESPN+'s Features: How the Online Sports Streaming Services Function"
-date: 2024-08-04 15:31:16
-updated: 2024-08-05 12:14:26
+date: 2024-08-05T01:59:29.988Z
+updated: 2024-08-06T01:59:29.988Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring ESPN+'s Features: How the Online Sports Streaming Services Function"
@@ -37,20 +37,38 @@ Close
 
  While ESPN+ won't fulfill all your sporting needs, with no NFL or NBA games, it's an excellent add-on to your sporting media options.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Sign up for ESPN+ 
 
  Here's a look at the ESPN+ signup process.
 
 1. [ Open the ESPN+ website](https://plus.espn.com/) and select**Subscribe to ESPN+ only** , or choose**Get the Disney Bundle** if you also want Hulu and Disney+.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ESPN+ home page](https://www.lifewire.com/thmb/mqEdef0g0lscaZnQuEllwYL60Lw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espn-plus-subscribe-ba32457216e0451a97a52825cc326903.png)
 2. To start the new account creation process, enter an email address into the form and press**Continue** .  
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A box to enter your email address to create a new ESPN account](https://www.lifewire.com/thmb/QvhEZemzltzk92OO4i83GXMCDgE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espn-new-account-email-63c85fb39c4a478cb09738529a5845c2.png)  
  If you already have a Disney or ESPN account, sign in with those credentials. If you chose the Disney Bundle option in the previous step, you'll be taken to the Disney+ website to complete the signup process.
 3. Enter your name and create a password, then press**Agree & Continue** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ESPN Plus Create An Account form for your name and password](https://www.lifewire.com/thmb/zWU6fHI61Tr1b5cxj-NG8ak9M-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espn-create-account-8a381f6f9ce24bf7a2c771412765e7e2.png)
 4. ESPN sent a code to your email to confirm your identity; it should come from Disney Account Member Services. Enter that code into the space provided on the website, then press**Continue** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ESPN Check Your Email form](https://www.lifewire.com/thmb/blFEC4x8-ppt_7hi-nzvErPy2rk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espn-check-email-e3f7e4af84bb4e38ab0479b5251ec8ef.png)
 5. Pick a plan and choose a payment method (credit card or PayPal). Press**Agree & Subscribe** when you're finished.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The checkout page for ESPN+](https://www.lifewire.com/thmb/UxgIJFSdREz4TgEUGtpssp93Sro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espn-plus-billing-048a74fabd4a46a9ba02b804a1ff3bb4.png)
 6. Your ESPN+ account is now active. Start watching immediately on the main ESPN website, or download the appropriate app for your phone or streaming device.
 

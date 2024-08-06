@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: How to Connect to Shared Drives From Your Mac"
-date: 2024-08-05 15:11:19
-updated: 2024-08-06 12:11:41
+date: 2024-08-05T01:59:40.686Z
+updated: 2024-08-06T01:59:40.686Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Instructions: How to Connect to Shared Drives From Your Mac"
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
  Reply to the message with the suggested option—if there isn't one, Stop is the best thing to try—and you should be unsubscribed.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Block Text Messages on iPhone
 
  No matter how many unwanted texts you're getting, we've got good news: it's easy to[block text messages on iPhone](https://www.lifewire.com/block-text-messages-every-phone-and-carrier-4172380) . Here's how to use the free, simple built-in feature:
@@ -36,10 +39,16 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
 5. In the confirmation pop up, tap**Block Contact** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
 
  For various reasons, you may not want to delete every text from an unknown number or person. For instance, you can miss order and appointment confirmation texts if you do. In that case, your iPhone can automatically file texts from unknown senders into a separate folder so you can review them when you have time without them cluttering up your main inbox.
@@ -52,8 +61,14 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## How to Stop Unwanted Group Texts on an iPhone
 
  If you're in a[group text](https://www.lifewire.com/text-multiple-people-using-iphone-2000555) that's just too chatty, you can silence notifications of messages or leave the group entirely by following these steps
@@ -67,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Block Texts With the Do Not Call Registry
 
  Another place to stop annoying communications to your phone is the National Do Not Call Registry. This government program attempts to enforce your preference to not get unwanted calls from marketers and other potential annoyances in the United States.

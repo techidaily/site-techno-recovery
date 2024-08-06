@@ -1,7 +1,7 @@
 ---
 title: 5 Crucial Tasks to Complete When Starting with Your New Desktop
-date: 2024-08-03 19:35:16
-updated: 2024-08-05 10:51:28
+date: 2024-08-05T01:59:26.954Z
+updated: 2024-08-06T01:59:26.954Z
 categories:
   - BestProducts
 description: This Article Describes 5 Crucial Tasks to Complete When Starting with Your New Desktop
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/CJuRFUULMpsAMdQ0MGkN3YcXDW8=/400x300/fi
 ---
 
 ## Unlocking the Secrets of Pages Files on Desktop Systems - Open with Confidence
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Upload the Pages file to iCloud.com to view and edit it in your browser, or to download it as a Word or PDF file.
@@ -26,8 +29,14 @@ thumbnail: https://www.lifewire.com/thmb/CJuRFUULMpsAMdQ0MGkN3YcXDW8=/400x300/fi
 2. Select **Pages** from the grid of apps.  
 ![iCloud app grid with Pages highlighted](https://www.lifewire.com/thmb/qJ3Ww8oOktjDOgvGuKv0JelG3tA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pages-7110cf31e48e4bae9133fccabacab664.jpg)
 3. In the Recents or Browse section, select**Upload** at the top.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iCloud upload icon highlighted](https://www.lifewire.com/thmb/FKbGkNO78-UtNwlsIf_DhD_xRos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Upload-30fe94962408447da1e03b18aa74203d.jpg)
 4. Browse for and select the**Pages** file, then choose**Open** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![File browsing window with the Pages file and "Open" highlighted](https://www.lifewire.com/thmb/Fss9CIM1vsp6Gqm9iTRleQGm-I0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pagesfileopen-3814642addc445e8a86a694d3a6b2d9f.jpg)
 5. You’ll see the Pages file in the Browse section. Double-click to open, view, and edit the document online.  
 ![Pages file in iCloud highlighted](https://www.lifewire.com/thmb/6cvAbibnpx257jk0CGVCJ3y2ClI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pagesfile-baf901f85a414454b78cff5aa9e15571.jpg)
@@ -43,8 +52,14 @@ thumbnail: https://www.lifewire.com/thmb/CJuRFUULMpsAMdQ0MGkN3YcXDW8=/400x300/fi
 
 1. Open CloudConvert's[Pages to Word](https://cloudconvert.com/pages-to-doc) or[Pages to PDF](https://cloudconvert.com/pages-to-pdf) page.
 2. Select the arrow next to**Select File** and choose **From my Computer** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Pages to Word converter with Select File and From my Computer highlighted](https://www.lifewire.com/thmb/j-3RhxSJl5DNKzbdajcjGSe2IuU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SelectFilefrommycomputer-abb8a9e962584bd5acd71153a4172b5c.jpg)
 3. Browse for and select the Pages file, then select**Open** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![File list with Pages file and Open highlighted](https://www.lifewire.com/thmb/bvKyYAehe8Sc1Dfho6IYbeiRlMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PagesfileOpen2-62b4a45a63e94fc493fea3568b4ee115.jpg)
 4. Confirm that the right format is chosen (**DOC** ,**DOCX** , or**PDF** ). Then select**Convert** .  
 ![Pages to Word Converter with the Pages document and Convert highlighted](https://www.lifewire.com/thmb/zqvETFwmB94hW0UeoIp114f9rig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/convert-ea985d99bb8344a2a09eda548a9946de.jpg)
@@ -52,15 +67,24 @@ thumbnail: https://www.lifewire.com/thmb/CJuRFUULMpsAMdQ0MGkN3YcXDW8=/400x300/fi
 ![Pages to word converter process with Download highlighted](https://www.lifewire.com/thmb/V9UjdETNc8ZjjVmSBcGdksYxHUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DownloadPagesfile-0017cc7494334bf788c62b0300e4af86.jpg)
 6. Follow the subsequent prompt to download the file to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Convert and Send a Pages File Using an iPhone or iPad
 
  If you have an iPhone or iPad, you can quickly convert the Pages document to a Word or PDF file and then send it to your Windows computer.
 
 1. Open the Pages file on your iPhone or iPad. For example, in the Apple Mail or Gmail app, tap the file in the email to view it.
 2. Tap the **Share** button on the top right and select **Pages** in the second row of your share sheet.  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![iOS Pages app with Share and Pages highlighted](https://www.lifewire.com/thmb/cuA92Rec-OnHVaUvCQM2bPg9QVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharetopages-792778085e1c4d22a586fbccdd307b05.jpg)
 3. Tap the**Share** button in Pages, followed by**Export and Send** . Choose a format from the list, like**PDF** or**Word** .  
  If you don't see that on your device, tap the**ellipsis** (three dots) instead, then choose**Export** and pick **PDF** or **Word** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![iOS Pages app with More (three dots), Export, and PDF/Word highlighted](https://www.lifewire.com/thmb/C598CaqMqyVM3NXjacp3EbLTJtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ExporttoPDF-a5114792ff0141ef9c39d731d0d7a633.jpg)
 4. Your share sheet should open automatically, but if it doesn't tap **Export** or**Share** .
 5. Choose the best option to[send or share the file with your Windows computer](https://www.lifewire.com/access-iphone-files-on-pc-5180132) . For instance, you can send it via Mail, Gmail, Slack, or another method to easily obtain it on your PC.  

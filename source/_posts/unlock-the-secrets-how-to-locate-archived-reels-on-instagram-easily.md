@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets: How to Locate Archived Reels on Instagram Easily"
-date: 2024-08-05 15:34:55
-updated: 2024-08-06 12:14:39
+date: 2024-08-05T01:59:29.971Z
+updated: 2024-08-06T01:59:29.971Z
 categories:
   - BestProducts
 description: "This Article Describes Unlock the Secrets: How to Locate Archived Reels on Instagram Easily"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/b3d61cb315de3688d633dcaa1de969d34c57d2ef4
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * To find saved reals, open your profile and go to**menu** \>**Saved** \>**All Posts** \>**Reels** .
@@ -20,17 +23,26 @@ Close
 
  This article will show you how to see the reels you have saved and liked on Instagram.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to See Saved Reels 
 
  Everyone can[ create and share Instagram reels](https://www.lifewire.com/create-share-and-watch-instagram-reels-5075347) . Here's where to find your collection of saved reels in the app:
 
 1. Tap your**profile** from the tabs at the bottom of the app.
 2. Select the**menu** at the top, then choose**Saved** to go to the screen with your saved collections.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Instagram with profile, menu, and Save highlighted](https://www.lifewire.com/thmb/yQEYtXTInCIqOe3csW9FWPvIng8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Saved-d879b8d2fee44ba5a0431b4dd05dfedc.jpg)
 3. Open the**All Posts** album.
 4. Select the clapperboard icon.  
 ![Instagram with All Posts, thumbnail, and reel icon highlighted](https://www.lifewire.com/thmb/5L9VaOlvYPxifnrJgcP6s_JRnsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Allposts-77fa855bc1094b4689ee3a8c7b2e7d61.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to See Liked Reels 
 
  Instagram bunches all your likes in one view, so there is no clear filter to separate your photos, reels, and videos. But you can use these steps to narrow down your liked reels:
@@ -38,10 +50,16 @@ Close
 1. Tap the**profile** icon at the bottom of the app.
 2. Select the**menu** at the top right.
 3. Tap**Your activity** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Instagram with profile, menu, and Your Activity highlighted](https://www.lifewire.com/thmb/Zf3LLgW9iX6vNnW_e9LEFtvISko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YourActivity-340e15bbecb34b00acc78cc37ef210e4.jpg)
 4. Choose**Likes** from the**Interactions** section.  
 ![Instagram Activity with Interactions, Likes, and reels highlighted](https://www.lifewire.com/thmb/ALoHlh23szTpJ2h6OxsGkmAcT9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Interactions-d0c085c7e11f4ae7bd53ceec00871091.jpg)
 5. Tap any thumbnail, or choose**All content types** to filter out posts or reels.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reels and Videos on Instagram](https://www.lifewire.com/thmb/00siQqtXUVRm0e2YBvqTFFeed38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Reells-Stories-Instagram-c543e73f0b714f1191a822259532239b.jpg)  
  You can use the Likes page to unlike a specific reel, video, or photo. Choose**Select** \>**Unlike** to process them in batches.
 

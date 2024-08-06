@@ -1,7 +1,7 @@
 ---
 title: "Refresh Your Phone Today: A Step-by-Step Walkthrough to Clear Cache on Android"
-date: 2024-08-04 13:18:53
-updated: 2024-08-06 10:54:57
+date: 2024-08-05T01:59:15.437Z
+updated: 2024-08-06T01:59:15.437Z
 categories:
   - BestProducts
 description: "This Article Describes Refresh Your Phone Today: A Step-by-Step Walkthrough to Clear Cache on Android"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 ---
 
 ## Add a Splash of Personality to Your Mac: Learn to Change Folder Colors Today
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * First,**copy** folder >**Preview app** \> go to**File** \>**New from Clipboard** \>**Markup tool** icon.
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 * **Copy a different image using the Preview app** : This method copies a photo or icon using the Preview app, so it can change the color of a folder icon, replace it with an image, or even replace it with a custom icon.
 * **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change Folder Color on Mac Using Preview
 
  Using the Preview app, you can customize the color of any folder. This is a multi-step process that's complicated enough that you will probably have to refer to this guide the first couple times you do it, but it isn't difficult.
@@ -35,12 +41,21 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 1. **Right-click** or**control-click** on the folder you want to customize.  
 ![A screenshot of the macOS desktop.](https://www.lifewire.com/thmb/5aajzf5Id9EX9_Zuji1fQu77zIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2020-06-25at6.02.02PM-0c7b8bc9a4144830a62b6e87c786aeba.png)
 2. Select**Get Info** from the context menu.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of a folder context menu.](https://www.lifewire.com/thmb/GEn2Q5Tf1SHsQ9NN3z3au9B37ek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-ChangeFolderColoronMac-annotated-3385fa419f404cbe941ce346ca4fff72.jpg)
 3. Click the**folder icon** in the upper left of the folder info window so that it is highlighted.  
 ![A screenshot of the folder info box on macOS.](https://www.lifewire.com/thmb/3dEqd1G-bbtDdiGsMpSUPtPn-sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ChangeFolderColoronMac-annotated-bf971c3eafea41448cee2071f8520c6e.jpg)
 4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
 5. Locate and open the**Preview** app.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
 6. With Preview open, click**File** in the menu bar.  
 ![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
@@ -49,14 +64,25 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 8. Select the**Markup tool** (looks like the tip of a pencil).  
 ![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
 9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
  Want more options? You can paste the folder icon into any image-editing software you have.
 11. Select the colored folder, and press**Command+C** to copy it.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
 12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
 13. Click the folder in the Folder Info box, and press**Command+V** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
 

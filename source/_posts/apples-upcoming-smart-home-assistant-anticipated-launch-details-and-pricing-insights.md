@@ -1,7 +1,7 @@
 ---
 title: "Apple's Upcoming Smart Home Assistant: Anticipated Launch Details & Pricing Insights"
-date: 2024-08-03 17:13:17
-updated: 2024-08-05 10:21:14
+date: 2024-08-05T01:59:12.942Z
+updated: 2024-08-06T01:59:12.942Z
 categories:
   - BestProducts
 description: "This Article Describes Apple's Upcoming Smart Home Assistant: Anticipated Launch Details & Pricing Insights"
@@ -21,16 +21,25 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
@@ -54,6 +63,9 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -62,12 +74,18 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:

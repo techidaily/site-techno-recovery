@@ -1,7 +1,7 @@
 ---
 title: "Revisit Retro Cinema: The Top 10 Must-Watch '80S Movie Classics Today"
-date: 2024-08-03 16:46:48
-updated: 2024-08-05 10:17:57
+date: 2024-08-05T01:59:36.599Z
+updated: 2024-08-06T01:59:36.599Z
 categories:
   - BestProducts
 description: "This Article Describes Revisit Retro Cinema: The Top 10 Must-Watch '80S Movie Classics Today"
@@ -18,8 +18,14 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [YouTube](https://www.youtube.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An assortment of music video options on YouTube](https://www.lifewire.com/thmb/3bhGbwLwmjKlKh7kDqChD-JsO6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-music-videos-863929526ffd48ff9c25e21a37229ab2.png)
 
  What We Like
@@ -47,8 +53,15 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Reddit](https://www.reddit.com/r/MusicVideos/?rdt=55145)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Top music videos on Reddit](https://www.lifewire.com/thmb/C4HfKDj1W-ekxIDQVWifY5fol7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-top-music-videos-c87a02d5df534537ba1f898399aedda4.png)
 
  What We Like
@@ -77,6 +90,9 @@ of 06
 
 ## [Vimeo](https://vimeo.com/categories/music/musicvideos/videos)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Vimeo music videos](https://www.lifewire.com/thmb/-xOhDF4ZZ2CQAkDJXP1sijNRR0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vimeo-music-videos-1fa20fdc0d894cf8bd11c11b11a2020c.png)
 
  What We Like
@@ -165,6 +181,9 @@ of 06
 
 ## [Yahoo Music](https://www.yahoo.com/entertainment/music/)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Yahoo Music videos](https://www.lifewire.com/thmb/ma_fqy8doArQrzcSqeVcQyKeM0w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-music-2cf5aba7e3884ed9a9ca648b3d5b250e.png)
 
  What We Like

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Drawing Lines on Microsoft Word"
-date: 2024-08-04 22:17:33
-updated: 2024-08-06 10:53:58
+date: 2024-08-05T01:59:12.591Z
+updated: 2024-08-06T01:59:12.591Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Drawing Lines on Microsoft Word"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 
  This article provides methods to stop unwanted texts on an iPhone. These instructions apply to the iPhone's built-in Messages app and not third-party tools.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## How to Stop Unwanted Political Text Messages on an iPhone
 
  Once political groups or campaigns have your phone number, it's very hard to[stop unwanted political text messages](https://www.lifewire.com/how-to-stop-political-texts-4691829) . That's because organizations share supporters' numbers with each other (or even sell them). The best you can do is to opt out of these texts when you get them to take you off of a group or campaign list. However, this option won't stop others who have your number.
@@ -26,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 
  Reply to the message with the suggested option—if there isn't one, Stop is the best thing to try—and you should be unsubscribed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Block Text Messages on iPhone
 
  No matter how many unwanted texts you're getting, we've got good news: it's easy to[block text messages on iPhone](https://www.lifewire.com/block-text-messages-every-phone-and-carrier-4172380) . Here's how to use the free, simple built-in feature:
@@ -33,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 1. In Messages, tap a text from the sender you want to block.
 2. Tap the sender's icon at the top.
 3. Select**Info** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
 5. In the confirmation pop up, tap**Block Contact** .  
@@ -40,6 +49,15 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
 
  For various reasons, you may not want to delete every text from an unknown number or person. For instance, you can miss order and appointment confirmation texts if you do. In that case, your iPhone can automatically file texts from unknown senders into a separate folder so you can review them when you have time without them cluttering up your main inbox.
@@ -52,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 ## How to Stop Unwanted Group Texts on an iPhone
@@ -67,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Block Texts With the Do Not Call Registry
 
  Another place to stop annoying communications to your phone is the National Do Not Call Registry. This government program attempts to enforce your preference to not get unwanted calls from marketers and other potential annoyances in the United States.

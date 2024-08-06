@@ -1,7 +1,7 @@
 ---
 title: Explore Our Curated List of LGBT-Themed Films Streaming Now on Netflix for July 2E24
-date: 2024-08-03 10:31:35
-updated: 2024-08-05 11:35:26
+date: 2024-08-05T01:59:21.829Z
+updated: 2024-08-06T01:59:21.829Z
 categories:
   - BestProducts
 description: This Article Describes Explore Our Curated List of LGBT-Themed Films Streaming Now on Netflix for July 2E24
@@ -21,6 +21,9 @@ Close
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Nyad (2023): For Fans of Never Giving Up on a Lifelong Impossible Dream](https://www.imdb.com/title/tt5302918/?ref%5F=nv%5Fsr%5Fsrsg%5F0%5Ftt%5F4%5Fnm%5F4%5Fq%5Fnyad) 
 
 ![Dyana Nyad lying in a hospital bed with a cut face.](https://www.lifewire.com/thmb/i9XMP0vvl-MreMYFxJPdnsbNcDE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nyadscreencapture-8c0beaa3b0224571b964fcf4a3cab826.jpg) 
@@ -47,8 +50,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## [ The Invisible Thread (2022): A Tale of Two Fathers](https://www.imdb.com/title/tt14540892/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Marco Simon Puccioni, Luca De Bei, Gianluca Bernardini in Invisible Thread 2022](https://www.lifewire.com/thmb/1Oe8m1rU9-srw_87-rOFKNbagRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-march-2022-5069913-17dc116b41b040abb3595ea61c19699e.jpg) 
 
 **IMDb Rating** : 6.8/10
@@ -101,6 +110,9 @@ _Stay on Board_ follows professional skateboarder Leo Baker as he prepares for t
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Bruised (2020): Most Inspiring Redemption Story About Family and Cage Fighting](https://www.imdb.com/title/tt8310474/) 
 
 ![Halle Berry in Bruised](https://www.lifewire.com/thmb/Ld0dwnjfA3BreVo9a6sOD3vun8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-january-2022-cec6f4f8743944048693231b4d8f4a55.jpg) 
@@ -131,6 +143,9 @@ of 15
 
 ## [ Pray Away (2021): Most Heart-Wrenching Exposé on Conversion Therapy](https://www.imdb.com/title/tt11224358/) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rainbow colored stained glass window promoting Pray Away 2021 film](https://www.lifewire.com/thmb/5si0q5LmVCObpZ4mE0UWkSTn8p4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-ae23fe5d412c4381b1cbacdcaa37333a.jpg) 
 
 Netflix
@@ -185,6 +200,9 @@ Netflix
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Fanfic (2023): An Unconventional Coming Out Story](https://www.imdb.com/title/tt27612422/) 
 
 ![Alin Szewczyk in Fanfic](https://www.lifewire.com/thmb/aH-Rk1QsCLC_NYUvL4vwTmuoQUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-july-2023-5069913-b04870a3a482455599d60bd335bb18f5.jpg) 
@@ -215,6 +233,9 @@ of 15
 
 ## [ Cobalt Blue (2022): A Love Triangle Turned into a Family Feud](https://www.imdb.com/title/tt15314640/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The cast of Cobalt Blue 2022](https://www.lifewire.com/thmb/nNQeoVF_PpfG3WSMnv8RkRf7E5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-may-2022-5069913-0e071839d6a24c4e8f457a53195742c6.jpg) 
 
 Netflix
@@ -241,6 +262,9 @@ Netflix
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Marry My Dead Body (2023): A Tale About Literally Being Haunted by Homophobia](https://www.imdb.com/title/tt22742964/) 
 
 ![The cast of Marry My Dead Body](https://www.lifewire.com/thmb/Mlj7-wuWMYSjXuojihpuDf1p4NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MarryMyDeadBodyNetflix-bb17da0de7464f9eb3cc4abe422f15ad.jpg) 
@@ -295,8 +319,14 @@ Netflix
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Eldorado: Everything the Nazis Hate (2023) - A Documentary About LGBT Persecution in WWII Germany](https://www.imdb.com/title/tt27906298/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Eldorado: Everything the Nazis Hate](https://www.lifewire.com/thmb/uFvdxEXqQjJwD7DBm6iOVoVq9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-august-2023-5069913-8891654589fb407699c5bdac16e865d9.jpg) 
 
 Netflix
@@ -323,6 +353,9 @@ Netflix
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## [ Dancing Queens (2021): A Gender-Bending Side Hussle](https://www.imdb.com/title/tt13032716/) 
 
 ![The cast of Dancing Queens on Netflix](https://www.lifewire.com/thmb/vrH9qhpgR135LDBb-sQ-8auu0SE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-7589c1a062994bf9b719af7cae64370a.jpg) 
@@ -351,6 +384,10 @@ _Dancing Queens_ is a clever story about subverting gender norms. Some viewers t
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## [ Dance of the 41 (2020): For Fans of History and Fancy Dresses](https://www.imdb.com/title/tt11525022/) 
 
 ![Alfonso Herrera and Emiliano Zurita in Dance of the 41](https://www.lifewire.com/thmb/lc34xpMWUPwr35ugd-vwDn3YpCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-october-2021-5069913-55ecc68b92a84a5082972963443331b2.jpg) 
@@ -381,6 +418,9 @@ of 15
 
 ## [ Rustin (2023): A Tribute to the Real-Life Heroism of a Civil Rights Activist](https://www.imdb.com/title/tt14160834/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Colman Domingo as Rustin in the movie Rustin](https://www.lifewire.com/thmb/7ltyttwzv2q5TBWjrNAu88wZbVk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014_best-lgbt-movies-on-netflix-right-now-5069913-213ed350ac2f4888b890ed8d237bd98c.jpg) 
 
 Netflix
@@ -411,6 +451,9 @@ of 15
 
 ## [ Valley of a Thousand Hills (2023): An Untraditional Coming Out Story](https://www.imdb.com/title/tt21437200/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Sibongokuhle Nkosi and Mandisa Vilakazi in Valley of a Thousand Hills](https://www.lifewire.com/thmb/R5Iy4Iz-Ld0zSnXIlHc_2aSRdpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-january-2023-5069913-24d31d0c3f294310b88e1ab92a7af9fd.jpg) 
 
 **IMDb Rating** : 6.6/10

@@ -1,7 +1,7 @@
 ---
 title: Reset Your PC's Motherboard Memory - A Comprehensive CMOS Clearing Tutorial
-date: 2024-08-05 12:36:31
-updated: 2024-08-06 11:27:42
+date: 2024-08-05T01:59:39.453Z
+updated: 2024-08-06T01:59:39.453Z
 categories:
   - BestProducts
 description: This Article Describes Reset Your PC's Motherboard Memory - A Comprehensive CMOS Clearing Tutorial
@@ -12,10 +12,25 @@ thumbnail: https://www.lifewire.com/thmb/sDEj0vlACkV7Q2sde-7yZLLGpzg=/400x300/fi
 ## Choosing the Right Motherboard? Here Are 7 Key Criteria
 0:38
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Choose a Motherboard: 7 Factors to Consider
 
  This article explains how to choose a motherboard, including finding the correct motherboard for your[computer case](https://www.lifewire.com/what-is-a-computer-case-2618149) and[central processing unit (CPU)](https://www.lifewire.com/what-is-a-cpu-2618150) , and other things to consider.  
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 7 Things to Consider When Choosing a Motherboard
 
  When buying a new motherboard as a replacement or as the backbone of a new PC you're building, there are some key factors to keep in mind.
@@ -42,6 +57,9 @@ thumbnail: https://www.lifewire.com/thmb/sDEj0vlACkV7Q2sde-7yZLLGpzg=/400x300/fi
 
 [Motherboard Chipset: What It Is and What to Look For](https://www.lifewire.com/what-is-a-chipset-on-a-motherboard-5185658)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What CPU Should a Motherboard Have?
 
  A CPU is a critical PC element that interprets and executes your hardware and software commands. If you're replacing or upgrading a motherboard, you can choose one that works with your existing CPU. But if you're buying a new CPU or building a PC, you'll also need a processor.
@@ -88,6 +106,9 @@ Narumon Bowonkitwanchai/Getty Images
 
  The form factor of the motherboard doesn't affect the type of CPU you need to use. If the motherboard has the correct socket, you can use the same CPU with an ATX, Micro-ATX, or Mini-ITX motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Expansion Ports Should a Motherboard Have?
 
  After the CPU socket and form factor, the next most important factor is how many expansion ports, usually[PCIe ports](https://www.lifewire.com/pci-express-pcie-2625962) , the motherboard has and how many you think you'll need.
@@ -102,16 +123,31 @@ Narumon Bowonkitwanchai/Getty Images
 
  Consider which ports you’re most likely to need, and select a motherboard that fits your requirements so you won’t have to add an expansion card or USB hub immediately.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How Much RAM Does a Motherboard Need?
 
  It’s also important to look at how many[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) slots the motherboard has and how much total RAM it supports to meet your memory needs. This factor isn’t crucial if your computer only needs to stream media, surf the web, and play basic games. Still, having the option to install more RAM is vital if you do any video or photo editing or play resource-intensive games.  
 
 [How to Check RAM and Motherboard Compatibility](https://www.lifewire.com/check-ram-and-motherboard-compatibility-5186297)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Who Should Buy a Motherboard?
 
  You'll need to purchase a motherboard if you're building a new PC. You may need to replace the motherboard when upgrading or fixing your current PC. If you're buying a new motherboard as a replacement or building a PC, ensure you have the knowledge and instructions on how to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## What Should I Do After Buying a Motherboard?
 
  After buying a motherboard, you must install it on your current PC or the PC you're building. Before you begin, be sure to have your motherboard and PC manuals. Consult an experienced tech for help or outsource the task if you're not an expert.

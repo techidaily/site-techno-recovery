@@ -1,7 +1,7 @@
 ---
 title: "Continuous Workflow with MacBook: Techniques to Stop Sleep Mode Triggered by Closing the Cover"
-date: 2024-08-03 13:52:41
-updated: 2024-08-05 11:21:10
+date: 2024-08-05T01:59:33.205Z
+updated: 2024-08-06T01:59:33.205Z
 categories:
   - BestProducts
 description: "This Article Describes Continuous Workflow with MacBook: Techniques to Stop Sleep Mode Triggered by Closing the Cover"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 ---
 
 ## Continuous Workflow with MacBook: Techniques to Stop Sleep Mode Triggered by Closing the Cover
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * **System Settings** \>**Lock Screen** \>**Turn display off on power adapter when inactive** \>**Never** .
@@ -18,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
  This article explains how to prevent your MacBook from sleeping when the lid is closed.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## How to Keep Your MacBook On When Closed
 
  You'll need to change a few settings to stop your MacBook from going to sleep with the lid closed.  
@@ -27,8 +34,14 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
 ![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
  In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
 ![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
@@ -38,12 +51,18 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
  If you want to use your MacBook in this configuration permanently, you can use the Mac sleep scheduler to have it sleep and night and wake up in the morning automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Why Does My MacBook Sleep When I Close the Lid?
 
  Your MacBook sleeps when you close the lid for several reasons, depending on whether it's plugged in. When plugged in, it sleeps to help conserve energy and allow it to charge more quickly, as it uses much less power while asleep. When running on battery power, it sleeps when you close the lid to conserve battery power. Since you typically don't need to use your MacBook when the lid is closed, the default setting is for the display to turn off and the MacBook to sleep whenever the lid is closed.
 
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
 
  Apple only provides you with one way to keep your MacBook from sleeping with the lid closed: tweak the[energy-saver settings](https://www.lifewire.com/use-energy-saver-preferences-pane-2260733) , connect the battery charger, and plug in an external monitor.

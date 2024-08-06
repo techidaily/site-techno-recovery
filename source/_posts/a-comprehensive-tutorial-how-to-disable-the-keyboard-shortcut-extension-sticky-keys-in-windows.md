@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Tutorial: How to Disable the Keyboard Shortcut Extension, Sticky Keys in Windows"
-date: 2024-08-02 15:14:52
-updated: 2024-08-05 10:30:49
+date: 2024-08-05T01:59:33.130Z
+updated: 2024-08-06T01:59:33.130Z
 categories:
   - BestProducts
 description: "This Article Describes A Comprehensive Tutorial: How to Disable the Keyboard Shortcut Extension, Sticky Keys in Windows"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9 Ways to Fix the Problem
 
  A number of issues could be causing the keyboard to stop typing. Here are some solutions we've seen work:  
@@ -38,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -49,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
 Bryan Natanael / Unsplash

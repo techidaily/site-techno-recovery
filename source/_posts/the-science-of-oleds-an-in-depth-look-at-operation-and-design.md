@@ -1,7 +1,7 @@
 ---
 title: "The Science of OLEDs: An In-Depth Look at Operation and Design"
-date: 2024-08-04 13:19:43
-updated: 2024-08-06 10:40:31
+date: 2024-08-05T01:59:34.169Z
+updated: 2024-08-06T01:59:34.169Z
 categories:
   - BestProducts
 description: "This Article Describes The Science of OLEDs: An In-Depth Look at Operation and Design"
@@ -12,6 +12,9 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 ## The Science of OLEDs: An In-Depth Look at Operation and Design
  Acronyms aren't always easy to understand, especially in the world of home electronics. This article explains a light source used in a variety of electronic screens.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is OLED?
 
  OLED, an advanced form of[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) , stands for _organic light-emitting diode_ . Unlike LED, which uses a backlight to provide light to[pixels](https://www.lifewire.com/what-is-a-pixel-1846929) , OLED is defined as relying on an organic material made of hydrocarbon chains to emit light when in contact with electricity.
@@ -20,12 +23,18 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 
  This is the main reason more and more devices use OLED screens, including smartphones, wearables, TVs, tablets,[monitors](https://www.lifewire.com/what-is-a-monitor-2618155) , and digital cameras. Among those devices and others are two kinds of OLED displays that are controlled in different ways, called_active-matrix_ (AMOLED) and_passive-matrix_ (PMOLED).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## How OLED Works
 
  An OLED screen includes a number of components. Within the structure, called the_substrate_ , is a cathode that provides electrons, an anode that "pulls" the electrons, and a middle portion (the organic layer) that separates them.
 
  Inside the middle layer are two additional layers, one responsible for producing the light and the other for catching the light.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Photo of a smartphone taking a photo of strawberries](https://www.lifewire.com/thmb/PqVU54yGcABkraCEnq6HLdNQ0A0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg)
 
  pbombaert / Getty Images
@@ -34,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 
  This method to create black is very different than the one used with LED. When a to-be black pixel is set to black on an LED screen, the pixel shutter is closed but the backlight is still emitting light, meaning it never quite goes all the way dark.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## OLED Pros
 
  When compared to LED and other display technologies, OLED offers these benefits:
@@ -45,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 * Supports a wide viewing angle without as much color loss as LED.
 * The absence of any excess layers allows for curved and bendable displays.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## OLED Cons
 
  However, there are also disadvantages to OLED displays:
@@ -53,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 * OLED screens are expensive to make, at least compared to older technology.
 * Both OLED and LED displays experience screen burn-in if particular pixels are used for too long over a long period of time, but the effect is greater on OLEDs. However, this effect is in part determined by the number of [pixels per inch](https://www.lifewire.com/how-many-pixels-in-an-inch-4125185) .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## More Information on OLED
 
  Not all OLED screens are the same; some devices use a specific kind of OLED panel because they have a specific use.

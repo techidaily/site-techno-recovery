@@ -1,7 +1,7 @@
 ---
 title: All You Need to Know About PSVR 2 - Pricing, Launch Date, and Detailed Tech Specs Covered
-date: 2024-08-03 12:33:29
-updated: 2024-08-05 12:12:14
+date: 2024-08-05T01:59:15.563Z
+updated: 2024-08-06T01:59:15.563Z
 categories:
   - BestProducts
 description: This Article Describes All You Need to Know About PSVR 2 - Pricing, Launch Date, and Detailed Tech Specs Covered
@@ -19,12 +19,18 @@ Close
 
 Sony Interactive Entertainment
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## PSVR 2 Release Date 
 
  The PSVR 2 launched on February 22, 2023.
 
  You can[ order PlayStation VR2](https://direct.playstation.com/en-us/consoles/console/playstationvr2.1000033579) through PlayStation’s website.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PSVR 2 Price 
 
  The PlayStation VR2 starts at $549.99\. This includes the headset, PSVR 2 Sense controller, stereo headphones, and USB cable.
@@ -49,6 +55,9 @@ Sony Interactive Entertainment
 * Cinematic Mode to let the PSVR 2 display whatever is running on the PS5 via a 1920x1080 HDR virtual screen with 120Hz refresh rate. The other mode is VR Mode, which is a 360-degree view via a 4000x2040 HDR virtual environment with 90Hz/120Hz refresh rate
 * Set up your space and view your surroundings while wearing the headset via the See-Through View feature. This is possible through the headset's function key, or Quick Settings
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## PSVR 2 Specs and Hardware 
 
  These are the official specs from Sony:
@@ -69,6 +78,10 @@ Sony Interactive Entertainment
 
  Attaching the headset, and sizing it appropriately for you, is really easy through a knob on the back. The PSVR 2 headset supports IPD (interpupillary distance) adjustment so you can fine-tune it to your face specifically. But what makes this really helpful is you don't need to know your IPD to get the headset set up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Sony PS VR2 headset and controllers](https://www.lifewire.com/thmb/YQOZPsDJRvkR6H16-bJbeNPwiEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psvr2-headset-controllers-260b6a7a01394b4eb22225694cfa4632.jpg) 
 
 Sony
@@ -83,6 +96,9 @@ Sony
 
 [ Sony revealed the PS5 VR controller](https://blog.playstation.com/2021/03/18/next-gen-vr-on-ps5-the-new-controller/) in 2021\. The orb-like design looks ergonomic and will, according to Sony, allow developers more freedom to create unique gameplay experiences. The controllers have exciting new features like adaptive triggers, haptic feedback, and finger touch detection for smoother and more realistic gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Hands in the PSVR 2 controllers](https://www.lifewire.com/thmb/10YFeOcuuE8u308PEiKqtTNmyyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/psvr-controllers-216b1d9a6fd1492ebdcbfc8a1b40e847.png) 
 
 Sony
@@ -96,6 +112,9 @@ Sony
 | **Communication:**                     | Bluetooth 5.1                                                                                                                                                                                                                                |
 | **Battery:**                           | Built-in Lithium-ion rechargeable battery​                                                                                                                                                                                                   |
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Confirmed PSVR 2 Games 
 
 [ Over 40 titles launched the same day as the PSVR 2 release](https://blog.playstation.com/2023/02/21/10-new-ps-vr2-titles-revealed-launch-window-lineup-now-over-40-games/) , with others arriving shortly after or at some time in the future. There are currently[ over 100 games in development](https://www.lifewire.com/psvr-2-games-list-7509088) .

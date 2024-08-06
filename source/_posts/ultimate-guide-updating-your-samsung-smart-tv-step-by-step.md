@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Updating Your Samsung Smart TV Step-by-Step"
-date: 2024-08-03 18:52:46
-updated: 2024-08-06 11:40:56
+date: 2024-08-05T01:59:18.712Z
+updated: 2024-08-06T01:59:18.712Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Updating Your Samsung Smart TV Step-by-Step"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 ---
 
 ## Ultimate Guide: Updating Your Samsung Smart TV Step-by-Step
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Automatic: Go to**Settings** \>**Support** \>**Software Update** \>**Auto Update** .
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
 1. Go to**Settings** \>**Support** \>**Software Update** .
 2. Select**Update Now** . If an update is available, the download and installation process will be initiated in the same manner as discussed in the Auto Update section above.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Samsung TV Software Update Screen — Now Option](https://www.lifewire.com/thmb/ZYg-Zkd-l18SYpy5NBZaszTbKnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-soft-firmware-update-abc-5b3bffcdc9e77c00375fe757.jpg)
 3. If no updates available, select**OK** to exit the Settings menu and proceed to use the TV.
 
@@ -47,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 1. Visit the[Samsung Download Center](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Fdownloads%2F) .
 2. Enter the model number of your TV in the text box (e.g., UN40KU6300FXZA).
 3. When you see your TV populate in the list of suggestions, select it to open its download page.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![A Samsung TV model number and suggested search entry highlighted on Samsung's website](https://www.lifewire.com/thmb/x12DxO4ugFSz7Kx9nc1Y9fqFg0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-download-center-model-number-search-6bd1bd2b096a4a71b91daf95b1ea2299.png)
 4. Locate the firmware for your TV from the**Firmware** section, and select**Download** next to it. If there are multiple to choose from, select the item at the top to get the latest version.  
 ![The first download button highlighted from the Firmware area of the Samsung website](https://www.lifewire.com/thmb/BwGE5WAPVl5Mte9oNktWY06vc6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-firmware-e3e85af300dc4772b3c8dcc42c0b06ed.png)  
@@ -65,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 12. When the process is completed, the TV will turn off automatically, then turn back on, indicating the software update installed correctly and is ready to use.
 13. To further confirm you've updated the software, you can return to the**Software Update** page to see the latest update.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Update Apps on Samsung Smart TV
 
  It's equally important to update the apps you've downloaded to your device. This is a separate process from updating the TV's system software. The easiest way to keep your apps updated is to have the TV do it automatically. Here's what to do:
@@ -73,12 +85,18 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 2. Select**Apps** .
 3. Select the**settings/gear icon** at the top right, or choose**My Apps** if you see that.
 4. Select**Options** and make sure**Auto Update** is set to**On** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Samsung TV — App Auto Update Option](https://www.lifewire.com/thmb/gF4jFQ3Mg01dPRAUVppxAUPq_Gs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-update-apps-screen-f-5b3bf6db46e0fb0036d44d40.jpg)
 
  If you're updating apps manually, you'll be notified if an update is available when you select the app. Follow any further prompts to initiate the update process. When the update is completed, the app will open so you can use it.
 
 [How to Fix It When Samsung TV Apps Aren't Working](https://www.lifewire.com/fix-samsung-tv-apps-not-working-8603497)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Differences Between Samsung TVs
 
  If you own an older Samsung smart TV, such as one released before the 2016 model year, there may be some variations in the steps needed to update apps. Try these directions instead:

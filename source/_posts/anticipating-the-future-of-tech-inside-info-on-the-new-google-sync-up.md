@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the Future of Tech: Inside Info on the New Google Sync-Up"
-date: 2024-08-03 18:56:17
-updated: 2024-08-05 10:52:26
+date: 2024-08-05T01:59:40.990Z
+updated: 2024-08-06T01:59:40.990Z
 categories:
   - BestProducts
 description: "This Article Describes Anticipating the Future of Tech: Inside Info on the New Google Sync-Up"
@@ -12,14 +12,27 @@ thumbnail: https://thmb.techidaily.com/193370cfb5fd0062ad7927622f757d95e1534f195
 ## Anticipating the Future of Tech: Inside Info on the New Google Sync-Up
  Google holds events both annually and less regularly to announce new products and functionality. Google I/O is the company's conference for developers, while Made by Google is more consumer-facing.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the Date for the Next Google Event?
 
  The next Made by Google event is scheduled for August 13 at 10 AM PT. The last one,[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , was on May 14.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## What Will Google Announce?
 
  According to the company, the next Google event will be about Pixel devices, Android, and[Gemini](https://www.lifewire.com/what-is-google-bard-7151624) . We're due for updates on the[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ,[Pixel 9 phone](https://www.lifewire.com/google-pixel-9-8630767) ,[Pixel Tablet 2](https://www.lifewire.com/google-pixel-tablet-2-8600572) , and[Pixel Watch 3.](https://www.lifewire.com/google-pixel-watch-3-8431024)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Previous Google Events
 
  At Google's last event, the keynote for[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , the company talked almost exclusively about its Gemini AI platform. They showed off features that give you summaries of email threads and spreadsheets and an "AI Teammate" that you can add to Workspace to keep track of projects.
@@ -28,6 +41,23 @@ thumbnail: https://thmb.techidaily.com/193370cfb5fd0062ad7927622f757d95e1534f195
 
  You can watch the entire event below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## The Latest News About Google
 
  You can [get more tech news from Lifewire](https://www.lifewire.com/news-4795879) , but here are our top Google-related stories.

@@ -1,7 +1,7 @@
 ---
 title: "The Real Need for Speed in Computers: Finding the Right Pace"
-date: 2024-08-02 10:14:14
-updated: 2024-08-05 11:23:30
+date: 2024-08-05T01:59:23.035Z
+updated: 2024-08-06T01:59:23.035Z
 categories:
   - BestProducts
 description: "This Article Describes The Real Need for Speed in Computers: Finding the Right Pace"
@@ -30,9 +30,15 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -43,6 +49,9 @@ These instructions apply to PCs running Windows 10 and up.
 2. Press**Cmd+Ctrl+Space** on your keyboard at the same time. An emoji keyboard will appear.  
 ![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
@@ -56,6 +65,9 @@ These instructions apply to PCs running Windows 10 and up.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How Do You Make a Heart Without a Number Pad?
 
  Unfortunately, alt codes on Windows only work with the numeric keypad. You can't use the numbers across the top of your keyboard.
@@ -65,14 +77,23 @@ These instructions apply to PCs running Windows 10 and up.
 1. Hold down the**Windows key+Ctrl+O** to open the Windows 10 on-screen keyboard.
 2. Click**Options** .
 3. Check**Turn on numeric key pad** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do You Get the White Heart Emoji on Your Keyboard?
 
  The White Heart emoji 🤍 is commonly used online to discuss someone passing away. To get it, you can enter**Alt+9825** on Windows or find it in the Windows or Mac emoji keyboards.

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Capturing Screenshots on Your HP Computer"
-date: 2024-08-03 21:17:31
-updated: 2024-08-05 12:49:27
+date: 2024-08-05T01:59:16.558Z
+updated: 2024-08-06T01:59:16.558Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Capturing Screenshots on Your HP Computer"
@@ -24,12 +24,19 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  There are a few ways to take screenshots using the keyboard. Most methods require you to paste and save the screen capture in the image editor of your choice.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Save the Screen to the Clipboard
 
  Use the**PrtSc** (Print Screen) button to capture everything visible on the screen to the clipboard. It's often on the far right of the top row of the keyboard. You will then need to paste the image into an editor like Paint (or some[other image editor](https://www.lifewire.com/free-photo-editors-1357098) ) to see and manipulate the image further.
 
  To use the screenshot in a document, place the cursor where you want the image to be, and then press**Ctrl** +**V** to paste.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Capture the Whole Screen
 
  Press**Win** +**PrtSc** to capture the whole screen. You'll see a flash on the screen for just a moment to indicate that the screenshot was taken. By default, this kind of screen capture goes directly into this folder:
@@ -54,15 +61,27 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 ![Windows Start Menu and Snipping Tool highlighted in Windows 11](https://www.lifewire.com/thmb/yDKtCYY9bVcFaqvfAjmri6XNumI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/090-how-to-screenshot-on-an-hp-laptop-5113272-f8cfaa2ad64742638281e865550875e7.jpg)
 2. Under the**Mode** menu, choose the type of selection you want to use. To capture the entire screen, choose**Full screen** . You can also choose a rectangular section, a single window, or draw a custom shape.
 3. Select**New** to start your screen capture.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 !['New' and 'Full screen' highlighted in Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/g66hVFQzkmgPsL_-O_rBUg5_zcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ScreenshotonanHPLaptop-annotated-445623206c1e4eef89a213342557830b.jpg)
 4. Snipping Tool will open the screenshot in a new window. From here, you can use the tools up top to make notes and highlights, or copy the image to Paint, before you save the screenshot, which you can do from the**floppy disk** icon.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Editing tools and save button highlighted in the Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/UOBedWb_YxuBBdnppspmJ6w-akE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ScreenshotonanHPLaptop-annotated-f68b452cb4314b9097d3a1e2851933ec.jpg)  
  There are also third-party[screenshot apps for Windows](https://www.lifewire.com/best-screenshot-apps-windows-4177685) that offer more editing options.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## How to Use Snip & Sketch in Windows 10  
 
  Windows 10 also has the Snip & Sketch app. Here's how to use it:
 5. With the window or screen you want to capture open, click the**Start menu** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Start menu in Windows 10](https://www.lifewire.com/thmb/jhfqJPusffnGbRDz0h4z34Cr2KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-screenshot-on-an-hp-laptop-5113272-18280d7e9f2646ec9737b568a63e1f6d.jpg)
 6. Search for**Snip & Sketch** in the**search bar** and select it from the results.  
 ![Snip & Sketch in Windows 10 search](https://www.lifewire.com/thmb/BVW5_zNPQIiLElFJfb9LJncuxCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-screenshot-on-an-hp-laptop-5113272-90cfac0731be469b84f371dd350418b7.jpg)
@@ -70,18 +89,30 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 ![The Fullscreen Snap option in Snip & Sketch ](https://www.lifewire.com/thmb/J0OSAm42Pokyx2lgosQHb1FGec4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-screenshot-on-an-hp-laptop-5113272-e15fbcfa15374ebba4b40f6c9ae509e6.jpg)  
  The other options let you draw a rectangle to capture, make a freeform shape, or grab the active window.
 8. However you take the screen, Windows will save it to the clipboard, and a notification will appear. Select the notification (which includes a thumbnail of the screen you just took) to open a customization window.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A thumbnail of a screen from Snip & Sketch](https://www.lifewire.com/thmb/vToUxAoilJyyDCqp-p5WU7k9f44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-screenshot-on-an-hp-laptop-5113272-2b4f0f801846402e9a5b19baa15ea3d3.jpg)
 9. In this window, you can mark up, highlight, and crop the image using the tools at the top of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![Editing tools in Snip & Sketch](https://www.lifewire.com/thmb/sYD0JV4SnJihP8vQIPKLDtLcK3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-screenshot-on-an-hp-laptop-5113272-9bdc8e07001c4cb6ba077d56b6f127b8.jpg)
 10. To save the screenshot, select the**Save** icon.  
 ![The Save button in Snip & Sketch](https://www.lifewire.com/thmb/tne8-m5QuuEH054CwG8jz5Ysklc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-screenshot-on-an-hp-laptop-5113272-0d187feff1f046bb90f87e2567b2540c.jpg)
 11. In the next window, choose a file name, file type, and location for your saved screenshot, then select**Save** .  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Save in the Save window in Windows Snip & Sketch](https://www.lifewire.com/thmb/ytqrZAnY_rgAb2JoVonbEBpA5H4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-screenshot-on-an-hp-laptop-5113272-5537372a44cc491baa434a42656ba761.jpg)
 
 ## How to Take a Screenshot on an HP Tablet
 
  HP dropped out of the tablet market in 2011, but you can capture the screen by pressing**Power** +**Volume Down** if you still have one. You can find screenshots in the**Photos** app.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Power and Volume Down buttons on an HP tablet](https://www.lifewire.com/thmb/LQyDhN14pOtcwoGTDvOYoDj3aKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-screenshot-on-an-hp-laptop-5113272-108a6439e9a64000a39c0ed68fa2f6c1.jpg)
 
 HP

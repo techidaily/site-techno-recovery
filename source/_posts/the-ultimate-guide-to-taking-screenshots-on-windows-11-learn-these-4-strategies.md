@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Taking Screenshots on Windows 11 - Learn These 4 Strategies
-date: 2024-08-05 15:31:30
-updated: 2024-08-06 10:32:20
+date: 2024-08-05T01:59:27.785Z
+updated: 2024-08-06T01:59:27.785Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Taking Screenshots on Windows 11 - Learn These 4 Strategies
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 ---
 
 ## The Ultimate Guide to Taking Screenshots on Windows 11 - Learn These 4 Strategies
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -28,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -40,6 +46,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -53,6 +62,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 * **Full screen** : Press to capture the whole screen. It's identical to using**PrtScr** .
 * **Freeform** : You draw a shape that contains what you'd like to capture. This is useful if the rectangular snip is too restrictive to capture what you need.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -61,6 +73,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
  Or, if you select the prompt that pops up at the bottom of the screen after taking the screenshot, it'll open in Snipping Tool. There are markup tools like a pencil and highlighter. You can also easily crop the screenshot further, print it out, copy text from it, import it into Paint, run it through Bing's reverse image search tool, and save it as a PNG, JPG, or GIF file.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 ## Delayed Screenshots With Snipping Tool
@@ -71,6 +86,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.

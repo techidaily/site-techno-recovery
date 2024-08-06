@@ -1,7 +1,7 @@
 ---
 title: Find Out - Which iPad Series Offers Built-In Global Positioning Services
-date: 2024-08-02 10:10:54
-updated: 2024-08-05 12:42:16
+date: 2024-08-05T01:59:38.022Z
+updated: 2024-08-06T01:59:38.022Z
 categories:
   - BestProducts
 description: This Article Describes Find Out - Which iPad Series Offers Built-In Global Positioning Services
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/50izEnuVu8mz0WJ-MBtXxEi6eVE=/400x300/fi
 
 [The Ultimate iPad Comparison Chart (2024)](https://www.lifewire.com/ipad-comparison-chart-1994214)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Which iPad Models Have Built-In GPS?
 
  A built-in GPS chip is found in Apple's Wi-Fi + Cellular iPad models, which is an option for all available versions of the tablet. These devices cost more than the Wi-Fi-only versions.
@@ -23,14 +26,23 @@ thumbnail: https://www.lifewire.com/thmb/50izEnuVu8mz0WJ-MBtXxEi6eVE=/400x300/fi
 
  You don't need to pay for a data plan for the GPS chip to work. If you get a Wi-Fi + Cellular model with no data plan, you won't receive fresh maps, points of interest, and other related data when out of Wi-Fi range.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wi-Fi-Only iPads Can Still Track Your Location
 
  Confusing the issue somewhat is that a Wi-Fi-only iPad can fairly accurately pinpoint your location under many conditions. As long as it can pick up a few Wi-Fi signals, it can use[Wi-Fi positioning](https://www.lifewire.com/wifi-positioning-system-1683343) , which draws on a database of known Wi-Fi hotspots, to determine where you are located.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Map navigation design](https://www.lifewire.com/thmb/mD7pA-Q9RJ2ELYqyrdzMMdOqEzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1128192660-c6dc52348deb4244968e53dd2c21f348.jpg)
 
  Fourleaflover / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Built-in and Downloadable Apps for GPS and Navigation
 
  The iPad comes with a[Maps app](https://www.lifewire.com/use-apple-maps-app-1999196) that lets you search for addresses, points of interest, and more. After finding a location, you can get turn-by-turn directions and real-time traffic information.

@@ -1,7 +1,7 @@
 ---
 title: "July Must-See List: Unmissable Documentaries with Max Leading the Way (July 2024)"
-date: 2024-08-02 15:36:30
-updated: 2024-08-05 12:51:46
+date: 2024-08-05T01:59:23.708Z
+updated: 2024-08-06T01:59:23.708Z
 categories:
   - BestProducts
 description: "This Article Describes July Must-See List: Unmissable Documentaries with Max Leading the Way (July 2024)"
@@ -23,6 +23,9 @@ of 18
 
 ## [ All the Beauty and the Bloodshed (2022): A Personal Portrait of Addiction](https://www.imdb.com/title/tt21374850/) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Nan Goldin in All the Beauty and the Bloodshed](https://www.lifewire.com/thmb/EOUbnyH6fMTcPByNYULi67q4iZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-april-2023-5025656-0423d721ced3478a9ea75b8fd1d41cc6.jpg) 
 
 Max
@@ -45,8 +48,14 @@ Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## [ The Princess (2022): A Historical Reconstruction of Princess Diana's Last Days](https://www.imdb.com/title/tt13393128/) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Princess on HBO Max](https://www.lifewire.com/thmb/QQQAmXncZ7WU99WjwIUiA5fbNt8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-documentaries-on-hbo-right-now-september-2022-5025656-b1044f41d6ef48ec9d4c12560e2349b0.jpg) 
 
 Max
@@ -71,6 +80,9 @@ of 18
 
 ## [ Rock Hudson: All That Heaven Allowed (2023) - A Tale of Two Lives](https://www.imdb.com/title/tt13514636/) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A still from the Rock Hudson documentary All That Heaven Allowed.](https://www.lifewire.com/thmb/QVIATEJ2sOG3ORGapncMoBVZZAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RockHudsondocumentary-9d4611fbd5274c829deedfca653881b3.jpg) 
 
 Max
@@ -93,6 +105,9 @@ Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Moonage Daydream (2022): A Trippy Tribute to David Bowie](https://www.imdb.com/title/tt9883832/) 
 
 ![David Bowie in Moonage Daydream](https://www.lifewire.com/thmb/l7ufwrJ7hlwscxM9W2ihXAM-v_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-june-2023-5025656-66a9e2a5fa4e4952807cb3e8b06650a5.jpg) 
@@ -119,6 +134,10 @@ of 18
 
 ## [ Call Me Miss Cleo (2022): The Psychic Scam of the Century](https://www.imdb.com/title/tt24443706/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Call Me Miss Cleo documentary](https://www.lifewire.com/thmb/kNMIjst6RgTnBsz-jEIofCi6GPw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-february-2023-5025656-d39c18d55fea42029ccfc3a1b1c60dce.jpg) 
 
 Max
@@ -141,6 +160,10 @@ Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## [ Navalny (2022): A Timely Biography About Anti-Authoritarianism](https://www.imdb.com/title/tt17041964/) 
 
 ![A still from the documentary Navalny.](https://www.lifewire.com/thmb/QIGdo9Sd5jO-5BNRTPOeMRFQ8H0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Navalnydocumentary-5a22fefb19f04647aef62111d247dcf0.jpg) 
@@ -165,6 +188,9 @@ Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ BS High (2023): A Fake Football Coach Fools the Nation](https://www.imdb.com/title/tt21929748/) 
 
 ![BS High on HBO](https://www.lifewire.com/thmb/40NWBpRqXUFUVhvAYahTB0F5nYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-max-right-now-september-2023-5025656-da3a04d032c54cb9b52b5f5318e3188a.jpg) 
@@ -233,8 +259,14 @@ HBO Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Say Hey, Willie Mays! (2022): Best Baseball Biography](https://www.imdb.com/title/tt14596934/) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Willie Mays in Say Hey, Willie Mays!](https://www.lifewire.com/thmb/GTkAqCvjIURybelwns6OC5pYnB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-may-2023-5025656-83ee70f71be243079f1d65d4bb5ac272.jpg) 
 
 Max. 
@@ -257,8 +289,14 @@ Max.
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Love, Lizzo (2022): An Intimate Look at a Living Legend](https://www.imdb.com/title/tt13622290/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Lizzo in Love, Lizzo (2022)](https://www.lifewire.com/thmb/UAxC_1dpLM9Lf4bEylid6C5auBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-march-2023-5025656-88a6b272e57c44bdb179837b47930fb2.jpg) 
 
 Max
@@ -281,8 +319,14 @@ Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Phoenix Rising (2022): Bravest 'Me Too' Documentary](https://www.imdb.com/title/tt17036612/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Evan Rachel Wood in Phoenix Rising](https://www.lifewire.com/thmb/CyTT3IikiByhR-lw9BivwZWAh6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-documentaries-on-hbo-right-now-5025656-5dd8ff082bcd4a66ab78a0f3fd326d2d.jpg) 
 
 Max
@@ -331,6 +375,18 @@ Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Being Mary Tyler Moore (2023): A Tribute to a Trailblazer](https://www.imdb.com/title/tt26084136/) 
 
 ![Mary Tyler Moore in Being Mary Tyler Moore](https://www.lifewire.com/thmb/R3QTQhVqq10jw92Ky9PWBQrDnkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-max-right-now-july-2023-5025656-784abf1e2f1d468a995d99ab2bc18d0c.jpg) 
@@ -353,6 +409,9 @@ Max.
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Tina (2021): Simply the Best](https://www.imdb.com/title/tt8399720/) 
 
 ![Tina Turner in the HBO documentary 'Tina'](https://www.lifewire.com/thmb/anRgBfe0Ue_K_ZHKKbIA4bn6XZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tina_HBO-b805b1e4fdbf4981b4a59d346f24fffd.jpg) 
@@ -425,6 +484,10 @@ of 18
 
 ## [ My So-Called High School Rank (2022): A Stressful Musical About Stress](https://www.imdb.com/title/tt22260918/) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![The cast of My So-Called High School Rank](https://www.lifewire.com/thmb/wJhUB21AiXl9zr5o-w_mYNe6Qko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-january-2023-5025656-77eb12a782e6422ab6ef2ebef52aff4d.jpg) 
 
 Max

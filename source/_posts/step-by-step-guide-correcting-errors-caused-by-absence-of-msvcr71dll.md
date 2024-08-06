@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Correcting Errors Caused by Absence of Msvcr71.dll"
-date: 2024-08-02 14:21:43
-updated: 2024-08-05 12:59:12
+date: 2024-08-05T01:59:34.358Z
+updated: 2024-08-06T01:59:34.358Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Correcting Errors Caused by Absence of Msvcr71.dll"
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 
  Emoji are here to stay as long as we all continue tweeting and texting. Here are a few interesting facts about those crazy, colorful little emoji that prove just how much the world loves them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Apple Is Credited for Emoji Popularity
 
  Emoji have been around since 1999 when Japanese designer Shigetaka Kurita made the first emoji for cellphones, but they weren't fully embraced by the masses until 2012 when Apple released iOS 6.
@@ -34,12 +37,18 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
 
 The plural of emoji is emoji, not emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## New Emoji Are Announced Regularly
 
  New emoji are being added all the time. In 2017 the Unicode Consortium finalized 69 new ones including a vampire, a genie, a mermaid, and many more.
@@ -56,18 +65,27 @@ The plural of emoji is emoji, not emojis.
 
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
 
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.

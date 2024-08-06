@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Creating Duets on TikTok: A Step-by-Step Guide"
-date: 2024-08-03 22:36:22
-updated: 2024-08-05 12:12:54
+date: 2024-08-05T01:59:18.379Z
+updated: 2024-08-06T01:59:18.379Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Art of Creating Duets on TikTok: A Step-by-Step Guide"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 ---
 
 ## Mastering the Art of Friendly Battles: A Guide to Teaming Up with Your Pokémon Pal in 'Go'
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Tap your trainer profile and select**Buddy History** to add or swap your_Pokémon Go_ buddy.
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
@@ -26,6 +32,9 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
  In_Pokémon Go_ , you’re allowed one buddy Pokémon at a time and can change this Pokémon for another one up to 20 times per day. Here’s how to swap your buddy Pokémon.  
@@ -59,13 +68,22 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 2. Tap**Play** .
 3. Tap your buddy Pokémon to have it react excitedly to you.
 4. Drag your finger back and forth to pat it. If you’re patting your Pokémon buddy correctly, you should see sparkles.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.

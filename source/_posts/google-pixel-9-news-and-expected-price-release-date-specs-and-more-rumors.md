@@ -1,7 +1,7 @@
 ---
 title: "Google Pixel 9: News and Expected Price, Release Date, Specs; and More Rumors"
-date: 2024-08-02 11:32:43
-updated: 2024-08-05 10:11:26
+date: 2024-08-05T01:59:21.812Z
+updated: 2024-08-06T01:59:21.812Z
 categories:
   - BestProducts
 description: "This Article Describes Google Pixel 9: News and Expected Price, Release Date, Specs; and More Rumors"
@@ -21,10 +21,16 @@ In This Article
 
  A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## When Will the Google TV Streamer Be Released?
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
@@ -33,6 +39,9 @@ August 13 is our best guess.
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -43,6 +52,10 @@ August 13 is our best guess.
 
 9to5Google
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -55,10 +68,16 @@ August 13 is our best guess.
 
  The device doesn't look that much bigger than the remote, so we're not sure what, if anything, is different about the internal hardware.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
 9to5Google
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.

@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Capabilities of DTS Virtual:X Audio Systems"
-date: 2024-08-05 15:12:24
-updated: 2024-08-06 11:14:50
+date: 2024-08-05T01:59:24.422Z
+updated: 2024-08-06T01:59:24.422Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding the Capabilities of DTS Virtual:X Audio Systems"
@@ -25,12 +25,21 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
  If you aren't into keyboard shortcuts, here's how to clear the Chrome browser cache on your computer using the on-screen menus:
 
 1. Select the**three-dotted menu** button in the upper-right corner of Chrome, then choose**Clear browsing data** from the list of options.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Chrome menu in Windows](https://www.lifewire.com/thmb/0OkjpvQhnUltbGERvmB7fhhO-Xc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-menu-8a9a605ba2cf40d795fd11799ef8e6ff.png)
 2. Check the box next to**Cached images and files** . Select**Cookies and other site data** to also wipe the cookies.  
  Also choose**All time** from the**Time range**  option at the top to make sure you get everything.
 3. Choose**Clear data** .  
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![The cached images and files checkbox in Chrome's Clear Browsing Data prompt](https://www.lifewire.com/thmb/koYvaD17zNjG2ivlceG6uNqoKBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-clear-cached-images-files-b5adb033e0a94b35bf6e353477d5ebd5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Clear Cache in the Chrome Mobile App
 
  Here's how it works in Chrome's mobile app:
@@ -40,9 +49,15 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 3. Select a time range. Pick**All time** to purge the whole cache.
 4. Ensure that**Cached images and files** is chosen. You'll need to tap**More options** first if you're on Android.
 5. Tap**Clear data** \>**Clear** on Android, or**Delete Browsing Data** \>**Delete Browsing Data** on iOS.  
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Clear browsing data screen in the Chrome mobile app](https://www.lifewire.com/thmb/PgBnwC8X79xf4XgE7ZcpYBdj_Rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-app-clear-cache-8431483fb047400cb98ea15cdf52e745.png)  
  Chrome on Android will suggest keeping data from sites you visit often. The choice is yours but to delete_all_ of Chrome's cache, you'll need to keep those items selected.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Clear the Firefox Cache
 
  In Mozilla's Firefox browser, you clear the cache from the**Clear All History** or**Clear Data** area.
@@ -56,13 +71,22 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
  Follow these steps to get to that screen through the Firefox settings menu:
 
 1. In Firefox's menu button (the three-lined hamburger icon), select**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![The Firefox menu in Windows](https://www.lifewire.com/thmb/D8-cMayZxLKdXZ4-m6_U2i0-W0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-menu-2516fa793c7c4037b7195c85ad0ad39e.png)
 2. Choose**Privacy & Security** from the left, then scroll to**Cookies and Site Data** on the right.
 3. Select**Clear Data** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of Firefox Privacy & Security settings with the Clear Data button highlighted](https://www.lifewire.com/thmb/305zytHAvtTSwvpHVrJleyrOKPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-clear-cache-2617980-fcf21f4998eb49a4ba554b437480495b.jpg)
 4. In the Clear Data screen that opens, select**Cached Web Content** . The other option, if selected, will delete the cookies in Firefox.  
 ![A screenshot of Firefox's Clear Data screen with the "Cached Web Content" option highlighted](https://www.lifewire.com/thmb/bRYm9w2R5MGWJFdUszJpBw5bfvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-clear-cache-2617980-2ad341e9aad648e0a802ad67de99bea8.jpg)
 5. Choose**Clear** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![A screenshot of Firefox's Clear Data screen with the Clear button highlighted](https://www.lifewire.com/thmb/d_d8vxFEeGzd47bAlUlzNfN63B4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-clear-cache-2617980-68fece98261142bfa992277033e0898b.jpg)
 
 ### Clear Cache in the Firefox Mobile App
@@ -86,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 
  If you don't see**Develop** on your Safari menu bar, go to**Safari** \>**Preferences** \>**Advanced** , and then select**Show Develop menu in menu bar** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Clear Cache in the Safari Mobile App
 
  Use the Settings app to clear the browser cache for Safari on your iPhone or iPad.
@@ -119,9 +146,15 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 1. Tap the**profile icon** (Android) or the**three horizontal lines** (iOS) at the bottom of the app.
 2. Select the**settings** icon.
 3. On Android, go to**Privacy & security** \>**Clear data** \>**Advanced** . On iOS, you're looking for the**Clear Browser Data** option.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Opera app settings on Android](https://www.lifewire.com/thmb/k-fGiILPYFuEpQtNKay5z5yoKaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-settings-android-a71130d7b6fe4e449df607988b2dc828.png)
 4. Tap the items you want to clear. To erase just the cache, choose**Cached images and files** .
 5. Select**Clear data** on Android, or**Clear** on iOS.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Opera app Settings, Privacy & Security, and Clear Data screens](https://www.lifewire.com/thmb/R2V9Xdno9Yjf7y80Bd1ca8duVpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-cache-purge-android-app-1b5d8f0113b7474b8d5f92bc5a170a00.png)
 
 ## Clear Browsing Data for Edge
@@ -135,10 +168,16 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
  Here's another option:
 
 1. Select the**three-dotted menu** at the top right of the program, then select**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of Microsoft Edge with the Settings option highlighted](https://www.lifewire.com/thmb/wVGURGBYtVd6ssyHDuyiu6CMC6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-using-cortana-in-microsoft-edge-4059577-8393dcbb21994501ab74592b86eacb2c.jpg)
 2. Select**Privacy, search, and services** on the left followed by**Choose what to clear** on the right.  
 ![The Privacy, Search, and Services tab selected in the Edge browser](https://www.lifewire.com/thmb/CW8mbgslkfinSW15SA4Bi0Vez9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-privacy-settings-9658d15cdccf4b46b41eddf5d7d40c5c.png)
 3. To purge the browsing cache in Edge, make sure**Cached images and files** is selected, then click**Clear now** . You can also clear the cookies, browsing history, and more.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The cached images and files option chosen in the Edge delete browsing data prompt](https://www.lifewire.com/thmb/xxLrSqvF_B_JmonmgYMDBwmToSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-clear-cache-files-98bb06bbb1354b76b7ebec2211543348.png)
 
 ### Clear Cache in the Edge Mobile Browser
@@ -147,11 +186,17 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 
 1. Tap the**three lines** at the bottom right, then choose**Settings** from the menu that pops up.
 2. Select**Privacy and security** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![The Settings menu in the Edge app for Android](https://www.lifewire.com/thmb/nuBRJxQM93yj8WccPL0wE_c1dC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-app-settings-27546193cfb3412b90621c649bf4b9ba.png)
 3. Tap**Clear browsing data** .
 4. Make sure**Cached images and files** is selected. This screen is also how you can delete other items like cookies and autofill data.  
  Change the time range to**All time** if you want to clear the whole cache.
 5. Tap**Clear data** on Android. For iOS, choose**Clear now** and then confirm by tapping the same button.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![The Clear browsing data screen in the Edge app for Android](https://www.lifewire.com/thmb/mdg7Etrp3a_lQksNf9_Gcxd5eUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-privacy-security-settings-clear-data-e60e864e45314736b2c09e1cba79603c.png)
 
 ## Delete Vivaldi's Browser Cache
@@ -159,11 +204,19 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
  Clear the cache in Vivaldi from the**Delete Browsing Data**  area. As with most browsers, the**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac) shortcut is the quickest way there, but the menu works, too:
 
 1. From the menu bar (select the V logo at the top left if you don't see it), go to**Tools** \>**Delete Browsing Data** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![The Tools menu in Vivaldi for Windows](https://www.lifewire.com/thmb/wF-2F3XLZXFJy0sBp7ZehDKJDQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vivaldi-tools-menu-3e6c4ad1e34e4ef3855aef71644856c4.png)
 2. Pick a timeframe, such as**All Time** , then choose**Cache** from the list. As you can see, you can also erase cookies, downloads, site settings, and more, if you select those items.  
 ![Vivaldi's delete browsing data prompt with Cache chosen](https://www.lifewire.com/thmb/Jjrlk86CVOssGYmvryE3K6CN8As=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-06-14071603-4800e7bd1a44431e82ae862d0d118ad4.png)
 3. Choose**Delete** .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Clear Cache in the Vivaldi Mobile Browser
 
  The Vivaldi app lets you clear the cache, cookies, and other items as well.
@@ -176,12 +229,18 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 5. Tap**Clear data** (Android) or**Clear Browsing Data** (iOS) to erase the cache.  
 ![The Clear browsing data screens in the Vivaldi app for Android](https://www.lifewire.com/thmb/rRG9GJVd6X3caXhuEcfS1bqvN_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vivaldi-app-clear-browsing-data-04e526e7e8174f4a85d07a85a8480757.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What Exactly Is Cache?
 
  Your browser's[cache](https://www.lifewire.com/definition-of-cache-2483171) , pronounced _cash_ , is a collection of web pages stored on your hard drive or in your phone/tablet storage. The cache includes the text, images, and most other media contained on web pages that you've visited.
 
  Having a local copy of a web page makes for quick loading on your next visit because your computer or mobile device doesn't have to download it from the internet again. Over time, however, the cache may take up a big chunk of your computer's storage.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Do You Have to Clear Cache?
 
  You don't have to clear the cache as a regular part of computer or smartphone maintenance. However, there are some good reasons to clear cache:

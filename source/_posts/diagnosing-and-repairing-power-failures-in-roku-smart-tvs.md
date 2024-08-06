@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Power Failures in Roku Smart TVs
-date: 2024-08-05 12:13:46
-updated: 2024-08-06 10:12:50
+date: 2024-08-05T01:59:28.492Z
+updated: 2024-08-06T01:59:28.492Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Repairing Power Failures in Roku Smart TVs
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/g8U9WIQba-BU5ZQmzcfGc4DBlWM=/400x300/fi
 
  WHEA uncorrectable errors are usually associated with faulty hardware, but they can also be caused by driver conflicts, missing Windows updates, and even[overclocking](https://www.lifewire.com/what-is-overclocking-a-computer-4092341) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## How the WHEA Uncorrectable Error Appears
 
  When this error occurs, you'll usually see a message like one of these:
@@ -23,6 +26,9 @@ thumbnail: https://www.lifewire.com/thmb/g8U9WIQba-BU5ZQmzcfGc4DBlWM=/400x300/fi
 * A problem has been detected, and Windows has been shut down to prevent damage to your computer.  
  WHEA\_UNCORRECTABLE\_ERROR
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Causes of the WHEA Uncorrectable Error
 
  The WHEA uncorrectable error is a stop code displayed during blue screen crashes and is usually due to hardware failure. A failing hard drive, defective memory, improperly seated CPU, and a variety of other hardware issues can all result in a WHEA uncorrectable error.
@@ -31,6 +37,9 @@ thumbnail: https://www.lifewire.com/thmb/g8U9WIQba-BU5ZQmzcfGc4DBlWM=/400x300/fi
 
  In some cases, overclocking can also cause this error to appear due to the extra strain overclocking puts on your CPU.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Fix a WHEA Uncorrectable Error
 
  Since most WHEA uncorrectable errors are caused by hardware failure, fixing this error usually involves tracking down the problem component and replacing it. However, the best place to start is on the software end because that's easier and less expensive.
@@ -55,6 +64,10 @@ thumbnail: https://www.lifewire.com/thmb/g8U9WIQba-BU5ZQmzcfGc4DBlWM=/400x300/fi
 8. [Reset Windows as a last resort](https://www.lifewire.com/reset-this-pc-complete-walkthrough-2624538) . When all else fails, reset Windows. It's an irreversible process that essentially reinstalls Windows from scratch and gives you a clean slate.  
  If you reset Windows and still experience the WHEA uncorrectable error, you have a hardware issue. Carefully inspect your hardware again, and seek professional assistance if you can't determine which piece of hardware has failed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Other Blue Screen Problems Like the WHEA Uncorrectable Error
 
  The WHEA uncorrectable error is just one of many errors that can cause Windows to display the blue screen of death. If you're experiencing blue screen issues, we have a[complete list of blue screen error codes](https://www.lifewire.com/blue-screen-error-codes-4065576) that can help you get to the bottom of your problem.

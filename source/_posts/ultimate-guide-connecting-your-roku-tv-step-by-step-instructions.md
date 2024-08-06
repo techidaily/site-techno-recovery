@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Connecting Your Roku TV - Step-by-Step Instructions"
-date: 2024-08-05 17:10:45
-updated: 2024-08-06 11:25:30
+date: 2024-08-05T01:59:32.224Z
+updated: 2024-08-06T01:59:32.224Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Connecting Your Roku TV - Step-by-Step Instructions"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 ---
 
 ## Ultimate Guide: Connecting Your Roku TV - Step-by-Step Instructions
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * To start the pairing process, unplug your Fire Stick from power and remove the batteries from the remote.
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 1. Unplug your Fire Stick from power.  
 ![Unplugging a Fire Stick from power.](https://www.lifewire.com/thmb/duf0Ofk9AZmQzapAgkXD7q85Xo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PXL_20210704_230646563-5c68558b797641c58fbee86bf87f99c5.jpg)
 2. Remove the batteries from your Fire Stick remote.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Batteries removed from a Fire Stick remote.](https://www.lifewire.com/thmb/BxNmHnAIvcKaYLM6j9J0dAUkTIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/remove-b670ffa9d8674789b94438455b48095a.jpg)  
  If the batteries are old, consider replacing them at this time so you don't have to go through this procedure again when they die.
 3. Plug the Fire Stick back into power.  
@@ -42,9 +48,15 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 6. When the light on the remote starts blinking, release the**Home** button.  
 ![The LED indicator highlighted on a Fire Stick remote.](https://www.lifewire.com/thmb/zbvkrwDzpgx1Aurz-A5APwlhd9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_pair-fire-stick-remote-5191441-10962e39bfbc49daa07ddcc2f9f3413b.jpg)
 7. Wait for your Fire Stick to load the menu screen and check to make sure the remote was successfully paired.  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A Fire Stick booting up.](https://www.lifewire.com/thmb/R6MeiKFdDDcZI5JkQagO5FmmjL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reset-f421c9ef18944d11bee9c074a026e06d.png)  
  Some Fire Stick remotes will flash a blue LED when the pairing process is complete.  
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Pair an Additional Fire Stick Remote  
 
  Your Fire Stick can remember up to seven remotes at the same time, including third-party remotes. If you have access to your original remote, and it still works, you can pair an additional Fire Stick remote through the settings menus.  
@@ -53,14 +65,26 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 8. Press the**Home** button on your existing remote or the Fire TV remote app to return to the home screen.  
 ![The Fire TV home screen.](https://www.lifewire.com/thmb/lrZuSRsPY0j9Ahfj8C8zTlS4NXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_pair-fire-stick-remote-5191441-5ff98cf4041a46b0bc89785fb134eb20.jpg)
 9. Select**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings on Fire Stick.](https://www.lifewire.com/thmb/s-pjR8k8NEQtxx2aUDXOVLWuXH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_pair-fire-stick-remote-5191441-13ccdc2dc84740faa311b02e0f3a21a8.jpg)
 10. Select**Controllers and Bluetooth Devices** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Controllers and bluetooth devices highlighted in Fire Stick settings.](https://www.lifewire.com/thmb/GvcyqfHHKbmF-ecjza5uYnTQBWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_pair-fire-stick-remote-5191441-b24f79827b5f4e45932ff2f496ac7e71.jpg)
 11. Select**Amazon Fire TV Remotes** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Amazon Fire TV Remotes highlighted in Fire Stick settings.](https://www.lifewire.com/thmb/pDaqvUE7alh5NmqPQKca99lj7LU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0011_pair-fire-stick-remote-5191441-e949bc66951e4a37a375f3379dd0f66f.jpg)
 12. Select**Add New Remote**  
 ![Add New Remote highlighted in Fire Stick settings.](https://www.lifewire.com/thmb/BVvt-kaI001o-jfmGASbj4WvCgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0012_pair-fire-stick-remote-5191441-c74dfb979f484a388da3b66de5f2891c.jpg)
 13. On your new remote, press and hold the**Home** button for 10 seconds.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Fire Stick searching for a new remote.](https://www.lifewire.com/thmb/cpIsMIBb3XIUb0C_fO1X5ms9GH4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0013_pair-fire-stick-remote-5191441-3921a87552d94d1bb9655db156b61626.jpg)
 14. Wait for your Fire Stick to find your new remote, then press the**Select button** on your old remote.
 15. When the process finishes, you’ll see both your old remote and your new remote in the list on the screen.

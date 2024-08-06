@@ -1,7 +1,7 @@
 ---
 title: "Pairing Up on Spotify: Sharing Playlists in Real-Time"
-date: 2024-08-04 18:26:14
-updated: 2024-08-05 10:53:22
+date: 2024-08-05T01:59:33.457Z
+updated: 2024-08-06T01:59:33.457Z
 categories:
   - BestProducts
 description: "This Article Describes Pairing Up on Spotify: Sharing Playlists in Real-Time"
@@ -17,20 +17,49 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 
  This article explains how to create a filter in Gmail to always allow emails from a certain sender or domain, either from scratch or using an existing message similar to the ones you want to allow.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Start With Filters and Blocked Addresses
 
  The way to mark a specific email address or domain as allowed is to make an email filter.
 
 1. Open Gmail. In the upper-right corner, select the**Settings** (gear) icon. From the menu, choose**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Settings menu item in Gear icon for Gmail](https://www.lifewire.com/thmb/WlAG3HUR1Wh7gcE0q5RvutAP2pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa8246e0fb0001171827.jpg)
 2. Select**Filters and Blocked Addresses** .  
 ![Filters and Blocked Addresses tab in Gmail](https://www.lifewire.com/thmb/_9xw1NUAlMHL7bAlPahggss4cK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faaa046e0fb0001ebdc0d.jpg)
 3. Select**Create a new filter** . If you already have many filters, you'll have to scroll down to find this link.  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create a new filter link in Gmail Settings](https://www.lifewire.com/thmb/Z8V002m1EnNEr2YpSfPZ7gQVu08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faab746e0fb0001684468.jpg)
 4. A dialog box appears. In the**From** field, type the email address you want to allow. Be sure to type the full email address, like**<example@yahoo.com>** . To allow every email address from a particular domain, type just that domain name, like**@yahoo.com** .  
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create filter button in Gmail Settings](https://www.lifewire.com/thmb/29dJifNpYRnjrjyXfT4lLR8fBlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faad846e0fb0001d3e73e.jpg)
 5. At the bottom of the dialog box, select**Create filter.**
 6. On the next screen, tell Gmail what to do with the email address or domain you just indicated. To do so, select**Never send it to Spam** . To finish the process, select**Create filter** .  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create filter button in list of actions for Gmail filtered addresses](https://www.lifewire.com/thmb/VEgNOcD2Fld-QtjqcJqPPJfqPmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2fab2dc9e77c0001125823.jpg)
 7. If you want to allow more than one email address or domain, you need not repeat these steps for each one. Instead, put a vertical bar (and a space before and after it) between the separate accounts, as follows:**<person1@example.com>** |**<person2@anotherexample.com>** |**@example2.com** .
 
@@ -43,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 ![Filter messages like this menu option in Gmail](https://www.lifewire.com/thmb/8uMlTsSswTb_qf_FGt5Ph6hiALg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa5f46e0fb0001ebcc4f.jpg)
 3. With the email address now auto-filled for you in the**From** field, follow steps 5 and 6 above.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Additional Gmail Filtering Tips
 
  When creating filters in Gmail, keep these additional points in mind.

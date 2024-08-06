@@ -1,7 +1,7 @@
 ---
 title: PlayStation 5'S One-of-a-Kind Game Library Unveiled
-date: 2024-08-04 23:20:51
-updated: 2024-08-06 11:27:44
+date: 2024-08-05T01:59:31.201Z
+updated: 2024-08-06T01:59:31.201Z
 categories:
   - BestProducts
 description: This Article Describes PlayStation 5'S One-of-a-Kind Game Library Unveiled
@@ -16,8 +16,14 @@ thumbnail: https://www.lifewire.com/thmb/fjY2Gn-jaC0JebrNhPyRhyPpjbI=/400x300/fi
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Skater Girl (2021): A Film About Blazing Your Own Path](https://www.imdb.com/title/tt6964940)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Rachel Saanchita Gupta and Shafin Patel in 'Skater Girl' ](https://www.lifewire.com/thmb/cwZVQ7uYBiAYcvdPSlqVmqpHVNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SkaterGirl-cdec994a3ed64e5ab479557cf51f0478.jpg)
 
 Netflix
@@ -44,8 +50,14 @@ Netflix
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## [Mixtape (2021): A Movie About Discovering Who Your Parents Were](https://www.imdb.com/title/tt1587420/)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Julie Bowen and Gemma Brooke Allen in 'Mixtape'](https://www.lifewire.com/thmb/lMkzTX1zgLG41ZAfMCe1D6LmKVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mixtape-33f184e70c8d4d1980e8239fe79e8669.jpg)
 
 Netflix
@@ -72,6 +84,9 @@ Netflix
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [We Have a Ghost (2023): Beetlejuice Meets E.T.](https://www.imdb.com/title/tt7798604/)
 
 ![We Have a Ghost (2023)](https://www.lifewire.com/thmb/1EGVI2Nq-mma4U_gQew-CGQ3RnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-march-2023-5104880-ac5a5db9161a4853868564d1f68312a4.jpg)
@@ -102,6 +117,9 @@ of 17
 
 ## [Moxie (2021): A Film About Fighting Toxic School Culture](https://www.imdb.com/title/tt6432466/)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Hadley Robinson in 'Moxie'](https://www.lifewire.com/thmb/cViIoDSZOArw-tKkr8FQPrdCLoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Moxie-68d4df625f46471dae9ab5360bfbddb8.jpg)
 
 Netflix
@@ -158,6 +176,9 @@ of 17
 
 ## [The Magician's Elephant (2023): A Fairy Tale in the Fallout of War](https://www.imdb.com/title/tt2560092/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![The Magician's Elephant](https://www.lifewire.com/thmb/BYDCI1aumRw0Qx2xYvORWFnC82o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-april-2023-5104880-13571319bc4b43eeb24f8b8deab24e58.jpg)
 
 Netflix
@@ -186,8 +207,14 @@ _The Magician's Elephant_ is an adaptation of a 2009 book by Kate DiCamillo. The
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [To All the Boys I’ve Loved Before: A Charming Rom-Com for Fans of All Ages](https://www.imdb.com/title/tt3846674/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![To All the Boys I've Loved Before on Netflix](https://www.lifewire.com/thmb/BXg7CDR7BLKjiUukbuA2r21khqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_21-best-teen-movies-on-netflix-5104880-cc5b047f4b8542538254a01d002f4867.jpg)
 
 Netflix
@@ -216,6 +243,10 @@ of 17
 
 ## [Dog Gone (2023): A Boy, His Dog, and His Dad](https://www.imdb.com/title/tt15334430/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Rob Lowe and Johnny Berchtold in Dog Gone](https://www.lifewire.com/thmb/IiyivN5ibGrvcZQvEXKm0b2z9-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-february-2023-5104880-6888bdbae46b47a99f08eba800da5a1a.jpg)
 
 Netflix
@@ -242,6 +273,9 @@ Netflix
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [All the Bright Places (2020): An Important Mental Health Conversation Starter](https://www.imdb.com/title/tt3907584/)
 
 ![All the Bright Places on Netflix](https://www.lifewire.com/thmb/UQR6HggGGWRlE9y9NJB51lFwSfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg)
@@ -270,6 +304,9 @@ Netflix
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## [Finding 'Ohana (2021): For Anyone Who Misses The Goonies](https://www.imdb.com/title/tt10332588/)
 
 ![Owen Vaccaro, Alex Aiono, Lindsay Watson, and Kea Peahu in 'Finding Ohana'](https://www.lifewire.com/thmb/IMA9uc_Ow-aeDZhjS9PkhC8dBZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FindingOhana-52f29856683f46fbbfed9a6c1fd854d7.jpg)
@@ -354,6 +391,9 @@ Netflix
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## [Rise of the Teenage Mutant Ninja Turtles: The Movie (2022) — Heroes in a Half Shell Go Intergalactic](https://www.imdb.com/title/tt9784708/)
 
 ![Rise of the Teenage Mutant Ninja Turtles: The Movie](https://www.lifewire.com/thmb/vSNgLzG1Ijiq5w4dFHGznUdeRKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-june-2023-5104880-01c11eb2fa8243438f006498fc9f8feb.jpg)
@@ -410,6 +450,9 @@ _You Are So Not Invited to My Bat Mitzvah_ is a more grown-up Adam Sandler movie
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [JJ+E (2021): A Swedish Romance About Class and Cultural Barriers](https://www.imdb.com/title/tt12299824/)
 
 ![Mustapha Aarab and Elsa Öhrn in "JJ+E"](https://www.lifewire.com/thmb/GsSfiMPeEZqpEPSOK7aqlmavCik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/JJE-c301e6e36bcb4f299aafd793f7dd3c25.jpg)
@@ -438,6 +481,9 @@ Netflix
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Vampires vs. The Bronx (2020): Best Gentrification Metaphor Since Candyman](https://www.imdb.com/title/tt8976576/)
 
 ![Jaden Michael, Gerald Jones III, and Gregory Diaz IV in 'Vampires vs. the Bronx'](https://www.lifewire.com/thmb/npr8WvdVzX6W7Rt5rDoo8LidXI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/VampiresvsTheBronx-914ba870a286419c9c1d0469cd624cd0.jpg)
@@ -468,6 +514,9 @@ of 17
 
 ## [Chupa (2023): E.T. Meets Mexican Folklore](https://www.imdb.com/title/tt14923260/)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Evan Whitten in Chupa](https://www.lifewire.com/thmb/sUX_JwO30yy67jVEclJSrCm4eB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-may-2023-5104880-2dd49594c2524672a5c74e066681cbff.jpg)
 
 Netflix

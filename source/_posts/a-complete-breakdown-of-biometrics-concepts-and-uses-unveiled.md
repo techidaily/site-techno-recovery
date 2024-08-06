@@ -1,7 +1,7 @@
 ---
 title: "A Complete Breakdown of Biometrics: Concepts and Uses Unveiled"
-date: 2024-08-04 12:53:24
-updated: 2024-08-05 10:33:19
+date: 2024-08-05T01:59:13.336Z
+updated: 2024-08-06T01:59:13.336Z
 categories:
   - BestProducts
 description: "This Article Describes A Complete Breakdown of Biometrics: Concepts and Uses Unveiled"
@@ -15,6 +15,10 @@ Close
 
 [ Artificial intelligence](https://www.lifewire.com/what-is-artificial-intelligence-5119206) is converging with biometrics to help provide more security in computers and[ smartphones](https://www.lifewire.com/what-makes-a-smartphone-smart-579597) . This article explains the topic.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Biometrics Defined 
 
  Biometrics is defined as the study and application of scientific and/or technological methods designed to measure, analyze, and/or record a human’s unique physiological or behavioral characteristics.
@@ -23,10 +27,16 @@ Close
 
  In fact, many of us already use biometrics now in the[ forms of our fingerprints](https://www.lifewire.com/understanding-finger-scanners-4150464) and our faces.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Biometrics Are Used in Daily Life 
 
  Although biometrics has been used by various industries for decades, modern tech has helped it gain more public awareness. For example, many of the latest smartphones feature fingerprint scanners and/or[ facial recognition](https://www.lifewire.com/how-facial-recognition-is-learning-to-read-masked-faces-5089684) to unlock devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Eye overlaid with a computer-generated retina scanner](https://www.lifewire.com/thmb/PbK4vRFrhiDsli6CECK91rgASfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/eyeretinascanner-30543474ba0340338d038bab9442da7f.jpg) 
 
  Anthony Lee / Getty Images 
@@ -39,6 +49,10 @@ Close
 
  However, the collection, storage, and handling of biometric data (particularly with regards to consumer tech) often brings up concerns about personal privacy, security, and identity protection.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Biometric Types and Screening Characteristics 
 
  There are a number of biometric characteristics in use today, each with different means of collection, measurement, evaluation, and application. Physiological characteristics used in biometrics relate to the_shape and/or composition_ of the body. Some examples are (but not limited to):
@@ -70,6 +84,9 @@ Close
 
  These factors also help determine if one biometric solution may be better to apply in a situation than another. But cost and the overall collection process are also considered. For example, fingerprint and face scanners are small, inexpensive, fast, and easy to implement into mobile devices. This is why smartphones feature those instead of hardware for analyzing body odor or vein geometry!
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Biometrics Work in Everyday Life 
 
 ![A thumb in the process of recording a print with black ink](https://www.lifewire.com/thmb/lb87r1wJMdq1q8wkKjYUpAyKYsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680792625-5a0f120547c2660037ff8cdf.jpg) 
@@ -96,6 +113,9 @@ Close
 
  Matching involves a scoring process that calculates degrees of similarity, errors (e.g. imperfections from the collection process), natural variances (i.e. some human characteristics can experience subtle changes over time), and more. If a score passes the minimum mark for matching, then the system succeeds at identifying/authenticating the individual.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Biometric Identification vs. Authentication (Verification) 
 
 ![A close up of hands holding smartphones using biometric access for mobile banking apps](https://www.lifewire.com/thmb/tRyYGEDb1mQpT__SniNb5GInrbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-657174560-5a0f125f89eacc0037a6bbc6.jpg) 

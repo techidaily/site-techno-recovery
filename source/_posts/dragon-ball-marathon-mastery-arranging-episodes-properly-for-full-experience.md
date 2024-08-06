@@ -1,7 +1,7 @@
 ---
 title: Dragon Ball Marathon Mastery - Arranging Episodes Properly for Full Experience
-date: 2024-08-05 11:21:20
-updated: 2024-08-06 11:50:57
+date: 2024-08-05T01:59:10.539Z
+updated: 2024-08-06T01:59:10.539Z
 categories:
   - BestProducts
 description: This Article Describes Dragon Ball Marathon Mastery - Arranging Episodes Properly for Full Experience
@@ -18,10 +18,16 @@ thumbnail: https://www.lifewire.com/thmb/ckXLxISNmau0WxhBWrUuUAR5L5c=/400x300/fi
 
  This article explains how to watch all the_Superman_ movies in order of release and by series, along with some non-linear ways to watch.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Note
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies in Release Order
 
  If you have a healthy chunk of time to spare for a movie marathon, you could easily get through the original four_Superman_ movies in a weekend.
@@ -56,6 +62,9 @@ thumbnail: https://www.lifewire.com/thmb/ckXLxISNmau0WxhBWrUuUAR5L5c=/400x300/fi
 
  You could also break up your viewing with a couple of strategic groupings by series.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### The Christopher Reeve Era
 
  These films feature many fans' favorite Superman, Christopher Reeve, who played both the strong and confident Man of Steel and the bumbling, mild-mannered Clark Kent perfectly.
@@ -70,6 +79,9 @@ thumbnail: https://www.lifewire.com/thmb/ckXLxISNmau0WxhBWrUuUAR5L5c=/400x300/fi
 | _Superman IV: The Quest for Peace_ | Max                |
 | _Superman Returns_                 | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### DC Extended Universe
 
  The DCEU ran from 2013 (_Man of Steel_ ) to 2023 (_Aquaman and the Lost Kingdom_ ). Henry Cavill plays Superman in this franchise, and the character appears in several installments.
@@ -91,12 +103,18 @@ thumbnail: https://www.lifewire.com/thmb/ckXLxISNmau0WxhBWrUuUAR5L5c=/400x300/fi
 
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Compare Origin Stories
 
  Origin stories are a quintessential part of superhero anything. Watch the original_Superman: The Movie_ and_Man of Steel_ to see where the two meet and diverge. There’s a considerable time gap between the two, 1978 versus 2013, but all things considered, the special effects from 1978 still hold up in their own (often comical) way.
 
  If you’re interested in seeing more, several platforms offer extended cuts and special editions of both the Christopher Reeve era and DCEU Superman movies. Look for these versions on Amazon Prime, Google Play, Vudu, and YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Something Old, Something New, Something Newer
 
  If you want to experience the Christopher Reeve era but don’t want to watch the whole series, you don’t have to._Superman II_ does a great job of summarizing the first movie in the intro credits and features two formidable enemies: General Zod and Lex Luthor._Superman III_ and_Superman IV_ are not as good, so you can leave it at the second one.

@@ -1,7 +1,7 @@
 ---
 title: Navigating Lenovo's Discount Program for Students and Academic Enthusiasts
-date: 2024-08-03 19:33:12
-updated: 2024-08-05 11:34:32
+date: 2024-08-05T01:59:23.422Z
+updated: 2024-08-06T01:59:23.422Z
 categories:
   - BestProducts
 description: This Article Describes Navigating Lenovo's Discount Program for Students and Academic Enthusiasts
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/6OAXegC-cuI-rVZdpL8rYOAoo-Q=/400x300/fi
 
  Lenovo also offers discounts to military personnel, teachers, and senior citizens.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How to Sign Up for the Lenovo Student Discount
 
  Since Lenovo uses ID.me to verify your enrollment, you need to either sign up for an ID.me account and set it up before or, as shown below, create it while shopping for a deal.
@@ -25,18 +28,33 @@ thumbnail: https://www.lifewire.com/thmb/6OAXegC-cuI-rVZdpL8rYOAoo-Q=/400x300/fi
 1. Navigate to the[ID.me Student Discounts page](https://shop.id.me/student) and use the search bar to search for Lenovo deals.  
 ![Search results for the Lenovo brand on the ID.me Student Deals site.](https://www.lifewire.com/thmb/AbMcQ19FF6rXmXmR0QxNHelyxaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_lenovo-student-discount-4686110-90891c6114e4441e9b2143f9663a2cbc.jpg)
 2. Scroll down to**All Offers** and select**Shop Now** beside a student deal of interest.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Student deal offers for the Lenovo brand on the ID.me shop.](https://www.lifewire.com/thmb/IFelZHCkRNHDTtCCfcfTR3Q5xUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_lenovo-student-discount-4686110-6807a8d875a24ab683ab33b154b63e71.jpg)
 3. You'll be redirected to view and shop student deals on the Lenovo site.  
 ![Back-to-school deals on the Lenovo site](https://www.lifewire.com/thmb/Wt3WcrIQtxSUhEa31r7yaejAr5Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_lenovo-student-discount-4686110-9f9923e8eb5243678f9ced51db7c6986.jpg)
 4. Once you've added an item to your cart and you're ready to make your purchase, view the cart and scroll down until you see the ID.me verification box. Then select**Verify with ID.me** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Verify with ID.me option from the Lenovo checkout page](https://www.lifewire.com/thmb/n4OwILW4aBaHE91JfeX0JQRg_44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_lenovo-student-discount-4686110-dd7afc30a4784a428579447592c05b41.jpg)
 5. Select**Student** \>**Continue to sign in** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Sign-in option as a student via ID.me verification from the Lenovo website](https://www.lifewire.com/thmb/HNCIzyPkQMfFdlQkqi_R7pdvLkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_lenovo-student-discount-4686110-af6ee06d647e4718811b38e23119afb1.jpg)
 6. Select**Create an ID.me account** .  
 ![The Create an ID.me account option from the ID.me verification box on the Lenovo site](https://www.lifewire.com/thmb/LA37K_TFyCSv8Zgn-KG36vscgrg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_lenovo-student-discount-4686110-22abe59239694111865cad34a05ad14b.jpg)
 7. Enter an email and password and select**Create account** .  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID.me create account dialog box from the Lenovo site](https://www.lifewire.com/thmb/c_QfPgvKb6N9S5ibSdoizhp7WAQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_lenovo-student-discount-4686110-0990fc1c577a401da0c6202ea670f42e.jpg)
 8. After you verify your email address, select**Begin** to start the student enrollment verification process.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ID.me Student ID confirmation.](https://www.lifewire.com/thmb/PBnU2VMs9pTHd6RHUKIQIubNrWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/begin-f2793e4c6c894196bd58e9bcf50bfa59-a83cfbf7ad5840a4b5881e8ea62d659d.JPG)
 9. Choose your school, enter your information, and select**Continue** .  
 ![ID.me school enrollment verification page.](https://www.lifewire.com/thmb/ao7U2J8Fv8fVb9ZTFjggs9kGBmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/idme8-37143fdf4c224ed5979b3469f5652fef-2ac1ec7344944ed19941f56ddceb623f.JPG)
@@ -48,6 +66,18 @@ thumbnail: https://www.lifewire.com/thmb/6OAXegC-cuI-rVZdpL8rYOAoo-Q=/400x300/fi
  You can also go directly to the Lenovo student discount page once you have an established ID.me account.  
 
 1. Navigate to the[Lenovo Students & Teachers Discounts](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Flandingpage%2Fstudents-and-teachers%2F) page. Select**Shop Now** .  
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lenovo student discounts page](https://www.lifewire.com/thmb/2QP1g9CnrT1u8MW6L-3fZ4FQAmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_lenovo-student-discount-4686110-aaad3fab4c7243b0a1cd3d1ff6a5ff18.jpg)
 2. Determine which model you want, and select**Add to Cart** . If prompted, choose**Add to Cart** a second time to finalize the process and view your cart.  
 ![Add To Cart option when shopping on the Lenovo site](https://www.lifewire.com/thmb/6gzTYV8Uyp1xG0HDlCDNfX4Z2oI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_lenovo-student-discount-4686110-e7dae007e58e4dd6a6ceb1a6d29dccbf.jpg)
@@ -69,18 +99,28 @@ thumbnail: https://www.lifewire.com/thmb/6OAXegC-cuI-rVZdpL8rYOAoo-Q=/400x300/fi
 
  Primary and secondary students aren't eligible for the discount. College students who haven't turned 18 are also not eligible. The program isn't available to anyone currently taking professional training courses but not enrolled at a qualifying university or college.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## What Does the Lenovo Student Discount Get You?
 
  The Lenovo student discount provides a five to 20 percent discount on big name brands like Thinkpad and Ideapad. There isn't a standard discount amount, but you can view the currently available deals by visiting the Lenovo College Deals page.
 
  Lenovo applies discounts in the shopping cart after verifying that you are a student. You won't see the discount reflected in the Lenovo website's prices.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How Does Lenovo Verify Student Enrollment?
 
  Lenovo uses an identity verification service called ID.me to check your enrollment as a qualifying institution student. This service verifies enrollment at four-year universities, junior and community colleges, and technical colleges.
 
  When ID.me can't automatically verify your enrollment, you can upload supporting documentation. For this process to work, you'll need to scan your documents for students at ID.me to go through manually.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## What to Do When Automatic Verification Fails
 
  Since Lenovo uses ID.me to check your status as a student, the verification process is usually automated and painless. When the process fails, upload your supporting documentation to access your student discount.

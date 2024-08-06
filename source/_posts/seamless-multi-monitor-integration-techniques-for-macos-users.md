@@ -1,7 +1,7 @@
 ---
 title: Seamless Multi-Monitor Integration Techniques for macOS Users
-date: 2024-08-04 19:46:34
-updated: 2024-08-05 10:23:53
+date: 2024-08-05T01:59:37.187Z
+updated: 2024-08-06T01:59:37.187Z
 categories:
   - BestProducts
 description: This Article Describes Seamless Multi-Monitor Integration Techniques for macOS Users
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/SFDykkrgMWww5ACWNZgMftXl0WE=/400x300/fi
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Insert Code in Word With an Embedded Document
 
  While there isn't an 'insert code' option or a dedicated code block in Word, there is a way to insert one document into another. This effectively creates an isolated section that houses all the code. Here's how to make this work with your code:
@@ -25,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/SFDykkrgMWww5ACWNZgMftXl0WE=/400x300/fi
 These instructions only work with a single page of code.
 
 1. Open the document you want the code to appear in, and select**Insert** .  
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Word document with the Insert field highlighted](https://www.lifewire.com/thmb/hhaKemMmX0vrIo89Vh-8tqrp0Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-insert-source-code-into-word-document-3994582-1a2d127c226f4846bf9bec7d9a281fc5.jpg)
 2. In the**Text** group, select**Object** .  
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
@@ -37,11 +43,22 @@ These instructions only work with a single page of code.
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -52,6 +69,9 @@ These instructions only work with a single page of code.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.

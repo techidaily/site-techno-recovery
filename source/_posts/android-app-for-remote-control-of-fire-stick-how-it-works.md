@@ -1,7 +1,7 @@
 ---
 title: Android App for Remote Control of Fire Stick - How It Works
-date: 2024-08-05 22:31:53
-updated: 2024-08-06 11:47:15
+date: 2024-08-05T01:59:28.349Z
+updated: 2024-08-06T01:59:28.349Z
 categories:
   - BestProducts
 description: This Article Describes Android App for Remote Control of Fire Stick - How It Works
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
 ---
 
 ## Android App for Remote Control of Fire Stick - How It Works
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * On your Fire TV, hold the**Home** button to bring up a new menu and select**Mirroring** .
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
 
  This page will walk you through the setup process to get your Amazon Fire TV Stick ready for casting, the instructions for casting from an Android mobile, and some additional options for Samsung phone users.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Can Android Stream to Fire TV Sticks?
 
  Android smartphones and tablets can stream or cast to Amazon’s Fire TV Stick devices. Before Fire Sticks can receive a wireless broadcast from your Android device, you need to set them up properly.
@@ -30,8 +36,15 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
 ![Fire TV Stick menu with Mirroring highlighted.](https://www.lifewire.com/thmb/qKvb3gx91cEcIS_1ZuQVtyIHV8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_cast-to-firestick-from-android-5203940-07ee8331644e40548b51b0d8db7d6639.jpg)
 3. Press**Enter** on the Fire Stick remote to activate the**Mirroring** option.  
 Enter is the large circle button on the remote.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fire Stick menu with Mirroring tile highlighted from the shortcut menu.](https://www.lifewire.com/thmb/HHKPByl6ZToAKKsraJQX_cC2-Cs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_cast-to-firestick-from-android-5203940-699056d65c4445a68aba96493d4c6f19.jpg)
 4. The screen should now change and your Fire Stick is now primed and ready to receive a wireless casting signal.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Fire Stick Display Mirroring screen.](https://www.lifewire.com/thmb/UkfPkJTnj7o6Ibuc-AHVIGhFHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_cast-to-firestick-from-android-5203940-2717553df30541fb871ee1fef9b28d68.jpg)  
 
 ## How to Cast to Amazon Fire TV Stick From Android  
@@ -45,10 +58,16 @@ Enter is the large circle button on the remote.
 8. Check the box next to**Enable wireless display** . This will make additional devices such as the Amazon Fire TV Stick visible in the Cast list.  
  If you ever have trouble finding your Fire Stick when casting, repeat this step to make it visible again.
 9. Select the name of your Fire TV Stick.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Android wireless display cast settings.](https://www.lifewire.com/thmb/YABRvBSzh5daotOFpjkzKZqaZ1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_cast-to-firestick-from-android-5203940-467c4af4f85948bbbcacf596028705d2.jpg)
 10. Your Android mobile device should now have its screen mirrored on your Fire TV on your TV. To end the casting session, tap the Fire TV Stick's name from the Cast menu once again.  
 ![Fire TV and smart TV in the Android Cast settings.](https://www.lifewire.com/thmb/Rp1cb2dP4xTjlf6U0S9jQB6CBOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_cast-to-firestick-from-android-5203940-38efe25a67b64beab712699c9261c55b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Can You Cast to a Fire Stick From Samsung Phones?
 
  The method for casting to a Fire Stick from a Samsung device is slightly different than the normal Android process as it uses[Samsung’s Smart View casting technology](https://www.lifewire.com/how-samsung-allshare-simplifies-media-streaming-1847358) .

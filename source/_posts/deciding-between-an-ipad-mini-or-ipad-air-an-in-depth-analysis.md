@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between an iPad Mini or iPad Air: An In-Depth Analysis"
-date: 2024-08-03 15:40:57
-updated: 2024-08-05 10:29:33
+date: 2024-08-05T01:59:36.914Z
+updated: 2024-08-06T01:59:36.914Z
 categories:
   - BestProducts
 description: "This Article Describes Deciding Between an iPad Mini or iPad Air: An In-Depth Analysis"
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 
  Emoji are here to stay as long as we all continue tweeting and texting. Here are a few interesting facts about those crazy, colorful little emoji that prove just how much the world loves them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Apple Is Credited for Emoji Popularity
 
  Emoji have been around since 1999 when Japanese designer Shigetaka Kurita made the first emoji for cellphones, but they weren't fully embraced by the masses until 2012 when Apple released iOS 6.
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 
 The plural of emoji is emoji, not emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Emoji Are Announced Regularly
 
  New emoji are being added all the time. In 2017 the Unicode Consortium finalized 69 new ones including a vampire, a genie, a mermaid, and many more.
@@ -48,6 +54,9 @@ The plural of emoji is emoji, not emojis.
 
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Emoji Tattoos Show Up in Odd Places
 
  What's the latest trend in tattoo art? Emoji, of course.
@@ -56,12 +65,18 @@ The plural of emoji is emoji, not emojis.
 
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
 
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
@@ -80,6 +95,9 @@ The plural of emoji is emoji, not emojis.
 
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Emoji Trivia
 
  It shouldn't be a surprise that the skull emoji is most used in October and the Christmas tree in December, but no one knows why the 100 emoji is so popular in November.

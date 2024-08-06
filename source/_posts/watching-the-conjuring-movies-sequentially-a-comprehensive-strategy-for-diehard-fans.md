@@ -1,7 +1,7 @@
 ---
 title: "Watching The Conjuring Movies Sequentially: A Comprehensive Strategy for Diehard Fans"
-date: 2024-08-04 20:53:38
-updated: 2024-08-06 10:27:53
+date: 2024-08-05T01:59:30.382Z
+updated: 2024-08-06T01:59:30.382Z
 categories:
   - BestProducts
 description: "This Article Describes Watching The Conjuring Movies Sequentially: A Comprehensive Strategy for Diehard Fans"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/d9a0fed70b3544c875727acbd189babb9991061b2
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * The_Conjuring_ movies were not released chronologically.
@@ -21,6 +24,18 @@ Close
 
  The Conjuring is one of the most prolific horror movie franchises of the last decade, with three main entries and multiple prequels and spinoffs. The movies haven't come out in chronological order, so this guide will help you keep them straight.  
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Watch the ‘Conjuring’ Movies in Chronological Order 
 
  The original 2013 film and its direct sequels are set during the 1970s and into the early 80s. The movies follow the fictional ghost hunting of real-life paranormal investigators Lorraine and Ed Warren.
@@ -46,6 +61,9 @@ Close
 
  Planning a marathon? It'll take you the better part of a day: Watching all 10 movies will take 17 hours, 24 minutes. You can save some time by excluding the "unofficial" entries–_Wolves at the Door_ and_The Curse of La Llorona_ –which takes the total time down to 14 hours, 39 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Watch the ‘Conjuring’ Movies in Release Order 
 
  If you’d prefer to watch the_Conjuring_ movies in the order they came out, your viewing schedule will look quite a bit different from above. Here’s the timeline:
@@ -63,6 +81,9 @@ Close
 | _The Conjuring: The Devil Made Me Do It_ | June 4, 2021      | Max                |
 | The Nun II                               | September 8, 2023 | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Will There Be More ‘Conjuring’ Movies? 
 
  Plans are currently in the works for a fourth and final_Conjuring_ movie, subtitled_Last Rites_ . It'll be another story featuring the Warrens, with Patrick Wilson and Vera Farmiga returning. We don't know yet which case it's based on, but it's due out on September 5, 2025.

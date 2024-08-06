@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Method: Purging Every Correspondence via Gmail App on Mobile Devices"
-date: 2024-08-04 13:15:14
-updated: 2024-08-05 11:17:40
+date: 2024-08-05T01:59:22.447Z
+updated: 2024-08-06T01:59:22.447Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Method: Purging Every Correspondence via Gmail App on Mobile Devices"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 ---
 
 ## Comprehensive Method: Purging Every Correspondence via Gmail App on Mobile Devices
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Swipe up to load up to 251 emails in your inbox.
@@ -20,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
  The steps on this page can be used for both the Android and iOS Gmail apps.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete All Emails in Gmail App At Once
 
  Here are the steps for emptying your inbox in the Gmail app by deleting multiple emails in batches.  
@@ -34,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
  An Undo option will appear in the lower-right of the screen for a brief few seconds. If you made a mistake, you can just tap it to undo the above deletion process.
 5. Repeat the above steps until all your emails have been deleted from the Gmail app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Delete All Emails in Gmail via a Web Browser
 
  If you have thousands of emails in your inbox and don’t have the time to erase multiple emails in batches on the Gmail app, you can delete all emails at once with just a few clicks within a web browser.  
@@ -41,12 +50,18 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 1. Click the**Select** box next to the**Refresh** icon at the top of the screen.  
 ![The Gmail service in a web browser with the Select all button highlighted.](https://www.lifewire.com/thmb/lFuVM-FSRePNqTzGqZow0Pv38Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-DeleteAllEmailsinGmailApp-annotated-d68608ac63e14017bc12e235aff7d0b2.jpg)
 2. Click the new text link that reads**Select all conversations in Inbox** . Every single email in your Gmail inbox will now be selected.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Gmail service in a web browser with the Select all text link highlighted.](https://www.lifewire.com/thmb/vztJYMObv0V8XU2bcDxMoM59p5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-DeleteAllEmailsinGmailApp-annotated-f7af1da4b7494934a7bd0eb139ce5d02.jpg)
 3. Click the**Delete** icon.  
 ![The Gmail service displayed in a web browser and the Delete icon is highlighted.](https://www.lifewire.com/thmb/Aet5qeLZ4KFzD2b9Wn98xP-8ZAQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-DeleteAllEmailsinGmailApp-annotated-0462d62ec3a74ef6a22099f121475bf5.jpg)
 4. Due to the scale of this action, a confirmation message will appear. Click**OK** to delete all of your emails at once.  
 ![Gmail inbox in web browser with OK option highlighted.](https://www.lifewire.com/thmb/mN-KCGz8zwdOKNIj266wuXymkLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-delete-all-emails-in-gmail-app-04-e13845c10f834b32bebbb6daeeb2f066.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Undelete Multiple Emails in the Gmail App
 
  When you delete an email from your Gmail inbox, it moves to the Gmail Trash folder. All emails within the Trash folder can be moved back to your Inbox at any time within 30 days of the deletion process being performed.
@@ -58,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 1. From your Gmail inbox, tap the hamburger menu icon in the top-left corner.
 2. Tap**Trash** .
 3. Perform a long-press on an email that you want to undelete.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Three screens of the Gmail mobile app. In the left screen, the Hamburger menu (three horizontal lines) is highlighted. In the middle screen the trash can (labeled Bin) is highlighted. Nothing is highlighted in the right most screen.](https://www.lifewire.com/thmb/oZbiyiYRBZegWB70q_rRFibbhy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-DeleteAllEmailsinGmailApp-annotated-3e007a972bd54787bb333765de9d93d9.jpg)  
  Gmail is customized based on your location. So, in my case, the Trash is called Bin. Depending on where you're located, it could say Trash or Bin.
 4. Tap additional emails to select them.  

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Conversations: A Step-by-Step Guide to Using Chat Functions in Mozilla Thunderbird"
-date: 2024-08-05 20:31:41
-updated: 2024-08-06 12:25:39
+date: 2024-08-05T01:59:36.218Z
+updated: 2024-08-06T01:59:36.218Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Conversations: A Step-by-Step Guide to Using Chat Functions in Mozilla Thunderbird"
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 ---
 
 ## Mastering Conversations: A Step-by-Step Guide to Using Chat Functions in Mozilla Thunderbird
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * In Thunderbird, select**File** \>**New** \>**Chat Account** . Enter a username and password for your chat service, then click**Finish** to exit.
@@ -18,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
  This article explains how to set up and use the chat feature in[Mozilla Thunderbird](https://www.lifewire.com/mozilla-thunderbird-review-1173071) so that you can use instant messaging with your contacts. Instructions apply to Thunderbird 15 and later. To chat in Thunderbird, you need an account with an online instant messaging or chat provider, such as IRC, XMPP, X (formerly Twitter), or[Google Talk](https://www.lifewire.com/how-to-chat-with-somebody-or-a-group-in-gmail-1171987) .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Start the New Account Wizard
 
  Thunderbird's New Account Wizard makes it easy to configure chat.
@@ -29,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 5. When you reach Advanced Options, just click**Continue** , as you won't need these settings.
 6. You will be presented with a Summary screen. Click **Finish** to finish the wizard and start chatting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## How to Use Chat
 
  Once you have your chat account configured, here's how to start chatting:
@@ -38,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 3. Click**Connect** next to the account you want to go online with.
 4. Click on the**Chat** tab next to the**Write** tab to start and join conversations.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## More on Thunderbird
 
 [Mozilla Thunderbird](https://www.lifewire.com/mozilla-thunderbird-review-1173071) is a free email program that offers a range of options for PC users without access to robust paid software like Microsoft Outlook. Allowing you to integrate multiple mailboxes with SMTP or POP protocols, Thunderbird is a lightweight, responsive piece of software. Thunderbird is developed by Mozilla, the group behind Firefox.

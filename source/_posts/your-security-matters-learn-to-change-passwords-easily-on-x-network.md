@@ -1,7 +1,7 @@
 ---
 title: "Your Security Matters: Learn to Change Passwords Easily on X Network"
-date: 2024-08-03 15:34:42
-updated: 2024-08-05 11:45:12
+date: 2024-08-05T01:59:37.574Z
+updated: 2024-08-06T01:59:37.574Z
 categories:
   - BestProducts
 description: "This Article Describes Your Security Matters: Learn to Change Passwords Easily on X Network"
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 * **Copy a different image using the Preview app** : This method copies a photo or icon using the Preview app, so it can change the color of a folder icon, replace it with an image, or even replace it with a custom icon.
 * **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change Folder Color on Mac Using Preview
 
  Using the Preview app, you can customize the color of any folder. This is a multi-step process that's complicated enough that you will probably have to refer to this guide the first couple times you do it, but it isn't difficult.
@@ -37,12 +40,21 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 2. Select**Get Info** from the context menu.  
 ![A screenshot of a folder context menu.](https://www.lifewire.com/thmb/GEn2Q5Tf1SHsQ9NN3z3au9B37ek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-ChangeFolderColoronMac-annotated-3385fa419f404cbe941ce346ca4fff72.jpg)
 3. Click the**folder icon** in the upper left of the folder info window so that it is highlighted.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![A screenshot of the folder info box on macOS.](https://www.lifewire.com/thmb/3dEqd1G-bbtDdiGsMpSUPtPn-sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ChangeFolderColoronMac-annotated-bf971c3eafea41448cee2071f8520c6e.jpg)
 4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
 ![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
 5. Locate and open the**Preview** app.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
 6. With Preview open, click**File** in the menu bar.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
 7. Select**New from Clipboard** .  
 ![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
@@ -51,15 +63,27 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
 ![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
  Want more options? You can paste the folder icon into any image-editing software you have.
 11. Select the colored folder, and press**Command+C** to copy it.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
 12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
 13. Click the folder in the Folder Info box, and press**Command+V** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Customizing Folders With Images and Icons
 
  You can[customize your folders with your own images and custom icons](https://www.lifewire.com/personalize-mac-by-changing-desktop-icons-2260911) using this same basic process.

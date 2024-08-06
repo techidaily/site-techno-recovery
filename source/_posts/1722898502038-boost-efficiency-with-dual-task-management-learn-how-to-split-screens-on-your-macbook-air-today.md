@@ -1,7 +1,7 @@
 ---
 title: Boost Efficiency with Dual Task Management - Learn How to Split Screens on Your MacBook Air Today
-date: 2024-08-04 10:31:27
-updated: 2024-08-06 12:15:13
+date: 2024-08-05T01:59:36.734Z
+updated: 2024-08-06T01:59:36.734Z
 categories:
   - BestProducts
 description: This Article Describes Boost Efficiency with Dual Task Management - Learn How to Split Screens on Your MacBook Air Today
@@ -31,6 +31,23 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
 1. Hover your mouse over the**Green Circle** (full-screen button) in the left corner of an open window. A drop-down menu should appear.  
 ![MacBook Air with Lifewire website open and green dot menu highlighted](https://www.lifewire.com/thmb/qIK-hOcPpNi26E2hn9ABUwx-ib0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Greendotmenu-644017cc34b74ab08e3116c4e051d306.jpg)
 2. Click on either**Tile Window to Left of Screen** or**Tile Window to Right of Screen** to display your current window on the left or right side of your screen, respectively.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![MacBook Air with Lifewire website open and Tiling options highlighted](https://www.lifewire.com/thmb/doZhWFV7eXZ8_FqKkUr0NW6jC3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tileoptions-533d4230371441a78ef8cbe1ac054a1e.jpg)
 3. Depending on what you selected, your current window will be on the left or right of the screen.  
 ![Selecting second window in Mac Split View.](https://www.lifewire.com/thmb/XPbpubdxX7CxXrliBPngZg5V6TQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-do-split-screen-on-a-macbook-air-d085becc70464af4af4070b3b8db178d.jpg)
@@ -40,12 +57,23 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
 ![Swapping window positioning in Mac Split View.](https://www.lifewire.com/thmb/GAwIa1w8f77NK8-gBbBHusTCjRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-do-split-screen-on-a-macbook-air-cfa17d37feff42d497f36d89c8511b4c.jpg)
 6. If you’d like one window to be larger than the other, you can resize them by clicking and dragging the border between the two windows. Both windows will still fill the entire screen.  
  In macOS Monterey (12.0) and later, you can also swap out apps in Split View and make either pane switch to full screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Adjusting window sizing in Mac Split View with window border highlighted](https://www.lifewire.com/thmb/ky3DzDBOWrxCjrhndHnTSpdFrq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resizewindowborder-8af934138964454391c58ee55601ccf8.jpg)
 7. To exit Split View, hover over the top of the screen until the grey menu bar reappears. Next, hover over the green circle button and select**Exit Full Screen** . Alternatively, you can click the green circle button.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![MacBook Air website with Exit Full Screen highlighted](https://www.lifewire.com/thmb/RVpGTM72IBamY9sxdq9WmLr-0W0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Exitfullscreen-e847fb5e1a44486a981675dd367db301.jpg)  
  Sometimes, exiting full screen will cause one of your windows to disappear. If this happens to you, it’s most likely because something put the window in a separate view in[Mission Control.](https://www.lifewire.com/assign-mac-apps-to-open-in-specific-desktop-space-2260812) On your keyboard, tap**F3** (it looks like a series of rectangles) to open Mission Control, and you should see your lost window in the bar at the top of your screen.  
 [How to Connect a MacBook Air to a Monitor](https://www.lifewire.com/connect-monitor-to-macbook-air-5192977)  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## How to Open Other Apps in Split View  
 
  You can easily toggle between apps or open a new one while in Split View by opening Mission Control, which lets you view all your open windows, apps, and desktop spaces. With Split View active, click F3 on your keyboard to open Mission Control. You should now be able to access any app you wish.  
@@ -66,10 +94,20 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
  If you have macOS Catalina or later installed and still can’t access Split View, make sure it’s enabled by following the steps below:
    8. Click the**Apple Menu** .
    9. Select**System Preferences** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Selecting System Preferences from Apple Menu on Mac desktop.](https://www.lifewire.com/thmb/AT4sp2cD3Beo1IheLO6LBwWi3y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SystemPreferences-160902a7424c425ca3f1db702db4a8ae.jpg)
    10. Click**Mission Control** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Selecting Mission Control from Mac System Preferences.](https://www.lifewire.com/thmb/70YcgJiWcCWWw-8xubpZZzUJapI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MissionControl-c80efa1f457e4e39a0ce93d76f1bfeb2.jpg)
    11. Ensure**Displays have separate Spaces** is selected.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)
 
  FAQ

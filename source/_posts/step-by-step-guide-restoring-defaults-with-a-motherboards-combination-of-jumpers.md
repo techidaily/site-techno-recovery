@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Defaults with a Motherboard's Combination of Jumpers"
-date: 2024-08-02 19:11:50
-updated: 2024-08-05 10:53:27
+date: 2024-08-05T01:59:12.682Z
+updated: 2024-08-06T01:59:12.682Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Restoring Defaults with a Motherboard's Combination of Jumpers"
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 
  Below are three very different ways to clear CMOS. Any one method is as good as any other but you may find one of them easier, or whatever problem you might be having may restrict you to clearing the CMOS in a particular way.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Reset CMOS With the "Factory Defaults" Option
 
 ![BIOS Setup Utility Exit Menu](https://www.lifewire.com/thmb/Y3YnU7pINU1AFn92XVUy-82gzGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BIOS-setup-8fbd8c696b4f4558862fb72a615a2484.jpg)
@@ -30,8 +33,15 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 
  The directions linked above detail how to access your BIOS utility but don't specifically demonstrate how to clear the CMOS in your BIOS utility. It should be easy enough, however, as long as you can find that_reset_ option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Clear CMOS by Reseating the CMOS Battery
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![CMOS battery and enclosure found in many laptop and tablet computers](https://www.lifewire.com/thmb/QD_wCOm00w78lsvMQftTcHzbEqw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-tablet-cmos-battery-5995bc6822fa3a00114314c1.PNG)
 
 Dell Inc.
@@ -52,8 +62,14 @@ Dell Inc.
 
  If your computer is more than 5 years old this might be a great time to replace the battery. Eventually, these batteries do die and it's better to replace them on your own terms than have to deal with it later when you are in the middle of an important project.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Clear CMOS Using This Motherboard Jumper
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![CLEAR CMOS jumper on a motherboard](https://www.lifewire.com/thmb/uF8Yoh84zstdz9s0Px4-gwXmZsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jumper-5995bd1e054ad90011a00ea5.PNG)
 
  Yet another way to clear the CMOS is to short the_CLEAR CMOS_ jumper on your motherboard, assuming your motherboard has one. Most desktop motherboards_will_ have a jumper like this but most laptops and tablets_will not_ .
@@ -68,6 +84,9 @@ Dell Inc.
 
  If everything is good, turn off your computer, return the jumper to its original position, and then turn the computer back on. If you don't do this, CMOS will clear on every restart of your computer!
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Clear CMOS?
 
  One reason to reset CMOS is to help troubleshoot or solve certain computer problems or hardware compatibility issues. Many times, a simple BIOS reset is all you need to get a seemingly dead PC back up and running.

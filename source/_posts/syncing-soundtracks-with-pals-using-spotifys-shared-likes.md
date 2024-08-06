@@ -1,7 +1,7 @@
 ---
 title: Syncing Soundtracks with Pals Using Spotify's Shared Likes
-date: 2024-08-03 16:41:12
-updated: 2024-08-06 11:55:15
+date: 2024-08-05T01:59:21.710Z
+updated: 2024-08-06T01:59:21.710Z
 categories:
   - BestProducts
 description: This Article Describes Syncing Soundtracks with Pals Using Spotify's Shared Likes
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/VKVxjQAXT8uyOW6lqykjp9__CP4=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Open the**Spotify app** on your phone or tablet and select a song or podcast episode.
@@ -20,6 +23,9 @@ Close
 
  This article includes instructions for how to use Spotify Jam (formerly Group Session) in the mobile app so you can start a music listening party with your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Make a Listening Party on Spotify 
 
  To start a listening party with your friends, select a track or playlist and start a Jam to access a sharing link. Here's how to do that.
@@ -31,15 +37,33 @@ Close
  Pick a song that’s part of a playlist so that you have many options to choose from off the bat. Otherwise, you can use the**Add songs** button for suggestions or rely on Jam participants to add to the queue.
 3. Tap the**Connect** icon on the**Now Playing** bar.
 4. Select**Start a Jam** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Connect and Start a Jam options in the Spotify mobile app for iOS.](https://www.lifewire.com/thmb/hbnOaAeCSXm009M05JwDePLv4Tc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_listen-to-spotify-with-friends-5120356-e39fc6468b2c4049bce87aaceda8d8c4.jpg)
 5. Click**Invite Friends** .  
  If a friend's nearby, select**Scan QR code** to display a QR code they can scan to instantly join your Jam. You can also tap your phones together to allow your friend to join; this feature works if you're both logged in to Spotify and connected to Bluetooth.
 6. Select**Share link** to share a link with friends in messaging apps like Messages,[ WhatsApp](https://www.lifewire.com/what-is-whatsapp-all-about-4781062) , or[ Facebook Messenger](https://www.lifewire.com/facebook-messenger-4103719) .  
  Spotify lacks built-in chat functionality, so you’ll need to use a third-party app if you want to chat with friends during a Jam.
 7. To end the Jam, tap**End** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Options to share a Spotify Jam link and end the session in the Spotify mobile app for iOS.](https://www.lifewire.com/thmb/qQBAU4mHPZC89EWOAt4-QjsDs0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_listen-to-spotify-with-friends-5120356-169432ba821842c4bd6d694dd0cac138.jpg)  
  Anyone can exit a Jam by selecting**Leave** . If the host leaves the Jam, this action automatically ends the listening session for everyone.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Is Spotify Jam (formerly Group Session)? 
 
  If you’re not in the mood for watching a video streaming service virtually with friends, Spotify has you covered.

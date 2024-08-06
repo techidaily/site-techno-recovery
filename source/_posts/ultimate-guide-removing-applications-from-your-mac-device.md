@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Removing Applications From Your Mac Device"
-date: 2024-08-04 10:36:12
-updated: 2024-08-05 10:53:51
+date: 2024-08-05T01:59:24.747Z
+updated: 2024-08-06T01:59:24.747Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Removing Applications From Your Mac Device"
@@ -26,13 +26,22 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
 [How to Delete Apps on a Mac That Won't Delete](https://www.lifewire.com/delete-apps-on-mac-that-wont-delete-8599133)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Removing Apps With the Finder
 
  The drag-and-drop method of deleting apps with the trash can doesn't work for all apps, but when you combine it with the Finder, you can delete almost any application. Here's how:
 
 1. Open a Finder window by selecting**File** \>**New Finder Window** in the Apple menu bar or by clicking the**Finder** icon on the Dock.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Apple menu bar showing File drop-down menu](https://www.lifewire.com/thmb/MGmsm3YDwhDyatYOHrrRRW3-h0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-uninstall-apps-on-the-mac-6275a27fdf634aa88081ee1bd2565f51.jpg)
 2. Click**Applications**  in the left panel of the Finder window to view the installed applications on your computer.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Mac Finder Window showing Applications](https://www.lifewire.com/thmb/vHQixA8eNCDtMNb9UUGfnSOYS1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-uninstall-apps-on-the-mac-f3bdc444cc264857b4ebfa75ee21d74d.jpg)
 3. Click the**Application** that you want to uninstall.
 4. Click**File** from the drop-down menu in the upper-left corner of the screen.
@@ -41,8 +50,14 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 6. Right-click the**Trash** icon in the Dock.  
 [How to Right-Click on a Mac](https://www.lifewire.com/right-click-on-a-mac-4164327)
 7. Click**Empty Trash** in the pop-up menu to remove the application from your Mac.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Trash Can in the Mac Dock](https://www.lifewire.com/thmb/_c8iNfdVM251v01qLTjDdWk_KRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-uninstall-apps-on-the-mac-a5e892ee5ad14e7c8d59b11902ecc636.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Uninstall Apps Using an Uninstaller
 
  Certain apps may include an Uninstall tool inside their Application folder. In this case, you want to uninstall using that tool.
@@ -55,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 ![Uninstall screen of a Mac app](https://www.lifewire.com/thmb/kEfXG6PEXMBajlmPo8uWF2fi1g0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-uninstall-apps-on-the-mac-2f9c59552b4d47a8a51866ebe1fc0ef8.jpg)
 4. Follow the on-screen instructions to uninstall the application. The directions vary depending on the program you're deleting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Uninstall Apps Using Launchpad
 
  Another option for uninstalling apps on a Mac is by using the Launchpad. This is an easy no-fuss way to uninstall the programs that you purchase from the App Store.

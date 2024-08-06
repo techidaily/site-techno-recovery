@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Your Oculus Quest/Quest E2 Profile on Meta"
-date: 2024-08-03 20:48:12
-updated: 2024-08-05 12:26:19
+date: 2024-08-05T01:59:18.439Z
+updated: 2024-08-06T01:59:18.439Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Setting Up Your Oculus Quest/Quest E2 Profile on Meta"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
 
  This article will walk you through restoring deleted or lost phone numbers on Android and Samsung devices.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Recover Deleted Numbers on Android
 
  You signed in to your Google account when you first up your Android. By default, your contacts sync with your Google account. Any contacts you delete will go to the Google Contacts trash folder. Here's how to recover a deleted contact or phone number from a computer or your phone:
@@ -28,11 +31,20 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
 ![The Trash menu item highlighted in Google Contacts.](https://www.lifewire.com/thmb/OMw5rrBEn05YHe01cLmVPj9hf7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FindDeletedPhoneNumbersonAndroid-annotated-a1dd410eec2a44f38b1ddb67b4dc14dd.jpg)  
  To do this from the mobile app, go to**Fix & manage** \>**Trash** .
 3. Select a contact from the list.  
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![A deleted contact highlighted in Google Contacts.](https://www.lifewire.com/thmb/EEQuRT7rucX1CfF5ZU4cm89v6k8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-FindDeletedPhoneNumbersonAndroid-annotated-4b1f46470012453b893ee092d52f7fb9.jpg)  
  Need help finding what you're after? Contacts sent to the trash are permanently deleted every 30 days so that you might have missed your opportunity. Additionally, if your phone hasn't been backing up your contacts, deleted entries will not appear here.
 4. Select**Recover** to pull the contact out of the trash and put it back into your regular list. If you want to keep the contact deleted, you can still copy the email address, phone number, or any other details from this screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![The Recover button highlighted for a deleted contact in Google Contacts.](https://www.lifewire.com/thmb/a97wY8W86SgGdS9pEFTZVRtaU3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-FindDeletedPhoneNumbersonAndroid-annotated-3d74c1e6a99c4fac941e44dfe4c1ccda.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Get Deleted Numbers Back on a Samsung Phone
 
  It's easy to recover deleted contacts on a Samsung phone because there's a handy recycle bin area that stores this information. You have 30 days to get a deleted phone number back before it disappears forever. Here's how:
@@ -44,11 +56,18 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
  Although it's not as common, your phone might have contacts stored on the internal memory or a SIM card. This can happen if that's where you've backed up your contacts. If you're lucky, the deleted number might still exist in the backup. Here's how to import those contacts:
 
 1. Go to**Contacts** \>**Menu** \>**Manage Contacts.**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![The Samsung Contacts app with the menu and 'Manage contacts' highlighted](https://www.lifewire.com/thmb/hGdu49Zvk3-BMwVJhDJRUg3hUkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers06-ac12a6b7ae344c169bc47cddcde5b324.jpg)
 2. Tap**Import or export contacts** \>**Import** . If you have any contacts stored on your SIM card or your internal memory, you'll see those sources in the list.
 3. Select the source you want to retrieve the contacts from, then tap**Import** .  
 ![A Samsung phone user imports contacts](https://www.lifewire.com/thmb/G98RJqkST9u56OLvOkTB5WJqXOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers07-2de9758e685a4be78eabfa70e20fbcae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Can I Restore Deleted Numbers on Android Without a Computer?
 
  Using your phone or tablet is the best way to get deleted numbers back. You can restore deleted contacts you've already backed up through the methods outlined above. While some desktop apps can do the job, too, possibly even better than the built-in methods, they usually cost.

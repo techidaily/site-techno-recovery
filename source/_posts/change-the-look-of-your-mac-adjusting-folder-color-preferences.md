@@ -1,7 +1,7 @@
 ---
 title: Change the Look of Your Mac - Adjusting Folder Color Preferences
-date: 2024-08-05 12:20:50
-updated: 2024-08-06 10:57:32
+date: 2024-08-05T01:59:19.921Z
+updated: 2024-08-06T01:59:19.921Z
 categories:
   - BestProducts
 description: This Article Describes Change the Look of Your Mac - Adjusting Folder Color Preferences
@@ -22,6 +22,9 @@ of 07
 
 ## [Create Organized, Artistic Notes and Notebooks: Notebook](https://www.zoho.com/notebook/)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screen Shot of Ipad Note Taking App, Notebook by Zoho Corporation](https://www.lifewire.com/thmb/ynAJojse4D1qOQ6eFARWnpDUL1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.36.21PM-5b45520a46e0fb003752cb4e.png)
 
  What We Like
@@ -47,8 +50,14 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## [Use Your Apple Pencil to Create Notes and Random Doodles: Nebo](https://www.nebo.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Screen Shot of iPad Note-Taking App, by MyScript Nebo Note Taking for Apple Pencil MyScript](https://www.lifewire.com/thmb/sU5EreLEah9rV3MqdHzdXWnYjmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.57.47PM-5b4421d6c9e77c00540a7c4b.png)
 
  What We Like
@@ -73,6 +82,9 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Track Your Notes With a Timeline: Agenda](https://agenda.com/)
 
 ![Screen Shot of iPad Note-Taking App, Agenda – A new take on notes 9+ Momenta B.V.](https://www.lifewire.com/thmb/HfQN2TevpYQTN7tZWIKgNhyXlK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.15.11PM-5b44189ec9e77c0037c9fe7e.png)
@@ -103,6 +115,9 @@ of 07
 
 ## [The Tools You Need to Finally Finish That Novel: Transom](https://apps.apple.com/us/app/transom-note-taking-for-writers/id927983947)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screen Shot of iPad Note Taking App, Transom, Note-taking for Writers by VoidMedia](https://www.lifewire.com/thmb/D-W0tDJzFgOogqVZz8Cg-uUV5HI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.02.33PM-5b4549d246e0fb0037b62987.png)
 
  What We Like
@@ -131,6 +146,18 @@ of 07
 
 ## [Convert Your Scribbles to Text: Notes Plus](https://www.writeon.cool/notes-plus/)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screen Shot of iPad app, Notes Plus by Viet Tran](https://www.lifewire.com/thmb/CdWqVs7w56VEyDvNrM4DKZLuBUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at7.51.16PM-5b4546d0c9e77c00372e65a0.png)
 
  What We Like
@@ -161,6 +188,10 @@ of 07
 
 ## [Customizable Notes: Drafts](https://getdrafts.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Screen Shot of iPad Note-Taking App, Note Taking: Notes & NotebookNotepad plus Markdown Writer React Apps Pty Ltd](https://www.lifewire.com/thmb/MbKvv1tpHWkwSwZJMDdlHQCMaJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.39.39PM-5b441de2c9e77c00371bd2c5.png)
 
 ​

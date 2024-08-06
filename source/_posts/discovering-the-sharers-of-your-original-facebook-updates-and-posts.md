@@ -1,7 +1,7 @@
 ---
 title: Discovering the Sharers of Your Original Facebook Updates and Posts
-date: 2024-08-05 20:27:54
-updated: 2024-08-06 12:49:34
+date: 2024-08-05T01:59:33.286Z
+updated: 2024-08-06T01:59:33.286Z
 categories:
   - BestProducts
 description: This Article Describes Discovering the Sharers of Your Original Facebook Updates and Posts
@@ -28,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/SNGPERaRKGejqhyQM77gSNzGYOQ=/400x300/fi
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
@@ -40,6 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/SNGPERaRKGejqhyQM77gSNzGYOQ=/400x300/fi
 
 The plural of emoji is emoji, not emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## New Emoji Are Announced Regularly
 
  New emoji are being added all the time. In 2017 the Unicode Consortium finalized 69 new ones including a vampire, a genie, a mermaid, and many more.
@@ -48,6 +54,9 @@ The plural of emoji is emoji, not emojis.
 
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Emoji Tattoos Show Up in Odd Places
 
  What's the latest trend in tattoo art? Emoji, of course.
@@ -62,16 +71,25 @@ The plural of emoji is emoji, not emojis.
 
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Emoji Are Supported Just About Everywhere
 
  Using[X on mobile](https://www.lifewire.com/best-mobile-twitter-apps-3486098) devices has always been popular, but until X finally released emoji support on its web version in 2014, those little icons would show up as blank boxes if you visited Twitter.com on a laptop or desktop computer.

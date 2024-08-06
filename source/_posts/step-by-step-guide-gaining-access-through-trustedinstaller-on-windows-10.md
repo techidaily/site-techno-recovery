@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Gaining Access Through TrustedInstaller on Windows 10"
-date: 2024-08-03 17:58:22
-updated: 2024-08-06 12:30:31
+date: 2024-08-05T01:59:36.170Z
+updated: 2024-08-06T01:59:36.170Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Gaining Access Through TrustedInstaller on Windows 10"
@@ -29,11 +29,22 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Adventure Escape Mysteries in BlueStacks on Windows](https://www.lifewire.com/thmb/thd-CsxDeNrlug6x-XD8VO8i_uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bluestacks-android-app-623f1060def640978b9d0bb5ffe47002.png)  
 [The 12 Best Apps for 2024](https://www.lifewire.com/best-mobile-apps-4157439)  
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use AirDroid to Mirror Android on Windows 10  
 
  AirDroid is a free app that runs on Android, so you need an Android device to use this method. Once it's installed, you can view your phone live on your computer screen. If you enable remote control, you can even control your phone from Windows 10.
 4. [Install AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid) on your phone.
 5. Open the app and tap**Sign in** . Log in using one of the options, such as your Google account.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Install, Open, and Sign in buttons highlighted in the AirDroid app.](https://www.lifewire.com/thmb/-xB18efOoQrY5DNsDIQvVPm8Z7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-RunAndroidAppsonWindows10-annotated-96a94d6e72974efe9758ee2bc466187c.jpg)
 6. Tap**Continue** on the permission request to access your phone's files.
 7. Tap the toggle next to**Allow access to manage all files** .
@@ -41,14 +52,26 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Continue, Allow access toggle, and Allow button highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/CbexqTWDoZy3jmF_-4qqKdbIQzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-RunAndroidAppsonWindows10-annotated-29aacbf2e127466f85d7a7c443b512e2.jpg)
 9. Select**OK** on the Security & Remote Features screen to continue setup.
 10. Go to**Screen Mirroring** \>**Grant permission** \>**Still enable** to turn on screen mirroring functionality. This is necessary if you want to see your Android apps and screen from your computer.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screen Mirroring, Grant permission, and Still enable highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/tsy2xem1mP28NPMcPJucG_xT-s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B7-RunAndroidAppsonWindows10-annotated-34d27e18c6ec4ff7acdb6db8f668606c.jpg)
 11. Select**Continue** on the prompt to allow display over other apps.
 12. Tap**AirDroid** from your list of apps.
 13. Tap the toggle next to**Allow display over other apps** .  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
 14. Return to AirDroid and go to**Remote Control** \>**Enable remote control** \>**Still enable** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
 15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
 16. Return to AirDroid and tap**Grant permissions** \>**OK** .
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
@@ -60,8 +83,14 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 21. When AirDroid opens on your computer, use one of the sign in options at the bottom to log in to the same account you signed in to from your phone.  
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
 22. Select your Android device from the**Choose a device** prompt.  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)

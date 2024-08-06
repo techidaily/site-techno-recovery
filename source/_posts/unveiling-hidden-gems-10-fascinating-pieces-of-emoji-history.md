@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden Gems: 10 Fascinating Pieces of Emoji History"
-date: 2024-08-04 11:53:39
-updated: 2024-08-05 11:44:33
+date: 2024-08-05T01:59:22.845Z
+updated: 2024-08-06T01:59:22.845Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling Hidden Gems: 10 Fascinating Pieces of Emoji History"
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
 
  Emoji are here to stay as long as we all continue tweeting and texting. Here are a few interesting facts about those crazy, colorful little emoji that prove just how much the world loves them.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple Is Credited for Emoji Popularity
 
  Emoji have been around since 1999 when Japanese designer Shigetaka Kurita made the first emoji for cellphones, but they weren't fully embraced by the masses until 2012 when Apple released iOS 6.
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
 
 The plural of emoji is emoji, not emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Emoji Are Announced Regularly
 
  New emoji are being added all the time. In 2017 the Unicode Consortium finalized 69 new ones including a vampire, a genie, a mermaid, and many more.
@@ -56,12 +62,18 @@ The plural of emoji is emoji, not emojis.
 
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
 
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
@@ -72,6 +84,9 @@ The plural of emoji is emoji, not emojis.
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Emoji Are Supported Just About Everywhere
 
  Using[X on mobile](https://www.lifewire.com/best-mobile-twitter-apps-3486098) devices has always been popular, but until X finally released emoji support on its web version in 2014, those little icons would show up as blank boxes if you visited Twitter.com on a laptop or desktop computer.
@@ -80,6 +95,9 @@ The plural of emoji is emoji, not emojis.
 
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Emoji Trivia
 
  It shouldn't be a surprise that the skull emoji is most used in October and the Christmas tree in December, but no one knows why the 100 emoji is so popular in November.

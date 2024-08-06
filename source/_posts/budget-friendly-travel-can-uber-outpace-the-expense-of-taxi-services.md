@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Travel: Can Uber Outpace the Expense of Taxi Services?"
-date: 2024-08-03 18:21:42
-updated: 2024-08-05 12:10:36
+date: 2024-08-05T01:59:28.305Z
+updated: 2024-08-06T01:59:28.305Z
 categories:
   - BestProducts
 description: "This Article Describes Budget-Friendly Travel: Can Uber Outpace the Expense of Taxi Services?"
@@ -12,6 +12,9 @@ thumbnail: https://thmb.techidaily.com/0dd6482f07fc9901f47c9f1a7353b186913c8692e
 ## Budget-Friendly Travel: Can Uber Outpace the Expense of Taxi Services?
  Rideshare services like Uber and Lyft have infiltrated nearly every major city in recent years, effectively giving taxis a run for their money. While summoning an Uber with a simple tap on your smartphone may seem convenient, deciding between Uber and a taxi can be challenging when considering cost-effectiveness.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Is Cheaper: Uber or Taxis?
 
  Taxi fares vary drastically by location, and the same is true for Uber fees. Uber also offers different levels of service based on your preferences. Here's how local rates compare to the standard UberX:
@@ -25,10 +28,25 @@ thumbnail: https://thmb.techidaily.com/0dd6482f07fc9901f47c9f1a7353b186913c8692e
 
  If you're considering which service to take to the airport, the cheaper option is almost always Uber.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A person using a smartphone app to obtain a car ride.](https://www.lifewire.com/thmb/iqv7zY_T_WnqQmXaA0lY4m_48dU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-uber-cheaper-or-a-taxi-5a68b71ffa6bcc003664df84.jpg)
 
 Mlenny / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Cost Variables to Consider
 
  When comparing the cost of Uber and taxis, there are additional variables to consider. For example, many taxi riders tip their drivers around 20 percent.[Uber](https://www.lifewire.com/how-does-uber-work-3862752) offers a tipping option as well.
@@ -37,6 +55,9 @@ Mlenny / Getty Images
 
  If you open the Uber app and see a 1.8 surge price, then a $10 trip will cost you closer to $18\. ​Avoid surge pricing by waiting a few minutes or walking a few blocks (if you're in a safe area) in another direction. One customer infamously paid[$14,000 for a 20-minute Uber ride](https://www.inc.com/peter-economy/uber-surge-pricing-snafu-results-in-shocking-14400-charge-for-a-20-minute-ride-dont-be-next-victim.html) due to surge pricing, so pay attention to how much you're being charged.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Uber vs. Taxis: The Verdict
 
  Uber is typically cheaper for longer trips moving at a faster speed, while taxis are a better choice for trips in congested areas like New York City. That said, geographic location also matters. Historically, Uber has been cheaper than a taxi in cities like San Francisco, Los Angeles, and Detroit, while taxis are cheaper in New York City. It's a near-draw in cities like Washington, D.C., and Nashville. A study by GOBankingRates found that Uber was the more economical choice in 16 of 20 major U.S. cities.

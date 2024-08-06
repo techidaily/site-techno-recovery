@@ -1,7 +1,7 @@
 ---
 title: Expert Techniques for Fixing the Critical Blue Screen on Your Computer
-date: 2024-08-04 16:35:44
-updated: 2024-08-05 12:25:46
+date: 2024-08-05T01:59:17.285Z
+updated: 2024-08-06T01:59:17.285Z
 categories:
   - BestProducts
 description: This Article Describes Expert Techniques for Fixing the Critical Blue Screen on Your Computer
@@ -12,12 +12,18 @@ thumbnail: https://www.lifewire.com/thmb/waZW3NWdmWJ-eJLeAe7sRZODKzM=/400x300/fi
 ## Unexpected Black Screen Blues? Here's How To Get Your Computer Showing Again
  The most common way that a computer "won't turn on" is when the PC actually does power on but doesn't display anything on the monitor. You see lights on the computer case, probably hear fans running from inside, and may even hear sounds, but nothing at all shows up on your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why the PC Turns on With No Display
 
  When a computer powers on but shows nothing on the screen, the most likely issue is the monitor. It's either off, disconnected, or broken. However, you should also consider that a peripheral device connected to the PC, or the computer itself, could be to blame. The steps below will help identify the cause.  
 
  If your computer is showing information on the monitor but is still not booting fully, see[How to Fix a Computer That Won't Turn On](https://www.lifewire.com/how-to-fix-a-computer-that-wont-turn-on-2624450) for a better troubleshooting guide. We also have unique solutions for[when a computer turns off right after turning on](https://www.lifewire.com/how-to-fix-a-computer-that-turns-on-and-then-off-2624444) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Fix a Computer That Turns on but Displays Nothing
 
  Try these common fixes in the order we present them:
@@ -35,6 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/waZW3NWdmWJ-eJLeAe7sRZODKzM=/400x300/fi
 5. Verify that the[power supply voltage switch](https://www.lifewire.com/power-supply-voltage-switch-2625973) is set correctly. If the input voltage for the[power supply](https://www.lifewire.com/power-supply-unit-2618158) isn't correct, then your computer might not turn on completely.  
  There's a good possibility that your PC wouldn't power on at all if this switch is wrong, but an incorrect power supply voltage might also prevent your computer from starting properly in this way, too.
 6. [Reseat](https://www.lifewire.com/what-does-reseat-mean-2625987) everything possible inside your PC. Reseating will reestablish the various connections inside your computer and is very often a "magic" fix to problems like this one.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![PC motherboard](https://www.lifewire.com/thmb/ZZzfc8Lt1xAaaZzhSPLA2gT6XMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/technology-1396677_1280-5c4263c2c9e77c0001be18e4.jpg)  
  skeeze/Pixabay  
  Verify that all the cables are connected correctly. For example, if the onboard video card has been disabled, plugging a VGA cable into it will result in nothing on the monitor even if the computer is powered on. In this case, you'd want to plug the VGA cable into the correct video card.  

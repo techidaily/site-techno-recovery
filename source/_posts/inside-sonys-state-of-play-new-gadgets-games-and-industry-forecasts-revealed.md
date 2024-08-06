@@ -1,7 +1,7 @@
 ---
 title: "Inside Sony's State of Play : New Gadgets, Games, and Industry Forecasts Revealed"
-date: 2024-08-04 21:24:22
-updated: 2024-08-05 10:48:35
+date: 2024-08-05T01:59:20.625Z
+updated: 2024-08-06T01:59:20.625Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Sony's State of Play : New Gadgets, Games, and Industry Forecasts Revealed"
@@ -52,6 +52,9 @@ of 06
 
 ## [Photomath](https://www.photomath.net/en/)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PhotoMatch app.](https://www.lifewire.com/thmb/uyeOAz6_K3BrV9cNkNt3TG9c1IE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PhotoMath-5b4e5413c9e77c001adc04d4.jpg)
 
  What We Like
@@ -82,6 +85,9 @@ of 06
 
 ## [Yousician](https://yousician.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Yousician app.](https://www.lifewire.com/thmb/uJU7qehejrDojCyFYjKK7X5z0SE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yousician-5b4e543e46e0fb00373e9388.png)
 
  What We Like
@@ -110,8 +116,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Khan Academy](https://www.khanacademy.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Khan Academy app screenshot](https://www.lifewire.com/thmb/wEscrPge3zdWpEjRCGjGUhdOqec=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KhanAcademy-5b4e5459c9e77c0037cae4fe.jpg)
 
  What We Like
@@ -140,6 +152,9 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Quizlet Flashcards](https://quizlet.com/110262004/flashcard-quizlet-flash-cards/)
 
 ![Quizlet app.](https://www.lifewire.com/thmb/LWEfkj-yEfizB6sF_0H0PeYI32k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Quizlet-5b4e5477c9e77c0037cae942.jpg)
@@ -170,6 +185,9 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [PowerSchool](https://www.powerschool.com/solutions/unified-home/powerschool-mobile/)
 
 ![PowerSchool Mobile app.](https://www.lifewire.com/thmb/MwLofNHYcDZigfCldw_dtYvZabg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PowerSchool-5b4e5495c9e77c005bc17d68.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate List: 10 Amazing Chef's Shows Streaming on Netflix"
-date: 2024-08-05 11:57:55
-updated: 2024-08-06 12:45:17
+date: 2024-08-05T01:59:41.055Z
+updated: 2024-08-06T01:59:41.055Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the Ultimate List: 10 Amazing Chef's Shows Streaming on Netflix"
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/100e83ab0f49b8b0c013aa34cd9c4fedc9279802b
 
  Emoji are here to stay as long as we all continue tweeting and texting. Here are a few interesting facts about those crazy, colorful little emoji that prove just how much the world loves them.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple Is Credited for Emoji Popularity
 
  Emoji have been around since 1999 when Japanese designer Shigetaka Kurita made the first emoji for cellphones, but they weren't fully embraced by the masses until 2012 when Apple released iOS 6.
@@ -28,12 +31,18 @@ thumbnail: https://thmb.techidaily.com/100e83ab0f49b8b0c013aa34cd9c4fedc9279802b
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
 
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
@@ -48,6 +57,9 @@ The plural of emoji is emoji, not emojis.
 
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Emoji Tattoos Show Up in Odd Places
 
  What's the latest trend in tattoo art? Emoji, of course.
@@ -62,12 +74,18 @@ The plural of emoji is emoji, not emojis.
 
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.

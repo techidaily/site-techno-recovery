@@ -1,7 +1,7 @@
 ---
 title: "WhatsApp Essentials for Mac: A Comprehensive Walkthrough"
-date: 2024-08-04 20:21:21
-updated: 2024-08-05 11:58:31
+date: 2024-08-05T01:59:37.990Z
+updated: 2024-08-06T01:59:37.990Z
 categories:
   - BestProducts
 description: "This Article Describes WhatsApp Essentials for Mac: A Comprehensive Walkthrough"
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Direct Code Entry
 
  The easiest way to program a universal remote is to enter a code that identifies the product you wish to control. Codes may be provided via a "code sheet" or a web page where the codes are listed by brand and type of device (TV, Blu-ray Disc player, Home Theater Receiver, Cable Box, VCRs, and sometimes media streamers).
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 6. After programming, see if the universal remote controls the basic functions of your device. For example, a universal remote should turn a TV off and on, change the volume, channel, and source input.  
  If you're using Direct Code Entry, write the successful code(s) in your user guide for later reference.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Auto Code Search
 
  You can use Auto Code Search if you don't have access to the specific code for the brand or type of device you wish to control. The remote will search through its database, testing several codes at a time.
@@ -50,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 7. Press the**Stop** button to save the code.
 8. Test several functions on the remote and see if they work for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -67,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 9. Use several buttons (volume, etc.) to see if your remote can now control the device.
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -79,6 +91,18 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 4. If the power on your TV or device turns off, the remote has found the correct Code. Press**Stop** to save the code.
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -102,6 +126,9 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  A universal remote is a great way to clear that space on your coffee table, but also keep the following in mind:

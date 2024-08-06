@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Multi-Monitor Setup on Desktops
-date: 2024-08-04 12:29:27
-updated: 2024-08-06 11:32:23
+date: 2024-08-05T01:59:28.611Z
+updated: 2024-08-06T01:59:28.611Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Multi-Monitor Setup on Desktops
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/ae1Ovh0qY6IKKVklzoRovil0VA8=/400x300/fi
 
  Lifewire / Maritsa Patrinos​
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Skype Is Not Working
 
  There could be a microphone problem or an issue with your audio settings, so you can't hear the other person, or they can't hear you. Or maybe you can't log in to Skype because you've forgotten your password. Still, another reason could be that your external speakers or microphone are no longer working, and you need to get new[hardware](https://www.lifewire.com/computer-hardware-2625895) . Maybe Skype won't connect because the service itself is having issues.
@@ -24,6 +27,9 @@ thumbnail: https://www.lifewire.com/thmb/ae1Ovh0qY6IKKVklzoRovil0VA8=/400x300/fi
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -52,6 +58,9 @@ thumbnail: https://www.lifewire.com/thmb/ae1Ovh0qY6IKKVklzoRovil0VA8=/400x300/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
@@ -87,6 +96,9 @@ thumbnail: https://www.lifewire.com/thmb/ae1Ovh0qY6IKKVklzoRovil0VA8=/400x300/fi
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -103,6 +115,9 @@ thumbnail: https://www.lifewire.com/thmb/ae1Ovh0qY6IKKVklzoRovil0VA8=/400x300/fi
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -113,6 +128,10 @@ thumbnail: https://www.lifewire.com/thmb/ae1Ovh0qY6IKKVklzoRovil0VA8=/400x300/fi
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -133,6 +152,9 @@ thumbnail: https://www.lifewire.com/thmb/ae1Ovh0qY6IKKVklzoRovil0VA8=/400x300/fi
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
@@ -145,6 +167,9 @@ thumbnail: https://www.lifewire.com/thmb/ae1Ovh0qY6IKKVklzoRovil0VA8=/400x300/fi
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 10: Check the System Sound
 
  If you[can't hear audio anywhere else](https://www.lifewire.com/fix-no-sound-from-computer-speakers-5219903) , like from websites or system sounds, and the speakers are plugged in (if they're external), and the sound card drivers are updated, then see if the[operating system](https://www.lifewire.com/operating-systems-2625912) is blocking the sound.

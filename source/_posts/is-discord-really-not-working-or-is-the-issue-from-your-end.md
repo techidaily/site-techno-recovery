@@ -1,7 +1,7 @@
 ---
 title: Is Discord Really Not Working, or Is the Issue From Your End?
-date: 2024-08-04 21:55:55
-updated: 2024-08-05 10:15:44
+date: 2024-08-05T01:59:23.571Z
+updated: 2024-08-06T01:59:23.571Z
 categories:
   - BestProducts
 description: This Article Describes Is Discord Really Not Working, or Is the Issue From Your End?
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 
  Netflix's DVD program included some TV shows and movies that weren't available through[their streaming service](https://www.lifewire.com/overview-of-the-netflix-streaming-service-1847831) . You could watch both DVDs and Blu-rays, and there were a few plans to pick from depending on how many discs you wanted to borrow at once.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Netflix's DVD Plans
 
  There are three DVD Netflix plans. All of them offer unlimited discs per month, no late fees, free shipping and returns, DVDs and Blu-rays, and no long-term commitment (just month-by-month).
@@ -34,21 +37,36 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 
  These directions are for using a desktop web browser, but you can also sign up with the DVD Netflix mobile app.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Existing Users
 
 1. Visit DVD Netflix and sign in with your Netflix information.
 2. Choose**Add DVD Plan** .  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Netflix Add DVD Plan button](https://www.lifewire.com/thmb/Uh6KVZq2Icc6DLgr76WSO5J6VpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-add-dvd-plan-239476fd7dbc48c398d157361b9b4dba.png)
 3. Select the plan you want to subscribe to, and then choose**Get Started** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Netflix DVD plans](https://www.lifewire.com/thmb/uPDzNtMV66dcBkk8Rbo7T-7ekq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-prices-30f879c3750545099db9e01e04334ae2.png)
 4. Fill out your shipping information, and then select**Start** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### New Users
 
  If you don’t currently have a Netflix account, follow these steps instead:
 
 1. Visit DVD Netflix at DVD.com.
 2. Select**Sign Up** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DVD Netflix sign up button](https://www.lifewire.com/thmb/NCQ1shSEvKeXqCYIEdWZYEWasfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-2b9f1a1370d042f7bbc87dde135db231.png)
 3. Choose the plan you want, and then select**Get Started** .  
 ![DVD Netflix plan options](https://www.lifewire.com/thmb/1IHiA9MQesi6AeoZW2OuFx4JbUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-pricing-fa3f2e4b64fa4137ac42d44abc0c8d19.png)
@@ -56,6 +74,9 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 5. Enter your shipping information, and then press**Continue** .
 6. Provide payment details, and then select**Start Membership** .
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## How to Choose DVDs
 
  Netflix automatically sends DVDs to you based on what you've added to your personal queue. The order in which you receive them is based on the way they're arranged within the queue.
@@ -64,11 +85,17 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 
  Here's how to add movies to your DVD Netflix queue and then adjust which ones you'll get first:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### From a Computer
 
 1. From DVD Netflix, select**Add to Queue** or**Add** , depending on the screen you're looking at, next to any DVD you want.  
 ![DVD Netflix Add to Queue button](https://www.lifewire.com/thmb/3_4_AW0IsPIrCM861X44RVIPLxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-to-queue-d48f9e0f986242f98683ce1ee0581732.png)  
  To add a whole season of a TV show, pick the season you want to rent and choose**Add All to Queue** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DVD Netflix Add All to Queue button](https://www.lifewire.com/thmb/4jU-S_bFoGdZ4nf5ZGnyf6fxTY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-all-to-queue-bdfdf210723748faaac13e57e6679b7e.png)  
  You can find titles by searching by name, people, or genre. There's also a**Browse** menu for locating popular movies, new releases, and Netflix's top 100 titles.
 2. Open your queue via the**QUEUE** menu at the top of the site to manage the DVDs. You can adjust the order by dragging the titles up and down. Delete an item by hovering your mouse over it and selecting the trash icon.  
@@ -78,6 +105,9 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 
  Mobile users can manage the DVD Netflix queue as well. Tap the plus sign to add a movie to TV show to the queue, and use the disc icon at the top right to edit the order or remove DVDs.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![DVD Netflix Android app](https://www.lifewire.com/thmb/ii9vuANqrg_bkNWRzzL_j3kfJ0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-app-android-7a1276941cdd4127bdefa7be8a7bc832.png)
 
 ## How to Return Netflix DVDs

@@ -1,7 +1,7 @@
 ---
 title: The Best Current British TV Programs Available on Netflix
-date: 2024-08-04 21:39:25
-updated: 2024-08-05 12:10:38
+date: 2024-08-05T01:59:18.398Z
+updated: 2024-08-06T01:59:18.398Z
 categories:
   - BestProducts
 description: This Article Describes The Best Current British TV Programs Available on Netflix
@@ -27,8 +27,14 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
 
  Eligible customers can receive up to $540 as a promo credit when they enroll a smartphone, smartwatch, or tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Verizon Fios Home Internet (free gifts with purchase)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![verizon fios logo.](https://www.lifewire.com/thmb/5lIlwcVPJ5fA93bTxQV9DmB8sGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fios-logo-300a5cb5bd23463f9915d361bf7d3ca4.jpg)
 
 Verizon
@@ -41,6 +47,9 @@ Verizon
 
  Those who sign up for a 300 Mbps or 500 Mbps internet package will get a Target gift card. Higher speed plans come with a Nintendo Switch or a $400 discount on Samsung appliances.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple iPhone 15 (Free with new line)
 
 ![Apple iPhone 15.](https://www.lifewire.com/thmb/wnB6E3DLz12emgLWUSlRQF03Ovo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleiPhone15_Apple-082be61ad5174733ab03bc42439ffa99.jpg)
@@ -61,6 +70,9 @@ Samsung
 
  If you prefer the Samsung ecosystem, Verizon is offering the S24 for free when you trade in a Samsung smartphone and sign up for one of Verizon’s Unlimited plans.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy S23 (Free with new line)
 
 ![Samsung Galaxy S23 and S23+](https://www.lifewire.com/thmb/F5hl4jBWAvl1DcP2bYHxFGieOXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/galaxy-s23-highlights-design-kv-end-s-7d6d1aed1691493f9d94a10e4e87853e.jpg)
@@ -81,8 +93,14 @@ Google
 
  If you prefer Pixel phones, you can get a Pixel 8A when you set up a new line with an Unlimited plan.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Samsung Galaxy Tab S9 FE 5G (Free with purchase of eligible Android phone)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Samsung Galaxy Tab S9 front and rear views](https://www.lifewire.com/thmb/OtTv544powHGdCTuhi-XjVZuPwk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung-Galaxy-Tab-S9-2422bd507f6648d1bb99588e02ca7841.jpeg)
 
 Samsung

@@ -1,7 +1,7 @@
 ---
 title: Protect Personal Data While Surfing the Web with Google Gemini
-date: 2024-08-04 21:45:49
-updated: 2024-08-06 11:39:32
+date: 2024-08-05T01:59:11.243Z
+updated: 2024-08-06T01:59:11.243Z
 categories:
   - BestProducts
 description: This Article Describes Protect Personal Data While Surfing the Web with Google Gemini
@@ -24,16 +24,25 @@ thumbnail: https://www.lifewire.com/thmb/xjv-4nkZzXRdFM9ihZdfIm-Txp4=/400x300/fi
 
 [ChatGPT vs. Gemini: What's the Difference?](https://www.lifewire.com/chatgpt-vs-bard-7504876)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Sign Up for Google Gemini
 
  You can sign up on the web with your Google account or use the Android mobile app. Both methods are straightforward and offer a clean interface for interacting with Gemini.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Using the Web App
 
  Go to the dedicated[Google Gemini homepage](https://gemini.google.com/) and use your Google personal account to sign in. You can also create a new Google account if you don't have one yet (or don't want your primary account tied to Gemini).
 
  The web app is supported in most browsers, such as Chrome, Safari, Firefox, Opera, or Edge. Gemini supports 40 languages and is available in over 230 countries.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### Using the Mobile Apps on Android and iOS
 
  Install the[Gemini mobile app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) from the Google Play store on Android. The Gemini app is available only in English in the U.S. You must have an Android phone with 2 GB of RAM or more, running Android 10 or newer. If you opt-in to use Gemini, it will replace your Google Assistant as the primary assistant on the phone.
@@ -47,6 +56,10 @@ thumbnail: https://www.lifewire.com/thmb/xjv-4nkZzXRdFM9ihZdfIm-Txp4=/400x300/fi
  Gemini relies on[generative AI](https://www.lifewire.com/what-is-generative-ai-7510795) to take your natural language queries and turn them into detailed answers. You can start a conversation and get any content, like text, images, music, language, 3D models, and more, with the help of a simple prompt.
 
 1. In the Gemini chat window, begin typing your request in the**Enter your prompt here** field.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![The prompt field in the Google Gemini web interface](https://www.lifewire.com/thmb/df8I0SZWORbiyM8-BLz2rxN2m8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-prompt-field-94528b5550664e2f9c5c489c7ba2cd98.jpg)
 2. As a multi-modal chatbot, you can speak to the chatbot, upload an image, write code, or ask it to process information from an online video.
 3. Make your prompt specific while giving Gemini as much context as you can about your query.
@@ -56,15 +69,24 @@ thumbnail: https://www.lifewire.com/thmb/xjv-4nkZzXRdFM9ihZdfIm-Txp4=/400x300/fi
 6. You can ask Gemini to generate images with words like "draw," "generate," and "create."
 7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### Tip
 
  Google suggests several[tips for getting the best results with your prompts](https://support.google.com/a/users/answer/14200040?hl=en) . Download the free[Gemini for Workspace prompt guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html) if you use Google Workspace with other tools in the suite.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Review Gemini's Answer With More Features
 
  You don't have to accept Gemini's original answer. The generative AI chatbot offers a few extra methods to change the style of the answer.  
 
 1. Select**Show drafts** and view two more versions of the result. You can choose**Regenerate drafts** to force Gemini to make another attempt at better answers.  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![The "Hide/Show drafts" and "Regenerate drafts" options in Google Gemini](https://www.lifewire.com/thmb/qA7gawJp3_oXG1w3DcDUr9ydFBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hide-drafts-and-regenerate-google-gemini-9cbbe551f2904f008b8c05bcf385caa5.jpg)
 2. Give Gemini's large language model some feedback by choosing the**Good response** or**Bad response** icons (the thumb icons).
 3. The**Modify response** filter pop-up helps you adjust the length, simplify the language, and change the tone of a response. Use this to tailor the answers for your intended audience or finetune them.  
@@ -72,9 +94,15 @@ thumbnail: https://www.lifewire.com/thmb/xjv-4nkZzXRdFM9ihZdfIm-Txp4=/400x300/fi
 4. Instead of making Gemini rewrite the entire content, you can modify parts of the generated responses. Highlight any part of the text and select the**Modify selected text** icon.  
  Enter a fresh prompt in the Modify with a prompt field to describe how you want the selected text to change, and then press**Enter** . The other options of**Regenerate** ,**Shorter** ,**Longer** , and**Remove** are self-explanatory.  
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)
 5. Gemini can be error-prone. Select the**Google** button at the foot of the response to double-check the answers. The AI checks with a Google Search and highlights content similar to (Green highlight) or different (Orange highlight) from Gemini's statements.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using Extensions in Gemini
 
  With Gemini's extensions, you can tap into Google's ecosystem of apps to cover a wider variety of everyday uses. Most extensions are on by default, but you may need to give Gemini permission to use them in your prompt.

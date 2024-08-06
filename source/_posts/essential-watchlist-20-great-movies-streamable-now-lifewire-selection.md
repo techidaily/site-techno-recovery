@@ -1,7 +1,7 @@
 ---
 title: "Essential Watchlist: 20 Great Movies Streamable Now (Lifewire Selection)"
-date: 2024-08-05 21:35:29
-updated: 2024-08-06 10:56:55
+date: 2024-08-05T01:59:23.378Z
+updated: 2024-08-06T01:59:23.378Z
 categories:
   - BestProducts
 description: "This Article Describes Essential Watchlist: 20 Great Movies Streamable Now (Lifewire Selection)"
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## [Dune: Part Two (2024) - Max](https://www.imdb.com/title/tt15239678/)
 
 ![Dune: Part Two poster featuring Paul and Chani](https://www.lifewire.com/thmb/poI-jykUD14pf6dFxzU34ecu9ME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dune2_vert_tsr_2764x4096_dom_rev-80baa342395641dc85256f05cbe9d185.jpeg)
@@ -78,6 +81,9 @@ of 20
 
 ## [Past Lives (2023) - Paramount Plus](https://www.imdb.com/title/tt13238346/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Teo Yoo and Greta Lee in Past Lives (2023)](https://www.lifewire.com/thmb/Y59jlqDPU1d9w_VkhcfPvVinbR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PastLives-6e2d7a4d476e45c5bbd3c8921a16a4ba.jpg)
 
 A24
@@ -106,6 +112,9 @@ of 20
 
 ## [The Holdovers (2023) - Prime Video](https://www.imdb.com/title/tt14849194/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Dominic Sessa and Paul Giamatti in The Holdovers](https://www.lifewire.com/thmb/YnV_Sdr8_4lrHgYbcg-5CeZL8QY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheHoldovers-db3a4b1ca8924ab789e3135f55399a00.jpg)
 
 Focus Features
@@ -128,8 +137,14 @@ Focus Features
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## [Killers of the Flower Moon (2023) - Apple TV+](https://www.imdb.com/title/tt5537002/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Leonardo DiCaprio and Lily Gladstone in Killers of the Flower Moon (2023)](https://www.lifewire.com/thmb/iL6Rjauks5I-CBIWWkz5FrQfPGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/killersoftheflowermoon-aeefbf0692224c6c9702207b962c7d1e.jpeg)
 
 Paramount Pictures
@@ -156,8 +171,15 @@ Paramount Pictures
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Poor Things (2023) - Hulu](https://www.imdb.com/title/tt14230458/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Emma Stone in Poor Things (2023)](https://www.lifewire.com/thmb/3Meqz7uQMl9HIyfy-EKMErkw18w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/poor-things-022_054_poorthings_ov_v30464704_fp_dpo_prohq_uhd-sdr_24_eng-166_eng-5120_a_ops9z8mjw_tiff53_rgb_custom-dbfbdcbf8bfa378f9047be6e3e78ff32b595dc84-6f59df92da94444b8bfc0422346d016f.jpg)
 
 Searchlight Pictures
@@ -186,6 +208,9 @@ of 20
 
 ## [The Iron Claw (2023) - Max](https://www.imdb.com/title/tt21064584/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Zac Efron in a promo image for The Iron Claw (2023)](https://www.lifewire.com/thmb/wnijyAPfoYfuTQmSgWKqrwcKtL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-iron-claw-efron-7e77128fd63d4521b72b696051a243f5.jpeg)
 
 A24
@@ -240,6 +265,9 @@ Netflix
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [The Zone of Interest (2023) - Max](https://www.imdb.com/title/tt7160372/)
 
 ![Still image from The Zone of Interest (2023)](https://www.lifewire.com/thmb/KdachdkU8-e6bcohfzhbLQlad8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheZoneOfInterest_textless_ProRes422HQ_24p_1920x1080_178_Rec709_51-20_20230929.00_46_51_20.Still001-48ecca43df884f0fbfe437627874155d.jpeg)
@@ -268,8 +296,15 @@ A24
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## [Top Gun: Maverick (2022) - Paramount Plus](https://www.imdb.com/title/tt1745960/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Tom Cruise in Top Gun: Maverick (2022)](https://www.lifewire.com/thmb/NG04QySNHhxBCYJ8_rukgGK-ux8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Top-Gun-Maverick-featured-fbc75bef2d7d4f4aa8a065fddf7047af.jpeg)
 
 Paramount Pictures
@@ -347,8 +382,14 @@ of 20
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Guardians of the Galaxy Vol. 3 (2023) - Disney Plus](https://www.imdb.com/title/tt6791350/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Promo image for Guardians of the Galaxy Vol. 3 (2023)](https://www.lifewire.com/thmb/6O6-P9P519uD7jcQhveVIYVIdoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Marvel-Studios-Guardians-of-the-Galaxy-Volume-3-Official-Trailer-01-120122-3b52642d616b4971af5dec2fed483bdd-369ae3a36aa84001a031ba6f497c3f5c.jpg)
 
 Walt Disney Studios Motion Pictures
@@ -375,6 +416,10 @@ Walt Disney Studios Motion Pictures
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## [Monkey Man (2024) - Peacock](https://www.imdb.com/title/tt9214772/)
 
 ![Dev Patel in Monkey Man (2024)](https://www.lifewire.com/thmb/Y-QNxlggtd2GGaE2gHheFTbqXOI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MonkeyMan-e89947de71ca4e6cb04772f6add00ad2.jpeg)
@@ -433,6 +478,9 @@ of 20
 
 ## [Anyone But You (2023) - Netflix](https://www.imdb.com/title/tt26047818/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Glen Powell and Sydney Sweeney in Anyone But You (2023)](https://www.lifewire.com/thmb/e4ahZyLl6oELJjCc-4DDrt7bLro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/anyone-but-you-1-717a09049bf442f883f43a8a24806a8e.jpeg)
 
 Sony Pictures
@@ -461,6 +509,9 @@ of 20
 
 ## [Am I OK? (2022) - Max](https://www.imdb.com/title/tt11225626/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Dakota Johnson and Sonoya Mizuno in Am I OK? (2022)](https://www.lifewire.com/thmb/n9MwMpmMLnidlBMD3klVVhdBfEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AM-I-OK-Sundance-Film-Festival-Publicity-H-2022-9e7f94f0756b45f4bb4545fa258deeca.jpeg)
 
 Max
@@ -489,6 +540,9 @@ of 20
 
 ## [John Wick: Chapter 4 - Starz](https://www.imdb.com/title/tt10366206/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keanu Reeves in John Wick: Chapter 4](https://www.lifewire.com/thmb/Ffc7c5-vlN07z8J0GfQApItS5uY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/john-wick-chapter-4-JW4_Unit_210715_00159_R_rgb-c2a9edade15248e1a193b5a818890df5.jpeg)
 
 Lionsgate
@@ -535,8 +589,14 @@ Hulu
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Talk to Me (2023) - Paramount Plus](https://www.imdb.com/title/tt10638522/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Still from Talk to Me (2023)](https://www.lifewire.com/thmb/0Z13Ohcr2LiavsQik7uM3MXpm8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/talk-to-me-sequel-be042fcc1f4d4c5581b6d50a8d92e7ea.jpeg)
 
 A24

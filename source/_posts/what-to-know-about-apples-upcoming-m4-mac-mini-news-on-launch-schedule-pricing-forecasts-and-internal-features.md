@@ -1,7 +1,7 @@
 ---
 title: What to Know About Apple's Upcoming M4 Mac Mini - News on Launch Schedule, Pricing Forecasts, and Internal Features
-date: 2024-08-02 21:33:50
-updated: 2024-08-05 11:11:21
+date: 2024-08-05T01:59:25.639Z
+updated: 2024-08-06T01:59:25.639Z
 categories:
   - BestProducts
 description: This Article Describes What to Know About Apple's Upcoming M4 Mac Mini - News on Launch Schedule, Pricing Forecasts, and Internal Features
@@ -21,20 +21,32 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
 
  Apple's next-generation Mac Mini is expected to be built around the[ Apple M4 chip](https://www.lifewire.com/apple-m4-chip-8640914) , come in two versions, and cost the same as current models. This article collects all of the news and rumors about the Mac Mini M4, including its features, price, release date, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ##  What Is the M4 Mac Mini Release Date? 
 
  We don't know the M4 Mac Mini release date just yet, and Apple doesn't release new Mac Minis on a consistent schedule[ the way it does iPhones](https://www.lifewire.com/iphone-17-8612548) .
 
  That said, Marc Gurman of Bloomberg—the most plugged-in of Apple reporters—[ says that the M4 Mac Mini will debut](https://www.bloomberg.com/news/newsletters/2024-04-14/humane-ai-pin-review-the-device-isn-t-going-to-kill-apple-s-iphone-luziqlew) in late 2024 or early 2025\. Apple often introduces new Macs in the fall (usually in October or November, after the latest iPhone has gone on sale), so this is a safe bet.  
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  We expect the M4 Mac Mini to become available in late 2024 or, at the latest, early 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  The Mac Mini M4 will go on sale soon after its official announcement. We'll update this article with its on-sale date when that's available.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Mac Mini M4 Price Rumors 
 
  The Mac Mini M4 will likely cost about the same as current models. Apple often keeps the prices of new models of existing products the same year after year, so this makes sense.
@@ -57,10 +69,17 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
 
  The M4 Pro model may offer more processor cores and higher performance than the base model.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Same Size and Weight 
 
  The rumor mill says the Mac Mini M4 will use the same enclosure, and thus have the same size and weight, as[ the current M2 models](https://www.apple.com/mac-mini/specs/) . If that's the case, that means the Mac Mini will continue to be a tiny powerhouse, weighing 2.6-2.8 pounds and being 7.75 inches wide, 7.75 inches deep, and 1.41 inches tall.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  The Latest News About the Mac Mini M4 
 
  Stay up to date on all the latest news, rumors, and opinions with Lifewire's[ coverage of desktop and laptop computers](https://www.lifewire.com/computer-laptop-tablet-news-4797030) . You might be interested in these articles about other Apple products:

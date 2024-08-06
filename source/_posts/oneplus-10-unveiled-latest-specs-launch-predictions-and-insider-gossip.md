@@ -1,7 +1,7 @@
 ---
 title: "OnePlus 10 Unveiled: Latest Specs, Launch Predictions & Insider Gossip"
-date: 2024-08-04 22:55:26
-updated: 2024-08-06 12:44:37
+date: 2024-08-05T01:59:20.901Z
+updated: 2024-08-06T01:59:20.901Z
 categories:
   - BestProducts
 description: "This Article Describes OnePlus 10 Unveiled: Latest Specs, Launch Predictions & Insider Gossip"
@@ -13,12 +13,18 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
  The OnePlus 10 Pro was announced in March 2022\. Learn more about this phone, like its 6.7-inch 120Hz AMOLED display, the triple rear camera setup, and exciting new image capturing modes.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## OnePlus 10 Release Date
 
  The OnePlus 10 Pro was announced at the[OnePlus global launch event on March 31, 2022](https://www.lifewire.com/oneplus-10-pro-5g-launch-event-set-for-march-31-5223438) , which is when it was first open for pre-ordering. The phone became available for purchase in the US April 14\. Visit the[OnePlus 10 Pro 5G](https://www.oneplus.com/oneplus-10-pro) page for details.
 
  The[OnePlus 10T 5G](https://www.oneplus.com/10t) was revealed on August 3, 2022.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OnePlus 10 Pro Emerald Forest](https://www.lifewire.com/thmb/rEGnYzqZ28a6nuU_BN-lw2UjwWM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/oneplus-10-pro-emerald-forest-green-29244d8eac5643e9af29b1a901e56c07.jpg)
 
  OnePlus 10 Pro (Emerald Forest).
@@ -29,6 +35,9 @@ OnePlus
 
  The OnePlus 10 Pro 5G launched in the US for $900\. The color options include Emerald Forest and Volcanic Black. For reference, the OnePlus 9 is $729, and the 9 Pro is $900.  
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OnePlus 10 Features
 
 [OnePlus details new video shooting features](https://forums.oneplus.com/threads/diving-deep-into-the-oneplus-10-pro-camera.1554663/) in the OnePlus 10 Pro, including one called Movie Mode. "By allowing you to adjust parameters such as white balance, shutter speed, and ISO before and during video capture, this mode gives you full control over your creative process." The company says this mode lets you opt into capturing in LOG format, which is said to make it easier for videographers to color grade their footage.
@@ -39,6 +48,9 @@ OnePlus
 
  YouTuber Marques Brownlee provides a first look:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OnePlus 10 Specs and Hardware
 
 * 2nd-Gen Hasselblad camera with one billion colors.
@@ -55,6 +67,9 @@ OnePlus
 
  The OnePlus 10 Pro has Corning Gorilla Glass Victus protection and is available in two colors: Volcanic Black and Emerald Forest.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![OnePlus 10 Pro Volcanic Black](https://www.lifewire.com/thmb/vdpg6eStvKa-rDn-EwBrtaDNvsw=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Black_PC-4ca0d18a07bc4b51a6113785221e663a.jpg)
 
  OnePlus 10 Pro (Volcanic Black).
@@ -74,6 +89,9 @@ OnePlus
 | **OS:**              | OxygenOS 12                                                                                                        |
 | **Colors:**          | Volcanic Black, Emerald Forest                                                                                     |
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About the OnePlus 10
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Here are the latest stories, some of the earlier rumors, and more regarding the OnePlus 10:

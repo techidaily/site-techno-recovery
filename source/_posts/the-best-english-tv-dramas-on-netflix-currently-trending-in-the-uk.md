@@ -1,7 +1,7 @@
 ---
 title: The Best English TV Dramas on Netflix Currently Trending in the UK
-date: 2024-08-03 21:22:55
-updated: 2024-08-06 12:35:54
+date: 2024-08-05T01:59:31.418Z
+updated: 2024-08-06T01:59:31.418Z
 categories:
   - BestProducts
 description: This Article Describes The Best English TV Dramas on Netflix Currently Trending in the UK
@@ -59,6 +59,9 @@ Whether you’re setting up an entire data center or need to tidy up the corner 
 
 [Jump to Review](https://www.lifewire.com/#toc-best-floor-standing-navepoint-25u-2-post-open-frame-server-rack)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Full-Size
 
 [Navepoint 42U](https://www.amazon.com/dp/B071WQSDYX/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB071WQSDYX)
@@ -86,6 +89,9 @@ PHOTO: Amazon
 
  The sturdy four-post design ensures that everything will stay in place, with an 881-pound weight capacity, and you can either floor-mount it in your server room or use the included four casters to keep it more mobile, although the 82-inch height means that you likely won’t be able to move it from room to room.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Best Wall Mount
 
 [Navepoint 12U](https://www.amazon.com/dp/B00JZVUDLQ/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00JZVUDLQ)
@@ -140,6 +146,9 @@ PHOTO: Amazon
 
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Best Cabinet Enclosure
 
 [Tripp Lite SRW6U](https://www.walmart.com/ip/SRW6U-SmartRack-6U-Low-Profile-Switch-Depth-Wall-Mount-Rack-Enclosure-Cabinet/23502131)
@@ -196,6 +205,9 @@ PHOTO: Amazon
 
  Unfortunately, NavePoint has no cable management accessories, but those are available online.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Extra Large
 
 [Navepoint 45U](https://www.amazon.com/dp/B07F4653D4?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7C)
@@ -259,6 +271,9 @@ PHOTO: Amazon
 
 [The Best UPS Battery Backups of 2024](https://www.lifewire.com/best-uninterrupted-power-supplies-4142625)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Laptop and server panels in dark server room](https://www.lifewire.com/thmb/KHYZadtoYJXXQRAqJJ2eK-vARbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-and-server-panels-in-dark-server-room-719877853-593c59005f9b58d58a307499.jpg)
 
  Hero Images / Getty Images
@@ -295,12 +310,18 @@ PHOTO: Amazon
 
  Alextov via Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Installation Location**
 
  Where you plan to install your rack will also impact what kind of rack you choose and may even limit your choices. You'll not likely be picking up a full-sized 42U rack if you only have a cubbyhole available, and you may not want an open rack if you're installing it in an area that's more highly trafficked, like a photocopier room or supply room.
 
  Most racks can also be secured to a wall or floor for added stability, which you should consider doing, especially with taller racks. Still, on the other hand, if you have the space and a relatively isolated area, some racks offer support for wheels to allow you to move them around your server room when necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Cooling Options**
 
  In considering where your rack will be located, remember that computer equipment generates a lot of heat, and the more you have, the hotter it gets. If you have a climate-controlled server room, then an open rack will be fine, but since most small businesses can't afford to dedicate a whole room just for networking equipment, you'll probably need to give this a bit more thought.
@@ -329,10 +350,16 @@ PHOTO: Amazon
 
  Don't worry if you're mixing and matching rail-mounted and non-rail-mounted equipment in the same rack, as you can easily snap cage nuts into square rack holes to effectively convert them into threaded holes for your equipment that doesn't use rails. Alternatively, you could use rails to mount everything to avoid cage nuts altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images.jpg](https://www.lifewire.com/thmb/rc_q9ofTd5pecAGouEFQSLea2-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images-56a6f9905f9b58b7d0e5ca48.jpg)
 
  © Maciej Frolow / Photographer's Choice RF / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Mounting Parts**
 
  Not all racks are created equally regarding what comes in the box, so you'll want to read the fine print. Some of the more inexpensive racks give you threaded holes and expect you to come up with the mounting screws yourself.
@@ -341,6 +368,9 @@ PHOTO: Amazon
 
  The good news is that threaded racks use standard-sized screws, so it's not too hard to find more screws should you need them down the road, but make sure you know what you're getting with the rack itself so that you know what else you'll need to have everything ready to install once it arrives.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Top Brands**
 
 **Navepoint**

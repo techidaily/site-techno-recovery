@@ -1,12 +1,12 @@
 ---
 title: Puzzle Lovers, Discover iPhone/iPad Games Inspired by Iconic Titles Like 'The Room' And ‘Myst’
-date: 2024-08-03 13:26:58
-updated: 2024-08-05 12:50:24
+date: 2024-08-05T01:59:39.014Z
+updated: 2024-08-06T01:59:39.014Z
 categories:
   - BestProducts
 description: This Article Describes Puzzle Lovers, Discover iPhone/iPad Games Inspired by Iconic Titles Like 'The Room' And ‘Myst’
 excerpt: This Article Describes Puzzle Lovers, Discover iPhone/iPad Games Inspired by Iconic Titles Like 'The Room' And ‘Myst’
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Discover the Best Free Public DNS Providers Online Today
@@ -28,6 +28,23 @@ thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/fi
 
  Those are my top choices. A list of additional free DNS servers can be found in the table near the bottom of the page.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## The Top Free & Public DNS Servers
 
  Below are more details on these free DNS servers that you can use instead of the ones assigned to your device automatically.
@@ -52,6 +69,9 @@ thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/fi
 
  As you can see above,[IPv6](https://www.lifewire.com/ipv4-vs-ipv6-4780834) IP addresses use colons. If you're not sure which one to use for Google's servers or any of the others on this page, stick with IPv4.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Control D: 76.76.2.0 & 76.76.10.0
 
 ![A list of free DNS options at Control D](https://www.lifewire.com/thmb/W1PoIB20e3W5hSR-CYEJ_oBCo-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/control-d-free-dns-2f558b21cde84ae5a686dece15e913c0.png)
@@ -70,6 +90,9 @@ thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/fi
 
 ### Quad9: 9.9.9.9 & 149.112.112.112
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Quad9 website](https://www.lifewire.com/thmb/iRlEKiR8f7CmoRJ2O1dytTs_Exw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/quad9-d6eaf2378c0149b497e6792759186953.jpg)
 
 [Quad9](https://www.quad9.net/) has free public DNS servers that protect your computer and other devices from cyber threats by immediately and automatically blocking access to unsafe websites. One thing I appreciated while researching this company is that it works without storing your personal data; their website clearly states that when you use Quad9, "no data containing your IP address is ever logged."
@@ -84,8 +107,14 @@ thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/fi
 
  Quad9 doesn't filter content—only domains that are phishing or contain malware will be blocked.[There's also an unsecured IPv4 public DNS](https://www.quad9.net/service/service-addresses-and-features/#unsec) (i.e., no malware blocking) at 9.9.9.10 (2620:fe::10 for IPv6). Quad9 also supports DoH.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### OpenDNS: 208.67.222.222 & 208.67.220.220
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![OpenDNS public DNS server website](https://www.lifewire.com/thmb/5votPFdjy1TRMp-5wxWdB3e_74c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opendns-518a9ef00d6a4215964245aa4dfd6688.png)
 
  Used by tens of millions of users around the world,[OpenDNS](https://www.opendns.com/) claims 100 percent reliability and uptime (since 2006!). They offer two sets of free public DNS servers, one of which is just for parental controls with dozens of filtering options.
@@ -102,6 +131,9 @@ thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/fi
 
  For DNS servers that block adult content, use[OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) : 208.67.222.123 and 208.67.220.123\. Those two also[support DNS over HTTPS](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Cloudflare: 1.1.1.1 & 1.0.0.1
 
 ![Cloudflare 1.1.1.1 public DNS server website](https://www.lifewire.com/thmb/8O47Sc85B2ywZWpyfsbqiBMLIEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-and-public-dns-servers-2626062-cloudflare-1111-7977c2b8a42e408c81b0d59694bd634f.jpg)
@@ -134,8 +166,14 @@ thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/fi
 
  There are also "Family protection" servers (94.140.14.15 and 2a10:50c0::bad1:ff) that block adult content, plus everything included in the "Default" servers. Non-filtering servers are available if you're not interested in blocking anything: 94.140.14.140 and 2a10:50c0::1:ff. These servers are also available as DNS over HTTPS, TLS, and QUIC, as well as DNSCrypt. Compared to[paid AdGuard DNS plans](https://adguard-dns.io/en/license.html) , free users have zero customer support and limited monthly requests, device access, rules, and servers.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### CleanBrowsing: 185.228.168.9 & 185.228.169.9
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![CleanBrowsing public DNS servers](https://www.lifewire.com/thmb/vXD5OF-pxtI8y-8lcOMqbwGDDAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cleanbrowsing-44622bf548554faa886745618c97b08a.png)
 
 [CleanBrowsing has three free public DNS server options](https://cleanbrowsing.org/filters/) : a security filter, adult filter, and family filter. These are the DNS servers for the security filter, the most basic of the three that updates hourly to block malware and phishing sites:
@@ -150,6 +188,9 @@ thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/fi
 
  The adult filter (185.228.168.10) prevents access to adult domains, and the family filter (185.228.168.168) blocks proxies, VPNs, and mixed adult content. They both also block the same domains supported by the security filter. For more features, subscribe to one of the[CleanBrowsing premium plans](https://cleanbrowsing.org/pricing/) . This service supports DoH and DoT as well.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Alternate DNS: 76.76.19.19 & 76.223.122.150
 
 ![Alternate DNS website](https://www.lifewire.com/thmb/-4LtpRDVaV8Hg2TKADqt1kg7jSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alternate-dns-b37b229caddf47a3b4808394e1d80350.png)
@@ -197,6 +238,9 @@ thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/fi
 
  Some of these providers have several DNS servers. Visit the link above and select a server that's geographically nearby for the optimal performance, or one that has the features you're interested in.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are DNS Servers?
 
  DNS servers translate the friendly domain name you enter into a browser (like_lifewire.com_ ) into the[public IP address](https://www.lifewire.com/what-is-a-public-ip-address-2625974) that's needed for your device to actually communicate with that site.

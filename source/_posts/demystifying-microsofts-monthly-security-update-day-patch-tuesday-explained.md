@@ -1,18 +1,21 @@
 ---
 title: Demystifying Microsoft's Monthly Security Update Day - Patch Tuesday Explained
-date: 2024-08-03 11:17:17
-updated: 2024-08-05 10:48:25
+date: 2024-08-05T01:59:28.919Z
+updated: 2024-08-06T01:59:28.919Z
 categories:
   - BestProducts
 description: This Article Describes Demystifying Microsoft's Monthly Security Update Day - Patch Tuesday Explained
 excerpt: This Article Describes Demystifying Microsoft's Monthly Security Update Day - Patch Tuesday Explained
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## Demystifying Microsoft's Monthly Security Update Day - Patch Tuesday Explained
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * The latest Patch Tuesday was on July 9\. The next one will be on August 13.
@@ -21,6 +24,9 @@ Close
 
  This article explains what Patch Tuesday is and what was included in the latest set of updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Why Is Patch Tuesday Important? 
 
  Patch Tuesday is the name given to the day each month that Microsoft releases security and other [ patches](https://www.lifewire.com/what-is-a-patch-2625960) for their operating systems and other software. It's always the second Tuesday of each month and is sometimes referred to as_Update Tuesday_ .
@@ -33,6 +39,9 @@ Close
 
  If you're currently using Windows 8.1 but have not yet applied the Windows 8.1 Update package or updated to Windows 10 or Windows 11, you_must_ do so to continue to receive these important security patches! See our [ Windows 8.1 Update](https://www.lifewire.com/windows-8-1-update-2626250) piece for more on what this is and how to upgrade.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Do These Patch Tuesday Updates Do? 
 
  These patches from Microsoft update several individual files involved in making Windows and other Microsoft software work.
@@ -48,6 +57,9 @@ Close
 
  These files were determined by Microsoft to have security issues, meaning that they have "bugs" that could provide a means to do something malicious to your computer without your knowledge.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Do I Know If I Need These Security Updates? 
 
  You need these updates if you're running any supported edition of Microsoft's operating systems, 32-bit or 64-bit. This includes Windows 11 and Windows 10, plus supported Server versions of Windows.
@@ -70,6 +82,9 @@ Close
 
  There may also be non-security updates included this month for Microsoft software other than Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Download Patch Tuesday Updates 
 
  In most situations, the best way to download patches on Patch Tuesday is via Windows Update. Only the updates you need will be listed and, unless you've configured Windows Update otherwise, will be downloaded and installed automatically.
@@ -93,6 +108,9 @@ Close
 
  See[ Windows Updates & Patch Tuesday FAQ](https://www.lifewire.com/windows-updates-patch-tuesday-faq-2625777) for answers to other common questions, including_"Does Microsoft test these updates before they push them out?"_ and _"Why hasn't Microsoft fixed the problem that their update caused on my computer?!"_ 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ##  Patch Tuesday & Windows 11/10 
 
  Microsoft has publicly commented that beginning with Windows 10, they will no longer be pushing updates solely on Patch Tuesday, instead pushing them more frequently, essentially ending the idea of _Patch Tuesday_ altogether.

@@ -1,7 +1,7 @@
 ---
 title: "Identifying Inauthentic Friend Invitations: A Step-by-Step Guide"
-date: 2024-08-04 16:30:51
-updated: 2024-08-06 12:57:22
+date: 2024-08-05T01:59:11.682Z
+updated: 2024-08-06T01:59:11.682Z
 categories:
   - BestProducts
 description: "This Article Describes Identifying Inauthentic Friend Invitations: A Step-by-Step Guide"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Scammers, former or current romantic partners, or private investigators might send fake friend requests.
@@ -20,6 +23,9 @@ Close
 
  This article explains who might send a fake friend request, why they might do so, and how to spot a suspicious request on social media platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Someone Sends a Fake Friend Request 
 
  You may receive fake Facebook friend requests for any number of reasons—some harmless, some malicious. Types of people who send fake or malicious friend requests include:
@@ -32,6 +38,9 @@ Close
 * **Current partner** : If your spouse or significant other is testing your fidelity in an unscrupulous manner, they may resort to creating a false profile with an attractive profile picture to test you. If you respond to suggestive posts or chats, your spouse could record this information with the intent of using it against you later.
 * **Private investigators** : Private investigators can use false profile friend requests to learn more information about you—the kind of information you normally restrict from public view and reserve for friends only.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Spot a Fake Friend Request 
 
  Be on the lookout for clues that a friend request might not be genuine. Ask yourself these questions to determine if the friend request might be from a fake profile:
@@ -42,10 +51,16 @@ Close
 * **Does the person have an unusually small or large number of friends, and are they all the same gender?** Fictitious profiles may have an extremely small or impossibly large number of friends on their friends list. The reason? They have likely spent little effort setting up the fake profile, or they sent a ton of friend requests and received a ton of responses. Another clue is the gender of those on their friends list. You will likely see friends who are predominantly of the opposite gender of the requester since they are likely the target. If the request is from a lady targeting men, expect almost all men in the friends list, instead of a mix of men and women like you would expect from a real person.
 * **Is there little personal content on their timeline?** You likely won't see a lot of day-to-day activity on a fake profile because of the effort required to generate "real" content. You may see some pictures, perhaps some links, but you probably won't see many location check-ins or status updates. This may or may not be true for scammers of the catfishing type, as they may spend a lot of time and effort making their online personas seem as real as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What to Do With a Fake Friend Request 
 
  The next time you receive a random friend request, ask yourself these questions and use your answers to determine whether you have just spotted a fake friend request. When in doubt, the best action is not to accept the request.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Person viewing a social media profile on a smartphone](https://www.lifewire.com/thmb/6jisheWax_8d--rEBde3lJazSN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1287186695-e166148abb6e43c7bbe7f2c5a9733ce2.jpg) 
 
 Tero Vesalainen / Getty Images

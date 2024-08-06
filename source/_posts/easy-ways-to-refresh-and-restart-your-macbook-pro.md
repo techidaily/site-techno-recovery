@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Refresh and Restart Your MacBook Pro
-date: 2024-08-03 19:53:19
-updated: 2024-08-05 10:35:10
+date: 2024-08-05T01:59:13.174Z
+updated: 2024-08-06T01:59:13.174Z
 categories:
   - BestProducts
 description: This Article Describes Easy Ways to Refresh and Restart Your MacBook Pro
@@ -29,14 +29,27 @@ thumbnail: https://www.lifewire.com/thmb/ULeQbM58CGSkEZH-VO8hr1zXiQA=/400x300/fi
  To launch Split View, follow the steps below:  
 
 1. Hover your mouse over the**Green Circle** (full-screen button) in the left corner of an open window. A drop-down menu should appear.  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MacBook Air with Lifewire website open and green dot menu highlighted](https://www.lifewire.com/thmb/qIK-hOcPpNi26E2hn9ABUwx-ib0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Greendotmenu-644017cc34b74ab08e3116c4e051d306.jpg)
 2. Click on either**Tile Window to Left of Screen** or**Tile Window to Right of Screen** to display your current window on the left or right side of your screen, respectively.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![MacBook Air with Lifewire website open and Tiling options highlighted](https://www.lifewire.com/thmb/doZhWFV7eXZ8_FqKkUr0NW6jC3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tileoptions-533d4230371441a78ef8cbe1ac054a1e.jpg)
 3. Depending on what you selected, your current window will be on the left or right of the screen.  
 ![Selecting second window in Mac Split View.](https://www.lifewire.com/thmb/XPbpubdxX7CxXrliBPngZg5V6TQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-do-split-screen-on-a-macbook-air-d085becc70464af4af4070b3b8db178d.jpg)
 4. On the other half of the screen, you’ll see all of your other open windows. Click the one you want to view, and it should snap into place beside the original window.  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Split view between Lifewire and Apple home pages on Google Chrome for Mac.](https://www.lifewire.com/thmb/x9FQUuRcpsMmovvnN_-Se9XX1OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-do-split-screen-on-a-macbook-air-01c3445392a446f3918a88fe65f6e04f.jpg)
 5. To switch window positions, click and drag one to the left or right. The windows should swap places.  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Swapping window positioning in Mac Split View.](https://www.lifewire.com/thmb/GAwIa1w8f77NK8-gBbBHusTCjRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-do-split-screen-on-a-macbook-air-cfa17d37feff42d497f36d89c8511b4c.jpg)
 6. If you’d like one window to be larger than the other, you can resize them by clicking and dragging the border between the two windows. Both windows will still fill the entire screen.  
  In macOS Monterey (12.0) and later, you can also swap out apps in Split View and make either pane switch to full screen.  
@@ -55,6 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/ULeQbM58CGSkEZH-VO8hr1zXiQA=/400x300/fi
 * Swipe up with three or four fingers on your MacBook Air’s trackpad  
 * Double-tap with two fingers on your Magic Mouse (if applicable)  
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Won't My Mac Do Split Screen?  
 
  If you can’t access Split View on your Mac, it’s most likely because your operating system is outdated.  
@@ -66,8 +82,14 @@ thumbnail: https://www.lifewire.com/thmb/ULeQbM58CGSkEZH-VO8hr1zXiQA=/400x300/fi
  If you have macOS Catalina or later installed and still can’t access Split View, make sure it’s enabled by following the steps below:
    8. Click the**Apple Menu** .
    9. Select**System Preferences** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Selecting System Preferences from Apple Menu on Mac desktop.](https://www.lifewire.com/thmb/AT4sp2cD3Beo1IheLO6LBwWi3y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SystemPreferences-160902a7424c425ca3f1db702db4a8ae.jpg)
    10. Click**Mission Control** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Selecting Mission Control from Mac System Preferences.](https://www.lifewire.com/thmb/70YcgJiWcCWWw-8xubpZZzUJapI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MissionControl-c80efa1f457e4e39a0ce93d76f1bfeb2.jpg)
    11. Ensure**Displays have separate Spaces** is selected.  
 ![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)

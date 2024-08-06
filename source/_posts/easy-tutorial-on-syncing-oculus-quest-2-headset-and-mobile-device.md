@@ -1,7 +1,7 @@
 ---
 title: Easy Tutorial on Syncing Oculus Quest 2 Headset and Mobile Device
-date: 2024-08-03 21:27:49
-updated: 2024-08-06 12:21:55
+date: 2024-08-05T01:59:17.603Z
+updated: 2024-08-06T01:59:17.603Z
 categories:
   - BestProducts
 description: This Article Describes Easy Tutorial on Syncing Oculus Quest 2 Headset and Mobile Device
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/7qWqm3BCuy_otdtdqrb3-2S6fHM=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * On your Quest 2:**Settings** \>**About** \> write down the pairing code.
@@ -23,6 +26,10 @@ Close
 
  To pair a Quest 2 to a phone, you need to have a Facebook or[ Meta account](https://www.lifewire.com/create-meta-oculus-quest-or-quest-2-account-6503595) , and you also need to install the Meta Quest app on your phone. The app is available for both Android and iPhone, and it looks and works the same regardless of which type of phone you have.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  How to Connect Quest 2 to Phone 
 
  Here’s how to connect a Quest 2 to a phone:  
@@ -32,12 +39,21 @@ Close
 2. Select**Quick Settings** (time, battery, Wi-Fi).  
 ![The quick launch shortcut (battery, wifi, time) highlighted on the Quest toolbar.](https://www.lifewire.com/thmb/XzZmsF0WfmaYpEasGh8giWXAq0w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-PairMetaOculusQuest2toaPhone-annotated-195dd84d90b74573baad98373391348d.jpg)
 3. Select**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings highlighted in Quest 2 Quick Settings.](https://www.lifewire.com/thmb/xwci80SjT02GP7xIP5S0_WK9LDI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-PairMetaOculusQuest2toaPhone-annotated-74eccfcb12914158a84ad2a70e6d0415.jpg)
 4. Select**System** .  
 ![System highlighted in Quest 2 Settings.](https://www.lifewire.com/thmb/SsAAroMX9EST95ZA2shKf_kbce8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-PairMetaOculusQuest2toaPhone-annotated-58e2dd849b9a420f9ccfa3586ae7ca67.jpg)
 5. Scroll down and select**About** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![About highlighted in Quest 2 Settings.](https://www.lifewire.com/thmb/TrmokurlfaYPdsP-VwEg5Xoc-jE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-PairMetaOculusQuest2toaPhone-annotated-a1931c08700b40c093fd8e6e6ba7126e.jpg)
 6. Make note of the pairing code.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The pairing code highlighted on Quest 2.](https://www.lifewire.com/thmb/Ai4RYifBwEox5qQgo1NX8MYehhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-PairMetaOculusQuest2toaPhone-annotated-951da79257e0489f8f87551bb97420ad.jpg)
 7. If you don’t already have the Meta Quest app, download and install it on your phone.  
 [  Get the Meta Quest app for Android ](https://play.google.com/store/apps/details?id=com.oculus.twilight&hl=en%5FUS&gl=US)  
@@ -62,6 +78,9 @@ Close
 
  If you have trouble connecting your Quest 2 to your iPhone, make sure[ Bluetooth is enabled on your iPhone](https://www.lifewire.com/turn-bluetooth-on-off-ipad-1994643) before you start the process. Bluetooth should be enabled before you attempt to pair your iPhone to a Quest 2.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Pair a Quest 2 to a Phone? 
 
  Pairing your Quest 2 with a phone provides a number of benefits.

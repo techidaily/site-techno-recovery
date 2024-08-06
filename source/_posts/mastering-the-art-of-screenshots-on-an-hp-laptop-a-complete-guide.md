@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Screenshots on an HP Laptop - A Complete Guide
-date: 2024-08-03 17:51:17
-updated: 2024-08-06 12:24:25
+date: 2024-08-05T01:59:23.973Z
+updated: 2024-08-06T01:59:23.973Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Screenshots on an HP Laptop - A Complete Guide
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 ---
 
 ## Mastering the Art of Screenshots on an HP Laptop - A Complete Guide
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * **PrtSc** saves the whole screen to the clipboard.**Win** +**PrtSc** saves screenshots to**Pictures** \>**Screenshots** .
@@ -42,6 +45,9 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 
  Simultaneously press**Win** +**Shift** +**S** . Drag your cursor over the area of the screen you want to capture. The selected section will be saved to the clipboard and also stored in the**Pictures\\Screenshots** folder.  
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Capture the Active Window
 
  Use**Alt** +**PrtSc** to capture the active window and add it to the clipboard. You will see no indication that the capture actually happened.
@@ -56,32 +62,56 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 3. Select**New** to start your screen capture.  
 !['New' and 'Full screen' highlighted in Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/g66hVFQzkmgPsL_-O_rBUg5_zcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ScreenshotonanHPLaptop-annotated-445623206c1e4eef89a213342557830b.jpg)
 4. Snipping Tool will open the screenshot in a new window. From here, you can use the tools up top to make notes and highlights, or copy the image to Paint, before you save the screenshot, which you can do from the**floppy disk** icon.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Editing tools and save button highlighted in the Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/UOBedWb_YxuBBdnppspmJ6w-akE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ScreenshotonanHPLaptop-annotated-f68b452cb4314b9097d3a1e2851933ec.jpg)  
  There are also third-party[screenshot apps for Windows](https://www.lifewire.com/best-screenshot-apps-windows-4177685) that offer more editing options.  
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## How to Use Snip & Sketch in Windows 10  
 
  Windows 10 also has the Snip & Sketch app. Here's how to use it:
 5. With the window or screen you want to capture open, click the**Start menu** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Start menu in Windows 10](https://www.lifewire.com/thmb/jhfqJPusffnGbRDz0h4z34Cr2KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-screenshot-on-an-hp-laptop-5113272-18280d7e9f2646ec9737b568a63e1f6d.jpg)
 6. Search for**Snip & Sketch** in the**search bar** and select it from the results.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Snip & Sketch in Windows 10 search](https://www.lifewire.com/thmb/BVW5_zNPQIiLElFJfb9LJncuxCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-screenshot-on-an-hp-laptop-5113272-90cfac0731be469b84f371dd350418b7.jpg)
 7. A menu will appear at the top of the screen. Click the fourth option to capture the whole image, which looks like a rectangle with marks in each corner.  
 ![The Fullscreen Snap option in Snip & Sketch ](https://www.lifewire.com/thmb/J0OSAm42Pokyx2lgosQHb1FGec4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-screenshot-on-an-hp-laptop-5113272-e15fbcfa15374ebba4b40f6c9ae509e6.jpg)  
  The other options let you draw a rectangle to capture, make a freeform shape, or grab the active window.
 8. However you take the screen, Windows will save it to the clipboard, and a notification will appear. Select the notification (which includes a thumbnail of the screen you just took) to open a customization window.  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![A thumbnail of a screen from Snip & Sketch](https://www.lifewire.com/thmb/vToUxAoilJyyDCqp-p5WU7k9f44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-screenshot-on-an-hp-laptop-5113272-2b4f0f801846402e9a5b19baa15ea3d3.jpg)
 9. In this window, you can mark up, highlight, and crop the image using the tools at the top of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Editing tools in Snip & Sketch](https://www.lifewire.com/thmb/sYD0JV4SnJihP8vQIPKLDtLcK3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-screenshot-on-an-hp-laptop-5113272-9bdc8e07001c4cb6ba077d56b6f127b8.jpg)
 10. To save the screenshot, select the**Save** icon.  
 ![The Save button in Snip & Sketch](https://www.lifewire.com/thmb/tne8-m5QuuEH054CwG8jz5Ysklc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-screenshot-on-an-hp-laptop-5113272-0d187feff1f046bb90f87e2567b2540c.jpg)
 11. In the next window, choose a file name, file type, and location for your saved screenshot, then select**Save** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Save in the Save window in Windows Snip & Sketch](https://www.lifewire.com/thmb/ytqrZAnY_rgAb2JoVonbEBpA5H4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-screenshot-on-an-hp-laptop-5113272-5537372a44cc491baa434a42656ba761.jpg)
 
 ## How to Take a Screenshot on an HP Tablet
 
  HP dropped out of the tablet market in 2011, but you can capture the screen by pressing**Power** +**Volume Down** if you still have one. You can find screenshots in the**Photos** app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Power and Volume Down buttons on an HP tablet](https://www.lifewire.com/thmb/LQyDhN14pOtcwoGTDvOYoDj3aKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-screenshot-on-an-hp-laptop-5113272-108a6439e9a64000a39c0ed68fa2f6c1.jpg)
 
 HP

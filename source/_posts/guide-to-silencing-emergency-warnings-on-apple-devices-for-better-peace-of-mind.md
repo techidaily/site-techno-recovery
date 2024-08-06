@@ -1,7 +1,7 @@
 ---
 title: Guide to Silencing Emergency Warnings on Apple Devices for Better Peace of Mind
-date: 2024-08-05 10:35:57
-updated: 2024-08-06 11:29:11
+date: 2024-08-05T01:59:20.792Z
+updated: 2024-08-06T01:59:20.792Z
 categories:
   - BestProducts
 description: This Article Describes Guide to Silencing Emergency Warnings on Apple Devices for Better Peace of Mind
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/qtj_iI9Ml91L1pdOSOyGu-aB9VA=/400x300/fi
 ---
 
 ## Guide to Silencing Emergency Warnings on Apple Devices for Better Peace of Mind
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Amber alerts on iPhone can be turned off in**Settings** \>**Notifications** .
@@ -18,6 +21,14 @@ thumbnail: https://www.lifewire.com/thmb/qtj_iI9Ml91L1pdOSOyGu-aB9VA=/400x300/fi
 
  This article explains how to disable Amber alerts on an iPhone. It also covers how to turn off similar government alerts, including emergency, public safety, and test alerts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How to Disable Amber Alerts and Other iPhone Emergency Alerts
 
  You're just a few taps away from shutting down these notifications, but be sure to keep reading to learn why we recommend keeping Amber alerts turned on.
@@ -25,16 +36,26 @@ thumbnail: https://www.lifewire.com/thmb/qtj_iI9Ml91L1pdOSOyGu-aB9VA=/400x300/fi
 1. Tap the[Settings](https://www.lifewire.com/understanding-device-settings-4138532) app to open it, then tap**Notifications** .
 2. Scroll to the bottom of the screen to find the section labeled**Government Alerts** . Amber alerts and Public Safety Alerts are set to on/green by default; tap a toggle to switch that alert off.
 3. Tap**Emergency Alerts** for a few other options. From there, you can control emergency alerts without affecting the option you chose for Amber alerts in the last step. This is also how you stop emergency alerts from bypassing silent mode.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![The Settings, Notifications, and Emergency Alerts screens on an iPhone](https://www.lifewire.com/thmb/k4Pdtou2x8ooq0Bqd1UnlBWO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-amber-alerts-bc193ddbd3c24bd895b61242e22ca176.png)
 
  Got an Apple Watch?[Check out how to avoid notification overload](https://www.lifewire.com/avoid-notification-overload-apple-watch-1999672) , including notifications from emergency alerts.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Can Do Not Disturb Silence Emergency and Amber Alerts on iPhone?
 
  The[iPhone's Do Not Disturb feature](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) lets you silence notifications, but it does not work with Amber alerts and other emergency alerts. Because they signal an emergency that could affect your life and safety or someone else's, Do Not Disturb can't block these alerts.
 
  There is no way to block or silence Amber alerts except by turning them off. As for emergency alerts, there is a toggle called**Always Play Sound** that you can turn off (see Step 3 above). Doing this prevents the sound from coming through your phone when you're in silent mode.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can You Change Emergency and Amber Alert Tones on iPhone?
 
  While you can[change the sound used for other alerts](https://www.lifewire.com/how-to-change-the-default-ringtone-on-your-iphone-2000554) , you can't customize emergency alert sounds. Yes, the noise for these alerts is unpleasant and may even be startling, but it's worth remembering that they're unpleasant because they're supposed to get your attention.
@@ -43,6 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/qtj_iI9Ml91L1pdOSOyGu-aB9VA=/400x300/fi
 
 [How to Turn Off SOS on an iPhone 14](https://www.lifewire.com/iphone-14-turn-off-sos-8630001)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why You Shouldn't Disable Amber and Emergency Alerts on iPhone
 
  Even though these alerts can sometimes be surprising or unwelcome, you should leave them on—especially the emergency alerts. These messages arrive when there is dangerous weather or another severe health or safety event imminent in your area. If a tornado, flash flood, or other potential natural disaster is heading your way, you'll want to know so that you can take action.

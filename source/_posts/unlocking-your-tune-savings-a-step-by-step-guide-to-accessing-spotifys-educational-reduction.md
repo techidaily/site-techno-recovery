@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Tune Savings: A Step-by-Step Guide to Accessing Spotify's Educational Reduction"
-date: 2024-08-03 14:48:47
-updated: 2024-08-05 12:21:12
+date: 2024-08-05T01:59:12.373Z
+updated: 2024-08-06T01:59:12.373Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking Your Tune Savings: A Step-by-Step Guide to Accessing Spotify's Educational Reduction"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 ---
 
 ## No More Distractions: A Step-By-Step Guide to Blocking Unwanted SMS on iPhone
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What To Know
 
 * To block text messages, tap the text > icon or number >**Info** \>**Block Caller** \>**Block Contact** .
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 1. In Messages, tap a text from the sender you want to block.
 2. Tap the sender's icon at the top.
 3. Select**Info** .  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
 5. In the confirmation pop up, tap**Block Contact** .  
@@ -49,9 +55,20 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 1. Tap**Settings** .
 2. Tap**Messages** .
 3. Move the**Filter Unknown Senders** slider to on/green.  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 ## How to Stop Unwanted Group Texts on an iPhone
@@ -63,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 3. To completely leave the group text, there are two paths.  
  If there is a mix of iPhones and Android phones in that chat (you'll know because the message bubbles will be green), tap**Delete and Block this Conversation,** and then tap the confirmation pop-up.  
  If everyone has an iPhone (blue message bubbles) and the chat has more than three other people in it, tap**Leave This Conversation** and then tap the confirmation pop-up.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![A group chat on an iPhone with the name of the chat, the "Hide Alerts" option, and the "Leave this Conversation" commands highlighted](https://www.lifewire.com/thmb/HQ28TmHbL1M_I1yxXgoej2uiqFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Group-Text-options-1eb1d9e175f1471ea3a04ef674873699.jpg)
 
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Block Texts With the Do Not Call Registry
 
  Another place to stop annoying communications to your phone is the National Do Not Call Registry. This government program attempts to enforce your preference to not get unwanted calls from marketers and other potential annoyances in the United States.

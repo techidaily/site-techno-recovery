@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Personalizing Your Gmail Experience with Smart Filter Creation
-date: 2024-08-03 20:56:45
-updated: 2024-08-06 10:26:59
+date: 2024-08-05T01:59:23.134Z
+updated: 2024-08-06T01:59:23.134Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Personalizing Your Gmail Experience with Smart Filter Creation
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/Fhwg-nSDuLDeQxq-UNWgPsBqnXA=/400x300/fi
 ## The Ultimate Guide to Picking the Perfect Motherboard: Explore 7 Important Details
 0:38
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### How to Choose a Motherboard: 7 Factors to Consider
 
  This article explains how to choose a motherboard, including finding the correct motherboard for your[computer case](https://www.lifewire.com/what-is-a-computer-case-2618149) and[central processing unit (CPU)](https://www.lifewire.com/what-is-a-cpu-2618150) , and other things to consider.  
@@ -30,6 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/Fhwg-nSDuLDeQxq-UNWgPsBqnXA=/400x300/fi
 6. Built-in ports
 7. RAM (memory)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## How Much Should a Motherboard Cost?
 
  Motherboard prices vary widely by model and manufacturer and can be as little as $50 or less or as much as $1,500\. However, the more you spend on a motherboard, the more features you'll get. Here's a general overview of basic, average, and high-end motherboard prices.  
@@ -88,6 +94,9 @@ Narumon Bowonkitwanchai/Getty Images
 
  The form factor of the motherboard doesn't affect the type of CPU you need to use. If the motherboard has the correct socket, you can use the same CPU with an ATX, Micro-ATX, or Mini-ITX motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Expansion Ports Should a Motherboard Have?
 
  After the CPU socket and form factor, the next most important factor is how many expansion ports, usually[PCIe ports](https://www.lifewire.com/pci-express-pcie-2625962) , the motherboard has and how many you think you'll need.
@@ -96,12 +105,18 @@ Narumon Bowonkitwanchai/Getty Images
 
  Most motherboards support PCIe 3.0, but some support the newer PCIe 4.0 and 5.0, which provide more bandwidth. If you have any PCIe cards or want to future-proof your selection, look for a board with PCIe 5.0 support.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Built-In Ports Does a Motherboard Need?
 
  It’s also worth looking at the ports built into the motherboard. Motherboards will include a mix of[USB-A](https://www.lifewire.com/usb-type-a-connector-2626032) ,[USB-C](https://www.lifewire.com/usb-c-4149490) , audio ports,[HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) , and even legacy ports like VGA, PS/2, parallel, and serial ports. Motherboards can also include Ethernet ports and other connectivity like built-in Wi-Fi and Bluetooth.
 
  Consider which ports you’re most likely to need, and select a motherboard that fits your requirements so you won’t have to add an expansion card or USB hub immediately.  
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Much RAM Does a Motherboard Need?
 
  It’s also important to look at how many[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) slots the motherboard has and how much total RAM it supports to meet your memory needs. This factor isn’t crucial if your computer only needs to stream media, surf the web, and play basic games. Still, having the option to install more RAM is vital if you do any video or photo editing or play resource-intensive games.  
@@ -122,6 +137,9 @@ Narumon Bowonkitwanchai/Getty Images
 
 [How to Replace a Motherboard](https://www.lifewire.com/replace-a-motherboard-5189494)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## More Tips for Choosing a Motherboard
 
  Before purchasing your motherboard, consider these additional tips.
@@ -134,6 +152,9 @@ Narumon Bowonkitwanchai/Getty Images
 * Consider additional motherboard features and if they'll be helpful to you. For example, a motherboard may include onboard wireless, audio, or a RAID controller.
 * If you want to overclock your CPU, ensure your motherboard can handle the job concerning CPU multipliers and voltages.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is a Motherboard?
 
  A motherboard is a computer hardware element that connects various internal computer parts, including the CPU, memory modules, hard drives, expansion cards, and ports. Computer parts connect to the computer directly or with appropriate cables.

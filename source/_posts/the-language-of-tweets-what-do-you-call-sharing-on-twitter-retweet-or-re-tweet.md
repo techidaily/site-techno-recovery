@@ -1,7 +1,7 @@
 ---
 title: "The Language of Tweets: What Do You Call Sharing on Twitter - Retweet or Re-Tweet?"
-date: 2024-08-02 16:19:23
-updated: 2024-08-05 12:50:21
+date: 2024-08-05T01:59:30.183Z
+updated: 2024-08-06T01:59:30.183Z
 categories:
   - BestProducts
 description: "This Article Describes The Language of Tweets: What Do You Call Sharing on Twitter - Retweet or Re-Tweet?"
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 
 _If you click on links we provide, we may receive compensation._
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Free Online Sign Language Classes
 
  Some of these are huge courses with many units to teach you the complete sign language, and others are smaller that will just teach you the basics. Whatever class you choose, you'll have a great time building up your skills.
@@ -26,12 +33,23 @@ _If you click on links we provide, we may receive compensation._
 
  You'll find many videos on sign language here, and the lessons are in order of difficulty, so you can progressively learn to sign like you would with any other language.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![American Sign Language University home page](https://www.lifewire.com/thmb/MbyvJ8pc2SNxySxyCAAZ7MPY6Dg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asl-lifeprint-e4a6466dac7c4ede9439817885d46cf5.png)
 
  Be sure to check out the[First 100 Signs](https://www.lifeprint.com/asl101/pages-layout/concepts.htm) videos for a great introduction to common signs used between parents and younger children. There are also some sentences you can practice using the signs you learned from the videos.
 
 [Visit ASLU](https://www.lifeprint.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Sign Language 101's Free Sign Language Classes
 
 ![Sign Language 101 free videos](https://www.lifewire.com/thmb/9J9J4NA_gku-J6xAKimHsezwAfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sign-language-101-c5dd5117685b4d5592e3434222e68b85.png)
@@ -58,6 +76,9 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit Start ASL](https://www.startasl.com/learn-sign-language-asl)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### ASL Connect From Gallaudet University
 
 ![Gallaudet University's free sign language resources](https://www.lifewire.com/thmb/xPam_SS5icLvuLUzag30sc-7RFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gallaudet-edu-sign-language-cd82c11a907e481f814292940a4c16e9.png)
@@ -70,6 +91,9 @@ _If you click on links we provide, we may receive compensation._
 
 ### SignSchool
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SignSchool ](https://www.lifewire.com/thmb/ft580gMAjRqg3I-Rrj3Az29_9gk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/signschool-f8c1e95018da49a7b94d28cac6470349.png)
 
  SignSchool is a free online sign language class that steps you through the basics (starting with how to spell your name) and then moves you through lessons that progress in difficulty.
@@ -80,12 +104,18 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit SignSchool](https://www.signschool.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Free Sign Language Learning Apps
 
  Apps are available for mobile devices that let you learn sign language anywhere, a benefit if you don't use a computer often or if you like to squeeze in some courses on the go.
 
 ### The ASL App
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ASL App on Android](https://www.lifewire.com/thmb/UD13c1fqTbfIeHrRS5iuAwwe3Bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-asl-app-android-e6b51ca3ce1249bfa82ab1d271e1e6a1.png)
 
  Learn sign language on the go with the free ASL App that makes it easy to understand new signs and practice ones you already know. You get to set the pace, and you can jump in and out of learning sign language whenever you want.
@@ -100,6 +130,9 @@ _If you click on links we provide, we may receive compensation._
 
 ### Teachers Paradise ASL Fingerspelling Game For Android
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ASL American Sign Language Fingerspelling Game on Android](https://www.lifewire.com/thmb/kOb7gsNW2nTfZRHuDkl4qJ9q0JE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asl-fingerspelling-alphabet-android-8ce6caef2d2a452da0abe11edb61056a.png)
 
  Flip through this game to see how to sign every letter of the alphabet using pictures. You can start from A and move through to Z, or you can get random letters to mix it up a little. There are over 140 flashcards to review in this app, plus dozens of other activities.
@@ -127,8 +160,15 @@ _If you click on links we provide, we may receive compensation._
 * [These numbers/common words/letters](https://www.dummies.com/article/academics-the-arts/language-language-arts/learning-languages/american-sign-language/signing-for-dummies-cheat-sheet-208315/) : This cheatsheet is similar to the other printables here with four images you can print for keywords, such as "how," "which," "where," "yes," "please," "thanks," "goodbye," etc. There are also printables for the alphabet and numbers one through 10.
 * [Print individual letters in sign language](https://www.teachersprintables.net/category/sign%5Flanguage) : These printables includes large letters of the alphabet represented in sign language. One way to use these is to print them off and place them next to objects that start with that letter for passive learning.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Online Sign Language Games
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Deafsign sign language game](https://www.lifewire.com/thmb/IQalTEok0f9rsq2T7BbkUjCQIPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/deafsign-game-aa058ef7a9864e928cc4f1e12053e33a.png)
 
  Online games can make learning sign language fun. If you've completed a few courses or spent some time with a sign language app or worksheet, play a game to test what you've learned.

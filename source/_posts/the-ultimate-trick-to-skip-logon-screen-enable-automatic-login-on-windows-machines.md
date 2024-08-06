@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Trick to Skip Logon Screen: Enable Automatic Login on Windows Machines"
-date: 2024-08-03 18:22:21
-updated: 2024-08-06 12:18:35
+date: 2024-08-05T01:59:21.464Z
+updated: 2024-08-06T01:59:21.464Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Trick to Skip Logon Screen: Enable Automatic Login on Windows Machines"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c
 ---
 
 ## Tricks to Prevent Auto-Sleep on MacBook When You Close the Lid
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * **System Settings** \>**Lock Screen** \>**Turn display off on power adapter when inactive** \>**Never** .
@@ -23,14 +26,27 @@ thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c
  You'll need to change a few settings to stop your MacBook from going to sleep with the lid closed.  
 
 1. Click**System Settings** or**System Preferences** from the Apple menu in the upper left corner.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Apple menu on a MacBook](https://www.lifewire.com/thmb/l1I1ckMK4T1_Bb8Nx1Ws760pXLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macos-apple-menu-6e1d16f2da7f416bb5b09df2e105dc93.png)
 2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
  In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
 4. Plug your MacBook into power.
 5. Connect your MacBook to an external monitor using an adapter if necessary.
@@ -38,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c
 
  If you want to use your MacBook in this configuration permanently, you can use the Mac sleep scheduler to have it sleep and night and wake up in the morning automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Does My MacBook Sleep When I Close the Lid?
 
  Your MacBook sleeps when you close the lid for several reasons, depending on whether it's plugged in. When plugged in, it sleeps to help conserve energy and allow it to charge more quickly, as it uses much less power while asleep. When running on battery power, it sleeps when you close the lid to conserve battery power. Since you typically don't need to use your MacBook when the lid is closed, the default setting is for the display to turn off and the MacBook to sleep whenever the lid is closed.

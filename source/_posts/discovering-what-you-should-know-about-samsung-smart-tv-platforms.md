@@ -1,7 +1,7 @@
 ---
 title: Discovering What You Should Know About Samsung Smart TV Platforms
-date: 2024-08-03 17:31:44
-updated: 2024-08-06 11:56:31
+date: 2024-08-05T01:59:34.347Z
+updated: 2024-08-06T01:59:34.347Z
 categories:
   - BestProducts
 description: This Article Describes Discovering What You Should Know About Samsung Smart TV Platforms
@@ -18,12 +18,18 @@ thumbnail: https://www.lifewire.com/thmb/EP2sZsFggeKm2Mu7ZcKSC5xVRBc=/400x300/fi
 
  Using its umbrella "Smart Hub" interface, not only does the TV viewer have efficient access to TV setup and other functions, but also streaming services like Netflix and YouTube. Depending on the TV model, it might also include a full web browser and access to social media.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Illustration of Samsung Apps on an HDTV.](https://www.lifewire.com/thmb/GoKWczBXBzi0TTEp01zsqYN4RWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-are-samsung-apps-1847425-30802e31493c438e8455a8ca17457a38.png)
 
 Lifewire / Maddy Price
 
  As of December 2019,[the Netflix app may not work](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01203568%2F) on some 2010 and 2011 Samsung smart TVs. If your TV is affected, you will see a notice displayed on your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## It's All About the Apps
 
  The idea of a smart TV in general, and Samsung's approach in particular, is to offer built-in apps that are accessible on your TV, similar to the way we use[mobile apps](https://www.lifewire.com/what-are-apps-1616114) on a smartphone. When you look at your TV menu, it looks similar to a smartphone screen.
@@ -34,6 +40,9 @@ Lifewire / Maddy Price
 * Additional apps that aren't listed in the provided categories may be found using Search, which is usually located in the top right corner of the Apps menu screen.
 * If you find an app through a category or search that you want to add, choose it and select**Install** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Samsung Smart TV Add Apps Process](https://www.lifewire.com/thmb/W9N4q6WDI5NCqK2ochKm9BW0aQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-hub-and-apps-menus-arrows-xabc-5b4a255946e0fb003762ca90.jpg)
 
  Samsung Smart TV Add Apps Process.
@@ -44,6 +53,9 @@ Lifewire / Maddy Price
 
  Although most apps can be downloaded for free, some may require a small fee, and some free apps may also require additional subscription or pay-per-view fees to access content.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Smart TV as Your Life Hub
 
  Samsung's goal is to enable their TVs to be the hub of our home life.
@@ -64,6 +76,9 @@ Lifewire / Maddy Price
 
  Samsung apps are also included on Samsung's line of Blu-ray and UHD Blu-ray players. However, depending on year and model, the selection may be more limited than on their TVs.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## More Than Internet Streaming
 
  In addition to streaming apps, depending on the year and model, Samsung smart TV owners may be able to view content stored on network-connected PCs and media servers via[Samsung SmartView](https://www.lifewire.com/how-samsung-allshare-simplifies-media-streaming-1847358) .
@@ -78,6 +93,9 @@ Lifewire / Maddy Price
 
  This functionality uses a combination of apps and optional external accessory devices that work together to control things such as lighting, thermostats, security devices, and appliances and view their status on the TV screen.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## App Availability
 
  Your TV model determines what the Smart Hub may look like, what apps may be available, and how to access and manage them. Also, some app availability may be restricted depending on the region or country.  

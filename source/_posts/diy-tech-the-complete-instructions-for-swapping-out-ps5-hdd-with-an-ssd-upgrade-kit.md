@@ -1,7 +1,7 @@
 ---
 title: "DIY Tech: The Complete Instructions for Swapping Out PS5 HDD with an SSD Upgrade Kit"
-date: 2024-08-04 10:53:29
-updated: 2024-08-06 11:21:16
+date: 2024-08-05T01:59:31.768Z
+updated: 2024-08-06T01:59:31.768Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Tech: The Complete Instructions for Swapping Out PS5 HDD with an SSD Upgrade Kit"
@@ -25,6 +25,9 @@ Close
 
  You will have to do just a little bit of work before installing your new PS5 SSD, but it’s all fairly simple stuff.  
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PS5 console with screwdriver](https://www.lifewire.com/thmb/XXKHwgpM2md1Xu4n4EEOgcKyPVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps501-02002ff9be6f4acbbefc04892912fa26.JPG) 
 
 Rob Rich/Lifewire
@@ -40,6 +43,9 @@ Rob Rich/Lifewire
 
  The next steps will depend on whether you have a launch version or the newer Slim model of the PS5.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  How to Install a New SSD in a PS5 Launch Console 
 
  With your PS5 console, clean surface, and screwdriver ready, it’s time to get to work.  
@@ -53,21 +59,37 @@ Rob Rich/Lifewire
 Rob Rich/Lifewire
 3. Slowly slide the cover piece off to remove it entirely.
 4. Find the expansion slot (a long and narrow metal cover) toward the front of the open console, just in front of the fan exhaust.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![A launch-edition PS5 with the expansion slot highlighted](https://www.lifewire.com/thmb/kTNrs6Qh5WU9sU3JA63Mi2BGCCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PS5-Launch-expansion-slot-41533e8c65cf4aa587b0fc842768777d.jpg)  
 Rob Rich/Lifewire
 5. Loosen and remove the expansion slot’s screw (with the PlayStation symbols on it), and then pull the slot cover slightly to your left and lift it off.  
 ![loosening the expansion slot screw with a screwdriver](https://www.lifewire.com/thmb/eTNdCWWtJHn56YjA5UC1hR6Rlu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps505-d246755f5b6547d4ba422b407f951d1f.JPG)  
 Rob Rich/Lifewire
 6. Remove the smaller expansion slot screw along with the metal spacer ring beneath it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![removing the inner expansion slot screw and spacer ring](https://www.lifewire.com/thmb/mRwa0xJ5BN7B3-1NkHie60j5nQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps507-1645fa76ec43488d905feb813d5e9fc0.JPG)  
 Rob Rich/Lifewire
 7. Line the spacer ring up with the expansion slow screw hole that matches the size of your SSD. You may want to hold the SSD up to the expansion slot to double-check the fit.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A PS5 expansion slot with the screw holes highlighted](https://www.lifewire.com/thmb/qJH9B_a4hchB75RdEwVg3LdYTW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Expansion-holes-PS5-5be6cc58831940a8a05056e89039ce95.jpg)  
 Rob Rich/Lifewire
 8. Line up the SSD connectors with the expansion connectors in the expansion slot and push it into place, leveling out the SSD as you go. Make sure to push the SSD firmly into place and that the end lines up with the spacer ring.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![SSD and expansion slot connectors](https://www.lifewire.com/thmb/0w1M04ccBDN-Xk_w1Lv9mFj5a24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps510-7a3311ec863e4940af9a022cf026942b.JPG)  
 Rob Rich/Lifewire
 9. Screw the small expansion slot screw back into place, lining it up with the end of the SSD and the spacer ring.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![screwing in the new SSD](https://www.lifewire.com/thmb/Ar4eheOHhRZ2zVXiF0ZbH88QH6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps512-cb195b4417ff4b7cb65efcfb64b16f5e.JPG)  
 Rob Rich/Lifewire
 10. Slide the expansion slot cover into place, and then screw the larger expansion slot screw (with all the PlayStation symbols) back in.  
@@ -81,10 +103,16 @@ Rob Rich/Lifewire
 
  If you can’t get the expansion slot cover to line up or close, the SSD is likely too big, and you’ll need to choose an alternate model.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Install a New SSD in a PS5 Slim 
 
  The SSD installation process on a[ PS5 Slim](https://www.lifewire.com/playstation-5-slim-7966360) is very similar to that of a non-Slim PS5, with the biggest difference being the process of removing the cover.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![illustration of PS5 Slim front, indicating the panel that will be removed to install the SSD](https://www.lifewire.com/thmb/f6bLu_EsgvJLtHFPsDZzzFgW1kw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pa5slim01-efec593ba589438cb3d7b29417322c62.jpeg) 
 
 Sony Interactive Entertainment LLC

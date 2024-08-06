@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Microsoft's Scholarly Discount Program Easily
-date: 2024-08-05 22:31:46
-updated: 2024-08-06 12:32:59
+date: 2024-08-05T01:59:10.431Z
+updated: 2024-08-06T01:59:10.431Z
 categories:
   - BestProducts
 description: This Article Describes Navigating Through Microsoft's Scholarly Discount Program Easily
@@ -12,19 +12,41 @@ thumbnail: https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/fi
 ## Walkthrough to Securing Lower Cost on Microsoft Products Through Student Savings
  Microsoft sells a lot of software that's useful for students, and devices like the[Surface and Surface Pro](https://www.lifewire.com/microsoft-surface-series-4163521) are great for keeping productivity up while you're on the go. If you're an eligible student (or a parent of one), you can take advantage of Microsoft's student discount to gain free access to powerful software like[Office 365](https://www.lifewire.com/microsoft-office-for-students-teachers-2511861) and save on computers and other devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Get the Microsoft Student Discount
 
  To get the Microsoft student discount, all you have to do is access the online Microsoft store through the student and military discount portal. Here's how the process works:
 
 1. Go to the[Microsoft Student and Military Discounts site](https://www.microsoft.com/en-us/store/r/student-discounts) , log in with your Microsoft account, and click**Shop Now** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Microsoft Student and Military Discounts site.](https://www.lifewire.com/thmb/X2vwXV9ttV8LhYs5flrq2E9F4I4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-get-a-microsoft-store-student-discount-c8d2274843014bbb90c744cecc473495.jpg)
 2. The site tells you you're eligible for special pricing. Select**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
 
@@ -49,6 +71,10 @@ Certain items are specifically excluded, including:
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.

@@ -1,7 +1,7 @@
 ---
 title: "DIY Masterclass: Building & Programming a Versatile Universal Remote"
-date: 2024-08-02 21:23:10
-updated: 2024-08-05 11:37:46
+date: 2024-08-05T01:59:25.629Z
+updated: 2024-08-06T01:59:25.629Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Masterclass: Building & Programming a Versatile Universal Remote"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 ---
 
 ## DIY Masterclass: Building & Programming a Versatile Universal Remote
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * First, put the control into pairing mode by holding some combination of the**Device** ,**Power** , and other buttons.
@@ -22,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Direct Code Entry
 
  The easiest way to program a universal remote is to enter a code that identifies the product you wish to control. Codes may be provided via a "code sheet" or a web page where the codes are listed by brand and type of device (TV, Blu-ray Disc player, Home Theater Receiver, Cable Box, VCRs, and sometimes media streamers).
@@ -50,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 7. Press the**Stop** button to save the code.
 8. Test several functions on the remote and see if they work for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -67,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 9. Use several buttons (volume, etc.) to see if your remote can now control the device.
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -79,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 4. If the power on your TV or device turns off, the remote has found the correct Code. Press**Stop** to save the code.
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -102,6 +117,11 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  A universal remote is a great way to clear that space on your coffee table, but also keep the following in mind:

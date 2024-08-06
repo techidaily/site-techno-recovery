@@ -1,7 +1,7 @@
 ---
 title: Chronological Breakdown of Apple’s iOS Upgrades - Version 1.0 Through 18.0
-date: 2024-08-05 22:32:54
-updated: 2024-08-06 10:39:57
+date: 2024-08-05T01:59:20.614Z
+updated: 2024-08-06T01:59:20.614Z
 categories:
   - BestProducts
 description: This Article Describes Chronological Breakdown of Apple’s iOS Upgrades - Version 1.0 Through 18.0
@@ -19,6 +19,9 @@ Close
 
  See our article[ What is iOS?](https://www.lifewire.com/what-is-ios-1994355) for a lot more on this innovative mobile operating system and how it works.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## iOS 18 
 
  Apple previewed[ iOS 18](https://www.lifewire.com/ios-18-8552216) at[ WWDC](https://www.lifewire.com/wwdc-5101136) in June 2024\. It will be available to the public in Fall 2024.
@@ -31,6 +34,9 @@ Close
 
  Other notable updates include a new Passwords app for managing credentials, Game Mode for optimizing gaming performance, improved photo organization with topics and carousels, and enhanced Safari features like Highlights and Reader. The Wallet app adds Tap to Cash for easy Apple Cash transfers and new options for accessing credit card rewards and installment plans.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iOS 17 
 
  Apple announced[ iOS 17](https://www.lifewire.com/ios-17-news-and-rumors-6753498) at the June 2023 WWDC and then rolled it out to the public in Fall 2023.
@@ -51,6 +57,9 @@ Close
 
  iOS 16 also featured an Apple Maps redesign and new features, such as cycling, lookaround, and multi-stop routing. The iOS upgrade also offers improvements to Spatial Audio that allow for the personalization of audio on AirPods.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iOS 15 
 
 ![Screenshots of iOS 15](https://www.lifewire.com/thmb/ykVCd1DMEVQorsAL-MaaXk3mC3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple_iPhone12Pro-iOS15-3up_060721-1f8dd95d23364d638c00788b9360724f.jpg) 
@@ -94,6 +103,9 @@ Apple Inc.
 
 ## iOS 14 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![iOS 14 screenshots](https://www.lifewire.com/thmb/ZvBt94JcNdydFE2s1dgkRGvXwp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-14-9f6e598c28e3478a9e680bb0fe3fde7e.jpg) 
 
 Apple
@@ -159,6 +171,9 @@ Apple Inc.
 
 ## [ iOS 12](https://www.lifewire.com/ios-12-4169622) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Features of iOS 12](https://www.lifewire.com/thmb/1Q9BifOc0NdTPjfkWg7grW3i_XM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-12-5b1c0c993418c60036b4faa0.jpg) 
 
 Apple Inc.
@@ -183,6 +198,9 @@ Apple Inc.
 
 * N/A
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## [ iOS 11](https://www.lifewire.com/can-you-use-the-latest-ios-4141436) 
 
 ![Screenshot of iOS 11](https://www.lifewire.com/thmb/TtDWLhEfsvGO_8Dduk4_Jqxltf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-11-593d3f773df78c537b62c5ac.jpg) 
@@ -242,6 +260,9 @@ Apple Inc.
 * iPad 2
 * 1st gen. iPad mini
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## [ iOS 9](https://www.lifewire.com/devices-compatibility-ios-9-1999748) 
 
 ![Screenshots of Apple Maps](https://www.lifewire.com/thmb/dWh60jzQRA2AOcGfOil5hyKG5po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS9_apps-5728cddf5f9b589e34bfb973.jpg) 
@@ -268,8 +289,17 @@ Apple, Inc.
 
 * N/A
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## [ iOS 8](https://www.lifewire.com/iphone-compatible-ios-8-1999214) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![iPhone 5s with iOS 8](https://www.lifewire.com/thmb/zi_LhQ-7cFRXzy0FrNnFdA-ZHnI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone5-ios8-56a5352e3df78cf77286eecf.jpg) 
 
 Apple, Inc. 
@@ -300,6 +330,9 @@ Apple, Inc.
 
 ## [ iOS 7](https://www.lifewire.com/is-iphone-compatible-with-ios-7-2000226) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Material design in iOS 7](https://www.lifewire.com/thmb/NBSZqBzI5HlyCyrOTwS0mCE36fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-7-598c78e0054ad90011729fb8.jpg) 
 
 Corbis News / Getty Images
@@ -327,8 +360,14 @@ Corbis News / Getty Images
 * iPhone 3GS
 * ​iPhone 4, iPhone 4S, 3rd gen. iPad, and iPad 2 couldn't use all features of iOS 7
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iOS 6 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Screenshot of iOS 6](https://www.lifewire.com/thmb/SD_9xRCw9TcGf31icSpQQ5LQkQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-6-598c7e60b501e80012fa1a48.jpg) 
 
 marco\_1186 / Flickr
@@ -383,6 +422,9 @@ Francis Dean / Getty Images
 * 2nd gen. iPod touch
 * 3rd gen. iPod touch
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## [ iOS 4](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) 
 
 ![iPhone 4 in black](https://www.lifewire.com/thmb/thaO7rMhgmPNvfHVT7NvyTLXHXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-4-598c7fba054ad9001173586b.jpg) 
@@ -433,8 +475,14 @@ Justin Sullivan / Getty Images News
 * [ Spotlight​ search​](https://www.lifewire.com/spotlight-search-definition-1994352)
 * [ Recording videos](https://www.lifewire.com/how-much-video-can-iphone-record-2000304)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## iOS 2 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![iPhone 3G in an Apple Store](https://www.lifewire.com/thmb/e7btg9umq1lis3_Un_1HBtbg3qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3G-598c809baf5d3a0011e1cfd7.jpg) 
 
 Jason Kempin / Getty Images

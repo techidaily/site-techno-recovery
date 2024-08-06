@@ -1,7 +1,7 @@
 ---
 title: "Experience Samsung's New Releases: How to View Unpacked Live Online"
-date: 2024-08-02 15:16:26
-updated: 2024-08-05 12:20:34
+date: 2024-08-05T01:59:19.254Z
+updated: 2024-08-06T01:59:19.254Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Samsung's New Releases: How to View Unpacked Live Online"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/3ea30a94da7c5f3b672bf32659821fab72659fd65
 
  _Another Apple Event was held online on September 12, 2023\. This time, the event covered two key items in Apple's lineup: The newest iPhone and latest smartwatch. Both are wildly popular with consumers; both of these newest iterations have plenty of cool new features to make even skeptics take a hard look at the offerings._
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## iPhone 15: The Latest iPhone from Apple
 
  As expected, Apple dropped the newest iPhone in its lineup during its September launch event: The iPhone 15.
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/3ea30a94da7c5f3b672bf32659821fab72659fd65
 
  The main reason someone might go for the Pro version of an iPhone over the base model is the camera. While the iPhone 15 and Pro both have an impressive 48-megapixel main camera, the Pro versions have a third lens that provides additional features.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%273166%27 height=%271676%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![iPhone 15 Pro features](https://www.lifewire.com/thmb/W5IYkEGNlzvUhlNEOkvgw50dDgc=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15ProFeatures-c322bb8455fb4be2af8125103040fef4.jpg)
 
  PHOTO:
@@ -73,6 +79,9 @@ Apple Inc
 
 **Spatial Video** : Spatial Video is a gimmick feature that only works with a niche product (the Vision Pro), but darn if it doesn't look cool. The possibilities are also there if Apple decides to open it up to other uses, like 3D scanning.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### iPhone 15 Pricing and Availability
 
  The iPhone 15 series starts at $799, but size, version, and memory choices will impact the final price. Here's how these options affect the cost:  
@@ -90,6 +99,9 @@ Apple Inc
 
 [USB-C: Everything You Need to Know](https://www.lifewire.com/usb-c-4149490)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The New Apple Watches
 
  This event included two new models of the Apple Watch: the standard Series 9 and the more rugged Ultra 2.
@@ -104,10 +116,16 @@ Apple Inc
 
  The Apple Watch Series 9 is available with two case options: aluminum and stainless steel. The aluminum case is available in pink, Midnight (black), Starlight (white), silver, and red. Stainless steel color options are gold, silver, and graphite.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![All of the colors of the Apple Watch Series 9](https://www.lifewire.com/thmb/5BubYB89xa6KPdrUupdSDvAf--w=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-Series-9-Colors-5d09e52b67794b0d915413c9c17ac1af.jpg)
 
  Each case is available in 41 and 45mm sizes, and either one can optionally connect to a cellular network.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Ultra 2
 
  The Apple Watch Ultra 2 only comes in one case size, but it's bigger than either of the Series 9 options. Its titanium frame measures 49mm, and its always-on display is also 50% brighter than the Series 9's screen, with a maximum output of 3,000 nits.
@@ -146,6 +164,9 @@ Apple Inc
 
 [Double Tap on Apple Watch Series 9 Could Be the Coolest Feature Ever](https://www.lifewire.com/apple-watch-series-9-confirmed-7968679)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Pricing and Availability
 
  The Series 9 starts at $399, but the price will change depending on case material, size, connectivity, and band. Here's a quick breakdown:

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Issues with Your Xbox Series X/S Gaming Headset"
-date: 2024-08-03 19:22:41
-updated: 2024-08-05 10:47:32
+date: 2024-08-05T01:59:11.439Z
+updated: 2024-08-06T01:59:11.439Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Tips: Resolving Issues with Your Xbox Series X/S Gaming Headset"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 ---
 
 ## Trouble with Your New iPhone 15? Reset and Resolve Issues Today
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Press and hold the**Side** button and either**Volume** button. Use the**Slide to Power Off** option on the screen.
@@ -23,12 +26,18 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
  To do a soft restart means to turn off your iPhone using the device’s options and then turn it back on. Follow these steps to restart your iPhone 15.
 
 1. Press and hold the**Side** button on the right and either**Volume** button on the left at the same time.  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![The volume (left) buttons and side button on an iPhone 15](https://www.lifewire.com/thmb/TmHUOU_P6SpM3wMTkgaBlQ6knbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Side-and-Volume-buttons-on-iPhone-15-Pro-ce7f29a6f4bb4cf3bb66ea8b0b928ba3.jpg)
 2. Drag the**Slide to Power Off** option to the right.  
 ![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## How to Use Settings to Restart iPhone 15
 
  If you’re having trouble using the device’s buttons to restart your iPhone 15, you can use the onscreen option instead. This method is also considered a soft restart.
@@ -36,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 1. Open the**Settings** and select**General** .
 2. At the bottom, choose**Shut Down** .
 3. Drag the**Slide to Power Off** option to the right.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
 4. To turn your iPhone back on, press and hold the**Side** button on the right.  
  Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Turn Off an iPhone 15 With Siri
 
  While Apple's virtual assistant wasn't always able to power off your iPhone, it can now. Hold the side button or use the voice command "**Siri** /**Hey, Siri** " to activate the assistant, and then say something like:
@@ -50,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 
  Siri will confirm that you want to power down your phone; select**Power Off** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Force Restart an iPhone 15
 
  When you can’t use the above methods to restart your device, or if your iPhone 15 isn’t responding at all, you can force it to restart. This is called a force restart, force reset, or hard reset.

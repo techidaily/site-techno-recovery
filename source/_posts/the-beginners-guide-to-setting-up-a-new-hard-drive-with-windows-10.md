@@ -1,7 +1,7 @@
 ---
 title: The Beginner's Guide to Setting Up a New Hard Drive with Windows 10
-date: 2024-08-05 11:58:42
-updated: 2024-08-06 12:10:56
+date: 2024-08-05T01:59:20.256Z
+updated: 2024-08-06T01:59:20.256Z
 categories:
   - BestProducts
 description: This Article Describes The Beginner's Guide to Setting Up a New Hard Drive with Windows 10
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/vnMoP-bSjTfPETaufR0AJNJSFHg=/400x300/fi
 
  This article explains how to change the color of the taskbar in Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Change the Taskbar Color in Windows 10
 
  Windows 10 gives you the ability to choose the color of your taskbar. If you don’t want fine control over the color, simply switching between light and[dark mode](https://www.lifewire.com/turn-on-windows-10-dark-theme-4587692) will change the color of your taskbar. You can also access Windows settings via the[Start Menu](https://www.lifewire.com/windows-10-start-menu-tour-3506815) for some color personalization options, including the ability to change the taskbar color to whatever you like.
@@ -31,26 +34,44 @@ thumbnail: https://www.lifewire.com/thmb/vnMoP-bSjTfPETaufR0AJNJSFHg=/400x300/fi
 3. Click**Colors** .  
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
 4. Click the**Choose your color** drop down, and select**Custom** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Custom highlighted in the choose your color Windows personalization dropdown box.](https://www.lifewire.com/thmb/eA7uewut5FM7kZcZg4i8rTtsoAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customannotated-e732222a31ff4e7084109b0cde824d2f.jpg)
 5. Under**Choose your default Windows mode** , click**Dark** .  
 ![Dark highlighted under Choose your default Windows mode.](https://www.lifewire.com/thmb/hwscXAtkVVGnRXJOxVPrK4-g_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Darkannotated-24f27a05096643cbaea9db7154eb3c20.jpg)
 6. Click**Custom color** .  
 ![Custom color highlighted in Windows color settings.](https://www.lifewire.com/thmb/M8gPUzgdrRCHL-40UiGLeUBo8i8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customcolorannotated-b599f0b8b4fe4e0b92240f051aee0d90.jpg)
 7. Use the**color picker** to choose your custom color, and click**Done** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Done highlighted in the Windows color picker.](https://www.lifewire.com/thmb/hGVjGq0ok4PwKRRjTNyRMCrpwQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Doneannotated-e3cd94035aaa41fd840c08ca0229a5e7.jpg)
 8. Check**Start, taskbar, and action center** .  
 ![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
 9. Your taskbar will now reflect the custom color you chose.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Why Can’t I Change the Color of My Taskbar?
 
  If you can’t change the taskbar color in Windows 10, first make sure you have fully updated Windows. To change the taskbar color, you need to have the Windows 10 1903 feature update or newer. If you’re fully up to date, you need to make sure you set Choose Your Color to**Custom** and set Windows Mode to**Dark** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Colors menu in Windows 10. This menu houses the dark mode option.](https://www.lifewire.com/thmb/fUzWLhtj_44EGlchuXXx4vjABx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/darkthemescreenshot-5c76fc2cc9e77c0001fd594b.jpg)
 
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Has My Taskbar Changed Color in Windows 10?
 
  If you’ve noticed your taskbar color changed in Windows 10, you probably switched from dark mode to light mode. When you change between those two modes, the taskbar will automatically change colors. When the 1903 feature update arrived, introducing the ability to customize your taskbar color, it may have altered automatically at that time as well.

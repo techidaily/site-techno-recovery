@@ -1,7 +1,7 @@
 ---
 title: "HP Laptop Mastery: Learn Effortless Screenshotting Methods"
-date: 2024-08-04 16:31:18
-updated: 2024-08-06 10:13:57
+date: 2024-08-05T01:59:10.615Z
+updated: 2024-08-06T01:59:10.615Z
 categories:
   - BestProducts
 description: "This Article Describes HP Laptop Mastery: Learn Effortless Screenshotting Methods"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 ---
 
 ## Connecting Wireless Earbuds to a Hewlett Packard Laptop - Easy Steps
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Open**Settings** to the**Bluetooth** section, select the option to**add a new device** and choose your AirPods.
@@ -33,25 +36,44 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 2. Select **Settings** .  
 ![Settings highlighted in the Windows 11 taskbar](https://www.lifewire.com/thmb/B8OhsIohMqNI9NSU9l6pEE_MGIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_pair-and-connect-airpods-to-windows-11-5192307-4c22bbf9c296495195d8268eccea4b9d.jpg)
 3. Select **Bluetooth & devices** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bluetooth & devices highlighted in the Windows 11 settings menu](https://www.lifewire.com/thmb/n8u9hKDM1oUGrLuqflomAJ6r-Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_pair-and-connect-airpods-to-windows-11-5192307-c04bde50d90a42d0be55a9ea042b3989.jpg)
 4. Select the **Bluetooth** toggle if it isn’t already on.  
 ![The disabled Bluetooth toggle highlighted in Bluetooth & devices in Windows 11.](https://www.lifewire.com/thmb/h4k6mw0n_YxJIJhhoCxdXY1OFmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_pair-and-connect-airpods-to-windows-11-5192307-e44a77b5669d4402b9a89799c3dd4f0d.jpg)
 5. Select **Add device** .  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![+ Add device highlighted in Bluetooth & devices in Windows 11](https://www.lifewire.com/thmb/cVz4b2iZgiWBL0gr6nfzxek2oPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_pair-and-connect-airpods-to-windows-11-5192307-f13da8ef1814432f99e9e6e25013ef40.jpg)
 6. Place the AirPods in their case, and then open the case.  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![AirPods Pro in an open case.](https://www.lifewire.com/thmb/UiVWGQkHV7jWVh-SFulpsgo6Huk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PXL_20210624_222601443-888a9f489f924079b1ae89ece9bf0534.jpg)  
  Jeremy Laukkonen / Lifewire
 7. Press and hold the button on your AirPods case.  
 ![The pairing button on an AirPods Pro case](https://www.lifewire.com/thmb/RHKysTqD5NNOy1m-T3NTjq9DTYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Airpodcasebutton-ebcdeb485b784db2bb1aed3d479503d5.jpg)  
  Jeremy Laukkonen / Lifewire
 8. When the light flashes white, release the button.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The white flashing light on an AirPods Pro case](https://www.lifewire.com/thmb/4T-HCDgRKZKbxjiQtwoPmd94QaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Airpodlight-cc989d4e72c7465295927ce987b3d51d.jpg)  
  Jeremy Laukkonen / Lifewire
 9. On your Windows 11 PC, select **Bluetooth** .  
 ![Bluetooth highlighted in the add a device menu in Windows 11](https://www.lifewire.com/thmb/vGQlZKKA2iIdcAgYl59Tp1fXTp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_pair-and-connect-airpods-to-windows-11-5192307-c5372d9013d146b09d0485aaa31d4072.jpg)
 10. Wait for your PC to search for devices, then choose your AirPods when they appear in the list.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Jeremy Laukkonen's AirPods Pro highlighted in the Windows 11 add a device menu](https://www.lifewire.com/thmb/qRcnY3Gu12UNV_c3wuJ_9Ega9Qs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_pair-and-connect-airpods-to-windows-11-5192307-0acf384a41174bfeb40a3d7fef42e546.jpg)
 11. Wait for the connection to be established, then select **Done** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Done highlighted in the Windows 11 add a device menu](https://www.lifewire.com/thmb/JHCcaEnkTu1Von1ohrSr7ifPNi0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_pair-and-connect-airpods-to-windows-11-5192307-022af48afcc54305b0303acae7507131.jpg)
 
 ### Windows 10
@@ -59,21 +81,36 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
  Here’s how to connect your AirPods to a Windows 10 laptop:
 
 1. Select the**Action Center button** on your taskbar, or press**Win** +**A** to open Action Center.  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![The action center icon (far right icon) highlighted on the Windows 10 taskbar.](https://www.lifewire.com/thmb/lo2dbsG4eVqdVUdCDAMPCwP7slc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActionCenterlogoannotated-c124e7b451a74ff7ae7500125345cad1.jpg)
 2. Right-click**Bluetooth** .  
 ![The Bluetooth button highlighted in the Action Center in Windows 10.](https://www.lifewire.com/thmb/JVr7dUsSHtp2bAT6EEVoC9PWc24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rightclickbluetoothannotated-102ed88fb92b499883493ccb4b1b2149.jpg)
 3. Select**Go to Settings** .  
 ![Go to Settings highlighted in the Action Center.](https://www.lifewire.com/thmb/IV6irQC9O50ghhcMXmGSD3VnfTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gotosettingsannotated-39e3408104304eeaa4efa64cf93f4859.jpg)
 4. If the**Bluetooth toggle** is off, select it to turn it**On** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Bluetooth Off toggle highlighted in Windows 10 Bluetooth settings.](https://www.lifewire.com/thmb/dABsOBqkUk6Tob0uTc5uvRQVXFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Bluetoothtoggleannotated-06b017d76aa845e2b8675ebab45b5733.jpg)
 5. Select**Add Bluetooth or other device** .  
 ![+ Add Bluetooth or other device highlighted in Windows Bluetooth settings.](https://www.lifewire.com/thmb/XB4psc-YmhNww46REGkau5oLlrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Addbluetoothannotated-8c1748fc7d96461eb10b7551743be841.jpg)
 6. Select**Bluetooth** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bluetooth highlighted in the add a device menu in Windows 10.](https://www.lifewire.com/thmb/OAtDAs0yXkYFznlLxUPPNEZuN0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickBluetoothannotated-4491b472992b4261abc5e240dac05aa0.jpg)
 7. Open your AirPods case and press-and-hold the button.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![The pairing button on an AirPods Pro case](https://www.lifewire.com/thmb/RHKysTqD5NNOy1m-T3NTjq9DTYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Airpodcasebutton-ebcdeb485b784db2bb1aed3d479503d5.jpg)  
  Jeremy Laukkonen / Lifewire
 8. When the light flashes white, release the button.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The white flashing light on an AirPods Pro case](https://www.lifewire.com/thmb/4T-HCDgRKZKbxjiQtwoPmd94QaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Airpodlight-cc989d4e72c7465295927ce987b3d51d.jpg)  
  Jeremy Laukkonen / Lifewire  
 The light may be inside your case or on the front.
@@ -98,6 +135,9 @@ The light may be inside your case or on the front.
  Jeremy Laukkonen / Lifewire  
  If your laptop automatically switches audio outputs and your AirPods work at this point, you don’t need to perform the rest of the steps. This process is only necessary if another device prevents the automatic switching of the audio output.
 2. Select the **Speaker** icon on the taskbar.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![The speaker icon highlighted on the Windows 11 taskbar](https://www.lifewire.com/thmb/e9ATuIbExHw4WwD_zdEaWBaGdKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_pair-and-connect-airpods-to-windows-11-5192307-63f29a42fe554c439f8d3bada43bdc1b.jpg)
 3. Select the **\>** icon to the right of the volume control.  
  If the Bluetooth button is grayed out, it means Bluetooth has been turned off. Select the **Bluetooth** button to turn it on.  
@@ -106,6 +146,14 @@ The light may be inside your case or on the front.
 ![Headphones (AirPods Pro) highlighted in the Windows 11 audio device menu](https://www.lifewire.com/thmb/j1WsK5ekPeWzA08uVmHlc3Sp5Wo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/015_pair-and-connect-airpods-to-windows-11-5192307-8434c4e62efd4af090e74eddbdf8d021.jpg)  
  When your AirPods are selected in this menu, it means they’re connected, ready to use, and set as the default audio source on your Windows 11 PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Windows 10
 
  Here’s how to use AirPods with a Windows 10 laptop:
@@ -113,10 +161,19 @@ The light may be inside your case or on the front.
 1. Take your AirPods out of the case.  
  If your laptop automatically switches audio outputs and your AirPods work at this point, you don’t need to perform the rest of the steps. This process is only necessary if another device prevents the audio output from switching automatically.
 2. Select the**speaker** icon on your taskbar.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![The speaker icon highlighted in the Windows 10 taskbar.](https://www.lifewire.com/thmb/26SVB-fMpg6JdXiBykOXPZOlooc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Speakericonannotated-f403c0403aa64471ae179e223e8b0e47.jpg)
 3. Select the**dropdown menu** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Speaker / Headphone (realtek audio) highlighted in the Windows audio selection menu.](https://www.lifewire.com/thmb/8U1hxk4nT3Yot5U_gkGG1AKDGTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dropdownmenuannotated-e027a6f07cb848adb6f1f105a5b5d14e.jpg)
 4. Select**Headphones (AirPods Stereo)** . You can now use your AirPods with your laptop.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Headphones (Jeremy Laukkonen's AirPods Pro Stereo) highlighted in Windows playback device options.](https://www.lifewire.com/thmb/9sm3Es3aKEo1TYpqWScORUwXrHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Headphonesannotated-d222541710f8403e95dc626065bd25d2.jpg)
 
 ## Do AirPods Work With Laptops?

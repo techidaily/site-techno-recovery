@@ -1,7 +1,7 @@
 ---
 title: "Unleash Efficiency: The Ultimate List of 18 iOS Shortcut App Tips & Tricks"
-date: 2024-08-03 23:55:24
-updated: 2024-08-05 10:16:40
+date: 2024-08-05T01:59:27.473Z
+updated: 2024-08-06T01:59:27.473Z
 categories:
   - BestProducts
 description: "This Article Describes Unleash Efficiency: The Ultimate List of 18 iOS Shortcut App Tips & Tricks"
@@ -42,6 +42,9 @@ Close
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Get Instant Directions to Your Next Calendar Event](https://www.icloud.com/shortcuts/cc9ae260917142129fda96eb02d8775d) 
 
 ![iOS shortcut that shows directions to your next calendar event](https://www.lifewire.com/thmb/M9YHqSDoD58EO3d2-VVAKwYK-d8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/instant-directions-ios-shortcut-5beae235c9e77c00514c16cd.png) 
@@ -97,6 +100,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Quickly Find and Copy GIFs](https://www.icloud.com/shortcuts/7f079959b38b46f7ad20eb2f87cd7a23) 
 
 ![iOS shortcut using Giphy to locate GIF files](https://www.lifewire.com/thmb/5SDcmMbljSIdC9U2g8-n4v-UP3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/get-gif-shortcut-iphone-5beb166046e0fb00515190c7-23d34d577c664e15a7559e984144e3c7.jpg) 
@@ -143,6 +149,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## [ Get Directions to the Nearest Gas Station (or Anything Else)](https://www.icloud.com/shortcuts/7522d196308141548f0c01c82abb5329) 
 
 ![iOS shortcut that helps you find pizza, gas, or anything else](https://www.lifewire.com/thmb/MRyCmcOAhFjceGBYMpyNSNEKadY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/find-nearby-gas-station-ios-shortcut-882abad8ae1a4a1b917b0235fcce65b0.jpg) 
@@ -157,8 +166,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Calculate a Tip With a Custom Percentage](https://www.icloud.com/shortcuts/cf628c99a84246d69fd2aed4df9362d2) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Tip calculator shortcut on an iPhone](https://www.lifewire.com/thmb/Mie8PzVuSRSjGrUIC-SBMKEqM5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tip-ios-shortcut-503882ec0a204a75998e4ef402987a4e.jpg) 
 
  It's best to have the tip calculations ready when it's time to pay for your meal. This shortcut does the math for you, including the amount of the tip and the total bill with the tip amount.
@@ -199,8 +214,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Open Your Favorite Music Playlist in One Tap](https://www.icloud.com/shortcuts/cdf116d34daa4d0386e4d4592b76632f) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS shortcut for iPhones and Apple Watch that lets you instantly play any playlist from Apple Music](https://www.lifewire.com/thmb/oYpFDQNdA9rwDrZIefaAWmutCKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/play-playlist-shortcut-iphone-5beb00aa46e0fb0026e86511.png) 
 
  Use the Play Playlist shortcut to start your favorite playlist whenever you want, from wherever you want, with one tap. You'll no longer need to stop your workout to open the Apple Music app or navigate your Apple Watch to open the playlist.
@@ -213,6 +234,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Make GIFs With Your iPhone or iPad 
 
 ![Video to GIF iPhone workflow](https://www.lifewire.com/thmb/lw4qe93vQY1ng0cH4pXJNbHO6BQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/video-to-gif-ios-shortcut-5beaf3cac9e77c005217e206.png) 
@@ -231,8 +255,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Birthday Reminder](https://www.icloud.com/shortcuts/da7f88309a9c486ea86cdd674b3887f0) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Birthday reminder shortcut on an iPhone](https://www.lifewire.com/thmb/mxg1708m74vShecrAVybBdEGdF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/birthday-reminder-iphone-shortcut-5beaf55cc9e77c0051346fbf-f43fc58e44c74811af0e678a3d6facac.jpg) 
 
  This workflow finds the contacts on your device that have birthdays within the next week and compiles them into one list. This is a great way to get a heads up of any upcoming celebrations in the next few days, or months if you customize it to include birthdays in the future.
@@ -245,6 +275,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## [ Make Your Own Speed Dial Menu](https://www.icloud.com/shortcuts/5658db9e9ff34eef806eb2c2e51de51d) 
 
 ![Speed Dial iOS shortcut on an iPhone](https://www.lifewire.com/thmb/LFxYHJQHnEM1v513u3ynNKT4cws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/speed-dial-ios-shortcut-7208a5510de24d59ae32c255029eb3b2.jpg) 
@@ -263,8 +296,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Search for Text in Google Chrome](https://www.icloud.com/shortcuts/2f81d5f819d34e199ecabb55513f5a41) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iOS shortcut sending text from Safari to Chrome](https://www.lifewire.com/thmb/KwCAHTwdWgpx8rXZ3w3qrUkf40A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/search-in-chrome-ios-shortcut-5beafaf7c9e77c0026edfeab.png) 
 
  Safari is the default web browser for iPhone, iPad, and iPod touch. It's common for other apps to open web pages in Safari instead of other browsers like Google Chrome. This shortcut opens Chrome to use Google.
@@ -285,6 +324,10 @@ of 18
 
 ## [ Find Out Where a Photo Was Taken](https://www.icloud.com/shortcuts/740487c583634505a72e4cddf0aa3803) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![iOS shortcut on iPhone that shows where an image was taken](https://www.lifewire.com/thmb/0ntsXDI1BIl7c2JoIznQsFfqIHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/where-was-photo-taken-ios-shortcut-5beaed26c9e77c005132e3a7.png) 
 
  This shortcut extracts the GPS from a picture to supply information about where it was taken. That's not all it does. It also shows when the image was taken and how far away it was taken from your current location (if it's more than one mile away). Then, it'll open a navigation program to show the place on the map.
@@ -299,8 +342,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Record and Text Audio Snippets Automatically](https://www.icloud.com/shortcuts/476cd9f8fcf5432ab2e83a51df54654d) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS shortcut recording audio](https://www.lifewire.com/thmb/AJ40yq_5HT_woMaWFvCESGKHMM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/record-and-send-ios-shortcut-5beb1baf46e0fb00511dd13a-64c63d2660de425a99bdd3430fcf86fb.jpg) 
 
  This Record and Send iOS shortcut is for emergencies where you can't openly call or text someone for help. It[ puts your phone into Do Not Disturb mode](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) , records anything the phone hears, uploads the recording to Dropbox, and then shares your location and the Dropbox link to anyone you choose.
@@ -321,6 +370,9 @@ of 18
 
 ## [ Use Shortcuts as a News Reader](https://www.icloud.com/shortcuts/412843a67543488b8b603c36621df6e2) 
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![RSS reader iOS shortcut for iPhone](https://www.lifewire.com/thmb/CZeYxzGi8j8erfA_TyHOpRsmFh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rss-reader-ios-shortcut-7a9e35aa917f45a2847a6515b01c97c3.jpg) 
 
  The Shortcuts app includes a newsreader shortcut. Modify this shortcut and make your own custom[ RSS](https://www.lifewire.com/what-is-an-rss-feed-4684568) newsreader. It displays the websites for RSS feeds you set up. Choose a website and select an article to read the news.
@@ -337,6 +389,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Clean Completed Reminders](https://www.icloud.com/shortcuts/fee08d3363334a7c83220f72dfd92110) 
 
 ![Clean Completed Reminders iOS shortcut](https://www.lifewire.com/thmb/5hqGwaR8ZFoJMyDjQ5lPp_-StI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/clean-old-reminders-ios-shortcut-5beafbaec9e77c00515561ab-bec3320e11c04500b90f14ffb6a4558d.jpg) 

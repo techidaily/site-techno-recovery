@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity: Unveiling the Best 18 Features in iOS Shortcuts App"
-date: 2024-08-04 20:39:44
-updated: 2024-08-06 12:32:19
+date: 2024-08-05T01:59:29.364Z
+updated: 2024-08-06T01:59:29.364Z
 categories:
   - BestProducts
 description: "This Article Describes Boost Your Productivity: Unveiling the Best 18 Features in iOS Shortcuts App"
@@ -19,6 +19,9 @@ Close
 
  Information in this article applies to the Shortcuts app for iPhone, iPad, iPod touch, and Apple Watch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## How to Install Shortcuts 
 
  Some of the shortcuts listed below are custom-made and aren't found in the Gallery section of the app. Here's how to get these onto your phone or tablet:
@@ -30,6 +33,9 @@ Close
 
  To use untrusted shortcuts, select a shortcut from the**Gallery** section of the app and run it at least once. Then, go to the**Settings** app, select**Shortcuts** \>**Advanced** \> and tap the button next to**Allow Running Scripts** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using the Shortcuts App 
 
  You can[ enable the Shortcuts widget](https://support.apple.com/guide/shortcuts/run-shortcuts-from-the-home-screen-widget-apd029b36d05/ios) if you want easy access to one or more shortcuts from the widget area. Others are ideal for Apple Watch, when using the action menu (like when you share something), or as a home screen shortcut.
@@ -62,8 +68,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Send a 'Running Late' Text Regarding a Calendar Event](https://www.icloud.com/shortcuts/a4512a8453b24a9b98064739ef994e0e) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Running Late iOS shortcut](https://www.lifewire.com/thmb/ktBdgxHzDG3IuYCpuXsmEjTYQ-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/running-late-text-ios-shortcut-5beaff07c9e77c0051366879.png) 
 
  If you're sometimes late to events, this Running Late shortcut will save you time and let someone know that you won't be there on time. When you run this shortcut, it finds the next upcoming event you're late to and sends a text that says this:
@@ -115,6 +127,9 @@ of 18
 
 ## [ Instantly Find the Travel Time to Any Address](https://www.icloud.com/shortcuts/ff987bcf0ad746d496415d7f4c75a872) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS shortcut showing how long it takes to travel to a destination](https://www.lifewire.com/thmb/z7B-G3lHyodoJT7JGuuOKPshQH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/travel-time-to-address-ios-shortcut-5beaee8e46e0fb005126e93b.png) 
 
  With this shortcut, you don't need to open an address in a GPS app to see how long it will take to get to a destination. Share the address with this shortcut to receive an alert with the time to get there. If you want to start navigating there, you're given that option.
@@ -143,8 +158,15 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## [ Get Directions to the Nearest Gas Station (or Anything Else)](https://www.icloud.com/shortcuts/7522d196308141548f0c01c82abb5329) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iOS shortcut that helps you find pizza, gas, or anything else](https://www.lifewire.com/thmb/MRyCmcOAhFjceGBYMpyNSNEKadY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/find-nearby-gas-station-ios-shortcut-882abad8ae1a4a1b917b0235fcce65b0.jpg) 
 
  If you're low on gas, don't waste time by opening a map and searching for nearby convenience stores. Use this shortcut as a widget or home screen shortcut to find the closest gas station and get directions. You can customize the distance of the gas stations that are suggested as well as which map app to use.
@@ -157,8 +179,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Calculate a Tip With a Custom Percentage](https://www.icloud.com/shortcuts/cf628c99a84246d69fd2aed4df9362d2) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Tip calculator shortcut on an iPhone](https://www.lifewire.com/thmb/Mie8PzVuSRSjGrUIC-SBMKEqM5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tip-ios-shortcut-503882ec0a204a75998e4ef402987a4e.jpg) 
 
  It's best to have the tip calculations ready when it's time to pay for your meal. This shortcut does the math for you, including the amount of the tip and the total bill with the tip amount.
@@ -177,6 +205,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Make a Photo Collage](https://www.icloud.com/shortcuts/f4bc9d5b0473402dab45605bc335b538) 
 
 ![Photo Grid iOS shortcut on an iPhone or iPad](https://www.lifewire.com/thmb/kpCJBPtBUSEx-qSVITGZLOelmI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photogrid-collage-ios-shortcut-5beaeb6cc9e77c0051b6bcd6.png) 
@@ -245,8 +276,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Make Your Own Speed Dial Menu](https://www.icloud.com/shortcuts/5658db9e9ff34eef806eb2c2e51de51d) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Speed Dial iOS shortcut on an iPhone](https://www.lifewire.com/thmb/LFxYHJQHnEM1v513u3ynNKT4cws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/speed-dial-ios-shortcut-7208a5510de24d59ae32c255029eb3b2.jpg) 
 
  If you call the same people often, use the Speed Dial shortcut to add those numbers to a menu and store it as a home screen shortcut or widget. If more than one number is stored, you'll be able to choose which one to call. Otherwise, it prompts you to dial the only number you entered.
@@ -263,8 +300,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Search for Text in Google Chrome](https://www.icloud.com/shortcuts/2f81d5f819d34e199ecabb55513f5a41) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS shortcut sending text from Safari to Chrome](https://www.lifewire.com/thmb/KwCAHTwdWgpx8rXZ3w3qrUkf40A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/search-in-chrome-ios-shortcut-5beafaf7c9e77c0026edfeab.png) 
 
  Safari is the default web browser for iPhone, iPad, and iPod touch. It's common for other apps to open web pages in Safari instead of other browsers like Google Chrome. This shortcut opens Chrome to use Google.
@@ -285,6 +328,9 @@ of 18
 
 ## [ Find Out Where a Photo Was Taken](https://www.icloud.com/shortcuts/740487c583634505a72e4cddf0aa3803) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![iOS shortcut on iPhone that shows where an image was taken](https://www.lifewire.com/thmb/0ntsXDI1BIl7c2JoIznQsFfqIHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/where-was-photo-taken-ios-shortcut-5beaed26c9e77c005132e3a7.png) 
 
  This shortcut extracts the GPS from a picture to supply information about where it was taken. That's not all it does. It also shows when the image was taken and how far away it was taken from your current location (if it's more than one mile away). Then, it'll open a navigation program to show the place on the map.
@@ -299,8 +345,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## [ Record and Text Audio Snippets Automatically](https://www.icloud.com/shortcuts/476cd9f8fcf5432ab2e83a51df54654d) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS shortcut recording audio](https://www.lifewire.com/thmb/AJ40yq_5HT_woMaWFvCESGKHMM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/record-and-send-ios-shortcut-5beb1baf46e0fb00511dd13a-64c63d2660de425a99bdd3430fcf86fb.jpg) 
 
  This Record and Send iOS shortcut is for emergencies where you can't openly call or text someone for help. It[ puts your phone into Do Not Disturb mode](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) , records anything the phone hears, uploads the recording to Dropbox, and then shares your location and the Dropbox link to anyone you choose.
@@ -337,6 +389,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Clean Completed Reminders](https://www.icloud.com/shortcuts/fee08d3363334a7c83220f72dfd92110) 
 
 ![Clean Completed Reminders iOS shortcut](https://www.lifewire.com/thmb/5hqGwaR8ZFoJMyDjQ5lPp_-StI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/clean-old-reminders-ios-shortcut-5beafbaec9e77c00515561ab-bec3320e11c04500b90f14ffb6a4558d.jpg) 

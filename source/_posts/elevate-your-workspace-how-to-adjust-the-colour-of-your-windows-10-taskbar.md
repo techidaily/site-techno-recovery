@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Workspace: How to Adjust the Colour of Your Windows 10 Taskbar"
-date: 2024-08-04 22:17:39
-updated: 2024-08-05 12:54:50
+date: 2024-08-05T01:59:18.841Z
+updated: 2024-08-06T01:59:18.841Z
 categories:
   - BestProducts
 description: "This Article Describes Elevate Your Workspace: How to Adjust the Colour of Your Windows 10 Taskbar"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  This article explains how to change the color of the taskbar in Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change the Taskbar Color in Windows 10
 
  Windows 10 gives you the ability to choose the color of your taskbar. If you don’t want fine control over the color, simply switching between light and[dark mode](https://www.lifewire.com/turn-on-windows-10-dark-theme-4587692) will change the color of your taskbar. You can also access Windows settings via the[Start Menu](https://www.lifewire.com/windows-10-start-menu-tour-3506815) for some color personalization options, including the ability to change the taskbar color to whatever you like.
@@ -27,12 +30,24 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 1. Click**Start** \>**Settings** .  
 ![Settings highlighted in the Windows 10 start menu.](https://www.lifewire.com/thmb/_3yFCu2vpkCj2sGFGwRKhs5fhyk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Settings-743b3fd7d16d4bd497ba9c57acea34e9.jpg)
 2. Click**Personalization** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Personalization highlighted in Windows 10 settings.](https://www.lifewire.com/thmb/wVm6EMDfsoVarlbSfz8mkWF1nWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Personalizationannotated-23cf54124d3b4f02a4b3e7df15707474.jpg)
 3. Click**Colors** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
 4. Click the**Choose your color** drop down, and select**Custom** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom highlighted in the choose your color Windows personalization dropdown box.](https://www.lifewire.com/thmb/eA7uewut5FM7kZcZg4i8rTtsoAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customannotated-e732222a31ff4e7084109b0cde824d2f.jpg)
 5. Under**Choose your default Windows mode** , click**Dark** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dark highlighted under Choose your default Windows mode.](https://www.lifewire.com/thmb/hwscXAtkVVGnRXJOxVPrK4-g_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Darkannotated-24f27a05096643cbaea9db7154eb3c20.jpg)
 6. Click**Custom color** .  
 ![Custom color highlighted in Windows color settings.](https://www.lifewire.com/thmb/M8gPUzgdrRCHL-40UiGLeUBo8i8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customcolorannotated-b599f0b8b4fe4e0b92240f051aee0d90.jpg)
@@ -47,10 +62,17 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  If you can’t change the taskbar color in Windows 10, first make sure you have fully updated Windows. To change the taskbar color, you need to have the Windows 10 1903 feature update or newer. If you’re fully up to date, you need to make sure you set Choose Your Color to**Custom** and set Windows Mode to**Dark** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Colors menu in Windows 10. This menu houses the dark mode option.](https://www.lifewire.com/thmb/fUzWLhtj_44EGlchuXXx4vjABx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/darkthemescreenshot-5c76fc2cc9e77c0001fd594b.jpg)
 
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Has My Taskbar Changed Color in Windows 10?
 
  If you’ve noticed your taskbar color changed in Windows 10, you probably switched from dark mode to light mode. When you change between those two modes, the taskbar will automatically change colors. When the 1903 feature update arrived, introducing the ability to customize your taskbar color, it may have altered automatically at that time as well.

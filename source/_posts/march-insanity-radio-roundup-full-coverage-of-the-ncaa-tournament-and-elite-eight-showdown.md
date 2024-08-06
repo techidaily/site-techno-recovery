@@ -1,7 +1,7 @@
 ---
 title: "March Insanity Radio Roundup: Full Coverage of the NCAA Tournament and Elite Eight Showdown!"
-date: 2024-08-02 12:48:16
-updated: 2024-08-05 11:40:43
+date: 2024-08-05T01:59:15.949Z
+updated: 2024-08-06T01:59:15.949Z
 categories:
   - BestProducts
 description: "This Article Describes March Insanity Radio Roundup: Full Coverage of the NCAA Tournament and Elite Eight Showdown!"
@@ -15,16 +15,28 @@ Close
 
  When you’re a college basketball fan, the NCAA men’s basketball tournament is a magical time of the year. Although most people watch the games on television, listening to the action while you're on the road is easier than ever thanks to the multitude of websites, sports[ apps](https://www.lifewire.com/what-are-apps-1616114) , and radio stations with March Madness coverage.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ##  Find Local Radio Stations With March Madness Coverage 
 
  Local radio stations that follow home teams almost always provide audio feeds of those games throughout the season. You can also get broadcast info at [ Westwood One Sports](http://westwoodonesports.com/) , the radio home of the NFL, NCAA football, NCAA basketball, and the men’s and women’s NCAA basketball tournaments.
 
  Westwood One streams every NCAA basketball game being broadcast and doesn't charge you to listen. You can check out the[ broadcast schedule](https://westwoodonesports.com/?league-archive=2019-20-ncaa-basketball) , then choose a state and program to find your[ local stations](http://westwoodonesports.com/stations/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![College basketball](https://www.lifewire.com/thmb/aR0os8N3vmPp7Md3z-tHRqkphY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/villanova-v-oklahoma-543716150-57f51c565f9b586c3545c72a-65f34c7fcae944688143473ce36844dc.jpg) 
 
  Mitchell Layton / Getty Images 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Listen to NCAA Basketball Games Online 
 
  The internet has the most options for following March Madness:
@@ -35,12 +47,27 @@ Close
 
 [  Wanna watch instead? Stream the games online this year ](https://www.lifewire.com/how-to-watch-march-madness-online-4587764) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Men's NCAA Basketball on Satellite Radio 
 
 [ Sirius XM](https://www.siriusxm.com/channels/siriusxm-college-sports-radio) provides a list of every game being played along with the stations broadcasting those games for subscribers on the radio and online.
 
  You can even set reminders through the Sirius service so that you'll never miss a game. You do have to be a Sirius XM subscriber, which means answering a quick set of questions about your service.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  March Madness on Your Phone 
 
  There are plenty of sports apps offering March Madness coverage:

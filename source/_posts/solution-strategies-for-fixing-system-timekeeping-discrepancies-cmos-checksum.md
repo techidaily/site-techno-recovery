@@ -1,7 +1,7 @@
 ---
 title: Solution Strategies for Fixing System Timekeeping Discrepancies (CMOS Checksum)
-date: 2024-08-05 15:40:59
-updated: 2024-08-06 11:35:58
+date: 2024-08-05T01:59:28.186Z
+updated: 2024-08-06T01:59:28.186Z
 categories:
   - BestProducts
 description: This Article Describes Solution Strategies for Fixing System Timekeeping Discrepancies (CMOS Checksum)
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 ## Solution Strategies for Fixing System Timekeeping Discrepancies (CMOS Checksum)
  A CMOS Checksum error is a conflict between the[CMOS](https://www.lifewire.com/what-is-cmos-2625826) (Complementary Metal Oxide Semiconductor) and[BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820) (Basic Input Output System) that happens when you boot up a computer. It occurs when the computer isn't able to read startup information or the data does not match up.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Causes of CMOS Checksum Errors
 
  There are several potential reasons for a CMOS checksum error, but almost all come back to the information on the CMOS being corrupt for one reason or another.
@@ -22,12 +25,18 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 
  One of the more common causes of a checksum error is also the simplest to solve. The battery that powers the CMOS is a watch battery, and it can run out of power. When the battery is dead, the CMOS can't store information anymore.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Motherboard with CMOS battery](https://www.lifewire.com/thmb/m-TfEcbJ7lfR8DQ9_O5EWQ1legA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cooler-933691_19201-7c38884d6d3f4c69807d8387ed40a0b9.jpg)
 
  Power surges and sudden losses of power are other causes. If a computer doesn't have a chance to write information to the CMOS before it's abruptly powered off, it has a hard time picking up where it left off. Power surges can also cause corruption or hardware damage.
 
  The final cause is less common, but it can happen. If the BIOS is damaged or corrupted, it will cause a mismatch between the BIOS and CMOS. It's uncommon but possible for a virus to infect and corrupt the BIOS. Still, it's more common that a BIOS update failed or the operating system updated something which caused it to get out of sync with the BIOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix CMOS Checksum Errors
 
  While it is not always possible to fix a CMOS checksum error, especially in the case of hardware damage, the fix is usually simple. Follow these steps, in order, to resolve the error.

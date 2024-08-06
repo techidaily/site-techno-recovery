@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Selecting Your PS5: Slim Model Vs. Traditional Unit"
-date: 2024-08-02 18:31:41
-updated: 2024-08-05 11:38:49
+date: 2024-08-05T01:59:17.455Z
+updated: 2024-08-06T01:59:17.455Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide to Selecting Your PS5: Slim Model Vs. Traditional Unit"
@@ -41,6 +41,9 @@ PHOTO: Amazon
 
 [ $470 at Amazon ](https://www.amazon.com/dp/B0CL5KNB9M?tag=lifewire-onsite-prod-20&ascsubtag=8643357%7Cn68a0e8bd510540dfa0f7b52f42ea4c9a12%7CB0CL5KNB9M) [ $499 at Walmart ](https://www.walmart.com/ip/Sony-PlayStation-5-PS5-Disc-Console-Slim/5113183756?slpfid=3) [ $500 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-interactive-entertainment-playstation-5-slim-console-white%2F6566039.p%3FskuId%3D6566039) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ##  The Launch Model 
 
 [  Sony PlayStation®5 ](https://www.walmart.com/ip/Sony-PlayStation-5-Video-Game-Console/1736740710?slpfid=3) 
@@ -51,12 +54,18 @@ PHOTO: Sony
 
 [ $573 at Walmart ](https://www.walmart.com/ip/Sony-PlayStation-5-Video-Game-Console/1736740710?slpfid=3) [ $450 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-playstation-5-console%2F6523167.p) [ View on Verizon ](https://www.verizon.com/products/sony-playstation-5-console-disc-edition-ps5/?slpfid=3) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Features: PS5 Slim Sizes Down 
 
  Overall, the PS5 Slim takes up 30% less space than the PS5\. The PS5 Slim and PS5 Slim Digital Edition are 18% and 24% lighter than the launch model. Compared to the PS5's two cover panels, the PS5 Slim has four cover panels, and the top ones have a glossy surface.
 
  Technical differences are minor — the PS5 Slim SSD has 1 TB in storage space compared to the PS5's 825GB SSD. The Slim also has two front-facing USB-C ports instead of the original model's one USB-C port in the front. However, the original does have a front-mounted USB-A port that isn't present on the Slim models.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Features
 
  PS5
@@ -77,6 +86,9 @@ PHOTO: Sony
 * $450 (digital) and $500 (disc) starting price at release
 * Released November 2023
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ###  PS5 Slim Gets a New Stand 
 
  The original PS5 came with a stand that could hold the console vertically and horizontally. The PS5 Slim, however, only comes with a couple of feet that let the console sit horizontally.
@@ -85,6 +97,9 @@ PHOTO: Sony
 
 [ View on Amazon ](https://www.amazon.com/Vertical-Stand-PS5%C2%AE-Consoles-PlayStation-5/dp/B0CL5GJDVY?tag=lifewire-onsite-prod-20&ascsubtag=8643357%7Cn68a0e8bd510540dfa0f7b52f42ea4c9a12%7C) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Disc Drives: PS5 Slim's Is Removable 
 
  Owners of the PS5 Slim can remove the bottom panels and detach the 4K Blu-Ray disc drive. Those with the PS5 Slim Digital Edition can attach a disc drive later, but it's a separate purchase of $79.99.
@@ -97,6 +112,9 @@ PHOTO: Sony
 
  If you don't yet own a PS5 and want to purchase one for yourself or someone else, the PS5 Slim is the best option — and will be the only option in stores once the original consoles sell.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![The PlayStation 5 Slim next to a DualSense controller](https://www.lifewire.com/thmb/wHlPqggMqX58XaJup1UNpP53IiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PS5-Slim-ff00c195f61a42309972eefc60cb0fb0.jpg) 
 
  However, owners of the[ launch PS5](https://www.lifewire.com/sony-playstation-5-review-5088394) should be OK with their current console, provided it has no issues and its bulky body already fits fine in their current setup.

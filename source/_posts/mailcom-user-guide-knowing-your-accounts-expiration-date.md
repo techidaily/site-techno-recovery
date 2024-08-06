@@ -1,7 +1,7 @@
 ---
 title: "Mail.com User Guide: Knowing Your Account's Expiration Date"
-date: 2024-08-04 19:45:50
-updated: 2024-08-05 10:31:57
+date: 2024-08-05T01:59:37.552Z
+updated: 2024-08-06T01:59:37.552Z
 categories:
   - BestProducts
 description: "This Article Describes Mail.com User Guide: Knowing Your Account's Expiration Date"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 
  This article explains how to download and set up the free[WhatsApp](https://www.lifewire.com/what-is-whatsapp-all-about-4781062) desktop application for Mac as well as basic usage of the app. The instructions apply to macOS Sonoma 14.2 or later.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## How to Download WhatsApp Desktop for Mac
 
  You have two ways to download and install the WhatsApp desktop app for the Mac. You can get the app from the[Mac App Store](https://www.lifewire.com/using-mac-app-store-4171845) or the WhatsApp website. Both app versions are the same, so you can use whichever method is best for you.
@@ -30,14 +33,23 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 2. When you see**WhatsApp Messenger** in the list of results, select it.  
 ![The WhatsApp app highlighted in the search results on the Mac App Store.](https://www.lifewire.com/thmb/ScXMkVwt002lNp_Yr4PVyCSDc94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-UseWhatsApponaMac-annotated-d6cdbcdfcfeb41cfb2faca99efefbcf9.jpg)
 3. Optionally review the description and choose**Get** to download the app to your Mac.  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Get button for WhatsApp Messenger highlighted in the Mac App Store.](https://www.lifewire.com/thmb/WVrWpTG5voNDj-v1zufGTUS33go=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-UseWhatsApponaMac-annotated-8e34f1af547643799187d4d030286cf9.jpg)
 4. Enter your password, or use Touch/Face ID, to authorize the download if prompted.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Download WhatsApp From the Website
 
  If you’re browsing the internet or using WhatsApp’s web version, you can download[WhatsApp for the Mac](https://www.whatsapp.com/download) from the website.
 
 1. Visit[WhatsApp on the web](https://www.whatsapp.com) and either select the green**Download** button on the top right or pick**Download** in the top navigation and then**Download** once more on the subsequent screen.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download options on the WhatsApp website](https://www.lifewire.com/thmb/DhyyYsVyQ_tjQR1XXr--DeeHpPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Website-Download-8424741-138a362766a4473bb5c738dd28040c80.jpg)
 2. Follow any prompts per your web browser to grant permission for the download.
 3. Open the**Downloads** folder for the web browser you’re using and select the WhatsApp installer file.  
@@ -53,17 +65,29 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 1. Open**WhatsApp** on your mobile phone and tap**Menu** or**Settings** at the bottom, depending on your device.
 2. Select**Linked Devices** .
 3. Tap**Link a Device** and grant camera access if prompted.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Initial steps highlighted when linking devices to one WhatsApp account.](https://www.lifewire.com/thmb/6Urvb4zpOiY_cYMwVjyp0r8mzbY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-UseWhatsApponaMac-annotated-f0db92b826e5489a86d328d092096e54.jpeg)
 4. Open the**Applications** folder on your Mac and select**WhatsApp** to launch the app.  
 ![WhatsApp app highlighted in the Mac's Applications folder.](https://www.lifewire.com/thmb/VhpS9c3Qw6durOje6aLOIqj8LBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C4-UseWhatsApponaMac-annotated-120d4b37bd114436b08d864c2cbaf99a.jpg)
 5. Click**Get Started** on the WhatsApp welcome screen.  
 ![Get Started button in WhatsApp on Mac](https://www.lifewire.com/thmb/AMTQ4PTTb4xVp4vGxV0wT_ESEL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Get-Started-Mac-8424741-7d6071ea62a141789730bb4687e2a878.jpg)
 6. You’ll see a QR code along with instructions to capture the code.  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![QR code in WhatsApp on Mac.](https://www.lifewire.com/thmb/jesVFrWj80lQIN9cVQLqLFhquUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C6-UseWhatsApponaMac-4e2a152ae0f64281bff535b781e9c752.jpeg)
 7. Use your mobile device to capture the QR code in the WhatsApp window on your Mac.
 8. You should see a brief “logging in” message and your Mac display as a linked device on your mobile phone. You can then close WhatsApp on your mobile device.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![The steps of logging into a WhatsApp account on an iPhone.](https://www.lifewire.com/thmb/dZY_CI649d0REHdA9WXRIY4_17w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C8-UseWhatsApponaMac-annotated-a7b98253e694476392cc859e192eb876.jpeg)
 9. Choose how you would like to see notifications for WhatsApp on your Mac by enabling the toggles and selecting**Done** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toggles to enable WhatsApp notifications on Mac](https://www.lifewire.com/thmb/uGdXRRVovDGesk26M4MQADNoRME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Enable-Notifications-Mac-8424741-8a05e64f8da244a6ae9959dad9251b05.jpg)  
  You’ll then see the main WhatsApp screen where you can start communicating with your contacts.
 
@@ -82,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 * **Starred Messages** : See your starred messages and their connected conversations.
 * **Settings** : View your account or adjust your notification, chat, privacy, and storage preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![WhatsApp tabs and Settings on Mac](https://www.lifewire.com/thmb/ThxEFDgMmx5FOH0YZn1RWm12nIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Tabs-Settings-Mac-8424741-4e241ee7436b49b780ee38a0511cc7a3.jpg)
 
 ### Use WhatsApp With the Menu Bar
@@ -100,6 +127,9 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 
  Standard macOS menus, including Edit, Window, and Help, are also available to undo or redo actions, minimize or maximize the windows, search the menus, and access the WhatsApp Help Center.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![WhatsApp and the View menu open in the Mac menu bar](https://www.lifewire.com/thmb/32L8TknP583OZZx3SxlO1-bNfuw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-View-Menu-Bar-Mac-8424741-c82eb47bbe7b47178898f985b4711a68.jpg)
 
  With WhatsApp desktop for Mac, you can keep up with chats and calls without searching for your mobile phone.  

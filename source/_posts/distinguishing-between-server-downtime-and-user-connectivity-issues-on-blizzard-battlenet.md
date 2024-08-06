@@ -1,7 +1,7 @@
 ---
 title: Distinguishing Between Server Downtime and User Connectivity Issues on Blizzard Battle.net
-date: 2024-08-04 21:57:27
-updated: 2024-08-05 10:16:44
+date: 2024-08-05T01:59:32.097Z
+updated: 2024-08-06T01:59:32.097Z
 categories:
   - BestProducts
 description: This Article Describes Distinguishing Between Server Downtime and User Connectivity Issues on Blizzard Battle.net
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 ---
 
 ## Seamless Smartphone Casting: Connect and Watch on Your Fire Stick Now
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * On your Fire TV, hold the**Home** button to bring up a new menu and select**Mirroring** .
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 
  This page will walk you through the setup process to get your Amazon Fire TV Stick ready for casting, the instructions for casting from an Android mobile, and some additional options for Samsung phone users.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can Android Stream to Fire TV Sticks?
 
  Android smartphones and tablets can stream or cast to Amazon’s Fire TV Stick devices. Before Fire Sticks can receive a wireless broadcast from your Android device, you need to set them up properly.
@@ -25,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
  Here’s how to prepare a Fire TV Stick for Android casting.
 
 1. Turn your Amazon Fire TV Stick on as usual and then press the**Home** button on the remote until a menu appears.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Amazon Fire TV Stick Home screen.](https://www.lifewire.com/thmb/5jHRQ5T_KkfuawTO2i9KJ1TC97s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_cast-to-firestick-from-android-5203940-471dbdb7861344b69af918a7d2b1361b.jpg)
 2. Highlight**Mirroring** .  
 ![Fire TV Stick menu with Mirroring highlighted.](https://www.lifewire.com/thmb/qKvb3gx91cEcIS_1ZuQVtyIHV8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_cast-to-firestick-from-android-5203940-07ee8331644e40548b51b0d8db7d6639.jpg)
@@ -39,6 +48,9 @@ Enter is the large circle button on the remote.
  The process for casting to an Amazon Fire TV Stick from an Android smartphone or tablet varies depending on the device and[Android version](https://www.lifewire.com/android-versions-4173277) . Overall, the steps aren’t too different, though, and should like something like the following with maybe just a few visual changes here and there.
 5. Ensure that your Android smartphone or tablet is[connected to the same Wi-Fi network](https://www.lifewire.com/connecting-android-device-to-wifi-577618) as the Fire Stick.
 6. Open**Settings** and select**Connected devices** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Android home screen and Settings app with Connected devices highlighted.](https://www.lifewire.com/thmb/ES2KOfu0oXU9_Ki2t4Wm5jNy-aM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_cast-to-firestick-from-android-5203940-5b429840ed1a4f74baeeecc9087bf277.jpg)
 7. Select**Cast** . If your Fire TV Stick is visible on the list of devices, tap it to begin casting. If it's not, select the ellipsis icon in the top-right corner.  
 ![Android cast settings.](https://www.lifewire.com/thmb/_Hx3qqBZLyPwefeoz5hE17tXPpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_cast-to-firestick-from-android-5203940-952a7999d83442378f321bf6c95bdf14.jpg)
@@ -49,6 +61,9 @@ Enter is the large circle button on the remote.
 10. Your Android mobile device should now have its screen mirrored on your Fire TV on your TV. To end the casting session, tap the Fire TV Stick's name from the Cast menu once again.  
 ![Fire TV and smart TV in the Android Cast settings.](https://www.lifewire.com/thmb/Rp1cb2dP4xTjlf6U0S9jQB6CBOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_cast-to-firestick-from-android-5203940-38efe25a67b64beab712699c9261c55b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Can You Cast to a Fire Stick From Samsung Phones?
 
  The method for casting to a Fire Stick from a Samsung device is slightly different than the normal Android process as it uses[Samsung’s Smart View casting technology](https://www.lifewire.com/how-samsung-allshare-simplifies-media-streaming-1847358) .
@@ -57,6 +72,9 @@ Enter is the large circle button on the remote.
 2. Swipe down from the top of the screen to open the**Notifications** bar.
 3. Swipe left until you see the**Smart View** icon, and then tap it.
 4. Select your Fire TV Stick from the list of devices.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Samsung Android cast options from Smart View.](https://www.lifewire.com/thmb/EHQGxcmXXyZ3MqSl-Sxz9IQi_4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_cast-to-firestick-from-android-5203940-96ac9e50f9964506aba90c5212958d70.jpg)  
  If you don't see your Fire TV Stick from the list of available displays, try using the above steps for regular Android devices. The Fire TV may be hidden.
 5. Your Samsung device's screen should now be mirrored on your TV via your Amazon Fire TV Stick. To stop the mirroring, tap your Fire TV's name from the Smart View list again.

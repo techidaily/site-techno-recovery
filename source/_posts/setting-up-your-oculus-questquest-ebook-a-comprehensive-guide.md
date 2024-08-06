@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Your Oculus Quest/Quest Ebook: A Comprehensive Guide"
-date: 2024-08-03 17:58:52
-updated: 2024-08-06 10:38:13
+date: 2024-08-05T01:59:33.611Z
+updated: 2024-08-06T01:59:33.611Z
 categories:
   - BestProducts
 description: "This Article Describes Setting Up Your Oculus Quest/Quest Ebook: A Comprehensive Guide"
@@ -23,6 +23,9 @@ Close
 
  Support for Oculus accounts ended on January 1, 2023\. Meta accounts are required to use any Meta VR device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Make a Meta (Oculus) Account Without Facebook 
 
  Here’s how to create a new Meta account without Facebook and using an email address:  
@@ -32,20 +35,32 @@ Close
 1. Navigate to[ Meta's site](https://auth.meta.com/) and select**Continue with email** .  
 ![Set up account with email highlighted on Meta.](https://www.lifewire.com/thmb/XuRASwOf4sPkSunAcTsuqIpZZXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-e37f7afdca86468f8873213251ddabee.jpg)
 2. Enter your email address and select**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Email and Next highlighted on Meta.](https://www.lifewire.com/thmb/2QTnPwZdy3TtotlA5-T7ot2ai_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-66f5138671284a5e8675c8cc171f1fcc.jpg)
 3. Enter your name and select**Next** .  
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/3zho0vN0DwVJajuF6yNh7lhytsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-b5bff08b1f7d4984b0388e5dac527efa.jpg)
 4. Enter your birthday and select**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/l2XethUv4dkxOmKX1g9ebP160b0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4-23c16e7b3a6a4ff985c9eeb88fc35df5.jpg)
 5. Create a password and select**Next** .  
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/yZBHmK0_xpR3kumYCRlTLW2e5MY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-6595176977494c05b9f40e2e35b3e401.jpg)
 6. Verify the information you’ve entered, and select**Create account** .  
 ![Create account highlighted on Meta.](https://www.lifewire.com/thmb/woj9LZKjFZpaAHG5vAXYME3dJuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-8b458d2656cb42a39a4571c9d1660f9d.jpg)
 7. Retrieve the verification code from your email, and select**Continue** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Continue highlighted on Meta.](https://www.lifewire.com/thmb/4yRl1B6vvg0shG08zEqIjYKKH0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7-01d4792b442b4de2917322affcf21ed8.jpg)
 8. Your account is now ready. You can use it to log in to your Quest and the Meta Quest app.  
 ![A Meta account page.](https://www.lifewire.com/thmb/qLiThRXu4XINzVwZc9mMwDB74uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8-5d7c84a9927d411590d331f2dadf8d88.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  How to Create a Meta (Oculus) Account With Facebook 
 
  If you've already used your Quest with your Facebook account, your VR profile and everything you've purchased on your Quest are tied to that Facebook account. In that case, you'll need to create your Meta account from your Facebook account.
@@ -55,8 +70,14 @@ Close
  During this process, you'll have the opportunity to separate the new Meta account from your Facebook account or keep them linked. You can also link and unlink these accounts later through Facebook's Accounts Center.
 
 1. Navigate to**Meta's site** and select**Continue with Facebook** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Create account highlighted on Meta.](https://www.lifewire.com/thmb/HqGcXv4zBqPDCj6DBYSqwQ964TE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-eab7d9d2bcf449f09001be376aa8f13e.jpg)
 2. Select**Continue as (your name)** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Continue as (name) highlighted on Meta.](https://www.lifewire.com/thmb/D8NiqRTtuFUVSzrRwg9wEIzj2oM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-3bd7e79e9ad04dad8fe27b00641a61ea.jpg)  
  You’ll have to log in first if you aren’t already logged into Facebook on this device.
 3. Click**Next** .  
@@ -68,8 +89,14 @@ Close
 ![Set up with Facebook highlighted on Meta.](https://www.lifewire.com/thmb/iNB_bIOZMV6vaefXKd6K0Eq75Ag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-f61ab21762694f3bb7cc0770f311a8fe.jpg)  
  If you prefer to create a Meta account that isn’t tied to your Facebook account, but retains access to all your games, click**Continue without Facebook** instead and follow the on-screen prompts.
 6. Select**Continue** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Continue highlighted on Meta.](https://www.lifewire.com/thmb/Ce2BSRIeI2_RDZGpJm-hAy3r_tQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook6-16ad6a2553b743aba9566b34a42aae3c.jpg)
 7. Select**Finish account setup** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Finish account setup highlighted on Meta.](https://www.lifewire.com/thmb/wbhyT7CUpWE8nWCIcJtC_fJOFJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook7-32fedea2920747a1935f821b636945d3.jpg)
 8. Select**Next** .  
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/G0LKm5VXnVKxQ_r4ljKx2NSox_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook8-2734df7b0544415a8699afa35f77af6f.jpg)
@@ -78,10 +105,16 @@ Close
 10. Select**Next** .  
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/Uyvewo95TZaj624Jl2lZtTqaV70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook10-4c87bebc47d74b1b916d999153a5a682.jpg)
 11. Choose a privacy level, and select**Review** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Review highlighted on meta.](https://www.lifewire.com/thmb/NZ2kYXotroGmxnkXZoFwO9GBxmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-60ce546e32d640398be9e321231671e3.jpg)
 12. Review your choices, and select**Accept and Continue** .  
 ![Accept and continue highlighted on Meta.](https://www.lifewire.com/thmb/RW6WU0Si6BgBgXm7bocsol3C2gY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook12-acc5c2370b1f41b181c4630529920c4e.jpg)
 13. Select**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/6EpqV1ZtS7zM-Z0jCznGH5y-MHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook13-1c3be6888d664491bb6de190b75783e5.jpg)  
  If you want to add a link to your Facebook account to your Horizon profile, click or tap the toggle.
 14. Select**Finish** .  
@@ -94,8 +127,14 @@ Close
 
 1. Put on your headset, and make note of the code.
 2. Navigate to[ Meta's device page](https://auth.meta.com/device) , enter your code, and select**Connect your device** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Connect your device highlighted in Meta.](https://www.lifewire.com/thmb/uEEfwaVqQ-Wq8TIrTQWn0aydYqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-c2416e2a74534f61b16e9a9f78bc7d05.jpg)
 3. Wait until you see the device connected message.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The device connected message on Meta.](https://www.lifewire.com/thmb/XHVHOy_gsSwHqL4JqAFM63EChjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/device2-5d18c2ee18b9486c9e242aa3fc70fcfc.jpg)
 4. Your Quest will restart, and then you’ll be able to use it with your new Meta account.
 
@@ -110,8 +149,14 @@ Close
  Here’s how to disconnect your Meta account from your Facebook account:  
 
 1. Navigate to[ Meta's account center's profile page](https://accountscenter.meta.com/) , and select**Accounts** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Accounts highlighted on Facebook Accounts Center.](https://www.lifewire.com/thmb/PgruU256W2B1U0mb2Q97A33a5Lw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-0d2ae5ac76744726a61291fdcca43aec.jpg)
 2. Locate your Meta account and select**Remove** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Remove highlighted on a Meta account card on Accounts Center.](https://www.lifewire.com/thmb/7ufXSaEJMHqJten-Ou_lM62XmW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-d8b9872be2de4121b66e3ff65f00fce0.jpg)
 3. Select**Continue** .  
 ![Continue highlighted on Accounts Center.](https://www.lifewire.com/thmb/xlj8yZM-VqVLV1CzFwZrdKGesnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/remove3-4f062fd8e67643c09c41517f2c9efe73.jpg)
@@ -119,6 +164,9 @@ Close
 ![Remove (name) highlighted on Accounts Center.](https://www.lifewire.com/thmb/N4w3eL9MaOtAY-mUpQx2H5A9eG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-f71157308d6d4d249eed864d07fadea9.jpg)
 5. Your Meta account will be removed from your Facebook account.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Do You Make a Meta Account? 
 
  You can make a Meta account using an email address, with a[ Facebook](https://www.lifewire.com/what-is-facebook-3486391) or[ Instagram](https://www.lifewire.com/what-is-instagram-3486316) account, or by separating your existing Quest profile from your Facebook account. Here are a few details to keep in mind:

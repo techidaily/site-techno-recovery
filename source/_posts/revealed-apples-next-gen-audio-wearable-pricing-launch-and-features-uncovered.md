@@ -1,7 +1,7 @@
 ---
 title: "Revealed: Apple's Next-Gen Audio Wearable - Pricing, Launch & Features Uncovered!"
-date: 2024-08-04 23:15:10
-updated: 2024-08-06 12:25:31
+date: 2024-08-05T01:59:41.247Z
+updated: 2024-08-06T01:59:41.247Z
 categories:
   - BestProducts
 description: "This Article Describes Revealed: Apple's Next-Gen Audio Wearable - Pricing, Launch & Features Uncovered!"
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
@@ -39,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 Apple, Inc / USPTO
@@ -54,6 +66,9 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -62,6 +77,9 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.

@@ -1,7 +1,7 @@
 ---
 title: "All You Need to Know About the Future Galaxy: Unpacking Costs, Launch Date & Specs for the Prospective Samsung S25 Ultra"
-date: 2024-08-03 22:50:10
-updated: 2024-08-05 11:48:43
+date: 2024-08-05T01:59:36.983Z
+updated: 2024-08-06T01:59:36.983Z
 categories:
   - BestProducts
 description: "This Article Describes All You Need to Know About the Future Galaxy: Unpacking Costs, Launch Date & Specs for the Prospective Samsung S25 Ultra"
@@ -22,14 +22,23 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
  Samsung's next flagship phone is scheduled to arrive early next year. We've collected all the rumors about the Galaxy S25 Ultra so you can decide whether to wait for it or stick with the[latest phone in the Galaxy lineup](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When Will the Samsung Galaxy S25 Ultra Be Released?
 
  The Galaxy S25 Ultra release date hasn't been revealed yet, but we're watching for it in early 2025\. This is when Samsung typically releases new Galaxy S series phones, so this is essentially already confirmed. It will arrive next to the[S25 and S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
  The Galaxy S25 Ultra will likely be available in January or February 2025.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Ultra Price Rumors
 
  We hate to say it, but this phone will probably be a little more expensive than the[S24 Ultra](https://www.lifewire.com/samsung-galaxy-s24-ultra-review-8548896) . And that's a bummer because this is the highest-end phone from the set, so it's already priced above the other options.
@@ -46,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Samsung Galaxy 25 Ultra pre-orders will start following the phone's announcement at the[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event in early 2025\. It should last around two weeks before the phone becomes available. We'll provide the link at that time.
@@ -60,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
 [What Is a Large Language Model?](https://www.lifewire.com/large-language-model-7724669)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Ultra Specs and Hardware
 
  A Samsung fan shared some disappointing news about the S25 Ultra on X: it seems it will keep the same battery size and charging speeds as previous Ultra models. If this turns out to be true, it means the phone will still charge at 45W with a wire, 15W wirelessly, and 4.5W reverse wireless charging. And, naturally, it'll stick with the same 5000 mAh battery.
@@ -80,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
 [Ice Universe suggests the Galaxy S25 Ultra will maintain its 200MP main camera and 50MP 5x camera](https://www.notebookcheck.net/Samsung-Galaxy-S25-Ultra-Upgraded-ultrawide-and-3x-cameras-hinted-by-fresh-leak.841616.0.html) while upgrading the ultrawide and 3x cameras to 50MP each. Upgrading the 3x camera from the current 10MP sensor could enhance low-light performance and hybrid zoom quality.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## The Latest News About the Samsung Galaxy S25 Ultra
 
  You [get more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more on Android and Samsung.

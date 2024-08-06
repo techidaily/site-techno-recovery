@@ -1,7 +1,7 @@
 ---
 title: "The Hidden World of Smileys: Discover 10 Fascinating Emoji Truths"
-date: 2024-08-04 10:33:21
-updated: 2024-08-06 12:12:24
+date: 2024-08-05T01:59:18.686Z
+updated: 2024-08-06T01:59:18.686Z
 categories:
   - BestProducts
 description: "This Article Describes The Hidden World of Smileys: Discover 10 Fascinating Emoji Truths"
@@ -28,18 +28,27 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
 
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
 
 The plural of emoji is emoji, not emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## New Emoji Are Announced Regularly
 
  New emoji are being added all the time. In 2017 the Unicode Consortium finalized 69 new ones including a vampire, a genie, a mermaid, and many more.
@@ -48,6 +57,9 @@ The plural of emoji is emoji, not emojis.
 
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Emoji Tattoos Show Up in Odd Places
 
  What's the latest trend in tattoo art? Emoji, of course.
@@ -56,6 +68,9 @@ The plural of emoji is emoji, not emojis.
 
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
@@ -68,6 +83,9 @@ The plural of emoji is emoji, not emojis.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.

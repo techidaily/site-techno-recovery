@@ -1,7 +1,7 @@
 ---
 title: "Yahoo! Messenger: What Was It & Why Did It Shut Down?"
-date: 2024-08-04 21:12:28
-updated: 2024-08-06 10:33:40
+date: 2024-08-05T01:59:13.185Z
+updated: 2024-08-06T01:59:13.185Z
 categories:
   - BestProducts
 description: "This Article Describes Yahoo! Messenger: What Was It & Why Did It Shut Down?"
@@ -47,8 +47,14 @@ of 05
 
 of 05
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Facebook Messenger](https://apps.apple.com/us/app/facebook-messenger/id454638411?ign-mpt=uo%3D4)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook Messenger app icon for iOS](https://www.lifewire.com/thmb/u-Bp0TWQefVBLKNf0CxIZH9PJY4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/messenger-328ad82c0ce044b3b166737fbed02bb6.jpg)
 
  What We Like
@@ -74,6 +80,9 @@ of 05
 
 of 05
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [TextNow](https://apps.apple.com/us/app/textnow-voice-free-texting/id314716233?ign-mpt=uo%3D4)
 
 ![TextNow app icon for iOS](https://www.lifewire.com/thmb/nbwt5oFoegi2Quf5Dqy2Jj-BGy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/textnow-c7c31679fc724aaba55ebb83705e30a2.jpg)
@@ -102,8 +111,14 @@ of 05
 
 of 05
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [textPlus](https://apps.apple.com/us/app/textplus-free-text-calls/id314487667)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Text Plus app icon for iOS](https://www.lifewire.com/thmb/LC3yI8P34FaLyUxnFsU0FL0oHeQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/textplus-29ffaddac5824aa8beee65d5a2cf5d18.jpg)
 
  What We Like
@@ -131,6 +146,9 @@ of 05
 
 ## [TextMe](https://apps.apple.com/us/app/text-me-free-texting-free/id514485964?ign-mpt=uo%3D4)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TextMe app icon for iOS](https://www.lifewire.com/thmb/VVynRZpwDJGCte3-4GzZ2A48njE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/textme-dfa80e7592924907bd15619607b67473.jpg)
 
  What We Like

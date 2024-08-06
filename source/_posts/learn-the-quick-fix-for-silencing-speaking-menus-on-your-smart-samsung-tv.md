@@ -1,17 +1,20 @@
 ---
 title: Learn the Quick Fix for Silencing Speaking Menus on Your Smart Samsung TV
-date: 2024-08-05 11:40:49
-updated: 2024-08-06 11:21:36
+date: 2024-08-05T01:59:14.445Z
+updated: 2024-08-06T01:59:14.445Z
 categories:
   - BestProducts
 description: This Article Describes Learn the Quick Fix for Silencing Speaking Menus on Your Smart Samsung TV
 excerpt: This Article Describes Learn the Quick Fix for Silencing Speaking Menus on Your Smart Samsung TV
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## Crafting Your Own PC Compared with Off-the-Shelf Options - Making the Smart Decision for You
  It's easy enough to pick out a new computer to buy. The other option is to gather[all the necessary components](https://www.lifewire.com/desktop-pc-parts-checklist-832694) and build the PC yourself. We looked at the pros and cons of both to help you decide whether to build a computer or buy one off the shelf.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Overall Findings
 
  Buying a PC
@@ -35,6 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/fi
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -60,6 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -68,6 +77,9 @@ thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/fi
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Building a PC: Pros and Cons
 
  Advantages
@@ -95,6 +107,9 @@ thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -113,6 +128,9 @@ thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/fi
 
 Lifewire / Julie Bang
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Build a Computer
 
  If you're interested in building a desktop computer from parts, take the next steps.

@@ -1,7 +1,7 @@
 ---
 title: 10 Amazing Emoji Facts You Didn't Know
-date: 2024-08-03 12:31:49
-updated: 2024-08-06 12:46:53
+date: 2024-08-05T01:59:14.197Z
+updated: 2024-08-06T01:59:14.197Z
 categories:
   - BestProducts
 description: This Article Describes 10 Amazing Emoji Facts You Didn't Know
@@ -16,6 +16,9 @@ thumbnail: https://www.lifewire.com/thmb/U9L6tE9CvJBfkTJoxmC6ZiVXZnA=/400x300/fi
 
  Emoji are here to stay as long as we all continue tweeting and texting. Here are a few interesting facts about those crazy, colorful little emoji that prove just how much the world loves them.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple Is Credited for Emoji Popularity
 
  Emoji have been around since 1999 when Japanese designer Shigetaka Kurita made the first emoji for cellphones, but they weren't fully embraced by the masses until 2012 when Apple released iOS 6.
@@ -34,12 +37,18 @@ thumbnail: https://www.lifewire.com/thmb/U9L6tE9CvJBfkTJoxmC6ZiVXZnA=/400x300/fi
 
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
 
 The plural of emoji is emoji, not emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## New Emoji Are Announced Regularly
 
  New emoji are being added all the time. In 2017 the Unicode Consortium finalized 69 new ones including a vampire, a genie, a mermaid, and many more.
@@ -56,6 +65,9 @@ The plural of emoji is emoji, not emojis.
 
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
@@ -68,10 +80,16 @@ The plural of emoji is emoji, not emojis.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Emoji Are Supported Just About Everywhere
 
  Using[X on mobile](https://www.lifewire.com/best-mobile-twitter-apps-3486098) devices has always been popular, but until X finally released emoji support on its web version in 2014, those little icons would show up as blank boxes if you visited Twitter.com on a laptop or desktop computer.

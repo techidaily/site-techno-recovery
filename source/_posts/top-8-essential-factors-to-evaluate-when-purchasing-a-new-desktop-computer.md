@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Evaluate When Purchasing a New Desktop Computer
-date: 2024-08-04 15:17:34
-updated: 2024-08-05 10:54:24
+date: 2024-08-05T01:59:36.588Z
+updated: 2024-08-06T01:59:36.588Z
 categories:
   - BestProducts
 description: This Article Describes Top 8 Essential Factors to Evaluate When Purchasing a New Desktop Computer
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/VTCv1H1cFUS59mLzelODtMu7V34=/400x300/fi
 ---
 
 ## The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Windows: Press**Windows key+PrtSc** or**Windows key+Alt+PrtScn** to capture only the active window.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/VTCv1H1cFUS59mLzelODtMu7V34=/400x300/fi
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
  To[take a screenshot on Windows](https://www.lifewire.com/take-screenshots-using-windows-3507009) , press**Windows key+PrtScn** .
@@ -32,14 +38,23 @@ thumbnail: https://www.lifewire.com/thmb/VTCv1H1cFUS59mLzelODtMu7V34=/400x300/fi
 
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
 
  If you want to reassign the Print Screen command, you can[remap the Windows keyboard](https://www.lifewire.com/remap-keyboard-in-windows-10-5181178) and create custom screenshot shortcuts.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.

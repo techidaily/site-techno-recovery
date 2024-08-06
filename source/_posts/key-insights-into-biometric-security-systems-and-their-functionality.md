@@ -1,7 +1,7 @@
 ---
 title: Key Insights Into Biometric Security Systems and Their Functionality
-date: 2024-08-02 16:56:31
-updated: 2024-08-05 11:23:58
+date: 2024-08-05T01:59:26.185Z
+updated: 2024-08-06T01:59:26.185Z
 categories:
   - BestProducts
 description: This Article Describes Key Insights Into Biometric Security Systems and Their Functionality
@@ -15,6 +15,10 @@ Close
 
 [ Artificial intelligence](https://www.lifewire.com/what-is-artificial-intelligence-5119206) is converging with biometrics to help provide more security in computers and[ smartphones](https://www.lifewire.com/what-makes-a-smartphone-smart-579597) . This article explains the topic.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Biometrics Defined 
 
  Biometrics is defined as the study and application of scientific and/or technological methods designed to measure, analyze, and/or record a human’s unique physiological or behavioral characteristics.
@@ -27,6 +31,9 @@ Close
 
  Although biometrics has been used by various industries for decades, modern tech has helped it gain more public awareness. For example, many of the latest smartphones feature fingerprint scanners and/or[ facial recognition](https://www.lifewire.com/how-facial-recognition-is-learning-to-read-masked-faces-5089684) to unlock devices.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Eye overlaid with a computer-generated retina scanner](https://www.lifewire.com/thmb/PbK4vRFrhiDsli6CECK91rgASfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/eyeretinascanner-30543474ba0340338d038bab9442da7f.jpg) 
 
  Anthony Lee / Getty Images 
@@ -39,6 +46,9 @@ Close
 
  However, the collection, storage, and handling of biometric data (particularly with regards to consumer tech) often brings up concerns about personal privacy, security, and identity protection.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ##  Biometric Types and Screening Characteristics 
 
  There are a number of biometric characteristics in use today, each with different means of collection, measurement, evaluation, and application. Physiological characteristics used in biometrics relate to the_shape and/or composition_ of the body. Some examples are (but not limited to):
@@ -70,8 +80,14 @@ Close
 
  These factors also help determine if one biometric solution may be better to apply in a situation than another. But cost and the overall collection process are also considered. For example, fingerprint and face scanners are small, inexpensive, fast, and easy to implement into mobile devices. This is why smartphones feature those instead of hardware for analyzing body odor or vein geometry!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ##  How Biometrics Work in Everyday Life 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A thumb in the process of recording a print with black ink](https://www.lifewire.com/thmb/lb87r1wJMdq1q8wkKjYUpAyKYsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680792625-5a0f120547c2660037ff8cdf.jpg) 
 
  Law enforcement agencies regularly collect fingerprints to help establish crime scenes and identify individuals.  MAURO FERMARIELLO/SCIENCE PHOTO LIBRARY / Getty Images 
@@ -98,6 +114,9 @@ Close
 
 ##  Biometric Identification vs. Authentication (Verification) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A close up of hands holding smartphones using biometric access for mobile banking apps](https://www.lifewire.com/thmb/tRyYGEDb1mQpT__SniNb5GInrbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-657174560-5a0f125f89eacc0037a6bbc6.jpg) 
 
  Fingerprint scanners are a growing type of security feature to be incorporated in mobile devices.  mediaphotos / Getty Images 

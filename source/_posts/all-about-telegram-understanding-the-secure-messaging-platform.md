@@ -1,7 +1,7 @@
 ---
 title: All About Telegram – Understanding the Secure Messaging Platform
-date: 2024-08-02 20:23:30
-updated: 2024-08-05 11:14:10
+date: 2024-08-05T01:59:15.503Z
+updated: 2024-08-06T01:59:15.503Z
 categories:
   - BestProducts
 description: This Article Describes All About Telegram – Understanding the Secure Messaging Platform
@@ -14,12 +14,27 @@ thumbnail: https://www.lifewire.com/thmb/nLtWuOB8KpV2wMeOZcy7ud__ic0=/400x300/fi
 
  After a certain time of inactivity, a Mail.com account will be closed and deleted: any emails in it not backed-up elsewhere are irreversibly lost. You don't need to send messages from a Mail.com account to keep it, of course, or receive emails even; logging into the address and account is enough.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Know When Your Mail.com Account Will Expire From Inactivity
 
  A Mail.com account will close automatically—and emails in it will be deleted after six months of inactivity. That period is subject to change. In the past, the period was 12 months. You need to check the current terms of agreement for Mail.com. The inactivity clause is under 2\. Term and Termination, clause 2.4.
 
  If you use the Premium Service from Mail.com, you are not subject to the inactivity termination for the period for which you are paid. However, your account will revert to a free account if you don't stay current on your payments or renewals. That may happen if the credit card you've stored for automatic renewals has expired or been reissued, and you may have ignored notifications about it. You can easily get into a vicious circle of not checking your Mail.com account or other accounts you have associated with it. When that happens, you may never see the warning about your account reverting to the free version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Can You Keep Your Mail.com Account Active?
 
  You can keep your account active simply by logging in. You can do that from webmail, using another email client such as[Thunderbird](https://www.lifewire.com/mozilla-thunderbird-review-1173071) or their mail app. You don't have to necessarily send or receive mail, but you need to perform a login at the least.
@@ -28,6 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/nLtWuOB8KpV2wMeOZcy7ud__ic0=/400x300/fi
 
  If you set up the account simply to have an email address you can use for identification purposes, such as to have multiple[X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) accounts, it can be easy to forget to keep your Mail.com account active. You will need to set up a reminder to log in every few months.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Deleting Your Account at Mail.com
 
  You can choose to delete your Mail.com account yourself using their My Account menu. Select My Account from the Home screen. It is the icon that looks like a person's head and shoulders, near the bottom of the left-hand menu.

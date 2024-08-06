@@ -1,7 +1,7 @@
 ---
 title: IPhone 15 Pro Max Aquatic Abilities - Does It Hold Up to a Splash or Dive?
-date: 2024-08-04 19:15:49
-updated: 2024-08-05 10:34:46
+date: 2024-08-05T01:59:18.238Z
+updated: 2024-08-06T01:59:18.238Z
 categories:
   - BestProducts
 description: This Article Describes IPhone 15 Pro Max Aquatic Abilities - Does It Hold Up to a Splash or Dive?
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/tjbZu8TyZ_Hgned3kiXPg5aRRR0=/400x300/fi
 
  This article explains how to connect three monitors to a computer for a boost in productivity.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How to Hook up 3 Monitors to One Computer
 
  Sometimes you need a command center whether you're gaming, coding, or working with multiple documents. Here's how to add three monitors to your computer.
@@ -30,14 +34,26 @@ thumbnail: https://www.lifewire.com/thmb/tjbZu8TyZ_Hgned3kiXPg5aRRR0=/400x300/fi
  Different monitors can use different video connections. For example, you can connect two monitors with HDMI and then a third with DisplayPort.
 4. Connect the video cable for the first monitor to your PC and then to the monitor. Wait a moment for the PC to detect the monitor and display an image. If it's successful, repeat this for the second monitor and, finally, the third.
 5. Right-click on the Windows desktop and click**Display Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Right-click menu settings in Windows 11 with Display Settings highlighted](https://www.lifewire.com/thmb/MfaagGxQo95iNq8uX_dLvjVN9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DisplaySettingsannotated-56ca601f38694bd48a968d3dcb8baa44.jpg)
 6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
 7. Scroll back to the top of the**Display** menu. It will now show three rectangles, each labeled with a number. These rectangles show the position of each monitor on your Windows desktop. Change the diagram so that each rectangle's location is approximately the same as each monitor's physical location on your desk.  
  Verify the monitors are arranged as you want by opening a window and dragging it between monitors.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Multiple monitors being configured on Windows 10 Display settings](https://www.lifewire.com/thmb/yVjDg9fBA8hoBTzwZbVB_1qhIYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearrangedisplays-0e9cb668b33548caa615ae8d7c98f2c9.jpg)
 8. Close the**Display** menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can My Computer Support Three Monitors?
 
  A computer needs the proper hardware and software to support three monitors at once. Even one with enough physical video outputs might not support three monitors if the driver for its graphics hardware lacks support for so many displays.
@@ -74,6 +90,9 @@ thumbnail: https://www.lifewire.com/thmb/tjbZu8TyZ_Hgned3kiXPg5aRRR0=/400x300/fi
 
  Your PC must support this feature. Most PCs sold in the last few years will, but older models often don't. Check the PC manufacturer's website or the company's website, which made your graphics card, to see if daisy chains are supported.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![A person relaxing in front of 3 computer monitors.](https://www.lifewire.com/thmb/rNwm25Wi1gtnVKG6cT3WvYu1xsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215556128-c6efe0a4701f452e851a1ace021393a5.jpg)
 
 LanaStock / Getty Images

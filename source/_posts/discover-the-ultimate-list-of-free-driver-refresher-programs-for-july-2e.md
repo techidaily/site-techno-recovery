@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate List of Free Driver Refresher Programs for July 2E
-date: 2024-08-04 15:22:52
-updated: 2024-08-06 10:52:37
+date: 2024-08-05T01:59:22.338Z
+updated: 2024-08-06T01:59:22.338Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Ultimate List of Free Driver Refresher Programs for July 2E
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/wK9Mq9-ldPoAAoTWOFDYrflVEbY=/300x200/fi
 
  Netflix's DVD program included some TV shows and movies that weren't available through[their streaming service](https://www.lifewire.com/overview-of-the-netflix-streaming-service-1847831) . You could watch both DVDs and Blu-rays, and there were a few plans to pick from depending on how many discs you wanted to borrow at once.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Netflix's DVD Plans
 
  There are three DVD Netflix plans. All of them offer unlimited discs per month, no late fees, free shipping and returns, DVDs and Blu-rays, and no long-term commitment (just month-by-month).
@@ -28,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/wK9Mq9-ldPoAAoTWOFDYrflVEbY=/300x200/fi
 * **Standard** : $14.99 /month; two discs at a time
 * **Premium** : $19.99 /month; three discs at a time
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## How to Sign Up for DVD Netflix
 
  If you’re already subscribed to Netflix’s streaming service, follow these steps, otherwise skip down to the next set of instructions:
@@ -49,8 +55,14 @@ thumbnail: https://www.lifewire.com/thmb/wK9Mq9-ldPoAAoTWOFDYrflVEbY=/300x200/fi
 
 1. Visit DVD Netflix at DVD.com.
 2. Select**Sign Up** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DVD Netflix sign up button](https://www.lifewire.com/thmb/NCQ1shSEvKeXqCYIEdWZYEWasfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-2b9f1a1370d042f7bbc87dde135db231.png)
 3. Choose the plan you want, and then select**Get Started** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DVD Netflix plan options](https://www.lifewire.com/thmb/1IHiA9MQesi6AeoZW2OuFx4JbUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-pricing-fa3f2e4b64fa4137ac42d44abc0c8d19.png)
 4. Enter your email address, choose a password, and then select**Continue** .
 5. Enter your shipping information, and then press**Continue** .
@@ -69,11 +81,21 @@ thumbnail: https://www.lifewire.com/thmb/wK9Mq9-ldPoAAoTWOFDYrflVEbY=/300x200/fi
 1. From DVD Netflix, select**Add to Queue** or**Add** , depending on the screen you're looking at, next to any DVD you want.  
 ![DVD Netflix Add to Queue button](https://www.lifewire.com/thmb/3_4_AW0IsPIrCM861X44RVIPLxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-to-queue-d48f9e0f986242f98683ce1ee0581732.png)  
  To add a whole season of a TV show, pick the season you want to rent and choose**Add All to Queue** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![DVD Netflix Add All to Queue button](https://www.lifewire.com/thmb/4jU-S_bFoGdZ4nf5ZGnyf6fxTY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-all-to-queue-bdfdf210723748faaac13e57e6679b7e.png)  
  You can find titles by searching by name, people, or genre. There's also a**Browse** menu for locating popular movies, new releases, and Netflix's top 100 titles.
 2. Open your queue via the**QUEUE** menu at the top of the site to manage the DVDs. You can adjust the order by dragging the titles up and down. Delete an item by hovering your mouse over it and selecting the trash icon.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DVD Netflix Queue](https://www.lifewire.com/thmb/x6QarMAaIe0NyqowLEYhKYw2Z1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-queue-ab624110eea644f1b0b4d462894431ea.png)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### With the Mobile App
 
  Mobile users can manage the DVD Netflix queue as well. Tap the plus sign to add a movie to TV show to the queue, and use the disc icon at the top right to edit the order or remove DVDs.
@@ -96,12 +118,22 @@ thumbnail: https://www.lifewire.com/thmb/wK9Mq9-ldPoAAoTWOFDYrflVEbY=/300x200/fi
 
 1. Log in to Netflix at[netflix.com](https://www.netflix.com/) or with the Netflix or DVD Netflix mobile app.
 2. Hover your mouse over the profile image at the top right of the screen, and then choose**Account** . If you're using the app, go to**More** \>**Account** to open your account information in your browser.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Netflix menu](https://www.lifewire.com/thmb/sPdef-efDhFlukhsT5ZIKGE9cn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-menu-a50af54ed942494580a71dbfa10aa482.png)
 3. Select**Cancel DVD plan** from the**PLAN DETAILS** section.  
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Netflix account settings](https://www.lifewire.com/thmb/Q80vAniZ2Rz4sOJ9lBPx1R7Etj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-cancel-dvd-plan-1b525410df38448e9513aa48f77c3729.png)
 4. Check the box next to**Proceed to Cancellation** , and then select**Continue** .  
 ![DVD Netflix cancel screen](https://www.lifewire.com/thmb/y4ygwym9PG4XM_r0T1gD5tpwa4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-cancel-fb3a1b5411854a1c8b087c1ea52dc9f4.png)
 5. Scroll down and choose**Yes, cancel my account** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![DVD Netflix confirm cancel screen](https://www.lifewire.com/thmb/3APn5Z7GYqY6Ttv_8RKqLWKM9eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-confirm-cancel-fc127afe34264138af39754bb77e0c7a.png)
 6. Choose**Done** on the final page.
 

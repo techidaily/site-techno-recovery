@@ -1,7 +1,7 @@
 ---
 title: IPhone 2024 Anticipated Launch Details, Pricing Predictions & Leaked Specifications
-date: 2024-08-03 22:10:38
-updated: 2024-08-06 11:23:46
+date: 2024-08-05T01:59:14.335Z
+updated: 2024-08-06T01:59:14.335Z
 categories:
   - BestProducts
 description: This Article Describes IPhone 2024 Anticipated Launch Details, Pricing Predictions & Leaked Specifications
@@ -37,6 +37,9 @@ thumbnail: https://www.lifewire.com/thmb/4JF7qUBTJD5y8_t0HlqDGBrtOGs=/400x300/fi
 
 A September 2025 release date seems like a lock.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iPhone 17 Price Rumors
 
  Just like with release dates, Apple is consistent in[the pricing of new iPhones](https://www.lifewire.com/cost-of-iphone-1999299) . While nothing has been confirmed, expect that the iPhone 17 price will be very similar to previous models, if not the exactly same. The launch price of the entry-level model of the last three iPhones was:
@@ -47,10 +50,16 @@ A September 2025 release date seems like a lock.
 
  So, the iPhone 17 price might vary a little, but a starting price around $799 is a safe bet, with the cost going up based on screen size and storage. And of course, the Pro version will be more expensive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iPhone 17 Specs & Features
 
  The iPhone 17 is rumored to introduce some major upgrades to its screen, big improvements to the cameras, faster processors, and more. Here's a summary of what's rumored:
@@ -64,6 +73,10 @@ A September 2025 release date seems like a lock.
 * Physically larger phones
 * More AI features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Screen
 
  The iPhone 17 series screen is rumored to receive three notable upgrades.
@@ -78,6 +91,9 @@ A September 2025 release date seems like a lock.
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
@@ -96,6 +112,9 @@ A September 2025 release date seems like a lock.
 
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Phone Size
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).

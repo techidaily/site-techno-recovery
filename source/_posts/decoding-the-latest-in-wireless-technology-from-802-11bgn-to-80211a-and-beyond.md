@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Latest in Wireless Technology: From 802. 11B/G/N to 802.11A and Beyond"
-date: 2024-08-04 12:24:46
-updated: 2024-08-05 11:47:15
+date: 2024-08-05T01:59:21.904Z
+updated: 2024-08-06T01:59:21.904Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding the Latest in Wireless Technology: From 802. 11B/G/N to 802.11A and Beyond"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 
  For quick reference,[802.11be (Wi-Fi 7)](https://www.lifewire.com/what-is-wi-fi-7-6950913) , approved in 2024, is the most recent standard. However, just because a standard is approved does not mean it is available to you or is the standard you need for your particular situation. These are routinely updated, much like how software is updated on smartphones or computers.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is 802.11?
 
  In 1997, the Institute of Electrical and Electronics Engineers created the first WLAN standard. They called it_802.11_ after the name of the group formed to oversee its development. Unfortunately, 802.11 only supported a maximum[network bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) of 2 Mbps—too slow for most applications. For this reason, ordinary 802.11 wireless products are no longer manufactured. However, an entire family has sprung up from this initial standard.
@@ -24,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 
  Below is a brief look at the most recently approved iterations, outlined from newest to oldest. Other iterations, like 802.11bn (Wi-Fi 8), are still being approved.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A comparison chart of the Pros and Cons of the wireless standards 802.11ac, 802.11n, and 802.11g.](https://www.lifewire.com/thmb/nKbWckJ_1AKQ-SoggPXVECQ_pK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553-36294250342e404eabe7dc94bc7a40f9.png)
 
 Lifewire
@@ -38,6 +44,9 @@ Lifewire
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## 802.11aj
 
  Known as the China Millimeter Wave, this standard applies in China and is a rebranding of 802.11ad for use in certain areas of the world. The goal is to maintain backward compatibility with 802.11ad.
@@ -76,6 +85,9 @@ Lifewire
 
  802.11g is also unofficially referred to as_Wi-Fi 3_ .
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 802.11a (Wi-Fi 2)
 
  While 802.11b was in development, IEEE created a second extension to the original 802.11 standard called_802.11a_ . Because 802.11b gained popularity much faster than 802.11a, some folks believe that 802.11a was created after 802.11b. In fact, 802.11a was created at the same time. Due to its higher cost, 802.11a is usually found on business networks, whereas 802.11b better serves the home market.
@@ -86,6 +98,9 @@ Lifewire
 
  802.11a is also unofficially referred to as_Wi-Fi 2_ .
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 802.11b (Wi-Fi 1)
 
  IEEE expanded on the original 802.11 standard in July 1999, creating the_802.11b_ specification. 802.11b supports a theoretical speed of up to 11 Mbps. A more realistic bandwidth of 2 Mbps (TCP) and 3 Mbps (UDP) should be expected.
@@ -94,6 +109,9 @@ Lifewire
 
  802.11b is also unofficially referred to as_Wi-Fi 1_ .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What About Bluetooth and the Rest?
 
  Aside from these five general-purpose Wi-Fi standards, several other related wireless network technologies offer slightly different value propositions.

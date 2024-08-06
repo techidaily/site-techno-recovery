@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Powerhouse Behind Facebook's Tech: Meta AI Explained"
-date: 2024-08-04 12:22:55
-updated: 2024-08-05 11:11:16
+date: 2024-08-05T01:59:41.719Z
+updated: 2024-08-06T01:59:41.719Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Powerhouse Behind Facebook's Tech: Meta AI Explained"
@@ -21,18 +21,31 @@ Close
 
  You'll find Meta AI as part of the search bar in the suite of apps mentioned above. You can use the bar to search as you did before or start a conversation with Meta AI for real-time information, image generation, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Meta AI Search](https://www.lifewire.com/thmb/IJhuuR_0nzH0cC3jDNbC1eUScp8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MetaAI-9f8fe03dd7744a409abac985af461dd7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Note:
 
  If you don't see Meta AI in an app you're using, check for an update.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who Built Meta AI? 
 
  Meta AI is an artificial intelligence research laboratory owned by Meta Platforms Inc. It was founded in 2015 as Facebook Artificial Intelligence Research (FAIR) and later renamed when Facebook, Inc. rebranded as Meta Platforms, Inc. The team behind the chatbot includes researchers and engineers who work on machine learning, computer vision, natural language processing, and other areas of AI research.
 
  Meta AI's unique language model is called[ Llama 3](https://llama.meta.com/llama3/) ; it's open-source and freely available. The company positions it as a competitor to ChatGPT and Google Gemini, with several features custom-designed for the popular apps you use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Can Meta AI Do? 
 
  Meta AI is similar to generative multi-modal chatbots like ChatGPT, Copilot, and Gemini. But uniquely, it also works with Google and Bing for real-time search.
@@ -45,6 +58,10 @@ Close
 
 ![Meta AI on the Web](https://www.lifewire.com/thmb/g0zAqyNCCsGzSSxgOty0neVOgBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ask-Meta-35d2b7072de04faabbc4ba461270c3eb.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How Can You Use Meta AI? 
 
  If you live in the U.S. or any supported country, you can use Meta AI in Facebook, Instagram, WhatsApp, Messenger, and[ on the web](https://www.meta.ai/) .
@@ -57,6 +74,9 @@ Close
 
  Along with Meta AI, there are[ 28 more AI 'characters'](https://about.fb.com/news/2023/09/social-profiles-for-metas-ai-characters/) with unique personas and even social profiles on Facebook and Instagram. Some are digital avatars of cultural icons you recognize, such as Snoop Dogg, Tom Brady, Kendall Jenner, and Naomi Osaka. Meta AI generates their text posts, and the images come from Emu.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Note:
 
  As it's open source,[ Meta AI's frameworks, tools, libraries, datasets, and models](https://ai.meta.com/resources/) are also available to everyone for AI research and app development.

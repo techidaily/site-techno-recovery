@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fixing Common Problems with Wireless Network Adapters & Access Points"
-date: 2024-08-03 19:41:43
-updated: 2024-08-06 10:33:44
+date: 2024-08-05T01:59:35.681Z
+updated: 2024-08-06T01:59:35.681Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Fixing Common Problems with Wireless Network Adapters & Access Points"
@@ -18,12 +18,23 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
  This article will walk you through the steps for how to reset network settings on a Mac. Unlike resetting network settings on an iPhone or Windows 10 computer, there’s no specific function on Macs for refreshing internet and wireless connection preferences, but it can still be done via the two methods shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## How Do You Reset Network Settings in macOS?
 
  There are two different ways to reset the network settings on a Mac. The first method is relatively simple and should be tried first if you’re experiencing any connectivity or internet issues.
 
  The second process for resetting your network settings is safe, though it is a bit more complex and only recommended if the first method didn’t work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reset Mac Network Settings: The Easy Way
 
  The first way to reset a Mac’s network settings is to delete your Wi-Fi connection and then add it again. Here’s how to do it.
@@ -31,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
  Macs running macOS Ventura (13) and earlier will select**System Preferences** \>**Network** \>**Wi-Fi connection** \>**\- (Minus** ) sign >**Apply** .
 
 1. Click the**Wi-Fi** icon in menu bar.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wi-Fi icon in macOS menu bar.](https://www.lifewire.com/thmb/ZQJSC9POWF9sWOG1QhLW7RDze88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_reset-network-settings-on-mac-5184072-8a2df70ce23140b4840713440a0b7006.jpg)
 2. Choose**Wi-Fi Settings** .  
  You can also get to this area from**Apple** icon >**System Settings** \>**Network** \>**Wi-Fi** .  
@@ -38,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 3. Select**Details** beside the network to forget.  
 ![Details button beside a network connection from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/FNdDQZBdPQIHnN_v6Yd40aZSEaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_reset-network-settings-on-mac-5184072-a10316d0d1fa4b5e85f2b1516cdaece4.jpg)
 4. Choose**Forget This Network** at the bottom left.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Forget This Network option from a connected network in macOS Wi-Fi settings.](https://www.lifewire.com/thmb/g_e1r5-LZ5pTqtOVemfyL7io_yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_reset-network-settings-on-mac-5184072-550c670121d048ad9b36bf5c3711f38f.jpg)
 5. Click**Remove** to confirm the deletion.  
 ![The Remove option when deleting a connected network from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/7sXgyQ4pvZ0APV5IYNb9a0YbIVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_reset-network-settings-on-mac-5184072-d33999e98f4f41a9b5865dca38234821.jpg)  
@@ -51,10 +68,19 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 1. Click the**Wi-Fi internet symbol** in the menu bar.  
 ![Mac desktop with Wi-Fi symbol highlighted](https://www.lifewire.com/thmb/xVX119_v-qCR6mDaxc3cjPMV4LM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201-reset-network-settings-on-mac-5184072-1b8173aa3f1143f8b8271be3a2086896.jpg)
 2. Click the switch to turn Wi-Fi off.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Mac desktop with Wi-Fi switch turned on and toggle highlighted](https://www.lifewire.com/thmb/Djr4uGfLmro0bitPwJrNPK8si9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/202-reset-network-settings-on-mac-5184072-72380288b1504d889574a5463faa398b.jpg)
 3. With Wi-Fi off, click**Go** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
 5. Type**/Library/Preferences/SystemConfiguration/** into the text field and Enter.  
 ![Mac Go to Field](https://www.lifewire.com/thmb/oInJvndiGGUBjiVV4dCuYipWrK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/205-reset-network-settings-on-mac-5184072-01298987aa224234b7e9e2f8faa9633d.jpg)
@@ -65,8 +91,14 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
    * **NetworkInterfaces.plist**  
    * **preferences.plist**  
  Depending on your macOS version, you may not see all of the above files.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac network settings with five files highlighted](https://www.lifewire.com/thmb/4knKSgQkHK2UZGhEN6af3HgOVf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-reset-network-settings-on-mac-5184072-b943ca5296604916a56612a49afabb87.jpg)
 7. **Command+click** to choose the select files, select**Copy** , then right-click the desktop and select**Paste** .  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
  If prompted to confirm the deletion with a password or an action on your Apple Watch, do so.  

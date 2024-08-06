@@ -1,7 +1,7 @@
 ---
 title: "All About Sony's Newest Vehicle, the Afeela: Anticipated Launch Date, Pricing Rumors & Key Specs"
-date: 2024-08-02 11:44:15
-updated: 2024-08-05 10:13:11
+date: 2024-08-05T01:59:36.486Z
+updated: 2024-08-06T01:59:36.486Z
 categories:
   - BestProducts
 description: "This Article Describes All About Sony's Newest Vehicle, the Afeela: Anticipated Launch Date, Pricing Rumors & Key Specs"
@@ -22,16 +22,25 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
  At CES 2023, Sony and Honda gave a name to their joint Sony Honda Mobility (SHM) electric vehicle venture: Afeela. This new electric vehicle (EV) brand is moving ever closer beyond concept to debuting its first EV sedan, which will draw on Sony’s and numerous other partners’ gaming, artificial intelligence (AI), and entertainment prowess. Here’s what we know about the forthcoming Sony car (Afeela).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  When Will the Sony Car (Afeela) Be Released? 
 
  When Sony and Honda announced their plans for an EV, they also suggested a 2026 release. Plans look on track to bring the Afeela to market in North America first sometime in 2026\. 
 
  Orders will be taken in the first half of next year, potentially allowing US drivers to be behind the wheel by spring 2026.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  The Afeela looks poised to be available in North America by spring 2026.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Sony Car (Afeela) Price Rumors 
 
 [ According to The Verge's early reporting](https://www.theverge.com/2023/1/4/23539863/sony-honda-electric-vehicle-afeela-ces-reveal-photos) , the Afeela’s pricing will match competitors in the luxury vehicle space, like Mercedes-Benz, Volvo, and Porsche, including possible subscription models to some of its services. But competition with and resemblance to the Tesla, specifically the Tesla Model S, feels pretty undeniable. Some even see similarities to models such as the Porsche 911.
@@ -40,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
  As concept-to-production details take shape, we expect to hear more rumors about pricing, so stay tuned.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Sony Car pre-ordering looks like it will start in the first few months of 2025\. All signs point to US orders first, followed by pre-orders and debuts in the Japanese and European markets. 
@@ -56,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 * **Built-in Microsoft AI assistant** : The Afeela will get a[ personal assistant using Microsoft Azure OpenAI](https://www.shm-afeela.com/en/news/2024-01-08%5F4/) . This assistant, dubbed the Mobility Personal Agent, is part of the company’s vision for an “advanced voice-enabled system that delivers seamless communication with natural language and conversation-like interactions.”
 * **Immersive infotainment with a gaming bent** : The Afeela will be like a moving movie theater with infotainment screens throughout, movie and music choices for passengers, and a noise-canceling, spatial audio sound system. SHM has also announced it’s working with Epic Games and its Unreal Engine, the power behind_Fortnite_ , to develop an immersive augmented reality (AR) experience. This feature will look like 3D views of the road from any angle but also offer a gamified view of real-life objects.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sony Honda Mobility and Epic Games collaboration demo in the Afeela prototype.](https://www.lifewire.com/thmb/l9bUlpS2wIPA00FBpEUvK6M-tPw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-Hond-Car-Afeela-EpicGames-Collaboration-4978e86ca0f048c2858c0bd4e757562c.jpeg) 
 
 AR navigation. 
@@ -92,6 +107,9 @@ Sony Interactive Entertainment
 
  Check back for updates about the Sony car release date and more features and specs chatter. 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Latest News About the Sony Car (Afeela) 
 
  There’s a lot more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) . Here are a few stories of interest about Sony and EVs specifically.

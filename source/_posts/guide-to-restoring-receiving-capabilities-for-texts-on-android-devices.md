@@ -1,7 +1,7 @@
 ---
 title: Guide to Restoring Receiving Capabilities for Texts on Android Devices
-date: 2024-08-03 10:34:22
-updated: 2024-08-06 10:31:54
+date: 2024-08-05T01:59:32.372Z
+updated: 2024-08-06T01:59:32.372Z
 categories:
   - BestProducts
 description: This Article Describes Guide to Restoring Receiving Capabilities for Texts on Android Devices
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/FAYrriT750DbMiwD6edzqlFthBE=/400x300/fi
 
  This article will walk you through restoring deleted or lost phone numbers on Android and Samsung devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Recover Deleted Numbers on Android
 
  You signed in to your Google account when you first up your Android. By default, your contacts sync with your Google account. Any contacts you delete will go to the Google Contacts trash folder. Here's how to recover a deleted contact or phone number from a computer or your phone:
@@ -31,8 +34,14 @@ thumbnail: https://www.lifewire.com/thmb/FAYrriT750DbMiwD6edzqlFthBE=/400x300/fi
 ![A deleted contact highlighted in Google Contacts.](https://www.lifewire.com/thmb/EEQuRT7rucX1CfF5ZU4cm89v6k8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-FindDeletedPhoneNumbersonAndroid-annotated-4b1f46470012453b893ee092d52f7fb9.jpg)  
  Need help finding what you're after? Contacts sent to the trash are permanently deleted every 30 days so that you might have missed your opportunity. Additionally, if your phone hasn't been backing up your contacts, deleted entries will not appear here.
 4. Select**Recover** to pull the contact out of the trash and put it back into your regular list. If you want to keep the contact deleted, you can still copy the email address, phone number, or any other details from this screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![The Recover button highlighted for a deleted contact in Google Contacts.](https://www.lifewire.com/thmb/a97wY8W86SgGdS9pEFTZVRtaU3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-FindDeletedPhoneNumbersonAndroid-annotated-3d74c1e6a99c4fac941e44dfe4c1ccda.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Get Deleted Numbers Back on a Samsung Phone
 
  It's easy to recover deleted contacts on a Samsung phone because there's a handy recycle bin area that stores this information. You have 30 days to get a deleted phone number back before it disappears forever. Here's how:
@@ -44,11 +53,21 @@ thumbnail: https://www.lifewire.com/thmb/FAYrriT750DbMiwD6edzqlFthBE=/400x300/fi
  Although it's not as common, your phone might have contacts stored on the internal memory or a SIM card. This can happen if that's where you've backed up your contacts. If you're lucky, the deleted number might still exist in the backup. Here's how to import those contacts:
 
 1. Go to**Contacts** \>**Menu** \>**Manage Contacts.**  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Samsung Contacts app with the menu and 'Manage contacts' highlighted](https://www.lifewire.com/thmb/hGdu49Zvk3-BMwVJhDJRUg3hUkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers06-ac12a6b7ae344c169bc47cddcde5b324.jpg)
 2. Tap**Import or export contacts** \>**Import** . If you have any contacts stored on your SIM card or your internal memory, you'll see those sources in the list.
 3. Select the source you want to retrieve the contacts from, then tap**Import** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![A Samsung phone user imports contacts](https://www.lifewire.com/thmb/G98RJqkST9u56OLvOkTB5WJqXOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers07-2de9758e685a4be78eabfa70e20fbcae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Can I Restore Deleted Numbers on Android Without a Computer?
 
  Using your phone or tablet is the best way to get deleted numbers back. You can restore deleted contacts you've already backed up through the methods outlined above. While some desktop apps can do the job, too, possibly even better than the built-in methods, they usually cost.

@@ -1,7 +1,7 @@
 ---
 title: How Effective Is the Data Lifeguard? An In-Depth Look at Western Digital’s Diagnostic Solution
-date: 2024-08-04 22:54:23
-updated: 2024-08-05 11:46:44
+date: 2024-08-05T01:59:15.981Z
+updated: 2024-08-06T01:59:15.981Z
 categories:
   - BestProducts
 description: This Article Describes How Effective Is the Data Lifeguard? An In-Depth Look at Western Digital’s Diagnostic Solution
@@ -19,6 +19,10 @@ Close
 
 [ Windows ](https://support-en.wd.com/app/answers/detailweb/a%5Fid/31759/~/install-western-digital-dashboard-for-drive-performance-monitoring) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ##  More About Western Digital Data LifeGuard Diagnostic 
 
  The supported operating systems for Western Digital Dashboard are[ 32-bit and 64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) versions of[ Windows 11](https://www.lifewire.com/windows-11-5188930) and[ Windows 10](https://www.lifewire.com/windows-10-2626217) .
@@ -33,6 +37,13 @@ Close
 
  Western Digital Dashboard is easier to use than the DOS version, but they can both perform the exact same functions, with the exception of the Windows version being able to view Self-Monitoring, Analysis, and Reporting Technology (SMART) information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Western Digital Dashboard for Windows](https://www.lifewire.com/thmb/FiprlkqGcrLRVZVdF0HBzAP_4jg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/western-digital-dashboard-smart-0246c6de7cc646deb6db089442de1c78.png) 
 
  The_Short Test_ option in Dashboard performs a relatively fast self-scan, while an_Extended Test_ checks the whole hard drive for bad[ sectors](https://www.lifewire.com/what-is-a-sector-2626003) .
@@ -41,6 +52,9 @@ Close
 
  You might need to[ replace the hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) if it fails any of your tests.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ##  Western Digital Data LifeGuard Diagnostic Pros & Cons 
 
  Because there's also a bootable version of Western Digital's diagnostic utility, there are some drawbacks:
@@ -57,6 +71,9 @@ Close
 * DOS version more confusing to use than Windows version.
 * Requires a WD hard drive to be installed.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Our Thoughts on Western Digital Dashboard & Data LifeGuard Diagnostic 
 
  The version for Windows is extremely easy to use and understand, clearly showing a pass or fail marker for the SMART status.

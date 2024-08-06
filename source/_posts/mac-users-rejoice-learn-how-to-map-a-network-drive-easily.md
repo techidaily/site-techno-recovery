@@ -1,7 +1,7 @@
 ---
 title: "Mac Users Rejoice: Learn How to Map a Network Drive Easily"
-date: 2024-08-03 22:46:11
-updated: 2024-08-06 11:53:43
+date: 2024-08-05T01:59:13.016Z
+updated: 2024-08-06T01:59:13.016Z
 categories:
   - BestProducts
 description: "This Article Describes Mac Users Rejoice: Learn How to Map a Network Drive Easily"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 ---
 
 ## Apple Music Continuous Playback? Learn How to Pause It Here
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * To disable autoplay in Apple Music on iPhone, open the current song and tap the**Autoplay** icon until it’s deselected.
@@ -20,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 [How to Stop Spotify From Opening on Startup on a Mac](https://www.lifewire.com/stop-spotify-from-opening-on-startup-on-a-mac-5209503)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Stop Apple Music From Automatically Playing on iPhone
 
  By default, the[iOS Music app](https://www.lifewire.com/apple-music-on-ios-4684678) will continuously play songs from the Apple Music library until told otherwise. It can be frustrating when you want to listen to a single tune or album and then go about your day.
@@ -33,13 +39,22 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 3. Tap the**Up Next** icon in the lower-right corner of the screen.  
  It’s the one that looks like three dots and lines stacked on top of each other.
 4. If Autoplay is activated, you should see an Autoplay playlist in the lower half of the screen and a highlighted Autoplay icon to the right of the song playing. Tap the**Autoplay** icon to disable it.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/5RZwYhTcpXjS0K1VBHG9SGvcj9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW10-d805952bf4c34b1bbaef6067467b8299.jpg)  
  The**Autoplay** icon is the one that looks like an infinity symbol.
 5. If done correctly, the Autoplay playlist should immediately disappear, and Apple Music will now stop automatically playing.
 6. You can now return to the app's front screen by tapping the**Up Next** icon once again and then swiping down to minimize the player.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/YoFjmsf47ULgcOPG60luN9ht2os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW11-526478ba77314060b7b3b20047261680.jpg)  
  To enable Autoplay in Apple Music, repeat these steps and make sure that the icon is highlighted and the Autoplay playlist is visible.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Tips to Stop Apple Music From Playing Automatically  
 
  Sometimes Apple Music can seem to start up automatically when connecting to a car system, a speaker, or a pair of headphones or earphones. While it’s unlikely that the cause is an official iPhone or Apple Music feature, there are still several things you may want to try to prevent this from happening.  
@@ -49,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 * **Disable Bluetooth on your iPhone** . If Apple Music keeps playing automatically every time you get into your car, the easiest way to stop it is to[turn off your iPhone or iPad’s Bluetooth](https://www.lifewire.com/how-to-turn-off-bluetooth-on-phones-4171879) to prevent a connection from being made. You may also want to turn off your[car's Bluetooth](https://www.lifewire.com/bluetooth-car-stereo-basics-534558) if you don't use it for anything else.  
 * **Is it Apple Music or Spotify?** Many smart cars and speakers have built-in[Spotify](https://www.lifewire.com/what-is-spotify-4685829) functionality. Spotify could be acting up instead of Apple Music. If your device has a display, check to see which app is playing.  
 * **Disable Handoff** . The[iPhone’s Handoff feature](https://www.lifewire.com/everything-you-need-to-know-about-handoff-4079966) continues media playback on devices once they’re detected automatically. You can customize and even disable Handoff by opening**Settings** and going to**General** \>**AirPlay & Handoff** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Settings showing path to AirPlay & Handoff](https://www.lifewire.com/thmb/-G0RK2zIvlOyL5-54T1esisg2Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-stop-apple-music-from-automatically-playing-5119158-a00b00cf58384f85a4071b2272798f2c.jpg)  
  FAQ  
 * How do I stop an Apple Music subscription?  

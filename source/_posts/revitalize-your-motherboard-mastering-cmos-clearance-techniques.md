@@ -1,7 +1,7 @@
 ---
 title: "Revitalize Your Motherboard: Mastering CMOS Clearance Techniques"
-date: 2024-08-03 19:32:51
-updated: 2024-08-06 10:36:19
+date: 2024-08-05T01:59:42.413Z
+updated: 2024-08-06T01:59:42.413Z
 categories:
   - BestProducts
 description: "This Article Describes Revitalize Your Motherboard: Mastering CMOS Clearance Techniques"
@@ -16,8 +16,14 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 
  Below are three very different ways to clear CMOS. Any one method is as good as any other but you may find one of them easier, or whatever problem you might be having may restrict you to clearing the CMOS in a particular way.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reset CMOS With the "Factory Defaults" Option
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![BIOS Setup Utility Exit Menu](https://www.lifewire.com/thmb/Y3YnU7pINU1AFn92XVUy-82gzGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BIOS-setup-8fbd8c696b4f4558862fb72a615a2484.jpg)
 
  The easiest way to clear the CMOS is to[enter the BIOS setup utility](https://www.lifewire.com/how-to-enter-bios-2624481) and choose to**Reset BIOS Settings** to their factory default levels.
@@ -30,8 +36,15 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 
  The directions linked above detail how to access your BIOS utility but don't specifically demonstrate how to clear the CMOS in your BIOS utility. It should be easy enough, however, as long as you can find that_reset_ option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Clear CMOS by Reseating the CMOS Battery
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![CMOS battery and enclosure found in many laptop and tablet computers](https://www.lifewire.com/thmb/QD_wCOm00w78lsvMQftTcHzbEqw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-tablet-cmos-battery-5995bc6822fa3a00114314c1.PNG)
 
 Dell Inc.
@@ -52,6 +65,13 @@ Dell Inc.
 
  If your computer is more than 5 years old this might be a great time to replace the battery. Eventually, these batteries do die and it's better to replace them on your own terms than have to deal with it later when you are in the middle of an important project.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Clear CMOS Using This Motherboard Jumper
 
 ![CLEAR CMOS jumper on a motherboard](https://www.lifewire.com/thmb/uF8Yoh84zstdz9s0Px4-gwXmZsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jumper-5995bd1e054ad90011a00ea5.PNG)
@@ -68,6 +88,9 @@ Dell Inc.
 
  If everything is good, turn off your computer, return the jumper to its original position, and then turn the computer back on. If you don't do this, CMOS will clear on every restart of your computer!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Clear CMOS?
 
  One reason to reset CMOS is to help troubleshoot or solve certain computer problems or hardware compatibility issues. Many times, a simple BIOS reset is all you need to get a seemingly dead PC back up and running.

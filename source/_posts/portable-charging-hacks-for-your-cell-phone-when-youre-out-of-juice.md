@@ -1,7 +1,7 @@
 ---
 title: Portable Charging Hacks for Your Cell Phone When You're Out of Juice
-date: 2024-08-04 19:20:48
-updated: 2024-08-06 12:39:48
+date: 2024-08-05T01:59:10.940Z
+updated: 2024-08-06T01:59:10.940Z
 categories:
   - BestProducts
 description: This Article Describes Portable Charging Hacks for Your Cell Phone When You're Out of Juice
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/rYKWlfJyWAdWFKXoIZAZDkDEjno=/400x300/fi
 
 [How to Get the Dell Military Discount](https://www.lifewire.com/dell-military-discount-5119182)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Sign Up for the Dell Student Discount
 
  Here's how to get set up with UNiDAYS so you can take advantage of the Dell student discount:
@@ -27,14 +30,23 @@ thumbnail: https://www.lifewire.com/thmb/rYKWlfJyWAdWFKXoIZAZDkDEjno=/400x300/fi
 1. Navigate to the[UNiDAYS website](https://www.myunidays.com/US/en-US) and select the menu icon indicated by three horizontal lines (**≡** ).  
 ![The More menu on the Dell site](https://www.lifewire.com/thmb/iRBSbijAwd_xuFqJVcVraGBYT64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-dell-student-discount-4686335-829147eb5af94f2fadcf1c028049dbfd.jpg)
 2. Select**Join now** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![The Join Now button](https://www.lifewire.com/thmb/mhaCUA5fDltGefzG805lHQiuY2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-dell-student-discount-4686335-90ee14273a1f4bbb994914b59e4f1615.jpg)
 3. Enter your email address, choose a password, then select**Join now** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of Unidays.](https://www.lifewire.com/thmb/Zld2fuMr3eQZQqJlraNVI2T_tbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays1-e239f02eff234f7ba45724f722b18638.JPG)
 4. Enter your school information, then select**Continue** .  
 ![A screenshot of the Unidays sign up process.](https://www.lifewire.com/thmb/7K0kVXrnI49EKcO66eJsPsLhrcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays2-ce804ce49a8d44f09fb00f328958f3dc.JPG)
 5. Follow the on-screen prompts to complete your verification process. If you aren't able to verify automatically, or if your school isn't listed, contact UNiDAYS to manually verify your account.  
  UNiDAYS partners with a lot of major brands, including Apple, so signing up will provide you with a lot of discounts beyond just Dell.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Your Dell Student Discount
 
  The Dell student discount uses UNiDAYS to generate single-use coupon codes. To take advantage of this, you need to use UNiDAYS to generate a code, then apply the code in your Dell shopping cart.
@@ -43,6 +55,9 @@ thumbnail: https://www.lifewire.com/thmb/rYKWlfJyWAdWFKXoIZAZDkDEjno=/400x300/fi
 
 1. Navigate to the UNiDAYS website, locate a Dell offer, and select**Redeem Online** .  
  If you don't see a Dell deal, try entering Dell into the search field.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Redeem Online button](https://www.lifewire.com/thmb/Vow8xBAfY4hXPmMBojDj2t4Mn20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-dell-student-discount-4686335-e43e1b733ce347fbb0eb56898de05ad5.jpg)
 2. Select**Redeem Code** .  
 ![A screenshot of the Unidays Dell discount.](https://www.lifewire.com/thmb/dukIQ5HI1HxABy3YO6Hr7yFb-jQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidaysdell2-3baec4ecbd1249e881c3d8761fda43d1.jpg)
@@ -52,6 +67,9 @@ thumbnail: https://www.lifewire.com/thmb/rYKWlfJyWAdWFKXoIZAZDkDEjno=/400x300/fi
 4. On the Dell website, locate a laptop or desktop that you want to buy. When you reach the checkout page, enter your coupon code and verify your discount.  
  If the discount doesn't apply, try generating a new code. If that doesn't work, contact UNiDAYS for additional support.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who is Eligible For the Dell Student Discount?
 
  UNiDAYS has a couple of requirements that you need to meet if you want to take advantage of their Dell student discount codes. To qualify for this discount, you must be:

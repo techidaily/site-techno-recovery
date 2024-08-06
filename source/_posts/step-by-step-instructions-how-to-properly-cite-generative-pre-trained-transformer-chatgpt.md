@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: How to Properly Cite Generative Pre-Trained Transformer (ChatGPT)"
-date: 2024-08-04 15:49:33
-updated: 2024-08-05 12:28:21
+date: 2024-08-05T01:59:31.398Z
+updated: 2024-08-06T01:59:31.398Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Instructions: How to Properly Cite Generative Pre-Trained Transformer (ChatGPT)"
@@ -20,8 +20,19 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
 of 09
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Duolingo](https://www.duolingo.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![French to English question on Duolingo ](https://www.lifewire.com/thmb/zVo694n9zb4iakeebKxxNmCcWJY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duolingo-7cd8ccfed52b425aa098f2ec2bb9f9d6.png)
 
  What We Like
@@ -111,6 +122,10 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## [StudyStack](https://www.studystack.com/Languages)
 
 ![StudyStack Kazakh language learning flashcards](https://www.lifewire.com/thmb/r3Flgq3_9nYQG2CHSelmZfZac9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/studystack-kazakh-flashcards-824ce43a596749ba86a4691b64aae137.png)
@@ -136,6 +151,9 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [123TeachMe](https://www.123teachme.com/)
 
 ![123 Teach Me Spanish lessons for work](https://www.lifewire.com/thmb/EOA6d6D6lu-JlmXCDrz4sdwjZ4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123-teach-me-spanish-lessons-42f28b242cf0445db745d76528e8fe63.png)
@@ -168,6 +186,9 @@ of 09
 
 ## [Mango Languages](https://mangolanguages.com/libraries/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mango Languages Irish lesson](https://www.lifewire.com/thmb/GMJQXhwrtgMV-fX8tYWki-NylB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mango-languages-learn-irish-64fa0a50f5e74f8890e288ee61875b8a.png)
 
  What We Like
@@ -220,8 +241,14 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [LearnALanguage.com](https://www.learnalanguage.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![learnalanguage options](https://www.lifewire.com/thmb/cIoZT0R5D-qf8EFyzsJL_7YeZMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/learnalanguage-8b3ef3cadcbb48198b1b0554ab06f9b6.png)
 
  What We Like
@@ -247,8 +274,14 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Global%20Languages&s=department%5Fcourse%5Fnumbers.sort%5Fcoursenum)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MIT OpenCourseWare Chinese language learning lessons](https://www.lifewire.com/thmb/1VIFfqh6uBPyhYGR2uICnmwq6fQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mitopencourseware-0fec61fb314f4ab895bcbb79a1ac119e.png)
 
  What We Like

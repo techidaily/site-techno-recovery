@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving the PHASE0_EXCEPTION - Stop Error 0X00000078"
-date: 2024-08-05 13:21:41
-updated: 2024-08-06 10:40:50
+date: 2024-08-05T01:59:27.104Z
+updated: 2024-08-06T01:59:27.104Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Resolving the PHASE0_EXCEPTION - Stop Error 0X00000078"
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
  If STOP 0x00000078 isn't the exact STOP code you're seeing or PHASE0\_EXCEPTION isn't the exact message, check the[List of Blue Screen Error Codes](https://www.lifewire.com/blue-screen-error-codes-4065576) and reference the troubleshooting information for the message you're seeing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Fix the STOP 0x00000078 Errors
 
  This STOP code is rare, so there's little troubleshooting information available that's specific to it. However, since most STOP errors have similar causes, there are some basic troubleshooting steps to help fix these issues.  
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
 [How to Fix a Computer That Won't Turn On](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Causes of the STOP 0x00000078 Errors
 
  STOP 0x00000078 errors are likely caused by[hardware](https://www.lifewire.com/computer-hardware-2625895) or[device driver](https://www.lifewire.com/what-is-a-device-driver-2625796) issues. The STOP 0x00000078 error will always appear on a[STOP message](https://www.lifewire.com/blue-screen-of-death-bsod-2625816) , more commonly called a Blue Screen of Death (BSOD).  

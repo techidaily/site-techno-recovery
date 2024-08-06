@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Custom Fonts on Your iPhone"
-date: 2024-08-05 21:17:49
-updated: 2024-08-06 11:18:53
+date: 2024-08-05T01:59:13.857Z
+updated: 2024-08-06T01:59:13.857Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Installing Custom Fonts on Your iPhone"
@@ -27,14 +27,27 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 1. Navigate to the[UNiDAYS website](https://www.myunidays.com/US/en-US) and select the menu icon indicated by three horizontal lines (**≡** ).  
 ![The More menu on the Dell site](https://www.lifewire.com/thmb/iRBSbijAwd_xuFqJVcVraGBYT64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-dell-student-discount-4686335-829147eb5af94f2fadcf1c028049dbfd.jpg)
 2. Select**Join now** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![The Join Now button](https://www.lifewire.com/thmb/mhaCUA5fDltGefzG805lHQiuY2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-dell-student-discount-4686335-90ee14273a1f4bbb994914b59e4f1615.jpg)
 3. Enter your email address, choose a password, then select**Join now** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![A screenshot of Unidays.](https://www.lifewire.com/thmb/Zld2fuMr3eQZQqJlraNVI2T_tbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays1-e239f02eff234f7ba45724f722b18638.JPG)
 4. Enter your school information, then select**Continue** .  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of the Unidays sign up process.](https://www.lifewire.com/thmb/7K0kVXrnI49EKcO66eJsPsLhrcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays2-ce804ce49a8d44f09fb00f328958f3dc.JPG)
 5. Follow the on-screen prompts to complete your verification process. If you aren't able to verify automatically, or if your school isn't listed, contact UNiDAYS to manually verify your account.  
  UNiDAYS partners with a lot of major brands, including Apple, so signing up will provide you with a lot of discounts beyond just Dell.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Your Dell Student Discount
 
  The Dell student discount uses UNiDAYS to generate single-use coupon codes. To take advantage of this, you need to use UNiDAYS to generate a code, then apply the code in your Dell shopping cart.
@@ -48,10 +61,16 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 ![A screenshot of the Unidays Dell discount.](https://www.lifewire.com/thmb/dukIQ5HI1HxABy3YO6Hr7yFb-jQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidaysdell2-3baec4ecbd1249e881c3d8761fda43d1.jpg)
 3. Copy your code, and select**Launch Website** .  
  This code only works once, and it expires after a short amount of time.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![The code field and Launch Website button](https://www.lifewire.com/thmb/4fBRfT7u0MHWjuei9jQVA_cB9UQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-dell-student-discount-4686335-540f566a5b1745848e8b2b86662e3959.jpg)
 4. On the Dell website, locate a laptop or desktop that you want to buy. When you reach the checkout page, enter your coupon code and verify your discount.  
  If the discount doesn't apply, try generating a new code. If that doesn't work, contact UNiDAYS for additional support.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who is Eligible For the Dell Student Discount?
 
  UNiDAYS has a couple of requirements that you need to meet if you want to take advantage of their Dell student discount codes. To qualify for this discount, you must be:

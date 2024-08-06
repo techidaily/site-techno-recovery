@@ -1,7 +1,7 @@
 ---
 title: "Twitch Outage: Checking Server Status or Personal Connection?"
-date: 2024-08-05 18:39:13
-updated: 2024-08-06 10:27:22
+date: 2024-08-05T01:59:39.158Z
+updated: 2024-08-06T01:59:39.158Z
 categories:
   - BestProducts
 description: "This Article Describes Twitch Outage: Checking Server Status or Personal Connection?"
@@ -56,8 +56,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## [Creative Note-Taking for the Apple Fan: Notability](https://notability.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![GingerLabs Notability website](https://www.lifewire.com/thmb/thNiSXfw8G3iysBhc2IHZBZv7KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.02.40PM-58f28ac55f9b582c4d5c1cbf.png)
 
  What We Like
@@ -88,6 +94,15 @@ of 10
 
 ## [Use Cards to Make Note-Taking Fun and Colorful: Google Keep](https://www.google.com/keep/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Google Keep website](https://www.lifewire.com/thmb/ztU4ICqf971rpM5HCwySkDaAI1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.16.47PM-58ee7d993df78cd3fc52e00a.png)
 
  What We Like
@@ -125,6 +140,9 @@ of 10
 
 ## [Build on the Power of Microsoft Apps: OneNote](https://www.onenote.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OneNote website](https://www.lifewire.com/thmb/xpLJA58kh0a8DmchVzkQwbWvgBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.38.09PM-58ee827d3df78cd3fc5f8576.png)
 
  What We Like
@@ -161,6 +179,9 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Note-Taking for the Minimalist: Simplenote](https://simplenote.com/)
 
 ![Simplenote website](https://www.lifewire.com/thmb/_9N5RUSjHN_SraN7hIAJ7L4x_yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.02.14PM-58ee79ed5f9b582c4dd97d0a.png)
@@ -197,8 +218,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## [A Stunningly Visual Note-Taking Experience: Zoho Notebook](https://www.zoho.com/notebook/)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Zoho.com Notebook website](https://www.lifewire.com/thmb/i99lX_6eh9Cpzoh3YeJ4FdYCpa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.17.45PM-58f28e545f9b582c4d61fae6.png)
 
 ​
@@ -234,6 +261,9 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [A Collaborative Note-Taking App for Your Whole Team: Dropbox Paper](https://www.dropbox.com/paper/start)
 
 ![Dropbox Paper website](https://www.lifewire.com/thmb/3Y9VYshyhwfzEAhYUQo6qfLW-v8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-17at9.13.18PM-58f5693f5f9b581d59046520.png)
@@ -269,6 +299,9 @@ of 10
 
 ## [Best App for Taking Digital Handwritten Notes: Squid](https://www.squidnotes.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![SquidNotes website](https://www.lifewire.com/thmb/elX17TRYlBrhykILBHZdUnmrAzY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-18at3.28.23PM-58f669393df78ca159210743.png)
 
  What We Like
@@ -298,6 +331,9 @@ of 10
 
 ## [Most Flexible Note-Taking App: Bear](https://bear.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bear-Writer website](https://www.lifewire.com/thmb/HfqVhGO6cwI3Ri8C9uk733BRr7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at2.04.58PM-58ee6cad3df78cd3fc28aae8.png)
 
  What We Like

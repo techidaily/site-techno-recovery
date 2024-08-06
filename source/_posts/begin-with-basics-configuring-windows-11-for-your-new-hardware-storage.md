@@ -1,7 +1,7 @@
 ---
 title: "Begin with Basics: Configuring Windows 11 for Your New Hardware Storage"
-date: 2024-08-02 13:18:40
-updated: 2024-08-05 10:15:46
+date: 2024-08-05T01:59:40.964Z
+updated: 2024-08-06T01:59:40.964Z
 categories:
   - BestProducts
 description: "This Article Describes Begin with Basics: Configuring Windows 11 for Your New Hardware Storage"
@@ -20,12 +20,18 @@ _If you click on links we provide, we may receive compensation._
 
  Some of these are huge courses with many units to teach you the complete sign language, and others are smaller that will just teach you the basics. Whatever class you choose, you'll have a great time building up your skills.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### American Sign Language University's Free Sign Language Classes
 
  There are plenty of great resources available from American Sign Language University (ASLU). On top of the 60 lessons, dictionary search, and numbers guide, you can find a fingerspelling practice tool, quizzes, and several word search puzzles, among other things.
 
  You'll find many videos on sign language here, and the lessons are in order of difficulty, so you can progressively learn to sign like you would with any other language.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![American Sign Language University home page](https://www.lifewire.com/thmb/MbyvJ8pc2SNxySxyCAAZ7MPY6Dg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asl-lifeprint-e4a6466dac7c4ede9439817885d46cf5.png)
 
  Be sure to check out the[First 100 Signs](https://www.lifeprint.com/asl101/pages-layout/concepts.htm) videos for a great introduction to common signs used between parents and younger children. There are also some sentences you can practice using the signs you learned from the videos.
@@ -46,6 +52,9 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit Sign Language 101](https://www.signlanguage101.com/free-lessons/asl-level-1)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Start ASL's Free Sign Language Classes
 
 ![Start ASL free lessons page](https://www.lifewire.com/thmb/oP-pQ_FCTUxYp5xiI_v2LEhcflg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/startasl-free-lessons-efe7d14312034b7491d29b549bc26468.png)
@@ -68,6 +77,9 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit ASL Connect](https://gallaudet.edu/asl-connect/topics/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### SignSchool
 
 ![SignSchool ](https://www.lifewire.com/thmb/ft580gMAjRqg3I-Rrj3Az29_9gk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/signschool-f8c1e95018da49a7b94d28cac6470349.png)
@@ -80,10 +92,16 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit SignSchool](https://www.signschool.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Free Sign Language Learning Apps
 
  Apps are available for mobile devices that let you learn sign language anywhere, a benefit if you don't use a computer often or if you like to squeeze in some courses on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### The ASL App
 
 ![The ASL App on Android](https://www.lifewire.com/thmb/UD13c1fqTbfIeHrRS5iuAwwe3Bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-asl-app-android-e6b51ca3ce1249bfa82ab1d271e1e6a1.png)
@@ -100,14 +118,23 @@ _If you click on links we provide, we may receive compensation._
 
 ### Teachers Paradise ASL Fingerspelling Game For Android
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ASL American Sign Language Fingerspelling Game on Android](https://www.lifewire.com/thmb/kOb7gsNW2nTfZRHuDkl4qJ9q0JE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asl-fingerspelling-alphabet-android-8ce6caef2d2a452da0abe11edb61056a.png)
 
  Flip through this game to see how to sign every letter of the alphabet using pictures. You can start from A and move through to Z, or you can get random letters to mix it up a little. There are over 140 flashcards to review in this app, plus dozens of other activities.
 
 [Download ASL American Sign Language](https://play.google.com/store/apps/details?id=com.teachersparadise.aslamericansignlanguage)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Marlee Signs for iOS
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Marlee Signs iPhone app](https://www.lifewire.com/thmb/kN9d-f10xRdExwwsBkk-UZGIZP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/marlee-signs-iphone-67131d891bd642cea45b2fe49bf881a5.png)
 
  This video-based app shows you how to sign any word, letter-by-letter. There's also a library of conversation starters, numbers, letters, and other common words.
@@ -118,6 +145,10 @@ _If you click on links we provide, we may receive compensation._
 
 ## Printable Sign Language Charts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Sign language letters and numbers](https://www.lifewire.com/thmb/3F4ZkvdgO6Xxhrfp-TxQ4GlUcHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sign-language-numbers-letters-lifeprint-7e6dac833d4e44deb202b7b269cdd7e6.png)
 
  Printable sign language charts are good for instant reference. Put a few in your pocket, place them around the house, or spend some time memorizing them to learn offline.

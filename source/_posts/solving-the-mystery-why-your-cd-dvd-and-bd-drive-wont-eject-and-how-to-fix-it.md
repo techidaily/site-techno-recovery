@@ -1,7 +1,7 @@
 ---
 title: "Solving the Mystery: Why Your CD, DVD & BD Drive Won’t Eject and How to Fix It"
-date: 2024-08-02 18:45:17
-updated: 2024-08-05 10:37:29
+date: 2024-08-05T01:59:12.786Z
+updated: 2024-08-06T01:59:12.786Z
 categories:
   - BestProducts
 description: "This Article Describes Solving the Mystery: Why Your CD, DVD & BD Drive Won’t Eject and How to Fix It"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
  We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your[operating system](https://www.lifewire.com/operating-systems-2625912) to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 2. Once open, navigate to the optical drive from the menu on the left. This drive is often auto-named based on what disc is inside the drive but there's usually a small disc icon to help identify it.  
  If you have trouble finding it, look for_This PC_ on the left in Windows 11, 10, or 8, or_Computer_ in earlier versions. Select the icon to the left to expand this if it's collapsed.
 3. Right-click or tap-and-hold the optical drive and choose**Eject** from the menu that pops open.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
@@ -34,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
  It sounds strange, yes, but most computer optical drives, including external ones and those you'll find in your game systems like Xbox and PlayStation, have a tiny pinhole that's designed as a last resort method to get the drive bay open.
@@ -53,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -62,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 * [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) and try again.
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 
  There are a few reasons why a CD or DVD doesn’t eject. A loss of power either from your laptop/desktop or the power to the drive itself. This can include a faulty or damaged power cable to your optical drive.

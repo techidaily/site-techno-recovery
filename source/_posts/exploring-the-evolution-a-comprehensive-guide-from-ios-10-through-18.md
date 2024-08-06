@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Evolution: A Comprehensive Guide From iOS 1.0 Through 18."
-date: 2024-08-03 22:12:36
-updated: 2024-08-05 11:38:14
+date: 2024-08-05T01:59:16.025Z
+updated: 2024-08-06T01:59:16.025Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Evolution: A Comprehensive Guide From iOS 1.0 Through 18."
@@ -43,6 +43,10 @@ Close
 
 [ Should I Upgrade to iOS 17? ](https://www.lifewire.com/should-i-upgrade-to-ios-17-8546791) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## iOS 16 
 
  iOS 16 was announced at 2022's WWDC in June. It rolled out to consumers in Fall 2022.
@@ -53,6 +57,9 @@ Close
 
 ## iOS 15 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshots of iOS 15](https://www.lifewire.com/thmb/ykVCd1DMEVQorsAL-MaaXk3mC3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple_iPhone12Pro-iOS15-3up_060721-1f8dd95d23364d638c00788b9360724f.jpg) 
 
 Apple Inc.
@@ -126,8 +133,14 @@ Apple
 
 * None. iOS 14 supports the same set of devices as iOS 13
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ iOS 13](https://www.lifewire.com/ios-13-4586609) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An array of iOS 13 screenshots on iPhones](https://www.lifewire.com/thmb/09vYI34mTgNoQ3N2N-Bn09JecpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-13-ed889386f01841408610f9362b47ba25.jpg) 
 
 Apple Inc.
@@ -159,6 +172,9 @@ Apple Inc.
 
 ## [ iOS 12](https://www.lifewire.com/ios-12-4169622) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Features of iOS 12](https://www.lifewire.com/thmb/1Q9BifOc0NdTPjfkWg7grW3i_XM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-12-5b1c0c993418c60036b4faa0.jpg) 
 
 Apple Inc.
@@ -214,6 +230,9 @@ Apple Inc.
 
 ## [ iOS 10](https://www.lifewire.com/what-devices-compatible-ios-10-4053167) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Promo material for iOS 10](https://www.lifewire.com/thmb/z0aT2Ca68KrhjYRraX2WhogEgy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-10-575f1faf3df78c98dc4256c1.jpg) 
 
  Apple Inc.
@@ -242,8 +261,15 @@ Apple Inc.
 * iPad 2
 * 1st gen. iPad mini
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## [ iOS 9](https://www.lifewire.com/devices-compatibility-ios-9-1999748) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Screenshots of Apple Maps](https://www.lifewire.com/thmb/dWh60jzQRA2AOcGfOil5hyKG5po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS9_apps-5728cddf5f9b589e34bfb973.jpg) 
 
 Apple, Inc. 
@@ -327,8 +353,14 @@ Corbis News / Getty Images
 * iPhone 3GS
 * ​iPhone 4, iPhone 4S, 3rd gen. iPad, and iPad 2 couldn't use all features of iOS 7
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iOS 6 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Screenshot of iOS 6](https://www.lifewire.com/thmb/SD_9xRCw9TcGf31icSpQQ5LQkQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-6-598c7e60b501e80012fa1a48.jpg) 
 
 marco\_1186 / Flickr
@@ -353,8 +385,15 @@ marco\_1186 / Flickr
 
 * ​None, but iPhone 3GS, iPhone 4, and iPad 2 couldn't use all features of iOS 6
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ iOS 5](https://www.lifewire.com/compare-iphone-models-1999430) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![iOS 5 on an iPhone 4](https://www.lifewire.com/thmb/ia0igBXlOLO94d82mylEVUQiHzk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-4S-597fa2c268e1a20011b02463.jpg) 
 
 Francis Dean / Getty Images
@@ -415,6 +454,9 @@ Ramin Talaie / Getty Images
 
 ## iOS 3 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone 3GS in the box](https://www.lifewire.com/thmb/315GtEY4darI4H7pYOII3SIsxI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3GS-598884eb0d327a00113cd98f.jpg) 
 
 Justin Sullivan / Getty Images News
@@ -433,6 +475,9 @@ Justin Sullivan / Getty Images News
 * [ Spotlight​ search​](https://www.lifewire.com/spotlight-search-definition-1994352)
 * [ Recording videos](https://www.lifewire.com/how-much-video-can-iphone-record-2000304)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iOS 2 
 
 ![iPhone 3G in an Apple Store](https://www.lifewire.com/thmb/e7btg9umq1lis3_Un_1HBtbg3qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3G-598c809baf5d3a0011e1cfd7.jpg) 
@@ -456,6 +501,9 @@ Jason Kempin / Getty Images
 
 ## iOS 1 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Original iPhone](https://www.lifewire.com/thmb/cIRcqbxNRi2yVJtxV2sQGKdY3qg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/original-iphone-598c81a1396e5a001026cc8b.jpg) 
 
 Apple Inc.

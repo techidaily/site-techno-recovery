@@ -1,7 +1,7 @@
 ---
 title: Easy Methods for Taking Screen Grabs While Playing PS4 Games
-date: 2024-08-04 17:12:31
-updated: 2024-08-06 11:46:14
+date: 2024-08-05T01:59:15.911Z
+updated: 2024-08-06T01:59:15.911Z
 categories:
   - BestProducts
 description: This Article Describes Easy Methods for Taking Screen Grabs While Playing PS4 Games
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/v91UjC4fsKqSMpfGYrgi9fCw4Wc=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * The quickest option: Press the Share button on your PlayStation 4 controller for one second to take a screenshot.
@@ -20,6 +23,9 @@ Close
 
  This article covers how to take a screenshot on your PS4, where to find those screenshots, and how to share your screenshots on X.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ##  How to Save a Screenshot to the PS4 
 
  This will save a screenshot to your PS4\. You can view it on the PlayStation 4 or transfer it to a USB storage device.
@@ -34,6 +40,9 @@ Close
 ![PlayStation 4 Capture Gallery open with All folder selected.](https://www.lifewire.com/thmb/n0xp5zvi4vN_7n-_f4oakfxjtM0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ScreenshotonPS4-annotated-ae5bdd84a49147e5890789ab8aef0311.jpg)
 5. While it’s nice to view a screenshot in the Capture Gallery, you likely want to move or share it.  
  To do that, select the screenshot in the**Capture Gallery** and press the**Options** button on the PlayStation 4 controller. This opens a menu on the right-hand side. Make sure you have a USB storage device connected to one of the PlayStation 4’s[ USB ports](https://www.lifewire.com/what-is-a-usb-port-818166) , then select**Copy to USB storage device** .  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![PlayStation 4 Capture Gallery with option menu open, Copy to USB Storage Device selected.](https://www.lifewire.com/thmb/jnGosDMQbmlWzAn2GW7mBXX0kzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ScreenshotonPS4-annotated-3f232473d63d47259900bfeb8a70d3c6.jpg)
 6. The list of screenshots will now include checkboxes, with the screenshot you previously selected already checked. Select**Ok** .
 7. A prompt will appear to tell you the folder directory where the screenshot will be saved. Select**Ok** and relax while the screenshot transfers.  
@@ -41,10 +50,16 @@ Close
 
 [ Can You Play PS4 Games on the PS5? ](https://www.lifewire.com/backwards-compatibility-ps5-5084149) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Where to Find Older Screenshots 
 
  If you’re looking for an older screenshot, navigate to the folder corresponding to the game in which you took the screenshot, as you'll no longer have to wade through screenshots from every game.  
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Share a Screenshot Directly to X 
 
  The prior steps cover the quickest way to take a screenshot on PS4, but not the quickest way to share a screenshot or move a screenshot to another device.
@@ -59,6 +74,9 @@ Close
 3. You’ll now face a choice of the social media platform on which you’d like to share the screenshot. The only compatible social media platform for screenshots is**X** , so select that.  
 ![PlayStation 4 Share Screenshot menu open with Twitter selected.](https://www.lifewire.com/thmb/_A-3Ahr76efuT6-8kIYRCZ3GJmI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-ScreenshotonPS4-annotated-ddfe04138c1f4a37b7683c8fa5cb0426.jpg)
 4. You'll now be able to[ fill in the details of your Tweet](https://www.lifewire.com/tutorial-intro-to-using-twitter-2654622) . Once you’re finished, select**Share** . You’ll soon see the Tweet, with screenshot attached, appear on X.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![PlayStation 4 Share Screenshot open to share a Tweet on Twitter.](https://www.lifewire.com/thmb/cl-z4j1rz5GYdGnxi_dQHCKBX1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-ScreenshotonPS4-annotated-5e4432cd0ed84941bfa961be4e9e88bf.jpg)
 
 [ How to Record Gameplay on PS4 ](https://www.lifewire.com/record-gameplay-on-ps4-5074215) 

@@ -1,7 +1,7 @@
 ---
 title: Expert Fixes for When Your iPhone's Camera Can't Auto-Focus Properly
-date: 2024-08-05 11:25:54
-updated: 2024-08-06 10:20:46
+date: 2024-08-05T01:59:26.673Z
+updated: 2024-08-06T01:59:26.673Z
 categories:
   - BestProducts
 description: This Article Describes Expert Fixes for When Your iPhone's Camera Can't Auto-Focus Properly
@@ -17,6 +17,9 @@ Close
 
 Information in this article applies to iPhone 6 and later.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Reasons Why Your iPhone Camera Won't Focus 
 
  While a misbehaving iPhone camera can cause panic, there are often innocent explanations for why it's not focusing. Common culprits include:
@@ -28,6 +31,14 @@ Information in this article applies to iPhone 6 and later.
 
  Usually, the cause of the problem is revealed through its corresponding fix.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  How to Fix an iPhone Camera That Won't Focus 
 
  Follow these steps in the order listed to identify and fix an iPhone camera that's not focusing.
@@ -39,6 +50,9 @@ Information in this article applies to iPhone 6 and later.
 3. [ Set the focus point](https://www.lifewire.com/improve-iphone-photography-4685783) . With the Camera app open, tap the object you're trying to photograph. It could be a person's face, a flower, or another subject. By tapping it, you tell the iPhone what element you want it to focus on.  
  Increase or decrease brightness by using the sliding exposure bar that appears next to the focus area.
 4. [ Turn off AE/AF Lock](https://www.lifewire.com/what-is-af-lock-492613) . AE/AF stands for Auto Exposure and Auto Focus. When this setting is locked, the iPhone camera keeps the targeted part of the shot in focus. To use this feature, frame the image, then press and hold the part of the shot where you want the camera to focus.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The AE/AF Lock mode enabled and disabled in the iOS Camera app](https://www.lifewire.com/thmb/Pz0Xoj-Kqyi_X8mz-8cQfz9s_oE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_iphone-camera-wont-focus-4177598-d878c9952ca44a76a31b9995883c6a65.jpg)  
  The camera keeps the object in focus even if something else enters the shot later. To turn it off, tap the screen.
 5. [ Practice good photography](https://www.lifewire.com/how-to-use-iphone-camera-1999752) . Sometimes, focusing issues arise because of the way you use the iPhone camera. Avoid taking photos of subjects that are too close to the iPhone. Also, don't change the distance from the subject, move around, or shake the phone. These actions make it hard for the iPhone camera to focus properly.
