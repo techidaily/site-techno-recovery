@@ -1,0 +1,151 @@
+---
+title: The Ultimate How-To on Reviving a Disabled Snapchat Username
+date: 2024-08-12T02:17:25.292Z
+updated: 2024-08-13T02:17:25.292Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate How-To on Reviving a Disabled Snapchat Username
+excerpt: This Article Describes The Ultimate How-To on Reviving a Disabled Snapchat Username
+thumbnail: https://www.lifewire.com/thmb/veSfx1DbAenjWAEjHNylp9cA02o=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/thought-catalog-xVRdDDe6M1A-unsplash-a8669904691c4dcf8a3cd78e8d7e2b77.jpg
+---
+
+## IPhone Users' Ultimate How-To: Jumping Into Shared Photo Collections with Ease
+### What to Know
+
+* To accept a shared album invitation, tap notification >**For You** \>**Accept** .
+* To leave a shared album, go to**Photos** \>**For You** \> album > person icon >**Unsubscribe** \>**Unsubscribe** .
+
+ This article explains how to accept a shared album invitation on the iPhone. You can create shared albums yourself, but to enjoy those created by other people, you have to accept an invitation.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+## How to Accept a Shared Album Invitation on iPhone
+
+ Ready to accept an invitation to join a shared[photo album on iPhone](https://www.lifewire.com/iphone-photo-albums-4103845) ? Follow these steps:
+
+ You need to have Shared Albums enabled from**Settings** \>**Photos** \>**Shared** **Albums** to accept invitations.
+
+1. After the owner of the album sends you the invitation, a notification should appear on your screen or in[Notification Center](https://www.lifewire.com/notification-center-iphone-1999192) . Once it does, tap it.
+2. If the notification doesn't appear, tap the**Photos** app.  
+ Depending on your notification settings, you may see a badge on the Photos app icon when there's a pending invitation.
+3. If you're not taken to it right away, tap**For You** .
+4. The shared album invitation details appear on this screen. Tap**Accept** to join the album.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+![iPhone with photo album notification, badge, and accept highlighted](https://www.lifewire.com/thmb/5FOEsgyOhpxg5kgqG3RIx3-3-uM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Accept-b061220ac8b84f79b2192c518b8eb653.jpg)
+5. The shared album is added to the top of the screen. Tap the name of the album to view its photos.
+6. All of the photos in the album are displayed here. Depending on the settings of the album, you may be able to add your own photos to it by tapping the**\+ (Plus)** sign.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![iPhone Shared Album with album name and "add" highlighted](https://www.lifewire.com/thmb/JdOT4mhtqybWV8lem-ocSCTWK8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharedalbums-e918328c14cb40f381fe193804936cf1.jpg)
+
+ Once you've accepted a share album invitation, you can control how you see the photos in the album. Tap**...** and the menu gives you options including**Sort** ,**Filter** (to see only photos or videos), to see where all photos were taken on a map, or to play the photos as a slideshow, among other choices.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Leave a Shared Photo Album on iPhone
+
+ If you've decided you no longer want to be part of a shared album, you can leave the album by following these steps:
+
+1. Tap**Photos** .
+2. Tap**For You** .
+3. Tap the album you want to leave.
+4. Tap the person icon (or**...** \>**Shared Album Details** ).  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+![iPhone with Photos app, For You, and person icon highlighted](https://www.lifewire.com/thmb/cT_4U_RW7AO6FB8dxe9PvcX_pfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Foryou-32ab9b28b3c24c4fa7cf4fb5d8f8f897.jpg)
+5. Tap**Unsubscribe** .
+6. In the confirmation pop-up, tap**Unsubscribe** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+![iPhone shared photo album with Unsubscribe highlighted on two screens](https://www.lifewire.com/thmb/GjQTXPTilhfLwbtE3_8BtmCqsLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unsubscribe-d3016b5886984a38bbf0675d85e4d0ba.jpg)
+
+ Don't want to leave a shared album, but annoyed by notifications when new photos or other changes are made? You can turn off notifications for an album by going to the album > person icon > moving the**Notifications** slider to**off/white** .
+
+[How to Share an Album on iPhone](https://www.lifewire.com/share-album-on-iphone-6832807)
+
+ FAQ
+
+* How do I create a shared album on iPhone?  
+ To create a shared album on iPhone, you must first go to**Settings** \>**Apple ID** \>**iCloud** \>**Photos** and enable**Shared Albums** . Then, in**Photos** , go to the**Album** tab and tap**\+ (Plus)** \>**New Album** . Name the album, choose the contacts you want to share with, and tap**Create** .
+* How do I save shared photos to an album on iPhone?  
+ To save shared photos to your iPhone, select the photo and tap the**Share** icon >**Save Image** . You can also choose to use the image as wallpaper, share it with someone else, or print it.
+* How do I delete a shared album on iPhone?  
+ Only owners can delete a shared album on iPhone. Open the album and tap the**person icon** \>**Delete Shared Album** . The album will also be removed from your other devices. All photos will be permanently deleted, so ensure you save any photos you want.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-upside-down-visuals-instagrams-guide-to-flipping-and-sharing-videos/"><u>[New] 2024 Approved  Upside Down Visuals  Instagram's Guide to Flipping & Sharing Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-concurrent-display-registration/"><u>[New] In 2024, Concurrent Display Registration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-snippet-creator/"><u>[New] Video Snippet Creator</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-freely-capture-perfection-the-leading-10-high-quality-recorders/"><u>[Updated] 2024 Approved  Freely Capture Perfection  The Leading 10 High-Quality Recorders</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unleashing-sound-in-social-video-sharing-platforms/"><u>[Updated] 2024 Approved  Unleashing Sound in Social Video Sharing Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-global-leaders-in-real-time-gaming-streams/"><u>[Updated] Global Leaders in Real-Time Gaming Streams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-comprehensive-review-of-tunefab-recorders/"><u>[Updated] In 2024, A Comprehensive Review of Tunefab Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-pursuit-of-perfection-highest-rated-phones-for-smooth-videos/"><u>[Updated] In Pursuit of Perfection  Highest Rated Phones for Smooth Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-science-of-luts-elevating-photo-aesthetics/"><u>2024 Approved  The Science of LUTs  Elevating Photo Aesthetics</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-prime-day-2024-your-ultimate-guide-insights-and-tips/"><u>Amazon Prime Day 2024: Your Ultimate Guide - Insights & Tips!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beatfinder-tools-tune-in-to-online-freshness/"><u>Beatfinder Tools  Tune in to Online Freshness</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/deciphering-adsense-profits-on-youtube-revenue-per-kv-watched/"><u>Deciphering AdSense Profits on YouTube  Revenue per KV Watched</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-lg-channels-crucial-points-everyone-should-know-about/"><u>Demystifying LG Channels: Crucial Points Everyone Should Know About</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-correcting-a-persistent-5n-gateway-timed-out-error-best-practices/"><u>Diagnosing and Correcting a Persistent 5N Gateway Timed Out Error: Best Practices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-new-features-in-thunderbird-version-52-by-mozilla/"><u>Discover New Features in Thunderbird Version 52 by Mozilla</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-methods-to-restore-the-sparkle-cleaning-guide-for-modern-tv-displays/"><u>DIY Methods to Restore the Sparkle: Cleaning Guide for Modern TV Displays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-for-linking-disneyplus-to-your-chromecast-device/"><u>Easy Methods for Linking Disney+ to Your Chromecast Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-konica-minolta-print-driver-software-compatible-with-multiple-windows-os/"><u>Essential Konica Minolta Print Driver Software: Compatible with Multiple Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-removing-a-device-from-your-google-assistant-ecosystem/"><u>Expert Advice: Removing a Device From Your Google Assistant Ecosystem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-easily-syncing-your-logitech-mouse/"><u>Expert Tips on Easily Syncing Your Logitech Mouse</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-chatgpt-the-future-of-conversational-ai-unveiled/"><u>Exploring ChatGPT: The Future of Conversational AI Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-broken-search-button-in-windows-10-a-step-by-step-guide/"><u>Fixing the Broken Search Button in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-yahoo-mail-delivery-problems-steps-to-get-your-missing-emails-back/"><u>Fixing Yahoo Mail Delivery Problems: Steps to Get Your Missing Emails Back</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-discreetly-monitor-location-information-on-an-iphone/"><u>How to Discreetly Monitor Location Information on an iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-x5-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from X5 Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-creativity-with-these-top-17-graphic-design-applications/"><u>Mastering Creativity with These Top 17 Graphic Design Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-microsoft-teams-with-ai-a-guide-to-leveraging-github-copilot/"><u>Mastering Microsoft Teams with AI: A Guide to Leveraging GitHub Copilot</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oneplus-ace-2v-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your OnePlus Ace 2V Phone Now with These Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revamping-your-smart-tv-experience-customize-chromecast-with-new-wallpapers/"><u>Revamping Your Smart TV Experience: Customize Chromecast with New Wallpapers!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-z-fold-6-unveiled-find-out-the-costs-launch-timeline-and-essential-features/"><u>Samsung Galaxy Z Fold 6 Unveiled: Find Out the Costs, Launch Timeline & Essential Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-haldll-missing-file-issue-on-windows-xp-a-comprehensive-guide/"><u>Solving the Hal.dll Missing File Issue on Windows XP - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-bypassing-your-ipads-security-without-the-original-password/"><u>Step-by-Step Guide: Bypassing Your iPad's Security without the Original Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722865256300-the-comprehensive-strategy-for-broadcasting-spoken-messages-on-apple-devices/"><u>The Comprehensive Strategy for Broadcasting Spoken Messages on Apple Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-using-gifs-in-instagram-comments-like-a-pro/"><u>The Ultimate Guide: Using GIFs in Instagram Comments Like a Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-strategy-for-winning-at-royal-match-games/"><u>The Ultimate Strategy for Winning at Royal Match Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-animated-and-live-action-films-for-children-on-netflix/"><u>Top Picks: Animated and Live-Action Films for Children on Netflix</u></a></li>
+</ul></div>
