@@ -1,7 +1,7 @@
 ---
 title: Fixing the Unavailable 'Sleep' Feature on Windows 11
-date: 2024-08-13 10:58:10
-updated: 2024-08-16 11:57:29
+date: 2024-08-18T16:40:16.418Z
+updated: 2024-08-19T16:40:16.418Z
 tags:
   - win11
   - win10
@@ -46,12 +46,18 @@ It’s very easy to tether your phone on Windows 10, do these:
 
  2) Tap Settings ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a786756399a.png) on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  3) Tap **More networks**  \> **Tethering and portable hotspot** .
 
 **Note:**  You may also find the tethering option under the **Mobile Data**  or **Personal Hotspot**  sections based on different phones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78ef25f8dc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
  4) Tap to check **USB tethering** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78f68dcbb1.png)
@@ -62,6 +68,12 @@ It’s very easy to tether your phone on Windows 10, do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7908b22f5e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How do I fix USB tethering not working on Windows 10?
 
  When the USB tethering stops working on your Windows 10, probably the USB tethering driver on your computer is corrupted, old or missing. Replacing the driver with the built-in one on your Windows 10 manually, or updating your USB tethering driver via Driver Easy automatically, these two methods can always help you solve the problem.
@@ -71,6 +83,10 @@ It’s very easy to tether your phone on Windows 10, do these:
 1. [Update your USB tethering driver via Driver Easy automatically](https://tools.techidaily.com/drivereasy/download/) **[ \[RECOMMENDED\]](https://tools.techidaily.com/drivereasy/download/)**
 2. [Replace the driver with the built-in one on your Windows 10 manually](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Method 1: Update your USB tethering driver via Driver Easy automatically
 
 **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  is a very helpful and credible driver tool. It will automatically recognize Windows 10 or any other version of Windows system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
@@ -103,10 +119,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79bee367fe.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79e6f2a6c1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79fa25a97b.png)
@@ -119,6 +141,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c685fdf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  8) Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e44842e31.jpg)
@@ -127,6 +152,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8b9b8df3ac.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Check to see if you can access the Internet on your Windows 10 via USB tethering.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -145,3 +173,47 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-join-the-monetized-majority-with-500-subscribers/"><u>[New] 2024 Approved  Join the Monetized Majority with 500 Subscribers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-ultimate-guide-top-freefire-streams-and-strategies-on-youtube/"><u>[New] 2024 Approved  Ultimate Guide  Top FreeFire Streams & Strategies on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-decisive-captures-combatting-disarray/"><u>[New] In 2024, Decisive Captures  Combatting Disarray</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-revolutionize-your-photos-with-these-best-grid-makers-for-ig-for-2024/"><u>[Updated] Revolutionize Your Photos with These Best Grid Makers for IG for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tag-and-post-a-moment-of-pure-sound-wisdom/"><u>[Updated] Tag & Post a Moment of Pure Sound Wisdom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-allure-of-benq-sw320-4k-pro-display/"><u>[Updated] The Allure of BenQ SW320 4K Pro Display</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-zooming-success-detailed-instruction-for-exceptional-podcast-recording-quality/"><u>[Updated] Zooming Success  Detailed Instruction for Exceptional Podcast Recording Quality</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>A Quick Dive Into Video Ratios  The Aspect Ratio Essentials for YouTubers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ace-driving-realism-series-best-5/"><u>Ace Driving Realism Series (Best 5)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-play-40c-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor Play 40C Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-up-on-unforgettable-family-flicks-exclusively-streaming-now-on-amazon-prime-video-july/"><u>Catch Up on Unforgettable Family Flicks Exclusively Streaming Now on Amazon Prime Video (July)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-asus-rog-phone-7-ultimate-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exciting-online-gaming-options-a-list-of-7-kid-friendly-titles/"><u>Exciting Online Gaming Options: A List of 7 Kid-Friendly Titles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-joining-and-engaging-in-twitter-discussions/"><u>Guide: Joining & Engaging In Twitter Discussions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-secure-is-your-search-unpacking-the-privacy-benefits-of-duckduckgo/"><u>How Secure Is Your Search? Unpacking the Privacy Benefits of DuckDuckGo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-activate-dark-mode-on-your-iphone-device/"><u>How to Activate Dark Mode on Your iPhone Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-make-any-video-trend-on-youtube-top-8-tips/"><u>How To Make Any Video Trend On YouTube – Top 8 Tips!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersion-boosting-backdrops-for-broadcasts-for-2024/"><u>Immersion-Boosting Backdrops for Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audio-input-reduction-zero-price-included/"><u>In 2024, Audio Input Reduction - Zero Price Included</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-selective-cinematic-forecast-collection/"><u>In 2024, Selective Cinematic Forecast Collection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insight-into-the-discontinued-service-what-was-google-hangouts/"><u>Insight Into the Discontinued Service: What Was Google Hangouts?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-minecraft-a-step-by-step-guide-to-utilizing-the-teleport-feature/"><u>Mastering Minecraft: A Step-by-Step Guide to Utilizing the Teleport Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-more-password-hassles-learn-how-to-disable-your-ipads-security-code/"><u>No More Password Hassles? Learn How to Disable Your iPad's Security Code</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/oneplus-10-news-price-release-date-estimate-features-and-rumors/"><u>OnePlus 10: News, Price, Release Date Estimate, Features, and Rumors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quantifying-complexity-the-level-breakdown-of-royal-match-game/"><u>Quantifying Complexity: The Level Breakdown of ‘Royal Match’ Game</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-upcoming-galaxy-z-fold-6-what-you-need-to-know-about-price-launch-and-tech-specs/"><u>Samsung's Upcoming Galaxy Z Fold #6 - What You Need to Know About Price, Launch, and Tech Specs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/slow-it-down-high-quality-moments-in-instagram-reels/"><u>Slow It Down  High-Quality Moments in Instagram Reels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/star-trek-chronicles-a-step-by-step-guide-to-enjoying-all-movies-back-to-back/"><u>Star Trek Chronicles: A Step-by-Step Guide to Enjoying All Movies Back-to-Back</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fix-for-critical-system-data-handling-failures/"><u>Step-by-Step Fix for Critical System Data Handling Failures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-combining-multiple-cells-in-excel-efficiently/"><u>Step-by-Step Guide to Combining Multiple Cells in Excel Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-bsod-troubleshooting-and-solutions/"><u>Step-by-Step Tutorial on BSOD Troubleshooting and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-delete-programs-on-macos-easily/"><u>Step-by-Step Tutorial: How to Delete Programs on macOS Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-for-smart-dash-cam-selection-a-buyers-guide/"><u>The Ultimate Checklist for Smart Dash Cam Selection: A Buyer's Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-watching-the-matrix-series-from-beginning-to-end/"><u>The Ultimate Guide to Watching The Matrix Series From Beginning to End</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-top-bookworm-approved-reading-applications/"><u>The Ultimate Selection of Top Bookworm-Approved Reading Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncovering-the-serial-and-model-numbers-on-your-macbook-easily/"><u>Uncovering the Serial and Model Numbers on Your MacBook Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-power-of-stereo-a-guide-to-linking-up-several-bluetooth-speakers-with-a-single-device/"><u>Unlocking the Power of Stereo: A Guide to Linking Up Several Bluetooth Speakers with a Single Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-hidden-gems-10-fascinating-pieces-of-emoji-history/"><u>Unveiling Hidden Gems: 10 Fascinating Pieces of Emoji History</u></a></li>
+</ul></div>

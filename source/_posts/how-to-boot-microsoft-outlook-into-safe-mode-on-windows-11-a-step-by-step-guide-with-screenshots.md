@@ -1,7 +1,7 @@
 ---
 title: "How to Boot Microsoft Outlook Into Safe Mode on Windows 11: A Step-by-Step Guide with Screenshots"
-date: 2024-08-15 10:20:44
-updated: 2024-08-16 10:57:18
+date: 2024-08-18T16:38:38.695Z
+updated: 2024-08-19T16:38:38.695Z
 tags:
   - win11
   - win10
@@ -63,6 +63,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 4) Reboot your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Now you can start Safe Mode using the F8 key
 
  Now that you’ve enabled the F8 method, you can use it to start Safe Mode:
@@ -79,6 +82,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## **Method 2: Start Safe Mode by turning off your PC 3 times**
 
  If you’re unable to launch Windows, and you haven’t enabled the F8 method above, this is how to start Safe Mode:
@@ -91,6 +98,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/preparing-automatic-repair-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 3) Wait for Windows to diagnose your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
@@ -103,6 +113,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
@@ -111,6 +124,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/startup-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  8) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
@@ -123,6 +139,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Start Safe Mode using the System Configuration tool
 
 **IMPORTANT:** If you follow these instructions, Windows will start in Safe Mode every time it restarts, until you undo your changes.
@@ -133,14 +152,23 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then check **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### To turn off Safe Mode and go back to normal mode
 
  When you want to return Windows to normal mode, you just have to undo your changes:
@@ -149,6 +177,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
@@ -159,6 +190,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Start Safe Mode from the login screen
 
 If you can boot to the login screen, you can enter Safe Mode from there:
@@ -183,10 +217,16 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your computer will then restart and another screen opens showing a lot of different startup options.
 
  7) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
@@ -211,12 +251,18 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b60655cf90.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -233,3 +279,38 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-online-speech-discover-the-best-chrome-extensions-for-change/"><u>[Updated] Revolutionize Online Speech  Discover the Best Chrome Extensions for Change</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-vision-the-premier-6-for-artists-nfts/"><u>[Updated] Unleash Your Vision  The Premier 6 for Artists' NFTs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-cutting-edge-backdrop-swap-selection-roundup/"><u>2024 Approved  Cutting-Edge Backdrop Swap Selection Roundup</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-methods-for-shushing-complaints-in-gmeet-sessions/"><u>2024 Approved  Expert Methods for Shushing Complaints in GMeet Sessions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-utilize-youtube-metrics-to-transform-views-into-revenue/"><u>2024 Approved  Utilize YouTube Metrics to Transform Views Into Revenue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/an-in-depth-examination-of-vivavideo-app/"><u>An In-Depth Examination of VivaVideo App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/an-insight-into-how-dts-play-fi-transforms-your-music-listening/"><u>An Insight Into How DTS Play-Fi Transforms Your Music Listening</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-every-dunk-and-slam-dunk-mens-ncaa-tournaments-streamed-live-on-radio/"><u>Catch Every Dunk and Slam Dunk: Men's NCAA Tournaments Streamed Live on Radio!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fix-for-ssleay32dll-not-found-warning-message/"><u>Comprehensive Fix for 'ssleay32.dll Not Found' Warning Message</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-ps-vr-to-pc-a-comprehensive-tutorial-for-gamers/"><u>Connecting PS VR to PC - A Comprehensive Tutorial for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-espnpluss-functionality-and-features-in-digital-viewership/"><u>Demystifying ESPN+'s Functionality and Features in Digital Viewership</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-efficient-file-searching-how-to-turn-on-and-utilize-hidden-finder-sidebar/"><u>Discover Efficient File Searching: How to Turn On and Utilize Hidden Finder Sidebar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-power-of-next-gen-viewing-hitachis-integration-of-4k-uhd-and-roku-on-one-screen/"><u>Discover the Power of Next-Gen Viewing: Hitachi's Integration of 4K UHD and Roku on One Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-ig-videos-mastering-the-art-of-audio-addition/"><u>Elevate Your IG Videos: Mastering the Art of Audio Addition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/five-proven-methods-to-repair-and-restore-d3dx934dll-errors-on-your-computer/"><u>Five Proven Methods to Repair and Restore d3dx9_34.dll Errors on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-ready-for-the-new-google-pixel-tablet-release-dates-announced-along-with-device-specifications/"><u>Getting Ready for the New Google Pixel Tablet: Release Dates Announced Along with Device Specifications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-sending-voicemails-with-your-iphone/"><u>Guide: Sending Voicemails with Your iPhone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-7-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 7?</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-a23-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy A23 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-how-to-create-time-lapse-video-with-canon-camera/"><u>In 2024, How to Create Time-Lapse Video with Canon Camera</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-2024-netgear-device-passwords-guide/"><u>July 2024 NETGEAR Device Passwords Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-wmvcoredll-file-not-found-a-step-by-step-guide/"><u>Resolving 'Wmvcore.dll' File Not Found – A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-fm2n0dll-file-absent-message/"><u>Resolving the 'fm2n0.dll File Absent' Message</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roku-showdown-how-does-the-roku-express-differ-from-the-classic-stick-version/"><u>Roku Showdown: How Does the Roku Express Differ From The Classic Stick Version?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-communication-adding-gmail-accounts-to-your-apple-watch/"><u>Seamless Communication: Adding Gmail Accounts to Your Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-captions-to-your-instagram-story/"><u>Step-by-Step Guide: Adding Captions to Your Instagram Story</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-consumers-handbook-to-smartwatch-shopping-5-must-know-tips-prior-to-buying/"><u>The Consumer's Handbook to Smartwatch Shopping: 5 Must-Know Tips Prior to Buying</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-not-found-or-missing-d3dx934dll-files-expert-advice/"><u>The Ultimate Fix for 'Not Found' Or Missing d3dx9_34.dll Files – Expert Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-dealing-with-missing-libxml2dll-files-on-your-pc/"><u>Troubleshooting Guide: Dealing with Missing libxml2.dll Files on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-notorious-msvcrtdll-missing-file-tips-and-tricks/"><u>Troubleshooting the Notorious Msvcrt.dll Missing File – Tips and Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-gear-guide-your-comprehensive-resource-for-hardware-knowledge/"><u>Unveiling Tom's Gear Guide: Your Comprehensive Resource for Hardware Knowledge</u></a></li>
+</ul></div>

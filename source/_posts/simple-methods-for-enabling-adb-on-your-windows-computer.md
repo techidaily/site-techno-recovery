@@ -1,7 +1,7 @@
 ---
 title: Simple Methods for Enabling ADB on Your Windows Computer
-date: 2024-08-14 17:52:57
-updated: 2024-08-16 12:17:40
+date: 2024-08-18T16:36:33.250Z
+updated: 2024-08-19T16:36:33.250Z
 tags:
   - win11
   - win10
@@ -82,14 +82,25 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/please-wait-in-windows-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  4) When the following page shows, tab or click**See advanced repair options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
@@ -98,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 4: Perform a system restore
 
  When you have successfully booted into the Advanced repair option page, there is another thing that you can do: do a system restore, on the basis that you have turned this feature on previously. Here is how you do it:
@@ -106,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
@@ -122,6 +140,9 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 2) In the Command Prompt window, type
 
 chkdsk c: /r /x
@@ -130,10 +151,16 @@ chkdsk c: /r /x
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e3a862c3ed.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 3) Wait for the scan process to finish.
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Step 6: Refresh or Rest your computer
 
 A **refresh**  on Windows 10 will help you reinstall Windows 10\. However, it will **remove**  the applications and drivers that you have installed and your personal settings will be changed back to default as well. It will also remove applications from your computer manufacturer but the apps you installed from the Windows store will remain.
@@ -152,6 +179,9 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
@@ -176,3 +206,53 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-craft-a-signature-sound-how-to-modify-voices-for-instagram-for-2024/"><u>[New] Craft a Signature Sound  How to Modify Voices for Instagram for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-laugh-ledger-top-10-tweets-for-a-smile/"><u>[New] Laugh Ledger  Top 10 Tweets for a Smile</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-beam-your-content-upward-perfecting-youtube-seo-techniques/"><u>2024 Approved  Beam Your Content Upward  Perfecting YouTube SEO Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-steps-to-prep-your-oculus-rift-zone/"><u>2024 Approved  Essential Steps to Prep Your Oculus Rift Zone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-gaming-with-funimate/"><u>2024 Approved  Revolutionizing Gaming with Funimate</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/arranging-your-own-james-bond-film-series-journey-for-maximum-thrills/"><u>Arranging Your Own James Bond Film Series Journey for Maximum Thrills</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/become-a-royal-match-champion-expert-tips-and-tricks-for-winning/"><u>Become a Royal Match Champion: Expert Tips and Tricks for Winning</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/before-you-invest-in-wearable-health-technology-the-five-most-important-questions-to-ask/"><u>Before You Invest in Wearable Health Technology: The Five Most Important Questions to Ask</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-solutions-to-correct-a-missing-osetupdll-error/"><u>Complete Solutions to Correct a Missing Osetup.dll Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-what-we-know-so-far-apple-ring-pricing-projections-official-release-dates-and-rumored-specifications-explained/"><u>Discover What We Know So Far: Apple Ring Pricing Projections, Official Release Dates & Rumored Specifications Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-address-and-resolve-binkw32dll-absence-issues/"><u>Easy Ways to Address and Resolve Binkw32.dll Absence Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ensuring-your-zoom-appointments-match-iphoneandroidpc-calendars/"><u>Ensuring Your Zoom Appointments Match iPhone/Android/PC Calendars</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-no-more-effective-solutions-for-missing-msvcr80dll-files/"><u>Error No More: Effective Solutions for Missing Msvcr80.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fortnite-account-merge-tutorial-simplifying-your-game-playlist/"><u>Fortnite Account Merge Tutorial: Simplifying Your Game Playlist</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-forward-frames-discover-the-top-smart-glasses-of-202/"><u>Future-Forward Frames: Discover the Top Smart Glasses of 202</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/going-off-the-grid-secure-reliable-internet-access-without-traditional-providers/"><u>Going Off the Grid? Secure Reliable Internet Access Without Traditional Providers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-wininetdll-is-missing-or-not-found-errors/"><u>How to Fix Wininet.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-replace-an-ipad-battery/"><u>How to Replace an iPad Battery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/increasing-engagement-on-instagram-videos-for-2024/"><u>Increasing Engagement on Instagram Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-next-gen-xbox-virtual-reality-headset-pricing-predictions-and-release-forecasts/"><u>Inside Scoop on the Next-Gen Xbox Virtual Reality Headset – Pricing Predictions & Release Forecasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-upgrading-to-ios-17-the-right-move-for-your-iphone-or-ipad/"><u>Is Upgrading to iOS 17 the Right Move for Your iPhone or iPad?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-users-guide-step-by-step-process-for-clearing-the-systems-dns-cache/"><u>Mac Users Guide: Step-by-Step Process for Clearing the System's DNS Cache</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/multi-device-synchronization-using-just-one-mobile-number/"><u>Multi-Device Synchronization Using Just One Mobile Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-future-of-electronics-sonys-vision-product-launches-and-market-movements/"><u>Navigating the Future of Electronics: Sony's Vision - Product Launches & Market Movements</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcome-calling-challenges-a-guide-for-restoring-your-android-phones-ability-to-connect/"><u>Overcome Calling Challenges: A Guide for Restoring Your Android Phone’s Ability to Connect</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-obstacles-in-launching-samsung-tvs-inbuilt-applications-smoothly/"><u>Overcoming Obstacles in Launching Samsung TV's Inbuilt Applications Smoothly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-guide-to-updating-acer-speakers-driver-for-improved-performance/"><u>Quick Guide to Updating Acer Speakers' Driver for Improved Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722874570235-resetting-your-kindle-paperwhites-time-zone-and-hour-easy-instructions-inside/"><u>Resetting Your Kindle Paperwhite's Time Zone and Hour – Easy Instructions Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-audio-experience-the-ultimate-tutorial-on-linking-up-with-a-bose-soundlink-device/"><u>Seamless Audio Experience: The Ultimate Tutorial on Linking Up With a Bose Soundlink Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-to-resolve-the-libexec32dll-file-not-foundmissing-error/"><u>Solutions to Resolve the 'libexec32.dll' File Not Found/Missing Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-spotify-malfunctions-a-guide-for-android-auto-users/"><u>Solving Spotify Malfunctions: A Guide for Android Auto Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-msidll-file-could-not-be-found-issue-a-step-by-step-guide/"><u>Solving the MSI.DLL File Could Not Be Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-enabling-picture-in-picture-in-android-os/"><u>Step-by-Step Tutorial for Enabling Picture-in-Picture in Android OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/studying-abroad-set-up-your-own-home-theater-with-roku-on-campus-or-while-traveling/"><u>Studying Abroad? Set Up Your Own Home Theater with Roku on Campus or While Traveling</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-no-cost-solutions-to-eradicate-malware-top-picks-revealed/"><u>The Best No-Cost Solutions to Eradicate Malware - Top Picks Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-step-by-step-methodology-for-spotless-flat-screen-viewing-experience/"><u>The Complete Step-by-Step Methodology for Spotless Flat-Screen Viewing Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-visual-voice-mail-apps-to-try/"><u>The Ultimate List of Visual Voice Mail Apps to Try</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-strategy-for-attracting-more-twitter-subscribers/"><u>The Ultimate Strategy for Attracting More Twitter Subscribers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-factors-to-evaluate-when-selecting-your-next-gaming-system/"><u>Top 5 Essential Factors to Evaluate When Selecting Your Next Gaming System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-your-game-installation-woes-with-quick-tips-to-solve-steam-errors/"><u>Troubleshoot & Overcome Your Game Installation Woes with Quick Tips to Solve Steam Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-unanswered-calls-a-guide-for-samsung-galaxy-watch-users/"><u>Troubleshooting Unanswered Calls: A Guide for Samsung Galaxy Watch Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/uncovering-optimal-digital-patterns-for-learning-languages/"><u>Uncovering Optimal Digital Patterns for Learning Languages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-full-playback-potential-view-anything-on-apple-tv-using-vlc-methods/"><u>Unlock Full Playback Potential: View Anything on Apple TV Using VLC Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-the-ultimate-technique-to-unsend-emails-from-outlook/"><u>Unraveling the Mystery: The Ultimate Technique to Unsend Emails From Outlook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/virtual-or-augmented-reality-the-comprehensive-differences-among-ar-vr-mr-xr/"><u>Virtual or Augmented Reality - The Comprehensive Differences Among AR, VR, MR, XR</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wpcapdll-file-error-resolved-quick-fixes-for-windows-users/"><u>wpcap.dll File Error Resolved: Quick Fixes for Windows Users</u></a></li>
+</ul></div>

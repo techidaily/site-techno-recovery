@@ -1,7 +1,7 @@
 ---
 title: "Mastering Solo Adventures: A Player's Guide to Steam Offline Mode"
-date: 2024-08-14 14:56:47
-updated: 2024-08-16 10:32:13
+date: 2024-08-18T16:42:45.557Z
+updated: 2024-08-19T16:42:45.557Z
 tags:
   - win11
   - win10
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### What is Fortnite Battle Royale?
 
  Fortnite Battle Royale is for up to 100 players — you can play solo, in a duo or in a squad of up to four players. You start with only a few gameplay items, then search for weapons and armor, eliminate or avoid other players, and compete to win while staying within a shrinking safe area because of an incoming storm.
@@ -60,36 +63,64 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 3. Sign in (Make sure you’ve set up an account).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82a6c62500.jpg)
 4. Select**BATTLE ROYALE** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82d5471bac.jpg)
 5. You may find Battle Royale a bit daunting to begin with, and you can first familiarize yourself with its settings — Click the 3 lines on the top right, then select the cog icon to open the settings menu.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329869963.jpg)
 6. Click the**Input** icon to view keys for actions. You can also reset the keys according to your preferences. Then keep in mind the keys.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832210f928.jpg)
 7. Back in the main screen, select the game mode through the button on the lower left.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8394bf277f.jpg)
 8. Select a mode, then click**ACCEPT** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83ada51ab1.jpg)  
 **Note:** If you select**Duos** or**Squads** but play alone, verify that you also select**FILL** , and Fortnite will matchmake you with other players online; otherwise, if you select**DON’T FILL** , you may have to compete against a team of four alone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83c7ada3f0.jpg)
 9. Click the**PLAY** button to begin.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5e0040d.jpg)
 10. You’ll find yourself in the holding area calld**Spawn Island** . During this 60-second period, you can practice using your pickaxe, picking up weapons, ammunition and building materials, but you can’t bring anything with you into the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d6f66913.jpg)
 11. When the game fills up with 99 other players, you’ll automatically be on the**Battle Bus** . It flies in the air and transports you across the game’s map. It’ll let you know when you can jump down into the game.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d4c46f1e.jpg)  
 **Note:** When you’re skydiving, move your mouse and use movement controls (default: W, A, S, D keys) to head for**houses** . There’re usually treasure chests hidden inside.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94858cba7c.jpg)
 12. Once on the ground, keep an eye for**chests** , which contain weapons you’ll need, as well as ammunition and medical supplies like first aid kits, bandages, and shield potions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94c9e1bd2d.jpg)  
  Meanwhile, use your**pickaxe** (the only weapon that you start out with) on any structures that you see (trees, houses, rocks, etc.) It’s an essential way to collect building materials. Since building materials don’t take up space in your backpack, you can grab as much as you like.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** Remember to aim at the blue circle, which will speed up the damage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94d52056f5.jpg)  
  If you find an opponent, you can either hide or quickly press key (displayed in the lower left corner) to use weapon and shoot the player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94bd308fbd.jpg)  
  Some weapons are certainly better than others. When you’re struggling to decide whether or not to swap one weapon out for another, revert back to the color list below. It descends from weakest to strongest, with gold being the most powerful.
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95bd6d3175.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Common — Uncommon — Rare — Epic — Legendary
 
 * When you have enough building materials, you may also need to build defensive structures quickly, such as walls, ceilings, stairs, ramps, and doors. Press**Q** to enter**building mode** . Access your blueprint through one of your building slots (**F1 – F4** ), and you’ll see a projected image of what your structure will look like. Set it down in place by pressing the left mouse button.  
@@ -98,12 +129,21 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 **F2** is used to build flat walls, which can be used as ceilings or floors.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95570a4028.jpg)  
 **F3** is used to build stairs. They’re necessary for climbing up.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd955e9807a3.jpg)  
 **F4** is used to build triangular cones. They can be used as shelters.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95687cab2c.jpg)  
  Then you can press**G** to edit your building structures.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd957345965d.jpg)
 * Once you’ve been playing for a few minutes, you’ll see an indicator pop up to let you know that the storm is shrinking. You can press**M** to get to your map and find a safe area, which is everything inside the circle. You can go through the storm, but doing so will affect your health and eventually eliminate you from the game.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 **Note:** The purple restricted area is enlarging, and the withe circle(the safe zone) is shrinking, forcing remaining players into smaller and smaller spaces, until only one player is left standing. If that play is you, you’ll get a Victory Royale!  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9587c36338.jpg)  
  If you’re just getting started, your primary focus should be to learn how to do two things:**shoot and build** .
@@ -134,6 +174,9 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9718c13fe0.jpg)
 3. Click the**Update** button next to your device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd971f327a28.jpg)  
  Note: If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -166,3 +209,51 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-learn-money-tricks-top-13-beginner-friendly-income-strategies-on-reddit/"><u>[New] Learn Money Tricks  Top 13 Beginner-Friendly Income Strategies on Reddit</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastery-manual-for-dynamic-distracting-filters/"><u>[Updated] 2024 Approved  Mastery Manual for Dynamic, Distracting Filters</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mastering-the-art-of-youtube-music-reactions-essential-tips/"><u>[Updated] In 2024, Mastering the Art of YouTube Music Reactions - Essential Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024-july-insight-unlocking-easier-access-to-linksys-routers-with-default-passwords/"><u>2024 July Insight: Unlocking Easier Access to Linksys Routers with Default Passwords</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-meizu-21-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Meizu 21 Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/blu-ray-vs-streaming-should-you-purchase-a-blu-ray-player/"><u>Blu-Ray vs Streaming: Should You Purchase a Blu-Ray Player?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/blur-your-workspace-in-google-meets-a-comprehensive-guide/"><u>Blur Your Workspace in Google Meets - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fix-how-to-get-your-dvd-bd-or-cd-drive-to-work-again/"><u>Comprehensive Fix: How to Get Your DVD, BD, or CD Drive to Work Again!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-to-tackle-the-blue-screen-of-death-code-0x0000007e-in-windows-7/"><u>Comprehensive Fixes to Tackle the Blue Screen of Death (Code: 0X0000007E) in Windows 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-netflix-outages-on-roku-effective-solutions-for-uninterrupted-streaming/"><u>Dealing With Netflix Outages on Roku: Effective Solutions for Uninterrupted Streaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-capabilities-of-dts-virtualx-audio-systems/"><u>Decoding the Capabilities of DTS Virtual:X Audio Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-network-raise-and-housing-solutions/"><u>Discover the Leading Network Raise & Housing Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-when-your-system-cant-find-d3dx933dll/"><u>Effective Fixes for When Your System Can’t Find d3dx9_33.dll</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-techniques-for-capturing-visuals-in-ps4-games/"><u>Effortless Techniques for Capturing Visuals in PS4 Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tags-for-instagram-users-to-increase-engagement-and-followers/"><u>Essential #Tags for Instagram Users to Increase Engagement and Followers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/galaxy-a15-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Galaxy A15 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-correcting-missing-file-avcodecdll-problems-on-your-computer-system/"><u>Guide to Correcting 'Missing File' Avcodec.dll Problems on Your Computer System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-detect-overheating-issues-in-your-macbook-with-ease/"><u>How to Detect Overheating Issues in Your MacBook with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improve-video-calls-with-confidentiality-how-to-blur-out-distractions-on-google-meet/"><u>Improve Video Calls with Confidentiality: How to Blur Out Distractions on Google Meet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-see-what-you-just-watched-on-facebook/"><u>In 2024, How to See What You Just Watched on Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insights-into-the-playstation-evolution-ps5-slim-announcements-cost-details-and-debut-predictions/"><u>Insights Into the PlayStation Evolution: PS5 Slim Announcements, Cost Details & Debut Predictions</u></a></li>
+<li><a href="https://techidaily.com/is-your-meizu-21-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Meizu 21 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10-timecode-conversion-tools-online-ios-and-android/"><u>New In 2024, Top 10 Timecode Conversion Tools Online, iOS, and Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-unsuited-file-vlc-problem/"><u>Overcoming Windows' 'Unsuited File' VLC Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002784105-quick-solutions-resolve-your-genshin-impact-start-up-problems-today/"><u>Quick Solutions: Resolve Your Genshin Impact Start-Up Problems Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-d3dx92nent-dll-file-step-by-step-guide/"><u>Solving D3dx9_2nent DLL File - Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-installing-windows-10-onto-your-fresh-hard-disk/"><u>Step-by-Step Guide: Installing Windows 10 Onto Your Fresh Hard Disk</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-addressing-non-appearing-comments-on-youtube/"><u>Step-by-Step Solution: Addressing Non-Appearing Comments on YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-moto-g04-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola Moto G04 FRP</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-blueprint-to-buzzing-video-success-on-insta-for-2024/"><u>The Blueprint to Buzzing Video Success on Insta for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-reasons-behind-restricted-facebook-marketplace-use/"><u>The Reasons Behind Restricted Facebook Marketplace Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-4-must-try-freebie-digital-calendars/"><u>The Ultimate List: 4 Must-Try Freebie Digital Calendars</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-6-websites-for-enjoying-free-online-music-video-streaming/"><u>Top 6 Websites for Enjoying Free Online Music Video Streaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-66-social-media-influencers-sharing-ultimate-travel-deals-and-tips/"><u>Top 66 Social Media Influencers Sharing Ultimate Travel Deals and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-why-are-my-youtube-comments-not-visible/"><u>Troubleshooting Steps: Why Are My YouTube Comments Not Visible?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-apple-watch-offers-to-shop-this-weekend/"><u>Unbeatable Apple Watch Offers to Shop This Weekend</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-haldll-faults-in-windows-os-from-vista-to-windows-11/"><u>Understanding and Repairing hal.dll Faults in Windows OS From Vista to Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-atandts-cellular-data-roaming-terms-and-conditions/"><u>Understanding AT&T's Cellular Data Roaming Terms and Conditions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-rcs-a-comprehensive-guide-to-rich-communication-services/"><u>Understanding RCS: A Comprehensive Guide to Rich Communication Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-concealed-iphone-programs-your-ultimate-how-to-manual/"><u>Unlocking Concealed iPhone Programs: Your Ultimate How-To Manual</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-11-the-ultimate-guide-to-removing-your-lock-screen-pin/"><u>Windows 11: The Ultimate Guide to Removing Your Lock Screen Pin</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-ultimate-resource-downloadable-handbooks-for-every-generation-of-iphones/"><u>Your Ultimate Resource: Downloadable Handbooks for Every Generation of iPhones</u></a></li>
+</ul></div>

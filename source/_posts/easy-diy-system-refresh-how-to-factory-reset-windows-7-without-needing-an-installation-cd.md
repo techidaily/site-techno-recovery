@@ -1,7 +1,7 @@
 ---
 title: "Easy DIY System Refresh: How to Factory Reset Windows 7 Without Needing an Installation CD"
-date: 2024-08-14 14:21:19
-updated: 2024-08-16 11:47:32
+date: 2024-08-18T16:41:00.244Z
+updated: 2024-08-19T16:41:00.244Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 
  If the installation proceeds and turns out successful, you can plug the devices back in after your system gets updated. But if this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Clear an attribute of $WINDOWS.\~BT installation folder
 
  The “Windows 10 installation has failed” error could be triggered when the installer tries to repeatedly copy the files in a certain folder. You can try to clear an attribute of the $WINDOWS.\~BT installation folder to see if it solves your problem. Here’s how:
@@ -49,9 +52,16 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 4. Uncheck the checkbox of**Read-Only** , then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-38-03.png)
 5. Run the installation again.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
  If this fix doesn’t solve the installation error you have, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Uninstall the language pack
 
  The “Windows 10 installation has failed” error may be triggered when the language pack of your previous Windows iteration is not the same as the localization. If that’s the case for you, you may need to remove the language pack. Here’s how:
@@ -61,18 +71,31 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 1. In the search bar on your taskbar, type**language** , then click**Language settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-03-06.png)
 2. Make sure your Windows display language is set to**English** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-04-37.png)
 3. Remove all the non-English language packs you have.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-05-07.png)
 4. Run the installer again.
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### On Windows 7
 
 1. Click the**Start** button. Type**language** in the search bar, then click**Change display languages** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-17.png)
 2. Click**Install/uninstall languages** . You may be prompted for permission, just click OK.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-29.png)
 3. Click**Uninstall display languages** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-37-1.png)
 4. **Remove any non-English language packs** per instructions. Make sure you save the changes.
 5. Run the installer again.
@@ -94,8 +117,14 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 3. Click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-38.png)
 4. Click**Advanced options** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-46.png)
 5. Select**Command Prompt** . You may be prompted to log in to your account at this step.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-55.png)
 
 #### On Windows 7
@@ -126,6 +155,9 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 3. Go to the**Boot** tab,**untick the checkbox of Safe boot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-17-16.png)
 4. Under the**Services** tab, choose**Hide all microsoft services** , then click**Disable all** .  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-18-39.png)
 5. Switch to the**Startup** tab, click**Open Task Manager** .  
  (If you’re on Windows 7, right-click anywhere empty on your taskbar to find the option of task manager.)  
@@ -136,6 +168,9 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 
  If performing a clean boot installation doesn’t solve the error for you, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 6: Repair corrupted system files
 
  If the fixes above didn’t solve the “Windows 10 installation has failed” error on your PC, you may be looking at a system-wide error. When the system files required for the Windows installation process are corrupted, it could trigger an installation error. You can use the System File Checker tool (sfc /scannow) to look for any critical system corruption, but most of the time, manual repair is required.
@@ -149,6 +184,9 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Bonus tip: how to keep your PC in top condition
 
  Outdated or faulty drivers may trigger this error, although not very common. And as we briefly mentioned before, if a driver issue caused this installation error, you’re likely to get a specific error code. But in general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -163,10 +201,16 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -190,3 +234,41 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-evaluating-cybernetic-screen-recorder-functionality-for-2024/"><u>[New] Evaluating Cybernetic Screen Recorder Functionality for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhance-post-impact-auto-adjusting-videos-for-instagram-on-mac/"><u>[New] In 2024, Enhance Post Impact  Auto-Adjusting Videos for Instagram on Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streaming-made-easy-mac-methodology-for-recording-netflix/"><u>[New] Streaming Made Easy  Mac Methodology for Recording Netflix</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-from-creators-to-viewers-a-roadmap-for-uploading-vids-on-facebook-for-2024/"><u>[Updated] From Creators to Viewers  A Roadmap for Uploading Vids on Facebook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-essential-links-where-to-get-official-skype-ringtone-files/"><u>2024 Approved  Essential Links  Where to Get Official Skype Ringtone Files</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-harnessing-lut-power-for-free-high-quality-colorization/"><u>2024 Approved  Harnessing LUT Power for Free, High-Quality Colorization</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-leading-10-innovative-tiktok-filters-boosting-visibility/"><u>2024 Approved  Leading 10 Innovative TikTok Filters Boosting Visibility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-double-take-at-chatgpts-advanced-features/"><u>A Double-Take at ChatGPT's Advanced Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/command-prompt-shortcut-for-quick-folder-navigation-explained/"><u>Command Prompt Shortcut for Quick Folder Navigation Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-line-application-evaluation-pros-and-cons/"><u>Comprehensive Line Application Evaluation: Pros and Cons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-biometrics-an-introduction-to-personal-identification-methods/"><u>Demystifying Biometrics: An Introduction to Personal Identification Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-our-picks-the-8-greatest-apps-for-efficient-travel-planning/"><u>Discover Our Picks: The 8 Greatest Apps for Efficient Travel Planning</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dragon-ball-marathon-mastery-arranging-episodes-properly-for-full-experience/"><u>Dragon Ball Marathon Mastery - Arranging Episodes Properly for Full Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-tricks-to-fix-glitches-with-apple-tv-remote-on-iphone/"><u>Expert Tips and Tricks to Fix Glitches with Apple TV Remote on iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-address-dnssddll-not-found-and-dnssddll-is-missing-issues/"><u>How To Correctly Address dnssd.dll Not Found and dnssd.dll Is Missing Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-interrupt-auto-queue-settings-for-a-better-listening-experience-on-apple-music/"><u>How to Interrupt Auto-Queue Settings for a Better Listening Experience on Apple Music</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hp-laptop-mastery-learn-effortless-screenshotting-methods/"><u>HP Laptop Mastery: Learn Effortless Screenshotting Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-f04-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy F04 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-11-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 11 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-home-maintennance-quick-fixes-for-common-tv-malfunctions/"><u>Master Home Maintennance: Quick Fixes for Common TV Malfunctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-language-barriers-with-these-ebest-offline-translator-programs/"><u>Master Language Barriers with These Ebest Offline Translator Programs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-measure-app-on-android-techniques-for-precise-dimension-tracking/"><u>Navigating the Measure App on Android: Techniques for Precise Dimension Tracking</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-microsofts-scholarly-discount-program-easily/"><u>Navigating Through Microsoft's Scholarly Discount Program Easily</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-leaders-decoded-mastering-content-strategies-on-facebook-twitter-instagram-and-youtube/"><u>Social Networking Leaders Decoded: Mastering Content Strategies on Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-personalize-the-look-of-your-pc-change-windows-10-taskbar-colors-today/"><u>The Ultimate Walkthrough: Personalize the Look of Your PC - Change Windows 10 Taskbar Colors Today!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tips-to-tame-vr-induced-motion-sickness-for-2024/"><u>Tips to Tame VR-Induced Motion Sickness for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-websites-streamlining-your-apartment-hunting-journey/"><u>Top 10 Websites Streamlining Your Apartment Hunting Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-lgbt-films-streaming-on-netflix-this-july-2024/"><u>Top Picks: The Best LGBT Films Streaming on Netflix This July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshoot-and-solve-the-stop-0x00000e9d-issue-effectively/"><u>Troubleshoot and Solve the Stop 0X00000e9d Issue Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-what-to-do-when-msxml4dll-is-absent/"><u>Troubleshooting: What To Do When MsXML4.DLL Is Absent</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-2023-unveiled-anticipated-pricing-launch-timeline-and-leaked-specs/"><u>Upcoming Google Pixel 2023 Unveiled: Anticipated Pricing, Launch Timeline & Leaked Specs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-windows-10-video-editing-programs-for-beginners/"><u>Updated In 2024, Top Windows 10 Video Editing Programs for Beginners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-expect-from-the-new-galaxy-z-flip-price-speculations-and-release-timeline-for-the-latest-samsung-innovation/"><u>What to Expect From the New Galaxy Z Flip? Price Speculations & Release Timeline for the Latest Samsung Innovation</u></a></li>
+</ul></div>

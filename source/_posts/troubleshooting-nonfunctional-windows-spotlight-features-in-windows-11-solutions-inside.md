@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Nonfunctional Windows Spotlight Features in Windows 11 - Solutions Inside
-date: 2024-08-14 10:52:14
-updated: 2024-08-16 12:24:16
+date: 2024-08-18T16:43:00.924Z
+updated: 2024-08-19T16:43:00.924Z
 tags:
   - win11
   - win10
@@ -44,6 +44,9 @@ To address this, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/how-to-identify-your-graphics-card-model-1.png)
 3. Visit the official website of your GPU manufacturer and download the latest driver suitable for your specific GPU model.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
 [AMD](https://www.amd.com/en/support)  
@@ -61,6 +64,9 @@ Below is the simple three-step guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will proceed to download and install the latest versions of all your outdated and missing device drivers directly from the device manufacturer.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 
  To access this feature, you’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, which offers complete support and a 30-day money-back guarantee. If you choose to upgrade by clicking on ‘Update All,’ you’ll receive a prompt. However, if you prefer to stick with the FREE version, you can still update your drivers individually by downloading them one by one and manually installing them.  
 
@@ -81,6 +87,15 @@ Below is the simple three-step guide:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  button. Windows will then search for available updates. If there are any updates available, it’ll automatically start to download and install it. Simply wait for the process to complete. Then restart your device.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
@@ -95,12 +110,21 @@ Below is the simple three-step guide:
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Click on the**Processes** tab. Observe the**CPU** and**GPU** columns to identify any processes consuming a significant amount of resources.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/close-unnecessary-processes-1.png)
 4. Right-click the applications you want to close and select**End task** .
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 
 Then restart your game and test your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Scan and repair your game files
 
  Game files may get corrupted or damaged over time due to reasons like improper installations, sudden system crashes, or file conflicts. Such issues can result in performance problems during gameplay, including FPS drops and stuttering. Scanning and repairing game files can detect and fix these corrupt or missing files, restoring the game to its original state and potentially resolving performance-related problems.
@@ -114,6 +138,9 @@ Then restart your game and test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files.png)
 4. Click**Begin Scan** and wait for the process to complete. Then restart the Battle.net desktop app and launch your game.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files-2.png)
 
@@ -134,11 +161,17 @@ To use Windowed mode and turn off Vertical Sync, take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-menu-options.png)
 3. Under the**GRAPHICS** section, select**Windowed (Fullscreen)** from the dropdown. Then scroll down and find**Vertical Syncb** . Make sure it’s off.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-adjust-in-game-settings.png)
 
 After applying changes, relaunch your game and check if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Enable hardware-accelerated GPU scheduling
 
  Hardware-Accelerated GPU Scheduling is a feature introduced in Windows 10 version 2004 and later. It allows the GPU to manage its video memory directly. And that can reduce the burden on the CPU and potentially improve graphics performance in games and applications.
@@ -152,8 +185,14 @@ After applying changes, relaunch your game and check if it works.
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Restart your computer to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Repair missing or corrupted system files
 
  If all else fails, it’s suggested that you check if any of your system files are missing or corrupted.
@@ -176,6 +215,9 @@ Restart your computer to apply the changes.
 
  While the System File Checker (SFC) is a useful built-in tool for repairing missing or corrupted system files, there are situations where it may not be sufficient. If SFC fails to resolve the issues, seeking professional help or using reputable online tools could be considered. Here you can use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , an award-winning and user-friendly software designed to streamline PC repair. It’s legit and comes in handy when you encounter any critical issues on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Automatically scan and repair your system files
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
@@ -204,3 +246,42 @@ Restart your computer to apply the changes.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-5-best-ps3-emulator-for-pc-2023/"><u>[New] 2024 Approved  Top 5 Best Ps3 Emulator For PC 2023</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-accelerate-engagement-through-vimeo-linking/"><u>[Updated] 2024 Approved  Accelerate Engagement Through Vimeo Linking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-journey-to-enhanced-gopro-adventures/"><u>[Updated] A Beginner's Journey to Enhanced GoPro Adventures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-clip-maker/"><u>2024 Approved  Youtube Clip Maker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-entering-and-exiting-iphones-recovery-mode/"><u>A Step-by-Step Guide: Entering and Exiting iPhone's Recovery Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-beats-how-students-can-save-big-with-spotifys-student-offer/"><u>Affordable Beats: How Students Can Save Big with Spotify's Student Offer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cable-free-connectivity-exploring-modern-techniques-to-go-online-without-traditional-lines/"><u>Cable-Free Connectivity: Exploring Modern Techniques to Go Online Without Traditional Lines</u></a></li>
+<li><a href="https://article-helps.techidaily.com/choosing-the-right-display-elevate-your-xbox-series-x-experience-for-2024/"><u>Choosing the Right Display - Elevate Your Xbox Series X Experience for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/code-19-error-fixes-for-windows-users-quick-solutions-unveiled/"><u>Code 19 Error Fixes for Windows Users: Quick Solutions Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-hard-drive-diagnostic-tools-no-cost-for-july-2024/"><u>Discover the Best Hard Drive Diagnostic Tools (No Cost) for July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-free-defrag-programs-for-optimal-pc-performance-in-july-2024/"><u>Discover the Leading Free Defrag Programs for Optimal PC Performance in July 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/discovering-the-role-of-facebook-in-building-communities/"><u>Discovering the Role of Facebook in Building Communities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-to-restore-functionality-in-unresponsive-echo-devices-with-alexa/"><u>Effective Solutions to Restore Functionality in Unresponsive Echo Devices with Alexa</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exquisite-android-screen-capture-solutions-ranked-five-for-2024/"><u>Exquisite Android Screen-Capture Solutions Ranked Five for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-forecast-the-top-5-manufacturers-revolutionizing-driverless-vehicles/"><u>Future Forecast: The Top 5 Manufacturers Revolutionizing Driverless Vehicles</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-updating-your-amd-graphics-driver/"><u>Guide to Updating Your AMD Graphics Driver</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-freshly-install-a-new-safeguard-for-your-cellular-glass-display/"><u>How To Freshly Install A New Safeguard For Your Cellular Glass Display</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-honor-100-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Honor 100?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screen-stream-showdown-who-wins-obs-or-shadowgl/"><u>In 2024, Screen Stream Showdown  Who Wins, OBS or ShadowGL?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-vs-samsungs-newest-contender-the-s2n-ultra-a-detailed-comparison/"><u>IPhone 15 Pro Max Vs. Samsung's Newest Contender – The S2n Ultra: A Detailed Comparison</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/macs-premier-video-to-mp4-converters-guide/"><u>Mac's Premier Video to MP4 Converters Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-fix-for-windows-boot-manager-error-with-these-proven-methods/"><u>Master the Fix for Windows Boot Manager Error with These Proven Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-have-tech-specials-for-this-years-amazon-prime-day-sale/"><u>Must-Have Tech Specials for This Year’s Amazon Prime Day Sale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-no-wi-fi-signals-with-your-surface-pro-tips-and-fixes/"><u>Overcoming No-Wi-Fi Signals with Your Surface Pro - Tips & Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-itel-a60s-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Itel A60s</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-communication-10-astounding-facts-about-the-world-of-emojis/"><u>Revolutionizing Communication: 10 Astounding Facts About the World of Emojis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roblox-access-hiccups-how-to-tell-if-theres-a-service-interruption-or-just-your-network/"><u>Roblox Access Hiccups: How to Tell if There’s a Service Interruption or Just Your Network</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resetting-a-different-users-account-password-on-windows/"><u>Step-by-Step Guide: Resetting a Different User's Account Password on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-and-excel-indispensable-services-for-every-twitch-user/"><u>Streamline and Excel: Indispensable Services for Every Twitch User</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-best-parent-controlled-applications/"><u>Top 8 Best Parent-Controlled Applications</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-rated-sony-a7s-ii-memory-accessory/"><u>Top-Rated Sony A7S II Memory Accessory</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-event-key-details-on-date-latest-rumors-and-insights/"><u>Upcoming Apple Event: Key Details on Date, Latest Rumors & Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-a-sufficiently-quick-pc-performance/"><u>What Is a Sufficiently Quick PC Performance?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-ultimate-guide-to-playstation-portal-whens-it-drops-how-much-cash-tech-inside-and-buying-sites-exposed/"><u>Your Ultimate Guide to PlayStation Portal – When's It Drops? How Much Cash? Tech Inside & Buying Sites Exposed!</u></a></li>
+</ul></div>

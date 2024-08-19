@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Discovering Your Windows 10 Operating System Version with Ease"
-date: 2024-08-15 19:23:14
-updated: 2024-08-16 11:44:42
+date: 2024-08-18T16:35:43.605Z
+updated: 2024-08-19T16:35:43.605Z
 tags:
   - win11
   - win10
@@ -82,10 +82,16 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/please-wait-in-windows-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) When the following page shows, tab or click**See advanced repair options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
@@ -94,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
@@ -122,6 +131,18 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) In the Command Prompt window, type
 
 chkdsk c: /r /x
@@ -134,6 +155,9 @@ chkdsk c: /r /x
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Step 6: Refresh or Rest your computer
 
 A **refresh**  on Windows 10 will help you reinstall Windows 10\. However, it will **remove**  the applications and drivers that you have installed and your personal settings will be changed back to default as well. It will also remove applications from your computer manufacturer but the apps you installed from the Windows store will remain.
@@ -144,20 +168,33 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0bd42c7cf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) If prompt, click on the account you want to provide credentials for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c40902d4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For more information about resetting your computer from the options listed, please refer to this post here:
   
 [**How to reset Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
@@ -176,3 +213,48 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-enhanced-interaction-making-skype-calls-on-your-phone/"><u>[New] In 2024, Enhanced Interaction  Making Skype Calls on Your Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-optimize-your-media-with-simple-video-spin-techniques-in-vlc/"><u>[New] In 2024, How to Optimize Your Media with Simple Video Spin Techniques in VLC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-tips-for-youtube-edits-with-sony-vegas-for-2024/"><u>[Updated] Essential Tips for YouTube Edits with Sony Vegas for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-media-management-on-instagram/"><u>[Updated] In 2024, Mastering Media Management on Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-strategies-for-building-impressive-youtube-teaser-vids/"><u>[Updated] Unveiling Strategies for Building Impressive YouTube Teaser Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-in-full-hd-top-7-camcorders-for-thrills/"><u>Action in Full HD  Top 7 Camcorders for Thrills</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/adjusting-your-amazon-kindle-paperwhite-display-time-a-step-by-step-guide/"><u>Adjusting Your Amazon Kindle Paperwhite Display Time: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-techniques-in-aerial-cinematography/"><u>Advanced Techniques in Aerial Cinematography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-productivity-with-copilot-advanced-techniques-in-microsoft-teams/"><u>Boost Productivity with Copilot: Advanced Techniques in Microsoft Teams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-mkv-movies-content-on-galaxy-a25-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Galaxy A25 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-tutorial-how-to-clean-up-unwanted-software-on-macos/"><u>Complete Tutorial: How to Clean Up Unwanted Software on macOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-our-picked-selection-of-the-9-most-effective-language-learning-sites-free/"><u>Discover Our Picked Selection of the 9 Most Effective Language Learning Sites (Free)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-photography-hack-the-complete-strategy-for-effective-selfie-light-usage/"><u>DIY Photography Hack: The Complete Strategy for Effective Selfie Light Usage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-take-part-in-a-twitter-chat-expert-tips-inside/"><u>Effective Techniques to Take Part in a Twitter Chat - Expert Tips Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enable-stronger-account-protection-on-twitch-using-2fa-techniques/"><u>Enable Stronger Account Protection on Twitch Using 2FA Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enabling-the-text-to-speech-functionality-in-siri-across-ios-and-macos-platforms/"><u>Enabling the Text-to-Speech Functionality in Siri Across iOS and macOS Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-viewing-pleasure-professional-guidance-on-preparing-your-tv-and-audio-equipment-for-the-big-football-match/"><u>Enhance Your Viewing Pleasure: Professional Guidance on Preparing Your TV and Audio Equipment for the Big Football Match</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-fixing-the-frustrating-blue-screen-error-0x00000-cuffsstop/"><u>Expert Advice: Fixing the Frustrating Blue Screen Error 0X00000 cuffsSTOP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-overcoming-common-errors-in-usb-internet-sharing-setup/"><u>Expert Advice: Overcoming Common Errors in USB Internet Sharing Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-concept-to-reality-experience-the-journey-behind-samsungs-cutting-edge-phone-release/"><u>From Concept to Reality – Experience the Journey Behind Samsung's Cutting-Edge Phone Release</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-12-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi 12 Phone | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-correct-wpcapdll-not-available-problem-in-your-pc-system/"><u>Guide to Correct 'Wpcap.dll Not Available' Problem in Your PC System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-steps-to-download-netflix-films-onto-your-laptop/"><u>Guide: Steps to Download Netflix Films Onto Your Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-the-problem-of-a-missing-ksuserdll-effective-strategies-and-steps/"><u>How to Address the Problem of a Missing ksuser.dll: Effective Strategies and Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-customize-your-iphones-screen-brightness-with-night-mode-features/"><u>How To Customize Your iPhone's Screen Brightness with Night Mode Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-play-pokemon-unite-on-pc/"><u>How to Play ‘Pokémon Unite’ on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-narzo-60-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme Narzo 60 Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s17-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo S17 Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/instant-reachers-handbook-livestreaming-on-facebook-via-smartphones-for-2024/"><u>Instant Reachers' Handbook  Livestreaming on Facebook via Smartphones for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/properly-referencing-generative-ai-step-by-step-guide-on-citations/"><u>Properly Referencing Generative AI: Step-by-Step Guide on Citations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-server-management-a-guide-to-inviting-bots-to-discord/"><u>Simplifying Server Management: A Guide to Inviting Bots to Discord</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/six-outstanding-independent-offline-word-decoder-utilities-your-guide-to-choosing-the-best/"><u>Six Outstanding Independent Offline Word Decoder Utilities - Your Guide to Choosing the Best</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-pdhdll-not-found-issues/"><u>Step-by-Step Solutions for 'pdh.dll Not Found' Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-reversing-footage-in-snapchat-like-a-pro/"><u>Step-by-Step Tutorial: Reversing Footage in Snapchat Like a Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-crafting-and-sharing-duets-on-tiktok-easily/"><u>The Complete Guide to Crafting and Sharing Duets on TikTok Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-educational-tools-my-favorite-8-apps-of-2024/"><u>The Ultimate Selection of Educational Tools: My Favorite 8 Apps of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-to-buying-and-reading-e-books-using-apple-books-on-your-mobile-device/"><u>The Ultimate Tutorial to Buying and Reading E-Books Using Apple Books on Your Mobile Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-on-activatingdeactivating-iphone-recovery-mode/"><u>The Ultimate Walkthrough on Activating/Deactivating iPhone Recovery Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-11-revolutionary-tech-innovations-post-1844/"><u>Top 11 Revolutionary Tech Innovations Post-1844</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722882514235-unlock-new-horizons-with-our-top-5-favorite-free-language-apps-of-the-year/"><u>Unlock New Horizons with Our Top 5 Favorite Free Language Apps of the Year</u></a></li>
+</ul></div>

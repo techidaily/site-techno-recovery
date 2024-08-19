@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Printer Uninstallation Issues on Windows - Expert Tips and Solutions
-date: 2024-08-14 18:35:25
-updated: 2024-08-16 12:44:23
+date: 2024-08-18T16:40:44.404Z
+updated: 2024-08-19T16:40:44.404Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 To address this, follow these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Manually update your drivers
 
 1. Identify your graphics card model by pressing the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit Enter to open the Task Manager.
@@ -44,6 +47,9 @@ To address this, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/how-to-identify-your-graphics-card-model-1.png)
 3. Visit the official website of your GPU manufacturer and download the latest driver suitable for your specific GPU model.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
 [AMD](https://www.amd.com/en/support)  
@@ -61,6 +67,9 @@ Below is the simple three-step guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will proceed to download and install the latest versions of all your outdated and missing device drivers directly from the device manufacturer.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To access this feature, you’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, which offers complete support and a 30-day money-back guarantee. If you choose to upgrade by clicking on ‘Update All,’ you’ll receive a prompt. However, if you prefer to stick with the FREE version, you can still update your drivers individually by downloading them one by one and manually installing them.  
 
@@ -84,6 +93,9 @@ Below is the simple three-step guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After the reboot, relaunch your game and check your gaming performance. If your FPS still drops bafflingly, don’t fret! Below are some other methods you can try.
 
 ## 3\. Disable background applications
@@ -95,12 +107,18 @@ Below is the simple three-step guide:
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Click on the**Processes** tab. Observe the**CPU** and**GPU** columns to identify any processes consuming a significant amount of resources.  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/close-unnecessary-processes-1.png)
 4. Right-click the applications you want to close and select**End task** .
 
 Then restart your game and test your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Scan and repair your game files
 
  Game files may get corrupted or damaged over time due to reasons like improper installations, sudden system crashes, or file conflicts. Such issues can result in performance problems during gameplay, including FPS drops and stuttering. Scanning and repairing game files can detect and fix these corrupt or missing files, restoring the game to its original state and potentially resolving performance-related problems.
@@ -117,8 +135,14 @@ Then restart your game and test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 If your issues persist, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Adjust your in-game settings
 
  When it comes to troubleshooting graphics issues, adjusting in-game settings may help.
@@ -134,11 +158,17 @@ To use Windowed mode and turn off Vertical Sync, take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-menu-options.png)
 3. Under the**GRAPHICS** section, select**Windowed (Fullscreen)** from the dropdown. Then scroll down and find**Vertical Syncb** . Make sure it’s off.  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-adjust-in-game-settings.png)
 
 After applying changes, relaunch your game and check if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 6\. Enable hardware-accelerated GPU scheduling
 
  Hardware-Accelerated GPU Scheduling is a feature introduced in Windows 10 version 2004 and later. It allows the GPU to manage its video memory directly. And that can reduce the burden on the CPU and potentially improve graphics performance in games and applications.
@@ -162,12 +192,19 @@ Restart your computer to apply the changes.
 
  In such a case, should repair missing or corrupted system files. You can do this using the built-in Windows utility called**System File Checker (SFC)** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Run the System File Checker
 
 1. On your keyboard, press the**Windows logo key** . Type**cmd** in the search bar. Then right-click on**Command Prompt** from the search results and select**Run as administrator** .  
 
 ![run command prompt as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/cmd-run-as-administrator.jpg)
 2. In the Command Prompt window, type**sfc /scannow** and press Enter. The SFC tool will begin scanning your system for missing or corrupted files.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sfc-scannow.jpg)
 3. The scanning process may take some time, so be patient and let it complete.
@@ -204,3 +241,42 @@ Restart your computer to apply the changes.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-harmonyhub-pro-downloads-and-reviews/"><u>[New] HarmonyHub Pro Downloads & Reviews</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-nikon-j5-unleashed-embracing-4k-camera-technology/"><u>[New] Nikon J5 Unleashed  Embracing 4K Camera Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-scrutinizing-active-presenters-record-quality/"><u>[New] Scrutinizing Active Presenter's Record Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-splendor-animating-effects-unbound/"><u>[Updated] In 2024, From Script to Splendor  Animating Effects Unbound</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-shades-and-tones-mastering-the-visual-spectrum/"><u>[Updated] Shades and Tones  Mastering the Visual Spectrum</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-review-best-text-plugins-for-your-after-effects-projects/"><u>2024 Approved  A Review  Best Text Plugins For Your After Effects Projects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/budget-friendly-ways-to-enjoy-streaming-services-like-netflix-for-free/"><u>Budget-Friendly Ways to Enjoy Streaming Services Like Netflix for Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-troubleshooting-for-the-winhttpdll-not-present-problem/"><u>Comprehensive Troubleshooting for the 'Winhttp.dll Not Present' Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crack-the-code-of-eliminating-subwoofer-hum-naturally/"><u>Crack the Code of Eliminating Subwoofer Hum Naturally</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-backdrop-swap-selection-roundup/"><u>Cutting-Edge Backdrop Swap Selection Roundup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-ideal-online-retailers-and-stores-for-phones/"><u>Discovering Ideal Online Retailers and Stores for Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-correct-wavy-images-and-straighten-out-skewed-graphics-on-monitors/"><u>Easy Steps to Correct Wavy Images & Straighten Out Skewed Graphics on Monitors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/elevate-creations-get-free-high-quality-templates-today-in-2024/"><u>Elevate Creations - Get FREE High-Quality Templates Today, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/emergency-rescue-techniques-for-a-wet-iphone-or-ipod/"><u>Emergency Rescue Techniques for a Wet iPhone or iPod</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/epic-puzzle-gaming-on-apple-devices-find-fun-titles-akin-to-the-room-and-myst/"><u>Epic Puzzle Gaming on Apple Devices: Find Fun Titles Akin to 'The Room' & 'Myst'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/escape-the-problem-of-dead-airpods-a-users-guide-to-charging-solutions-9-steps/"><u>Escape the Problem of Dead AirPods: A User’s Guide to Charging Solutions (9 Steps)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-basics-of-ussd-your-ultimate-resource-for-unstructured-supplementary-service-information/"><u>Exploring the Basics of USSD - Your Ultimate Resource for Unstructured Supplementary Service Information</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-13c-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi 13C Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-ready-for-amazon-prime-day-2024-heres-everything-you-need-to-know/"><u>Getting Ready for Amazon Prime Day 2024? Here's Everything You Need to Know!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-advrcntr2dll-is-missing-errors/"><u>How to Fix Advrcntr2.dll Is Missing Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-f14-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hand-tracking-insights-and-types/"><u>In 2024, Hand Tracking Insights and Types</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-quick-fix-how-to-perform-a-hard-reset-on-any-ipad-version/"><u>Master the Quick Fix: How To Perform a Hard Reset on Any iPad Version</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-android-maintenve-a-complete-cache-clearing-tutorial/"><u>Mastering Android Maintenve: A Complete Cache Clearing Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-of-unaligned-gmail-messages/"><u>Solving the Problem of Unaligned Gmail Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-initiating-amazon-echo-dot-into-setup-mode/"><u>Step-by-Step Tutorial on Initiating Amazon Echo Dot Into Setup Mode</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/system-service-exception-on-windows-11-solved/"><u>System Service Exception on Windows 11 [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-showdown-analyzing-ios-app-store-against-google-play/"><u>The Ultimate Showdown: Analyzing IOS App Store Against Google Play</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-507-unforgettable-instagram-caption-ideas/"><u>Top 507 Unforgettable Instagram Caption Ideas</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transition-your-iphone-to-easier-evening-viewing-with-night-mode-settings/"><u>Transition Your iPhone to Easier Evening Viewing with Night Mode Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722883487115-troubleshooting-guide-for-resolving-netflix-playback-problems/"><u>Troubleshooting Guide for Resolving Netflix Playback Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-ps4-controller-with-ease/"><u>Ultimate Guide: Connecting Your PS4 Controller with Ease</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-the-disparities-youtube-versus-dailymotion/"><u>Understanding the Disparities  YouTube Versus Dailymotion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-network-possibilities-essential-guide-to-using-telnet-on-windows/"><u>Unlocking Network Possibilities: Essential Guide to Using Telnet on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-guide-to-understanding-and-using-claude-3/"><u>Your Guide to Understanding and Using Claude 3</u></a></li>
+</ul></div>

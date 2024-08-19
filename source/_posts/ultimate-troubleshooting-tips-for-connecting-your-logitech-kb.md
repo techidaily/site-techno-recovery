@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Tips for Connecting Your Logitech KB
-date: 2024-08-15 10:59:39
-updated: 2024-08-16 12:49:32
+date: 2024-08-18T16:43:44.827Z
+updated: 2024-08-19T16:43:44.827Z
 tags:
   - win11
   - win10
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  Be sure to check your computer monitor. If your computer seems to power on but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer’s case is plugged in securely at both ends.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Step 2: Remove External Devices
 
  1) Remove or disconnect all unnecessary discs and devices from the computer. Make sure that the computer is**off** , and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave**mouse** ,**keyboard** and**monitor** connected.
@@ -68,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  4) If your computer won’t start and the same problem exists, press and hold the power button to turn off the computer. Please make sure that you don’t connect any external devices to your computer for now.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 3: Perform a Hard Reboot
 
  If you**CANNOT**  log into the Windows 10, you can perform a hard reboot on your computer. This will allow you to go to the**Advanced options** page, where you are able to perform a refresh or a reset of your Windows 10\.
@@ -106,14 +113,23 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e35e350ad6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 5: Run disk check
 
  This method has been proved by a big number of users to be effective. So we think you may want to have a try:
@@ -122,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 2) In the Command Prompt window, type
 
 chkdsk c: /r /x
@@ -144,6 +164,9 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0bd42c7cf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 2) If prompt, click on the account you want to provide credentials for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
@@ -152,12 +175,18 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c40902d4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  For more information about resetting your computer from the options listed, please refer to this post here:
   
 [**How to reset Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
@@ -176,3 +205,39 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-affordable-sturdy-backpacks-and-bags-for-gamers-on-the-move/"><u>[New] In 2024, Affordable, Sturdy Backpacks & Bags for Gamers on the Move</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-complete-handbook-enhancing-productivity-using-mobizen-recorder/"><u>[New] In 2024, Complete Handbook  Enhancing Productivity Using Mobizen Recorder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-multimedia-mastery-tips-for-mass-photo-and-video-uploads-for-2024/"><u>[New] Instagram Multimedia Mastery  Tips for Mass Photo & Video Uploads for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-pivot-and-post-mastering-video-orientation/"><u>[New] Pivot and Post  Mastering Video Orientation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-money-trail-exploring-mr-beasts-path-for-2024/"><u>[New] The Money Trail  Exploring Mr. Beast's Path for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/are-inbuilt-iphone-apps-removable-or-permanent-software-features/"><u>Are Inbuilt iPhone Apps Removable or Permanent Software Features?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-of-the-best-elite-smartwatch-applications-for-android-users/"><u>Best of the Best: Elite Smartwatch Applications for Android Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-email-security-with-gmail-two-factor-auth-setup-guide/"><u>Boost Your Email Security with Gmail Two-Factor Auth Setup Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/campus-harmony-how-to-access-exclusive-savings-on-spotify-with-your-student-id/"><u>Campus Harmony: How to Access Exclusive Savings on Spotify with Your Student ID</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-integrating-nintendo-switch-game-system-with-television-display-for-enhanced-gaming-fun/"><u>Comprehensive Guide on Integrating Nintendo Switch Game System With Television Display for Enhanced Gaming Fun</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-free-disk-defragmenters-for-optimal-performance/"><u>Discover the Ultimate List of Free Disk Defragmenters for Optimal Performance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easily-trim-cut-and-merge-avi-files-on-windows-8-2023-guide/"><u>Easily Trim, Cut, and Merge AVI Files on Windows 8 - 2023 Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-erase-files-and-folders-with-windows-11s-command-prompt-techniques/"><u>Efficiently Erase Files and Folders with Windows 11'S Command Prompt Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/engaging-mobile-adventures-top-apps-similar-to-the-room-and-myst-for-ios-devices/"><u>Engaging Mobile Adventures: Top Apps Similar to The Room & Myst for iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-info-on-upcoming-apple-domestic-companion-unit-estimated-price-points-and-release-forecast/"><u>Exclusive Info on Upcoming Apple Domestic Companion Unit – Estimated Price Points & Release Forecast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-errors-with-missing-mfc42dll-for-windows-users/"><u>Fixing Errors with Missing mfc42.dll for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fugetek-ft-568-selfie-stick-review-a-sturdy-high-end-selfie-stick/"><u>Fugetek FT-568 Selfie Stick Review: A Sturdy, High-End Selfie Stick</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone XS Max with a Mask On</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-f14-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy F14 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-rise-and-challenges-of-video-streaming-profits/"><u>In 2024, The Rise and Challenges of Video Streaming Profits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unlock-your-potential-50-free-high-impact-banners-at-your-disposal/"><u>In 2024, Unlock Your Potential  50 FREE, High-Impact Banners at Your Disposal!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-your-network-to-blame-for-microsoft-teams-downtime/"><u>Is Your Network to Blame for Microsoft Teams Downtime?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-steps-for-assembling-your-personalized-projector-screen/"><u>Simple Steps for Assembling Your Personalized Projector Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/starfleet-chronicles-a-step-by-step-plan-for-enjoying-all-of-the-star-trek-movies-in-proper-sequence/"><u>Starfleet Chronicles: A Step-by-Step Plan for Enjoying All of the Star Trek Movies in Proper Sequence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-mastering-the-windows-telnet-command-line-tool/"><u>Step-by-Step Guide: Mastering the Windows Telnet Command Line Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-insiders-look-at-online-television-unveiling-the-secrets-of-smart-tvs/"><u>The Insider's Look at Online Television: Unveiling the Secrets of Smart TVs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-the-coredll-file-absence-issue/"><u>Ultimate Guide: Resolving the 'Core.dll' File Absence Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-limitations-when-is-facebook-marketplace-unavailable/"><u>Understanding the Limitations: When Is Facebook Marketplace Unavailable?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/1723262398600-unleash-powerful-graphics-build-your-own-ark-ai-accelerator-pcie-card-in-china-just-193/"><u>Unleash Powerful Graphics: Build Your Own ARK AI Accelerator PCIe Card in China - Just $193!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-trustedinstaller-authorization-in-windows-11-a-step-by-step-guide/"><u>Unlocking TrustedInstaller Authorization in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898108565-yahoo-mail-alert-steps-for-restoring-your-inbox-and-ensuring-new-emails-arrive/"><u>Yahoo Mail Alert: Steps for Restoring Your Inbox and Ensuring New Emails Arrive</u></a></li>
+</ul></div>

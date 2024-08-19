@@ -1,7 +1,7 @@
 ---
 title: Fix and Restore Vanished Desktop Icons in Windows 10 with Easy Tricks
-date: 2024-08-13 17:25:31
-updated: 2024-08-16 11:51:53
+date: 2024-08-18T16:43:18.868Z
+updated: 2024-08-19T16:43:18.868Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Run the Windows Update Troubleshooter
 
  The Update troubleshooter is a Windows built-in utility that can help resolve common issues with downloading and installing Windows updates.
@@ -52,6 +55,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
@@ -60,6 +66,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Disable third-party startups
 
  Some third-party applications may conflict with Windows update and cause disruptions to the process. To see if that’s the problem for you, follow the instructions below to disable auto startups on your PC:
@@ -68,12 +77,18 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-149.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 **2)** Click the**Startup** tab. Then, right-click the program you want to prevent it from opening on startup and select**Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ---
 
 ### Fix 3: Restart the Windows Update service
@@ -84,6 +99,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
@@ -130,6 +148,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-153.png)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 **2)** Check the boxes to select the file types to get rid of. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
@@ -172,6 +193,9 @@ If your problem persists, then move on to the next fix.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### Fix 6: Repair corrupted system files
 
  Corrupted or damaged system files may also be the reason why your computer updates so slow. Follow the instructions below to see how to fix the issue:
@@ -194,22 +218,34 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
 
  This process could take a little while. Please wait for it to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  If running the System File Checker didn’t help resolve your problem, try using the DISM tool to update your system files and correct your problem.
 
 #### Run the DISM command tool
@@ -222,6 +258,10 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
@@ -232,6 +272,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 **5)** Now, perform a Windows update to see if this fixed your problem.
 
  Hopefully, you would find this article useful and easy to follow. Feel free to leave a comment below if you have any suggestions and questions.
@@ -253,3 +296,36 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-a-comprehensive-analysis-mycams-video-capture-technology/"><u>[Updated] In 2024, A Comprehensive Analysis  MyCam's Video Capture Technology</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023-fix-facebook-videos-not-playing-on-androidiphonechrome-for-2024/"><u>2023 | Fix Facebook Videos Not Playing on Android/iPhone/Chrome for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flash-freeze-focus-leading-cameras-for-slow-speed-recording/"><u>2024 Approved  Flash Freeze Focus  Leading Cameras for Slow Speed Recording</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-beginners-guide-to-navigating-and-utilizing-the-powerful-functions-of-telegram/"><u>A Beginner's Guide to Navigating and Utilizing the Powerful Functions of Telegram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-your-firestick-a-step-by-step-guide-to-using-a-mobile-hotspot/"><u>Connecting Your Firestick: A Step-by-Step Guide to Using a Mobile Hotspot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-methods-to-transform-your-jpeg-collection-into-a-unified-pdf-format/"><u>Effortless Methods to Transform Your JPEG Collection Into a Unified PDF Format</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-best-of-beginners-fitness-tracking-with-the-amazfit-bip/"><u>Experience the Best of Beginner's Fitness Tracking with the Amazfit Bip</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-making-personalized-appointments-at-the-apple-store/"><u>Expert Advice on Making Personalized Appointments at the Apple Store</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-alternative-powertrains-a-comprehensive-guide-to-bevs-phevs-fcevs-and-hybrids/"><u>Exploring Alternative Powertrains: A Comprehensive Guide to BEVs, PHEVs, FCEVs, and Hybrids</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ready-for-android-16-insiders-guide-to-pricing-availability-and-features-free-trial/"><u>Get Ready for Android 16: Insider's Guide to Pricing, Availability & Features - Free Trial!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-se-2020-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone SE (2020) Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-correcting-the-missing-mapi32dll-error-on-your-windows-pc/"><u>Guide to Correcting the Missing Mapi32.dll Error on Your Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-broadcast-your-netflix-favorites-in-real-time-a-guide-to-screen-sharing/"><u>How To Broadcast Your Netflix Favorites in Real-Time: A Guide to Screen Sharing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lenovo-thinkphone-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lenovo ThinkPhone by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-reveal-the-latest-in-smartphone-evolution-meet-the-new-iphone/"><u>Innovative Reveal: The Latest in Smartphone Evolution – Meet the New iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-upcoming-google-pixel-fold-2-anticipated-costs-launch-timeline-and-latest-speculations/"><u>Inside Scoop on the Upcoming Google Pixel Fold 2 - Anticipated Costs, Launch Timeline & Latest Speculations!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-the-quick-fix-for-silencing-speaking-menus-on-your-smart-samsung-tv/"><u>Learn the Quick Fix for Silencing Speaking Menus on Your Smart Samsung TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-apple-watch-transactions-a-guide-to-using-apple-pay-seamlessly/"><u>Mastering Apple Watch Transactions: A Guide to Using Apple Pay Seamlessly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-quick-paths-to-influence-for-2024/"><u>Mastering Instagram  Quick Paths to Influence for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-system-security-turning-on-controlled-access-in-windows-11/"><u>Mastering System Security: Turning On Controlled Access in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-shopping-for-dash-cams-unpacking-the-top-9-features-and-specifications-you-need-to-know-about/"><u>Smart Shopping for Dash Cams - Unpacking the Top 9 Features and Specifications You Need to Know About</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-progress-of-fifth-generation-wireless-technology-an-examination-featuring-verizon/"><u>The Progress of Fifth Generation Wireless Technology – An Examination Featuring Verizon</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-6-favorite-free-editing-tools-that-challenge-photoshop/"><u>The Ultimate Guide: 6 Favorite Free Editing Tools That Challenge Photoshop</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-6-plus-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 6 Plus SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-for-getting-netflix-up-and-running-on-your-roku-player/"><u>Troubleshooting Tips for Getting Netflix Up and Running on Your Roku Player</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-your-pc-resolving-physxloaderdll-not-detected-errors/"><u>Troubleshooting Your PC: Resolving 'PhysXLoader.dll' Not Detected Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-mechanics-of-electric-motorcycle-operation/"><u>Understanding the Mechanics of Electric Motorcycle Operation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-mechanics-of-electric-motorcycle-technology/"><u>Understanding the Mechanics of Electric Motorcycle Technology</u></a></li>
+</ul></div>

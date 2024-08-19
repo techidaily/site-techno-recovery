@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Search Not Working [Solved]
-date: 2024-08-15 21:11:52
-updated: 2024-08-16 12:40:51
+date: 2024-08-18T16:42:18.714Z
+updated: 2024-08-19T16:42:18.714Z
 tags:
   - win11
   - win10
@@ -86,6 +86,11 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
@@ -94,10 +99,16 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 4: Perform a system restore
 
  When you have successfully booted into the Advanced repair option page, there is another thing that you can do: do a system restore, on the basis that you have turned this feature on previously. Here is how you do it:
@@ -106,14 +117,24 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e35e350ad6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Step 5: Run disk check
 
  This method has been proved by a big number of users to be effective. So we think you may want to have a try:
@@ -122,6 +143,9 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 2) In the Command Prompt window, type
 
 chkdsk c: /r /x
@@ -130,6 +154,9 @@ chkdsk c: /r /x
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e3a862c3ed.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 3) Wait for the scan process to finish.
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
@@ -148,6 +175,9 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
@@ -176,3 +206,39 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-the-art-of-laptop-video-capturing/"><u>[New] In 2024, Mastering the Art of Laptop Video Capturing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-perfect-idea-sparkle-top-youtube-videos-to-energize-your-channel/"><u>[New] The Perfect Idea Sparkle  Top YouTube Videos to Energize Your Channel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-developing-dynamic-instagram-feed-slides/"><u>[Updated] 2024 Approved  Developing Dynamic Instagram Feed Slides</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-essential-8-platforms-for-private-screenings-for-2024/"><u>[Updated] Essential 8 Platforms for Private Screenings for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-to-fire-stick-step-by-step-guide-for-smooth-casting/"><u>Android to Fire Stick: Step-by-Step Guide for Smooth Casting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-features-of-the-new-xbox-vr-headset-price-estimates-release-window-and-technical-specs-unveiled/"><u>Anticipated Features of the New Xbox VR Headset: Price Estimates, Release Window, and Technical Specs Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-software-to-optimize-your-pc-in-july-2n4-a-comprehensive-guide/"><u>Best Free Software to Optimize Your PC in July 2N4 - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-and-repair-netflix-glitch-code-nw-30-19-for-hassle-free-watching/"><u>Decode and Repair Netflix Glitch Code NW-30-19 for Hassle-Free Watching</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-details-of-lg-communication-pathways/"><u>Decoding the Details of LG Communication Pathways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/distinguishing-between-server-downtime-and-user-connectivity-issues-on-blizzard-battlenet/"><u>Distinguishing Between Server Downtime and User Connectivity Issues on Blizzard Battle.net</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enjoy-sports-with-ease-setting-up-espn-plus-on-an-lg-smart-tv/"><u>Enjoy Sports with Ease: Setting Up ESPN Plus on an LG Smart TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-pickups-top-choice-shows-streaming-on-discovery-plus-in-jul-2024/"><u>Exclusive Pickups: Top Choice Shows Streaming on Discovery Plus in Jul 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-accessing-espn-plus-on-your-lg-smart-television/"><u>Guide: Accessing ESPN + On Your LG Smart Television</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-switch-off-accessibility-settings-sticky-keys-tutorial-for-windows-users/"><u>How to Switch Off Accessibility Settings: Sticky Keys Tutorial for Windows Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-google-pixel-fold-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Google Pixel Fold?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-snicker-studio-cybernetic-cackles/"><u>In 2024, Snicker Studio  Cybernetic Cackles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-vs-samsung-s24-ultra-whats-the-difference/"><u>IPhone 15 Pro Max Vs. Samsung S24 Ultra: What's the Difference?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/list-of-ipad-versions-with-integrated-gps-capabilities/"><u>List of iPad Versions with Integrated GPS Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-ebooks-our-selection-of-top-8-apps-to-read-books/"><u>Navigating the World of eBooks: Our Selection of Top 8 Apps to Read Books</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-soundless-storytelling-removing-audio-from-videos-with-imovie-for-2024/"><u>New The Art of Soundless Storytelling Removing Audio From Videos with iMovie for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/newly-tested-foldable-iphone-preview-of-price-points-arrival-schedule-technical-specs-and-latest-tech-rumors/"><u>Newly Tested Foldable iPhone - Preview of Price Points, Arrival Schedule, Technical Specs and Latest Tech Rumors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/optimal-obs-configurations-for-thrifty-computers-for-2024/"><u>Optimal OBS Configurations for Thrifty Computers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revealing-hidden-apps-a-step-by-step-guide-for-your-iphone/"><u>Revealing Hidden Apps: A Step-by-Step Guide for Your iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sizzling-skills-7-keys-for-scrumptious-video-cooking-for-2024/"><u>Sizzling Skills  7 Keys for Scrumptious Video Cooking for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-unwanted-sound-movement-turn-off-head-tracking-feature-for-airpods/"><u>Solve Unwanted Sound Movement: Turn Off Head-Tracking Feature for AirPods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-ssl-issues-fixing-connection-is-not-secure-errors-easily/"><u>Troubleshooting SSL Issues: Fixing ‘Connection Is Not Secure’ Errors Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-roku-tv-step-by-step-instructions/"><u>Ultimate Guide: Connecting Your Roku TV - Step-by-Step Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-leading-samsung-smart-tv-apps/"><u>Ultimate List: Leading Samsung Smart TV Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-lifespan-of-evs-compared-to-standard-gasoline-car-expectations/"><u>Understanding the Lifespan of EVs Compared to Standard Gasoline Car Expectations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/vocal-variation-at-your-fingertips-free-software-to-transform-your-voice-for-2024/"><u>Vocal Variation at Your Fingertips  Free Software to Transform Your Voice for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722162597152-worried-about-your-privacy-with-chatgpt-discover-the-steps-to-opt-out-safely/"><u>Worried About Your Privacy with ChatGPT? Discover the Steps to Opt-Out Safely.</u></a></li>
+</ul></div>
