@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your Downloads: Syncing Ebooks to an iPad via MacOS X Mavericks"
-date: 2024-08-19 20:23:59
-updated: 2024-08-21 10:11:50
+date: 2024-08-20T09:52:38.734Z
+updated: 2024-08-21T09:52:38.734Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659cd0b84f4316b6b432fb112c.jpg
@@ -31,6 +31,9 @@ In the past we need to use iTunes to sync any kind of contents or apps to our iP
 
 And when you want to drag a downloaded local EPUB or PDF books into iTunes, it just bounces back and nothing changes. What's worse, you cannot find a sync button on the new iBooks for Mac application, either. In another word, we are unable to sync downloaded local EPUB and PDF books to our iPad, or other iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### iTunes says no, we make it yes
 
 I am not saying cracking iTunes or iBooks for Mac. To transfer or sync downloaded local EPUB and PDF eBooks to iPad, we have many other choices, and here I will introduce the most capable and simplest way - **Calibre Content Server**.
@@ -49,24 +52,36 @@ Calibre is totally free to download and use. Click the buttons below you can dow
 
 [![calibre for mac](http://www.epubor.com/images/guide-download-mac.png)](http://status.calibre-ebook.com/dist/osx32)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 2Load the books you want to sync into Calibre
 
 By directly dragging eBook files into Calibre you can load them in.
 
 ![load-books-into-calibre-mac](http://www.epubor.com/images/load-books-into-calibre-mac.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3Enable Calibre Content Server feature
 
 Look at the menu bar at the top, click "Connect/share --> Start Content Server". Then the three blue ball will turn to green, and there will display your IP address and port information, which will be necessary in the following steps.
 
 ![mac-calibre-content-server](http://www.epubor.com/images/mac-calibre-content-server.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4Visit Calibre Content Server on your iPad
 
 Now take your iPad and open the web browser, input \[your IP address:port\] in the url address bar and visit it. For example, my IP address is 192.168.1.16 and my port is 8080, then I should visit 192.168.1.16:8080.
 
 ![visit-calibre-content-server-on-ipad](http://www.epubor.com/images/visit-calibre-content-server-on-ipad.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5Sync/Transfer books to iPad under Mavericks
 
 Click the "Get" button under book cover, then we will be navigated to a page which asks you how to open this file. "Open in 'iBooks'" is what we choose.
@@ -85,6 +100,10 @@ Related Reading
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -420,3 +439,59 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-cost-efficient-4k-camera-options-(1k/"><u>[New] Cost-Efficient 4K Camera Options <$1K</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-digital-training-footage/"><u>[New] In 2024, Digital Training Footage</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-your-mac-a-complete-guide-to-leveraging-preview-features/"><u>[New] In 2024, Mastering Your Mac  A Complete Guide to Leveraging Preview Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimizing-youtube-and-twitch-with-obs-streaming-techniques/"><u>[New] Optimizing YouTube & Twitch with OBS Streaming Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlocking-creativity-in-youtube-shorts-template-development-for-2024/"><u>[New] Unlocking Creativity in YouTube Shorts Template Development for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-demystifying-the-process-of-high-dynamic-range-in-photoshop/"><u>[Updated] 2024 Approved  Demystifying the Process of High Dynamic Range in Photoshop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-visual-upgrades-top-apps-to-transform-your-photos/"><u>[Updated] In 2024, Visual Upgrades  Top Apps to Transform Your Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-youtube-to-mp4-get-free-hd1080p-from-facebook-vids/"><u>[Updated] In 2024, YouTube-to-MP4  Get Free HD/1080P From Facebook Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-the-digital-divide-with-gratuitous-animations/"><u>2024 Approved  Bridging the Digital Divide with Gratuitous Animations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-the-clouds-advanced-drone-video-techniques/"><u>2024 Approved  Capturing the Clouds  Advanced Drone Video Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-v30-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo V30 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-the-problem-a-comprehensive-approach-when-your-iphones-email-doesnt-work/"><u>Addressing the Problem: A Comprehensive Approach When Your iPhone's Email Doesn't Work</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722875925325-beyond-just-funny-faces-uncovering-remarkable-tidbits-from-the-history-and-usage-of-emojis/"><u>Beyond Just Funny Faces: Uncovering Remarkable Tidbits From the History and Usage of Emojis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-for-python24dll-not-found-errors-on-windows-computers/"><u>Comprehensive Fixes for Python24.dll Not Found Errors on Windows Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-troubleshooting-of-d3dx9-34dll-file-not-found-problems-in-windows/"><u>Comprehensive Troubleshooting of D3dx9_ 34.dll File Not Found Problems in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creating-your-own-compiled-pdf-a-simple-method-for-assembling-jpeg-photos-together/"><u>Creating Your Own Compiled PDF: A Simple Method for Assembling JPEG Photos Together</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-snapchat-expressions-your-complete-emoji-cheat-sheet/"><u>Deciphering Snapchat Expressions: Your Complete Emoji Cheat Sheet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-apple-iphone-maps-and-navigation-tools-today/"><u>Discover the Best Apple iPhone Maps and Navigation Tools Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-pairing-techniques-for-logitech-mice-using-unique-rechargeable-transmitters/"><u>Easy Pairing Techniques for Logitech Mice Using Unique Rechargeable Transmitters</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/steps-for-exporting-videos-from-youtube-to-dailymotion-for-2024/"><u>Easy Steps for Exporting Videos From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-worn-out-text-appearance-in-fc6/"><u>Eradicating Worn-Out Text Appearance in FC6</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-restoring-functionality-to-your-broken-macbook-pro-keyboard/"><u>Expert Tips for Restoring Functionality to Your Broken MacBook Pro Keyboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-correct-the-code-41-problems-in-device-manager/"><u>Expert Tips to Correct the Code 41 Problems in Device Manager</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-elusive-steamdll-error-tips-and-techniques/"><u>Fixing the Elusive Steam.dll Error: Tips & Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-vega-driver-updates-enhanced-performance-for-gamers/"><u>Get the Latest AMD Vega Driver Updates - Enhanced Performance for Gamers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-90-gt-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor 90 GT Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-repair-a-504-gateway-timeout-problem-a-comprehensive-guide/"><u>How To Successfully Repair a 504 Gateway Timeout Problem - A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-12-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 12 Without a Passcode</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-boundaries-a-comprehensive-hubsan-h501x4-study/"><u>In 2024, Beyond Boundaries  A Comprehensive Hubsan H501X4 Study</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-step-by-step-tutorial-on-how-to-use-igtv-effectively/"><u>In 2024, Step-by-Step Tutorial on How to Use IGTV Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/insider-secrets-to-sharpen-your-photoshop-skills/"><u>Insider Secrets to Sharpen Your Photoshop Skills</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lg-tv-and-netflix-woes-discover-effective-fixes-to-resume-streaming/"><u>LG TV and Netflix Woes? Discover Effective Fixes to Resume Streaming</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mac-os-video-editor-turn-photos-into-beautiful-slideshows-for-2024/"><u>Mac OS Video Editor Turn Photos Into Beautiful Slideshows for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-apple-watch-notifications-with-your-gmail-account-setup/"><u>Mastering Apple Watch Notifications with Your Gmail Account Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-privacy-in-video-calls-how-to-blur-your-surroundings-in-google-meet/"><u>Mastering Privacy in Video Calls: How to Blur Your Surroundings in Google Meet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-selecting-all-conversations-in-your-gmail-inbox/"><u>Mastering the Art of Selecting All Conversations in Your Gmail Inbox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-quest-3-lite-buzz-estimated-price-range-planned-debut-dates-and-rumored-feature-list-compilation/"><u>Meta Quest 3 Lite Buzz: Estimated Price Range, Planned Debut Dates & Rumored Feature List Compilation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-screen-stains-effective-methods-to-fix-permanent-image-problems-on-screens/"><u>Overcoming Screen Stains: Effective Methods to Fix Permanent Image Problems on Screens</u></a></li>
+<li><a href="https://facebook.techidaily.com/peering-back-through-the-lens-of-time-on-fb/"><u>Peering Back Through the Lens of Time on FB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/power-up-your-smartphone-ways-to-recharge-without-the-original-cable/"><u>Power Up Your Smartphone: Ways to Recharge Without the Original Cable</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/selecting-an-ipad-understanding-which-versions-have-native-gps-functionality/"><u>Selecting an iPad: Understanding Which Versions Have Native GPS Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-a-disappearing-avcodecdll-a-step-by-step-guide/"><u>Solving the Mystery of a Disappearing Avcodec.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/starting-your-journey-as-a-prompt-engineer-key-steps-and-strategies/"><u>Starting Your Journey as a Prompt Engineer: Key Steps and Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-navigating-and-optimizing-your-experience-with-google-gemini/"><u>Step-by-Step Tutorial: Navigating and Optimizing Your Experience with Google Gemini</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-blueprint-for-effective-lut-usage-in-editing/"><u>The Complete Blueprint for Effective LUT Usage in Editing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-perfect-viewing-path-unraveling-the-conjuring-franchise-movie-by-movie/"><u>The Perfect Viewing Path: Unraveling the 'Conjuring' Franchise Movie-by-Movie</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-james-bond-movie-marathon-plan-for-fans/"><u>The Ultimate James Bond Movie Marathon Plan for Fans</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722884098629-top-ipad-bargains-exclusive-offers-just-for-you/"><u>Top iPad Bargains: Exclusive Offers Just For You!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repair-steps-for-d3dx927dll-errors-in-windows/"><u>Troubleshooting and Repair Steps for d3dx9_27.dll Errors in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-of-retrieving-deleted-notifications-from-your-iphone/"><u>Unlock the Secrets of Retrieving Deleted Notifications From Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-netgear-devices-julys-ultimate-2024-default-password-collection/"><u>Unlocking Your NETGEAR Devices: July's Ultimate 2024 Default Password Collection</u></a></li>
+</ul></div>

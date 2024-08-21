@@ -1,0 +1,126 @@
+---
+title: "Troubleshooting Connection Issues: Is Blizzard's Battle.net Currently Unavailable?"
+date: 2024-08-20T09:55:28.011Z
+updated: 2024-08-21T09:55:28.011Z
+categories:
+  - BestProducts
+description: "This Article Describes Troubleshooting Connection Issues: Is Blizzard's Battle.net Currently Unavailable?"
+excerpt: "This Article Describes Troubleshooting Connection Issues: Is Blizzard's Battle.net Currently Unavailable?"
+thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c78ed3cd5b584a70064abc036.jpg
+---
+
+## Navigating Chat Interruptions: How to Tell if There's a Global Discoord Down Event or Just Your Connection Woes
+ If you can't log in to[Discord](https://www.lifewire.com/discord-4174046) , the chat service might be down, or it could just be an issue with your computer, the Discord app, or even your Discord account. It can sometimes be difficult to know if there's a Discord outage for everyone or if it's just you, but there are usually signs about which it is. Here's how to know if Discord is down or if it's an issue with your tech.
+
+ Instructions in this article apply broadly to all devices that are able to connect to Discord.
+
+## How to Tell If Discord Is Down
+
+ If you think the Discord servers are down for everyone, try these steps to check:
+
+1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
+![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
+ This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
+![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
+3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
+ If you can't open X either, then the problem is likely on your end or with your ISP.
+4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
+![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
+ If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+## What to Do When You Can't Connect to Discord
+
+ There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
+
+1. Make sure you're really visiting <www.discord.com>. If you're using a Discord app, make sure it's the[official Discord app](https://discord.com/download) for PC, Linux, Mac, iOS and Android.
+2. If you're unable to access Discord from your web browser, try using the Discord app. If the app isn't working, try using the browser instead. Pinpoint if there's a specific device or method that isn't working.
+3. [Close all of your browser windows](https://www.lifewire.com/close-all-tabs-computer-android-browsers-4173831) , wait 30 seconds, open one window, and then try accessing Discord again. Do the same to your Discord app if you're on a tablet or smartphone, but make sure you're actually closing down the app; learn how to[close Android apps](https://www.lifewire.com/close-apps-on-android-4164116) and how to[quit apps on iPhone](https://www.lifewire.com/quit-apps-on-iphone-2000287) .  
+ If you think that the browser or app isn't closing properly, or it gets stuck,[restart your device](https://www.lifewire.com/why-does-restarting-seem-to-fix-most-computer-problems-2624569) and try again.
+4. [Clear your browser's cache.](https://www.lifewire.com/how-to-clear-cache-2617980) Clearing your cache will likely clear out any errors that may have been introduced while you were browsing around the internet.
+5. [Clear your browser's cookies.](https://www.lifewire.com/how-to-delete-cookies-2617981) In the same way that clearing the cache works, clearing your browser's cookies does, too. These tiny bits of information can sometimes cause errors, so clearing them out and starting again is helpful.
+6. [Scan your computer for malware.](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) Malware can cause all manner of problems that wouldn't seem to be related to malware. Even if you've scanned recently, try scanning for viruses and other malware again, just to be sure.
+7. [Restart your computer.](https://www.lifewire.com/how-to-reboot-a-computer-2624568) Isn't it funny how restarting seems to fix so many things? Restarting your computer can fix numerous problems that are temporary. Give it a shot. You might be surprised at how well this works.
+8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
+
+ If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+## Discord Error Messages
+
+ Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
+
+* **Discord No Route** . This error occurs when trying to connect to a voice channel and your network can't join it. It's usually caused by an overenthusiastic VPN, firewall or antivirus. Sometimes a restart fixes it, other times you need to make Discord an exception on your firewall or antivirus.
+* **Discord Won't Open.** This happens when there's an issue with your app. Reinstall the app or switch to using the browser-based version.
+
+ If Discord is down with a message about maintenance, wait it out is your only option. The service should resume at some point soon.
+
+[How to Fix It When a Discord Update Fails: Learn More](https://www.lifewire.com/fix-failed-discord-update-5080924)
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-mastery-the-top-10-steps-to-optimize-engagement/"><u>[New] In 2024, Instagram Mastery  The Top 10 Steps to Optimize Engagement</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-fundamentals-of-earnings-on-youtube/"><u>[New] In 2024, The Fundamentals of Earnings on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-screenscape-innovations-an-unbiased-look-at-apeaksoft-2023-edition-for-2024/"><u>[New] Screenscape Innovations  An Unbiased Look at Apeaksoft, 2023 Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-your-creative-potential-best-free-premiere-pro-libraries/"><u>[New] Unlock Your Creative Potential  Best Free Premiere Pro Libraries</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-from-cameras-to-obs-a-step-by-step-mac-and-pc-broadcast-setup-for-2024/"><u>[Updated] From Cameras to OBS  A Step-by-Step Mac & PC Broadcast Setup for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamps-to-youtube-video-to-increase-views-for-2024/"><u>[Updated] How to Add Timestamps to YouTube Video to Increase Views for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-guide-to-enthralling-boomers-on-snapchat/"><u>[Updated] The Complete Guide to Enthralling Boomers on Snapchat</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/20-off-driver-easy-coupon-2024-official-coupon-code/"><u>20%% Off Driver Easy Coupon | 2024 Official Coupon Code</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-hitpaw-screen-recorder-review-and-alternative/"><u>2024 Approved  HitPaw Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-social-savvy-strategies-for-maxed-out-page-popularity/"><u>2024 Approved  Social Savvy Strategies for Maxed-Out Page Popularity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieve-lightning-fast-battlenet-downloads-the-ultimate-guide-for-optimal-internet-speed/"><u>Achieve Lightning-Fast Battlenet Downloads: The Ultimate Guide for Optimal Internet Speed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beats-wireless-headphones-connection-guide-how-to-pair-with-windows-11-step-by-step-tutorial/"><u>Beats Wireless Headphones Connection Guide: How to Pair with Windows 11 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-guide-to-effortless-wireless-printer-connection/"><u>Beginner's Guide to Effortless Wireless Printer Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-gaming-or-work-efficiency-by-optimizing-mouse-sensitivity-dpi-configuration/"><u>Boost Your Gaming or Work Efficiency by Optimizing Mouse Sensitivity (DPI) Configuration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-torrent-restrictions-and-finding-reliable-downloads/"><u>Bypassing Torrent Restrictions & Finding Reliable Downloads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-how-to-effortlessly-delete-software-in-windows-11/"><u>Comprehensive Tutorial: How to Effortlessly Delete Software in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808110465-desktop-icon-disappearance-in-windows-10-heres-how-to-get-them-back/"><u>Desktop Icon Disappearance in Windows 10? Here's How to Get Them Back!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-block-unwanted-driver-installs-via-windows-11-updates-guide/"><u>Effective Ways to Block Unwanted Driver Installs via Windows 11 Updates (Guide)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-rectifying-unresponsive-usb-ports-on-your-notebook-computer/"><u>Expert Tips for Rectifying Unresponsive USB Ports on Your Notebook Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-xiaomi-redmi-a2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Xiaomi Redmi A2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-defective-usb-port-issues-on-laptops/"><u>Step-by-Step Solution for Defective USB Port Issues on Laptops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-seamless-usb-driver-updates-across-multiple-windows-versions/"><u>Step-by-Step Tutorial for Seamless USB Driver Updates Across Multiple Windows Versions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-m34-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy M34 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-of-linking-a-printer-to-your-windows-10-pc/"><u>The Complete Walkthrough of Linking a Printer to Your Window's 10 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-fixing-logitech-mouse-issues-on-windows-10/"><u>Troubleshooting Guide: Fixing Logitech Mouse Issues on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-hxtsrexe-process-in-windows-11-a-complete-guide/"><u>Troubleshooting the hxtsr.exe Process in Windows 11 – A Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/turning-off-cortana-feature-on-your-windows-11-pc-a-step-by-step-guide/"><u>Turning Off Cortana Feature on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-on-setting-up-and-connecting-a-printer-to-windows-10-system/"><u>Ultimate Tutorial on Setting Up and Connecting a Printer to Windows 10 System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-cpu-temperature-spikes-and-effective-cooling-solutions/"><u>Understanding CPU Temperature Spikes and Effective Cooling Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-windows-11-update-utility-explanation-and-steps-for-removal/"><u>Understanding the Windows 11 Update Utility: Explanation & Steps for Removal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-access-to-fortnite-in-educational-institutions-methods-revealed/"><u>Unlock Access to Fortnite in Educational Institutions - Methods Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-five-key-methods-to-utilize-the-group-policy-editor-on-windows-11/"><u>Unveiling Five Key Methods to Utilize the Group Policy Editor on Windows 11</u></a></li>
+</ul></div>

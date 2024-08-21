@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering the Art of E-Book Reading on Microsoft's Win 8 Tablets: Surface RT & Pro Guides"
-date: 2024-08-18 12:23:44
-updated: 2024-08-21 10:56:15
+date: 2024-08-20T09:52:16.983Z
+updated: 2024-08-21T09:52:16.983Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1800ba21659cf76cde33dc5d.jpg
@@ -93,10 +93,17 @@ However, there is no such a compatible version for Sony reading app. We can't ei
 
 Frankly, I do not that like reading eBooks in PDF format, which is not as flexible as EPUB or Kindle books. Luckily, Adobe Reader gives us another free way, along with Nook / Kobo reading apps, to read eBooks on Surface tablets with password-protected PDFs supported. It enables readers to quickly open PDF documents, search text, select reading modes, share & email PDFs, draw markups, zoom text & images, use bookmarks & links and the like.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### 2\. How to read Amazon Kindle books on Microsoft Surface RT / Pro (Windows 8)
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - Kindle for Win 8](https://www.epubor.com/images/uppic/read-eBooks-on-Microsoft-Surface-kindle-for-win8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 Reading Kindle books on Surface tablets is much easier.
 
 **1** Go to Windows app store and [download & install Kindle for Win 8 app](http://apps.microsoft.com/windows/en-us/app/kindle/1d7e4396-0143-4aed-8892-84eb75e799f3) on Surface RT / Pro.
@@ -111,6 +118,9 @@ Do hope this post will deliver you readers a good understanding of how to read e
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -228,3 +238,58 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/fixed-windows-pc-health-check-app-not-working/"><u>[Fixed] Windows PC Health Check App Not Working</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-superior-facebook-extras-secure-video-grab-and-firefox-use/"><u>[Updated] 2024 Approved  Superior Facebook Extras  Secure Video Grab & Firefox Use</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-practical-guide-to-applying-creative-commons-rights-for-2024/"><u>[Updated] A Practical Guide To Applying Creative Commons Rights for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-common-youtube-short-hurdles/"><u>[Updated] Navigating Common YouTube Short Hurdles</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/deceiving-plugin-for-chatgpt-larcensively-saps-fb-logins/"><u>Deceiving Plugin for ChatGPT: Larcensively Saps FB Logins</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-stalled-windows-system-updates/"><u>Diagnosing and Repairing Stalled Windows System Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/directx-update-made-easy-quick-solutions-for-windows-10-and-11-users/"><u>DirectX Update Made Easy: Quick Solutions for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dissecting-the-oneplus-9-a-critical-look-at-its-performance/"><u>Dissecting the OnePlus 9: A Critical Look at Its Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-guide-to-rectify-failed-hardware-format-on-windows-devices/"><u>DIY Guide to Rectify Failed Hardware Format on Windows Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easily-leaving-safe-mode-on-your-pc-a-comprehensive-walkthrough-for-windows-natives/"><u>Easily Leaving Safe Mode on Your PC: A Comprehensive Walkthrough for Windows Natives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-and-fast-how-to-get-high-quality-mp3s-from-soundcloud-today/"><u>Easy & Fast: How To Get High-Quality MP3s From SoundCloud Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fix-for-the-windows-11-installation-failed-with-error-code-80240020-your-guide/"><u>Easy Fix for the Windows 11 Installation Failed with Error Code 80240020 - Your Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-downgrading-your-nvidia-drivers-in-windows-10/"><u>Effective Techniques for Downgrading Your Nvidia Drivers in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-techniques-for-optimizing-cpu-performance-and-reducing-load-on-windows-devices/"><u>Essential Techniques for Optimizing CPU Performance and Reducing Load on Windows Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-strategies-resetting-your-lost-snapchat-account-key/"><u>Expert Strategies: Resetting Your Lost Snapchat Account Key</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fast-track-changing-your-facebook-password-made-effortless/"><u>Fast Track: Changing Your Facebook Password Made Effortless</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/freedom-online-how-to-remove-content-filters-and-unblock-sites-on-chrome/"><u>Freedom Online: How to Remove Content Filters and Unblock Sites on Chrome</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-easy-steps-to-set-up-wi-fi-connection-on-your-windows-11-pc/"><u>Guide: Easy Steps to Set Up Wi-Fi Connection on Your Windows 11 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-steps-to-configure-port-settings-on-the-windows-7-firewall/"><u>Guide: Steps to Configure Port Settings on the Windows 7 Firewall</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/high-cpu-usage-on-windows-10-solved/"><u>High CPU Usage on Windows 10 [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-connect-a-printer-to-your-laptop-wirelesslyvia-cable/"><u>How to Connect a Printer to Your Laptop Wirelessly/Via Cable</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-discover-your-current-ip-address-without-cost-a-guide/"><u>How to Discover Your Current IP Address Without Cost – A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-download-fortnite-on-android-phone/"><u>How to Download Fortnite on Android Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-gear-up-a-dual-step-guide-to-embrace-the-windows-11-creators-update/"><u>How to Gear Up? A Dual-Step Guide to Embrace the Windows 11 Creator’s Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-optimize-windows-10-for-gaming/"><u>How to Optimize Windows 10 for Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-remove-onedrive-from-file-explorer-on-windows-11-solved/"><u>How to Remove OneDrive From File Explorer on Windows 11 [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-desktop-icons-on-your-windows-10-pc-a-step-by-step-guide/"><u>How to Restore Desktop Icons on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-secure-your-wi-fi-network-windows-11-7-81-quickly-and-easily/"><u>How to Secure Your Wi-Fi Network | Windows 11, 7, 8.1 | Quickly & Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-windows-11-and-downgrade-to-windows-7-or-windows-81-quickly-and-easily/"><u>How to Uninstall Windows 11 and Downgrade to Windows 7 or Windows 8.1, Quickly and Easily!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-spark-10-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Spark 10 5G Phone?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nubia Red Magic 8S Pro+ Device</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-x-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone X Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-the-webs-leading-marketplaces-for-ringtones/"><u>In 2024, Uncovering the Web's Leading Marketplaces for Ringtones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808209611-install-nginx-and-configure-ssl-tutorial/"><u>Install Nginx and Configure SSL – Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-compatibility-official-guide-for-downloading-googles-usb-driver-software/"><u>Mastering Compatibility: Official Guide for Downloading Google's USB Driver Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-display-settings-in-windows-11-easy-fix-for-changing-screen-resolution/"><u>Mastering Display Settings in Windows 11: Easy Fix for Changing Screen Resolution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-image-dimension-changes-for-pcs-and-macbooks/"><u>Mastering Image Dimension Changes for PCs and MacBooks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-process-get-your-directx-12-for-windows-10-up-and-running/"><u>Mastering the Process: Get Your DirectX 12 for Windows 10 up and Running</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-wsus-the-ultimate-resource-for-essential-information-and-tips/"><u>Mastering WSUS: The Ultimate Resource for Essential Information and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-gaming-experience-ultimate-guide-to-boosting-game-performance-on-windows-10/"><u>Maximizing Your Gaming Experience: Ultimate Guide to Boosting Game Performance on Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-apps-for-recording-and-editing-reaction-videos-on-the-go/"><u>New In 2024, The Best Apps for Recording and Editing Reaction Videos on the Go</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimizing-performance-with-reset-in-windows-11-tips-for-timing-and-execution-strategies/"><u>Optimizing Performance with Reset in Windows 11: Tips for Timing and Execution Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/overcoming-windows-11-photo-app-anomalies-with-ease-for-2024/"><u>Overcoming Windows 11 Photo App Anomalies with Ease for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-and-easy-steps-to-determine-which-windows-os-youre-running/"><u>Quick and Easy Steps to Determine Which Windows OS You're Running</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-and-simple-guide-setting-up-a-vpn-on-your-mac-seamless-security/"><u>Quick and Simple Guide: Setting Up a VPN on Your Mac - Seamless Security</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-installation-failed-on-windows-11-a-comprehensive-guide/"><u>Resolving 'Installation Failed' On Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-frame-rate-fluctuations-and-dropping-items-in-diablo-n-pc-troubleshooting-tips-and-tweaks/"><u>Resolving Frame Rate Fluctuations & Dropping Items in Diablo N: PC Troubleshooting Tips and Tweaks!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solution-steps-resolving-issues-of-invisible-seagate-hdds-in-windows-10-environments/"><u>Solution Steps: Resolving Issues of Invisible Seagate HDDs in Windows 10 Environments</u></a></li>
+</ul></div>
