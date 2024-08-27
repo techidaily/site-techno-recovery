@@ -1,0 +1,202 @@
+---
+title: Discover the Ultimate Guide to Organizing Your Family's Schedule with Shared Calendars
+date: 2024-08-26T06:00:24.156Z
+updated: 2024-08-27T06:00:24.156Z
+categories:
+  - BestProducts
+description: This Article Describes Discover the Ultimate Guide to Organizing Your Family's Schedule with Shared Calendars
+excerpt: This Article Describes Discover the Ultimate Guide to Organizing Your Family's Schedule with Shared Calendars
+thumbnail: https://www.lifewire.com/thmb/Lgd5TUsFkYjXRy5hbjlIgZVN9U4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-842826736-59f8f627054ad90010347440.jpg
+---
+
+## From Ebooks to Hardcovers – The Ultimate Tech Guide Featuring Top Laptops and Smartphones
+
+In This Article
+
+* [Must-Haves: Computers and Laptops](https://www.lifewire.com/#toc-must-haves-computers-laptops-and-peripherals)
+* [Connections: Phones and Smartwatches](https://www.lifewire.com/#toc-connections-the-power-of-phones-and-smartwatches)
+* [Apps to Support Studying](https://www.lifewire.com/#toc-using-apps-and-sites-can-support-good-study-habits)
+* [Frequently Asked Questions](https://www.lifewire.com/#toc-frequently-asked-questions-c6fed4bb-9136-4083-9e82-76db0f224b34)
+
+ _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
+
+## Must-Haves: Computers, Laptops and Peripherals
+
+ Does your child need a laptop or a desktop computer? It could be that they need both, plus accessories (known as peripherals) like mice, webcams, and headphones.
+
+ Laptops are great for letting kids work when they're on a school bus, waiting for a ride, or hanging out anywhere there is a Wi-Fi connection. They don't always have the same power and capabilities, however, that a desktop PC might. But for completing most middle- and high-school assignments, they should work just fine.
+
+ Some schools or districts provide students with Chromebooks free of charge; others don't. On the other hand, college students are almost always expected to provide their own devices (like laptops or computers).
+
+ Depending on your child's situation, you might need to budget this year for a new laptop or desktop computer, or you might be able to get away with adding just a few peripherals like a new mouse, webcam, or speakers.
+
+ Beware of school policies around Chromebook lending. In most cases, parents must sign releases indicating they will be responsible for anything that might happen to the device. That can put you on the hook for a spendy replacement or repair you might not be ready for. Schools do have other options they can give you, including requiring the student to keep the Chromebook at school or providing them with paper assignments instead.
+
+ The real trick is deciding what you need to buy. While it's tempting to purchase the cheapest items, that can backfire because "inexpensive" sometimes translates into cheap materials that can't withstand your child's activities or the occasional tossed backpack. Less expensive devices may also lack the speed or power to do everything your student needs them to.
+
+[Editor's Choice: The Best Tech Gifts for Back To School](https://www.lifewire.com/editor-s-choice-the-best-tech-gifts-for-back-to-school-7692969)
+
+![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
+
+Skynesher/Getty
+
+ For example, if your child is a STEM kid or a graphic artist, more power and storage are necessary overall. On the other hand, kids who just need to manage basic projects and complete homework on time will probably do fine with a standard Chromebook.  
+
+ As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
+
+### Look for Student Discounts
+
+ Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
+
+ College students typically require more rigorous systems that offer increased power and storage capacity to manage their projects and needs; middle and high schoolers can often get by with less robust systems.
+
+ Here's a list of the[must-have tech items every student needs](https://www.lifewire.com/tech-items-every-student-needs-4172498) ; your specific situation could also mean you need something extra.
+
+[The Ultimate Guide to Buying a Computer for School](https://www.lifewire.com/guide-to-buying-a-school-computer-832300)
+
+[8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
+
+[Computer & Laptop Reviews & Top Picks](https://www.lifewire.com/best-laptops-to-buy-4043650)
+
+![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Connections: The Power of Phones and Smartwatches
+
+ Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
+
+ They can use the built-in calculator, access school assignments, connect with teachers, and do even more from a phone these days. They can also set appointments and reminders, for example, and create to-do lists to help them stay organized.
+
+ While parental controls and rules should always apply, I've found there are a variety of mobile apps that have been useful for helping my kids get and stay organized. These apps are frequently available for both phones and smartwatches; we've got a list[that are also completely free to download and use](https://www.lifewire.com/free-back-to-school-apps-3486327) .
+
+ Beyond the organization perks, phones are, in many ways, lifelines to peers. While that can be a bit tough for parents to manage, it is an important aspect of teenage life these days.
+
+[How to Set up an iPhone or iPod Touch for Kids](https://www.lifewire.com/before-giving-kids-ipod-touch-iphone-1999121)
+
+ One of my teenagers also uses a smartwatch; these can be a great, portable way to help a busy child stay in touch and keep track of appointments while limiting their need to stare at a screen.  
+
+ What's been extremely useful in our household is that a smartwatch can also take and make phone calls or text messages (additional carrier fees likely apply); when a phone is in a backpack (or lost), I can still reach my child, and they can reach me.
+
+[Childproof Your Android: How to Make It Kid-Friendly But Safe](https://www.lifewire.com/childproof-android-4137048)
+
+[Our 8 Favorite Parental Control Apps and Services of 2024](https://www.lifewire.com/best-parental-control-apps-4691864)
+
+[How to Check Screen Time on Android](https://www.lifewire.com/check-screen-time-on-android-5069900)
+
+[Family Tech Tips](https://www.lifewire.com/setup-parental-controls-on-an-ipad-ipod-touch-or-iphone-2487266)
+
+![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Using Apps and Sites Can Support Good Study Habits
+
+ Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
+
+![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
+
+ If your child loves using their smartphone, give them something parent-approved to use!
+
+ Photomath, Yousician, and similar types of apps are fun for kids of all ages, and they might not even realize they are learning while using them.
+
+ You don't need to always download an app, by the way.
+
+ Many websites offer all kinds of study support: [Kidztype.com](https://www.kidztype.com/browse-typing-games.html) , for instance, can help teens ditch the thumb-typing approach and learn how to type quickly and consistently on a keyboard.
+
+ Apps and sites can provide fun ways to teach kids what they need to know.
+
+ College kids might not appreciate games, but they certainly won't mind the help that different sites and apps can provide, especially when it's crunch time during mid-terms and finals.
+
+ Time-management apps, for instance, can help them organize and prioritize assignments so nothing gets missed at the last minute.  
+
+ When selecting appropriate apps for your kids, consider the following:
+
+* Reviews from other users, particularly about ease of use, pop-up ads, and costs
+* Only use download sites you know are trustworthy, such as[Google Play Store](https://www.lifewire.com/what-is-google-play-1616720) or the App Store
+* Talk to other parents about the apps and sites their kids use; you can frequently get great suggestions that way
+
+ Kids, school, and technology are all here to stay; learning how to juggle all of it together can make life a lot easier for everyone.
+
+ Need books? You don't necessarily need to spend cold, hard cash on them. There are actually more than a dozen ways to[get books free of charge](https://www.lifewire.com/ways-to-get-free-books-1356542) , including textbooks for all levels. It's worth a try, especially when you have multiple kids, and that book bill is looming large.
+
+[iOS App Store vs. Google Play Store: Which Is Better for App Developers?](https://www.lifewire.com/ios-app-store-vs-google-play-store-for-app-developers-2373130)
+
+[17 Great Sites to Download Free Books in 2024](https://www.lifewire.com/download-free-books-3482754)
+
+[6 of Our Favorite Homework Apps to Help Students (and Parents)](https://www.lifewire.com/best-homework-apps-for-students-and-parents-4172488)
+
+ FAQ
+
+* When was technology first used in schools?  
+ According to Purdue University, the earliest tech used in schools was called the Magic Lantern in 1870\. It was an early version of a slide projector that used printed images on glass and projected them onto walls or other screens.
+* What percentage of schools use technology?  
+ About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elevate-your-gaming-experience-with-fbx-recording-tips/"><u>[New] Elevate Your Gaming Experience with FBX Recording Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-mastering-gopro-4k-essential-editing-tips/"><u>[New] Mastering GoPro 4K  Essential Editing Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-professional-quality-passport-portraits-with-these-10-apps/"><u>[New] Unlock Professional-Quality Passport Portraits with These 10 Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncovering-the-mysteries-of-photo-editing-in-canva/"><u>[Updated] Uncovering the Mysteries of Photo Editing in Canva</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-smart-snap-strategies-insta-story-zoom-101/"><u>2024 Approved  Smart Snap Strategies  Insta Story Zoom 101</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-video-cataloging-mastery-perfecting-playlists-on-youtube-platform/"><u>2024 Approved  Video Cataloging Mastery  Perfecting Playlists on YouTube Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/delving-into-4k-ultra-definition-and-clarity/"><u>Delving Into 4K Ultra Definition & Clarity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-nonfunctional-lenovo-easy-camera-software-on-windows-11-pcs/"><u>How To Fix Nonfunctional Lenovo Easy Camera Software on Windows 11 PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-overclock-your-cpu-a-beginners-guide/"><u>How to Overclock Your CPU: A Beginner’s Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-your-files-from-the-backup-in-windows-10/"><u>How to Restore Your Files From the Backup in Windows 10?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-setup-remote-desktop-in-windows-11/"><u>How To: Setup Remote Desktop in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-narzo-60-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme Narzo 60 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/laminar-flow-occurs-at-low-velocities-with-a-smooth-orderly-movement-of-fluid-particles-in-layers/"><u>Laminar Flow Occurs at Low Velocities with a Smooth, Orderly Movement of Fluid Particles in Layers.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maintenance-therapy-typically-involves-lower-doses-of-steroids-with-azathioprine-or-continued-use-of-mycophenolate-mofetil-to-prevent-relapses/"><u>Maintenance Therapy Typically Involves Lower Doses of Steroids with Azathioprine or Continued Use of Mycophenolate Mofetil to Prevent Relapses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-global-ai-communication-unleash-247-chatgpt-via-the-revolutionary-chatgpt-everywhere-platform/"><u>Master Global AI Communication: Unleash 24/7 ChatGPT via The Revolutionary 'ChatGPT Everywhere' Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-fixing-glitches-solutions-for-windows-11-and-windows-10-users/"><u>Master the Art of Fixing Glitches: Solutions for Windows 11 & Windows 10 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-solo-play-how-to-enjoy-your-steam-library-anywhere-even-offline/"><u>Mastering Solo Play: How to Enjoy Your Steam Library Anywhere, Even Offline</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-wifi-connections-in-windows-7-a-comprehensive-troubleshooting-guide/"><u>Mastering WiFi Connections in Windows 7: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/oculus-software-compatibility-solutions-for-windows-1110-devotees/"><u>Oculus Software Compatibility Solutions for Windows 11/10 Devotees</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-upside-down-and-sideways-iphone-images/"><u>Perfect Upside-Down & Sideways iPhone Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pubg-mobile-everything-you-need-to-know/"><u>PUBG MOBILE: Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fix-guide-resolving-issues-with-your-non-responsive-logitech-k520-keyboard/"><u>Quick Fix Guide: Resolving Issues with Your Non-Responsive Logitech K520 Keyboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-guide-to-bypassing-login-passwords-in-windows-11-systems/"><u>Quick Guide to Bypassing Login Passwords in Windows 11 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-solutions-for-speeding-up-a-slow-windows-11-system/"><u>Quick Solutions for Speeding Up a Slow Windows 11 System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-download-guide-essential-hp-drivers-compatible-with-windows-10/"><u>Quick-Download Guide: Essential HP Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-high-cpu-utilization-step-by-step-guide/"><u>Resolving High CPU Utilization: Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-online-privacy-with-these-simple-steps-setting-up-a-vpn-in-opera/"><u>Secure Your Online Privacy with These Simple Steps: Setting up a VPN in Opera</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/service-host-local-system-svchostexe-high-disk-usage-on-windows-11-solved/"><u>Service Host: Local System (svchost.exe) High Disk Usage on Windows 11 [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-google-as-your-default-browser-home-page-a-fast-and-simple-guide/"><u>Setting Up Google as Your Default Browser Home Page: A Fast & Simple Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-guide-effortless-font-installation-on-windows-10-unveiled/"><u>Simple Guide: Effortless Font Installation on Windows 10 Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-guide-identifying-your-current-windows-operating-system/"><u>Simple Guide: Identifying Your Current Windows Operating System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-guide-steps-to-quickly-unlink-your-microsoft-account-from-windows-10/"><u>Simple Guide: Steps to Quickly Unlink Your Microsoft Account From Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-purging-cache-data-from-firefox-browser/"><u>Step-by-Step Instructions on Purging Cache Data From Firefox Browser</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-fast-driver-upgrade-for-windows-10-systems/"><u>Step-by-Step Tutorial: Fast Driver Upgrade for Windows 10 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-beginners-guide-to-easily-determining-your-systems-bios-in-windows-11/"><u>The Beginner’s Guide to Easily Determining Your System's BIOS in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-simplest-methods-to-determine-what-version-of-windows-10-you-have-installed/"><u>The Simplest Methods to Determine What Version of Windows 10 You Have Installed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-walkthrough-setting-up-and-installing-your-brother-printer-driver/"><u>Ultimate Walkthrough: Setting up and Installing Your Brother Printer Driver</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-11-search-not-working-solved/"><u>Windows 11 Search Not Working [Solved]</u></a></li>
+</ul></div>

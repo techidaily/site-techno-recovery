@@ -1,0 +1,152 @@
+---
+title: "Keep Your Mac Awake: Tips & Tricks to Avoid Automatic Sleep"
+date: 2024-08-26T05:58:23.678Z
+updated: 2024-08-27T05:58:23.678Z
+categories:
+  - BestProducts
+description: "This Article Describes Keep Your Mac Awake: Tips & Tricks to Avoid Automatic Sleep"
+excerpt: "This Article Describes Keep Your Mac Awake: Tips & Tricks to Avoid Automatic Sleep"
+thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd1c8126cb50df85aef146e19.jpg
+---
+
+## Tricks to Prevent Auto-Sleep on MacBook When You Close the Lid
+### What to Know
+
+* **System Settings** \>**Lock Screen** \>**Turn display off on power adapter when inactive** \>**Never** .
+* Then, go to**Battery** \>**Options** . Turn on **Prevent automatic sleeping on power adapter when the display is off** .
+* Install Amphetamine to keep your MacBook awake with the lid closed without connecting a monitor.
+
+ This article explains how to prevent your MacBook from sleeping when the lid is closed.  
+
+## How to Keep Your MacBook On When Closed
+
+ You'll need to change a few settings to stop your MacBook from going to sleep with the lid closed.  
+
+1. Click**System Settings** or**System Preferences** from the Apple menu in the upper left corner.  
+![The Apple menu on a MacBook](https://www.lifewire.com/thmb/l1I1ckMK4T1_Bb8Nx1Ws760pXLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macos-apple-menu-6e1d16f2da7f416bb5b09df2e105dc93.png)
+2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
+![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
+ If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
+![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
+3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
+![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
+ In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
+![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
+4. Plug your MacBook into power.
+5. Connect your MacBook to an external monitor using an adapter if necessary.
+6. You can now close your MacBook without the external display turning off. Note that the display on the MacBook itself does turn off, just not the external monitor.
+
+ If you want to use your MacBook in this configuration permanently, you can use the Mac sleep scheduler to have it sleep and night and wake up in the morning automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+## Why Does My MacBook Sleep When I Close the Lid?
+
+ Your MacBook sleeps when you close the lid for several reasons, depending on whether it's plugged in. When plugged in, it sleeps to help conserve energy and allow it to charge more quickly, as it uses much less power while asleep. When running on battery power, it sleeps when you close the lid to conserve battery power. Since you typically don't need to use your MacBook when the lid is closed, the default setting is for the display to turn off and the MacBook to sleep whenever the lid is closed.
+
+ The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
+
+ Apple only provides you with one way to keep your MacBook from sleeping with the lid closed: tweak the[energy-saver settings](https://www.lifewire.com/use-energy-saver-preferences-pane-2260733) , connect the battery charger, and plug in an external monitor.
+
+ No option in the battery or energy-saving settings allows a MacBook to remain awake with the lid closed if an external monitor isn't plugged in. That means you'll have to install a third-party app, like[Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) , to keep your MacBook from sleeping without plugging in an external monitor.  
+
+ FAQ
+
+* How do I prevent a MacBook from sleeping when plugged in?  
+ Select**System Settings** \>**Battery** \>**Options** . Turn on **Prevent automatic sleeping on power adapter when the display is off** . Also, go to**System Settings** \>**Lock Screen** \> **Turn display off on power adapter when inactive** , and choose**Never** to[keep your Mac from sleeping](https://www.lifewire.com/how-to-prevent-a-mac-from-going-to-sleep-5202831) .
+* How do I prevent my MacBook from sleeping on battery power?  
+ If you don't want your [MacBook to go into sleep mode](https://www.lifewire.com/what-happens-when-mac-is-put-to-sleep-2260787) after a certain amount of time on battery power, turn off this setting. Go to **System Settings** \> **Lock Screen** and select the menu next to**Turn display off on battery when inactive** ; change it to**Never** .
+* Why is my MacBook not sleeping when the lid is closed?  
+ Ensure the setting for turning off the display is active. Go to **System Settings** \> **Lock Screen** and review those settings. Also, in the**Battery** menu, choose**Options** and disable the**Prevent automatic sleeping** toggle. Also, check Bluetooth wake settings:**Bluetooth** \> **Advanced** \> uncheck **Allow Bluetooth devices to wake this computer** .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-choreographing-newscast-endings/"><u>[New] 2024 Approved  Choreographing Newscast Endings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-navigate-a-2023-hack-steps-to-regain-fb-access/"><u>[New] 2024 Approved  Navigate a 2023 Hack  Steps to Regain FB Access</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-discreetly-conceal-identity-photo-edit-tip/"><u>[New] Discreetly Conceal Identity  Photo Edit Tip</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streaming-mastery-record-hulu-playback-on-multiple-systems/"><u>[New] In 2024, Streaming Mastery  Record Hulu Playback on Multiple Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-infinite-save-instagram-stories-secret-weapon/"><u>[Updated] 2024 Approved  Infinite Save  Instagram Stories' Secret Weapon</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-google-hangouts-recording-guide/"><u>[Updated] In 2024, Google Hangouts Recording Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-gt-5-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme GT 5 Activity | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-uncovering-forgotten-facebook-episodes-cross-device-instructions/"><u>2024 Approved  Uncovering Forgotten Facebook Episodes  Cross-Device Instructions</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-translate-any-hindi-video-into-english-with-ai/"><u>2024 Approved Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-samsung-galaxy-ring-unveiling-its-market-cost-coming-soon-date-and-detailed-tech-specs/"><u>All About Samsung Galaxy Ring: Unveiling Its Market Cost, Coming Soon Date & Detailed Tech Specs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-samsungs-202date-range-unveiling-rumors-reports-and-industry-impact-explored/"><u>All You Need to Know About Samsung's 202([Date Range]) Unveiling - Rumors, Reports & Industry Impact Explored</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boosting-earnings-with-effective-social-media-video-marketing-techniques-for-2024/"><u>Boosting Earnings with Effective Social Media Video Marketing Techniques for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-these-top-10-sport-movies-that-are-a-perfect-fit-for-movie-buffs-right-now/"><u>Catch These Top 10 Sport Movies That Are a Perfect Fit for Movie Buffs Right Now</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-airpods-for-effortless-sound-on-a-windows-hp-computer-a-users-manual/"><u>Connecting AirPods for Effortless Sound on a Windows HP Computer - A User's Manual</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-mystery-behind-ussd-learn-everything-there-is-to-know-about-unstructured-supplementary-service-data-services/"><u>Decoding the Mystery Behind USSD - Learn Everything There Is to Know About Unstructured Supplementary Service Data Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/delight-in-the-art-of-humor-free-meme-templates/"><u>Delight in the Art of Humor - Free Meme Templates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-tips-and-tricks-for-inserting-text-into-instagram-stories/"><u>Easy Tips and Tricks for Inserting Text Into Instagram Stories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-address-and-correct-missing-launchdll-errors-on-your-computer/"><u>Effective Strategies to Address and Correct Missing Launch.dll Errors on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enduring-the-elements-can-ev-batteries-withstand-extreme-heat-and-cold/"><u>Enduring the Elements: Can EV Batteries Withstand Extreme Heat and Cold?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-solutions-for-windows-11-users-struggling-with-malfunctioning-search-features/"><u>Expert Solutions for Windows 11 Users Struggling with Malfunctioning Search Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-handling-missing-mscorwksdll-files-on-your-pc-fixes-and-prevention/"><u>Expert Tips for Handling Missing mscorwks.dll Files on Your PC – Fixes & Prevention</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-dts-play-fi-and-its-functionality/"><u>Exploring The World of DTS Play-Fi and Its Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-helperdll-errors-a-step-by-step-solution-for-users/"><u>Fixing 'Helper.dll' Errors - A Step-by-Step Solution for Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-of-missing-textures-in-call-of-duty-warzone/"><u>Fixing the Issue of Missing Textures in Call of Duty: Warzone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722872898175-gmail-not-updating-heres-what-you-can-do/"><u>Gmail Not Updating? Here’s What You Can Do!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-espn-plus-live-broadcasts-on-lgs-innovative-smart-tvs/"><u>How to Set Up ESPN Plus Live Broadcasts on LG's Innovative Smart TVs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-txt-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .txt file document electronically</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Google Pixel 8 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-clipcomposers-journey-thorough-review-of-androvid/"><u>In 2024, ClipComposer's Journey – Thorough Review of AndroVid</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-motorola-moto-g34-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Motorola Moto G34 5G Face Lock?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-share-igtv-video-on-instagram-story-with-ease/"><u>In 2024, How to Share IGTV Video on Instagram Story with Ease</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-amd-graphics-drivers-compatibility-with-windows-10-11-and-7/"><u>Latest AMD Graphics Drivers: Compatibility with Windows 10, 11 & 7</u></a></li>
+<li><a href="https://facebook.techidaily.com/marketing-maven-carolyn-leaves-facebook/"><u>Marketing Maven Carolyn Leaves Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-scheduling-your-visit-to-an-apple-retail-location/"><u>Mastering the Art of Scheduling Your Visit to an Apple Retail Location</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-fix-overcoming-network-not-registered-on-your-samsung-device/"><u>Mastering the Fix: Overcoming 'Network Not Registered' On Your Samsung Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-file-sharing-issue-error-0x800key570-a-step-by-step-solution-manual/"><u>Overcoming File Sharing Issue Error 0X800(KEY]570: A Step-by-Step Solution Manual</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ranking-apples-lineup-finding-your-perfect-iphone-companutionary-gamer-device/"><u>Ranking Apple's Lineup: Finding Your Perfect iPhone Companutionary Gamer Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-wii-unable-to-read-disc-errors-top-strategies-for-gamers/"><u>Resolving 'Wii Unable to Read Disc' Errors: Top Strategies for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-shlwapidll-missing-error-step-by-step-solutions/"><u>Resolving the shlwapi.dll Missing Error: Step-by-Step Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-media-with-apple-music-and-video-mixes/"><u>Streamlining Media with Apple Music & Video Mixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-beginners-pathway-to-becoming-a-pokemon-unite-pro/"><u>The Beginner's Pathway to Becoming a Pokémon Unite Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722879347351-the-insiders-look-at-telegram-benefits-functionality-and-user-experience/"><u>The Insider's Look at Telegram: Benefits, Functionality, and User Experience.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-5-best-video-editing-software-picks/"><u>The Ultimate List: 5 Best Video Editing Software Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-3-emerging-technology-innovations-you-cant-ignore/"><u>Top 3 Emerging Technology Innovations You Can't Ignore</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-factors-to-evaluate-when-choosing-your-next-gaming-system/"><u>Top 5 Factors to Evaluate When Choosing Your Next Gaming System</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Solutions for Reducing GPU Consumption by the Desktop Window Manager on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-must-watch-family-films-on-amazon-prime-video-this-july-2024/"><u>Top Picks: Must-Watch Family Films on Amazon Prime Video This July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-step-by-step-enable-and-use-split-view-on-a-macbook-air/"><u>Ultimate Step-by-Step: Enable and Use Split View on a MacBook Air</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-differences-charge-level-one-two-and-three-unraveled/"><u>Understanding the Differences: Charge Level One, Two & Three Unraveled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-10-anticipated-cost-and-launch-timeline-latest-rumored-specs-revealed/"><u>Upcoming Google Pixel 10: Anticipated Cost & Launch Timeline - Latest Rumored Specs Revealed</u></a></li>
+</ul></div>
