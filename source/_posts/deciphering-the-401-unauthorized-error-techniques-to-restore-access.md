@@ -1,0 +1,199 @@
+---
+title: Deciphering the 401 Unauthorized Error - Techniques to Restore Access
+date: 2024-08-30T13:12:05.335Z
+updated: 2024-08-31T13:12:05.335Z
+categories:
+  - BestProducts
+description: This Article Describes Deciphering the 401 Unauthorized Error - Techniques to Restore Access
+excerpt: This Article Describes Deciphering the 401 Unauthorized Error - Techniques to Restore Access
+thumbnail: https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/401-unauthorized-error-what-it-is-and-how-to-fix-it-2622934-e98cc16b41504abdbc47fb6cbaeebcfa.png
+---
+
+## Enhance Your Samsung TV with the Latest Updates - Easy Tutorial Included
+### What to Know
+
+* Automatic: Go to**Settings** \>**Support** \>**Software Update** \>**Auto Update** .
+* Manual: Go to**Settings** \>**Support** \>**Software Update** \>**Update Now** .
+* If your TV isn't connected to the internet, download the latest update from Samsung's site to a USB device.
+
+ This article explains how to update a Samsung[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) . Instructions apply broadly to most models made after 2013.
+
+## Set Your Samsung TV to Update Automatically
+
+ The best way to keep your Samsung smart TV updated is to set up automatic updates. That way, you can set it and forget it; updates will arrive while you're using your TV and then finish up the next time your device is turned on. Here's how to enable auto updates:
+
+ Although there's technically a difference between software and[firmware updates](https://www.lifewire.com/what-is-firmware-2625881) , Samsung often uses the term “Software Update” to include both.
+
+1. Make sure your TV is connected to the internet.
+2. Go to**Settings** \>**Support** \>**Software Update** .
+3. Select**Auto Update** to toggle the option**On** .  
+![Samsung TV Software Update Screen — Auto Option](https://www.lifewire.com/thmb/XjwW-7vAwjU6oA3YdptZHhymfv4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-software-firmware-auto-update-alt-abc-5b3ce7b746e0fb0037f8bc74.jpg)
+
+ If an update is detected when you first turn the TV on, it will download and install it before you can proceed to watch anything or use the TV's other functions. This may take several minutes, depending on the nature of the update.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+## Update Your TV Manually via the Internet
+
+ If your TV is connected to the internet, but you prefer to activate software updates manually, you can do so by following these steps:
+
+1. Go to**Settings** \>**Support** \>**Software Update** .
+2. Select**Update Now** . If an update is available, the download and installation process will be initiated in the same manner as discussed in the Auto Update section above.  
+![Samsung TV Software Update Screen — Now Option](https://www.lifewire.com/thmb/ZYg-Zkd-l18SYpy5NBZaszTbKnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-soft-firmware-update-abc-5b3bffcdc9e77c00375fe757.jpg)
+3. If no updates available, select**OK** to exit the Settings menu and proceed to use the TV.
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Update Your TV Manually via USB
+
+ If your TV isn't connected to the internet or if you prefer to install updates locally, you have the option of doing this via USB. To use this option, you need to first download the update to a computer, then transfer it to a USB device. Here's how to do this:
+
+1. Visit the[Samsung Download Center](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Fdownloads%2F) .
+2. Enter the model number of your TV in the text box (e.g., UN40KU6300FXZA).
+3. When you see your TV populate in the list of suggestions, select it to open its download page.  
+![A Samsung TV model number and suggested search entry highlighted on Samsung's website](https://www.lifewire.com/thmb/x12DxO4ugFSz7Kx9nc1Y9fqFg0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-download-center-model-number-search-6bd1bd2b096a4a71b91daf95b1ea2299.png)
+4. Locate the firmware for your TV from the**Firmware** section, and select**Download** next to it. If there are multiple to choose from, select the item at the top to get the latest version.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+![The first download button highlighted from the Firmware area of the Samsung website](https://www.lifewire.com/thmb/BwGE5WAPVl5Mte9oNktWY06vc6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-firmware-e3e85af300dc4772b3c8dcc42c0b06ed.png)  
+ The download might take a few minutes, depending on the file's size and the speed of your internet.
+5. Save the[ZIP file](https://www.lifewire.com/zip-file-2622675) to your computer, then unzip it to reveal its contents.
+6. With a[flash drive](https://www.lifewire.com/what-is-a-flash-drive-2625794) plugged in to your computer, copy all the contents of the unzipped file onto the flash drive.  
+ Do not copy the .ZIP file itself (only its extracted contents) and do not put the files into any other folder on the flash drive (just the[root](https://www.lifewire.com/what-is-a-root-folder-or-root-directory-2625989) of the drive).
+7. After the files are fully copied to the USB drive, unplug it from your computer and plug it into your TV.  
+ If you have more than one USB port on your TV, make sure no other devices are plugged into any of the other ports.
+8. From the TV remote, select the**Home** or**Smart Hub** **icon** , then the**Settings** icon on the TV screen, which looks like a gear.
+9. Go to**Support** \>**Software Update** \>**Update Now** .
+10. Select**Yes** , or choose the**USB** option, if prompted for either. You'll see a message on the screen that reads "Scanning USB. This may take more than 1 min."  
+ Do not turn off your TV during the update process. It must remain powered on until the update is complete. The TV will turn off and on automatically after completing the update, which reboots the TV. Depending on the nature of the update, audio and video settings may reset to their factory defaults.
+11. Follow any further prompts to start the update process.  
+![Samsung TV — Software Update in Progress](https://www.lifewire.com/thmb/jfjs4R0fR4EMhJEQ1NGOxCiVGqU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-soft-firmware-update-c-5b3bf68f46e0fb0037108a40.jpg)
+12. When the process is completed, the TV will turn off automatically, then turn back on, indicating the software update installed correctly and is ready to use.
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+13. To further confirm you've updated the software, you can return to the**Software Update** page to see the latest update.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Update Apps on Samsung Smart TV
+
+ It's equally important to update the apps you've downloaded to your device. This is a separate process from updating the TV's system software. The easiest way to keep your apps updated is to have the TV do it automatically. Here's what to do:
+
+1. Press the**Smart Hub/Home** button your remote.
+2. Select**Apps** .
+3. Select the**settings/gear icon** at the top right, or choose**My Apps** if you see that.
+4. Select**Options** and make sure**Auto Update** is set to**On** .  
+![Samsung TV — App Auto Update Option](https://www.lifewire.com/thmb/gF4jFQ3Mg01dPRAUVppxAUPq_Gs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-update-apps-screen-f-5b3bf6db46e0fb0036d44d40.jpg)
+
+ If you're updating apps manually, you'll be notified if an update is available when you select the app. Follow any further prompts to initiate the update process. When the update is completed, the app will open so you can use it.
+
+[How to Fix It When Samsung TV Apps Aren't Working](https://www.lifewire.com/fix-samsung-tv-apps-not-working-8603497)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+### Differences Between Samsung TVs
+
+ If you own an older Samsung smart TV, such as one released before the 2016 model year, there may be some variations in the steps needed to update apps. Try these directions instead:
+
+* Press the**Menu** button your remote, then go to**Smart Hub** \>**App and Game Auto Update** \>**On** .
+* Press the**Menu** button your remote, then go to**Smart Hub** \>**App Settings** \>**Auto-Update** .
+* Press the**Smart Hub** button on your remote, then go to**Apps** \>**More Apps** and follow any additional prompts.
+
+ Depending on what year and Samsung Menu/Smart Hub version you have, there may be some variations on the appearance of the menus, as well as how to access the System and App update features. If you're not sure of the exact steps, consult the user guide for your specific TV.
+
+ FAQ
+
+* How do I know if my smart TV needs an update?  
+ Any time your TV isn't behaving as it should, try manually updating the firmware to fix it. Most smart TVs have automatic updates.
+* How do I download apps on my Samsung smart TV?  
+ To[download apps on your Samsung smart TV](https://www.lifewire.com/download-apps-on-samsung-smart-tv-5223578) , press**Home** on the remote, select**Apps** , and search for the name of the app you want. Before you can download apps on your Samsung TV, you need to have a Samsung account.
+* How do I delete apps on my Samsung smart TV?  
+ To[delete Samsung smart TV apps](https://www.lifewire.com/how-to-delete-apps-on-a-samsung-smart-tv-4589138) , press**Home** on the remote and go to**Settings** \>**Support** \>**Device Care** \>**Manage Storage** . On older models, go to**Apps** \>**Settings** \>**Downloaded Apps** or**Apps** \>**My Apps** \>**Options** \>**Delete** .
+* How can I get local channels on my Samsung smart TV?  
+ To get local channels on your Samsung smart TV, hook up an HD antenna or use a[streaming service that provides local channels](https://www.lifewire.com/get-local-channels-without-cable-4587451) like Sling TV, Hulu Live TV, YouTube Live TV, or DirecTV Stream.
+
+[How to Delete Apps on a Samsung Smart TV](https://www.lifewire.com/how-to-delete-apps-on-a-samsung-smart-tv-4589138)
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-enhancing-social-media-strategy-facebook-whatsapp-video-sharing/"><u>[New] Enhancing Social Media Strategy  Facebook-WhatsApp Video Sharing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-fixes-for-green-screen-glitches-on-mac-video-editing-platform/"><u>[New] In 2024, Quick Fixes for Green Screen Glitches on Mac Video Editing Platform</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-vero-authors-spotlight-at-snapchat/"><u>[New] In 2024, Vero Authors Spotlight at Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-your-snapshots-on-android/"><u>[New] Maximize Your Snapshots on Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-new-psvr-costs-release-date-and-technical-specs-overview/"><u>All You Need to Know About the New PSVR 지향성: Costs, Release Date, and Technical Specs Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-details-on-the-new-apple-personal-robot-pricing-strategy-expected-release-timeline-specs-insights-and-rumored-information/"><u>Anticipated Details on the New Apple Personal Robot - Pricing Strategy, Expected Release Timeline, Specs Insights, and Rumored Information</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-blocks-for-a-stellar-documentary-storyline/"><u>Building Blocks for a Stellar Documentary Storyline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/checking-in-is-psn-experiencing-downtime-or-are-connection-issues-on-your-end/"><u>Checking In: Is PSN Experiencing Downtime or Are Connection Issues on Your End?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-how-to-overcome-the-challenging-phase0exception-error-code-0x00000078/"><u>Comprehensive Fixes: How to Overcome the Challenging PHASE0_EXCEPTION, Error Code 0X00000078</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/confirming-the-real-presence-of-dolby-atmos-in-your-auditory-space/"><u>Confirming the Real Presence of Dolby Atmos in Your Auditory Space</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-8-ultimate-apps-for-seamless-trip-itinerary-management/"><u>Discover the 8 Ultimate Apps for Seamless Trip Itinerary Management</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-for-crafting-your-first-xhandle-after-the-rebrand/"><u>Easy Instructions for Crafting Your First @XHandle After the Rebrand</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-address-missing-or-inaccessible-d3dx928dll-files/"><u>Effective Strategies to Address Missing or Inaccessible d3dx9_28.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-ways-to-correct-magic-mouse-movement-errors/"><u>Effortless Ways to Correct Magic Mouse Movement Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminating-msvbvm50dll-errors-a-detailed-guide-to-restoring-your-systems-stability/"><u>Eliminating MSVBVM50.DLL Errors: A Detailed Guide to Restoring Your System's Stability</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-leading-microphones-in-podcasting/"><u>Explore the Leading Microphones in Podcasting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-connection-woes-on-your-samsung-galaxy-overcoming-the-not-registered-network-hurdle/"><u>Fixing Connection Woes on Your Samsung Galaxy – Overcoming the ‘Not Registered’ Network Hurdle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-diagnose-and-repair-ntdlldll-glitches-on-windows-10-8-7-etc/"><u>How to Diagnose and Repair ntdll.dll Glitches on Windows 10, 8, 7, Etc.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-8-tips-to-create-attractive-instagram-unboxing-reels/"><u>In 2024, 8 Tips to Create Attractive Instagram Unboxing Reels</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x50-gt-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X50 GT to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-tips-how-to-rsvp-to-a-shared-album-invite-with-ios/"><u>IPhone Tips: How to RSVP to a Shared Album Invite with iOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lens-legends-library-your-query-guide-for-2024/"><u>Lens Legends' Library  Your Query Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-connection-between-psvr-and-pc-ultimate-how-to-guide/"><u>Master the Connection Between PSVR and PC: Ultimate How-To Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-through-the-best-of-2024-our-selection-of-premier-news-aggregator-platforms/"><u>Navigate Through the Best of 2024: Our Selection of Premier News Aggregator Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-apple-support-how-to-schedule-an-appointment-at-the-genius-bar/"><u>Navigating Apple Support: How to Schedule an Appointment at the Genius Bar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-connection-woes-a-fix-it-guide-for-stadia-gaming-accessories/"><u>Overcoming Connection Woes: A Fix-It Guide for Stadia Gaming Accessories</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-unpaired-airpods-effective-techniques-to-reestablish-connection/"><u>Reviving Unpaired AirPods: Effective Techniques to Reestablish Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-two-step-verification-in-gmail-a-step-by-step-guide/"><u>Setting Up Two-Step Verification in Gmail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-your-amazon-prime-caption-problems-easily-and-effectively/"><u>Solve Your Amazon Prime Caption Problems Easily and Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-make-your-videos-run-backwards-on-snapchat-easily/"><u>Step-by-Step Tutorial: How To Make Your Videos Run Backwards on Snapchat Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-for-resolving-insecure-connection-alerts-in-web-browsing/"><u>Strategies for Resolving Insecure Connection Alerts in Web Browsing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essential-seven-for-an-ideal-summer-daypack-checklist/"><u>The Essential Seven for an Ideal Summer Daypack Checklist</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-for-cygwin1dll-errors-on-your-pc/"><u>The Ultimate Fixes for Cygwin1.dll Errors on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-server-racks-and-cases-in-2year/"><u>Ultimate Guide to Server Racks and Cases in 2^[Year]^^</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-top-strategies-for-mastering-subway-surfers/"><u>Ultimate Guide: Top Strategies for Mastering 'Subway Surfers'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbelievable-phone-gags-and-tricks-for-iphones-and-ipads-that-will-crack-you-up/"><u>Unbelievable Phone Gags & Tricks for iPhones and iPads That Will Crack You Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-expressions-with-emojis-on-ios-devices-tips-and-tricks-for-iphone-users/"><u>Unlocking Expressions with Emojis on iOS Devices – Tips & Tricks for iPhone Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-10-unveiling-the-latest-rumors-on-release-dates-pricing-and-specifications/"><u>Upcoming Google Pixel 10: Unveiling the Latest Rumors on Release Dates, Pricing & Specifications</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-virtualdub-is-it-still-the-best-exploring-top-alternatives/"><u>Updated Virtualdub Is It Still the Best? Exploring Top Alternatives</u></a></li>
+</ul></div>

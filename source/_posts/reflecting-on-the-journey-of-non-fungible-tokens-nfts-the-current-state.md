@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on the Journey of Non-Fungible Tokens (NFTs): The Current State"
-date: 2024-08-27 20:51:40
-updated: 2024-08-29 11:43:25
+date: 2024-08-30T13:09:43.652Z
+updated: 2024-08-31T13:09:43.652Z
 tags:
   - cutting-edge
 categories:
@@ -25,12 +25,18 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
  At this point in time, even cryptocurrencies were still finding their feet. While Bitcoin had amassed a passionate following by 2014, Ethereum had only just been founded, and many of today's popular blockchains, such as Solana and Cardano, were still yet to be created. It would take another seven years for NFTs to hit their heyday.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The NFT Boom
 
  In 2021, NFT sales started ticking upward. As you can see in the chart below (created by [The Block](http://www.theblock.co/data/nft-non-fungible-tokens/nft-overview/nft-trade-volume-by-chain)), the trading volume of NFTs started to hit substantial numbers in mid-2021\. By the start of 2022, things were looking drastically different to a year prior, with the total NFT trading volume exceeding $1 billion.
 
 ![Graph of total NFT trading volume over time.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nft-trade-vol-theblock.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  The market hit its peak when trading volume exceeded $3 billion. It was never to hit this high point again, but continued to rake in billions for the next year.
 
  The most popular NFTs are Ethereum-based, and come in the form of ERC-721 tokens. Even today, if you head onto a popular NFT marketplace, chances are you'll see assets priced in Ethereum. According to the graph below from [The Block](http://www.theblock.co/data/nft-non-fungible-tokens/nft-overview/ethereum-nft-mints), the volume of Ethereum-based NFTs being minted shot up in 2022 as the popularity and value of these assets rose.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
  But the darker side of the internet noticed this booming industry, and, as is often the case, began devising ways to con people out of their money.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  The Biggest NFT Hacks and Scams
 
  Since 2021, cybercriminals have conducted some mammoth NFT scams and hacks, be it through rug pulls, back doors, malware, or otherwise.
@@ -63,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 ![Screenshot of bored bunny post on X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bored-bunny-post-x.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Despite this excuse, the entire project was nothing more than a slow rug pull, a more discrete version of a classic rug pull. This kind of scheme involves the token creators not delivering the token utility promised to investors, essentially making the tokens they bought useless. In the case of Bored Bunny, the [metaverse](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) utility and instant profits promised never materialized, giving the NFTs purchased no value at all. The creators managed to gather $21 million in the process, leaving investors out of pocket.
 
  A number of other NFT rug pulls gained notoriety by imitating the artworks from the highly popular [Bored Ape Yacht Club (BAYC)](https://program-issues.techidaily.com/step-by-step-solution-for-discord-packet-transmission-problems/) collection. Scam collections like Baller Ape Club and Evolved Apes piggybacked on BAYC's name to lure in investors, with the creators soon hitting the road with the funds amassed.
@@ -71,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 [Phishing](https://visual-screen-recording.techidaily.com/updated-in-2024-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/) is also a common tactic in the NFT crime realm, and is often used to steal passwords, private keys, and seed phrases. Even well-established NFT projects and platforms have been hit by phishing attacks, including OpenSea. This widely popular NFT marketplace [was successfully targeted in February 2022](https://www.halborn.com/blog/post/explained-the-opensea-phishing-hack-february-2022) when users were conned out of their ETH through phishing emails. While the hacker surprisingly returned a portion of the NFTs, funds were still lost, and many users were still left without what they lost.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Fall of NFTs
 
 [NFTs have always been highly controversial](https://extra-lessons.techidaily.com/techniques-for-writing-eye-catching-podcast-summaries/), mainly due to the instability of their value. A given NFT can amass value through two factors: demand and utility. An NFT may not have any utility, but if it's coveted enough (usually through online hype and marketing), it can reach a high value. On the other hand, if an NFT has utility, such as value in a game or metaverse project, it can also amass value.
@@ -95,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
  As of October 2023, a daily average of 2,031 NFT sales were taking place. A year prior, this figure stood at almost 39,000\. A year before that, it stood at 183,755\. The NFT market we see today is worth a fraction of what it was in previous years, and there's no knowing if it will ever recover.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  NFTs May Have Been a Brief Craze
 
  No one is sure of what the future holds for NFTs, but its steep growth and extreme decline represent how volatile these assets, and therefore the industry, really are. One day, NFTs might regain some, if not all of their previous notoriety. But for now, they remain a niche market with a limited clientele.
@@ -113,3 +131,60 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-data-safe-and-sound-top-pricing-of-clouds/"><u>[New] 2024 Approved  Data Safe & Sound  Top Pricing of Clouds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-gifify-it-free-method-for-twitter-videos/"><u>[New] Gifify It  Free Method for Twitter Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-expertise-in-speech-conversion-mastering-googles-method/"><u>[New] In 2024, Expertise in Speech Conversion  Mastering Google’s Method</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-broadcast-media-with-chroma-key-expertise/"><u>[New] Revolutionizing Broadcast Media with Chroma Key Expertise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-zippyzoom-pauseframe-playback-for-2024/"><u>[New] ZippyZoom PauseFrame Playback for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia/"><u>[Updated] 2024 Approved  Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-speakers-file-download-inspect/"><u>[Updated] 2024 Approved  Speaker's File Download, Inspect</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-fbs-automatic-video-sync-feature-for-2024/"><u>[Updated] Navigating FB's Automatic Video Sync Feature for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-secrets-to-professional-quality-instagram-videos/"><u>[Updated] Unlocking the Secrets to Professional-Quality Instagram Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-no-printer-solutions-easy-steps-to-print-anywhere/"><u>1. No-Printer Solutions: Easy Steps to Print Anywhere</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/12-must-try-gratis-typing-tutorials-that-cater-to-people-young-and-old/"><u>12 Must-Try Gratis Typing Tutorials That Cater to People Young and Old</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-quick-guide-to-mp3-from-instagram-videos/"><u>2024 Approved  Quick Guide to MP3 From Instagram Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/acer-quiet-mode-dilemma-solved-bring-back-the-boom-with-easy-fixes/"><u>Acer Quiet Mode Dilemma Solved: Bring Back the Boom with Easy Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/achieve-urdu-fluency-with-minimal-time/"><u>Achieve Urdu Fluency with Minimal Time</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/add-the-numerator-1-to-the-result-to-get-a-new-numerator-of-7/"><u>Add the Numerator 1 to the Result to Get a New Numerator of 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/binge-worthy-uk-programs-to-watch-on-netflix-right-now/"><u>Binge-Worthy UK Programs to Watch on Netflix Right Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-signal-and-whatsapp-key-features-that-set-them-apart/"><u>Comparing Signal and WhatsApp: Key Features That Set Them Apart</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-restoring-lost-or-deleted-messages-on-your-gmail-account/"><u>Complete Guide: Restoring Lost or Deleted Messages on Your Gmail Account</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategies-to-address-and-resolve-error-stop-0x0000005c-hal-initialization-failed-issues/"><u>Comprehensive Strategies to Address and Resolve Error STOP 0X0000005C: Hal Initialization Failed Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-constructing-a-projector-screen-at-home/"><u>Easy Instructions for Constructing a Projector Screen at Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-ways-to-correct-magic-mouse-movement-errors/"><u>Effortless Ways to Correct Magic Mouse Movement Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-insights-a-deep-dive-into-lg-channels/"><u>Essential Insights: A Deep Dive Into LG Channels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-cutting-edge-ai-for-free-with-our-in-depth-copilot-tutorial-on-gpt-cu4-turbo-mastery/"><u>Experience Cutting-Edge AI for FREE with Our In-Depth Copilot Tutorial on GPT-Cu4 Turbo Mastery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-a-smooth-hell-let-loose-gaming-experience-crash-no-more/"><u>Expert Advice for a Smooth Hell Let Loose Gaming Experience: Crash No More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facing-a-blank-screen-heres-why-your-youtube-videos-arent-playing/"><u>Facing a Blank Screen? Here’s Why Your YouTube Videos Aren't Playing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fubotv-for-fire-stick-a-user-friendly-guide-to-begin-your-subscription-journey/"><u>FuboTV for Fire Stick: A User-Friendly Guide to Begin Your Subscription Journey</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/google-unveils-the-evolution-of-connectivity-from-pixel-tablet-to-revolutionary-smart-display-experience/"><u>Google Unveils the Evolution of Connectivity: From Pixel Tablet to Revolutionary Smart Display Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-diagnose-and-repair-ntdlldll-glitches-on-windows-10-8-7-etc/"><u>How to Diagnose and Repair ntdll.dll Glitches on Windows 10, 8, 7, Etc.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-free-up-space-by-removing-cache-on-your-android-device/"><u>How to Free Up Space by Removing Cache on Your Android Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-105-classic-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia 105 Classic Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-yuva-2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Yuva 2</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 12 Pro Unavailable Issue With Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y27s-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y27s</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pro-tips-for-productive-dialogues-on-google-meet/"><u>In 2024, Pro Tips for Productive Dialogues on Google Meet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-15-sequoia-detailed-overview-of-release-plans-enhancements-and-rumors/"><u>MacOS 15 (Sequoia) – Detailed Overview of Release Plans, Enhancements, and Rumors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-video-conversion-with-amd-graphics-cards-techniques-for-efficient-avchd-xavc-and-hevc-encoding/"><u>Mastering Video Conversion with AMD Graphics Cards: Techniques for Efficient AVCHD, XAVC & HEVC Encoding</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/removing-gadgets-comprehensive-tips-on-disconnecting-from-google-home/"><u>Removing Gadgets: Comprehensive Tips on Disconnecting From Google Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-two-step-verification-in-gmail-a-step-by-step-guide/"><u>Setting Up Two-Step Verification in Gmail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-for-the-common-haldll-error-in-windows-versions/"><u>Step-by-Step Fixes for the Common hal.dll Error in Windows Versions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-laptop-and-tv-using-an-hdmi-cable/"><u>Step-by-Step Guide: Linking Your Laptop and TV Using an HDMI Cable</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlining-your-photos-the-ultimate-guide-to-merging-jpegs-into-one-pdf-file/"><u>Streamlining Your Photos: The Ultimate Guide to Merging JPEGs Into One PDF File</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/switching-the-on-screen-keyboard-onoff-in-windows-10-a-step-by-step-guide/"><u>Switching the On-Screen Keyboard On/Off in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-powerhouse-on-two-wheels-comprehensive-radpower-radcity-5plus-evaluation/"><u>The Powerhouse on Two Wheels: Comprehensive RadPower RadCity ^5+ Evaluation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/time-adjustment-for-amazon-kindle-paperwhite-instructions-and-tips/"><u>Time Adjustment for Amazon Kindle Paperwhite - Instructions & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/trade-shows-and-events/"><u>Trade Shows & Events</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-what-to-do-if-alexa-indicates-your-echo-device-is-not-connected/"><u>Troubleshooting Steps: What to Do If Alexa Indicates Your Echo Device Is Not Connected</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uber-vs-taxi-a-cost-comparison-analysis/"><u>Uber Vs. Taxi: A Cost Comparison Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-503-service-unavailable-error-causes-solutions-and-prevention/"><u>Understanding the 503 Service Unavailable Error – Causes, Solutions & Prevention</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-full-potential-smooth-zooming-techniques-on-ios-devices/"><u>Unlock Full Potential: Smooth Zooming Techniques on iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-device-confusion-identifying-key-differences-between-ipads-and-general-tablets/"><u>Unraveling Device Confusion: Identifying Key Differences Between iPads and General Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-history-of-netflixs-original-dvd-service/"><u>Unraveling the History of Netflix's Original DVD Service</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-your-email-experience-with-mozilla-thunderbird-version-52/"><u>Upgrade Your Email Experience with Mozilla Thunderbird Version 52</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/water-resistance-levels-of-the-new-iphone-15-pro-max-explained/"><u>Water Resistance Levels of the New iPhone 15 Pro Max Explained</u></a></li>
+</ul></div>

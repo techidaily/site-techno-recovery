@@ -1,7 +1,7 @@
 ---
 title: "How to Assign or Move Users Into Groups in Linux: A Step-by-Step Guide"
-date: 2024-08-27 18:24:39
-updated: 2024-08-29 11:26:27
+date: 2024-08-30T13:07:53.160Z
+updated: 2024-08-31T13:07:53.160Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
  If you're using a [new Linux laptop](https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/), you might have some type of GUI interface to configure these settings (depending on the distribution that you're running, at least) but realistically it's almost always easier to just drop down to the terminal and type out a few commands, so that's what we're showing you today.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Add a New Group
 
  If you want to create a new group on your system, use the following `groupadd` command, replacing new\_group with the name of the group you want to create. You'll need to use sudo with this command as well (or, on [Linux distributions](https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/) that don't use `sudo`, you'll need to run the `su` command on its own to gain elevated permissions before running the command).
@@ -39,6 +42,12 @@ sudo groupadd new_group
 
 ![Adding a new group named &quot;new_group.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4b860542a.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Add an Existing User Account to a Group
 
  To add an existing user account to a group on your system, use the `usermod` command, replacing `examplegroup` with the name of the group you want to add the user to and `exampleusername` with the name of the user you want to add.
@@ -51,6 +60,9 @@ usermod -a -G sudo geek
 
 ![Adding the user &quot;Greek&quot; to the sudoers group.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4b8d7be59.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Change a User's Primary Group
 
  While a user account can be part of multiple groups, one of the groups is always the "primary group" and the others are "secondary groups". The user's login process and files and folders the user creates will be assigned to the primary group.
@@ -63,6 +75,9 @@ usermod -g examplegroup exampleusername
 
 ![Changing the Geek user's primary group to example.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4c1c81233.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  View the Groups a User Account is Assigned To
 
  To view the groups the current user account is assigned to, run the `groups` command. You'll see a list of groups.
@@ -75,6 +90,10 @@ id
 
 ![Checking what groups there are, and what their numerical IDs are.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4ba2082cf.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  To view the groups another user account is assigned to, run the `groups` command and specify the name of the user account.
 
 groups exampleusername
@@ -117,6 +136,9 @@ usermod -a -G ftp,sudo,example geek
 
 ![Adding a user to multiple groups with one command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4bc896672.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  View All Groups on the System
 
  If you want to [view a list of all groups on your system](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/), you can use the `getent` command:
@@ -149,3 +171,65 @@ getent group
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-stabilize-your-camera-without-buying-a-tripod/"><u>[New] 2024 Approved  How to Stabilize Your Camera without Buying a Tripod?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-fast-track-to-fashionista-status-on-instagram-our-essential-guide-for-speed-up-star-chasers/"><u>[New] 2024 Approved  The Fast Track to Fashionista Status on Instagram  Our Essential Guide for Speed-Up Star Chasers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expert-tips-for-post-upload-video-improvement-for-2024/"><u>[New] Expert Tips for Post-Upload Video Improvement for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-3-proven-methods-to-enhance-your-music-archives/"><u>[New] In 2024, 3 Proven Methods to Enhance Your Music Archives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-techniques-for-fabulous-photo-collage-artistry/"><u>[New] In 2024, Techniques for Fabulous Photo Collage Artistry</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-digital-rights-unexpected-content-take-downs/"><u>[Updated] 2024 Approved  Digital Rights  Unexpected Content Take-Downs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>[Updated] 2024 Approved  Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-techniques-for-capturing-the-perfect-verbal-note/"><u>[Updated] In 2024, Techniques for Capturing the Perfect Verbal Note</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-simplicity-in-code-constructing-a-streamlined-youtube-sign-up/"><u>[Updated] Simplicity in Code  Constructing a Streamlined YouTube Sign-Up</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-facetime-capturing-conversations-live/"><u>2024 Approved  Mastering FaceTime  Capturing Conversations Live</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-artists-pathway-journeying-from-hobbyist-to-professional/"><u>2024 Approved  The Artist's Pathway  Journeying From Hobbyist to Professional</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/achieve-more-with-fitbit-versa-3-seamless-tracking-via-built-in-gps-and-a-variety-of-wellness-applications-to-keep-you-inspired/"><u>Achieve More with Fitbit Versa 3 - Seamless Tracking Via Built-In GPS and a Variety of Wellness Applications to Keep You Inspired</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-of-the-best-premium-free-driver-refresher-software-options-july-2024-edition/"><u>Best of the Best: Premium-Free Driver Refresher Software Options - July 2024 Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-sony-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Sony Fingerprint Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-for-operating-android-programs-in-a-windows-10-framework/"><u>Comprehensive Tutorial for Operating Android Programs in a Windows 10 Framework</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/confidently-recover-deleted-iphone-information-using-advanced-software-tools/"><u>Confidently Recover Deleted iPhone Information Using Advanced Software Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/correcting-erratic-movements-and-blurs-a-handy-guide-to-surface-pro-screen-stability/"><u>Correcting Erratic Movements and Blurs – A Handy Guide to Surface Pro Screen Stability</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-tech-jargon-a-clear-guide-to-ar-vr-mr-and-xr-variations/"><u>Deciphering Tech Jargon: A Clear Guide to AR, VR, MR & XR Variations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-the-meaning-of-error-0xc0000185-and-easy-steps-to-resolve-it/"><u>Decode the Meaning of Error 0xC0000185 & Easy Steps to Resolve It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-freshest-windows-os-improvements-and-security-fixes-july-update-overview/"><u>Discover the Freshest Windows OS Improvements & Security Fixes - July Update Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-methods-for-deleting-code-companion-integration-on-windows-11-devices/"><u>Effective Methods for Deleting Code Companion Integration on Windows 11 Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-fixes-what-to-do-if-your-usb-tether-wont-connect/"><u>Essential Fixes: What to Do If Your USB Tether Won't Connect</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-windows-boot-failures-resolve-your-resetting-pc-error-today/"><u>Fixing Windows Boot Failures: Resolve Your 'Resetting PC' Error Today!</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-msvcrtdll-not-found-or-missing-errors/"><u>How to Fix Msvcrt.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-tecno-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Tecno Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breathing-life-into-images-mastering-face-motion-blur-in-picsart/"><u>In 2024, Breathing Life Into Images  Mastering Face Motion Blur in Picsart</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-itel-p40-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Itel P40 Pattern Lock Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-immediate-pause-screen-capture-steps/"><u>In 2024, Immediate Pause Screen Capture Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-lava-yuva-2-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Lava Yuva 2 for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-youtube-viewing-how-to-efficiently-insert-timestamps/"><u>In 2024, Transforming YouTube Viewing  How to Efficiently Insert Timestamps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lg-watch-style-review/"><u>LG Watch Style Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fast-shutdowns-in-windows-11-top-strategies-to-try-now/"><u>Mastering the Art of Fast Shutdowns in Windows 11: Top Strategies to Try Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maxs-must-watch-tv-lineup-what-we-love-and-why-you-should-too/"><u>Max's Must-Watch TV Lineup – What We Love and Why You Should, Too!</u></a></li>
+<li><a href="https://windows11.techidaily.com/multi-monitor-magic-custom-wallpapers-for-each-screen/"><u>Multi-Monitor Magic: Custom Wallpapers for Each Screen</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-voice-cloning-simplified-two-approaches-to-achieve-consistent-ai-voices/"><u>New In 2024, Voice Cloning Simplified Two Approaches to Achieve Consistent AI Voices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-hulu-error-rununk13-your-ultimate-solutions-compilation/"><u>Overcoming Hulu Error Rununk13 - Your Ultimate Solutions Compilation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/scoring-big-savings-on-music-streams-how-students-can-get-cheaper-rates-from-spotify/"><u>Scoring Big Savings on Music Streams: How Students Can Get Cheaper Rates From Spotify</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/showcase-of-inclusive-films-premier-lesbian-gay-bisexual-and-transgender-titles-on-netflix-this-july/"><u>Showcase of Inclusive Films: Premier Lesbian, Gay, Bisexual & Transgender Titles on Netflix This July</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-email-clutter-a-tutorial-on-gmails-label-features/"><u>Simplifying Email Clutter: A Tutorial on Gmail's Label Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snap-into-clarity-10-online-tools-to-blur-proof-images-for-2024/"><u>Snap Into Clarity  10 Online Tools to Blur-Proof Images for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-purchasing-vr-titles-on-oculus-quest-2/"><u>Step-by-Step Guide: Purchasing VR Titles on Oculus Quest 2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-reviving-your-disabled-instagram-account/"><u>Step-by-Step Guide: Reviving Your Disabled Instagram Account</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-your-music-experience-a-guide-to-joining-spotify-playlists-with-ease/"><u>Streamline Your Music Experience: A Guide to Joining Spotify Playlists with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722885184709-successfully-linking-your-airpods-to-an-hp-notebook-easy-instructions-inside/"><u>Successfully Linking Your AirPods to an HP Notebook - Easy Instructions Inside</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailoring-your-choice-comprehensive-insights-on-the-true-variances-of-mac-vs-pc-systems/"><u>Tailoring Your Choice: Comprehensive Insights on the True Variances of Mac Vs. PC Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-free-roku-streaming-options/"><u>Top 8 Free Roku Streaming Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-reasons-behind-an-unresponsive-touchscreen-on-your-apple-watch/"><u>Top Reasons Behind an Unresponsive Touchscreen on Your Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-wi-fi-login-failures-on-android-phones-and-tablets/"><u>Troubleshooting Wi-Fi Login Failures on Android Phones and Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-twitter-enhancement-programs-and-plugins/"><u>Ultimate Selection of Twitter Enhancement Programs and Plugins</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-for-acquiring-digital-books-on-iphoneipad-with-apple-books/"><u>Ultimate Tutorial for Acquiring Digital Books on iPhone/iPad with Apple Books</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-mobile-network-operators-what-you-need-to-know/"><u>Understanding Mobile Network Operators: What You Need to Know</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-with-animated-gifs-for-2024/"><u>Unleash Creativity with Animated GIFS for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmasking-impostors-effective-strategies-for-recognizing-bogus-friend-invitations-online/"><u>Unmasking Impostors: Effective Strategies for Recognizing Bogus Friend Invitations Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-5-premier-slumber-assistance-applications-for-your-apple-watch/"><u>Unveiling 5 Premier Slumber Assistance Applications for Your Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-functionality-and-purpose-of-a-dvr-digital-video-recorder/"><u>Unveiling the Functionality and Purpose of a DVR (Digital Video Recorder)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/when-should-you-consider-an-rtx-graphic-card-upgrade/"><u>When Should You Consider an RTX Graphic Card Upgrade?</u></a></li>
+</ul></div>

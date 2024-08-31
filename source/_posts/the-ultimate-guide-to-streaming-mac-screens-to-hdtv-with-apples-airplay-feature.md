@@ -1,0 +1,166 @@
+---
+title: The Ultimate Guide to Streaming Mac Screens to HDTV with Apple's AirPlay Feature
+date: 2024-08-30T13:13:46.940Z
+updated: 2024-08-31T13:13:46.940Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate Guide to Streaming Mac Screens to HDTV with Apple's AirPlay Feature
+excerpt: This Article Describes The Ultimate Guide to Streaming Mac Screens to HDTV with Apple's AirPlay Feature
+thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-airplay-from-a-mac-to-tv_5191732-9cb5a7f8b5cd48d7ac5505e529d17bf5.jpg
+---
+
+## The Ultimate Guide to Streaming Mac Screens to HDTV with Apple's AirPlay Feature
+### What to Know
+
+* Choose your TV from**Control Center** \>**Screen Mirroring** , or select the**AirPlay status** icon in the menu bar.
+* When the AirPlay icon turns blue, AirPlay is active and mirroring your selected Apple or smart TV.
+* Adjust the mirroring display size from the AirPlay drop-down menu or**System Preferences** \>**Displays** .
+
+ This article explains how to AirPlay from Mac to a TV. Instructions apply to Macs running macOS Mojave (10.14) and later. Once you’ve turned on AirPlay on your Mac, you can cast from your Mac to your Apple TV or compatible smart TV with a few clicks.
+
+## How to AirPlay From a Mac to a TV in macOS 11 and Later
+
+ Access AirPlay on a Mac running macOS Big Sur (11.0) and later in the Control Center. You need an Apple TV device or an AirPlay-compatible smart TV on the same network as the Mac.
+
+1. In the Mac menu bar, select the**Control Center** icon.  
+![Mac running macOS 12 with Control Center icon highlighted in the menu bar](https://www.lifewire.com/thmb/DbHKuyc7sRbbj4o6HxrEi0zeaHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-airplay-from-mac-to-tv-5191732-f24081c9525a424b930ab17d621791d5.jpg)
+2. In the Control Center, choose**Screen Mirroring** .  
+![Screen Mirroring highlighted in the Mac Control Center](https://www.lifewire.com/thmb/nodomC8QQbozgZPMfj8PzwkyrNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-airplay-from-mac-to-tv-5191732-65d41bb6af8f4083b1e112df272f6975.jpg)
+3. To start displaying your Mac's screen on your TV, select**Apple TV** or the name of your smart TV.  
+![Apple TV selected in the Mac Screen Mirroring menu](https://www.lifewire.com/thmb/PTv_lLD58PvHZcn-aS4rWJqhTis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-airplay-from-mac-to-tv-5191732-5a0b12d976554a44be665bf038db0f71.jpg)
+4. To stop AirPlay, return to the Screen Mirroring menu and select**Display Preferences** .  
+![Display Preferences highlighted in the Mac Screen Mirroring menu](https://www.lifewire.com/thmb/6QlqKlavxzR07tZYQzInVSsem8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-airplay-from-mac-to-tv-5191732-c3a68c281fdf433188525afa80f0d6d7.jpg)  
+ You can also go to the Mac menu bar, select the**AirPlay** icon, and then select**Display Preferences** .
+5. In macOS 12, choose**Display Settings** in the window that opens. (The process differs from here slightly in macOS 11, as shown below.)  
+![Display Settings highlighted on a Mac](https://www.lifewire.com/thmb/mjEeMcCHE2JgwY0g0gYEEPRxmfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-airplay-from-mac-to-tv-5191732-ec195a78ae8c4da3bc50c7c614763fb0.jpg)
+6. In macOS 12, select**Disconnect** to stop AirPlay. Choose**Done** to close the window.  
+![The Disconnect button on the Mac Displays screen](https://www.lifewire.com/thmb/kQLPzx7LsVy7uLLCsJcyCMOsHrw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-airplay-from-mac-to-tv-5191732-debc78f9007849c48e86e6e31e1f8871.jpg)
+7. In macOS 11, turn off AirPlay by selecting**Display Preferences** in the Screen Mirroring window, then use the menu next to**AirPlay Display** to select**Off** . For macOS 14, go back to**Control Center** , select**Screen Mirroring** , then click the TV you want to disconnect from.  
+![AirPlay Display menu in macOS 11](https://www.lifewire.com/thmb/oAV5KrlBhavWG-GPRjdIOe1e4u4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-airplay-from-mac-to-tv-5191732-ca542e44738c47eba2b6f2dbac365642.jpg)  
+
+## How to Turn On AirPlay in macOS Catalina and Mojave  
+
+ To[turn on AirPlay on your Mac](https://www.lifewire.com/turn-on-airplay-on-a-mac-5188718) in macOS Catalina (10.15) or macOS Mojave (10.14), use the menu bar or the Control Center.
+8. Select the**AirPlay status** icon.  
+ If you don’t see this icon, go to**System Preferences** \>**Displays** and select **Show mirroring options in the menu bar when available** .
+9. Under AirPlay To, choose the Apple TV or AirPlay-compatible TV.  
+![AirPlay status icon and AirPlay To devices highlighted from the macOS menu bar.](https://www.lifewire.com/thmb/6exsEZ4gsCJ5GTKsBnBaLszMFNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-airplay-from-a-mac-to-tv_5191732-bc8ec7fdf0b74dc98731f4477eaf2781.jpg)
+10. Alternatively, open**Control Center** , select**Screen Mirroring** and choose the name of your Apple TV or AirPlay-compatible TV.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+11. If it’s your first time connecting to your smart TV, input the_code_ you see on your TV when prompted on your Mac.  
+![AirPlay Device Code box that appears on a Mac when connecting to a smart TV.](https://www.lifewire.com/thmb/EPNisXy2HXKSoVsvA59esOGgZlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-airplay-from-a-mac-to-tv_5191732-cb9264410ed04ab1859e603cf5e30a6c.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+## How To Mirror My Mac to My TV in macOS Catalina or Mojave  
+
+ Once you’ve turned on AirPlay on your Mac, mirroring your display to your TV happens automatically. You can make adjustments to the mirroring size for the best experience.
+12. After turning on AirPlay, select the blue**AirPlay status** icon.  
+![Blue AirPlay status icon on macOS menu bar.](https://www.lifewire.com/thmb/McTHa-g8oQ0uga4BSnE5L9YXTGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-airplay-from-a-mac-to-tv_5191732-a648a4eb92cc4e4fba06e7916d7d2bf8.jpg)
+13. Review the mirroring options from the AirPlay drop-down menu under**AirPlay:** _TV\_Name_ .**Mirror** _TV\_Name_ is the default setting, which means the content mirrored to your TV will match your TV’s display size.  
+![The default mirroring option highlighted from the AirPlay status icon drop-down menu.](https://www.lifewire.com/thmb/bmL9yhxy_0irCqjPk2vvputsRNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-airplay-from-a-mac-to-tv_5191732-aec8903e6f7d46ed8f272a709318be99.jpg)
+14. To change mirroring to your Mac’s built-in display, select**Mirror** **Built-in** _Display\_Name_ .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![The option to match a Mac's built-in display size while mirroring highlighted from the AirPlay drop-down menu on a Mac.](https://www.lifewire.com/thmb/LlK2cKHBq0VYdKmJDmJbLJl3mXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-airplay-from-a-mac-to-tv_5191732-e71a826f637e41abbe773ab96cfc1038.jpg)
+15. If you want to mirror the content from a particular app or video with AirPlay functionality, select the**AirPlay** icon and choose your smart TV from the list of available devices.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+![AirPlay icon and device options highlighted from within an AirPlay-enabled app on a Mac.](https://www.lifewire.com/thmb/SMlnEpG_1VEImUPg0CLSTXQjOSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-airplay-from-a-mac-to-tv_5191732-17745c68ee7148c5b54c32da7d11134d.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## How Do I AirPlay From My Mac to My Smart TV Without Apple TV?  
+
+ You don’t need an Apple TV to enjoy AirPlay screen mirroring or audio casting from your Mac, provided you have a compatible television. The steps for turning on and using AirPlay are the same as connecting to an Apple TV. However, here are a few things to keep in mind to ensure you can AirPlay seamlessly from your Mac to a non-Apple smart TV.  
+
+* **Make sure your smart TV is AirPlay-compatible** : Many smart TVs now come with AirPlay or AirPlay 2 support for audio casting. Roku TVs and streaming devices and several Samsung, LG, Sony, and Vizio smart TVs come with with AirPlay turned on. To make sure your TV can AirPlay, check with the manufacturer or browse this list of[AirPlay 2-compatible TVs](https://www.apple.com/home-app/accessories/) .  
+* **Connect to the same wireless network** : For the best results with getting AirPlay up and running, connect your Mac and smart TV to the same Wi-Fi network before turning on AirPlay.  
+* **Update your TV software:** It’s always wise to keep your smart TV current with the latest software upgrades. Check for an update before you try to AirPlay from your Mac.  
+* **Adjust AirPlay settings on your smart TV** : The exact AirPlay settings location will vary depending on your TV model, but generally, you’ll find this section from the Settings area of your smart TV. To choose whether you’ll require a passcode each time you connect to your TV from your Mac or reset the connection with specific devices, you can do so here.  
+ FAQ  
+* How do I AirPlay from my Mac to a Samsung TV?  
+    If you have an AirPlay 2-compatible Samsung TV, use AirPlay mirroring or casting from your Mac. Both Apple and Samsung list compatible TVs and monitors on their support sites. For help[finding your TV model number](https://www.lifewire.com/decoding-tv-and-home-theater-product-model-numbers-4156943) , look on the packaging, in the user manual, or on the back of the device.  
+* How do I AirPlay from a Mac to a Fire TV?  
+    To cast to a Fire Stick from a Mac, download an app such as AirScreen on your Fire Stick. Then select your Fire Stick device from the AirPlay icon drop-down menu on your Mac. You can also AirPlay from your Mac to some Toshiba and Insignia Amazon Fire smart TVs.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-best-practices-in-embedding-real-time-videos-from-fb/"><u>[New] In 2024, Best Practices in Embedding Real-Time Videos From FB</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-photoharmony-android-and-ios-instagram-collages/"><u>[Updated] 2024 Approved  PhotoHarmony  Android & iOS Instagram Collages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-understanding-dolby-atmos-and-dts-virtualx/"><u>A Comprehensive Guide to Understanding Dolby Atmos and DTS Virtual:X</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-users-manual-how-to-permanently-deactivate-facebook-app/"><u>Android Users' Manual: How to Permanently Deactivate Facebook App</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessing-boses-qc30-sound-signature-strengths/"><u>Assessing Bose's QC30 Sound Signature Strengths</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crucial-factors-when-investing-in-a-secondhand-ipad-a-guide/"><u>Crucial Factors When Investing in a Secondhand iPad - A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-wi-fi-calling-what-it-really-means/"><u>Demystifying Wi-Fi Calling: What It Really Means</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-mouse-acceleration-in-macos-a-step-by-step-guide/"><u>Disabling Mouse Acceleration in macOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-our-pick-of-5-superior-ios-gps-tracking-tools/"><u>Discover Our Pick of 5 Superior iOS GPS Tracking Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discovering-6-interactive-workout-ideas-for-social-media-success-for-2024/"><u>Discovering 6 Interactive Workout Ideas for Social Media Success for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-on-casting-disneyplus-videos-using-a-google-chromecast-device/"><u>Easy Instructions on Casting Disney+ Videos Using a Google Chromecast Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminating-rockaldlldll-missing-error-comprehensive-troubleshooting-guide/"><u>Eliminating 'rockaldll.dll' Missing Error – Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-top-five-tools-for-success-on-twitch-a-must-have-guide/"><u>Essential Top Five Tools for Success on Twitch: A Must-Have Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-insights-unveiling-rumors-surrounding-the-new-apple-annulus-device/"><u>Exclusive Insights: Unveiling Rumors Surrounding the New Apple Annulus Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-and-tricks-to-overcome-alan-wake-2s-persistent-crashes-a-2024-how-to-guide/"><u>Expert Tips and Tricks to Overcome Alan Wake 2'S Persistent Crashes - A 2024 How-To Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-best-web-based-amusements-a-parents-guide-to-kid-friendly-gaming/"><u>Explore the Best Web-Based Amusements: A Parent’s Guide to Kid-Friendly Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208065872-fix-my-surface-wont-charge-problem-expert-tips-for-a-full-battery/"><u>Fix My Surface Won't Charge Problem – Expert Tips for a Full Battery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/googles-next-gen-wrist-device-projected-pricing-launch-date-and-expected-specifications/"><u>Google's Next-Gen Wrist Device: Projected Pricing, Launch Date, and Expected Specifications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722966795632-how-to-get-a-broken-samsung-blu-ray-player-running-again-solutions-inside/"><u>How to Get a Broken Samsung Blu Ray Player Running Again – Solutions Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hulu-standard-vs-huluplus-a-side-by-side-comparison-for-better-choices/"><u>Hulu Standard Vs. Hulu+: A Side-by-Side Comparison for Better Choices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-a23-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy A23 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-basics-of-samsung-tvs-a-comprehensive-walkthrough-for-hardware-restoration/"><u>Mastering the Basics of Samsung TVs: A Comprehensive Walkthrough for Hardware Restoration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-apples-macos-updates-your-ultimate-guide-to-different-releases/"><u>Navigating Apple's macOS Updates: Your Ultimate Guide to Different Releases</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pc-performance-basics-how-quickly-should-it-run/"><u>PC Performance Basics: How Quickly Should It Run?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ready-for-a-game-discover-chatgpts-hidden-treasures/"><u>Ready for a Game? Discover ChatGPT's Hidden Treasures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/seamless-audio-experience-on-your-pc-fixing-windows-117-sound-distortion-and-stutter-issues/"><u>Seamless Audio Experience on Your PC: Fixing Windows 11/7 Sound Distortion & Stutter Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722894249554-smartphone-photography-tips-setting-a-countdown-timer-on-the-iphone-camera/"><u>Smartphone Photography Tips: Setting a Countdown Timer on the iPhone Camera</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-personalizing-your-contact-info-with-godaddy-webmail-signatures/"><u>Step-by-Step Instructions for Personalizing Your Contact Info with GoDaddy WebMail Signatures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-managing-google-smart-speakers-using-the-compatible-phone-application-on-pc/"><u>Step-by-Step Tutorial for Managing Google Smart Speakers Using the Compatible Phone Application on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-chapter-in-smartwatches-begins-discover-the-apple-watch-series-8s-projection-of-release-date-comprehensive-specifications-and-recent-developments.m9/"><u>The Next Chapter in Smartwatches Begins: Discover the Apple Watch Series 8’S Projection of Release Date, Comprehensive Specifications & Recent Developments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-top-7-freely-accessible-online-fax-services/"><u>The Ultimate List of Top 7 Freely Accessible Online Fax Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-workout-journaling-apps-of-2024/"><u>Top 10 Workout Journaling Apps of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-iphones-for-gamers-which-one-should-you-choose/"><u>Top iPhones for Gamers: Which One Should You Choose?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-made-simple-how-to-perform-a-full-cmos-reset/"><u>Troubleshooting Made Simple: How to Perform a Full CMOS Reset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-siris-potential-how-to-accessible-text-to-speech-functionality-across-ios-and-macos-systems/"><u>Unlocking Siri's Potential: How to Accessible Text-to-Speech Functionality Across iOS and macOS Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-how-quick-should-your-computer-perform/"><u>Unraveling the Mystery: How Quick Should Your Computer Perform?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/walkthrough-activating-setup-mode-on-echo-dot-devices/"><u>Walkthrough: Activating Setup Mode on Echo Dot Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-sets-signal-apart-from-whatsapp-an-in-depth-analysis/"><u>What Sets Signal Apart From WhatsApp: An In-Depth Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-broadband-options-accessing-the-internet-without-traditional-cables/"><u>Wireless Broadband Options: Accessing the Internet without Traditional Cables</u></a></li>
+</ul></div>
