@@ -1,7 +1,7 @@
 ---
 title: "Identifying Inauthentic Connection Bids: A Guide to Discerning Genuine From Phony Friends"
-date: 2024-08-30T13:22:53.212Z
-updated: 2024-08-31T13:22:53.212Z
+date: 2024-09-04T00:26:04.403Z
+updated: 2024-09-05T00:26:04.403Z
 categories:
   - BestProducts
 description: "This Article Describes Identifying Inauthentic Connection Bids: A Guide to Discerning Genuine From Phony Friends"
@@ -120,5 +120,14 @@ Tell us why!
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="540" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

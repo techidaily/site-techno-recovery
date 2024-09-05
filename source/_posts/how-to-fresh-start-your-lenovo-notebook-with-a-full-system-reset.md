@@ -1,0 +1,204 @@
+---
+title: How To Fresh Start Your Lenovo Notebook With A Full System Reset
+date: 2024-09-04T00:30:10.108Z
+updated: 2024-09-05T00:30:10.108Z
+categories:
+  - BestProducts
+description: This Article Describes How To Fresh Start Your Lenovo Notebook With A Full System Reset
+excerpt: This Article Describes How To Fresh Start Your Lenovo Notebook With A Full System Reset
+thumbnail: https://www.lifewire.com/thmb/Fq16m0NQY-_nhfott8MIvMaFiI8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/christian-salas-DjGRskJdBws-unsplash-972e0e380ece40ceb4fdfdedb3fbc7e2.jpg
+---
+
+## Easy Steps to Type a Love Heart Emoji with Just Your Keyboard
+### What to Know
+
+* Windows: Press**Alt+3** on your keyboard to instantly type a heart symbol (must have Number Pad).
+* Alternatively, press**Windows key+. (Period)** to bring up the emoji keyboard.
+* Mac: Press**Cmd+Ctrl+Space** to select heart symbols from the emoji keyboard.
+
+ This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
+
+## How to Type a Heart on a Windows Keyboard
+
+ The heart symbol ❤️ is a commonly used emoji character, but most keyboards don’t have a designated key. Fortunately, you_can_ [type emoji from your keyboard on Windows and Macs](https://www.lifewire.com/how-to-type-emojis-4685680) if you know the right keyboard shortcuts.
+
+These instructions apply to PCs running Windows 10 and up.
+
+1. Open a web page or file (Word, PowerPoint, Notepad, etc.) and click to position the cursor in the text field where the heart will appear.
+2. Hold down the**Windows button** on your keyboard and then press the**. (Period)** . This sequence will bring up a small emoji keyboard.  
+![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
+3. Click the**Symbols** category in the bottom right corner (the heart icon).  
+![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
+4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
+![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
+ If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
+
+## How to Type a Heart on a Mac Keyboard
+
+ Here's how it works on a Mac:
+
+ These instructions apply to Macs running macOS Sierra 10.12 or later.
+
+1. Open a web page or file (Word, PowerPoint, Notepad, etc.) and click to position the cursor in the text field where the heart should appear.
+2. Press**Cmd+Ctrl+Space** on your keyboard at the same time. An emoji keyboard will appear.  
+![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
+3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
+4. Click the heart you'd like to type and it will appear in the text box.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
+![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What Is the Alt Code for a Heart?
+
+ You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
+
+ Things work a little differently on Macs, as the Apple keyboard uses option keys to insert symbols. However, you’ll have to change your keyboard settings to use the Unicode Hex Input method to do this.
+
+ It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
+
+## How Do You Make a Heart Without a Number Pad?
+
+ Unfortunately, alt codes on Windows only work with the numeric keypad. You can't use the numbers across the top of your keyboard.
+
+ Most Windows laptop keyboards don’t have a number pad, so the easiest way to type a heart would be to use the emoji keyboard steps, as outlined above. However, it’s still possible to use a number pad on your computer, even if your keyboard doesn’t have one.
+
+1. Hold down the**Windows key+Ctrl+O** to open the Windows 10 on-screen keyboard.
+2. Click**Options** .
+3. Check**Turn on numeric key pad** .  
+![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
+4. Click the**NumLock button** to bring up the number pad.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
+
+ If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
+
+## How Do You Get the White Heart Emoji on Your Keyboard?
+
+ The White Heart emoji 🤍 is commonly used online to discuss someone passing away. To get it, you can enter**Alt+9825** on Windows or find it in the Windows or Mac emoji keyboards.
+
+[How to Zoom In or Out With Your Keyboard](https://www.lifewire.com/zoom-in-or-out-with-keyboard-6746942)
+
+ FAQ
+
+* How do I add a heart symbol on Facebook?  
+ If you're using the Facebook app, use the Emoji keyboard to add a heart in a comment or post. Or, tap the**smiley face** , and then choose from a variety of heart-related stickers and avatars. Alternatively, type**<3** and a heart will appear. If you're using Facebook on the desktop, tap the**Emoji icon** to bring up emoji options, and then choose a heart.
+* How do I type a broken heart on a keyboard?  
+ On a Windows PC, type**Alt+128148** to generate a broken heart. Or copy and paste the symbol from a website. On a Mac, press**Cmd+Ctrl+Space** , click**Symbols** , and select the broken heart.
+* How do I make other symbols with my keyboard?  
+[Use Alt codes and Option codes on a Windows PC or Mac](https://www.lifewire.com/how-to-use-alt-codes-4768659) to insert various symbols and special codes.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-add-and-change-thumbnails-of-twitter-videos/"><u>[Updated] 2024 Approved  How to Add and Change Thumbnails of Twitter Videos?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/12-best-places-to-watch-free-movies-online/"><u>12 Best Places to Watch Free Movies Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-new-era-awakens-with-ai-redefining-progress-in-a-digital-world/"><u>A New Era Awakens with AI: Redefining Progress in a Digital World</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722873410868-accidentally-sent-an-important-email-heres-how-to-bring-it-back-in-outlook/"><u>Accidentally Sent an Important Email? Here's How to Bring It Back in Outlook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-chatgpt-content-filters-fixing-error-in-moderation-effectively/"><u>Addressing ChatGPT Content Filters: Fixing 'Error in Moderation' Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-how-to-put-echo-dot-in-its-initial-configuration-phase/"><u>Comprehensive Guide: How to Put Echo Dot in Its Initial Configuration Phase</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-the-cmos-checksum-issue-on-your-pc/"><u>Diagnosing and Repairing the CMOS Checksum Issue on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-visual-voicemail-software-of-2024-features-guide/"><u>Discover the Best Visual Voicemail Software of 202[4] - Features Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-pcs-webcam-functionality-a-guide-to-driver-updates-for-windows-10-users/"><u>Enhance Your PC's Webcam Functionality: A Guide to Driver Updates for Windows 10 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-viewing-experience-finding-the-ideal-pixel-configuration-on-a-samsung-qled-tv/"><u>Enhance Your Viewing Experience: Finding the Ideal Pixel Configuration on a Samsung QLED TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ethical-ways-to-discover-contact-information-finding-a-persons-phone-number/"><u>Ethical Ways to Discover Contact Information: Finding a Person's Phone Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-basics-what-does-output-impedance-mean/"><u>Exploring the Basics: What Does Output Impedance Mean?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gmail-whitelisting-guide-mastering-email-protection/"><u>Gmail Whitelisting Guide: Mastering Email Protection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-not-found-d3dx926dll-issues-effectively/"><u>How to Address Not Found d3dx9_26.dll Issues Effectively</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y36-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo Y36</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-a2plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi A2+ in Minutes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-troubleshoot-hevc-video-playback-issues-in-windows-11-and-10/"><u>How to Troubleshoot HEVC Video Playback Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722895644119-how-to-watch-the-superman-movies-in-order/"><u>How to Watch the ‘Superman’ Movies in Order</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-the-art-of-audio-integration-on-social-media-videos/"><u>Mastering the Art of Audio Integration on Social Media Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/melodic-memory-enhance-languages-with-harmonious-sounds/"><u>Melodic Memory: Enhance Languages with Harmonious Sounds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-like-a-pro-discover-18-key-shortcuts-for-iphone-automation/"><u>Navigate Like a Pro: Discover 18 Key Shortcuts for iPhone Automation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-mobile-platforms-how-the-ios-and-google-play-stores-stack-up/"><u>Navigating Mobile Platforms: How the IOS and Google Play Stores Stack Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reappearing-act-steps-to-fix-a-hidden-wi-fi-connection-problem/"><u>Reappearing Act: Steps to Fix a Hidden Wi-Fi Connection Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-reset-failure-on-windows-pc-step-by-step-guide/"><u>Resolving the 'Reset Failure on Windows PC': Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-new-features-in-apple-watch-series-6-a-steady-climb-to-greatness/"><u>Reviewing the New Features in Apple Watch Series 6: A Steady Climb to Greatness</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-a-guide-on-how-to-repair-msvcr71dll-file-not-found-issues/"><u>Solving the Mystery: A Guide on How to Repair 'Msvcr71.dll' File Not Found Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-creating-multi-pin-markers-on-google-maps/"><u>Step-by-Step Tutorial for Creating Multi-Pin Markers on Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-building-a-projector-screen-at-home/"><u>Step-by-Step Tutorial on Building a Projector Screen at Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-your-gaming-experience-by-merging-various-fortnite-accounts-together/"><u>Streamline Your Gaming Experience by Merging Various Fortnite Accounts Together</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-organizing-timed-text-messages-on-ios-devices/"><u>The Ultimate Tutorial: Organizing Timed Text Messages on iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-must-try-educational-apps/"><u>Top 8 Must-Try Educational Apps</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Tecno</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-creativity-using-our-top-5-video-editing-solutions/"><u>Unleash Creativity Using Our Top 5 Video Editing Solutions</u></a></li>
+</ul></div>

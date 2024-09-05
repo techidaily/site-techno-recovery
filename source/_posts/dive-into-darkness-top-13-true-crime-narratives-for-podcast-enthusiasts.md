@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Darkness: Top 13 True Crime Narratives for Podcast Enthusiasts"
-date: 2024-08-30T13:24:58.739Z
-updated: 2024-08-31T13:24:58.739Z
+date: 2024-09-04T00:26:02.496Z
+updated: 2024-09-05T00:26:02.496Z
 categories:
   - BestProducts
 description: "This Article Describes Dive Into Darkness: Top 13 True Crime Narratives for Podcast Enthusiasts"
@@ -35,15 +35,18 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
 
 ![iPhone 15 features](https://www.lifewire.com/thmb/t4gspKbwq56DPRs0r-LDMn8noZQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15features-8a38c089557647769e3bd494e7e49178.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pro and Pro Max: What's the Difference?
 
  The main reason someone might go for the Pro version of an iPhone over the base model is the camera. While the iPhone 15 and Pro both have an impressive 48-megapixel main camera, the Pro versions have a third lens that provides additional features.
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%273166%27 height=%271676%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![iPhone 15 Pro features](https://www.lifewire.com/thmb/W5IYkEGNlzvUhlNEOkvgw50dDgc=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15ProFeatures-c322bb8455fb4be2af8125103040fef4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  PHOTO:
 
 Apple Inc
@@ -76,9 +79,6 @@ Apple Inc
 
 **Spatial Video** : Spatial Video is a gimmick feature that only works with a niche product (the Vision Pro), but darn if it doesn't look cool. The possibilities are also there if Apple decides to open it up to other uses, like 3D scanning.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### iPhone 15 Pricing and Availability
 
  The iPhone 15 series starts at $799, but size, version, and memory choices will impact the final price. Here's how these options affect the cost:  
@@ -96,13 +96,16 @@ Apple Inc
 
 [USB-C: Everything You Need to Know](https://www.lifewire.com/usb-c-4149490)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The New Apple Watches
 
  This event included two new models of the Apple Watch: the standard Series 9 and the more rugged Ultra 2.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Series 9
 
  Apple showed off the latest Apple Watch, the Series 9, which provides several updates and improvements over the previous model. The first major update is the screen, which goes edge-to-edge and can display up to 2,000 nits, which is twice the maximum brightness of the Series 8.
@@ -116,7 +119,10 @@ Apple Inc
 ![All of the colors of the Apple Watch Series 9](https://www.lifewire.com/thmb/5BubYB89xa6KPdrUupdSDvAf--w=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-Series-9-Colors-5d09e52b67794b0d915413c9c17ac1af.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Each case is available in 41 and 45mm sizes, and either one can optionally connect to a cellular network.  
 
@@ -127,7 +133,16 @@ Apple Inc
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%274800%27 height=%271600%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Apple Watch Ultra 2](https://www.lifewire.com/thmb/wqN-LHfR4eXnBNTQ6v5qT8yWPlA=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-Ultra-2-09592df03cf54f4092c9bb29fda96395.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<span id="1993652">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Apple Watch Ultra 2.  PHOTO:
 
@@ -140,8 +155,10 @@ Apple Inc
  And, for outdoor emergencies, you can tap and hold the Action Button for a siren.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### The Coolest Features
 
@@ -165,6 +182,12 @@ Apple Inc
 
 [Double Tap on Apple Watch Series 9 Could Be the Coolest Feature Ever](https://www.lifewire.com/apple-watch-series-9-confirmed-7968679)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pricing and Availability
 
  The Series 9 starts at $399, but the price will change depending on case material, size, connectivity, and band. Here's a quick breakdown:

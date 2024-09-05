@@ -1,7 +1,7 @@
 ---
 title: Email and Phone Lost? Here's How to Retrieve Your FB Credentials Without Them
-date: 2024-08-30T13:25:19.543Z
-updated: 2024-08-31T13:25:19.543Z
+date: 2024-09-04T00:26:02.174Z
+updated: 2024-09-05T00:26:02.174Z
 categories:
   - BestProducts
 description: This Article Describes Email and Phone Lost? Here's How to Retrieve Your FB Credentials Without Them
@@ -42,7 +42,10 @@ Close
 6. If you found your account and selected a method for receiving your reset code, enter the security code you received and select**Continue** to follow the remaining on-screen steps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Reset Facebook Password From the Facebook App 
 
@@ -54,7 +57,16 @@ Close
 ![Facebook's Find Your Account form in the mobile app](https://www.lifewire.com/thmb/2qk50gzzgHMN8Zfn-eihVpmX0nk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-app-password-recovery-75f907d2c1c94a638e820bafac5173fe.png)
 4. Enter the code that was texted or emailed to you, then tap**Continue** .
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. When asked, create a new Facebook password, then tap**Continue** again to log in.
 

@@ -1,0 +1,152 @@
+---
+title: Effective Techniques to Prevent Accessing YouTube on Your iPad
+date: 2024-09-04T00:29:52.780Z
+updated: 2024-09-05T00:29:52.780Z
+categories:
+  - BestProducts
+description: This Article Describes Effective Techniques to Prevent Accessing YouTube on Your iPad
+excerpt: This Article Describes Effective Techniques to Prevent Accessing YouTube on Your iPad
+thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1296337884-20158a3a1f3a4fdea9d6109fe08612d0.jpg
+---
+
+## Effective Techniques for Repairing Hardware Exceptions – Understanding and Fixing the WHEeE Error in Windows
+ The Windows Hardware Error Architecture (WHEA) uncorrectable error is a Windows[stop code](https://www.lifewire.com/what-is-a-stop-code-2625685) displayed on a[blue screen](https://www.lifewire.com/blue-screen-of-death-bsod-2625816) . When this error occurs, your computer will typically compile some diagnostic data then reset. If the root problem persists, your computer will eventually crash again with the same WHEA uncorrectable error message.
+
+ WHEA uncorrectable errors are usually associated with faulty hardware, but they can also be caused by driver conflicts, missing Windows updates, and even[overclocking](https://www.lifewire.com/what-is-overclocking-a-computer-4092341) .
+
+## How the WHEA Uncorrectable Error Appears
+
+ When this error occurs, you'll usually see a message like one of these:
+
+* Your PC ran into a problem and needs to restart. We're just collecting some error info, and then we'll restart for you.  
+ If you'd like to know more, you can search online for this error: WHEA\_UNCORRECTABLE\_ERROR
+* A problem has been detected, and Windows has been shut down to prevent damage to your computer.  
+ WHEA\_UNCORRECTABLE\_ERROR
+
+## Causes of the WHEA Uncorrectable Error
+
+ The WHEA uncorrectable error is a stop code displayed during blue screen crashes and is usually due to hardware failure. A failing hard drive, defective memory, improperly seated CPU, and a variety of other hardware issues can all result in a WHEA uncorrectable error.
+
+ In addition to faulty hardware, this error message can also result from driver conflicts and missing Windows updates that cause hardware to work or not work in unexpected ways.
+
+ In some cases, overclocking can also cause this error to appear due to the extra strain overclocking puts on your CPU.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Fix a WHEA Uncorrectable Error
+
+ Since most WHEA uncorrectable errors are caused by hardware failure, fixing this error usually involves tracking down the problem component and replacing it. However, the best place to start is on the software end because that's easier and less expensive.
+
+ In general, you'll want to start by checking for Windows and driver updates, then running checks on components like your hard drive and memory.
+
+1. [Use Windows Update to make sure that your system is up to date](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . If you don't have automatic updates turned on or an automatic update failed for some reason, you might be missing a crucial patch. To make sure you're all up to date, type "**Windows Update** " into your taskbar search field.  
+ If you require any updates, you'll have the option to install them. You can also select**Check for updates** to be sure.
+2. Physically inspect your computer hardware. You may have a physical defect or failure in one of your hardware components. Some things to look for include whether your cooling system is hooked up and functional, your RAM is securely seated in place, components like your CPU haven't come loose, and everything is securely connected.  
+ Don't touch anything inside your computer unless you're using an anti-static bracelet.
+3. [Make sure your drivers are up to date](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) . Driver conflicts represent one of the most common causes of the WHEA uncorrectable error. If you're having a driver problem, it can be challenging to track down exactly which driver needs an update.  
+ Use this[list of free driver updater tools](https://www.lifewire.com/free-driver-updater-tools-2619206) for some much-needed assistance.
+4. [Use System Restore to undo any recent changes to your computer](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . If you cannot track down the change that causes your system to start experiencing WHEA uncorrectable errors, a system restore may fix the problem. It's a utility that allows you to restore your system to an earlier state, which effectively undoes any changes made in the meantime.  
+ If you try steps 1 & 2 above before you try this step, you may lose any updates you may have installed since, presumably, the restore point you use will be before these updates.
+5. [Check for hard drive issues with the Error Checking utility](https://www.lifewire.com/how-to-scan-a-hard-drive-using-error-checking-2624497) . Since the WHEA uncorrectable error can be caused by faulty hardware, running the Error Checking utility may help point you to the root cause of your problem. This utility works a lot like chkdsk, and it will let you know if there are any problems with your hard drive.  
+ You can also use[chkdsk](https://www.lifewire.com/chkdsk-command-2625838) if you prefer. It doesn't have a graphical interface like the Error Checking utility, but it does provide a lot of additional options.
+6. [Use a free memory diagnostic tool](https://www.lifewire.com/free-memory-test-programs-2626178) . Faulty[RAM/memory](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) is another hardware issue that can cause the WHEA uncorrectable error, and the easiest way to check for this is with a free memory diagnostic tool. If one of these tools says you have bad memory,[replacing your RAM](https://www.lifewire.com/how-to-replace-the-memory-ram-in-a-computer-2626201) may eliminate your WHEA uncorrectable error.
+7. [Disable overclocking in BIOS or UEFI](https://www.lifewire.com/bios-settings-831400) . To easily[access your system BIOS](https://www.lifewire.com/how-to-enter-bios-2624481) or[UEFI](https://www.lifewire.com/unified-extensible-firmware-interface-833069) to undo any overclocking changes you've made, type "**Settings** " into your taskbar search field, then navigate to**Update & Security** \>**Recovery** \>**Advanced startup** \>**Restart now** .  
+ The restart process will start. Select**Troubleshoot** \>**Advanced options** \>**UEFI Firmware Settings** . If your computer uses BIOS instead of UEFI, these options will be slightly different.  
+ Your computer will restart and automatically open UEFI or BIOS. Navigate to the overclocking section, and disable all overclocking.  
+ This fix only applies if your system has been overclocked. If you bought your computer new and never overclocked it, this fix doesn't apply.
+8. [Reset Windows as a last resort](https://www.lifewire.com/reset-this-pc-complete-walkthrough-2624538) . When all else fails, reset Windows. It's an irreversible process that essentially reinstalls Windows from scratch and gives you a clean slate.  
+ If you reset Windows and still experience the WHEA uncorrectable error, you have a hardware issue. Carefully inspect your hardware again, and seek professional assistance if you can't determine which piece of hardware has failed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Other Blue Screen Problems Like the WHEA Uncorrectable Error
+
+ The WHEA uncorrectable error is just one of many errors that can cause Windows to display the blue screen of death. If you're experiencing blue screen issues, we have a[complete list of blue screen error codes](https://www.lifewire.com/blue-screen-error-codes-4065576) that can help you get to the bottom of your problem.
+
+ We also have a general[guide to fixing the blue screen of death](https://www.lifewire.com/how-to-fix-a-blue-screen-of-death-2624518) that may be some assistance.
+
+ FAQ
+
+* How do I fix a "system thread exception not handled" error in Windows?  
+ You'll need to[boot into safe mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) and use the Windows log to find a faulty driver. Press**Windows key + R** and type**eventvwr** in the**Run** dialog box. In the**Windows Logs** menu, select**System** . Find a log labeled**system\_thread\_exception\_not\_handled** , a nd select it to find the faulty driver.
+* How do I fix the "your clock is ahead" error in Windows?  
+ Win 10 and 11: Go to the taskbar, select the date and time, and choose**Date and Time Settings** . Turn on**Set Time Automatically** . In older Windows versions, choose the**date and time** on the taskbar and select**Internet Time** \>**Change Settings** . Check**Synchronize with an Internet time server** and select**time.windows.com** \>**Update** **Now** \>**OK** .
+* How do I fix error 0x80004005 in Windows 10?  
+ To[fix error 0x80004005 in Windows 10](https://www.lifewire.com/how-to-fix-error-code-0x80004005-4689559) , try[running the Windows Update troubleshooter](https://support.microsoft.com/help/4027322/windows-update-troubleshooter) . If this doesn't work, manually delete the files in the Windows Update folder, and run Windows Update again. You can also try deleting temporary files, disabling Windows Defender, and disabling Outlook mail notifications.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-complete-guide-to-proficient-use-of-screenrec-software/"><u>[New] 2024 Approved  The Complete Guide to Proficient Use of ScreenRec Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>[New] 2024 Approved  The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-24-techniques-for-recording-virtual-conferences-on-a-dime-for-2024/"><u>[New] 24 Techniques for Recording Virtual Conferences on a Dime for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/chieving-affiliate-success-with-online-videos/"><u>[New] Achieving Affiliate Success with Online Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unfolding-the-world-on-iphone-perfect-fb-video-sharing/"><u>[Updated] In 2024, Unfolding the World on iPhone  Perfect FB Video Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-interactive-inspection-kits-facebook-live-for-2024/"><u>[Updated] Interactive Inspection Kits  Facebook Live for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-8-released-full-timeline-in-depth-features-overview-and-expected-retail-pricing-details/"><u>Apple Watch Series 8 Released: Full Timeline, In-Depth Features Overview & Expected Retail Pricing Details</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ev-types-battery-electric-bev-plug-in-hybrid-phev-hydrogen-fuel-cell-fcev-and-conventional-hybrids-explained/"><u>Comparing EV Types: Battery-Electric (BEV), Plug-In Hybrid (PHEV), Hydrogen Fuel Cell (FCEV) & Conventional Hybrids Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-files-and-folders-win-1011-edition/"><u>Conquering Files and Folders, Win 10/11 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customizing-windows-11-a-simple-method-to-deactivate-the-news-widget-display/"><u>Customizing Windows 11: A Simple Method to Deactivate the News Widget Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-entertainment-experience-by-viewing-tiktok-on-a-television-screen/"><u>Elevate Your Entertainment Experience by Viewing TikTok on a Television Screen</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-conversion-optimization-with-cookiebot-technology/"><u>Enhanced Conversion Optimization with Cookiebot Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-eradicating-vertical-interruptions-from-your-samsung-screen/"><u>Expert Advice: Eradicating Vertical Interruptions From Your Samsung Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-legacy-of-netflixs-discontinued-mail-based-dvd-plan/"><u>Exploring the Legacy of Netflix's Discontinued Mail-Based DVD Plan</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/group-groove-gatherings-the-ultimate-guide-to-spotify-party-plays/"><u>Group Groove Gatherings: The Ultimate Guide to Spotify Party Plays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-preventing-yourself-from-watching-youtube-on-an-ipad/"><u>Guide: Preventing Yourself From Watching YouTube on an iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-a-503-service-unavailable-web-page-issue-in-minutes/"><u>How to Resolve a 503 Service Unavailable Web Page Issue in Minutes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-highest-echelon-writers-club/"><u>In 2024, Highest Echelon Writers Club</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-pro-m4-versus-macbook-air-m3-a-comprehensive-breakdown-of-features-and-performance/"><u>IPad Pro M4 Versus MacBook Air M3: A Comprehensive Breakdown of Features and Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-air-and-airpods-sync-tutorial-easy-connection-methods-revealed/"><u>MacBook Air and AirPods Sync Tutorial: Easy Connection Methods Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-gpt-3-and-python-integration-tips-and-tricks/"><u>Mastering the Art of GPT-3 and Python Integration: Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/monitor-interactions-on-instagram-whos-showed-their-love-for-your-post/"><u>Monitor Interactions on Instagram: Who's Showed Their Love for Your Post?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlimited-fake-faces-best-free-online-face-generation-tools/"><u>New Unlimited Fake Faces Best Free Online Face Generation Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/preventing-unwanted-plays-in-apple-music-tips-and-tricks-for-users/"><u>Preventing Unwanted Plays in Apple Music: Tips and Tricks for Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-macs-ailing-media-files/"><u>Restoring Mac's Ailing Media Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revamp-your-iphone-experience-by-changing-its-regional-preferences/"><u>Revamp Your iPhone Experience by Changing Its Regional Preferences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-workflow-effective-strategies-to-employ-google-duo-on-gmail/"><u>Simplify Your Workflow: Effective Strategies to Employ Google Duo on Gmail</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-to-get-your-corsair-hsnano-mic-working-again/"><u>Step-by-Step Fixes to Get Your Corsair HSnano Mic Working Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-correcting-bios-checksum-mismatches/"><u>Step-by-Step Solution: Correcting BIOS Checksum Mismatches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/suddenly-no-more-chatgpt-in-italy-the-banned-reason/"><u>Suddenly No More ChatGPT in Italy: The Banned Reason</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-fix-you-need-getting-your-playstation-5-gamepad-charging-again/"><u>The Fix You Need: Getting Your PlayStation 5 Gamepad Charging Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-adjusting-photos-for-ideal-display-on-instagram-feeds/"><u>The Ultimate Guide to Adjusting Photos for Ideal Display on Instagram Feeds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-3-ipad-voice-recorder/"><u>Top 3 iPad Voice Recorder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-what-to-do-if-gmail-fails-to-sync-properly/"><u>Troubleshooting Guide: What To Do If Gmail Fails to Sync Properly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-blue-screen-computing-issues/"><u>Unraveling the Mystery Behind 'Blue Screen' Computing Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-innovation-a-look-into-the-new-apple-iphone-release/"><u>Unveiling Innovation: A Look Into the New Apple iPhone Release</u></a></li>
+</ul></div>

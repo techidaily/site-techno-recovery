@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Watching Exceptional LGBT Films on Netflix – July Edition
-date: 2024-08-30T13:24:40.310Z
-updated: 2024-08-31T13:24:40.310Z
+date: 2024-09-04T00:26:02.783Z
+updated: 2024-09-05T00:26:02.783Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Watching Exceptional LGBT Films on Netflix – July Edition
@@ -73,13 +73,16 @@ _The Invisible Thread_ _(Il Filo Invisibile_ ) is an Italian drama with a positi
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Stay on Board: The Leo Baker Story (2022)—A Tribute to a Trailblazing Transgender Athlete](https://www.imdb.com/title/tt21100124/) 
 
 ![Leo Baker in Stay on Board](https://www.lifewire.com/thmb/MBH5jhAKJCJ70_lCKsbvC965wfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-lgbt-movies-on-netflix-right-now-august-2022-5069913-74fd4bf7bfdf4068b2b70507212c260c.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 6.7/10
@@ -108,9 +111,6 @@ of 15
 
 ![Halle Berry in Bruised](https://www.lifewire.com/thmb/Ld0dwnjfA3BreVo9a6sOD3vun8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-january-2022-cec6f4f8743944048693231b4d8f4a55.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 6.2/10
@@ -135,9 +135,6 @@ Netflix
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## [ Pray Away (2021): Most Heart-Wrenching Exposé on Conversion Therapy](https://www.imdb.com/title/tt11224358/) 
 
 ![Rainbow colored stained glass window promoting Pray Away 2021 film](https://www.lifewire.com/thmb/5si0q5LmVCObpZ4mE0UWkSTn8p4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-ae23fe5d412c4381b1cbacdcaa37333a.jpg) 
@@ -166,12 +163,21 @@ _Pray Away_ examines the controversial practice of gay conversion therapy, which
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Stand Out: An LGBTQ+ Celebration (2022)—Best LGBT Standup Comedy Special](https://www.imdb.com/title/tt20723644/) 
 
 ![Wanda Sykes performs in Stand Out (2022)](https://www.lifewire.com/thmb/E4lNhdDal7jWx5UnqrMywwiUQYA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-f3fab440e4184c74aa9dd559e480b2bf.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Netflix
 
@@ -197,12 +203,33 @@ Netflix
 
 of 15
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Fanfic (2023): An Unconventional Coming Out Story](https://www.imdb.com/title/tt27612422/) 
 
 ![Alin Szewczyk in Fanfic](https://www.lifewire.com/thmb/aH-Rk1QsCLC_NYUvL4vwTmuoQUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-july-2023-5069913-b04870a3a482455599d60bd335bb18f5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Netflix
 
@@ -228,6 +255,12 @@ Netflix
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Cobalt Blue (2022): A Love Triangle Turned into a Family Feud](https://www.imdb.com/title/tt15314640/) 
 
 ![The cast of Cobalt Blue 2022](https://www.lifewire.com/thmb/nNQeoVF_PpfG3WSMnv8RkRf7E5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-may-2022-5069913-0e071839d6a24c4e8f457a53195742c6.jpg) 
@@ -257,12 +290,27 @@ Netflix
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<span id="1531879">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Marry My Dead Body (2023): A Tale About Literally Being Haunted by Homophobia](https://www.imdb.com/title/tt22742964/) 
 
 ![The cast of Marry My Dead Body](https://www.lifewire.com/thmb/Mlj7-wuWMYSjXuojihpuDf1p4NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MarryMyDeadBodyNetflix-bb17da0de7464f9eb3cc4abe422f15ad.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **IMDb Rating** : 7.0/10
 
 **Genre** : Action, Comedy, Drama,
@@ -286,7 +334,16 @@ _Marry My Dead Body_ combines comedy with Chinese superstition to create an orig
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="540" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Operation Hyacinth (2021): Best Police Procedural About LGBT History in Poland](https://www.imdb.com/title/tt14315584/) 
 
@@ -316,16 +373,10 @@ Netflix
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Eldorado: Everything the Nazis Hate (2023) - A Documentary About LGBT Persecution in WWII Germany](https://www.imdb.com/title/tt27906298/) 
 
 ![Eldorado: Everything the Nazis Hate](https://www.lifewire.com/thmb/uFvdxEXqQjJwD7DBm6iOVoVq9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-august-2023-5069913-8891654589fb407699c5bdac16e865d9.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 7.5/10
@@ -350,6 +401,12 @@ Netflix
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Dancing Queens (2021): A Gender-Bending Side Hussle](https://www.imdb.com/title/tt13032716/) 
 
 ![The cast of Dancing Queens on Netflix](https://www.lifewire.com/thmb/vrH9qhpgR135LDBb-sQ-8auu0SE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-7589c1a062994bf9b719af7cae64370a.jpg) 
@@ -383,7 +440,16 @@ of 15
 ![Alfonso Herrera and Emiliano Zurita in Dance of the 41](https://www.lifewire.com/thmb/lc34xpMWUPwr35ugd-vwDn3YpCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-october-2021-5069913-55ecc68b92a84a5082972963443331b2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<span id="1424533">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Netflix
 
@@ -409,9 +475,6 @@ Netflix
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Rustin (2023): A Tribute to the Real-Life Heroism of a Civil Rights Activist](https://www.imdb.com/title/tt14160834/) 
 
 ![Colman Domingo as Rustin in the movie Rustin](https://www.lifewire.com/thmb/7ltyttwzv2q5TBWjrNAu88wZbVk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014_best-lgbt-movies-on-netflix-right-now-5069913-213ed350ac2f4888b890ed8d237bd98c.jpg) 
@@ -442,13 +505,16 @@ _Rustin's_ portrayer Colman Domingo received critical praise for his performance
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Valley of a Thousand Hills (2023): An Untraditional Coming Out Story](https://www.imdb.com/title/tt21437200/) 
 
 ![Sibongokuhle Nkosi and Mandisa Vilakazi in Valley of a Thousand Hills](https://www.lifewire.com/thmb/R5Iy4Iz-Ld0zSnXIlHc_2aSRdpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-january-2023-5069913-24d31d0c3f294310b88e1ab92a7af9fd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **IMDb Rating** : 6.6/10
 
 **Genre** : Drama
