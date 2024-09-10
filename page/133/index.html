@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techno-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">John</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ultimate-guide-resolving-ntdlldll-issues-on-your-pc-windows-1087/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/2efc75770914ae3db1b269aa438526aea2b37f029f972da8e465d2fb4ae63f10.jpg" alt="Ultimate Guide: Resolving ntdll.dll Issues on Your PC (Windows 10/8/7)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/kid-friendly-online-game-collection-7-exciting-options/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b156e8e5794d885b9d42d1fa5d.jpeg" alt="Kid-Friendly Online Game Collection: 7 Exciting Options" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ultimate-guide-resolving-ntdlldll-issues-on-your-pc-windows-1087/">
-                            Ultimate Guide: Resolving ntdll.dll Issues on Your PC (Windows 10/8/7)
+                        <a href="/kid-friendly-online-game-collection-7-exciting-options/">
+                            Kid-Friendly Online Game Collection: 7 Exciting Options
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Ultimate Guide: Resolving ntdll.dll Issues on Your PC (Windows 10&#x2F;8&#x2F;7)</p>
+                            <p>This Article Describes Kid-Friendly Online Game Collection: 7 Exciting Options</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:35 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:21:03 GMT+0800">
                 
                     2024-08-30
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/ultimate-guide-resolving-ntdlldll-issues-on-your-pc-windows-1087/">Read more<span class="seo-reader-text">Ultimate Guide: Resolving ntdll.dll Issues on Your PC (Windows 10/8/7)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/kid-friendly-online-game-collection-7-exciting-options/">Read more<span class="seo-reader-text">Kid-Friendly Online Game Collection: 7 Exciting Options</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-determine-whos-keeping-a-permanent-copy-of-your-posts-on-instagram/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/1iuB0E-eiw83JkKjq_h6Afq_Ts8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-saved-your-instagram-posts-featured-d055adfad63f4a169f319a1206b85990.jpg" alt="How to Determine Who&#39;s Keeping a Permanent Copy of Your Posts on Instagram" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722869839318-erasing-your-digital-footprint-a-comprehensive-guide-to-deleting-your-yahoo-mail-account/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3a2be4caf338af3c874b626b.jpg" alt="Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-determine-whos-keeping-a-permanent-copy-of-your-posts-on-instagram/">
-                            How to Determine Who&#39;s Keeping a Permanent Copy of Your Posts on Instagram
+                        <a href="/1722869839318-erasing-your-digital-footprint-a-comprehensive-guide-to-deleting-your-yahoo-mail-account/">
+                            Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Determine Who’s Keeping a Permanent Copy of Your Posts on Instagram</p>
+                            <p>This Article Describes Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:34 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:21:02 GMT+0800">
                 
                     2024-08-30
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/how-to-determine-whos-keeping-a-permanent-copy-of-your-posts-on-instagram/">Read more<span class="seo-reader-text">How to Determine Who&#39;s Keeping a Permanent Copy of Your Posts on Instagram</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722869839318-erasing-your-digital-footprint-a-comprehensive-guide-to-deleting-your-yahoo-mail-account/">Read more<span class="seo-reader-text">Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/common-iphone-autofocus-problems-and-easy-fixes-for-better-photography/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/B-LQ6WicT0OPvhsXniDp1JUhEno=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-926890-5bd3410f46e0fb0058b1822d.jpg" alt="Common iPhone Autofocus Problems &amp; Easy Fixes for Better Photography" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722886308949-yahoo-users-heres-how-you-can-erase-your-email-account-forever/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/o9L5zceQQehIO2CUQVvR8ViwVus=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-terminating-yahoo-account-57f6b3c05f9b586c355390ec.jpg" alt="Yahoo Users, Here&#39;s How You Can Erase Your Email Account Forever!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/common-iphone-autofocus-problems-and-easy-fixes-for-better-photography/">
-                            Common iPhone Autofocus Problems &amp; Easy Fixes for Better Photography
+                        <a href="/1722886308949-yahoo-users-heres-how-you-can-erase-your-email-account-forever/">
+                            Yahoo Users, Here&#39;s How You Can Erase Your Email Account Forever!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Common iPhone Autofocus Problems &amp; Easy Fixes for Better Photography</p>
+                            <p>This Article Describes Yahoo Users, Here’s How You Can Erase Your Email Account Forever!</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:33 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:21:00 GMT+0800">
                 
                     2024-08-30
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/common-iphone-autofocus-problems-and-easy-fixes-for-better-photography/">Read more<span class="seo-reader-text">Common iPhone Autofocus Problems &amp; Easy Fixes for Better Photography</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722886308949-yahoo-users-heres-how-you-can-erase-your-email-account-forever/">Read more<span class="seo-reader-text">Yahoo Users, Here&#39;s How You Can Erase Your Email Account Forever!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/comprehensive-guide-eliminating-windows-error-message-code-19-for-smooth-operation/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa30a9b73ce69cba9af6290248.jpg" alt="Comprehensive Guide: Eliminating Windows Error Message Code 19 for Smooth Operation" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-snapchat-emoji-cheat-sheet-what-do-they-really-mean/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d44fbc8bb793a1cd727c98e95.jpg" alt="Ultimate Snapchat Emoji Cheat Sheet: What Do They Really Mean?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/comprehensive-guide-eliminating-windows-error-message-code-19-for-smooth-operation/">
-                            Comprehensive Guide: Eliminating Windows Error Message Code 19 for Smooth Operation
+                        <a href="/ultimate-snapchat-emoji-cheat-sheet-what-do-they-really-mean/">
+                            Ultimate Snapchat Emoji Cheat Sheet: What Do They Really Mean?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Comprehensive Guide: Eliminating Windows Error Message Code 19 for Smooth Operation</p>
+                            <p>This Article Describes Ultimate Snapchat Emoji Cheat Sheet: What Do They Really Mean?</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:31 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:20:59 GMT+0800">
                 
                     2024-08-30
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/comprehensive-guide-eliminating-windows-error-message-code-19-for-smooth-operation/">Read more<span class="seo-reader-text">Comprehensive Guide: Eliminating Windows Error Message Code 19 for Smooth Operation</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-snapchat-emoji-cheat-sheet-what-do-they-really-mean/">Read more<span class="seo-reader-text">Ultimate Snapchat Emoji Cheat Sheet: What Do They Really Mean?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/strategies-for-dealing-with-non-responsive-ms-office-documents/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/sw7n0FbV4IdTIYvSYLOfEYp5KUw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-175738585-ff74cca19089474bb5792d910d8604da.jpg" alt="Strategies for Dealing with Non-Responsive MS Office Documents" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/excel-essentials-the-process-of-fusing-two-distinct-column-values/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf2e1d56812a41fc12ff7dc0c.jpg" alt="Excel Essentials: The Process of Fusing Two Distinct Column Values" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/strategies-for-dealing-with-non-responsive-ms-office-documents/">
-                            Strategies for Dealing with Non-Responsive MS Office Documents
+                        <a href="/excel-essentials-the-process-of-fusing-two-distinct-column-values/">
+                            Excel Essentials: The Process of Fusing Two Distinct Column Values
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Strategies for Dealing with Non-Responsive MS Office Documents</p>
+                            <p>This Article Describes Excel Essentials: The Process of Fusing Two Distinct Column Values</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:30 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:20:57 GMT+0800">
                 
                     2024-08-30
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/strategies-for-dealing-with-non-responsive-ms-office-documents/">Read more<span class="seo-reader-text">Strategies for Dealing with Non-Responsive MS Office Documents</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/excel-essentials-the-process-of-fusing-two-distinct-column-values/">Read more<span class="seo-reader-text">Excel Essentials: The Process of Fusing Two Distinct Column Values</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/apple-watch-wont-sync-here-are-6-effective-fixes-to-try/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/VdCOQRbiljNXZfd12pXLcWvueGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pair-apple-watch-2-b8449f608d95461f990dc898d2d6fda9.jpg" alt="Apple Watch Won&#39;t Sync? Here Are 6 Effective Fixes to Try" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-successfully-delete-yourself-from-the-tiktok-universe/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/ICd17xlEC-aku6Taw_CrMfCEv6A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1183804979-558ec63f893e4e068a261ebc584f819e.jpg" alt="How To Successfully Delete Yourself From the TikTok Universe" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/apple-watch-wont-sync-here-are-6-effective-fixes-to-try/">
-                            Apple Watch Won&#39;t Sync? Here Are 6 Effective Fixes to Try
+                        <a href="/how-to-successfully-delete-yourself-from-the-tiktok-universe/">
+                            How To Successfully Delete Yourself From the TikTok Universe
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Apple Watch Won’t Sync? Here Are 6 Effective Fixes to Try</p>
+                            <p>This Article Describes How To Successfully Delete Yourself From the TikTok Universe</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:29 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:20:56 GMT+0800">
                 
                     2024-08-30
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/apple-watch-wont-sync-here-are-6-effective-fixes-to-try/">Read more<span class="seo-reader-text">Apple Watch Won&#39;t Sync? Here Are 6 Effective Fixes to Try</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-successfully-delete-yourself-from-the-tiktok-universe/">Read more<span class="seo-reader-text">How To Successfully Delete Yourself From the TikTok Universe</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigate-through-top-8-preferred-dual-number-applications/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/0Ql4PaMGG_JgmjQ_TrJ8qj2ge44=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20200417_182009-12af46befca541969b3c79fcbdcd592c.jpg" alt="Navigate Through Top 8 Preferred Dual Number Applications" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/latest-comprehensive-guide-on-linksys-default-passwords-as-of-july-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/mdiVngphS7d42qEcTTgMu-oDUJ0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-classic-micro-router-pro-6-8b16a5f340964425bdb89a3cc2f42e5d.jpg" alt="Latest Comprehensive Guide on Linksys Default Passwords as of July 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/navigate-through-top-8-preferred-dual-number-applications/">
-                            Navigate Through Top 8 Preferred Dual Number Applications
+                        <a href="/latest-comprehensive-guide-on-linksys-default-passwords-as-of-july-2024/">
+                            Latest Comprehensive Guide on Linksys Default Passwords as of July 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Navigate Through Top 8 Preferred Dual Number Applications</p>
+                            <p>This Article Describes Latest Comprehensive Guide on Linksys Default Passwords as of July 2024</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:28 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:20:55 GMT+0800">
                 
                     2024-08-30
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/navigate-through-top-8-preferred-dual-number-applications/">Read more<span class="seo-reader-text">Navigate Through Top 8 Preferred Dual Number Applications</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/latest-comprehensive-guide-on-linksys-default-passwords-as-of-july-2024/">Read more<span class="seo-reader-text">Latest Comprehensive Guide on Linksys Default Passwords as of July 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-design-review-and-rankings-of-top-17-graphic-software-choices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc218886423e579644f1092e23638fe5.jpg" alt="Mastering Design: Review &amp; Rankings of Top 17 Graphic Software Choices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/properly-referencing-conversations-with-chatgpt-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d9d28999ab80c3fe303824be9f1e02b9cc335e9a7ef77a5fdd8ceeee3dcb3523.jpg" alt="Properly Referencing Conversations with ChatGPT: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-design-review-and-rankings-of-top-17-graphic-software-choices/">
-                            Mastering Design: Review &amp; Rankings of Top 17 Graphic Software Choices
+                        <a href="/properly-referencing-conversations-with-chatgpt-a-step-by-step-guide/">
+                            Properly Referencing Conversations with ChatGPT: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Mastering Design: Review &amp; Rankings of Top 17 Graphic Software Choices</p>
+                            <p>This Article Describes Properly Referencing Conversations with ChatGPT: A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:27 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:20:54 GMT+0800">
                 
                     2024-08-30
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/mastering-design-review-and-rankings-of-top-17-graphic-software-choices/">Read more<span class="seo-reader-text">Mastering Design: Review &amp; Rankings of Top 17 Graphic Software Choices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/properly-referencing-conversations-with-chatgpt-a-step-by-step-guide/">Read more<span class="seo-reader-text">Properly Referencing Conversations with ChatGPT: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expert-advice-how-to-permanently-remove-pictures-from-facebook/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/19cc3daca0ae766efaf5a0d940f51eeacf8f6380658cff3e15c9f29d7f7d98eb.jpg" alt="Expert Advice: How to Permanently Remove Pictures From Facebook" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/a-parents-guide-to-fun-interactive-web-games-perfect-for-children/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/7BqRA_o6U4UHMaJAw4hLs7zq-N8=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kidsfunonlinegames-featured-5bff772ac9e77c00264b1387.jpg" alt="A Parent&#39;s Guide to Fun, Interactive Web Games Perfect for Children" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/expert-advice-how-to-permanently-remove-pictures-from-facebook/">
-                            Expert Advice: How to Permanently Remove Pictures From Facebook
+                        <a href="/a-parents-guide-to-fun-interactive-web-games-perfect-for-children/">
+                            A Parent&#39;s Guide to Fun, Interactive Web Games Perfect for Children
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Expert Advice: How to Permanently Remove Pictures From Facebook</p>
+                            <p>This Article Describes A Parent’s Guide to Fun, Interactive Web Games Perfect for Children</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:26 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:20:52 GMT+0800">
                 
                     2024-08-30
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/expert-advice-how-to-permanently-remove-pictures-from-facebook/">Read more<span class="seo-reader-text">Expert Advice: How to Permanently Remove Pictures From Facebook</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/a-parents-guide-to-fun-interactive-web-games-perfect-for-children/">Read more<span class="seo-reader-text">A Parent&#39;s Guide to Fun, Interactive Web Games Perfect for Children</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/why-does-my-car-battery-keep-losing-charge-uncover-6-main-factors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/pl20Tvfs5LRxvsAztYqi6nOP7KM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-693170166-5a99f020c67335003717a070.jpg" alt="Why Does My Car Battery Keep Losing Charge? Uncover 6 Main Factors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/clear-your-macs-dns-history-a-comprehensive-how-to-tutorial/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3acf289ccfe4f5fa8ce22d8a0.jpg" alt="Clear Your Mac&#39;s DNS History: A Comprehensive How-To Tutorial" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/why-does-my-car-battery-keep-losing-charge-uncover-6-main-factors/">
-                            Why Does My Car Battery Keep Losing Charge? Uncover 6 Main Factors
+                        <a href="/clear-your-macs-dns-history-a-comprehensive-how-to-tutorial/">
+                            Clear Your Mac&#39;s DNS History: A Comprehensive How-To Tutorial
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Why Does My Car Battery Keep Losing Charge? Uncover 6 Main Factors</p>
+                            <p>This Article Describes Clear Your Mac’s DNS History: A Comprehensive How-To Tutorial</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:13:24 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:20:51 GMT+0800">
                 
                     2024-08-30
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/why-does-my-car-battery-keep-losing-charge-uncover-6-main-factors/">Read more<span class="seo-reader-text">Why Does My Car Battery Keep Losing Charge? Uncover 6 Main Factors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/clear-your-macs-dns-history-a-comprehensive-how-to-tutorial/">Read more<span class="seo-reader-text">Clear Your Mac&#39;s DNS History: A Comprehensive How-To Tutorial</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/132/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/131/">131</a><a class="page-number" href="/page/132/">132</a><span class="page-number current">133</span><a class="page-number" href="/page/134/">134</a><a class="page-number" href="/page/135/">135</a><span class="space">&hellip;</span><a class="page-number" href="/page/810/">810</a><a class="extend next" rel="next" href="/page/134/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/132/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/131/">131</a><a class="page-number" href="/page/132/">132</a><span class="page-number current">133</span><a class="page-number" href="/page/134/">134</a><a class="page-number" href="/page/135/">135</a><span class="space">&hellip;</span><a class="page-number" href="/page/845/">845</a><a class="extend next" rel="next" href="/page/134/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techno-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">John</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-key-to-a-secure-ride-learn-how-to-find-and-enter-your-car-radio-password-successfully/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d80bf9619fbbaffddf6f64b34.jpg" alt="The Key to a Secure Ride: Learn How to Find and Enter Your Car Radio Password Successfully" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-solutions-to-fix-a-4njected-error-code-on-web-servers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/3F0GHgoGODzXNDTVu5NyN7YqGiY=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/401-unauthorized-error-what-it-is-and-how-to-fix-it-2622934-e98cc16b41504abdbc47fb6cbaeebcfa.png" alt="Step-by-Step Solutions to Fix a 4Njected Error Code on Web Servers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-key-to-a-secure-ride-learn-how-to-find-and-enter-your-car-radio-password-successfully/">
-                            The Key to a Secure Ride: Learn How to Find and Enter Your Car Radio Password Successfully
+                        <a href="/step-by-step-solutions-to-fix-a-4njected-error-code-on-web-servers/">
+                            Step-by-Step Solutions to Fix a 4Njected Error Code on Web Servers
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Key to a Secure Ride: Learn How to Find and Enter Your Car Radio Password Successfully</p>
+                            <p>This Article Describes Step-by-Step Solutions to Fix a 4Njected Error Code on Web Servers</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:59 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:21 GMT+0800">
                 
                     2024-08-18
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/the-key-to-a-secure-ride-learn-how-to-find-and-enter-your-car-radio-password-successfully/">Read more<span class="seo-reader-text">The Key to a Secure Ride: Learn How to Find and Enter Your Car Radio Password Successfully</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-solutions-to-fix-a-4njected-error-code-on-web-servers/">Read more<span class="seo-reader-text">Step-by-Step Solutions to Fix a 4Njected Error Code on Web Servers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-fixes-to-resolve-flickering-and-wobbly-screen-problems-for-surface-tablets/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoft-surface-pro-4-screen-flickering-ee1196d402054d0889714deb16c989af.jpg" alt="Step-by-Step Fixes to Resolve Flickering and Wobbly Screen Problems for Surface Tablets" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/demystifying-microsofts-monthly-security-update-day-patch-tuesday-explained/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png" alt="Demystifying Microsoft&#39;s Monthly Security Update Day - Patch Tuesday Explained" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-fixes-to-resolve-flickering-and-wobbly-screen-problems-for-surface-tablets/">
-                            Step-by-Step Fixes to Resolve Flickering and Wobbly Screen Problems for Surface Tablets
+                        <a href="/demystifying-microsofts-monthly-security-update-day-patch-tuesday-explained/">
+                            Demystifying Microsoft&#39;s Monthly Security Update Day - Patch Tuesday Explained
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Fixes to Resolve Flickering and Wobbly Screen Problems for Surface Tablets</p>
+                            <p>This Article Describes Demystifying Microsoft’s Monthly Security Update Day - Patch Tuesday Explained</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:58 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:19 GMT+0800">
                 
                     2024-08-18
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/step-by-step-fixes-to-resolve-flickering-and-wobbly-screen-problems-for-surface-tablets/">Read more<span class="seo-reader-text">Step-by-Step Fixes to Resolve Flickering and Wobbly Screen Problems for Surface Tablets</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/demystifying-microsofts-monthly-security-update-day-patch-tuesday-explained/">Read more<span class="seo-reader-text">Demystifying Microsoft&#39;s Monthly Security Update Day - Patch Tuesday Explained</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expert-tips-for-diagnosing-and-remedying-a-500-error-on-your-site/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/VAOx2DfOpR4bVgnfCUxzvNObxMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/500-internal-server-error-explained-2622938-1485165a9b6942f09f2f5257682c0b6e.png" alt="Expert Tips for Diagnosing and Remedying a 500 Error on Your Site" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/why-electric-vehicles-outperform-gas-cars-a-deep-dive-into-performance-benefits/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c9874f65aafa43e482841322.jpg" alt="Why Electric Vehicles Outperform Gas Cars: A Deep Dive Into Performance Benefits" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/expert-tips-for-diagnosing-and-remedying-a-500-error-on-your-site/">
-                            Expert Tips for Diagnosing and Remedying a 500 Error on Your Site
+                        <a href="/why-electric-vehicles-outperform-gas-cars-a-deep-dive-into-performance-benefits/">
+                            Why Electric Vehicles Outperform Gas Cars: A Deep Dive Into Performance Benefits
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Expert Tips for Diagnosing and Remedying a 500 Error on Your Site</p>
+                            <p>This Article Describes Why Electric Vehicles Outperform Gas Cars: A Deep Dive Into Performance Benefits</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:57 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:18 GMT+0800">
                 
                     2024-08-18
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/expert-tips-for-diagnosing-and-remedying-a-500-error-on-your-site/">Read more<span class="seo-reader-text">Expert Tips for Diagnosing and Remedying a 500 Error on Your Site</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/why-electric-vehicles-outperform-gas-cars-a-deep-dive-into-performance-benefits/">Read more<span class="seo-reader-text">Why Electric Vehicles Outperform Gas Cars: A Deep Dive Into Performance Benefits</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-secret-behind-beautiful-selfies-discover-the-power-of-quality-ring-lights/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/DkMKK-vzt4Je4fZYApMumyhdBAA=/300x200/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/selfie-with-cute-little-dog-with-eyeglasses-595737544-562674d335a74d94828f7a5d7fe1f6b2.jpg" alt="The Secret Behind Beautiful Selfies? Discover the Power of Quality Ring Lights!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-guide-solutions-when-usb-tethering-fails/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94df04c327a143f8799409248.jpg" alt="Troubleshooting Guide: Solutions When USB Tethering Fails" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-secret-behind-beautiful-selfies-discover-the-power-of-quality-ring-lights/">
-                            The Secret Behind Beautiful Selfies? Discover the Power of Quality Ring Lights!
+                        <a href="/troubleshooting-guide-solutions-when-usb-tethering-fails/">
+                            Troubleshooting Guide: Solutions When USB Tethering Fails
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Secret Behind Beautiful Selfies? Discover the Power of Quality Ring Lights!</p>
+                            <p>This Article Describes Troubleshooting Guide: Solutions When USB Tethering Fails</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:56 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:17 GMT+0800">
                 
                     2024-08-18
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/the-secret-behind-beautiful-selfies-discover-the-power-of-quality-ring-lights/">Read more<span class="seo-reader-text">The Secret Behind Beautiful Selfies? Discover the Power of Quality Ring Lights!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-guide-solutions-when-usb-tethering-fails/">Read more<span class="seo-reader-text">Troubleshooting Guide: Solutions When USB Tethering Fails</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ultimate-guide-setting-up-your-macs-network-drive-mapping/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b610883b05f292e6c6a7a4335.jpg" alt="Ultimate Guide: Setting Up Your Mac&#39;s Network Drive Mapping" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unveiling-how-to-control-your-pcs-network-discovery-settings-on-windows-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-or-off-discovery-network-in-windows-10-74c70951f2ef41318b30937d76f80049.jpg" alt="Unveiling How to Control Your PC&#39;s Network Discovery Settings on Windows 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ultimate-guide-setting-up-your-macs-network-drive-mapping/">
-                            Ultimate Guide: Setting Up Your Mac&#39;s Network Drive Mapping
+                        <a href="/unveiling-how-to-control-your-pcs-network-discovery-settings-on-windows-10/">
+                            Unveiling How to Control Your PC&#39;s Network Discovery Settings on Windows 10
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Ultimate Guide: Setting Up Your Mac’s Network Drive Mapping</p>
+                            <p>This Article Describes Unveiling How to Control Your PC’s Network Discovery Settings on Windows 10</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:16 GMT+0800">
                 
                     2024-08-18
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/ultimate-guide-setting-up-your-macs-network-drive-mapping/">Read more<span class="seo-reader-text">Ultimate Guide: Setting Up Your Mac&#39;s Network Drive Mapping</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unveiling-how-to-control-your-pcs-network-discovery-settings-on-windows-10/">Read more<span class="seo-reader-text">Unveiling How to Control Your PC&#39;s Network Discovery Settings on Windows 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discover-new-connections-with-these-5-socializing-apps/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/77BipcJZrae21SY3cS0Y-3lVGvw=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1197870188-763cd0beeb4b42ba95eb87c9d5fd97d9.jpg" alt="Discover New Connections with These 5 Socializing Apps" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/citing-ai-text-models-effective-strategies-for-referencing-chatgpt-accurately/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc74fde8e765814f3eec97fd83.jpg" alt="Citing AI Text Models: Effective Strategies for Referencing ChatGPT Accurately" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discover-new-connections-with-these-5-socializing-apps/">
-                            Discover New Connections with These 5 Socializing Apps
+                        <a href="/citing-ai-text-models-effective-strategies-for-referencing-chatgpt-accurately/">
+                            Citing AI Text Models: Effective Strategies for Referencing ChatGPT Accurately
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discover New Connections with These 5 Socializing Apps</p>
+                            <p>This Article Describes Citing AI Text Models: Effective Strategies for Referencing ChatGPT Accurately</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:54 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:15 GMT+0800">
                 
                     2024-08-18
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/discover-new-connections-with-these-5-socializing-apps/">Read more<span class="seo-reader-text">Discover New Connections with These 5 Socializing Apps</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/citing-ai-text-models-effective-strategies-for-referencing-chatgpt-accurately/">Read more<span class="seo-reader-text">Citing AI Text Models: Effective Strategies for Referencing ChatGPT Accurately</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/digital-heavyweights-decoded-a-tour-through-the-worlds-top-10-internet-hubs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a802e442be2008c2b3992f0d.jpg" alt="Digital Heavyweights Decoded: A Tour Through the World&#39;s Top 10 Internet Hubs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-restore-or-reinstall-lost-d3dx928dll-for-smooth-computer-operation/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/IIl3tHuMVrMdjvP-Shr4oAFgq_k=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d3dx9-28-dll-error-message-39cb649ef848499cac4a704ee7a6982c.png" alt="How to Restore or Reinstall Lost d3dx9_28.dll for Smooth Computer Operation" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/digital-heavyweights-decoded-a-tour-through-the-worlds-top-10-internet-hubs/">
-                            Digital Heavyweights Decoded: A Tour Through the World&#39;s Top 10 Internet Hubs
+                        <a href="/how-to-restore-or-reinstall-lost-d3dx928dll-for-smooth-computer-operation/">
+                            How to Restore or Reinstall Lost d3dx9_28.dll for Smooth Computer Operation
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Digital Heavyweights Decoded: A Tour Through the World’s Top 10 Internet Hubs</p>
+                            <p>This Article Describes How to Restore or Reinstall Lost d3dx9_28.dll for Smooth Computer Operation</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:53 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:14 GMT+0800">
                 
                     2024-08-18
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/digital-heavyweights-decoded-a-tour-through-the-worlds-top-10-internet-hubs/">Read more<span class="seo-reader-text">Digital Heavyweights Decoded: A Tour Through the World&#39;s Top 10 Internet Hubs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-restore-or-reinstall-lost-d3dx928dll-for-smooth-computer-operation/">Read more<span class="seo-reader-text">How to Restore or Reinstall Lost d3dx9_28.dll for Smooth Computer Operation</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/steps-to-discover-an-individuals-email-a-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec96215f4c2ee497557b9ec2807d6.jpg" alt="Steps to Discover an Individual&#39;s Email: A Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-7-no-cost-study-applications-for-kids-get-ready-for-school/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69cf5a5eaeee681f0ad029756.jpg" alt="Top 7 No-Cost Study Applications for Kids: Get Ready for School" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/steps-to-discover-an-individuals-email-a-guide/">
-                            Steps to Discover an Individual&#39;s Email: A Guide
+                        <a href="/top-7-no-cost-study-applications-for-kids-get-ready-for-school/">
+                            Top 7 No-Cost Study Applications for Kids: Get Ready for School
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Steps to Discover an Individual’s Email: A Guide</p>
+                            <p>This Article Describes Top 7 No-Cost Study Applications for Kids: Get Ready for School</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:52 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:13 GMT+0800">
                 
                     2024-08-18
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/steps-to-discover-an-individuals-email-a-guide/">Read more<span class="seo-reader-text">Steps to Discover an Individual&#39;s Email: A Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-7-no-cost-study-applications-for-kids-get-ready-for-school/">Read more<span class="seo-reader-text">Top 7 No-Cost Study Applications for Kids: Get Ready for School</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/simple-solutions-how-to-perform-a-fresh-start-on-your-samsung-flat-screen/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4cc5911dccf11c067ddd27a33.jpg" alt="Simple Solutions: How to Perform a Fresh Start on Your Samsung Flat Screen" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-issues-when-physxloaderdll-file-is-unavailable/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/98uXKZGyhA3j3Z4ldc8hqUOj7Uo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/physxloader-dll-error-071b929286084f269c0ef0d403084f57.jpg" alt="Resolving Issues When physxloader.dll File Is Unavailable" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/simple-solutions-how-to-perform-a-fresh-start-on-your-samsung-flat-screen/">
-                            Simple Solutions: How to Perform a Fresh Start on Your Samsung Flat Screen
+                        <a href="/resolving-issues-when-physxloaderdll-file-is-unavailable/">
+                            Resolving Issues When physxloader.dll File Is Unavailable
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Simple Solutions: How to Perform a Fresh Start on Your Samsung Flat Screen</p>
+                            <p>This Article Describes Resolving Issues When physxloader.dll File Is Unavailable</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:51 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:11 GMT+0800">
                 
                     2024-08-18
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/simple-solutions-how-to-perform-a-fresh-start-on-your-samsung-flat-screen/">Read more<span class="seo-reader-text">Simple Solutions: How to Perform a Fresh Start on Your Samsung Flat Screen</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-issues-when-physxloaderdll-file-is-unavailable/">Read more<span class="seo-reader-text">Resolving Issues When physxloader.dll File Is Unavailable</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-activate-or-deactivate-local-area-connection-visibility-in-win10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-or-off-discovery-network-in-windows-10-74c70951f2ef41318b30937d76f80049.jpg" alt="How to Activate or Deactivate Local Area Connection Visibility in Win10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unlocking-potential-with-copilot-an-in-depth-walkthrough-for-microsoft-teams-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab90284e9a264c3a4912b0271.png" alt="Unlocking Potential with Copilot: An In-Depth Walkthrough for Microsoft Teams Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-activate-or-deactivate-local-area-connection-visibility-in-win10/">
-                            How to Activate or Deactivate Local Area Connection Visibility in Win10
+                        <a href="/unlocking-potential-with-copilot-an-in-depth-walkthrough-for-microsoft-teams-users/">
+                            Unlocking Potential with Copilot: An In-Depth Walkthrough for Microsoft Teams Users
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Activate or Deactivate Local Area Connection Visibility in Win10</p>
+                            <p>This Article Describes Unlocking Potential with Copilot: An In-Depth Walkthrough for Microsoft Teams Users</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:13:49 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:20:10 GMT+0800">
                 
                     2024-08-18
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/how-to-activate-or-deactivate-local-area-connection-visibility-in-win10/">Read more<span class="seo-reader-text">How to Activate or Deactivate Local Area Connection Visibility in Win10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unlocking-potential-with-copilot-an-in-depth-walkthrough-for-microsoft-teams-users/">Read more<span class="seo-reader-text">Unlocking Potential with Copilot: An In-Depth Walkthrough for Microsoft Teams Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/499/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/498/">498</a><a class="page-number" href="/page/499/">499</a><span class="page-number current">500</span><a class="page-number" href="/page/501/">501</a><a class="page-number" href="/page/502/">502</a><span class="space">&hellip;</span><a class="page-number" href="/page/810/">810</a><a class="extend next" rel="next" href="/page/501/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/499/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/498/">498</a><a class="page-number" href="/page/499/">499</a><span class="page-number current">500</span><a class="page-number" href="/page/501/">501</a><a class="page-number" href="/page/502/">502</a><span class="space">&hellip;</span><a class="page-number" href="/page/845/">845</a><a class="extend next" rel="next" href="/page/501/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

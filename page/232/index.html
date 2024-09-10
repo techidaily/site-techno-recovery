@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techno-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">John</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/practical-strategies-for-controlling-cellular-data-usage-effectively/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/0aQ6xJXpscbn8cAp0Q7G_RBx43A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-your-data-usage-4589301-1-5c8c66e546e0fb000187a2bd.jpg" alt="Practical Strategies for Controlling Cellular Data Usage Effectively" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/discovering-your-favorite-instagram-reels-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f83996484c29a6f763ca253a.jpg" alt="Discovering Your Favorite Instagram Reels: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/practical-strategies-for-controlling-cellular-data-usage-effectively/">
-                            Practical Strategies for Controlling Cellular Data Usage Effectively
+                        <a href="/discovering-your-favorite-instagram-reels-a-step-by-step-guide/">
+                            Discovering Your Favorite Instagram Reels: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Practical Strategies for Controlling Cellular Data Usage Effectively</p>
+                            <p>This Article Describes Discovering Your Favorite Instagram Reels: A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:58:06 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:05:08 GMT+0800">
                 
                     2024-08-26
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/practical-strategies-for-controlling-cellular-data-usage-effectively/">Read more<span class="seo-reader-text">Practical Strategies for Controlling Cellular Data Usage Effectively</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/discovering-your-favorite-instagram-reels-a-step-by-step-guide/">Read more<span class="seo-reader-text">Discovering Your Favorite Instagram Reels: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-process-creating-and-customizing-reminders-in-slack-app/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd3a640439d6ee68045b0a185.jpg" alt="Step-by-Step Process: Creating &amp; Customizing Reminders in Slack App" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-10-strategies-for-achieving-viral-success-on-tiktok/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-2aa3b6cd84ed40d3be1a3039d1193852.png" alt="Top 10 Strategies for Achieving Viral Success on TikTok" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-process-creating-and-customizing-reminders-in-slack-app/">
-                            Step-by-Step Process: Creating &amp; Customizing Reminders in Slack App
+                        <a href="/top-10-strategies-for-achieving-viral-success-on-tiktok/">
+                            Top 10 Strategies for Achieving Viral Success on TikTok
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Process: Creating &amp; Customizing Reminders in Slack App</p>
+                            <p>This Article Describes Top 10 Strategies for Achieving Viral Success on TikTok</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:58:05 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:05:07 GMT+0800">
                 
                     2024-08-26
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/step-by-step-process-creating-and-customizing-reminders-in-slack-app/">Read more<span class="seo-reader-text">Step-by-Step Process: Creating &amp; Customizing Reminders in Slack App</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-10-strategies-for-achieving-viral-success-on-tiktok/">Read more<span class="seo-reader-text">Top 10 Strategies for Achieving Viral Success on TikTok</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unveiling-your-macbooks-identity-how-to-determine-its-model-number/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-find-a-macbook-model-number-5119867-53c6ddd34a804ba782c79ebef65bb38e.jpg" alt="Unveiling Your MacBook’s Identity - How To Determine Its Model Number" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-repairing-volume-glitches-in-powerpoint/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg" alt="Step-by-Step Guide: Repairing Volume Glitches in Powerpoint" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unveiling-your-macbooks-identity-how-to-determine-its-model-number/">
-                            Unveiling Your MacBook’s Identity - How To Determine Its Model Number
+                        <a href="/step-by-step-guide-repairing-volume-glitches-in-powerpoint/">
+                            Step-by-Step Guide: Repairing Volume Glitches in Powerpoint
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unveiling Your MacBook’s Identity - How To Determine Its Model Number</p>
+                            <p>This Article Describes Step-by-Step Guide: Repairing Volume Glitches in Powerpoint</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:58:04 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:05:06 GMT+0800">
                 
                     2024-08-26
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/unveiling-your-macbooks-identity-how-to-determine-its-model-number/">Read more<span class="seo-reader-text">Unveiling Your MacBook’s Identity - How To Determine Its Model Number</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-repairing-volume-glitches-in-powerpoint/">Read more<span class="seo-reader-text">Step-by-Step Guide: Repairing Volume Glitches in Powerpoint</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/boost-your-smartphone-snaps-expert-strategies-for-idevice-cameras/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2ad6cf886d90c9a4679357e1.jpg" alt="Boost Your Smartphone Snaps: Expert Strategies for iDevice Cameras" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-steps-for-the-d3dx924dll-not-found-issue-on-your-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/kBjjfwCoTFOoeVcp8mGdSNFCJF0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d3dx9_24-dll-error-message-a72e26e96946429abb7c821f2763b399.png" alt="Troubleshooting Steps for the &#39;d3dx9_24.dll Not Found&#39; Issue on Your PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/boost-your-smartphone-snaps-expert-strategies-for-idevice-cameras/">
-                            Boost Your Smartphone Snaps: Expert Strategies for iDevice Cameras
+                        <a href="/troubleshooting-steps-for-the-d3dx924dll-not-found-issue-on-your-pc/">
+                            Troubleshooting Steps for the &#39;d3dx9_24.dll Not Found&#39; Issue on Your PC
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Boost Your Smartphone Snaps: Expert Strategies for iDevice Cameras</p>
+                            <p>This Article Describes Troubleshooting Steps for the ‘d3dx9_24.dll Not Found’ Issue on Your PC</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:58:02 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:05:05 GMT+0800">
                 
                     2024-08-26
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/boost-your-smartphone-snaps-expert-strategies-for-idevice-cameras/">Read more<span class="seo-reader-text">Boost Your Smartphone Snaps: Expert Strategies for iDevice Cameras</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-steps-for-the-d3dx924dll-not-found-issue-on-your-pc/">Read more<span class="seo-reader-text">Troubleshooting Steps for the &#39;d3dx9_24.dll Not Found&#39; Issue on Your PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/diy-guide-repair-launchdll-not-detected-errors-successfully/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665cace64350a90155028571e6d.jpg" alt="DIY Guide: Repair &#39;Launch.dll Not Detected&#39; Errors Successfully" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-fix-stop-0x0000005c-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/VOiJqI6GzskRJz9loIZa-eC-odM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-bsod-windows-56a6faab3df78cf772913ee6-8c8d087b1b2d4d8a9d33684b35ac5747.png" alt="How to Fix STOP 0X0000005C Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/diy-guide-repair-launchdll-not-detected-errors-successfully/">
-                            DIY Guide: Repair &#39;Launch.dll Not Detected&#39; Errors Successfully
+                        <a href="/how-to-fix-stop-0x0000005c-errors/">
+                            How to Fix STOP 0X0000005C Errors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes DIY Guide: Repair ‘Launch.dll Not Detected’ Errors Successfully</p>
+                            <p>This Article Describes How to Fix STOP 0X0000005C Errors</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:58:01 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:05:03 GMT+0800">
                 
                     2024-08-26
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/diy-guide-repair-launchdll-not-detected-errors-successfully/">Read more<span class="seo-reader-text">DIY Guide: Repair &#39;Launch.dll Not Detected&#39; Errors Successfully</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-fix-stop-0x0000005c-errors/">Read more<span class="seo-reader-text">How to Fix STOP 0X0000005C Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/top-13-complimentary-hddssd-diagnostic-software-of-july-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/UI8UlC7l1hM4aBwG4AE3yLpRb2w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1203202921-947f5492348e446a8896ca2d307e8a22.jpg" alt="Top 13 Complimentary HDD/SSD Diagnostic Software of July 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-dsounddll-file-not-found-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3c72e1c68f4dc5c5b52a7aac.jpg" alt="Resolving &#39;Dsound.dll&#39; File Not Found: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/top-13-complimentary-hddssd-diagnostic-software-of-july-2024/">
-                            Top 13 Complimentary HDD/SSD Diagnostic Software of July 2024
+                        <a href="/resolving-dsounddll-file-not-found-a-step-by-step-guide/">
+                            Resolving &#39;Dsound.dll&#39; File Not Found: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Top 13 Complimentary HDD&#x2F;SSD Diagnostic Software of July 2024</p>
+                            <p>This Article Describes Resolving ‘Dsound.dll’ File Not Found: A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:58:00 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:05:02 GMT+0800">
                 
                     2024-08-26
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/top-13-complimentary-hddssd-diagnostic-software-of-july-2024/">Read more<span class="seo-reader-text">Top 13 Complimentary HDD/SSD Diagnostic Software of July 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-dsounddll-file-not-found-a-step-by-step-guide/">Read more<span class="seo-reader-text">Resolving &#39;Dsound.dll&#39; File Not Found: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-convenience-a-how-to-for-activating-auto-user-sign-in-on-your-windows-device/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6e8803f065c62fd751a91e70.jpg" alt="Mastering Convenience: A How-To for Activating Auto User Sign-In on Your Windows Device" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unstuck-from-a-frozen-screen-heres-how-to-revitalize-your-chromebook/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/Uex4YXdgNQOj3k1MEENx2_wJYn4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-168808902-5beef684c9e77c005131ce7b.jpg" alt="Unstuck From a Frozen Screen? Here&#39;s How to Revitalize Your Chromebook!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-convenience-a-how-to-for-activating-auto-user-sign-in-on-your-windows-device/">
-                            Mastering Convenience: A How-To for Activating Auto User Sign-In on Your Windows Device
+                        <a href="/unstuck-from-a-frozen-screen-heres-how-to-revitalize-your-chromebook/">
+                            Unstuck From a Frozen Screen? Here&#39;s How to Revitalize Your Chromebook!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Mastering Convenience: A How-To for Activating Auto User Sign-In on Your Windows Device</p>
+                            <p>This Article Describes Unstuck From a Frozen Screen? Here’s How to Revitalize Your Chromebook!</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:57:59 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:05:01 GMT+0800">
                 
                     2024-08-26
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/mastering-convenience-a-how-to-for-activating-auto-user-sign-in-on-your-windows-device/">Read more<span class="seo-reader-text">Mastering Convenience: A How-To for Activating Auto User Sign-In on Your Windows Device</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unstuck-from-a-frozen-screen-heres-how-to-revitalize-your-chromebook/">Read more<span class="seo-reader-text">Unstuck From a Frozen Screen? Here&#39;s How to Revitalize Your Chromebook!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/master-the-fix-comprehensive-tips-for-handling-code-43-on-your-pregnancy-tests/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496eb332810c3bf1138a8452ea4.jpg" alt="Master the Fix: Comprehensive Tips for Handling Code 43 on Your Pregnancy Tests" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/lost-your-ipad-unlock-code-heres-how-you-can-reset-it/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/lFMcG_V3cfgZ46QbkGOji3E5VS8=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-music-listening-571e11b33df78c56401aabed.jpg" alt="Lost Your iPad Unlock Code? Here&#39;s How You Can Reset It!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/master-the-fix-comprehensive-tips-for-handling-code-43-on-your-pregnancy-tests/">
-                            Master the Fix: Comprehensive Tips for Handling Code 43 on Your Pregnancy Tests
+                        <a href="/lost-your-ipad-unlock-code-heres-how-you-can-reset-it/">
+                            Lost Your iPad Unlock Code? Here&#39;s How You Can Reset It!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Master the Fix: Comprehensive Tips for Handling Code 43 on Your Pregnancy Tests</p>
+                            <p>This Article Describes Lost Your iPad Unlock Code? Here’s How You Can Reset It!</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:57:58 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:05:00 GMT+0800">
                 
                     2024-08-26
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/master-the-fix-comprehensive-tips-for-handling-code-43-on-your-pregnancy-tests/">Read more<span class="seo-reader-text">Master the Fix: Comprehensive Tips for Handling Code 43 on Your Pregnancy Tests</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/lost-your-ipad-unlock-code-heres-how-you-can-reset-it/">Read more<span class="seo-reader-text">Lost Your iPad Unlock Code? Here&#39;s How You Can Reset It!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-and-resolving-401-unauthorized-issues-on-your-website/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/401-unauthorized-error-what-it-is-and-how-to-fix-it-2622934-e98cc16b41504abdbc47fb6cbaeebcfa.png" alt="Troubleshooting and Resolving &#39;401 Unauthorized&#39; Issues on Your Website" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-correcting-the-pupils-color-in-wildlife-pictures/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4387a4ef5a1279c5031f6d94.jpg" alt="Step-by-Step Guide: Correcting the Pupils&#39; Color in Wildlife Pictures" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-and-resolving-401-unauthorized-issues-on-your-website/">
-                            Troubleshooting and Resolving &#39;401 Unauthorized&#39; Issues on Your Website
+                        <a href="/step-by-step-guide-correcting-the-pupils-color-in-wildlife-pictures/">
+                            Step-by-Step Guide: Correcting the Pupils&#39; Color in Wildlife Pictures
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting and Resolving ‘401 Unauthorized’ Issues on Your Website</p>
+                            <p>This Article Describes Step-by-Step Guide: Correcting the Pupils’ Color in Wildlife Pictures</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:57:57 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:04:59 GMT+0800">
                 
                     2024-08-26
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/troubleshooting-and-resolving-401-unauthorized-issues-on-your-website/">Read more<span class="seo-reader-text">Troubleshooting and Resolving &#39;401 Unauthorized&#39; Issues on Your Website</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-correcting-the-pupils-color-in-wildlife-pictures/">Read more<span class="seo-reader-text">Step-by-Step Guide: Correcting the Pupils&#39; Color in Wildlife Pictures</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/instructions-for-disabling-the-ai-writing-assistant-on-your-windows-11-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-0d70ff981eb042ed907b139425ae3be4.jpg" alt="Instructions for Disabling the AI Writing Assistant on Your Windows 11 PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-critical-haldll-files-not-found-on-your-windows-xp-machine/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/ljEKOYQmn7OUb01KM-U5L5A_j1s=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hal-dll-missing-corrupt-xp-57fd205d3df78c690f815007.PNG" alt="Fixing Critical Hal.dll Files Not Found on Your Windows XP Machine" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/instructions-for-disabling-the-ai-writing-assistant-on-your-windows-11-pc/">
-                            Instructions for Disabling the AI Writing Assistant on Your Windows 11 PC
+                        <a href="/fixing-critical-haldll-files-not-found-on-your-windows-xp-machine/">
+                            Fixing Critical Hal.dll Files Not Found on Your Windows XP Machine
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Instructions for Disabling the AI Writing Assistant on Your Windows 11 PC</p>
+                            <p>This Article Describes Fixing Critical Hal.dll Files Not Found on Your Windows XP Machine</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 05:57:55 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 26 2024 06:04:58 GMT+0800">
                 
                     2024-08-26
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/instructions-for-disabling-the-ai-writing-assistant-on-your-windows-11-pc/">Read more<span class="seo-reader-text">Instructions for Disabling the AI Writing Assistant on Your Windows 11 PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-critical-haldll-files-not-found-on-your-windows-xp-machine/">Read more<span class="seo-reader-text">Fixing Critical Hal.dll Files Not Found on Your Windows XP Machine</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/231/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/230/">230</a><a class="page-number" href="/page/231/">231</a><span class="page-number current">232</span><a class="page-number" href="/page/233/">233</a><a class="page-number" href="/page/234/">234</a><span class="space">&hellip;</span><a class="page-number" href="/page/810/">810</a><a class="extend next" rel="next" href="/page/233/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/231/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/230/">230</a><a class="page-number" href="/page/231/">231</a><span class="page-number current">232</span><a class="page-number" href="/page/233/">233</a><a class="page-number" href="/page/234/">234</a><span class="space">&hellip;</span><a class="page-number" href="/page/845/">845</a><a class="extend next" rel="next" href="/page/233/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

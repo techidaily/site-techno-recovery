@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techno-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-20'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-26'>
                 
                     
-                        <a href="/the-11-major-tech-milestones-that-transformed-the-world-after-1844/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The 11 Major Tech Milestones that Transformed the World After 1844</span>
+                        <a href="/troubleshooting-and-resolving-401-unauthorized-issues-on-your-website/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshooting and Resolving &#39;401 Unauthorized&#39; Issues on Your Website</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fixing-the-blue-screen-a-guide-to-resolving-stop-0x0000007b-errors/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fixing the Blue Screen: A Guide to Resolving Stop 0X0000007B Errors</span>
+                        <a href="/instructions-for-disabling-the-ai-writing-assistant-on-your-windows-11-pc/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Instructions for Disabling the AI Writing Assistant on Your Windows 11 PC</span>
                         </a>
                     
               
                 
                     
-                        <a href="/making-an-informed-choice-key-aspects-of-pre-owned-laptop-purchases/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Making an Informed Choice – Key Aspects of Pre-Owned Laptop Purchases</span>
+                        <a href="/insightful-strategies-for-monitoring-an-individuals-place-on-iphone-devices/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Insightful Strategies for Monitoring an Individual&#39;s Place on iPhone Devices</span>
                         </a>
                     
               
                 
                     
-                        <a href="/navigating-your-next-desktop-investment-insights-into-8-important-buying-aspects/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Navigating Your Next Desktop Investment: Insights Into 8 Important Buying Aspects</span>
+                        <a href="/adapting-to-the-elements-do-electric-vehicles-thrive-in-intense-heat-or-frigid-conditions/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Adapting to the Elements: Do Electric Vehicles Thrive in Intense Heat or Frigid Conditions?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-restore-x3astoudiodll-files-and-eliminate-system-errors/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Restore x3astoudio.dll Files and Eliminate System Errors</span>
+                        <a href="/how-to-optimize-your-windows-11-pc-for-maximum-efficiency/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Optimize Your Windows 11 PC for Maximum Efficiency</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1722896628290-explore-our-top-picks-the-15-best-free-bootable-anti-virus-solutions-available-online/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Explore Our Top Picks: The 15 Best Free Bootable Anti-Virus Solutions Available Online!</span>
+                        <a href="/top-4-methods-for-capturing-screenshots-on-windows-11/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Top 4 Methods for Capturing Screenshots on Windows 11</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unveiling-the-benefits-of-having-an-iptv-or-smart-tv-at-home/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unveiling the Benefits of Having an IPTV or Smart TV at Home</span>
+                        <a href="/step-by-step-tutorial-changing-locale-preferences-on-your-iphone/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Tutorial: Changing Locale Preferences on Your iPhone</span>
                         </a>
                     
               
                 
                     
-                        <a href="/easy-connection-techniques-for-pairing-samsung-soundbar-to-televisions/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Easy Connection Techniques for Pairing Samsung Soundbar to Televisions</span>
+                        <a href="/exploring-sonys-virtual-reality-offering-projected-launch-schedule-price-predictions-and-comprehve-specifications/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring Sony&#39;s Virtual Reality Offering: Projected Launch Schedule, Price Predictions &amp; Comprehve Specifications</span>
                         </a>
                     
               
                 
                     
-                        <a href="/best-free-electronic-faxing-solutions-online/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Best Free Electronic Faxing Solutions Online</span>
+                        <a href="/discover-the-ultimate-list-of-dolby-atmos-movies-perfect-for-your-living-room-cinema/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Discover the Ultimate List of Dolby Atmos Movies Perfect for Your Living Room Cinema</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-missing-osetupdll-file-problems-in-windows/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Missing osetup.dll File Problems in Windows</span>
+                        <a href="/ultimate-guide-effective-steps-for-sanitizing-your-television-remote/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Ultimate Guide: Effective Steps for Sanitizing Your Television Remote</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/251/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/250/">250</a><a class="page-number" href="/categories/BestProducts/page/251/">251</a><span class="page-number current">252</span><a class="page-number" href="/categories/BestProducts/page/253/">253</a><a class="page-number" href="/categories/BestProducts/page/254/">254</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/727/">727</a><a class="extend next" rel="next" href="/categories/BestProducts/page/253/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/251/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/250/">250</a><a class="page-number" href="/categories/BestProducts/page/251/">251</a><span class="page-number current">252</span><a class="page-number" href="/categories/BestProducts/page/253/">253</a><a class="page-number" href="/categories/BestProducts/page/254/">254</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/762/">762</a><a class="extend next" rel="next" href="/categories/BestProducts/page/253/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

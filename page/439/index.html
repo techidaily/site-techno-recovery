@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techno-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">John</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/transforming-your-discord-user-image-a-comprehensive-tutorial/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/JJQ5i_6urRSoHyRUcWIUQqC6hYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg" alt="Transforming Your Discord User Image - A Comprehensive Tutorial" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-enable-printer-connectivity-with-various-gadgets-over-a-local-network/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200452834-001-56a1ad6e3df78cf7726cfadd.jpg" alt="How to Enable Printer Connectivity with Various Gadgets Over a Local Network" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/transforming-your-discord-user-image-a-comprehensive-tutorial/">
-                            Transforming Your Discord User Image - A Comprehensive Tutorial
+                        <a href="/how-to-enable-printer-connectivity-with-various-gadgets-over-a-local-network/">
+                            How to Enable Printer Connectivity with Various Gadgets Over a Local Network
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Transforming Your Discord User Image - A Comprehensive Tutorial</p>
+                            <p>This Article Describes How to Enable Printer Connectivity with Various Gadgets Over a Local Network</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:54 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:13 GMT+0800">
                 
                     2024-08-18
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/transforming-your-discord-user-image-a-comprehensive-tutorial/">Read more<span class="seo-reader-text">Transforming Your Discord User Image - A Comprehensive Tutorial</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-enable-printer-connectivity-with-various-gadgets-over-a-local-network/">Read more<span class="seo-reader-text">How to Enable Printer Connectivity with Various Gadgets Over a Local Network</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/make-your-android-ready-for-imessages-a-comprehensive-tutorial/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6308ca1326b9f5602e19bd1098908b4cdc545e2ea53a869dc57cfed236317a58.png" alt="Make Your Android Ready for iMessages: A Comprehensive Tutorial" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/inside-scoop-on-western-digital-data-lifeguard-an-in-depth-review/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554cd872de0aa746e8545edfc3c.jpg" alt="Inside Scoop on Western Digital Data LifeGuard: An In-Depth Review" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/make-your-android-ready-for-imessages-a-comprehensive-tutorial/">
-                            Make Your Android Ready for iMessages: A Comprehensive Tutorial
+                        <a href="/inside-scoop-on-western-digital-data-lifeguard-an-in-depth-review/">
+                            Inside Scoop on Western Digital Data LifeGuard: An In-Depth Review
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Make Your Android Ready for iMessages: A Comprehensive Tutorial</p>
+                            <p>This Article Describes Inside Scoop on Western Digital Data LifeGuard: An In-Depth Review</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:53 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:12 GMT+0800">
                 
                     2024-08-18
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/make-your-android-ready-for-imessages-a-comprehensive-tutorial/">Read more<span class="seo-reader-text">Make Your Android Ready for iMessages: A Comprehensive Tutorial</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/inside-scoop-on-western-digital-data-lifeguard-an-in-depth-review/">Read more<span class="seo-reader-text">Inside Scoop on Western Digital Data LifeGuard: An In-Depth Review</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/turn-off-instagrams-suggested-posts-a-comprehensive-walkthrough/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b3be096a7cd03abb7e8cbcbb.jpg" alt="Turn Off Instagram’s Suggested Posts: A Comprehensive Walkthrough" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/secure-your-network-latest-d-link-default-passcodes-for-july-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c22032956cf343f01ab1f87ea6c8.jpg" alt="Secure Your Network: Latest D-Link Default Passcodes for July 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/turn-off-instagrams-suggested-posts-a-comprehensive-walkthrough/">
-                            Turn Off Instagram’s Suggested Posts: A Comprehensive Walkthrough
+                        <a href="/secure-your-network-latest-d-link-default-passcodes-for-july-2024/">
+                            Secure Your Network: Latest D-Link Default Passcodes for July 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Turn Off Instagram’s Suggested Posts: A Comprehensive Walkthrough</p>
+                            <p>This Article Describes Secure Your Network: Latest D-Link Default Passcodes for July 2024</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:52 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:11 GMT+0800">
                 
                     2024-08-18
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/turn-off-instagrams-suggested-posts-a-comprehensive-walkthrough/">Read more<span class="seo-reader-text">Turn Off Instagram’s Suggested Posts: A Comprehensive Walkthrough</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/secure-your-network-latest-d-link-default-passcodes-for-july-2024/">Read more<span class="seo-reader-text">Secure Your Network: Latest D-Link Default Passcodes for July 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discovering-samsungs-new-entry-z-flip-n6-what-you-need-to-know-about-price-and-release-details/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b95ff97ef31c24150b8b202a85720fb4906b9c98a9f5fb5115fa67b8c7b12e76.jpg" alt="Discovering Samsung&#39;s New Entry: Z Flip N°6 – What You Need to Know About Price and Release Details" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/explore-the-ultimate-list-of-protected-inbox-services/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/g3nheIgQb9mcxcxLc7DGvEudlXY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-953660514-5b1410543de42300371597a7.jpg" alt="Explore The Ultimate List of Protected Inbox Services" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discovering-samsungs-new-entry-z-flip-n6-what-you-need-to-know-about-price-and-release-details/">
-                            Discovering Samsung&#39;s New Entry: Z Flip N°6 – What You Need to Know About Price and Release Details
+                        <a href="/explore-the-ultimate-list-of-protected-inbox-services/">
+                            Explore The Ultimate List of Protected Inbox Services
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discovering Samsung’s New Entry: Z Flip N°6 – What You Need to Know About Price and Release Details</p>
+                            <p>This Article Describes Explore The Ultimate List of Protected Inbox Services</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:51 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:10 GMT+0800">
                 
                     2024-08-18
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/discovering-samsungs-new-entry-z-flip-n6-what-you-need-to-know-about-price-and-release-details/">Read more<span class="seo-reader-text">Discovering Samsung&#39;s New Entry: Z Flip N°6 – What You Need to Know About Price and Release Details</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/explore-the-ultimate-list-of-protected-inbox-services/">Read more<span class="seo-reader-text">Explore The Ultimate List of Protected Inbox Services</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-windows-11-how-to-solve-search-functionality-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7216cdd0db0d51b9ba6ea43c8d26dd6a0eb4cf5b262743a458e3d7ee3b2754cf.jpeg" alt="Troubleshooting Windows 11: How to Solve Search Functionality Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-does-the-ipad-pro-m4-stack-up-against-the-macbook-air-m3/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/y-WjCfPlfLFvMHu_rb_4oRxdl5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro-M4-vs-MacBook-Air-M3-2b5735b605954b7ca86c8a8c01c8286f.jpg" alt="How Does The iPad Pro M4 Stack Up Against The MacBook Air M3?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-windows-11-how-to-solve-search-functionality-issues/">
-                            Troubleshooting Windows 11: How to Solve Search Functionality Issues
+                        <a href="/how-does-the-ipad-pro-m4-stack-up-against-the-macbook-air-m3/">
+                            How Does The iPad Pro M4 Stack Up Against The MacBook Air M3?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Windows 11: How to Solve Search Functionality Issues</p>
+                            <p>This Article Describes How Does The iPad Pro M4 Stack Up Against The MacBook Air M3?</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:50 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:09 GMT+0800">
                 
                     2024-08-18
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/troubleshooting-windows-11-how-to-solve-search-functionality-issues/">Read more<span class="seo-reader-text">Troubleshooting Windows 11: How to Solve Search Functionality Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-does-the-ipad-pro-m4-stack-up-against-the-macbook-air-m3/">Read more<span class="seo-reader-text">How Does The iPad Pro M4 Stack Up Against The MacBook Air M3?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/pros-and-cons-of-chatgpt-plus-find-out-if-its-worth-your-investment/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/IWhosTlhXVFECQh8gCaThWeM42Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chatgptplus02-d688e1a9fba6409daae09728a9bff6e5.jpg" alt="Pros and Cons of ChatGPT Plus - Find Out if It&#39;s Worth Your Investment!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-4-free-internet-calendar-applications/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-online-calendars-1357935-41eafe4b4d484e6f8f7593cd5514e071.png" alt="Top 4 Free Internet Calendar Applications" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/pros-and-cons-of-chatgpt-plus-find-out-if-its-worth-your-investment/">
-                            Pros and Cons of ChatGPT Plus - Find Out if It&#39;s Worth Your Investment!
+                        <a href="/top-4-free-internet-calendar-applications/">
+                            Top 4 Free Internet Calendar Applications
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Pros and Cons of ChatGPT Plus - Find Out if It’s Worth Your Investment!</p>
+                            <p>This Article Describes Top 4 Free Internet Calendar Applications</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:48 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:08 GMT+0800">
                 
                     2024-08-18
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/pros-and-cons-of-chatgpt-plus-find-out-if-its-worth-your-investment/">Read more<span class="seo-reader-text">Pros and Cons of ChatGPT Plus - Find Out if It&#39;s Worth Your Investment!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-4-free-internet-calendar-applications/">Read more<span class="seo-reader-text">Top 4 Free Internet Calendar Applications</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unveiling-the-distinctions-between-hulu-basic-plan-and-hulu-premium-package/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/TDQUEqJ7rUOjlKxhSRQrceqszDs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hulu-vs-Hulu-Plus-b9ee2eeddf524913b6c924546fda329f.jpg" alt="Unveiling the Distinctions Between Hulu Basic Plan &amp; Hulu Premium Package" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/is-searching-with-duckduckgo-secure-a-comprehensive-overview/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/lNP6YBLFlYCAN4zYTdFiNlKsEAo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WashingtonPostContributor_DuckDuckGofounder_GettyImages-155963492-cb01f77ce83d497983ec79cb797e2336.jpg" alt="Is Searching with DuckDuckGo Secure? A Comprehensive Overview" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unveiling-the-distinctions-between-hulu-basic-plan-and-hulu-premium-package/">
-                            Unveiling the Distinctions Between Hulu Basic Plan &amp; Hulu Premium Package
+                        <a href="/is-searching-with-duckduckgo-secure-a-comprehensive-overview/">
+                            Is Searching with DuckDuckGo Secure? A Comprehensive Overview
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unveiling the Distinctions Between Hulu Basic Plan &amp; Hulu Premium Package</p>
+                            <p>This Article Describes Is Searching with DuckDuckGo Secure? A Comprehensive Overview</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:47 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:06 GMT+0800">
                 
                     2024-08-18
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/unveiling-the-distinctions-between-hulu-basic-plan-and-hulu-premium-package/">Read more<span class="seo-reader-text">Unveiling the Distinctions Between Hulu Basic Plan &amp; Hulu Premium Package</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/is-searching-with-duckduckgo-secure-a-comprehensive-overview/">Read more<span class="seo-reader-text">Is Searching with DuckDuckGo Secure? A Comprehensive Overview</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-refresh-your-ipad-with-a-new-power-source-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e196eb54e46717e8334c8bace.jpg" alt="How to Refresh Your iPad with a New Power Source: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/verizons-advancements-in-5g-technology-an-overview/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bcb7980843f57c620d01dbd2b.jpg" alt="Verizon&#39;s Advancements in 5G Technology: An Overview" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-refresh-your-ipad-with-a-new-power-source-a-comprehensive-guide/">
-                            How to Refresh Your iPad with a New Power Source: A Comprehensive Guide
+                        <a href="/verizons-advancements-in-5g-technology-an-overview/">
+                            Verizon&#39;s Advancements in 5G Technology: An Overview
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Refresh Your iPad with a New Power Source: A Comprehensive Guide</p>
+                            <p>This Article Describes Verizon’s Advancements in 5G Technology: An Overview</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:46 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:05 GMT+0800">
                 
                     2024-08-18
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/how-to-refresh-your-ipad-with-a-new-power-source-a-comprehensive-guide/">Read more<span class="seo-reader-text">How to Refresh Your iPad with a New Power Source: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/verizons-advancements-in-5g-technology-an-overview/">Read more<span class="seo-reader-text">Verizon&#39;s Advancements in 5G Technology: An Overview</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/simplify-your-snapchat-circle-the-ultimate-guide-to-mass-unfriend-strategies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f0f8b2cf5d7bebdde4893059.jpg" alt="Simplify Your Snapchat Circle: The Ultimate Guide to Mass Unfriend Strategies" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/navigating-and-displaying-non-visible-files-in-macos-using-the-terminal/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/klGzkHFGCUaqiWyKpafLJvoSONc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2019-01-03at3.13.16PM-5c2ea61c46e0fb0001abc508.jpg" alt="Navigating and Displaying Non-Visible Files in macOS Using the Terminal" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/simplify-your-snapchat-circle-the-ultimate-guide-to-mass-unfriend-strategies/">
-                            Simplify Your Snapchat Circle: The Ultimate Guide to Mass Unfriend Strategies
+                        <a href="/navigating-and-displaying-non-visible-files-in-macos-using-the-terminal/">
+                            Navigating and Displaying Non-Visible Files in macOS Using the Terminal
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Simplify Your Snapchat Circle: The Ultimate Guide to Mass Unfriend Strategies</p>
+                            <p>This Article Describes Navigating and Displaying Non-Visible Files in macOS Using the Terminal</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:45 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:04 GMT+0800">
                 
                     2024-08-18
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/simplify-your-snapchat-circle-the-ultimate-guide-to-mass-unfriend-strategies/">Read more<span class="seo-reader-text">Simplify Your Snapchat Circle: The Ultimate Guide to Mass Unfriend Strategies</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/navigating-and-displaying-non-visible-files-in-macos-using-the-terminal/">Read more<span class="seo-reader-text">Navigating and Displaying Non-Visible Files in macOS Using the Terminal</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/insta-pro-tip-ensuring-your-high-res-pictures-fit-seamlessly-on-instagram/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg" alt="Insta-Pro Tip: Ensuring Your High-Res Pictures Fit Seamlessly on Instagram" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-utilize-your-logitee-keyboard-for-quick-and-effective-screen-captures-a-complete-how-to/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e196eb54e46717e8334c8bace.jpg" alt="How to Utilize Your Logitee Keyboard for Quick and Effective Screen Captures: A Complete How-To." class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/insta-pro-tip-ensuring-your-high-res-pictures-fit-seamlessly-on-instagram/">
-                            Insta-Pro Tip: Ensuring Your High-Res Pictures Fit Seamlessly on Instagram
+                        <a href="/how-to-utilize-your-logitee-keyboard-for-quick-and-effective-screen-captures-a-complete-how-to/">
+                            How to Utilize Your Logitee Keyboard for Quick and Effective Screen Captures: A Complete How-To.
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Insta-Pro Tip: Ensuring Your High-Res Pictures Fit Seamlessly on Instagram</p>
+                            <p>This Article Describes How to Utilize Your Logitee Keyboard for Quick and Effective Screen Captures: A Complete How-To.</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:24:44 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:31:03 GMT+0800">
                 
                     2024-08-18
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/insta-pro-tip-ensuring-your-high-res-pictures-fit-seamlessly-on-instagram/">Read more<span class="seo-reader-text">Insta-Pro Tip: Ensuring Your High-Res Pictures Fit Seamlessly on Instagram</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-utilize-your-logitee-keyboard-for-quick-and-effective-screen-captures-a-complete-how-to/">Read more<span class="seo-reader-text">How to Utilize Your Logitee Keyboard for Quick and Effective Screen Captures: A Complete How-To.</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/438/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/437/">437</a><a class="page-number" href="/page/438/">438</a><span class="page-number current">439</span><a class="page-number" href="/page/440/">440</a><a class="page-number" href="/page/441/">441</a><span class="space">&hellip;</span><a class="page-number" href="/page/810/">810</a><a class="extend next" rel="next" href="/page/440/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/438/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/437/">437</a><a class="page-number" href="/page/438/">438</a><span class="page-number current">439</span><a class="page-number" href="/page/440/">440</a><a class="page-number" href="/page/441/">441</a><span class="space">&hellip;</span><a class="page-number" href="/page/845/">845</a><a class="extend next" rel="next" href="/page/440/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

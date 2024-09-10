@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techno-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-30'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-04'>
                 
                     
-                        <a href="/resolving-opengl32dll-errors-a-comprehensive-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Resolving OpenGL32.dll Errors: A Comprehensive Guide</span>
+                        <a href="/decoding-dts-play-fi-the-future-of-streaming-car-audio-systems/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Decoding DTS Play-Fi: The Future of Streaming Car Audio Systems</span>
                         </a>
                     
               
                 
                     
-                        <a href="/experience-the-power-of-design-with-our-favorite-free-cad-apps/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Experience the Power of Design with Our Favorite Free CAD Apps</span>
+                        <a href="/email-and-phone-lost-heres-how-to-retrieve-your-fb-credentials-without-them/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Email and Phone Lost? Here&#39;s How to Retrieve Your FB Credentials Without Them</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-tips-repairing-non-responsive-macbook-pro-keys/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Tips: Repairing Non-Responsive MacBook Pro Keys</span>
+                        <a href="/effortless-email-management-how-to-bulk-select-messages-on-gmail/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Effortless Email Management: How to Bulk Select Messages on Gmail</span>
                         </a>
                     
               
                 
                     
-                        <a href="/home-speaker-maintenebration-a-step-by-step-cleaning-process-for-optimal-audio-performance/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Home Speaker Maintenebration: A Step-by-Step Cleaning Process for Optimal Audio Performance</span>
+                        <a href="/xbox-gaming-tips-using-an-additional-hard-disk-drive-hdd-on-console/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Xbox Gaming Tips: Using an Additional Hard Disk Drive (HDD) on Console</span>
                         </a>
                     
               
                 
                     
-                        <a href="/essential-netflix-flicks-for-the-young-generation/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Essential Netflix Flicks for the Young Generation</span>
+                        <a href="/troubleshooting-techniques-for-banishing-subwoofer-rumbling-sounds/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Techniques for Banishing Subwoofer Rumbling Sounds</span>
                         </a>
                     
               
                 
                     
-                        <a href="/is-the-performance-boost-worth-it-with-a-new-rtx-gpu/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Is the Performance Boost Worth It with a New RTX GPU?</span>
+                        <a href="/conquer-the-mighty-lynel-expert-advice-on-winning-battles-in-botw/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Conquer the Mighty Lynel: Expert Advice on Winning Battles in BOTW</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-ultimate-how-to-on-fetching-sentdeleted-emails-in-outlook/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Ultimate How-To on Fetching Sent/Deleted Emails in Outlook</span>
+                        <a href="/stay-updated-with-ease-our-picked-list-of-11-free-software-refreshment-programs/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Stay Updated with Ease: Our Picked List of 11 Free Software Refreshment Programs</span>
                         </a>
                     
               
                 
                     
-                        <a href="/resolving-the-mapi32dll-file-cannot-be-found-a-comprehensive-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Resolving the &#39;Mapi32.dll&#39; File Cannot Be Found: A Comprehensive Guide</span>
+                        <a href="/how-to-detect-and-avoid-counterfeit-social-links-on-your-profile/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Detect and Avoid Counterfeit Social Links on Your Profile</span>
                         </a>
                     
               
                 
                     
-                        <a href="/up-to-date-guide-on-windows-system-improvements-for-july-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Up-to-Date Guide on Windows System Improvements for July 2024</span>
+                        <a href="/enhancing-gmail-security-how-to-turn-on-the-additional-layer-of-protection-with-two-factor-authentication/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Enhancing Gmail Security: How to Turn On the Additional Layer of Protection with Two-Factor Authentication</span>
                         </a>
                     
               
                 
                     
-                        <a href="/evaluating-the-line-messaging-app-features-usability-and-performance/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Evaluating the Line Messaging App: Features, Usability &amp; Performance</span>
+                        <a href="/what-does-a-503-service-unavailable-response-mean-diagnosis-and-remedies/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">What Does a 503 Service Unavailable Response Mean? Diagnosis and Remedies</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/122/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/121/">121</a><a class="page-number" href="/categories/BestProducts/page/122/">122</a><span class="page-number current">123</span><a class="page-number" href="/categories/BestProducts/page/124/">124</a><a class="page-number" href="/categories/BestProducts/page/125/">125</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/727/">727</a><a class="extend next" rel="next" href="/categories/BestProducts/page/124/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/122/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/121/">121</a><a class="page-number" href="/categories/BestProducts/page/122/">122</a><span class="page-number current">123</span><a class="page-number" href="/categories/BestProducts/page/124/">124</a><a class="page-number" href="/categories/BestProducts/page/125/">125</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/762/">762</a><a class="extend next" rel="next" href="/categories/BestProducts/page/124/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"techno-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">John</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8095</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8450</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/guide-to-correcting-the-coredll-file-is-absent-message/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/vVI72sRA4wI1eUm0g1gPCE9oSWE=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/core-dll-error-message-5ab3bf728e1b6e00379ec776.png" alt="Guide to Correcting the &#39;Core.dll File Is Absent&#39; Message" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-website-downtime-how-to-diagnose-and-fix-the-503-service-unavailable-error/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de551640bc5deeb7f8730f9ba76.jpg" alt="Mastering Website Downtime: How to Diagnose and Fix the 503 Service Unavailable Error" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/guide-to-correcting-the-coredll-file-is-absent-message/">
-                            Guide to Correcting the &#39;Core.dll File Is Absent&#39; Message
+                        <a href="/mastering-website-downtime-how-to-diagnose-and-fix-the-503-service-unavailable-error/">
+                            Mastering Website Downtime: How to Diagnose and Fix the 503 Service Unavailable Error
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Guide to Correcting the ‘Core.dll File Is Absent’ Message</p>
+                            <p>This Article Describes Mastering Website Downtime: How to Diagnose and Fix the 503 Service Unavailable Error</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:11 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:29 GMT+0800">
                 
                     2024-08-18
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/guide-to-correcting-the-coredll-file-is-absent-message/">Read more<span class="seo-reader-text">Guide to Correcting the &#39;Core.dll File Is Absent&#39; Message</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-website-downtime-how-to-diagnose-and-fix-the-503-service-unavailable-error/">Read more<span class="seo-reader-text">Mastering Website Downtime: How to Diagnose and Fix the 503 Service Unavailable Error</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-steps-resolving-issues-with-microsoft-edge/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02099dda394914608d8e630c7.jpg" alt="Troubleshooting Steps: Resolving Issues with Microsoft Edge" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-assess-quality-a-buyers-guide-to-secondhand-computers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9e9fd87736937318bdb673f7.jpg" alt="How to Assess Quality: A Buyer&#39;s Guide to Secondhand Computers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-steps-resolving-issues-with-microsoft-edge/">
-                            Troubleshooting Steps: Resolving Issues with Microsoft Edge
+                        <a href="/how-to-assess-quality-a-buyers-guide-to-secondhand-computers/">
+                            How to Assess Quality: A Buyer&#39;s Guide to Secondhand Computers
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Steps: Resolving Issues with Microsoft Edge</p>
+                            <p>This Article Describes How to Assess Quality: A Buyer’s Guide to Secondhand Computers</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:10 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:28 GMT+0800">
                 
                     2024-08-18
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/troubleshooting-steps-resolving-issues-with-microsoft-edge/">Read more<span class="seo-reader-text">Troubleshooting Steps: Resolving Issues with Microsoft Edge</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-assess-quality-a-buyers-guide-to-secondhand-computers/">Read more<span class="seo-reader-text">How to Assess Quality: A Buyer&#39;s Guide to Secondhand Computers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-science-of-oleds-an-in-depth-look-at-operation-and-design/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84bad6c07d2660d7d7c1f1386.jpg" alt="The Science of OLEDs: An In-Depth Look at Operation and Design" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/virtual-reality-meets-clear-sound-the-definitive-guide-to-meta-quest-microphone-setup-and-usage/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285da087031d4c184f1389088d2.jpg" alt="Virtual Reality Meets Clear Sound: The Definitive Guide to Meta Quest Microphone Setup and Usage" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-science-of-oleds-an-in-depth-look-at-operation-and-design/">
-                            The Science of OLEDs: An In-Depth Look at Operation and Design
+                        <a href="/virtual-reality-meets-clear-sound-the-definitive-guide-to-meta-quest-microphone-setup-and-usage/">
+                            Virtual Reality Meets Clear Sound: The Definitive Guide to Meta Quest Microphone Setup and Usage
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Science of OLEDs: An In-Depth Look at Operation and Design</p>
+                            <p>This Article Describes Virtual Reality Meets Clear Sound: The Definitive Guide to Meta Quest Microphone Setup and Usage</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:09 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:26 GMT+0800">
                 
                     2024-08-18
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/the-science-of-oleds-an-in-depth-look-at-operation-and-design/">Read more<span class="seo-reader-text">The Science of OLEDs: An In-Depth Look at Operation and Design</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/virtual-reality-meets-clear-sound-the-definitive-guide-to-meta-quest-microphone-setup-and-usage/">Read more<span class="seo-reader-text">Virtual Reality Meets Clear Sound: The Definitive Guide to Meta Quest Microphone Setup and Usage</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effective-ways-to-check-the-heat-inside-your-macbook-pro-or-air-model/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/ymM1wcX9ajBi3tYIzdS2HGWBgBM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-macbook-temperature-5184146-be93f3e7c2e141aba3d43a3a5a6a3e6a.jpg" alt="Effective Ways to Check the Heat Inside Your MacBook Pro or Air Model" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-windows-11-velocity-techniques-for-eliminating-sluggish-performance/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/49570c4e8b47ea82b7ecf56be528fbefc2ec46d8620a3399012917fa562508d1.jpg" alt="Mastering Windows 11 Velocity: Techniques for Eliminating Sluggish Performance" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effective-ways-to-check-the-heat-inside-your-macbook-pro-or-air-model/">
-                            Effective Ways to Check the Heat Inside Your MacBook Pro or Air Model
+                        <a href="/mastering-windows-11-velocity-techniques-for-eliminating-sluggish-performance/">
+                            Mastering Windows 11 Velocity: Techniques for Eliminating Sluggish Performance
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effective Ways to Check the Heat Inside Your MacBook Pro or Air Model</p>
+                            <p>This Article Describes Mastering Windows 11 Velocity: Techniques for Eliminating Sluggish Performance</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:08 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:25 GMT+0800">
                 
                     2024-08-18
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/effective-ways-to-check-the-heat-inside-your-macbook-pro-or-air-model/">Read more<span class="seo-reader-text">Effective Ways to Check the Heat Inside Your MacBook Pro or Air Model</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-windows-11-velocity-techniques-for-eliminating-sluggish-performance/">Read more<span class="seo-reader-text">Mastering Windows 11 Velocity: Techniques for Eliminating Sluggish Performance</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/quick-troubleshooting-starting-up-in-mac-recovery-for-simple-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ebdad2a840dec3c1268566b70a55752afebf362104fe97ee34bca7557147f02e.jpg" alt="Quick Troubleshooting: Starting Up in Mac Recovery for Simple Fixes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/tackling-the-insecure-connection-alert-on-your-browser-quick-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/xo_2t5e5ZeVaabmtT7h70fUp9UI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Firefox_-_Insecure_connection_on_CACert-5e485d89abc5433bb28cee215df06feb.jpg" alt="Tackling the Insecure Connection Alert on Your Browser – Quick Fixes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/quick-troubleshooting-starting-up-in-mac-recovery-for-simple-fixes/">
-                            Quick Troubleshooting: Starting Up in Mac Recovery for Simple Fixes
+                        <a href="/tackling-the-insecure-connection-alert-on-your-browser-quick-fixes/">
+                            Tackling the Insecure Connection Alert on Your Browser – Quick Fixes
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Quick Troubleshooting: Starting Up in Mac Recovery for Simple Fixes</p>
+                            <p>This Article Describes Tackling the Insecure Connection Alert on Your Browser – Quick Fixes</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:07 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:23 GMT+0800">
                 
                     2024-08-18
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/quick-troubleshooting-starting-up-in-mac-recovery-for-simple-fixes/">Read more<span class="seo-reader-text">Quick Troubleshooting: Starting Up in Mac Recovery for Simple Fixes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/tackling-the-insecure-connection-alert-on-your-browser-quick-fixes/">Read more<span class="seo-reader-text">Tackling the Insecure Connection Alert on Your Browser – Quick Fixes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-solution-for-restoring-your-ipad-password-or-passcode/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/lFMcG_V3cfgZ46QbkGOji3E5VS8=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-music-listening-571e11b33df78c56401aabed.jpg" alt="Step-by-Step Solution for Restoring Your iPad Password or Passcode" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/find-the-best-sound-key-considerations-for-buying-quality-stereo-speakers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/92985b2f8fb733c6ace3a56ad63487609f03bf1d506d4321f2d46018abdebb6d.png" alt="Find the Best Sound: Key Considerations for Buying Quality Stereo Speakers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-solution-for-restoring-your-ipad-password-or-passcode/">
-                            Step-by-Step Solution for Restoring Your iPad Password or Passcode
+                        <a href="/find-the-best-sound-key-considerations-for-buying-quality-stereo-speakers/">
+                            Find the Best Sound: Key Considerations for Buying Quality Stereo Speakers
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Solution for Restoring Your iPad Password or Passcode</p>
+                            <p>This Article Describes Find the Best Sound: Key Considerations for Buying Quality Stereo Speakers</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:06 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:22 GMT+0800">
                 
                     2024-08-18
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/step-by-step-solution-for-restoring-your-ipad-password-or-passcode/">Read more<span class="seo-reader-text">Step-by-Step Solution for Restoring Your iPad Password or Passcode</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/find-the-best-sound-key-considerations-for-buying-quality-stereo-speakers/">Read more<span class="seo-reader-text">Find the Best Sound: Key Considerations for Buying Quality Stereo Speakers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/a-beginners-guide-to-electric-bike-propulsion-systems-explained/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/zeVlYhrS8KQDRcYwRmK168NEMd8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1208867981-34329daf804242fd9e75480d2bcc7653.jpg" alt="A Beginner&#39;s Guide to Electric Bike Propulsion Systems Explained" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/easy-guide-capturing-your-screen-on-windows-or-macos/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff84337aa8bb982a08609d9e6.jpg" alt="Easy Guide: Capturing Your Screen on Windows or macOS" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/a-beginners-guide-to-electric-bike-propulsion-systems-explained/">
-                            A Beginner&#39;s Guide to Electric Bike Propulsion Systems Explained
+                        <a href="/easy-guide-capturing-your-screen-on-windows-or-macos/">
+                            Easy Guide: Capturing Your Screen on Windows or macOS
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes A Beginner’s Guide to Electric Bike Propulsion Systems Explained</p>
+                            <p>This Article Describes Easy Guide: Capturing Your Screen on Windows or macOS</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:05 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:21 GMT+0800">
                 
                     2024-08-18
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/a-beginners-guide-to-electric-bike-propulsion-systems-explained/">Read more<span class="seo-reader-text">A Beginner&#39;s Guide to Electric Bike Propulsion Systems Explained</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/easy-guide-capturing-your-screen-on-windows-or-macos/">Read more<span class="seo-reader-text">Easy Guide: Capturing Your Screen on Windows or macOS</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/rebooting-like-a-boss-easy-techniques-for-refreshing-your-macbook-pro/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10fcab5198bc36f19c430691c.jpg" alt="Rebooting Like a Boss: Easy Techniques for Refreshing Your MacBook Pro" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/2024s-best-combined-cable-modems-with-routers-for-optimal-home-networking/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/aJKUaYF18zo7_-orp6Jv-_MMCOI=/300x200/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-2-5c3be64d46e0fb00010352bf.jpg" alt="2024&#39;S Best Combined Cable Modems with Routers for Optimal Home Networking" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/rebooting-like-a-boss-easy-techniques-for-refreshing-your-macbook-pro/">
-                            Rebooting Like a Boss: Easy Techniques for Refreshing Your MacBook Pro
+                        <a href="/2024s-best-combined-cable-modems-with-routers-for-optimal-home-networking/">
+                            2024&#39;S Best Combined Cable Modems with Routers for Optimal Home Networking
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Rebooting Like a Boss: Easy Techniques for Refreshing Your MacBook Pro</p>
+                            <p>This Article Describes 2024’S Best Combined Cable Modems with Routers for Optimal Home Networking</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:03 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:20 GMT+0800">
                 
                     2024-08-18
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/rebooting-like-a-boss-easy-techniques-for-refreshing-your-macbook-pro/">Read more<span class="seo-reader-text">Rebooting Like a Boss: Easy Techniques for Refreshing Your MacBook Pro</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/2024s-best-combined-cable-modems-with-routers-for-optimal-home-networking/">Read more<span class="seo-reader-text">2024&#39;S Best Combined Cable Modems with Routers for Optimal Home Networking</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-breakthrough-launch-event-for-samsungs-latest-mobile-tech/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/S24-and-Ultra-Presentation-ea65782a8bd04049b8b8d9e9ace7fb5a.jpg" alt="The Breakthrough Launch Event for Samsung&#39;s Latest Mobile Tech" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-a-malfunctioning-macbook-pro-keyboard-effective-solutions-and-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb81bb49e5d9d8fec87876404.jpeg" alt="Troubleshooting a Malfunctioning MacBook Pro Keyboard: Effective Solutions and Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-breakthrough-launch-event-for-samsungs-latest-mobile-tech/">
-                            The Breakthrough Launch Event for Samsung&#39;s Latest Mobile Tech
+                        <a href="/troubleshooting-a-malfunctioning-macbook-pro-keyboard-effective-solutions-and-tips/">
+                            Troubleshooting a Malfunctioning MacBook Pro Keyboard: Effective Solutions and Tips
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Breakthrough Launch Event for Samsung’s Latest Mobile Tech</p>
+                            <p>This Article Describes Troubleshooting a Malfunctioning MacBook Pro Keyboard: Effective Solutions and Tips</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:02 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:19 GMT+0800">
                 
                     2024-08-18
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/the-breakthrough-launch-event-for-samsungs-latest-mobile-tech/">Read more<span class="seo-reader-text">The Breakthrough Launch Event for Samsung&#39;s Latest Mobile Tech</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-a-malfunctioning-macbook-pro-keyboard-effective-solutions-and-tips/">Read more<span class="seo-reader-text">Troubleshooting a Malfunctioning MacBook Pro Keyboard: Effective Solutions and Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-ultimate-guide-to-picking-out-a-powerful-pc-for-gamers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/WZAMcBbP19CMf-MnlXXVgs0Po3g=/300x200/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg" alt="The Ultimate Guide to Picking Out a Powerful PC for Gamers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/boosting-gmail-safety-a-comprehensive-guide-to-turn-on-two-factor-authentication/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412d012bd826ff7f5dff9de440.png" alt="Boosting Gmail Safety: A Comprehensive Guide to Turn On Two-Factor Authentication" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-ultimate-guide-to-picking-out-a-powerful-pc-for-gamers/">
-                            The Ultimate Guide to Picking Out a Powerful PC for Gamers
+                        <a href="/boosting-gmail-safety-a-comprehensive-guide-to-turn-on-two-factor-authentication/">
+                            Boosting Gmail Safety: A Comprehensive Guide to Turn On Two-Factor Authentication
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Ultimate Guide to Picking Out a Powerful PC for Gamers</p>
+                            <p>This Article Describes Boosting Gmail Safety: A Comprehensive Guide to Turn On Two-Factor Authentication</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 17:29:01 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 17:35:18 GMT+0800">
                 
                     2024-08-18
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/the-ultimate-guide-to-picking-out-a-powerful-pc-for-gamers/">Read more<span class="seo-reader-text">The Ultimate Guide to Picking Out a Powerful PC for Gamers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/boosting-gmail-safety-a-comprehensive-guide-to-turn-on-two-factor-authentication/">Read more<span class="seo-reader-text">Boosting Gmail Safety: A Comprehensive Guide to Turn On Two-Factor Authentication</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/414/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/413/">413</a><a class="page-number" href="/page/414/">414</a><span class="page-number current">415</span><a class="page-number" href="/page/416/">416</a><a class="page-number" href="/page/417/">417</a><span class="space">&hellip;</span><a class="page-number" href="/page/810/">810</a><a class="extend next" rel="next" href="/page/416/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/414/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/413/">413</a><a class="page-number" href="/page/414/">414</a><span class="page-number current">415</span><a class="page-number" href="/page/416/">416</a><a class="page-number" href="/page/417/">417</a><span class="space">&hellip;</span><a class="page-number" href="/page/845/">845</a><a class="extend next" rel="next" href="/page/416/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
