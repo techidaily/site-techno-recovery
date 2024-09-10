@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Word on a Budget: Finding the Free Alternative"
-date: 2024-09-04T00:40:48.636Z
-updated: 2024-09-05T00:40:48.636Z
+date: 2024-09-09T09:13:50.298Z
+updated: 2024-09-10T09:13:50.298Z
 categories:
   - BestProducts
 description: "This Article Describes Microsoft Word on a Budget: Finding the Free Alternative"
@@ -9,17 +9,47 @@ excerpt: "This Article Describes Microsoft Word on a Budget: Finding the Free Al
 thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37095d266ecb3ccb4c8e95c38.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Determining the Duration of a Mail.com Account – Key Factors and Lifespan
  Mail can be an irreplaceable thing to lose. A Mail.com account can be easy to lose by mere inactivity. This applies to the free Mail.com accounts rather than the paid Premium Service. For the free service, you need to log in once every six months to keep it active. That period is subject to change.
 
  After a certain time of inactivity, a Mail.com account will be closed and deleted: any emails in it not backed-up elsewhere are irreversibly lost. You don't need to send messages from a Mail.com account to keep it, of course, or receive emails even; logging into the address and account is enough.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Know When Your Mail.com Account Will Expire From Inactivity
 
  A Mail.com account will close automatically—and emails in it will be deleted after six months of inactivity. That period is subject to change. In the past, the period was 12 months. You need to check the current terms of agreement for Mail.com. The inactivity clause is under 2\. Term and Termination, clause 2.4.
 
  If you use the Premium Service from Mail.com, you are not subject to the inactivity termination for the period for which you are paid. However, your account will revert to a free account if you don't stay current on your payments or renewals. That may happen if the credit card you've stored for automatic renewals has expired or been reissued, and you may have ignored notifications about it. You can easily get into a vicious circle of not checking your Mail.com account or other accounts you have associated with it. When that happens, you may never see the warning about your account reverting to the free version.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Can You Keep Your Mail.com Account Active?
 
  You can keep your account active simply by logging in. You can do that from webmail, using another email client such as[Thunderbird](https://www.lifewire.com/mozilla-thunderbird-review-1173071) or their mail app. You don't have to necessarily send or receive mail, but you need to perform a login at the least.
@@ -29,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
  If you set up the account simply to have an email address you can use for identification purposes, such as to have multiple[X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) accounts, it can be easy to forget to keep your Mail.com account active. You will need to set up a reminder to log in every few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Deleting Your Account at Mail.com
 

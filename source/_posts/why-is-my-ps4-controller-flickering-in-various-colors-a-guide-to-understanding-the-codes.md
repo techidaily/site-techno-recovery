@@ -1,7 +1,7 @@
 ---
 title: Why Is My PS4 Controller Flickering in Various Colors? A Guide to Understanding the Codes
-date: 2024-09-04T00:40:57.546Z
-updated: 2024-09-05T00:40:57.546Z
+date: 2024-09-09T09:13:50.174Z
+updated: 2024-09-10T09:13:50.174Z
 categories:
   - BestProducts
 description: This Article Describes Why Is My PS4 Controller Flickering in Various Colors? A Guide to Understanding the Codes
@@ -9,9 +9,21 @@ excerpt: This Article Describes Why Is My PS4 Controller Flickering in Various C
 thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps4-2326616_1280-09912014986f461fbafdce07c1e9fad1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Modernizing the Papacy? Understanding Pope Francis's Approach to Using Email
  Although His Holiness Pope Francis might have a private or official email address, he does maintain a publicly listed email address. People who wish to contact him by modern means aren't relegated to snail mail as he has an active[social media feed](https://twitter.com/Pontifex) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Contact the Pope Through the Mail
 
  For contacting Pope Francis through the postal service, the Vatican provides this address:
@@ -22,19 +34,31 @@ thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/fi
 
  Don't add "Italy" to the address. The Vatican is a separate political entity from Italy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Pope Doesn't Use Email
 
  Despite his lack of email accessibility, Pope Francis sees modern communication options as beneficial. When[Tim Cook, Apple's CEO](https://www.lifewire.com/who-is-tim-cook-1994301) , visited the Vatican in January 2016, Pope Francis released a message titled   _Communication and Mercy: A Fruitful Encounter, for the 50th World Day of Social Communications_ . In it, he said that the internet, text messages, and social networks are "gifts from God."
 
 ![Pope Francis Delivers 'Urbi Et Orbi' Blessing During Easter Mass In St. Peter's Square](https://www.lifewire.com/thmb/z5bZaGaAuEBbtVki4q-_xec1lk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Giulio Origlia / Getty Images
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Other Popes in the Information Age
 

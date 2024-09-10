@@ -1,7 +1,7 @@
 ---
 title: Understanding the Distinctions Between Category 5 and Category 6 Cabling
-date: 2024-09-04T00:39:44.811Z
-updated: 2024-09-05T00:39:44.811Z
+date: 2024-09-09T09:13:51.148Z
+updated: 2024-09-10T09:13:51.148Z
 categories:
   - BestProducts
 description: This Article Describes Understanding the Distinctions Between Category 5 and Category 6 Cabling
@@ -9,11 +9,23 @@ excerpt: This Article Describes Understanding the Distinctions Between Category 
 thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cat5-vs-Cat6-2f777fcbf2c64bf8bd24039074314422.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Effective Techniques for Repairing Hardware Exceptions – Understanding and Fixing the WHEeE Error in Windows
  The Windows Hardware Error Architecture (WHEA) uncorrectable error is a Windows[stop code](https://www.lifewire.com/what-is-a-stop-code-2625685) displayed on a[blue screen](https://www.lifewire.com/blue-screen-of-death-bsod-2625816) . When this error occurs, your computer will typically compile some diagnostic data then reset. If the root problem persists, your computer will eventually crash again with the same WHEA uncorrectable error message.
 
  WHEA uncorrectable errors are usually associated with faulty hardware, but they can also be caused by driver conflicts, missing Windows updates, and even[overclocking](https://www.lifewire.com/what-is-overclocking-a-computer-4092341) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How the WHEA Uncorrectable Error Appears
 
  When this error occurs, you'll usually see a message like one of these:
@@ -23,6 +35,12 @@ thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/fi
 * A problem has been detected, and Windows has been shut down to prevent damage to your computer.  
  WHEA\_UNCORRECTABLE\_ERROR
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Causes of the WHEA Uncorrectable Error
 
  The WHEA uncorrectable error is a stop code displayed during blue screen crashes and is usually due to hardware failure. A failing hard drive, defective memory, improperly seated CPU, and a variety of other hardware issues can all result in a WHEA uncorrectable error.
@@ -32,16 +50,16 @@ thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/fi
  In some cases, overclocking can also cause this error to appear due to the extra strain overclocking puts on your CPU.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Fix a WHEA Uncorrectable Error
 
@@ -68,16 +86,10 @@ thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/fi
  If you reset Windows and still experience the WHEA uncorrectable error, you have a hardware issue. Carefully inspect your hardware again, and seek professional assistance if you can't determine which piece of hardware has failed.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="234" height="30" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Other Blue Screen Problems Like the WHEA Uncorrectable Error
 

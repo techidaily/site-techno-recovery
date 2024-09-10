@@ -1,7 +1,7 @@
 ---
 title: Can You Trust DuckDuckGo for Safe Web Browsing? Insights on Its Privacy Protections
-date: 2024-09-04T00:38:14.066Z
-updated: 2024-09-05T00:38:14.066Z
+date: 2024-09-09T09:13:52.390Z
+updated: 2024-09-10T09:13:52.390Z
 categories:
   - BestProducts
 description: This Article Describes Can You Trust DuckDuckGo for Safe Web Browsing? Insights on Its Privacy Protections
@@ -9,6 +9,12 @@ excerpt: This Article Describes Can You Trust DuckDuckGo for Safe Web Browsing? 
 thumbnail: https://www.lifewire.com/thmb/lNP6YBLFlYCAN4zYTdFiNlKsEAo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WashingtonPostContributor_DuckDuckGofounder_GettyImages-155963492-cb01f77ce83d497983ec79cb797e2336.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Boost Your Productivity with Two Screens on Your Mac - Setup Instructions Inside
 ### What to Know
 
@@ -29,23 +35,35 @@ thumbnail: https://www.lifewire.com/thmb/lNP6YBLFlYCAN4zYTdFiNlKsEAo=/400x300/fi
 1. Navigate to [Apple's site](https://www.apple.com/) , then select Support from the menu bar at the top of the screen.  
 ![The Support tab highlighted on Apple.com](https://www.lifewire.com/thmb/inhhZBzoQolBN4X3zYE1lDNuELo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/maccheckScreenShot2022-11-07at1.47.22PM-add0e9dafa2d4be9852ce7c1418ac055.jpg)  
  Another option is to visit[Apple support's Documentation site](https://support.apple.com/docs) and select**Mac** from the product category tiles to locate specs for your model.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. On the Support page, scroll down to "Search for topics" and type in your Mac's information (model, year, etc).  
 ![Searching the Support page for a specific model and year of Mac](https://www.lifewire.com/thmb/O_5o--7f-D5Wq3ugFUrbs_sfYck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/maccheckScreenShot2022-11-07at1.49.10PM-52c2c016edaa482281bfecd37d4a04d1.jpg)
 3. From the results page, select **List of Models** and then choose **Identify your model** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you don't see this option, look for a technical specifications result. For example, if you searched for "MacBook Air 15-inch 2023," look for this option: "MacBook Air (15-inch, M2, 2023) - Technical Specifications."
 4. Scroll down the results page until you find your Mac model, and then select the**Tech Specs** link.  
 ![Tech Specs link for Mac model on Apple.com](https://www.lifewire.com/thmb/e-8qrWwO_hN_Wy1nd47X6gEvFiU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/maccheckScreenShot2022-11-07at2.04.09PM-337a695bdb2a44d6ac37ec0c325225d9.jpg)
 5. Find the**Video Support** section, and look for supported display details. This item could also be labeled**Display Support** .  
 ![The video support section highlighted on an Apple support page.](https://www.lifewire.com/thmb/Vut63kcRCPdM3twlvvZdkHyREYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-set-up-dual-monitors-on-a-mac-8b3dbd4db6d44153a19f5760816ee453.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In this example, you can see that a 2011 MacBook Air 13-inch can display its native resolution on the built-in display while also outputting video to an external display at a resolution of 2560 x 1600 pixels. That means this particular Mac could handle a 1080p display easily, but it wouldn’t work with a 4K monitor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up Dual Monitors On a Mac
 
  Once you’ve obtained one or multiple monitors for your MacBook or a desktop Mac, you’ve verified your Mac can handle the monitors, and you have either the necessary cables and adapters, you’re ready to set up dual displays on your device.
@@ -60,41 +78,11 @@ thumbnail: https://www.lifewire.com/thmb/lNP6YBLFlYCAN4zYTdFiNlKsEAo=/400x300/fi
 4. Click the**Apple menu** icon.  
 ![The Apple menu icon highlighted in macOS.](https://www.lifewire.com/thmb/mxh256GgttjxNzbQCH3AamswyO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-set-up-dual-monitors-on-a-mac-dd56d174d1ce4c96a80f72b7ec068a24.jpg)
 5. Click**System Preferences** or**System Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![System Preferences highlighted in the Apple menu.](https://www.lifewire.com/thmb/4JpDMxtJnbDEsvc34XdH_m9afXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-set-up-dual-monitors-on-a-mac-d9ed8911ab194b9bbfc2005f2e23f87a.jpg)
 6. Click**Displays** .  
-![Displays highlighted in the System Preferences menu.](https://www.lifewire.com/thmb/2Ki-6zTrxQ2qxdC79uadSyAK-_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-set-up-dual-monitors-on-a-mac-31454ee75cf4474ebf7891bb55683ca8.jpg)
-7. On your main display, click**Arrangement** . You may also see this option listed as**Arrange** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Arrangement highlighted in the macOS display options.](https://www.lifewire.com/thmb/pMTd1XnM4CtYaZjefKk--lUI8i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-set-up-dual-monitors-on-a-mac-2fb97248394e426f9f4fb3a5c8c1cf71.jpg)
-8. On the**Arrangement** or**Arrange Displays** menu, you’ll see the positioning of your displays. If you want to change the setup, locate the**secondary monitor icon** .  
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Clicking a monitor to drag it in the macOS display arrangement options.](https://www.lifewire.com/thmb/CC5yaPcB2e25vUld-JFWME-AQhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-set-up-dual-monitors-on-a-mac-f0be68176b9b4051a43e208c4bdb8024.jpg)  
- If you're satisfied with the monitor positioning, you can skip to step 11.
 <!-- affiliate ads begin -->
 <span id="1304648">
-					<video width="125" height="125" style="cursor:pointer"
+					<video width="200" height="200" style="cursor:pointer"
            poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
 	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
@@ -104,48 +92,60 @@ thumbnail: https://www.lifewire.com/thmb/lNP6YBLFlYCAN4zYTdFiNlKsEAo=/400x300/fi
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+![Displays highlighted in the System Preferences menu.](https://www.lifewire.com/thmb/2Ki-6zTrxQ2qxdC79uadSyAK-_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-set-up-dual-monitors-on-a-mac-31454ee75cf4474ebf7891bb55683ca8.jpg)
+7. On your main display, click**Arrangement** . You may also see this option listed as**Arrange** .  
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Arrangement highlighted in the macOS display options.](https://www.lifewire.com/thmb/pMTd1XnM4CtYaZjefKk--lUI8i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-set-up-dual-monitors-on-a-mac-2fb97248394e426f9f4fb3a5c8c1cf71.jpg)
+8. On the**Arrangement** or**Arrange Displays** menu, you’ll see the positioning of your displays. If you want to change the setup, locate the**secondary monitor icon** .  
+![Clicking a monitor to drag it in the macOS display arrangement options.](https://www.lifewire.com/thmb/CC5yaPcB2e25vUld-JFWME-AQhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-set-up-dual-monitors-on-a-mac-f0be68176b9b4051a43e208c4bdb8024.jpg)  
+ If you're satisfied with the monitor positioning, you can skip to step 11.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 9. Click and drag the**secondary monitor** into the correct position.  
 ![Dragging a monitor in the macOS display arrangement options.](https://www.lifewire.com/thmb/Q0CDCStfMtH5VOEENcMuTyBMNFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-how-to-set-up-dual-monitors-on-a-mac-c1698ef24b964ab0a328d4f7837ab636.jpg)
 10. Release your mouse or trackpad, and the secondary monitor will drop into the position you chose.  
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A repositioned monitor in the macOS display settings.](https://www.lifewire.com/thmb/wJRGi-TYH_drHpFkVwUUUsGwyhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-set-up-dual-monitors-on-a-mac-af14ecad77c74d0d94786be55ffb58d9.jpg)
 11. On your main display, make sure to deselect the screen mirroring box or that you've selected**Main display** from the**Use as** drop-down menu.  
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="150" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Mirror Displays checkbox highlighted in the macOS display arrangement options.](https://www.lifewire.com/thmb/OKWCXoNThJXXF2XOMIt65lbHZXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-set-up-dual-monitors-on-a-mac-e3112b85c90e4841af282cc55252aa31.jpg)  
  If the mirror displays box is checked, both monitors will show the same image at all times.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 12. Click the correct resolution for your display.  
 ![1920x1080 highlighted on a stretched out macOS screenshot.](https://www.lifewire.com/thmb/GvKW6t3G5foY659NnIcCpKLzLZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013-how-to-set-up-dual-monitors-on-a-mac-36fd1e7b5aec4230ae0599a4c1c8637a.jpg)  
  Select the built-in resolution for your monitor for the best results. It needs to be equal to or lower than the resolution that your Mac is capable of handling.
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 13. Make sure the image doesn't look stretched, squashed, discolored, or anything. If it doesn't look right, click**Scaled** or choose an option from the resolutions thumbnails.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### {"uuid":null,"data":{"theme":"EXPERTTIPTIP","heading":"","html":"  
 
  If you don't see scaling options, press**Ctrl** while clicking a resolution and select**Show Thumbnails** .  
@@ -154,10 +154,10 @@ thumbnail: https://www.lifewire.com/thmb/lNP6YBLFlYCAN4zYTdFiNlKsEAo=/400x300/fi
 ![Scaled highlighted on a stretched out macOS screenshot.](https://www.lifewire.com/thmb/z9-zDidSFLsmsKDbeyXx7d2Q0nQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012-how-to-set-up-dual-monitors-on-a-mac-99d4162949824710bf94d14c241dd835.jpg)  
  Depending on your Mac and external displays, you may see other configuration options, such as selecting a color profile or refresh rate.
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 14. If your second display looks right, you can close the display settings and start using your Mac with the external monitors.  
 ![A correctly configured dual display on a Mac.](https://www.lifewire.com/thmb/en5LgT1ksGm2CaguuK0bgx5MO-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2021-03-20at2.44.42PM-dda66002386d4ba28afb158fbf36f07b.png)
@@ -170,6 +170,12 @@ thumbnail: https://www.lifewire.com/thmb/lNP6YBLFlYCAN4zYTdFiNlKsEAo=/400x300/fi
 
 ![Ventura (macOS13) Displays menu](https://www.lifewire.com/thmb/Dz1wJwmTTaNUZvR_gFDkZWbOe30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/venturawirelessdisplay-e653807f1afe48eb873994101bd07b38.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Choose a Monitor for a Mac
 
  If you’ve never set up dual monitors before, finding the right monitor can seem like a daunting prospect. To choose the right monitor, you need to consider the display's size, resolution, color accuracy, and other characteristics.

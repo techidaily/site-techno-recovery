@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Max's Documentary Favorites for July 2024
-date: 2024-09-04T00:39:55.194Z
-updated: 2024-09-05T00:39:55.194Z
+date: 2024-09-09T09:13:51.014Z
+updated: 2024-09-10T09:13:51.014Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Max's Documentary Favorites for July 2024
@@ -9,6 +9,12 @@ excerpt: This Article Describes The Ultimate List of Max's Documentary Favorites
 thumbnail: https://www.lifewire.com/thmb/XH55U_CEhmuXXAlx9OPO62fHDsE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-max-right-now-october-2023-5025656-a317a13b12bb4a0d827953c217e313da.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Ultimate List of Max's Documentary Favorites for July 2024
 
 Close 
@@ -25,6 +31,12 @@ of 18
 
 ![Nan Goldin in All the Beauty and the Bloodshed](https://www.lifewire.com/thmb/EOUbnyH6fMTcPByNYULi67q4iZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-april-2023-5025656-0423d721ced3478a9ea75b8fd1d41cc6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 7.5/10
@@ -49,6 +61,12 @@ of 18
 
 ![The Princess on HBO Max](https://www.lifewire.com/thmb/QQQAmXncZ7WU99WjwIUiA5fbNt8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-documentaries-on-hbo-right-now-september-2022-5025656-b1044f41d6ef48ec9d4c12560e2349b0.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 7.3/10
@@ -70,16 +88,10 @@ Max
 of 18
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Rock Hudson: All That Heaven Allowed (2023) - A Tale of Two Lives](https://www.imdb.com/title/tt13514636/) 
 
@@ -105,6 +117,12 @@ Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Moonage Daydream (2022): A Trippy Tribute to David Bowie](https://www.imdb.com/title/tt9883832/) 
 
 ![David Bowie in Moonage Daydream](https://www.lifewire.com/thmb/l7ufwrJ7hlwscxM9W2ihXAM-v_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-june-2023-5025656-66a9e2a5fa4e4952807cb3e8b06650a5.jpg) 
@@ -130,10 +148,10 @@ Max.
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Call Me Miss Cleo (2022): The Psychic Scam of the Century](https://www.imdb.com/title/tt24443706/) 
 
@@ -159,15 +177,27 @@ Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Navalny (2022): A Timely Biography About Anti-Authoritarianism](https://www.imdb.com/title/tt17041964/) 
 
 ![A still from the documentary Navalny.](https://www.lifewire.com/thmb/QIGdo9Sd5jO-5BNRTPOeMRFQ8H0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Navalnydocumentary-5a22fefb19f04647aef62111d247dcf0.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Max
 
@@ -189,6 +219,12 @@ Max
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ BS High (2023): A Fake Football Coach Fools the Nation](https://www.imdb.com/title/tt21929748/) 
 
 ![BS High on HBO](https://www.lifewire.com/thmb/40NWBpRqXUFUVhvAYahTB0F5nYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-max-right-now-september-2023-5025656-da3a04d032c54cb9b52b5f5318e3188a.jpg) 
@@ -215,6 +251,12 @@ of 18
 
 ![The Janes from The Janes documentary.](https://www.lifewire.com/thmb/mhZCLQi6WJ03oceEUob85fPphVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheJanesDocumentary-0b8b9c465d834e4fa0e69fa32c955a13.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 7.6/10
@@ -233,21 +275,15 @@ Max
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Donyale Luna: Supermodel (2023) - The Story of the First Black Model for Vogue](https://www.imdb.com/title/tt21046314/) 
 
 ![Donyale Luna in Supermodel](https://www.lifewire.com/thmb/4C9a2BZgiFCsBsF1sZ5V6B7vihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-max-right-now-october-2023-5025656-a317a13b12bb4a0d827953c217e313da.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 HBO Max
 
@@ -297,6 +333,12 @@ of 18
 
 ![Lizzo in Love, Lizzo (2022)](https://www.lifewire.com/thmb/UAxC_1dpLM9Lf4bEylid6C5auBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-march-2023-5025656-88a6b272e57c44bdb179837b47930fb2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 6.5/10
@@ -317,16 +359,16 @@ Max
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Phoenix Rising (2022): Bravest 'Me Too' Documentary](https://www.imdb.com/title/tt17036612/) 
 
 ![Evan Rachel Wood in Phoenix Rising](https://www.lifewire.com/thmb/CyTT3IikiByhR-lw9BivwZWAh6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-documentaries-on-hbo-right-now-5025656-5dd8ff082bcd4a66ab78a0f3fd326d2d.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 7.2/10
@@ -348,21 +390,15 @@ _Phoenix Rising_ is uncomfortable to watch sometimes, but it's ultimately an ins
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Tony Hawk: Until the Wheels Fall Off (2022): A Tribute to a Sports Legend](https://www.imdb.com/title/tt16118722/) 
 
 ![Tony Hawk in Tony Hawk: Until the Wheels Fall Off ](https://www.lifewire.com/thmb/rcuyxXUwDegZDZnIF29K9Vob08U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-may-2022-5025656-abf70617caf1417085d806c5cca89a43.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 8.0/10
@@ -386,21 +422,15 @@ Max
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Being Mary Tyler Moore (2023): A Tribute to a Trailblazer](https://www.imdb.com/title/tt26084136/) 
 
 ![Mary Tyler Moore in Being Mary Tyler Moore](https://www.lifewire.com/thmb/R3QTQhVqq10jw92Ky9PWBQrDnkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-max-right-now-july-2023-5025656-784abf1e2f1d468a995d99ab2bc18d0c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max. 
 
 **IMDb rating** : 7.5/10
@@ -419,22 +449,10 @@ Max.
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Tina (2021): Simply the Best](https://www.imdb.com/title/tt8399720/) 
 
 ![Tina Turner in the HBO documentary 'Tina'](https://www.lifewire.com/thmb/anRgBfe0Ue_K_ZHKKbIA4bn6XZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tina_HBO-b805b1e4fdbf4981b4a59d346f24fffd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 7.9/10
@@ -453,12 +471,6 @@ Max
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Master of Light (2022): A Portrait of an Artist](https://www.imdb.com/title/tt17660502/) 
 
 ![George Anthony Morton in Master of Light](https://www.lifewire.com/thmb/9LemBivTnbD5CwjKb7cGSYbW6Vw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-december-2022-5025656-a646f00cf2e3475884627682a8633788.jpg) 
@@ -483,16 +495,22 @@ _Master of Light_ is a riveting personal story about redemption, but it also ser
 
 of 18
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Endangered (2022): A Bleak Look at the State of Free Press](https://www.imdb.com/title/tt12502288/) 
 
 ![A journalist takes pictures in a warzone in Endangered](https://www.lifewire.com/thmb/5jBvgA2teierx8KOOzc1536ec-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-august-2022-5025656-a671e8c9f84b442fbcdc918a94caec34.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 6.5/10
@@ -513,16 +531,22 @@ Max
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ My So-Called High School Rank (2022): A Stressful Musical About Stress](https://www.imdb.com/title/tt22260918/) 
 
 ![The cast of My So-Called High School Rank](https://www.lifewire.com/thmb/wJhUB21AiXl9zr5o-w_mYNe6Qko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-january-2023-5025656-77eb12a782e6422ab6ef2ebef52aff4d.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 6.4/10

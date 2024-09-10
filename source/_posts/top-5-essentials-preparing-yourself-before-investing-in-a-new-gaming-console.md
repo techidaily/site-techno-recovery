@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Essentials: Preparing Yourself Before Investing in a New Gaming Console"
-date: 2024-09-04T00:38:07.619Z
-updated: 2024-09-05T00:38:07.619Z
+date: 2024-09-09T09:13:52.479Z
+updated: 2024-09-10T09:13:52.479Z
 categories:
   - BestProducts
 description: "This Article Describes Top 5 Essentials: Preparing Yourself Before Investing in a New Gaming Console"
@@ -9,6 +9,18 @@ excerpt: "This Article Describes Top 5 Essentials: Preparing Yourself Before Inv
 thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87560d1faafe457040c6fd984.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 5 Essentials: Preparing Yourself Before Investing in a New Gaming Console
 
 Close 
@@ -33,12 +45,6 @@ Close
 * Portability
 * Longevity
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Kind of Games Do You Like? 
 
  Knowing what kind of games you like is the most crucial factor in deciding whether a console is right for you. That’s because not all titles are available on all platforms.
@@ -58,10 +64,10 @@ Close
 ![PlayStation 5](https://www.lifewire.com/thmb/J7NkOlbM5Opt4IZ8KvUb_DtOhpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/playstation-5-7c5117a2d13d468c98a0240456afbf8a.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sony
 
@@ -79,6 +85,12 @@ Sony
 
  Only spend as much as you can afford. Also, keep an eye out for regular sales on these consoles to keep costs down.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Portable Do I Need the Console to Be? 
 
  One key distinction between gaming consoles is their portability. Some, like the Xbox Series X/S and PlayStation 5, can only be used when connected to a TV or monitor and connected to a power source.  
@@ -91,14 +103,14 @@ Sony
 
 ![Three people playing Super Mario Kart 8 on a Nintendo Switch and two Nintendo Switch Lite consoles.](https://www.lifewire.com/thmb/SAvfROcpcs51-Re4UoS6aevT0GY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-featured-a85a769096c649239d5a93e0b81ff7f1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Nintendo
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Long Do I Plan On Using the Gaming Console? 
 
  Gaming consoles generally last longer than something like a[ gaming PC](https://www.lifewire.com/what-to-consider-before-buying-a-gaming-pc-5221042) . While a PC can soon feel dated due to aging hardware, you can still play an old game console, which is why retro gaming (playing old consoles) is a popular hobby.   
@@ -107,12 +119,6 @@ Nintendo
 
  Don’t worry too much about longevity. All of these consoles will still work after a new one is released, but you may find fewer patches and updates, as well as fewer new games coming out.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Who Should Buy a Gaming Console? 
 
  A few different groups of people will gain the most fun from buying a gaming console.  
@@ -123,6 +129,18 @@ Nintendo
 * **Experienced gamers** . You may like to mod games on your PC, but sometimes, the couch experience beats all and is very convenient. There are also exclusive games only available on console rather than PC.
 * **Anyone with an aging gaming PC** . If you already own a gaming PC and it’s getting old, it could be cheaper to buy a gaming console than to upgrade your graphics card, memory, and other components. It’s more convenient, too, in some cases.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Should I Do After I Buy a Gaming Console? 
 
  If you’ve just bought a gaming console, you have a few options for what to do next to enrich the experience. Here’s a quick overview of what to do next.   
@@ -134,18 +152,18 @@ Nintendo
 ![The Xbox Series X](https://www.lifewire.com/thmb/TxvLzrRdUZnKpymw5OxobC9Pr1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/XboxSeriesX-8f97d787376340b888ce430f77121ea3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Microsoft
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  More Tips for Buying a Gaming Console 
 
