@@ -1,7 +1,7 @@
 ---
 title: Unexpected Black Screen Blues? Here's How To Get Your Computer Showing Again
-date: 2024-09-09T09:20:49.027Z
-updated: 2024-09-10T09:20:49.027Z
+date: 2024-09-10T16:07:38.029Z
+updated: 2024-09-15T16:02:57.477Z
 categories:
   - BestProducts
 description: This Article Describes Unexpected Black Screen Blues? Here's How To Get Your Computer Showing Again
@@ -9,33 +9,15 @@ excerpt: This Article Describes Unexpected Black Screen Blues? Here's How To Get
 thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f93e0ed73444604354277138.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unexpected Black Screen Blues? Here's How To Get Your Computer Showing Again
  The most common way that a computer "won't turn on" is when the PC actually does power on but doesn't display anything on the monitor. You see lights on the computer case, probably hear fans running from inside, and may even hear sounds, but nothing at all shows up on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why the PC Turns on With No Display
 
  When a computer powers on but shows nothing on the screen, the most likely issue is the monitor. It's either off, disconnected, or broken. However, you should also consider that a peripheral device connected to the PC, or the computer itself, could be to blame. The steps below will help identify the cause.  
 
  If your computer is showing information on the monitor but is still not booting fully, see[How to Fix a Computer That Won't Turn On](https://www.lifewire.com/how-to-fix-a-computer-that-wont-turn-on-2624450) for a better troubleshooting guide. We also have unique solutions for[when a computer turns off right after turning on](https://www.lifewire.com/how-to-fix-a-computer-that-turns-on-and-then-off-2624444) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix a Computer That Turns on but Displays Nothing
 
  Try these common fixes in the order we present them:
@@ -55,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 6. [Reseat](https://www.lifewire.com/what-does-reseat-mean-2625987) everything possible inside your PC. Reseating will reestablish the various connections inside your computer and is very often a "magic" fix to problems like this one.  
 ![PC motherboard](https://www.lifewire.com/thmb/ZZzfc8Lt1xAaaZzhSPLA2gT6XMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/technology-1396677_1280-5c4263c2c9e77c0001be18e4.jpg)  
  skeeze/Pixabay  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Verify that all the cables are connected correctly. For example, if the onboard video card has been disabled, plugging a VGA cable into it will result in nothing on the monitor even if the computer is powered on. In this case, you'd want to plug the VGA cable into the correct video card.  
  Try reseating the following components and then test if your computer displays something on screen:  
    * [Reseat all internal data and power cables](https://www.lifewire.com/how-to-reseat-internal-data-and-power-cables-2624536)  
@@ -121,8 +97,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,46 +106,31 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-into-the-world-of-incredible-ig-filmmaking/"><u>[New] 2024 Approved Step Into the World of Incredible IG Filmmaking</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-excellence-in-tiktok-making-leveraging-templates-to-stand-out/"><u>[New] In 2024, Excellence in TikTok Making Leveraging Templates to Stand Out</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses-for-2024/"><u>[Updated] Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-13-pro-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 13 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-teams-collaboration-with-advanced-slack-techniques/"><u>Boost Your Team's Collaboration with Advanced Slack Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/capturing-your-display-a-users-manual-for-hp-laptop-shots/"><u>Capturing Your Display: A User's Manual for HP Laptop Shots</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/clearing-up-color-anomalies-a-guide-to-restore-your-monitors-true-hue/"><u>Clearing Up Color Anomalies: A Guide To Restore Your Monitor's True Hue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-mini-m4-with-macbook-air-m3-which-is-superior/"><u>Comparing IPad Pro Mini (M4) with MacBook Air (M3): Which Is Superior?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-the-0x800705b4-error-effective-strategies-for-smooth-updates-on-your-windows-10-pc/"><u>Conquering the 0X800705b4 Error: Effective Strategies for Smooth Updates on Your Windows 10 PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-and-correcting-the-n-error-in-your-windows-environment/"><u>Decoding and Correcting the 'N'-Error in Your Windows Environment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-netflix-error-ui-800-3-step-by-step-troubleshooting-tips/"><u>Decoding Netflix Error UI-800-3 - Step by Step Troubleshooting Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-the-elusive-normalizdll-error-on-your-computer/"><u>Diagnosing and Repairing the Elusive Normaliz.dll Error on Your Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722882095240-discover-the-best-apps-for-optimizing-your-daily-commute/"><u>Discover the Best Apps for Optimizing Your Daily Commute!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-free-language-educational-applications-of-2024/"><u>Discover the Leading Free Language Educational Applications of 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-the-ipads-with-internal-navigation-systems-a-comprehensive-guide/"><u>Discovering the iPads with Internal Navigation Systems: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-tricks-for-accessing-and-customizing-your-android-quick-settings-panel/"><u>Essential Tricks for Accessing and Customizing Your Android Quick Settings Panel</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-possibilities-viewing-insta-pics-without-creating-an-account/"><u>Explore the Possibilities: Viewing Insta Pics Without Creating an Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-ins-and-outs-of-atandt-cellular-roaming-agreements/"><u>Exploring the Ins and Outs of AT&T Cellular Roaming Agreements</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620270624-fast-track-your-missing-iphone-clips-back-a-step-by-step-strategy-to-recover-deleted-videos-swiftly/"><u>Fast Track Your Missing iPhone Clips Back: A Step-by-Step Strategy to Recover Deleted Videos Swiftly!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-your-frozen-chromebook-a-guide-to-8-effective-solutions/"><u>Fixing Your Frozen Chromebook: A Guide to 8 Effective Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-register-and-activate-a-playstation-online-presence/"><u>How To Register & Activate a PlayStation Online Presence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-tell-if-your-ipad-comes-with-internal-gps-a-list-of-compatible-models/"><u>How to Tell if Your iPad Comes With Internal GPS: A List of Compatible Models</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-cross-platform-tweeting-twitterfacebook/"><u>Mastering Cross-Platform Tweeting (Twitter/Facebook)</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-your-azeroth-struggles-fixing-issues-with-world-of-warcraft-not-starting/"><u>Overcome Your Azeroth Struggles: Fixing Issues with World of Warcraft Not Starting</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-launchdll-file-not-foundmissing-issues-on-your-pc/"><u>Resolving 'Launch.dll' File Not Found/Missing Issues on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-msvcr80dll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the msvcr80.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-file-sharing-for-mac-users-learn-to-map-a-network-drive-today/"><u>Seamless File Sharing for Mac Users: Learn to Map a Network Drive Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-overcoming-pc-restart-issues-and-errors/"><u>Step-by-Step Solution: Overcoming PC Restart Issues and Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-troubleshooting-eradicating-the-persistent-code-43-blue-screen-of-death/"><u>Step-by-Step Troubleshooting: Eradicating the Persistent Code 43 Blue Screen of Death</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/streamline-your-slide-show-secrets-to-excellent-ppt-recording-for-2024/"><u>Streamline Your Slide Show Secrets to Excellent PPT Recording for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-big-thing-in-apples-lineup-get-insider-info-on-the-rumored-touchscreen-macbook/"><u>The Next Big Thing in Apple's Lineup: Get Insider Info on The Rumored Touchscreen MacBook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-manual-for-conquering-royal-match/"><u>The Ultimate How-To Manual for Conquering Royal Match</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tracing-the-development-of-ios-platform-an-in-depth-look-from-version-10-to-180/"><u>Tracing the Development of iOS Platform: An In-Depth Look From Version 1.0 to 18.0</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722857571020-trouble-with-msvbvm50dll-heres-how-to-correctly-fix-the-not-found-error/"><u>Trouble with MSVBVM50.DLL? Here's How to Correctly Fix the Not Found Error!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-sound-problems-during-powerpoint-slideshow/"><u>Troubleshooting Sound Problems During PowerPoint Slideshow</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tutorial-on-integrating-multiple-jpg-images-into-a-unified-pdf-file/"><u>Tutorial on Integrating Multiple JPG Images Into a Unified PDF File</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-the-best-a-list-of-top-8-no-cost-roku-channels/"><u>Uncover the Best: A List of Top 8 No-Cost Roku Channels</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-twitch-connectivity-problems-service-interruption-vs-personal-access-issues/"><u>Understanding Twitch Connectivity Problems: Service Interruption vs Personal Access Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-computer-components-with-toms-gear-guides/"><u>Unlocking the Potential of Computer Components with Tom's Gear Guides</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-grok-by-elon-musk-demystifying-its-functions-and-determining-your-budget/"><u>Unveiling Grok by Elon Musk – Demystifying Its Functions & Determining Your Budget</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-causes-youtube-malfunction-and-how-can-you-fix-it/"><u>What Causes YouTube Malfunction and How Can You Fix It?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-is-my-ps4-controller-flickering-in-various-colors-a-guide-to-understanding-the-codes/"><u>Why Is My PS4 Controller Flickering in Various Colors? A Guide to Understanding the Codes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rom-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content-for-2024/"><u>[New] From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/everaging-internet-trending-topics-for-video-creation-for-2024/"><u>[New] Leveraging Internet Trending Topics for Video Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-micro-video-moment-a-deep-dive-into-2023-developments/"><u>2024 Approved Facebook's Micro-Video Moment A Deep Dive Into 2023 Developments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficiently-link-to-shared-resources-a-mac-users-guide-to-mapping-drives/"><u>Efficiently Link to Shared Resources: A Mac User's Guide to Mapping Drives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facebook-free-mastering-the-art-of-communicating-through-whatsapp/"><u>Facebook-Free: Mastering the Art of Communicating Through WhatsApp</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fresh-nickelodeon-cartoon-makes-its-grand-entrance-in-america-celebrated-at-kids-choice-honors/"><u>Fresh Nickelodeon Cartoon Makes Its Grand Entrance in America - Celebrated At Kid's Choice Honors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 12 mini Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-to-network-or-not-a-detailed-guide-for-youtubers-considering-mncs/"><u>In 2024, To Network, Or Not A Detailed Guide for YouTubers Considering MNCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-unlock-hacks-how-to-gain-entry-without-a-known-password/"><u>IPad Unlock Hacks: How to Gain Entry without a Known Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-what-to-do-when-you-encounter-a-dark-display-during-facetime-calls/"><u>Solving the Issue: What to Do When You Encounter a Dark Display During FaceTime Calls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-must-see-80s-cinema-classics-watch-them-today/"><u>Top 10 Must-See '80S Cinema Classics - Watch Them Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-cinematic-peeks-album/"><u>Top-Tier Cinematic Peeks Album</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-server-racks-and-cabinets-2024-edition/"><u>Ultimate Guide to the Best Server Racks and Cabinets - 2024 Edition</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

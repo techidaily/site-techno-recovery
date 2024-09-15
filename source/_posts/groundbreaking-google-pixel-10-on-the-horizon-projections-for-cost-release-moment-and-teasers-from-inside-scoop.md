@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking Google Pixel 10 on the Horizon: Projections for Cost, Release Moment and Teasers From Inside Scoop"
-date: 2024-09-09T09:14:11.779Z
-updated: 2024-09-10T09:14:11.779Z
+date: 2024-09-11T16:17:45.885Z
+updated: 2024-09-15T16:10:38.257Z
 categories:
   - BestProducts
 description: "This Article Describes Groundbreaking Google Pixel 10 on the Horizon: Projections for Cost, Release Moment and Teasers From Inside Scoop"
@@ -21,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
  The iPhone 17 is the 2025 model of the iPhone, the successor to the not-yet-released[iPhone 16](https://www.lifewire.com/iphone-16-news-and-rumors-7111749) . It's expected to deliver a major screen upgrade, higher-resolution cameras, faster processors, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## When Will iPhone 17 Be Released?
 
  The iPhone 17 release date has not been announced, but it's likely to be in Fall 2025\. Apple is very consistent with its[iPhone release dates](https://www.lifewire.com/when-does-new-iphone-come-out-1999740) :
@@ -43,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 A September 2025 release date seems like a lock.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPhone 17 Price Rumors
 
  Just like with release dates, Apple is consistent in[the pricing of new iPhones](https://www.lifewire.com/cost-of-iphone-1999299) . While nothing has been confirmed, expect that the iPhone 17 price will be very similar to previous models, if not the exactly same. The launch price of the entry-level model of the last three iPhones was:
@@ -59,18 +47,6 @@ A September 2025 release date seems like a lock.
 
  So, the iPhone 17 price might vary a little, but a starting price around $799 is a safe bet, with the cost going up based on screen size and storage. And of course, the Pro version will be more expensive.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
@@ -98,27 +74,29 @@ A September 2025 release date seems like a lock.
 
  Lastly,[MacRumors shares a Chinese report](https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/) that the iPhone 17 screen will use a new, "super-hard anti-reflective layer" to prevent scratches and screen damage, replacing the current ceramic shield technology.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Face ID
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
 
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Camera
 
@@ -141,11 +119,12 @@ A September 2025 release date seems like a lock.
  While there are no specific rumors about the use of[AI](https://www.lifewire.com/artificial-intelligence-and-science-6386405) in the iPhone 17 yet, it's an absolute certainty that that model, and its version of the iOS, will feature lots of new AI tools. What they are depends on[what features debut with the iPhone 16/iOS 18 in 2024](https://www.lifewire.com/apple-is-using-ai-everywhere-7509132) , and how the rapidly changing AI field evolves, but count on some new artificial intelligence enhancements.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Latest News About iPhone 17
 
  We'll update this page regularly, as more news about the iPhone 17 becomes available. In the meantime, Lifewire has you covered for[smartphone news](https://www.lifewire.com/mobile-phones-4781509) and advice such as helping you decide[Which iPhone Should You Buy?](https://www.lifewire.com/pick-best-iphone-for-you-1999293)
@@ -160,14 +139,11 @@ A September 2025 release date seems like a lock.
 
 [Why a Dedicated iPhone Video Button Is a Great Idea](https://www.lifewire.com/dedicated-iphone-video-button-8546938)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,37 +154,17 @@ A September 2025 release date seems like a lock.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-streamline-your-shooting-canons-time-lapse-techniques/"><u>[New] Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-vs-video-edition-gopro-hero-or-polaroid-cube-for-2024/"><u>[New] Vs. Video Edition GoPro Hero or Polaroid Cube for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-streamlining-tiktok-videos-chromeandroidios-junctions/"><u>[Updated] Streamlining TikTok Videos Chrome/Android/iOS Junctions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-core-elements-of-virtual-tale-transmission/"><u>2024 Approved Core Elements of Virtual Tale Transmission</u></a></li>
-<li><a href="https://video-capture.techidaily.com/apeaksoft-screen-recorder-review/"><u>Apeaksoft Screen Recorder Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-ring-2023-uncovered-specs-release-predictions-and-estimated-pricing-whats-in-store/"><u>Apple Ring 2023 – Uncovered Specs, Release Predictions, and Estimated Pricing: What's in Store?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-newest-wearable-gadget-unlocking-the-secrets-behind-release-date-cost-and-technical-specs-before-launch/"><u>Apple's Newest Wearable Gadget: Unlocking the Secrets Behind Release Date, Cost & Technical Specs Before Launch</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/broadcasting-vimeo-content-efficiently/"><u>Broadcasting Vimeo Content Efficiently</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mp250-driver-download-and-update/"><u>Canon MP250 Driver Download & Update</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategies-to-tackle-and-repair-bsod-glitches-in-your-system/"><u>Comprehensive Strategies to Tackle and Repair BSOD Glitches in Your System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722877530374-creating-personalized-notification-tones-in-gmail-step-by-step/"><u>Creating Personalized Notification Tones in Gmail – Step by Step!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discord-customization-101-adjusting-your-online-avatar/"><u>Discord Customization 101: Adjusting Your Online Avatar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-critical-3-tech-advancvements-dominating-industry-buzz/"><u>Discover the Critical 3 Tech Advancvements Dominating Industry Buzz</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-installation-of-windows-11-a-comprehensive-guide-for-new-drives/"><u>Effortless Installation of Windows 11: A Comprehensive Guide for New Drives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-strategies-correcting-common-error-messages-from-your-wireless-device/"><u>Essential Strategies: Correcting Common Error Messages From Your Wireless Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-ensure-visibility-of-all-user-responses-in-the-youtube-comment-section/"><u>How to Ensure Visibility of All User Responses in the YouTube Comment Section</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-update-failure-error-0x80070490-successfully/"><u>How to Resolve Windows Update Failure (Error 0X80070490) Successfully</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-htc-u23-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for HTC U23 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-poco-m6-pro-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Poco M6 Pro 5G Phone Screen?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-variations-america-vs-britain/"><u>Language Variations: America vs Britain</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/latest-firmware-how-to-perform-an-update-on-samsung-smart-tvs/"><u>Latest Firmware: How to Perform an Update on Samsung Smart TVs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-recovering-lost-settings-from-nvidia-control-center/"><u>Methods for Recovering Lost Settings From NVidia Control Center</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-auditory-alteration-made-easy-two-paths-to-revamping-sound-in-visual-media-for-2024/"><u>New Auditory Alteration Made Easy Two Paths to Revamping Sound in Visual Media for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-addressing-the-coredll-missing-mistake/"><u>Step-by-Step Guide: Addressing the Core.dll Missing Mistake</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-correct-the-lame-mp3-encoder-dll-problem-in-audacity/"><u>Step-by-Step Instructions to Correct the Lame MP3 Encoder DLL Problem in Audacity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-acquiring-e-books-with-the-books-app-for-iphoneipad/"><u>Step-by-Step Tutorial: Acquiring E-Books with the Books App for iPhone/iPad</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-for-xinput1nnot-found-and-missing-dll-issues/"><u>The Ultimate Fixes for 'Xinput1_nnot Found' And 'Missing DLL' Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-ai-enhanced-virtual-crime-sleuthing-interactive-murder-mysteries/"><u>Top 4 AI-Enhanced Virtual Crime Sleuthing: Interactive Murder Mysteries</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-currently-streaming-series-on-discovery-plus-as-of-july-2024/"><u>Top Picks: The Best Currently Streaming Series on Discovery Plus as of July 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tactics-how-to-correctly-address-error-0x80004005/"><u>Troubleshooting Tactics: How to Correctly Address Error 0X80004005</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-for-repairing-errors-with-mingwm10dll-missing-files/"><u>Troubleshooting Tips for Repairing Errors with Mingwm10.dll Missing Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-the-ntldr-is-missing-blue-screen-and-common-ntldr-issues/"><u>Ultimate Guide: Resolving the 'NTLDR Is Missing' Blue Screen & Common NTLDR Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-patch-tuesday-a-detailed-insight/"><u>Understanding Patch Tuesday: A Detailed Insight</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-visibility-on-youtube-the-ultimate-guide-to-featured-channel-placement/"><u>[New] 2024 Approved Crafting Visibility on YouTube The Ultimate Guide to Featured Channel Placement</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-fostering-connection-through-respectful-engagement/"><u>[New] 2024 Approved Fostering Connection Through Respectful Engagement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-choose-a-live-streaming-platform-with-10-tips/"><u>[New] How to Choose a Live Streaming Platform with 10 Tips?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-prime-5-web-based-screening-sessions/"><u>[Updated] 2024 Approved Prime 5 Web-Based Screening Sessions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-art-of-sharing-online-videos-from-youtube-to-facebook/"><u>[Updated] In 2024, The Art of Sharing Online Videos From YouTube to Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-hd-content-transfer-no-loss-h2-cuffing-guide-using-windows-tools/"><u>Accelerate Your HD Content Transfer: No-Loss H.2 Cuffing Guide Using Windows Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-d3dx933dll-could-not-be-loaded-issue-effectively/"><u>How to Resolve d3dx9_33.dll Could Not Be Loaded Issue Effectively</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/perfect-pair-of-5k-monitors-ranked-1-8-for-2024/"><u>Perfect Pair of 5K Monitors, Ranked #1-8 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/saiyan-chronicles-unveiled-how-to-experience-dragons-and-heroes-sequentially-from-start-to-finish/"><u>Saiyan Chronicles Unveiled: How to Experience Dragons and Heroes Sequentially From Start to Finish</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-13-complimentary-hdd-assessment-utilities-july-2024-edition/"><u>Top 13 Complimentary HDD Assessment Utilities - July 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-black-screen-issue-in-valorant-upon-launch/"><u>Troubleshooting Guide: Resolving 'Black Screen' Issue in Valorant Upon Launch</u></a></li>
 </ul></div>
+

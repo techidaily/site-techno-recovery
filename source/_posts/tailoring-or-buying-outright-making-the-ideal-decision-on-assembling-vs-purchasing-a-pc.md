@@ -1,7 +1,7 @@
 ---
 title: Tailoring or Buying Outright - Making the Ideal Decision on Assembling vs Purchasing a PC
-date: 2024-09-09T09:19:57.557Z
-updated: 2024-09-10T09:19:57.557Z
+date: 2024-09-11T16:00:57.707Z
+updated: 2024-09-15T16:04:20.845Z
 categories:
   - BestProducts
 description: This Article Describes Tailoring or Buying Outright - Making the Ideal Decision on Assembling vs Purchasing a PC
@@ -9,27 +9,9 @@ excerpt: This Article Describes Tailoring or Buying Outright - Making the Ideal 
 thumbnail: https://www.lifewire.com/thmb/UHh81IxHv_6MtVPEwj5TvTTKJhM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tailoring or Buying Outright - Making the Ideal Decision on Assembling vs Purchasing a PC
  It's easy enough to pick out a new computer to buy. The other option is to gather[all the necessary components](https://www.lifewire.com/desktop-pc-parts-checklist-832694) and build the PC yourself. We looked at the pros and cons of both to help you decide whether to build a computer or buy one off the shelf.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overall Findings
 
  Buying a PC
@@ -53,18 +35,6 @@ thumbnail: https://www.lifewire.com/thmb/UHh81IxHv_6MtVPEwj5TvTTKJhM=/400x300/fi
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -90,12 +60,6 @@ thumbnail: https://www.lifewire.com/thmb/UHh81IxHv_6MtVPEwj5TvTTKJhM=/400x300/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -119,6 +83,13 @@ thumbnail: https://www.lifewire.com/thmb/UHh81IxHv_6MtVPEwj5TvTTKJhM=/400x300/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -132,11 +103,18 @@ thumbnail: https://www.lifewire.com/thmb/UHh81IxHv_6MtVPEwj5TvTTKJhM=/400x300/fi
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -147,12 +125,6 @@ thumbnail: https://www.lifewire.com/thmb/UHh81IxHv_6MtVPEwj5TvTTKJhM=/400x300/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
@@ -160,6 +132,13 @@ thumbnail: https://www.lifewire.com/thmb/UHh81IxHv_6MtVPEwj5TvTTKJhM=/400x300/fi
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 Lifewire / Julie Bang
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Build a Computer
 
@@ -195,8 +174,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,42 +183,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-ultimate-guide-to-effective-video-marketing-tools-8/"><u>[New] 2024 Approved Ultimate Guide to Effective Video Marketing Tools (8)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-rev-up-your-earnings-a-deep-dive-into-vimeo-profits/"><u>[New] Rev Up Your Earnings A Deep Dive Into Vimeo Profits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-podcast-style-unboxing/"><u>[New] The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-achieving-high-quality-vocal-recordings/"><u>[Updated] 2024 Approved The Ultimate Checklist for Achieving High-Quality Vocal Recordings</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-manual-activating-your-new-meta-oculus-quest-or-quest-2-gear/"><u>Beginner's Manual: Activating Your New Meta (Oculus) Quest or Quest 2 Gear</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/benq-bl2711u-revealed-embracing-the-future-of-4k-technology-for-2024/"><u>BenQ BL2711U Revealed Embracing the Future of 4K Technology for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-artificial-intelligence-prompt-design-programs-top-5-picks/"><u>Best Artificial Intelligence Prompt Design Programs: Top 5 Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-free-typing-classes-12-selections-ideal-for-all-age-groups/"><u>Best Free Typing Classes: 12 Selections Ideal for All Age Groups</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-walkthrough-to-get-the-fandango-movie-browser-on-fire-stick-at-home/"><u>Complete Walkthrough to Get the Fandango Movie Browser on Fire Stick at Home</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-uninterruptible-power-supply-ups-units-for-optimal-performance/"><u>Discover the Leading Uninterruptible Power Supply (UPS) Units for Optimal Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fix-your-game-crashes-solutions-to-the-physxloaderdll-error-not-detected/"><u>Fix Your Game Crashes: Solutions to the PhysXLoader.dll Error Not Detected</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-permanently-deactivate-facebook-on-android-phones-and-tablets/"><u>How to Permanently Deactivate Facebook on Android Phones & Tablets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-repair-unresponsive-tracking-on-the-magic-mouse-with-minimal-hassle/"><u>How to Repair Unresponsive Tracking on the Magic Mouse with Minimal Hassle</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-infinite-professional-slideshow-resource-for-businesses/"><u>In 2024, Infinite Professional Slideshow Resource for Businesses</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-depth-gpodcs-best-channels-guide/"><u>In-Depth GPodC's Best Channels Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-battery-replacement-a-comprehensive-how-to-guide/"><u>IPhone Battery Replacement: A Comprehensive How-To Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-amazon-prime-day-2024-proven-strategies-for-snagging-the-best-deals/"><u>Mastering Amazon Prime Day 2024: Proven Strategies for Snagging the Best Deals</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-embedding-source-code-in-your-word-documents/"><u>Mastering the Art of Embedding Source Code in Your Word Documents</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-web-archiving-a-step-by-step-guide-to-the-wayback-machine/"><u>Mastering Web Archiving: A Step-by-Step Guide to the Wayback Machine</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-zoom-incorporating-video-effects-step-by-step/"><u>Mastering Zoom Incorporating Video Effects Step by Step</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/reparieren-und-speichern-von-kratzmarkierter-dvd-mit-windows-toolset-dvd-save-and-fix/"><u>Reparieren Und Speichern Von Kratzmarkierter DVD Mit Windows-Toolset - DVD Save & Fix</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-d3dx92edll-file-not-found-issue/"><u>Resolving the d3dx9_2e.dll File Not Found Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-steps-to-recover-a-missing-mss32dll-file/"><u>Resolving the Issue: Steps to Recover a Missing mss32.dll File</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/safeguard-data-transfer-overcoming-ssl-certificate-issues-and-hidden-errors/"><u>Safeguard Data Transfer: Overcoming SSL Certificate Issues and Hidden Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-d3dx9-33dll-missing-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting 'D3dx9_ 33.dll' Missing Errors on Your PC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ssential-checklist-to-amplify-video-income-on-youtube-for-2024/"><u>The Essential Checklist to Amplify Video Income on YouTube for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-of-transportation-exploring-teslas-self-driving-robotaxi-pricing-launch-forecast-and-specs-uncovered/"><u>The Future of Transportation: Exploring Tesla's Self-Driving Robotaxi - Pricing, Launch Forecast & Specs Uncovered</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-key-instagram-tags-that-can-elevate-your-social-media-presence/"><u>The Key Instagram Tags That Can Elevate Your Social Media Presence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tips-for-tweaking-taskbar-aesthetics-in-windows-11-operating-system/"><u>Tips for Tweaking Taskbar Aesthetics in Windows 11 Operating System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-correcting-not-found-or-missing-errors-with-gsdll32dll/"><u>Troubleshooting Steps for Correcting 'Not Found' Or 'Missing' Errors with GSDLL32.DLL</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-checklist-preparing-your-room-and-pc-for-oculus-rift/"><u>Ultimate Checklist Preparing Your Room and PC for Oculus Rift</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-youtubes-earnings-for-1m-views/"><u>Unveiling YouTube's Earnings for 1M Views</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-11-compatible-freshly-updated-nvidia-quadro-driver-downloads-with-directx-container-integration/"><u>Windows 11 Compatible: Freshly Updated NVIDIA Quadro Driver Downloads with DirectX Container Integration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cut-costs-and-boost-creativity-8-online-spots-offering-free-eco-backdrops/"><u>[New] 2024 Approved Cut Costs and Boost Creativity 8 Online Spots Offering Free Eco-Backdrops</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-pioneering-publishing-platforms-fb-and-its-video-distribution-insights/"><u>2024 Approved Pioneering Publishing Platforms FB and Its Video Distribution Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridging-platforms-a-step-by-step-tutorial-for-using-android-apps-on-windows-11/"><u>Bridging Platforms: A Step-by-Step Tutorial for Using Android Apps on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-zlibdll-absence-issues-a-step-by-step-guide/"><u>Resolving zlib.dll Absence Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-repairing-wi-fi-issues-on-the-surface-pro/"><u>Step-by-Step Guide: Repairing Wi-Fi Issues on the Surface Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streamline-your-pcs-capabilities-by-upgrading-to-win-11/"><u>Streamline Your PC's Capabilities by Upgrading to Win 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-12-complimentary-cinema-streaming-tools/"><u>The Ultimate Selection: 12 Complimentary Cinema Streaming Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-correcting-ocidll-file-missing-issues-on-your-pc/"><u>Troubleshooting and Correcting oci.dll File Missing Issues on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-common-pc-crashes-in-metro-exodus-gameplay/"><u>Troubleshooting Common PC Crashes in Metro Exodus Gameplay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-how-can-chatbots-mimic-human-dialogue/"><u>Unveiling the Secrets: How Can Chatbots Mimic Human Dialogue?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy S24? | Dr.fone</u></a></li>
 </ul></div>
+

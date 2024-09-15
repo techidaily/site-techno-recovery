@@ -1,7 +1,7 @@
 ---
 title: PS4 Controller Light Indicators Explained - Blue, White, Red, and Orange Blinks!
-date: 2024-09-09T09:21:19.483Z
-updated: 2024-09-10T09:21:19.483Z
+date: 2024-09-08T16:10:52.218Z
+updated: 2024-09-15T16:24:28.630Z
 categories:
   - BestProducts
 description: This Article Describes PS4 Controller Light Indicators Explained - Blue, White, Red, and Orange Blinks!
@@ -9,30 +9,12 @@ excerpt: This Article Describes PS4 Controller Light Indicators Explained - Blue
 thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps4-2326616_1280-09912014986f461fbafdce07c1e9fad1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PS4 Controller Light Indicators Explained - Blue, White, Red, and Orange Blinks!
 
 Close 
 
  The LED light on top of a PS4 controller can tell you a lot about its status. Whether it's flashing blue, white, red, or orange, the causes and potential fixes are often the same.  
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Is My PS4 Controller Blinking Blue? 
 
  The LED light on your PS4 controller flashes blue when it's trying to connect with the console. The light should turn solid blue shortly after your press the**PS** button.
@@ -50,18 +32,6 @@ Close
 
 InspiredImages/Pixabay
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Is My PS4 Controller Flashing White? 
 
  If the LED light on your PS4 controller is blinking white, it's due to one of two reasons:
@@ -71,12 +41,6 @@ InspiredImages/Pixabay
 
  If you continue to have trouble with your console, you can try[ resetting your PS4 to factory settings](https://www.lifewire.com/how-to-reset-your-ps4-4173916) , but you will lose any data on your hard drive that's not backed up to the cloud.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Is My PS4 Controller Blinking Red? 
 
  A flashing red light on a PS4 controller usually indicates a hardware issue such as a defective charging port, cable, or battery.
@@ -86,17 +50,12 @@ InspiredImages/Pixabay
  If you're sure the battery or charging port on your controller is defective, you can replace it. This is an advanced fix that requires you to open up your controller, so you might be better off buying a new one. If the controller is still under warranty, you should send it in for repairs.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Why Is My PS4 Controller Flashing Orange? 
 
  A blinking orange light on your PS4 means it is charging in rest mode. Try these fixes:
@@ -107,11 +66,12 @@ InspiredImages/Pixabay
 ![Supply Power to USB Ports in PlayStation 4 settings](https://www.lifewire.com/thmb/LJDfeunJAa8PB2wou89_OvQhlyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_why-is-my-ps4-controller-blinking-blue-white-red-or-orange-6754246-0eef66506e3b4750b67651589c886fb9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To rule out minor technical hiccups, power cycle the PS4, then reset the controller and let it charge for a couple of hours. If the controller loses its charge too quickly, the internal battery is probably defective.
 
  FAQ
@@ -147,8 +107,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,53 +116,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-professionals-playbook-to-profitable-youtube-ventures/"><u>[New] 2024 Approved A Professional's Playbook to Profitable YouTube Ventures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-in-depth-look-at-voice-memo-features-on-your-ios-device/"><u>[New] 2024 Approved In-Depth Look at Voice Memo Features on Your iOS Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-linux-screenshot-solutions-the-ultimate-guide/"><u>[New] 2024 Approved Linux Screenshot Solutions The Ultimate Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-clan-the-challenge-best-games-similar-to-ghost-of-tsushima/"><u>[New] In 2024, Clan the Challenge Best Games Similar to Ghost of Tsushima</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-introduce-dynamic-blurring-to-pics-in-ps/"><u>[New] In 2024, Introduce Dynamic Blurring to Pics in PS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-android-and-ios-timers-for-effortless-wedding-countdown-management/"><u>[New] Top 10 Android and iOS Timers for Effortless Wedding Countdown Management</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ahead-of-the-curve-best-hydro-games-compiled/"><u>[Updated] 2024 Approved Ahead of the Curve Best Hydro Games Compiled</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-good-to-great-transformative-tactics-with-studio/"><u>[Updated] From Good to Great Transformative Tactics with Studio</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-revealing-the-ultimate-collection-of-youtube-beauty-experts/"><u>[Updated] In 2024, Revealing the Ultimate Collection of YouTube Beauty Experts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-optimize-single-browsing-seamless-multiclip-engagement-for-2024/"><u>[Updated] Optimize Single Browsing Seamless Multiclip Engagement for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-journey-through-the-era-of-electric-vehicles/"><u>A Comprehensive Journey Through the Era of Electric Vehicles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/begin-with-confidence-leading-13-free-pdf-editing-solutions-in-july-2024/"><u>Begin with Confidence: Leading 13 Free PDF Editing Solutions in July 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-integration-mastery-in-windows-operating-system/"><u>Bluetooth Integration Mastery in Windows Operating System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-d-link-router-passwords-guide-updated-july-2024/"><u>Comprehensive D-Link Router Passwords Guide Updated July 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-high-end-philips-somneo-alarm-system/"><u>Comprehensive Review of the High-End Philips Somneo Alarm System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/creative-hashtag-insights-unveiling-the-507-best-instagram-lines/"><u>Creative Hashtag Insights: Unveiling the 507 Best Instagram Lines</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/differences-unveiled-a-comprehensive-look-at-ipad-mini-vs-ipad-air/"><u>Differences Unveiled: A Comprehensive Look at iPad Mini vs iPad Air</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-internet-setup-no-cables-no-phone-lines-required/"><u>DIY Internet Setup: No Cables, No Phone Lines Required!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitech-brio-usb-30-webcam-driver-and-software-compatible-with-windows-11-8-and-7/"><u>Download Logitech Brio USB 3.0 Webcam Driver & Software Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-access-to-comprehensive-users-guide-for-each-and-every-iphone-version/"><u>Easy Access to Comprehensive User's Guide for Each and Every iPhone Version</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enablingdisabling-network-discovery-feature-on-windows-10-a-step-by-step-guide/"><u>Enabling/Disabling Network Discovery Feature on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/error-code-0x80004005-explained-simple-solutions-for-a-seamless-experience/"><u>Error Code 0X80004005 Explained: Simple Solutions for a Seamless Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-power-of-windows-11-an-in-depth-look-at-its-battery-report-feature/"><u>Exploring the Power of Windows 11: An In-Depth Look at Its Battery Report Feature</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-targus-docking-station-ready-in-minutes-with-our-simple-driver-downloads/"><u>Get Your Targus Docking Station Ready in Minutes with Our Simple Driver Downloads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/google-maps-mastery-navigating-to-the-closest-electric-vehicle-charge-points/"><u>Google Maps Mastery: Navigating to the Closest Electric Vehicle Charge Points</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-15-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 15 Pro Max</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-15-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 15 Plus Without Previous Owner?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-address-and-resolve-netflix-error-code-nw-1-19/"><u>How to Successfully Address and Resolve Netflix Error Code NW-1-19</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11f-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo Reno 11F 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-use-free-countdown-timer/"><u>How to Use Free Countdown Timer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-10-proplus-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 10 Pro+ 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-vivo-s17-pro-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Vivo S17 Pro to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mac-users-guide-mastering-whatsapp-on-your-apple-device/"><u>Mac Users' Guide: Mastering WhatsApp on Your Apple Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/make-your-wi-fi-visible-again-expert-fixes-for-network-disappearances/"><u>Make Your Wi-Fi Visible Again: Expert Fixes for Network Disappearances</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-fix-solutions-for-when-you-cant-find-physxloaderdll/"><u>Mastering the Fix: Solutions for When You Can't Find PhysXLoader.dll</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/netflix-not-working-on-roku-follow-these-simple-steps-to-get-it-fixed-quickly/"><u>Netflix Not Working on Roku? Follow These Simple Steps to Get It Fixed Quickly!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-connectivity-issues-with-your-apple-watchs-motion-sensor-for-accurate-steps/"><u>Overcoming Connectivity Issues with Your Apple Watch’s Motion Sensor for Accurate Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/savor-the-best-in-affordable-high-end-gadgets-top-recommendations-to-try-now/"><u>Savor the Best in Affordable High-End Gadgets – Top Recommendations to Try Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-echo-dot/"><u>Step-by-Step Guide: Setting Up Your Echo Dot</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-address-security-glitches-in-windows-1011/"><u>Steps to Address Security Glitches in Windows 10/11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-best-amazon-prime-day-deals-on-tech/"><u>The Best Amazon Prime Day Deals on Tech</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-complete-guide-transforming-movie-visuals-using-standardized-luts-from-cg-central/"><u>The Complete Guide Transforming Movie Visuals Using Standardized Luts From CG Central</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-must-watch-lgbtqplus-series-on-netflix-for-july-2024/"><u>The Ultimate List: Must-Watch LGBTQ+ Series on Netflix for July 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tips-for-retrieving-and-reading-your-lost-iphone-messages/"><u>Tips for Retrieving and Reading Your Lost iPhone Messages</u></a></li>
-<li><a href="https://android-frp.techidaily.com/toms-hardware-explained-expert-reviews-and-buying-guides-for-enthusiasts/"><u>Tom's Hardware Explained: Expert Reviews & Buying Guides for Enthusiasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-funny-iphoneipad-scams-for-a-good-laugh-ideas-for-tech-savvy-pranksters/"><u>Top Funny iPhone/iPad Scams for a Good Laugh: Ideas for Tech-Savvy Pranksters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshoot-the-missing-dciman32dll-file-with-these-expert-tips/"><u>Troubleshoot the Missing dciman32.dll File with These Expert Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-the-0x0000007b-blue-screen-of-death-issue/"><u>Ultimate Guide: Resolving the 0X0000007B Blue Screen of Death Issue</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-byb-e430-pivot-armed-led-torchlight-a-detailed-overview-of-high-end-features-and-reliability/"><u>Unveiling the BYB E430 Pivot Armed LED Torchlight: A Detailed Overview of High-End Features & Reliability</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-exploring-advanced-techniques-in-video-thumbnail-creation/"><u>[Updated] Exploring Advanced Techniques in Video Thumbnail Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-must-see-hd-screenshots-for-mac-users-char-limit-156/"><u>2024 Approved Must See HD Screenshots for Mac Users (Char Limit 156)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chatgpt-plus-is-it-valuable-unveiling-5-essential-perks-of-enrolling-today/"><u>ChatGPT Plus: Is It Valuable? Unveiling 5 Essential Perks of Enrolling Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-oled-technology-a-comprehensive-guide-on-its-operating-principles/"><u>Decoding OLED Technology: A Comprehensive Guide on Its Operating Principles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-optimizing-your-tv-setup-for-an-epic-super-bowl-game-day/"><u>Expert Advice on Optimizing Your TV Setup for an Epic Super Bowl Game Day</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/home-theater-receiver-vs-stereo-receiver/"><u>Home Theater Receiver Vs. Stereo Receiver</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-kingdom-the-path-to-youtube-mastery/"><u>In 2024, Crafting Kingdom The Path to YouTube Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-find-your-dream-free-vfx-alternative-top-30-sites-explored-deeply/"><u>In 2024, Find Your Dream Free VFX Alternative - Top 30 Sites Explored Deeply</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/spotlight-on-essential-technology-movements-dominating-tomorrow/"><u>Spotlight on Essential Technology Movements Dominating Tomorrow</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-spark-20-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Spark 20 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-tips-for-selecting-the-perfect-projector-a-comprehensive-guide/"><u>Top Tips for Selecting the Perfect Projector: A Comprehensive Guide</u></a></li>
 </ul></div>
+

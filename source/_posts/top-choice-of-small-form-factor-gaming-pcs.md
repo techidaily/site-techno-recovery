@@ -1,7 +1,7 @@
 ---
 title: Top Choice of Small Form Factor Gaming PCs
-date: 2024-09-09T09:19:45.338Z
-updated: 2024-09-10T09:19:45.338Z
+date: 2024-09-13T16:25:08.976Z
+updated: 2024-09-15T16:04:56.818Z
 categories:
   - BestProducts
 description: This Article Describes Top Choice of Small Form Factor Gaming PCs
@@ -10,12 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 ---
 
 ## Digital Romance Made Simple: Your Go-To Tutorial for Typing Heart Characters
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * Windows: Press**Alt+3** on your keyboard to instantly type a heart symbol (must have Number Pad).
@@ -36,27 +30,9 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -67,29 +43,24 @@ These instructions apply to PCs running Windows 10 and up.
 2. Press**Cmd+Ctrl+Space** on your keyboard at the same time. An emoji keyboard will appear.  
 ![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -110,6 +81,13 @@ These instructions apply to PCs running Windows 10 and up.
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
@@ -150,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,36 +137,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>[New] Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-melodic-marketing-instagram-music-tips/"><u>[New] In 2024, Melodic Marketing Instagram Music Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-notable-creators-superior-insta-highlight-craftsmen/"><u>[New] In 2024, Notable Creators Superior Insta Highlight Craftsmen</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlock-creative-potential-the-ultimate-list-of-10-free-tiktok-edits-on-macos-for-2024/"><u>[New] Unlock Creative Potential The Ultimate List of 10 Free TikTok Edits on MacOS for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-secrets-of-creative-commons-licensing/"><u>[New] Unveiling the Secrets of Creative Commons Licensing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-teleportation-illusions-in-visual-effects-artistry/"><u>[Updated] Teleportation Illusions in Visual Effects Artistry</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-tips-for-dealing-with-errors-binkw32dll-is-missing-fixes/"><u>Comprehensive Tips for Dealing with Errors: Binkw32.Dll Is Missing Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-disney-plus-content-to-your-television-using-chromecast-a-how-to-guide/"><u>Connecting Disney Plus Content to Your Television Using Chromecast - A How-To Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-resolve-the-zlibdll-file-not-found-issue/"><u>Effective Ways to Resolve the 'zlib.dll File Not Found' Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/efficient-strategies-for-tracking-down-people-on-facebook-in-just-a-few-steps/"><u>Efficient Strategies for Tracking Down People on Facebook in Just a Few Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enjoy-tiktoks-big-screen-style-a-complete-tutorial-for-displaying-tiktok-on-your-tv/"><u>Enjoy TikToks Big Screen Style: A Complete Tutorial for Displaying TikTok on Your TV</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-linking-your-psvr-headset-with-your-computer-a-step-by-step-tutorial/"><u>Guide: Linking Your PSVR Headset with Your Computer - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-enable-or-disable-the-on-screen-keyboard-in-windows-11/"><u>How to Enable or Disable the On-Screen Keyboard in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-spark-20c-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Spark 20C Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-asmr-a-harmonious-journey-to-wellbe-point/"><u>In 2024, ASMR A Harmonious Journey to Wellbe Point</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oneplus-11-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your OnePlus 11 5G Device SIM</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/latest-scoop-on-touch-enabled-macbook-prospects-anticipated-cost-and-launch-timeline-unveiled/"><u>Latest Scoop on Touch-Enabled MacBook Prospects: Anticipated Cost & Launch Timeline Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-air-productivity-hack-how-to-efficiently-utilize-split-screen-views/"><u>MacBook Air Productivity Hack: How to Efficiently Utilize Split Screen Views</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-instagram-popularity-tips-to-expand-your-follower-base/"><u>Master the Art of Instagram Popularity: Tips to Expand Your Follower Base</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-residential-ev-power-up-a-comprehensive-resource/"><u>Mastering the Art of Residential EV Power Up: A Comprehensive Resource</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-time-management-discover-the-top-7-shared-calendars-for-families/"><u>Mastering Time Management: Discover the Top 7 Shared Calendars for Families</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/our-5-favorite-free-international-calling-apps/"><u>Our 5 Favorite Free International Calling Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/recovering-vanished-texts-ultimate-methods-for-every-device/"><u>Recovering Vanished Texts: Ultimate Methods for Every Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revoking-sent-messages-learn-how-to-retrieve-sent-emails-in-ms-outlook-easily/"><u>Revoking Sent Messages? Learn How to Retrieve Sent Emails in MS Outlook Easily!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-combining-your-fortnite-profiles-seamlessly/"><u>Step-by-Step Guide: Combining Your Fortnite Profiles Seamlessly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streaming-tips-watching-the-2n4-summer-olympics-from-home-online/"><u>Streaming Tips: Watching the 2N4 Summer Olympics From Home Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-matrix-movie-marathon-watching-them-in-correct-order-explained/"><u>The Ultimate Matrix Movie Marathon – Watching Them in Correct Order Explained!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-nokia-c22-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Nokia C22 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-complimentary-sites-for-mastering-new-languages/"><u>Top 9 Complimentary Sites for Mastering New Languages</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-concept-of-tagging-in-social-media-and-content/"><u>Understanding the Concept of Tagging in Social Media and Content</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/untangling-netflix-issues-effective-ways-to-fix-error-code-ui-800-3/"><u>Untangling Netflix Issues: Effective Ways to Fix Error Code UI-800-3</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/which-smart-home-helper-wins-a-comparison-of-alexa-and-google-assistant/"><u>Which Smart Home Helper Wins?: A Comparison of Alexa and Google Assistant</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-create-captivating-colleagues-on-instagram-in-minutes/"><u>[New] How to Create Captivating Colleagues on Instagram in Minutes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-step-by-step-aspect-ratio-guide-for-youtube-creators/"><u>[Updated] A Step-by-Step Aspect Ratio Guide for YouTube Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chatgpt-plus-is-it-valuable-unveiling-5-essential-perks-of-enrolling-today/"><u>ChatGPT Plus: Is It Valuable? Unveiling 5 Essential Perks of Enrolling Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-canon-mg3600-drivers-for-smooth-printing-experience-download-here/"><u>Get the Latest Canon MG3600 Drivers for Smooth Printing Experience - Download Here!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x9a-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X9a to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-2fa-on-twitch-a-comprehensive-guide-for-safer-streaming/"><u>Mastering 2FA on Twitch - A Comprehensive Guide for Safer Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/professional-video-demos-harnessing-captivates-power/"><u>Professional Video Demos Harnessing Captivate's Power</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-unveiled-2025-the-complete-guide-dates-latest-updates-and-exclusive-leaks/"><u>Samsung Unveiled 2025: The Complete Guide - Dates, Latest Updates & Exclusive Leaks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-best-cable-modems/"><u>Ultimate Guide to Choosing the Best Cable Modems</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-asus-rog-phone-7-ultimate-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Asus ROG Phone 7 Ultimate Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
