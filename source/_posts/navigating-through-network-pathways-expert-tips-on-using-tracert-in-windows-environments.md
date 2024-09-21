@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Network Pathways: Expert Tips on Using Tracert in Windows Environments"
-date: 2024-09-10T16:02:38.937Z
-updated: 2024-09-15T16:14:42.203Z
+date: 2024-09-15T04:18:41.652Z
+updated: 2024-09-20T23:09:19.295Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Through Network Pathways: Expert Tips on Using Tracert in Windows Environments"
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
  Make sure that you have your[Wi-Fi login information](https://www.lifewire.com/how-to-find-wifi-password-windows-mac-4177111) . You will need to re-enter it after the next step.
 6. Finally,[re-add your Wi-Fi connection](https://www.lifewire.com/add-wifi-network-to-any-device-4685456) from the Wi-Fi menu.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reset Mac Network Settings: The Complicated Way
 
  If you’re still experiencing connectivity issues or bugs after trying the above tip, it can be worth giving this second method a go. This process essentially deletes certain system files relating to network settings that will then be restored automatically after restarting your Mac.  
@@ -60,40 +67,28 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 3. With Wi-Fi off, click**Go** .  
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
 5. Type**/Library/Preferences/SystemConfiguration/** into the text field and Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mac Go to Field](https://www.lifewire.com/thmb/oInJvndiGGUBjiVV4dCuYipWrK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/205-reset-network-settings-on-mac-5184072-01298987aa224234b7e9e2f8faa9633d.jpg)
 6. Select the following five files:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **com.apple.airport.preferences.plist**  
    * **com.apple.network.identification.plist** or**com.apple.network.eapolclient/configuration.plist**  
    * **com.apple.wifi.message-tracer.plist**  
@@ -105,16 +100,17 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If prompted to confirm the deletion with a password or an action on your Apple Watch, do so.  
 ![Mac selected files with Move to Trash highlighted](https://www.lifewire.com/thmb/Sn7RQOe_p_Sep46jpbpmtSngU3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/208-reset-network-settings-on-mac-5184072-f136a9e1ab444832a681b2f7bb014497.jpg)
 9. Restart your Mac as usual and turn its Wi-Fi back on. The deleted files should be recreated within their original location, and all your network settings should now be reset.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mac network settings files in folder](https://www.lifewire.com/thmb/TFIJTKhjr13-gJm5a2b7c1Qvs1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/209-reset-network-settings-on-mac-5184072-6ccf3e11aa614ea6b334efc3bb44c1ec.jpg)  
  If everything is working fine, feel free to delete the copies of the files on your desktop.  
 
@@ -161,20 +157,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-deciding-on-the-ultimate-virtual-gaming-platform/"><u>[New] In 2024, Deciding on the Ultimate Virtual Gaming Platform</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-scripted-sentiments-for-show-summation/"><u>[Updated] 2024 Approved Scripted Sentiments for Show Summation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-spotting-social-scene-shifters-videos-shared-across-platforms/"><u>[Updated] 2024 Approved Spotting Social Scene-Shifters Videos Shared Across Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-developing-vegaspro-19/"><u>[Updated] Behind-the-Scenes Developing VegasPro '19</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-pinpointing-youtube-comments/"><u>[Updated] In 2024, Pinpointing YouTube Comments</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-advanced-14-design-techniques-for-text-animation/"><u>2024 Approved Advanced 14 Design Techniques for Text Animation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-sites-for-youtube-content-surge/"><u>2024 Approved Exclusive Sites For YouTube Content Surge</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/customizing-windows-11-taskbar-color-expert-strategies-and-techniques/"><u>Customizing Windows 11 Taskbar Color: Expert Strategies and Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-fixes-a-step-by-step-guide-to-refresh-your-samsung-soundbars-performance/"><u>Easy Fixes: A Step-by-Step Guide to Refresh Your Samsung Soundbar's Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/gamers-dream-the-elite-consoles-dominating-2024/"><u>Gamer's Dream: The Elite Consoles Dominating 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/illuminating-your-face-top-tips-for-effective-selfie-light-techniques/"><u>Illuminating Your Face: Top Tips for Effective Selfie Light Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/minimap-memories-mastering-6-ways-to-record-your-gameplay/"><u>Minimap Memories Mastering 6 Ways to Record Your Gameplay</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-ps-vr-with-a-personal-computer/"><u>Step-by-Step Guide: Setting Up Your PS VR with a Personal Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-of-finding-lost-items-spotlight-on-2e-the-best-sound-wave-trackers-for-keys/"><u>The Future of Finding Lost Items: Spotlight on '2E' – The Best Sound Wave Trackers for Keys</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-big-thing-in-transportation-apple-car-info-update-pricing-estimates-launch-dates-and-technical-specs-revealed/"><u>The Next Big Thing in Transportation - Apple Car Info Update: Pricing Estimates, Launch Dates & Technical Specs Revealed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unraveling-the-best-gaming-experience-in-vr/"><u>[New] In 2024, Unraveling the Best Gaming Experience in VR</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-caption-creation-process-for-compelling-facebook-media-for-2024/"><u>[New] The Ultimate Caption Creation Process for Compelling Facebook Media for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-get-youtube-sponsorship-for-small-channels-easy/"><u>[Updated] How to Get YouTube Sponsorship for Small Channels (Easy)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-rhythmic-raptor-rumba/"><u>2024 Approved Rhythmic Raptor Rumba</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/economical-yet-abundant-dive-into-the-extensive-collection-available-with-roku-express/"><u>Economical Yet Abundant: Dive Into the Extensive Collection Available with Roku Express</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-history-of-netflixs-original-dvd-subscription-service/"><u>Exploring the History of Netflix's Original DVD Subscription Service</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-connect-a-bluetooth-speaker-to-a-computer/"><u>How to Connect a Bluetooth Speaker to a Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-secure-the-latest-driver-update-for-your-epson-xp-420-a-complete-guide/"><u>How To Secure The Latest Driver Update For Your Epson XP 420 – A Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-conversation-a-guide-to-chatting-with-mozilla-thunderbird/"><u>Mastering Conversation: A Guide to Chatting with Mozilla Thunderbird</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-have-samsung-smart-tv-apps-the-ultimate-list-for-202n4/"><u>Must-Have Samsung Smart TV Apps: The Ultimate List for 202N4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-and-hassle-free-wacom-driver-installation/"><u>Speedy and Hassle-Free Wacom Driver Installation</u></a></li>
 </ul></div>
 

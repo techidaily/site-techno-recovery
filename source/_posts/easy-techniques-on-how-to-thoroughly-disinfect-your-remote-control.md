@@ -1,0 +1,133 @@
+---
+title: Easy Techniques on How to Thoroughly Disinfect Your Remote Control
+date: 2024-09-18T22:10:40.893Z
+updated: 2024-09-20T21:58:18.164Z
+categories:
+  - BestProducts
+description: This Article Describes Easy Techniques on How to Thoroughly Disinfect Your Remote Control
+excerpt: This Article Describes Easy Techniques on How to Thoroughly Disinfect Your Remote Control
+thumbnail: https://www.lifewire.com/thmb/T4_Gk-XDuy2_eUGJuYZGuUznVX0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-97096677-56e308935f9b5854a9f8c07e.jpg
+---
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Learn How to Stream ESPN+ Seamlessly Through Your LG Smart TV – The Easy Way
+### What to Know
+
+* There's no ESPN+ app for LG TVs, so you'll need to use a streaming box or hook your computer up to the TV.
+* Apple TV, Amazon Fire Stick, Xfinity Flex, and Roku all support ESPN+.
+* Game consoles like the PlayStation 5 and Xbox Series X can stream ESPN+ on your TV.
+
+ This article explains how to get ESPN Plus on LG smart TVs. The instructions apply to all LG models.
+
+## How Do I Get ESPN+ on an LG Smart TV?
+
+ There's no ESPN+ app for LG Smart TVs, so you must connect another device capable of streaming ESPN Plus.
+
+ For example, you can[hook up your computer to your TV with an HDMI cable](https://www.lifewire.com/connect-laptop-to-tv-via-hdmi-5081384) and stream ESPN+ in a web browser. Alternatively, you can cast directly from the Chrome web browser or the ESPN+ mobile app for iOS and Android.
+
+ Another option is to connect a streaming device that supports Hulu such as a Roku, Amazon Fire Stick, Apple TV, or Xfinity Flex. PlayStation and Xbox consoles also support the Hulu app, so you can also stream Hulu on your connected game system.
+
+## Connect a Computer to Your LG TV
+
+ Plug your computer directly into a video input port on your LG TV to use the screen as a monitor. You can then stream ESPN+ in a web browser and watch on your TV.
+
+ You'll need a converter if your computer only has a DVI or VGA port and your TV only accepts HDMI cables. If you're not using an HDMI cable, you'll require an adapter (such as a 3.5mm-to-RCA cable) that plugs into your speaker port and splits it into the audio component cable.
+
+## Cast ESPN+ From the Google Chrome Browser
+
+ First,[connect your TV to the same Wi-Fi network](https://www.lifewire.com/connect-smart-tv-to-wifi-4587350) as your computer. Go to the ESPN+ website, start playing content, then select the**Cast** icon in the upper-right of the video player and choose your LG TV.
+
+ If your TV doesn't have built-in Wi-Fi, you can[add Wi-Fi to your TV](https://www.lifewire.com/internet-enable-your-tv-3276356) with an internet-enabled Blu-ray player or video game console.  
+
+## Cast ESPN+ to a TV From the Mobile App
+
+ Ensure your mobile device and LG TV are connected to your home Wi-Fi network. Start playing content in the app, select the**Cast** icon in the upper-right of the video player, then choose your LG TV.
+
+## Watch ESPN Plus With a Streaming Device
+
+ Even if your TV is already smart, you can connect other streaming devices or set-top boxes by plugging them into the HDMI port on your LG TV. Download the ESPN+ app for your Roku, Apple TV, Xfinity, or Amazon Fire TV streaming device to start watching on your TV. Depending on your device, you may be prompted to connect your ESPN+ account to your TV with an activation code.
+
+![The LG logo on a black background next to the ESPN+ logo on a white background with a torn-paper effect between them](https://www.lifewire.com/thmb/H8yCqpLCbXU4xF2tZcRN0Yqu5XU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-ESPN-Plus2-5a613f28564249e38ef803888f21e257.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Watch ESPN+ on a Gaming Console
+
+ ESPN+ has apps for the current and previous generations of PlayStation and Xbox video game consoles. You can watch ESPN+ on PS4, PS5, Xbox One, Xbox Series X, or Xbox Series S systems.
+
+ Download the ESPN+ app from your console's game/app store, then log in to your ESPN Plus account to start streaming.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Sign Up for ESPN Plus on an LG Smart TV
+
+ Since there's no ESPN+ app, you cannot directly sign up for ESPN+ on your LG TV. You'll have to use another device to set up your account.
+
+ If you go to the[ESPN Plus website](https://plus.espn.com/) to sign up, you can bundle Disney Plus and Hulu at a discount. You can also subscribe to ESPN+ through your Google, Amazon, or Apple account. Some cable and mobile providers offer free subscriptions to ESPN+ with their plans.  
+
+ If you decide to[cancel ESPN Plus](https://www.lifewire.com/how-to-cancel-espn-plus-4767246) , you must use the same method you originally used to subscribe. For example, if you signed up for ESPN+ through your Google account, you must unsubscribe through the Google Play Store. If you bundle EPSN+ with Hulu and Disney Plus and are billed through Hulu, you must[cancel your Hulu subscription](https://www.lifewire.com/how-to-cancel-hulu-subscription-4173750) to cancel EPSN Plus.
+
+ Use the same login credentials for all three streaming platforms if you have the ESPN+, Hulu, and Disney Plus bundle.  
+
+ FAQ
+
+* Does LG have an app store?  
+ Yes,[LG has an app store](https://us.lgappstv.com/main/tvapp) with all kinds of apps for your LG TV. Unfortunately, there is still no ESPN app available.
+* Can I use the Disney+app to watch ESPN?  
+ While it's true the Disney and Hulu apps are going to combine into one app, ESPN has not made any announcements it would roll its content into the Disney app. Because sports is so different than TV and movies, we are pretty confident the ESPN content will remain in its own distinct silo.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-boost-engagement-with-these-5-caption-tricks-on-tiktok-videos/"><u>[New] 2024 Approved Boost Engagement with These 5 Caption Tricks on TikTok Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers/"><u>[New] Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-zoom-performance-on-chrome-devices/"><u>2024 Approved Boosting Zoom Performance on Chrome Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-setup-process-for-newcomers-initiating-your-journey-with-an-oculus-questquest-2-profile/"><u>Easy Setup Process for Newcomers: Initiating Your Journey with an Oculus Quest/Quest 2 Profile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficient-solutions-for-overcoming-oleaut32dll-file-absence-in-windows-systems/"><u>Efficient Solutions for Overcoming oleaut32.dll File Absence in Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-to-setting-up-your-home-sound-system-for-novices/"><u>Essential Steps to Setting Up Your Home Sound System - For Novices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-potions-a-detailed-tutorial-on-creating-awkward-effects-in-minecraft/"><u>Mastering Potions: A Detailed Tutorial on Creating Awkward Effects in Minecraft</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-htc-u23-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your HTC U23 Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unboxing-logitechs-ultimate-4k-webcam/"><u>Unboxing Logitech's Ultimate 4K Webcam</u></a></li>
+</ul></div>
+

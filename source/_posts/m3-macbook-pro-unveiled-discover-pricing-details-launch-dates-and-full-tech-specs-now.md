@@ -1,0 +1,117 @@
+---
+title: "M3 MacBook Pro Unveiled: Discover Pricing Details, Launch Dates & Full Tech Specs Now!"
+date: 2024-09-20T00:08:35.315Z
+updated: 2024-09-20T16:45:47.000Z
+categories:
+  - BestProducts
+description: "This Article Describes M3 MacBook Pro Unveiled: Discover Pricing Details, Launch Dates & Full Tech Specs Now!"
+excerpt: "This Article Describes M3 MacBook Pro Unveiled: Discover Pricing Details, Launch Dates & Full Tech Specs Now!"
+thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d9a8038ff04440aee38e00e3.jpg
+---
+
+## M3 MacBook Pro Unveiled: Discover Pricing Details, Launch Dates & Full Tech Specs Now
+
+ In This Article
+
+* [Release Date Rumors](https://www.lifewire.com/#toc-m3-macbook-pro-release-date)
+* [Price Rumors](https://www.lifewire.com/#toc-m3-macbook-pro-prices)
+* [Order Information](https://www.lifewire.com/#toc-order-information)
+* [Features and Specs](https://www.lifewire.com/#toc-m3-macbook-pro-features-and-specs)
+* [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-m3-macbook-pro)
+
+ The rumor mill missed the mark on the latest MacBooks Pro. Here's what they are and how you can get them.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## M3 MacBook Pro Release Date
+
+ The MacBook Pro with M3, M3 Pro, and M3 Max were announced on October 30, 2023\. The M3 and M3 Pro models were made available to order on October 30, 2023 with a release date of November 7, while the M3 Max was scheduled to be available in November 2023.
+
+## M3 MacBook Pro Prices
+
+ The 14" M3 MacBook Pro starts at $1599 (a $400 price cut), and the 16" MacBook Pro starts at $2499\. The price goes up depending on which version of M3 you use, along with storage and RAM options, each of which will add at least $200 to the price.
+
+## Order Information
+
+ Only 2 of the 3 models were made available to order on October 30\. The M3 Max shipped in late November. You can[order directly from Apple](https://www.apple.com/shop/buy-mac/macbook-pro) .
+
+## M3 MacBook Pro Features and Specs
+
+ There are three levels of MacBook Pro systems in two sizes: 14- and 16-inch. There are three processors available (although the 16" only offers the two higher-end systems): M3, M3 Pro, and M3 Max.
+
+| Chip   | CPU cores | GPU cores |
+| ------ | --------- | --------- |
+| M3     | 8         | 10        |
+| M3 Pro | 11 to 16  | 14 to 18  |
+| M3 Max | 14 to 16  | 30 to 40  |
+
+ The 14-inch MacBook Pro starts at 8GB RAM (up to 24 GB), while the 16-inch MacBook Pro with M3 Max can go all the way up to 128GB of RAM.
+
+ Storage options range from a 512GB SSD to a massive 8TB one, though the higher options are only available on M3 Max models.
+
+ Apple also showed off a new color for MacBooks: Space Black. This option isn't nearly as colorful or exciting as the options for iMacs, but it is new. It's also only available for the M3 Pro and M3 Max models.
+
+![M3 MacBook Pro specs](https://www.lifewire.com/thmb/ugCpmMlO_coX0GaCQwwxNbKik5Q=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/M3-MacBook-Pro-specs-accad0f2631e470ca8738e9163ec1989.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Apple Inc
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The Latest News About the M3 MacBook Pro
+
+ You can find[more computer and laptop news here at Lifewire](https://www.lifewire.com/computer-laptop-tablet-news-4797030) . Here are some stories about the upcoming MacBook Pro.
+
+[Touchscreen MacBook: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/touchscreen-macbook-8640916)
+
+[M4 MacBook Pro: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/m4-macbook-pro-8640915)
+
+[Apple Reveals Amazing Scary Fast M3 Chip for MacBook Pro and iMac](https://www.lifewire.com/apple-m3-macbook-pro-imac-8384780)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[New] 2024 Approved How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-your-instagrams-virtual-meet-up-potential/"><u>[Updated] In 2024, Unlocking Your Instagram's Virtual Meet-Up Potential</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cutting-the-cord-a-guide-to-offline-internet-options-and-alternatives/"><u>Cutting the Cord: A Guide to Offline Internet Options and Alternatives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/does-the-iphone-13-offer-protection-against-accidental-dunking/"><u>Does the iPhone 13 Offer Protection Against Accidental Dunking?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 11 Pro Max Activation Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inspire-your-physical-endeavors-the-most-motivating-track-list-for-gym-goers/"><u>In 2024, Inspire Your Physical Endeavors The Most Motivating Track List for Gym Goers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-system-checks-fixes-for-initial-power-on-self-test-problems/"><u>Navigating Through System Checks: Fixes for Initial Power On Self Test Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-inbox-the-ultimate-how-to-for-turning-on-google-mail-2fa/"><u>Protecting Your Inbox: The Ultimate How-To for Turning On Google Mail 2FA</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-digital-life-with-these-amoulti-faceted-free-backup-programs-evaluated-for-you/"><u>Secure Your Digital Life with These Amo(u)lti-Faceted Free Backup Programs, Evaluated for You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/silencing-telemarketers-tips-to-halt-unwanted-texts-on-ios-devices/"><u>Silencing Telemarketers: Tips to Halt Unwanted Texts on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-updating-your-chromecast-device/"><u>Step-by-Step Guide: Updating Your Chromecast Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-4-big-no-nos-when-creating-content-with-chatgpt/"><u>The 4 Big No-Nos When Creating Content with ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722880912678-upcoming-touchscreen-macbook-revealed-learn-about-the-projected-costs-and-launch-timeline/"><u>Upcoming Touchscreen MacBook Revealed - Learn About the Projected Costs & Launch Timeline!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+</ul></div>
+

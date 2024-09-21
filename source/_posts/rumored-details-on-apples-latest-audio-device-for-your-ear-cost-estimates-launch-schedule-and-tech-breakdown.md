@@ -1,7 +1,7 @@
 ---
 title: "Rumored Details on Apple’s Latest Audio Device for Your Ear: Cost Estimates, Launch Schedule & Tech Breakdown"
-date: 2024-09-13T16:02:09.815Z
-updated: 2024-09-15T16:09:37.501Z
+date: 2024-09-14T01:53:16.292Z
+updated: 2024-09-20T20:12:42.796Z
 categories:
   - BestProducts
 description: "This Article Describes Rumored Details on Apple’s Latest Audio Device for Your Ear: Cost Estimates, Launch Schedule & Tech Breakdown"
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple, Inc / USPTO
 
  It's not hard to imagine that this device could be a next-generation AirPods product. It also brings to mind wearable computers like the[Humane AI pin](https://www.theverge.com/24126502/humane-ai-pin-review) . While that particular product hasn't succeeded, the concept of a wearable device with a next-generation interface could likely crop up more in the coming years.
@@ -66,6 +59,13 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -74,18 +74,18 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -112,21 +112,16 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/reative-freedom-on-a-budget-essential-green-screen-effects-from-top-4-tutorial-sources/"><u>[New] Creative Freedom on a Budget Essential Green Screen Effects From Top 4 Tutorial Sources</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quality-control-vll-approach-to-apps/"><u>[New] Quality Control VLL Approach to Apps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-echovideo-capture-toolkit-for-fb/"><u>[Updated] 2024 Approved EchoVideo Capture Toolkit for FB</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-make-money-from-youtube-shorts-requirements-and-earning-potential/"><u>[Updated] 2024 Approved How to Make Money From YouTube Shorts Requirements and Earning Potential</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-troubleshooting-missing-pdhdll-files/"><u>Effective Strategies for Troubleshooting Missing pdh.dll Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-new-horizons-of-ipados-18-no-cost-entry-enhanced-features-and-recent-announcements-revealed/"><u>Explore the New Horizons of iPadOS 18: No Cost Entry, Enhanced Features & Recent Announcements Revealed!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-line-creation-in-word-a-comprehensive-tutorial/"><u>Mastering Line Creation in Word: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/maximize-your-mobile-experience-with-these-7-blockers/"><u>Maximize Your Mobile Experience with These 7 Blockers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/navigating-through-channels-aesthetics-with-these-tools/"><u>Navigating Through Channels' Aesthetics with These Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tailoring-the-finder-experience-adjusting-display-settings-for-mac-users/"><u>Tailoring the Finder Experience: Adjusting Display Settings for Mac Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-basics-of-ray-tracing-explained-simply/"><u>The Basics of Ray Tracing Explained Simply</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-fundamentals-of-synchronizing-audio-and-video-in-screencasts/"><u>The Fundamentals of Synchronizing Audio and Video in Screencasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-your-watching-experience-adding-captions-to-windows-media-player/"><u>Transform Your Watching Experience Adding Captions to Windows Media Player</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-news-aggregation-platforms-of-202nce/"><u>Unveiling the Top News Aggregation Platforms of 202Nce</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zoom-woes-is-it-a-problem-with-your-device-or-connection/"><u>Zoom Woes: Is It a Problem with Your Device or Connection?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-cost-effective-4k-photography-gear/"><u>[New] 2024 Approved Cost-Effective 4K Photography Gear</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-ps2-gameplay-on-ios-devices/"><u>[New] Elevate PS2 Gameplay on iOS Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-no-lag-top-8-screen-grab-essentials/"><u>[New] In 2024, No Lag Top 8 Screen Grab Essentials</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-viral-hit-list-tiktok-edition/"><u>[New] Twitter's Viral Hit List TikTok Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-optimizing-content-sharing-from-twitters-to-snaps/"><u>2024 Approved Optimizing Content Sharing From Twitters to Snaps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/digital-titans-unveiling-the-top-10-sites-dominating-global-traffic/"><u>Digital Titans: Unveiling the Top 10 Sites Dominating Global Traffic</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-ipad-at-these-amazing-deals-and-savings/"><u>Find Your Perfect iPad at These Amazing Deals and Savings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-how-to-address-and-rectify-d3d9dll-is-missing-issues/"><u>Guide: How To Address and Rectify d3d9.dll Is Missing Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-strategies-for-dealing-with-avcodecdll-file-missing-or-corruption-problems/"><u>The Ultimate Fix: Strategies for Dealing with avcodec.dll File Missing or Corruption Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722883200754-watch-these-11-movies-to-ignite-your-passion-and-find-inner-strength/"><u>Watch These 11 Movies to Ignite Your Passion and Find Inner Strength.</u></a></li>
 </ul></div>
 

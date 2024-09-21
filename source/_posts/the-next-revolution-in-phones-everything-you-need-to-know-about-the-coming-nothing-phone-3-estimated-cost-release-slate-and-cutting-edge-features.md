@@ -1,7 +1,7 @@
 ---
 title: The Next Revolution in Phones? Everything You Need to Know About the Coming Nothing Phone 3 - Estimated Cost, Release Slate & Cutting-Edge Features
-date: 2024-09-09T16:01:20.168Z
-updated: 2024-09-15T16:09:24.773Z
+date: 2024-09-15T17:56:24.419Z
+updated: 2024-09-21T02:44:51.066Z
 categories:
   - BestProducts
 description: This Article Describes The Next Revolution in Phones? Everything You Need to Know About the Coming Nothing Phone 3 - Estimated Cost, Release Slate & Cutting-Edge Features
@@ -54,20 +54,27 @@ Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A Newer Chip (but Just How New)?
 
@@ -81,28 +88,29 @@ Lifewire / Rob LeFebvre
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Signature Glyph, Improved
 
  While the overall look is likely going to remain untouched, If we had to put our money on one sure thing for the Phone 3, we’d say the signature Nothing Phone Glyph interface will see improvements akin to what we’ve seen from the Phone 1 to Phone 2\. The Phone 2 added six more LED panels, customizable notifications, and a composer for arranging ringtones.  
 
 ![A render of the Nothing Phone 1 in black against a grey background. The rear Glyph lights are on and the home screen shows off the new features of Nothing OS 2.0. ](https://www.lifewire.com/thmb/RSttfod0lFQvSSIOh_trYZHRJnA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Nothing OS 2.0.
 
@@ -114,13 +122,6 @@ Nothing
 
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Integrated AI
 
  Pei also released a video on X announcing the company's AI prototyping. Pei alluded to a[heavy AI presence on the Nothing Phone 3](https://www.lifewire.com/carl-pei-nothing-ai-phone-3-8658876) .
@@ -128,13 +129,6 @@ Nothing
  The only timing clue Pei offered was a "next year" tag for the slow rollout of AI, starting with the Nothing Phone 3.  
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Nothing Phone 3
 
@@ -163,19 +157,21 @@ Nothing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-the-perfect-aesthetic-with-controlled-lighting/"><u>[New] 2024 Approved Crafting the Perfect Aesthetic with Controlled Lighting</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-stepwise-guide-integrating-subtitles-into-your-vimeo-content/"><u>[New] 2024 Approved Stepwise Guide Integrating Subtitles Into Your Vimeo Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-wit-wave-twitters-funniest-content/"><u>[New] 2024 Approved Wit Wave Twitter's Funniest Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigate-with-ease-mastering-ifunnys-meme-app/"><u>[Updated] 2024 Approved Navigate with Ease Mastering iFunny's Meme App</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-lava-agni-2-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Lava Agni 2 5G.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-address-audacitys-lameencdll-malfunctioning/"><u>Effective Strategies to Address Audacity's lame_enc.dll Malfunctioning</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-a18-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo A18 Phone Now with These Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ps4-controller-light-indicators-explained-blue-white-red-and-orange-blinks/"><u>PS4 Controller Light Indicators Explained - Blue, White, Red, and Orange Blinks!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-subtitles-to-your-instagram-story-videos/"><u>Step-by-Step Guide: Adding Subtitles to Your Instagram Story Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-users-handbook-deactivating-and-deleting-a-tiktok-account/"><u>The User's Handbook: Deactivating and Deleting a TikTok Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-streaming-services-without-cost-discover-your-new-favorites/"><u>Top 10 Streaming Services Without Cost: Discover Your New Favorites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-water-resistant-cellphone-covers/"><u>Top Rated Water-Resistant Cellphone Covers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-rdp-connectivity-woes/"><u>Understanding and Resolving RDP Connectivity Woes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-tutorial-capturing-snapchat-moments-for-2024/"><u>[New] Step-by-Step Tutorial Capturing Snapchat Moments for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-cutting-the-chaff-skilled-techniques-for-cropping-videos-for-instagram-for-2024/"><u>[Updated] Cutting the Chaff Skilled Techniques for Cropping Videos for Instagram for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-investigating-instagrams-videography-cap/"><u>[Updated] Investigating Instagram's Videography Cap</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/battlenet-server-issues-are-other-players-experiencing-them-too/"><u>Battle.net Server Issues: Are Other Players Experiencing Them Too?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-continuity-of-gpt-powered-dialogues/"><u>Ensuring Continuity of GPT-Powered Dialogues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-aspects-to-think-about-prior-to-purchasing-a-video-camera-system/"><u>Essential Aspects to Think About Prior to Purchasing a Video Camera System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-idea-to-book-a-guide-to-chatgpt-and-poetic-creation/"><u>From Idea to Book: A Guide to ChatGPT and Poetic Creation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722866757170-get-the-most-out-of-your-amd-radeon-update-to-driver-version-2410-today/"><u>Get The Most Out Of Your AMD Radeon: Update To Driver Version 24.10 Today!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-connecting-twitter-videos-with-facebook-friends/"><u>In 2024, Connecting Twitter Videos with Facebook Friends</u></a></li>
+<li><a href="https://win-online.techidaily.com/quick-and-simple-guide-to-convert-your-flv-videos-to-mp4-for-free-using-movavis-web-tool/"><u>Quick & Simple Guide to Convert Your FLV Videos to MP4 for Free Using Movavi's Web Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rumored-details-on-apples-latest-audio-device-for-your-ear-cost-estimates-launch-schedule-and-tech-breakdown/"><u>Rumored Details on Apple’s Latest Audio Device for Your Ear: Cost Estimates, Launch Schedule & Tech Breakdown</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-logitech-mx-master-mouse-drivers/"><u>Step-by-Step Guide: Installing Logitech MX Master Mouse Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722903355030-the-complete-overview-of-biometrics-explained/"><u>The Complete Overview of Biometrics Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/twitter-success-formula-proven-techniques-to-expand-your-digital-community/"><u>Twitter Success Formula: Proven Techniques to Expand Your Digital Community</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-display-showcasing-your-laptops-screen-on-tv-using-hdmi-connection/"><u>Wireless Display: Showcasing Your Laptop's Screen on TV Using HDMI Connection</u></a></li>
 </ul></div>
 

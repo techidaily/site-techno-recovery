@@ -1,7 +1,7 @@
 ---
 title: "Apple's Entry Into the AR/VR Space: A Skeptical Viewpoint From ZDNet"
-date: 2024-09-18 10:18:16
-updated: 2024-09-20 12:51:57
+date: 2024-09-20T04:08:11.414Z
+updated: 2024-09-20T18:53:01.596Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-video-game-the-best-of-8-mirrorless-cams-for-2024/"><u>[Updated] Elevate Your Video Game The Best of 8 Mirrorless Cams for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-budget-friendly-stopwatch-service/"><u>2024 Approved Best Budget-Friendly Stopwatch Service</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-superiority-in-choosing-drones-lipo-energizers/"><u>2024 Approved Unveiling Superiority in Choosing Drones' LiPo Energizers</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-task-managers-empty-startup-tab/"><u>Addressing Task Manager's Empty Startup Tab</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fix-for-the-absence-of-mingwm10dll-file-in-windows-systems/"><u>Comprehensive Fix for the Absence of mingwm10.dll File in Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-buzz-about-next-gen-touchscreen-macbook-projections-for-price-release-moment-and-comprehensive-specs-uncovered-through-leaks/"><u>Inside the Buzz About Next-Gen Touchscreen MacBook - Projections for Price, Release Moment and Comprehensive Specs Uncovered Through Leaks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-0x0000007b-blue-screen-of-death-a-step-by-step-guide/"><u>Resolving the 0X0000007B Blue Screen of Death: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-windows-7-inverted-display-issue/"><u>Resolving Windows 7 Inverted Display Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-propstsydll-not-found-expert-advice-and-solutions/"><u>The Ultimate Fix for Propstsy.dll Not Found - Expert Advice and Solutions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/vivid-visuals-brush-up-your-youtube-beauty-videos/"><u>Vivid Visuals Brush up Your YouTube Beauty Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

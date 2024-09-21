@@ -1,7 +1,7 @@
 ---
 title: Top Tips to Optimize and Decrease Discord CPU Usage
-date: 2024-09-10T16:25:08.586Z
-updated: 2024-09-15T16:19:04.564Z
+date: 2024-09-13T22:48:59.310Z
+updated: 2024-09-20T18:24:48.834Z
 tags:
   - win11
   - win10
@@ -144,6 +144,19 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Battlefield-5-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** If you fail to see the**DX12 ENABLED** option in the Advanced Video Settings, you can revert it back to DX11 manually.  
   
  1\. Go to your**Battlefield 5** folder then the**settings** folder, right-click**PROFSAVE\_profile** and select**Edit with Notepad** .  
@@ -173,6 +186,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/origin-run-as-admin.jpg)
 
  4) Try launching your game again to see if Battlefield V crashing issue still persists.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: System File Checker
 
@@ -205,19 +225,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type the command:**sfc /scannow** and hit**Enter** . Note that there’s a space between**sfc** and**/** .
 
 sfc /scannow
@@ -225,6 +232,13 @@ sfc /scannow
  3) Wait for the verification process to finish. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sfc-scannow.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) When the verification finishes, you may receive one of the following messages:
 
@@ -243,56 +257,30 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-box.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Then click**OK** to apply.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-boot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Startup** tab and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/open-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select each startup item and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-app.png)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your PC and launch your Battlefield V again to test the issue.
@@ -323,16 +311,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-adjust-macs-captured-screen-storage-place/"><u>[New] Adjust Mac's Captured Screen Storage Place</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audio-ambition-selecting-top-6-free-downloader-apps-from-youtube-vaults/"><u>[New] In 2024, Audio Ambition Selecting Top 6 Free Downloader Apps From YouTube Vaults</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-dancefloor-dynamics-free-pristine-dj-template-videos/"><u>[Updated] Dancefloor Dynamics Free, Pristine DJ Template Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-royal-match-understanding-its-multi-level-framework/"><u>Demystifying 'Royal Match': Understanding Its Multi-Level Framework</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-tools-to-schedule-your-pins-on-pinterest/"><u>Discover the Best Tools to Schedule Your Pins on Pinterest!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-virtual-landscapes-with-android-vr360/"><u>Exploring Virtual Landscapes with Android (VR/360)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-an-alternate-email-address-on-gmail/"><u>Guide: Setting Up an Alternate Email Address on Gmail</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-mobile-apps-for-luts/"><u>Mastering Mobile Apps for LUTs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-most-secure-email-services/"><u>The Ultimate Guide to the Most Secure Email Services</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-optimal-picture-settings-for-your-samsung-4k-television/"><u>Top 5 Optimal Picture Settings for Your Samsung 4K Television</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-elevate-your-reddit-presence-with-these-essentials/"><u>[New] 2024 Approved Elevate Your Reddit Presence with These Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-no-cost-visual-aids-free-templates-and-slide-show-resources/"><u>[New] No-Cost Visual Aids Free Templates & Slide Show Resources</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-for-removing-cache-memory-in-any-android-smartphone/"><u>Easy Methods for Removing Cache Memory in Any Android Smartphone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-navigating-youtube-studio-for-effective-video-alterations/"><u>In 2024, Navigating YouTube Studio for Effective Video Alterations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-art-of-recording-your-steam-gaming-sessions/"><u>In 2024, The Art of Recording Your Steam Gaming Sessions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-artistic-science-behind-youtube-live-imagery/"><u>In 2024, The Artistic Science Behind YouTube Live Imagery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insider-advice-picking-and-procuring-a-top-notch-television-to-complete-your-home-cinema-experience/"><u>Insider Advice: Picking and Procuring a Top-Notch Television to Complete Your Home Cinema Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-debunking-digital-audio-studio-myths-the-truth-behind-daw-for-2024/"><u>New Debunking Digital Audio Studio Myths The Truth Behind DAW for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-ceiling-speakers-of-2024/"><u>The Best Ceiling Speakers of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-essential-notetaking-applications/"><u>Top 10 Essential Notetaking Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-considerations-for-prospective-video-capture-equipment-buyers/"><u>Top Considerations for Prospective Video Capture Equipment Buyers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uber-vs-taxi-comparing-costs-and-savings/"><u>Uber Vs. Taxi: Comparing Costs and Savings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-15-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

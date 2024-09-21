@@ -1,7 +1,7 @@
 ---
 title: Exploring the History of Netflix's Original DVD Subscription Service
-date: 2024-09-11T16:10:53.542Z
-updated: 2024-09-15T16:17:56.116Z
+date: 2024-09-14T01:44:09.082Z
+updated: 2024-09-20T23:14:45.023Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the History of Netflix's Original DVD Subscription Service
@@ -48,13 +48,6 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 ![Netflix DVD plans](https://www.lifewire.com/thmb/uPDzNtMV66dcBkk8Rbo7T-7ekq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-prices-30f879c3750545099db9e01e04334ae2.png)
 4. Fill out your shipping information, and then select**Start** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New Users
 
  If you don’t currently have a Netflix account, follow these steps instead:
@@ -63,23 +56,32 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 2. Select**Sign Up** .  
 ![DVD Netflix sign up button](https://www.lifewire.com/thmb/NCQ1shSEvKeXqCYIEdWZYEWasfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-2b9f1a1370d042f7bbc87dde135db231.png)
 3. Choose the plan you want, and then select**Get Started** .  
-![DVD Netflix plan options](https://www.lifewire.com/thmb/1IHiA9MQesi6AeoZW2OuFx4JbUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-pricing-fa3f2e4b64fa4137ac42d44abc0c8d19.png)
-4. Enter your email address, choose a password, and then select**Continue** .
-5. Enter your shipping information, and then press**Continue** .
-6. Provide payment details, and then select**Start Membership** .
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![DVD Netflix plan options](https://www.lifewire.com/thmb/1IHiA9MQesi6AeoZW2OuFx4JbUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-pricing-fa3f2e4b64fa4137ac42d44abc0c8d19.png)
+4. Enter your email address, choose a password, and then select**Continue** .
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. Enter your shipping information, and then press**Continue** .
+6. Provide payment details, and then select**Start Membership** .
 
 ## How to Choose DVDs
 
@@ -89,29 +91,44 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 
  Here's how to add movies to your DVD Netflix queue and then adjust which ones you'll get first:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### From a Computer
 
 1. From DVD Netflix, select**Add to Queue** or**Add** , depending on the screen you're looking at, next to any DVD you want.  
 ![DVD Netflix Add to Queue button](https://www.lifewire.com/thmb/3_4_AW0IsPIrCM861X44RVIPLxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-to-queue-d48f9e0f986242f98683ce1ee0581732.png)  
  To add a whole season of a TV show, pick the season you want to rent and choose**Add All to Queue** .  
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![DVD Netflix Add All to Queue button](https://www.lifewire.com/thmb/4jU-S_bFoGdZ4nf5ZGnyf6fxTY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-all-to-queue-bdfdf210723748faaac13e57e6679b7e.png)  
  You can find titles by searching by name, people, or genre. There's also a**Browse** menu for locating popular movies, new releases, and Netflix's top 100 titles.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Open your queue via the**QUEUE** menu at the top of the site to manage the DVDs. You can adjust the order by dragging the titles up and down. Delete an item by hovering your mouse over it and selecting the trash icon.  
 ![DVD Netflix Queue](https://www.lifewire.com/thmb/x6QarMAaIe0NyqowLEYhKYw2Z1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-queue-ab624110eea644f1b0b4d462894431ea.png)
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### With the Mobile App
 
@@ -138,22 +155,8 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 ![Netflix menu](https://www.lifewire.com/thmb/sPdef-efDhFlukhsT5ZIKGE9cn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-menu-a50af54ed942494580a71dbfa10aa482.png)
 3. Select**Cancel DVD plan** from the**PLAN DETAILS** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Netflix account settings](https://www.lifewire.com/thmb/Q80vAniZ2Rz4sOJ9lBPx1R7Etj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-cancel-dvd-plan-1b525410df38448e9513aa48f77c3729.png)
 4. Check the box next to**Proceed to Cancellation** , and then select**Continue** .  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![DVD Netflix cancel screen](https://www.lifewire.com/thmb/y4ygwym9PG4XM_r0T1gD5tpwa4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-cancel-fb3a1b5411854a1c8b087c1ea52dc9f4.png)
 5. Scroll down and choose**Yes, cancel my account** .  
@@ -189,18 +192,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-decoding-firefox-picture-in-picture-a-comprehensive-guide/"><u>[New] Decoding Firefox Picture-in-Picture A Comprehensive Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-delving-into-color-modification-through-lut-techniques/"><u>[New] Delving Into Color Modification Through LUT Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-reimagined-ultrahd-2023s-samsung-bdplus-k850/"><u>[New] Reimagined UltraHD 2023'S Samsung BD+ K850</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715859741863-2024-approved-2023-browser-snapshot-winners-announced/"><u>2024 Approved 2023 Browser Snapshot Winners Announced!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/customize-your-macs-folder-display-with-easy-guide-to-finder-configurations/"><u>Customize Your Mac's Folder Display with Easy Guide to Finder Configurations</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-v-purse-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor V Purse to New Phone | Dr.fone</u></a></li>
-<li><a href="https://tools.techidaily.com/malwarefox/products/"><u>Malwarefox's Products</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/missing-zlibdll-errors-how-to-fix-them-and-prevent-future-issues/"><u>Missing 'Zlib.dll' Errors: How To Fix Them and Prevent Future Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/official-breakdown-of-the-next-gen-psvr-2-price-specs-and-arrival-predictions/"><u>Official Breakdown of the Next-Gen PSVR 2 – Price, Specs, and Arrival Predictions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-pick-windows-10s-cutting-edge-apps-and-games-for-2024/"><u>Top Pick Windows 10’S Cutting-Edge Apps & Games for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-titles-exclusive-to-playstation-5-gaming-on-next-gen/"><u>Top Titles Exclusive to PlayStation 5: Gaming on Next-Gen</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubled-by-faulty-advanced-video-fix/"><u>Troubled by Faulty Advanced Video Fix?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-best-video-dubbing-apps/"><u>Updated In 2024, Unleash Your Creativity Best Video Dubbing Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886166846-all-you-need-to-know-about-the-upcoming-samsung-galaxy-z-flip-6-pricing-and-features-revealed/"><u>All You Need to Know About the Upcoming Samsung Galaxy Z Flip 6 – Pricing and Features Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridge-the-gap-effortless-casting-from-android-phones-to-amazons-firestick/"><u>Bridge the Gap: Effortless Casting From Android Phones to Amazon's Firestick</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-for-getting-back-deleted-text-conversations-from-all-smartphones/"><u>Expert Advice for Getting Back Deleted Text Conversations From All Smartphones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-movie-marathon-top-picks-from-crackle-your-go-to-streaming-destination-for-cinema-and-series/"><u>Free Movie Marathon: Top Picks From 'Crackle', Your Go-To Streaming Destination for Cinema & Series</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-samsung-galaxy-m34-by-fonelab-android-recover-music/"><u>How to recover old music from your Samsung Galaxy M34</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-ultimate-collection-of-poignant-music-for-reflective-moments/"><u>New 2024 Approved The Ultimate Collection of Poignant Music for Reflective Moments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-discord-disruptions-effective-remedies-for-persistent-crashes/"><u>Overcoming Discord Disruptions: Effective Remedies for Persistent Crashes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-printing-setup-for-hp-and-laptops-immediate-solutions/"><u>Seamless Printing Setup for HP & Laptops - Immediate Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-intel-cores-epoch-discover-through-windows-8-ways/"><u>Your Intel Core's Epoch: Discover Through Windows (8 Ways)</u></a></li>
 </ul></div>
 

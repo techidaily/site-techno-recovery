@@ -1,7 +1,7 @@
 ---
 title: Masterclass on Enhancing Customer Journeys Using XR and Spatial Computing - Enterprise Edition | Explore at ZDNet
-date: 2024-09-18 13:35:43
-updated: 2024-09-20 10:48:15
+date: 2024-09-17T23:10:47.274Z
+updated: 2024-09-20T20:15:46.746Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,32 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-editing-snapseed-for-the-newcomer/"><u>[New] Pioneering Editing Snapseed for the Newcomer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/blue-screen-of-death-bsod/"><u>Blue Screen of Death (BSOD)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customize-your-windows-11-experience-with-a-new-taskbar-hue-a-comprehensive-tutorial/"><u>Customize Your Windows 11 Experience with a New Taskbar Hue - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-digital-habitat-steps-to-utilize-the-google-home-app-on-windows-and-mac-computers/"><u>Enhance Your Digital Habitat: Steps to Utilize the Google Home App on Windows & Mac Computers</u></a></li>
+<li><a href="https://tools.techidaily.com/iproxyever/products/"><u>Iproxyever's Products</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-comprehensive-blueprint-mastering-the-art-of-remote-new-hire-integration/"><u>Movavi's Comprehensive Blueprint: Mastering the Art of Remote New Hire Integration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722844798210-no-more-dll-drama-expert-tips-on-restoring-lost-advapi3and-files-and-ending-error-messages/"><u>No More DLL Drama: Expert Tips on Restoring Lost Advapi3^& Files and Ending Error Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-phone-what-you-need-to-know-about-iphone-13-waterproof-ratings/"><u>Protecting Your Phone: What You Need to Know About iPhone 13 Waterproof Ratings</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-10-recruiting-gems-amp-up-engagement/"><u>Top 10 Recruiting Gems Amp Up Engagement</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-list-leading-sound-card-picks-for-your-computer/"><u>Ultimate List: Leading Sound Card Picks for Your Computer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-windows-webcam-compilation/"><u>Ultimate Windows Webcam Compilation</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

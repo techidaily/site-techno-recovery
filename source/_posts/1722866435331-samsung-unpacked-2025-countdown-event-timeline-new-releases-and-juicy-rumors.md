@@ -1,7 +1,7 @@
 ---
 title: "Samsung Unpacked 2025 Countdown: Event Timeline, New Releases, and Juicy Rumors"
-date: 2024-09-09T16:15:00.750Z
-updated: 2024-09-15T16:33:12.057Z
+date: 2024-09-16T18:58:50.280Z
+updated: 2024-09-20T16:33:50.351Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung Unpacked 2025 Countdown: Event Timeline, New Releases, and Juicy Rumors"
@@ -41,16 +41,16 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Previous Unpacked Events Announced
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### July 2024 Unpacked Event
@@ -107,21 +107,15 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-rotation-revelations-maximizing-media-experience-with-vlc/"><u>[New] In 2024, Rotation Revelations Maximizing Media Experience with VLC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-essential-list-top-10-video-editors-to-elevate-reels/"><u>[Updated] 2024 Approved The Essential List Top 10 Video Editors to Elevate Reels</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-funnyframeforge-picfunnyfactory/"><u>[Updated] FunnyFrameForge PicFunnyFactory</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-strategies-to-rectify-freeze-in-obs-fullscreen-functionality-for-2024/"><u>[Updated] Strategies to Rectify Freeze in OBS Fullscreen Functionality for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/clearing-up-a-401-unauthorized-error-expert-strategies-and-solutions/"><u>Clearing Up a '401 Unauthorized' Error: Expert Strategies and Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-access-professional-drivers-for-samsung-m2020-now-available-to-download/"><u>Easy Access: Professional Drivers for Samsung M2020 Now Available to Download</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-fixes-for-windows-11-not-shutting-down-correctly/"><u>Essential Fixes for Windows 11 Not Shutting Down Correctly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-our-selection-of-top-4-no-cost-virtual-planners-online/"><u>Explore Our Selection of Top 4 No-Cost Virtual Planners Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/getting-your-windows-11-search-back-on-track-essential-fixes/"><u>Getting Your Windows 11 Search Back on Track - Essential Fixes!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-y56-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo Y56 5G Devices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 15 Plus?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-hp-deskjet-3520-drivers-a-step-by-nstep-guide-for-smooth-printing/"><u>Installing HP Deskjet 3520 Drivers: A Step-by-nStep Guide for Smooth Printing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-potential-twitch-downtime-identifying-global-outages-vs-personal-connectivity-challenges/"><u>Navigating Potential Twitch Downtime: Identifying Global Outages vs Personal Connectivity Challenges</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-sluggish-chrome-instantly-with-these-proven-techniques/"><u>Resolve Sluggish Chrome Instantly with These Proven Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-msxml4dll-file-doesnt-exist-a-comprehensive-guide/"><u>Resolving the 'msxml4.dll File Doesn't Exist': A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-mastering-your-meta-quest-headsets-built-in-mic/"><u>Step-by-Step Guide: Mastering Your Meta Quest Headset's Built-In Mic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smartphone-security-showdown-iphone-x-vs-galaxy-recognition-prowess/"><u>[Updated] Smartphone Security Showdown IPhone X Vs. Galaxy Recognition Prowess</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-4-free-virtual-calendars/"><u>Discover the Best 4 Free Virtual Calendars</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-tamriels-beauty-with-the-elder-scrolls-v-skyrim-switch-version-reviewed/"><u>Explore Tamriel's Beauty with The Elder Scrolls V: Skyrim - Switch Version Reviewed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 14 Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-directx-repairs-a-comprehensive-tutorial-for-cod-mw2-players/"><u>Master DirectX Repairs: A Comprehensive Tutorial for CoD MW2 Players</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-watch-series-4-latest-leaks-on-pricing-release-timeline-and-features/"><u>Pixel Watch Series 4 - Latest Leaks on Pricing, Release Timeline & Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-pairing-your-airpods-with-your-hp-computer/"><u>Step-by-Step Guide: Pairing Your AirPods with Your HP Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-wiring-a-subwoofer-and-a-samsung-bar-speaker-system/"><u>Step-by-Step Tutorial on Wiring A Subwoofer and a Samsung Bar Speaker System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-when-your-desktop-speakers-fail-to-function/"><u>Top Solutions for When Your Desktop Speakers Fail to Function</u></a></li>
+<li><a href="https://win11.techidaily.com/uncluttered-windows-desktop-at-a-glance/"><u>Uncluttered Windows Desktop at a Glance</u></a></li>
 </ul></div>
 

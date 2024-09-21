@@ -1,7 +1,7 @@
 ---
 title: "Historic Leaps in Tech: An Overview of the 11 Biggest Advances Since 1844"
-date: 2024-09-13T16:31:05.128Z
-updated: 2024-09-15T16:26:05.604Z
+date: 2024-09-18T02:29:53.033Z
+updated: 2024-09-20T18:19:10.751Z
 categories:
   - BestProducts
 description: "This Article Describes Historic Leaps in Tech: An Overview of the 11 Biggest Advances Since 1844"
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 EdnaM / Getty Images
 
  First arriving as what we'd consider today to be pretty rudimentary machines (or even as kits), they were computers in all senses of the word.
@@ -64,13 +71,6 @@ EdnaM / Getty Images
  Personal computers didn't take off in the_personal_ sense until Apple introduced the Apple II line of computers in 1977\. They were sold at stores and included software that expanded what it could do beyond simple programming. The first spreadsheet, ViscCalc, was available on the Apple II line.
 
  The personal computer we all know today exploded once IBM introduced the IBM PC in 1981\. Once businesses adopted it, the entire industry expanded to produce all the products we know and use today.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Global Positioning System — 1970s
 
@@ -81,10 +81,10 @@ EdnaM / Getty Images
  The system can triangulate data and pinpoint your location, and it powers the GPS devices and apps that people use now to get around.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Internet: ARPANET — 1973
@@ -117,6 +117,13 @@ ARPANET /Public domain
 
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
 
  Technically, the first digital camera was invented by Kodak in the 1970s. It took a while before the technology made its way into the ancestors of the products we use today.
@@ -124,6 +131,13 @@ ARPANET /Public domain
  Kodak introduced its first professional digital camera in 1991, but it was mounted on a Nikon film camera. By the mid-1990s, digital cameras not based on the body of a film camera were readily available (although the quality wasn't excellent).
 
  Digital cameras are everywhere now, from security cameras to smartphones and laptop and desktop computers. Even the least expensive product with a camera embedded in it is far better than those cameras from the early days.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Web Browser — 1994
 
@@ -139,33 +153,19 @@ ARPANET /Public domain
 
 ![Facebook's Sign Up Page](https://www.lifewire.com/thmb/49daxvoCJfOTzoBPeb_SlLG6Eho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FacebookSignIn-a4c1c336e92a436c952e1dc7e3813c40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Love it or hate it (or both), but Facebook (initially The Facebook), which launched out of Mark Zuckerberg’s dorm room, was the first social media platform to gain worldwide popularity.
 
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Modern Smartphone — 2007
 
 ![Steve Jobs Unveils Apple iPhone At MacWorld Expo](https://www.lifewire.com/thmb/sdGuvRRk_ow4aOyoLK4f3ibKOwo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steve-jobs-unveils-apple-iphone-at-macworld-expo-72959794-9b26521ca5f743119fc6b509d51ec8cc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  David Paul Morris / Getty Images
@@ -207,16 +207,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-perfect-frame-a-guide-to-polishing-videos-with-instagram-edits-for-2024/"><u>[New] The Perfect Frame A Guide to Polishing Videos with Instagram Edits for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/18083590-updated-streamline-your-thumbnail-design-journey-today/"><u>[Updated] Streamline Your Thumbnail Design Journey Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-instructions-on-downloading-the-latest-xp-pen-driver-versions/"><u>Comprehensive Instructions on Downloading the Latest XP-Pen Driver Versions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-future-of-smartwatches-the-much-awaited-apple-watch-sx-pricing-forecasts-and-speculations-revealed/"><u>Decoding the Future of Smartwatches: The Much-Awaited Apple Watch SX - Pricing Forecasts and Speculations Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-does-pope-francis-stay-connected-the-role-of-email-in-his-communications/"><u>How Does Pope Francis Stay Connected? The Role of Email in His Communications</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-quadcopters-unveiled-decoding-their-mechanism-and-functions/"><u>In 2024, Quadcopters Unveiled Decoding Their Mechanism and Functions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultrafine-a-deep-dive-into-lgs-elite-4k-display-features/"><u>In 2024, UltraFine A Deep Dive Into LG's Elite 4K Display Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-message-edits-a-step-by-step-tutorial-for-instagram-users/"><u>Mastering Message Edits: A Step-by-Step Tutorial for Instagram Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-virtualdub-is-it-still-the-best-top-alternatives-revealed/"><u>New In 2024, Virtualdub Is It Still the Best? Top Alternatives Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-to-get-past-a-lost-or-forgotten-ipad-unlock-pin/"><u>Quick Fixes to Get Past a Lost or Forgotten iPad Unlock PIN</u></a></li>
-<li><a href="https://fox-http.techidaily.com/z2-play-revelation-a-high-tech-smartphone-study/"><u>Z2 Play Revelation A High-Tech Smartphone Study</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-align-video-elements-in-your-playback-directory/"><u>[Updated] 2024 Approved Align Video Elements in Your Playback Directory</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-audio-broadcasts-networks/"><u>[Updated] Premier Audio Broadcasts Networks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unlocking-video-excellence-on-tiktok-through-effective-templates-use/"><u>[Updated] Unlocking Video Excellence on TikTok Through Effective Templates Use</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-editing-magic-transformative-strategies-for-youtube-creators/"><u>2024 Approved Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-verizons-future-with-5g-technology/"><u>Anticipating Verizon's Future with 5G Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-17-best-apps-to-remove-image-background/"><u>In 2024, 17 Best Apps to Remove Image Background</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-hot-40-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Hot 40 Pro FRP Bypass</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unboxing-the-secrets-of-successful-youtubers-like-ajey/"><u>In 2024, Unboxing the Secrets of Successful YouTubers Like Ajey</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-in-phasmophobia-how-to-restore-voice-chat-functionality/"><u>Overcoming Glitches in Phasmophobia: How to Restore Voice Chat Functionality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sleek-60-second-fades/"><u>Sleek 60-Second Fades</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-becoming-a-pro-at-pokemon-go/"><u>Step-by-Step Strategies for Becoming a Pro at Pokémon Go</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-resources-for-finding-your-ideal-rental-property/"><u>Top 10 Resources for Finding Your Ideal Rental Property</u></a></li>
 </ul></div>
 

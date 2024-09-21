@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Closes Doors on Virtual Gathering Place: The End of AltspaceVR - A ZDNet Exclusive"
-date: 2024-09-18 20:31:34
-updated: 2024-09-20 11:37:10
+date: 2024-09-15T21:41:19.768Z
+updated: 2024-09-21T01:43:18.617Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,36 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-selfie-showstoppers-adding-whimsy-with-the-cartoon-lens/"><u>[New] 2024 Approved Selfie Showstoppers Adding Whimsy with the Cartoon Lens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-giggles-in-a-box-iphone-fun/"><u>[New] Giggles in a Box (iPhone Fun)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-10-ultra-hd-capture-tools-for-screen-recording-for-2024/"><u>[New] Top 10 Ultra-HD Capture Tools for Screen Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-troubleshooting-a-non-operational-obs-video-capture/"><u>[Updated] Troubleshooting a Non-Operational OBS Video Capture</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-strategies-for-high-def-facebook-video/"><u>2024 Approved Top Strategies for High-Def Facebook Video</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-tips-for-switching-your-iphone-to-a-different-country-or-region/"><u>Easy Tips for Switching Your iPhone to a Different Country or Region</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-correcting-wlanapidll-missing-or-not-found-problems/"><u>Effective Techniques for Correcting WLanApiDll Missing or Not Found Problems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-cover-video-all-you-need-to-know-for-2024/"><u>Facebook Cover Video All You Need to Know for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-a-faulty-macbook-pro-keyboard-diy-solutions-to-restore-functionality/"><u>Fixing a Faulty MacBook Pro Keyboard: DIY Solutions to Restore Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-create-a-dorm-room-wireless-home-theater/"><u>How to Create a Dorm Room Wireless Home Theater</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-incorporating-subtitles-in-your-visual-content-on-instagram/"><u>The Ultimate How-To: Incorporating Subtitles in Your Visual Content on Instagram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-freebie-tunes-15-spots-for-free-musical-content-online/"><u>The Ultimate List of Freebie Tunes: 15 Spots for Free Musical Content Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tracing-the-development-timeline-of-iphone-operating-systems-ios-an-overview-from-10-to-nineteenth-edition/"><u>Tracing the Development Timeline of iPhone Operating Systems (iOS) - An Overview From 1.0 to Nineteenth Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-assassins-creed-origins-crash-issues/"><u>Ultimate Guide: Solving Assassin's Creed Origins Crash Issues</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Apple's New AR/VR Gear Misses the Mark for a Workout Warrior | Insights From ZDNET
-date: 2024-09-17 19:37:31
-updated: 2024-09-20 10:28:24
+date: 2024-09-16T17:57:07.781Z
+updated: 2024-09-21T01:39:42.034Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,30 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-streamers-dream-unifying-obs-and-zoom-with-steps/"><u>[New] A Streamer's Dream Unifying OBS & Zoom with Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-taking-flight-in-video-editing-a-drone-perspective/"><u>[Updated] Taking Flight in Video Editing A Drone Perspective</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-narrative-strategies-for-engaging-docu-films/"><u>2024 Approved Narrative Strategies for Engaging Docu-Films</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/addressing-non-responsive-sleep-mode-in-windows-10-a-comprehensive-fix/"><u>Addressing Non-Responsive Sleep Mode in Windows 10: A Comprehensive Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-diagnosing-and-fixing-black-screens-in-active-computers/"><u>Expert Advice on Diagnosing and Fixing Black Screens in Active Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/outlook-oops-learn-how-to-restore-unintentionally-deleted-emails-with-these-tips/"><u>Outlook Oops: Learn How to Restore Unintentionally Deleted Emails with These Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/swagtrons-agile-marvel-the-swagboard-t1-a-worthwhile-investment-or-not/"><u>Swagtron's Agile Marvel, The Swagboard T1 - A Worthwhile Investment or Not?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-a-502-bad-gateway-clear-explanations-for-resolution-steps/"><u>What Is a 502 Bad Gateway? Clear Explanations for Resolution Steps</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

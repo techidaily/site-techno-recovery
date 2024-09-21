@@ -1,7 +1,7 @@
 ---
 title: "Entering the Digital Frontier: How Sony and Siemens Are Pioneering an Immersive Engineering Experience in the Industrial Metaverse | Wired"
-date: 2024-09-17 10:48:14
-updated: 2024-09-20 10:42:59
+date: 2024-09-19T17:35:08.547Z
+updated: 2024-09-20T19:05:18.022Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,37 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-essential-tips-for-converting-videos-to-mac-discs/"><u>[New] Essential Tips for Converting Videos to Mac Discs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-disrupt-bot-patterns-for-natural-viewer-increase/"><u>[New] In 2024, Disrupt Bot Patterns for Natural Viewer Increase</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-guide-to-softening-images-with-iphone-software/"><u>[Updated] A Comprehensive Guide to Softening Images with iPhone Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-individual-to-institutional-growth-in-youtube-space-for-2024/"><u>[Updated] From Individual to Institutional Growth in YouTube Space for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-precise-time-indicators-in-youtubes/"><u>2024 Approved Crafting Precise Time Indicators in YouTubes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-efficient-techniques-for-saving-online-meeting-transcripts/"><u>2024 Approved Efficient Techniques for Saving Online Meeting Transcripts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-opengl32dll-related-problems-strategies-for-a-successful-fix/"><u>Dealing with OpenGL32.dll-related Problems: Strategies for a Successful Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-the-workings-of-espnpluss-direct-to-consumer-sports-content-delivery/"><u>Demystifying the Workings of ESPN+'s Direct-to-Consumer Sports Content Delivery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-clear-out-apps-from-a-samsung-television/"><u>Easy Steps to Clear Out Apps From a Samsung Television</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-razer-controller-drivers-for-your-windows-operating-system-10-8-7-xp-vista/"><u>Get the Latest Razer Controller Drivers for Your Windows Operating System (10, 8, 7, XP, Vista)</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-superior-screen-refinement-software-for-video-lovers/"><u>In 2024, Superior Screen Refinement Software for Video Lovers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-next-gen-macbook-pro-m3-releasing-dates-cost-breakdowns-and-cutting-edge-tech-specs-unveiled/"><u>Inside the Next-Gen MacBook Pro (M3): Releasing Dates, Cost Breakdowns & Cutting-Edge Tech Specs Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-correcting-connectivity-problems-with-your-wifi-adapter/"><u>Step-by-Step Strategies for Correcting Connectivity Problems with Your WiFi Adapter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tracking-the-untraceable-steps-to-discover-disappeared-phone-numbers-from-an-android-device/"><u>Tracking the Untraceable: Steps to Discover Disappeared Phone Numbers From an Android Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-automotive-venture-latest-insights-on-costs-launch-timeline-and-specifications/"><u>Upcoming Apple Automotive Venture: Latest Insights on Costs, Launch Timeline & Specifications</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

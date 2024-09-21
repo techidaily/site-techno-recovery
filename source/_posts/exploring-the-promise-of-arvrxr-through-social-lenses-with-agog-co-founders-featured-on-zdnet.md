@@ -1,7 +1,7 @@
 ---
 title: Exploring the Promise of AR/VR/XR Through Social Lenses with Agog Co-Founders | Featured on ZDNET
-date: 2024-09-18 19:40:38
-updated: 2024-09-20 11:36:22
+date: 2024-09-18T17:57:21.716Z
+updated: 2024-09-21T00:43:04.433Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,34 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cut-to-the-chase-quick-guide-to-film-making-with-movie-maker/"><u>[Updated] In 2024, Cut to the Chase Quick Guide to Film-Making with Movie Maker</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-elite-endorsement-exquisite-websites-to-download-snap-alert-tunes/"><u>[Updated] In 2024, Elite Endorsement Exquisite Websites to Download Snap Alert Tunes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-maximizing-your-tiktok-intro-a-mac-guide-for-2024/"><u>[Updated] Maximizing Your TikTok Intro A Mac Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-iphones-email-management-solutions-of-2n24/"><u>Best iPhones Email Management Solutions of 2N24</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-8-tv-streaming-subscriptions-dominating-202/"><u>Discover the Leading 8 TV Streaming Subscriptions Dominating 202</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-changing-the-battery-in-an-ipad-device/"><u>Expert Advice on Changing the Battery in an iPad Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-fitbit-versa-2-a-complete-guide-to-its-health-monitoring-and-enhanced-smartwatch-functions/"><u>Inside the Fitbit Versa 2 - A Complete Guide to Its Health Monitoring and Enhanced Smartwatch Functions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

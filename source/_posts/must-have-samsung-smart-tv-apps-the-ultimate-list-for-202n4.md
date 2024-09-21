@@ -1,7 +1,7 @@
 ---
 title: "Must-Have Samsung Smart TV Apps: The Ultimate List for 202N4"
-date: 2024-09-10T16:38:23.471Z
-updated: 2024-09-15T16:26:17.907Z
+date: 2024-09-19T01:28:25.987Z
+updated: 2024-09-20T18:50:22.590Z
 categories:
   - BestProducts
 description: "This Article Describes Must-Have Samsung Smart TV Apps: The Ultimate List for 202N4"
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -80,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -103,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -119,6 +99,19 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -131,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -169,20 +169,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-mastering-spotifys-marketplace-for-ultimate-ad-success/"><u>[New] 2024 Approved Mastering Spotify's Marketplace for Ultimate Ad Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-lg-channels-the-crucial-facts-you-cant-miss/"><u>Demystifying LG Channels – The Crucial Facts You Can't Miss</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-fix-missing-osetupdll-files-on-your-pc/"><u>How to Address and Fix Missing 'oSetup.dll' Files on Your PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-repair-your-computers-malfunctioning-optical-drive/"><u>How To Repair Your Computer's Malfunctioning Optical Drive</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chuckle-o-meter-starts-with-zero-mememasters-kit/"><u>In 2024, Chuckle-O-Meter Starts with Zero – MemeMasters Kit</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-voice-commands-a-guide-to-enable-siris-text-to-speech-on-iphone-and-mac/"><u>Mastering Voice Commands: A Guide to Enable Siri's Text-to-Speech on iPhone & Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-your-samsung-tv-experience-with-integrated-apps/"><u>Mastering Your Samsung TV Experience with Integrated Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/meilleurs-outils-logiciels-pour-compactage-video-et-reduction-des-tailles-de-fichiers/"><u>Meilleurs Outils Logiciels Pour Compactage Vidéo Et Réduction Des Tailles De Fichiers</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-graphic-giants-tussle-rtx-4070-super-vs-titans-and-4080/"><u>Nvidia’s Graphic Giants Tussle: RTX 4070 Super Vs. Titans & 4080</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/optimizing-your-content-performance-premier-video-rank-tools/"><u>Optimizing Your Content' Performance Premier Video Rank Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-the-oops-moment-expert-tips-for-correcting-your-websites-404-page-error/"><u>Overcoming the Oops Moment: Expert Tips for Correcting Your Website's 404 Page Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-connecting-and-setting-up-an-external-display-for-your-mac-computer/"><u>Step-by-Step Solution: Connecting and Setting Up an External Display for Your Mac Computer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721465335877-trouble-with-iphone-screen-brightness-automation-try-these-7-solutions/"><u>Trouble with iPhone Screen Brightness Automation? Try These 7 Solutions!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-4-ways-to-record-sims-4-gameplay/"><u>[Updated] 2024 Approved 4 Ways to Record Sims 4 Gameplay</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-converting-personal-memories-from-stillness-to-motion/"><u>[Updated] Converting Personal Memories From Stillness to Motion</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-professional-insights-crafting-and-sharing-360-videos-on-fb/"><u>[Updated] In 2024, Professional Insights Crafting & Sharing 360 Videos on FB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-tutorial-to-correct-the-pdhdll-error-on-your-computer/"><u>A Step-by-Step Tutorial to Correct the Pdh.dll Error on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-productivity-strategies-for-effective-message-grouping-using-labels-in-gmail/"><u>Boost Productivity: Strategies for Effective Message Grouping Using Labels in Gmail</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-text-tools-for-immersive-storytelling/"><u>Cutting-Edge Text Tools for Immersive Storytelling</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experiencing-trouble-with-search-on-windows-11-discover-reliable-fixes-here/"><u>Experiencing Trouble With Search on Windows 11? Discover Reliable Fixes Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-turning-off-and-restarting-iphone-15-propro-max-devices-for-optimal-performance/"><u>Guide to Turning Off & Restarting iPhone 15 Pro/Pro Max Devices for Optimal Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-s23plus-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy S23+ Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcome-osetupdll-disappearance-problems-in-windows-computers/"><u>Overcome Osetup.dll Disappearance Problems in Windows Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-d3dx92-dll-file-not-detected-or-absent-problem/"><u>Solving the D3dx9_2^ DLL File - Not Detected or Absent Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solutions-to-asus-display-dilemmas/"><u>Swift Solutions to Asus Display Dilemmas</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-great-debate-which-is-superior-chromecast-or-roku/"><u>The Great Debate: Which Is Superior, Chromecast or Roku?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-the-hidden-power-of-instagrams-ask-emoji-for-2024/"><u>Unlocking the Hidden Power of Instagram’s Ask Emoji for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722882549587-unveiling-the-power-of-the-new-apple-tv-4k-gen-3-reviewed-here/"><u>Unveiling the Power of the New Apple TV 4K (Gen 3) Reviewed Here!</u></a></li>
 </ul></div>
 

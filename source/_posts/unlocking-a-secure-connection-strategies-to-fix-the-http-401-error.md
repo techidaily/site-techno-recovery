@@ -1,7 +1,7 @@
 ---
 title: "Unlocking a Secure Connection: Strategies to Fix the HTTP 401 Error"
-date: 2024-09-09T16:22:47.575Z
-updated: 2024-09-15T16:01:10.579Z
+date: 2024-09-19T19:38:48.746Z
+updated: 2024-09-20T19:19:39.949Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking a Secure Connection: Strategies to Fix the HTTP 401 Error"
@@ -49,19 +49,6 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
  Make sure that you have your[Wi-Fi login information](https://www.lifewire.com/how-to-find-wifi-password-windows-mac-4177111) . You will need to re-enter it after the next step.
 6. Finally,[re-add your Wi-Fi connection](https://www.lifewire.com/add-wifi-network-to-any-device-4685456) from the Wi-Fi menu.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reset Mac Network Settings: The Complicated Way
 
  If you’re still experiencing connectivity issues or bugs after trying the above tip, it can be worth giving this second method a go. This process essentially deletes certain system files relating to network settings that will then be restored automatically after restarting your Mac.  
@@ -69,28 +56,46 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
 1. Click the**Wi-Fi internet symbol** in the menu bar.  
 ![Mac desktop with Wi-Fi symbol highlighted](https://www.lifewire.com/thmb/xVX119_v-qCR6mDaxc3cjPMV4LM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201-reset-network-settings-on-mac-5184072-1b8173aa3f1143f8b8271be3a2086896.jpg)
 2. Click the switch to turn Wi-Fi off.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mac desktop with Wi-Fi switch turned on and toggle highlighted](https://www.lifewire.com/thmb/Djr4uGfLmro0bitPwJrNPK8si9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/202-reset-network-settings-on-mac-5184072-72380288b1504d889574a5463faa398b.jpg)
 3. With Wi-Fi off, click**Go** .  
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
 5. Type**/Library/Preferences/SystemConfiguration/** into the text field and Enter.  
 ![Mac Go to Field](https://www.lifewire.com/thmb/oInJvndiGGUBjiVV4dCuYipWrK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/205-reset-network-settings-on-mac-5184072-01298987aa224234b7e9e2f8faa9633d.jpg)
 6. Select the following five files:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **com.apple.airport.preferences.plist**  
    * **com.apple.network.identification.plist** or**com.apple.network.eapolclient/configuration.plist**  
    * **com.apple.wifi.message-tracer.plist**  
@@ -100,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
 ![Mac network settings with five files highlighted](https://www.lifewire.com/thmb/4knKSgQkHK2UZGhEN6af3HgOVf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-reset-network-settings-on-mac-5184072-b943ca5296604916a56612a49afabb87.jpg)
 7. **Command+click** to choose the select files, select**Copy** , then right-click the desktop and select**Paste** .  
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
  If prompted to confirm the deletion with a password or an action on your Apple Watch, do so.  
@@ -120,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
 9. Restart your Mac as usual and turn its Wi-Fi back on. The deleted files should be recreated within their original location, and all your network settings should now be reset.  
 ![Mac network settings files in folder](https://www.lifewire.com/thmb/TFIJTKhjr13-gJm5a2b7c1Qvs1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/209-reset-network-settings-on-mac-5184072-6ccf3e11aa614ea6b334efc3bb44c1ec.jpg)  
  If everything is working fine, feel free to delete the copies of the files on your desktop.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Will Resetting My Network Settings Do?
 
@@ -171,21 +156,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-designing-youtube-ads-that-grab-attention-a-compreeher-guide-for-2024/"><u>[New] Designing Youtube Ads That Grab Attention A Compreeher Guide for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-lg-channels-the-crucial-facts-you-cant-miss/"><u>Demystifying LG Channels – The Crucial Facts You Can't Miss</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-fix-missing-osetupdll-files-on-your-pc/"><u>How to Address and Fix Missing 'oSetup.dll' Files on Your PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-free-up-space-by-deleting-bloatware-on-windows-10-and-11-systems/"><u>How to Free Up Space by Deleting Bloatware on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac/"><u>In 2024, DVD Burning Made Easy Convert Videos to DVD on Windows and Mac</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c12-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C12 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/making-memorable-impressions-with-fb-slideshow-features-for-2024/"><u>Making Memorable Impressions with FB Slideshow Features for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-your-samsung-tv-experience-with-integrated-apps/"><u>Mastering Your Samsung TV Experience with Integrated Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/missing-zlibdll-errors-how-to-fix-them-and-prevent-future-issues/"><u>Missing 'Zlib.dll' Errors: How To Fix Them and Prevent Future Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/official-breakdown-of-the-next-gen-psvr-2-price-specs-and-arrival-predictions/"><u>Official Breakdown of the Next-Gen PSVR 2 – Price, Specs, and Arrival Predictions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/revolutionary-recorders-outside-the-native-windows-ecosystem-for-2024/"><u>Revolutionary Recorders Outside the Native Windows Ecosystem for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/smooth-shots-stronger-impressions-fixing-iphone-video-instability/"><u>Smooth Shots, Stronger Impressions Fixing iPhone Video Instability</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-connecting-and-setting-up-an-external-display-for-your-mac-computer/"><u>Step-by-Step Solution: Connecting and Setting Up an External Display for Your Mac Computer</u></a></li>
-<li><a href="https://win-dash.techidaily.com/top-7-free-singing-voice-recorders-compatible-with-pc-mac-iphone-and-android/"><u>Top 7 Free Singing Voice Recorders: Compatible with PC, Mac, iPhone & Android</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-titles-exclusive-to-playstation-5-gaming-on-next-gen/"><u>Top Titles Exclusive to PlayStation 5: Gaming on Next-Gen</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725290624955-dvdhdd/"><u>テレビからDVDへ：シンプルで完全！内蔵録画とHDD利用のチャネリング</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-stream-and-save-discover-the-top-5-recorders-of-live-conferences-for-2024/"><u>[New] Stream and Save - Discover The Top 5 Recorders of Live Conferences for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[New] Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/assessing-the-value-proposition-of-itop-recorder/"><u>Assessing the Value Proposition of ITop Recorder</u></a></li>
+<li><a href="https://fox-access.techidaily.com/battle-of-the-cameras-hero5-black-vs-hero4-silver-showdown/"><u>Battle of the Cameras HERO5 Black vs HERO4 Silver Showdown</u></a></li>
+<li><a href="https://discover-great.techidaily.com/claim-your-money-winning-spot-in-the-latest-digiarty-youtube-raffle/"><u>Claim Your Money-Winning Spot in the Latest DigiArty YouTube Raffle!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-fix-a-guide-to-overcoming-your-apple-watchs-pairing-problem-with-6-solutions/"><u>Master the Fix: A Guide to Overcoming Your Apple Watch's Pairing Problem with 6 Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outlook-crashes-heres-what-you-need-to-know-for-a-smooth-experience/"><u>Outlook Crashes? Here's What You Need to Know for a Smooth Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-when-usb-internet-sharing-fails/"><u>Step-by-Step Solutions When USB Internet Sharing Fails</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y27-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y27 5G Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tutorial-securely-transferring-netflix-tv-shows-and-movies-to-your-computer/"><u>Tutorial: Securely Transferring Netflix TV Shows and Movies to Your Computer</u></a></li>
 </ul></div>
 

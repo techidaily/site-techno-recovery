@@ -1,0 +1,96 @@
+---
+title: How Does Pope Francis Engage in Electronic Mail Exchange?
+date: 2024-09-14T21:16:14.709Z
+updated: 2024-09-21T01:28:34.218Z
+categories:
+  - BestProducts
+description: This Article Describes How Does Pope Francis Engage in Electronic Mail Exchange?
+excerpt: This Article Describes How Does Pope Francis Engage in Electronic Mail Exchange?
+thumbnail: https://www.lifewire.com/thmb/jBVYmCK8o7kU6_SXUFE-7K3qvYU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg
+---
+
+## How Does Pope Francis Engage in Electronic Mail Exchange?
+ Although His Holiness Pope Francis might have a private or official email address, he does maintain a publicly listed email address. People who wish to contact him by modern means aren't relegated to snail mail as he has an active[social media feed](https://twitter.com/Pontifex) .
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Contact the Pope Through the Mail
+
+ For contacting Pope Francis through the postal service, the Vatican provides this address:
+
+ **His Holiness, Pope Francis**
+ **Apostolic Palace**
+ **00120 Vatican City**
+
+ Don't add "Italy" to the address. The Vatican is a separate political entity from Italy.
+
+## The Pope Doesn't Use Email
+
+ Despite his lack of email accessibility, Pope Francis sees modern communication options as beneficial. When[Tim Cook, Apple's CEO](https://www.lifewire.com/who-is-tim-cook-1994301) , visited the Vatican in January 2016, Pope Francis released a message titled   _Communication and Mercy: A Fruitful Encounter, for the 50th World Day of Social Communications_ . In it, he said that the internet, text messages, and social networks are "gifts from God."
+
+![Pope Francis Delivers 'Urbi Et Orbi' Blessing During Easter Mass In St. Peter's Square](https://www.lifewire.com/thmb/z5bZaGaAuEBbtVki4q-_xec1lk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg)
+
+ Giulio Origlia / Getty Images
+
+## Other Popes in the Information Age
+
+ Unlike their current successor, Pope Benedict XVI and Pope John Paul II had email addresses: <benedictxvi@vatican.va> and john\_paul\_ii@vatican.va, respectively. Both might have had other private email addresses inside the Vatican, as well.
+
+ Karol Józef Wojtyla became Pope John Paul II in 1978 before people used email widely and practically. The[first email](https://www.lifewire.com/first-email-message-1164184) had been written seven years previous to his ascendancy, but few people outside the computer programming field knew computer networks existed. Yet, John Paul II became the first email-savvy pontiff in history and the first to be canonized in centuries.
+
+ In late 2001, the pope [apologized for injustices committed by the Roman Catholic Church in Oceania via email](http://news.bbc.co.uk/1/hi/world/europe/1671540.stm) . The Holy Father would have preferred to visit the Pacific nations and deliver his words of penitence in person, but email made for an effective second-best choice.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-soons-review-diverse-perspectives/"><u>2024 Approved Soon's Review Diverse Perspectives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-closer-examination-of-googles-ar-stickers-and-competitors/"><u>A Closer Examination of Google's AR Stickers and Competitors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-smbus-driver-update-quick-download-options-available-now/"><u>AMD SMBus Driver Update - Quick Download Options Available Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creative-boost-top-quality-complimentary-premiere-pro/"><u>Creative Boost Top-Quality, Complimentary Premiere Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-restoring-your-microsoft-surface-pros-ability-to-connect-to-wireless-networks/"><u>DIY Fixes: Restoring Your Microsoft Surface Pro's Ability to Connect to Wireless Networks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exhilarating-stories-from-the-field-and-court-top-sporting-motion-pictures-to-enjoy-now/"><u>Exhilarating Stories From the Field and Court: Top Sporting Motion Pictures to Enjoy Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-fixing-the-corrupted-bios-checksum-quickly/"><u>Expert Advice: Fixing the Corrupted BIOS Checksum Quickly</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-tiktok-to-tokens-financial-figures-of-pewdiepie/"><u>In 2024, TikTok to Tokens Financial Figures of PewDiePie</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/network-your-printer-efficiently-a-comprehhemical-guide-for-cross-device-sharing/"><u>Network Your Printer Efficiently: A Comprehhemical Guide for Cross-Device Sharing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/saiyan-chronicles-unveiled-how-to-experience-dragons-and-heroes-sequentially-from-start-to-finish/"><u>Saiyan Chronicles Unveiled: How to Experience Dragons and Heroes Sequentially From Start to Finish</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-lossless-4k-video-reduction-unlock-the-secrets-of-shrinking-videos-while-maintaining-superior-clarity/"><u>Ultimate Guide to Lossless 4K Video Reduction: Unlock the Secrets of Shrinking Videos While Maintaining Superior Clarity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-blockbusters-and-classic-shows-for-free-discover-crackle-streaming-service/"><u>Watch Blockbusters & Classic Shows for Free - Discover 'Crackle' Streaming Service</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,0 +1,98 @@
+---
+title: Cutting-Edge Tech Treasures for Thrifty Explorers
+date: 2024-09-14T23:15:24.081Z
+updated: 2024-09-20T18:53:51.260Z
+categories:
+  - BestProducts
+description: This Article Describes Cutting-Edge Tech Treasures for Thrifty Explorers
+excerpt: This Article Describes Cutting-Edge Tech Treasures for Thrifty Explorers
+thumbnail: https://www.lifewire.com/thmb/-BZ1zLzTTYPx84gWPeUGSL-4rQk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Header-with-Badgev2crop-d1567b39553a48578958173d7f698d02.jpg
+---
+
+## Exploring Whether the Papacy Has Adapted to Modern Communication with Email Usage
+ Although His Holiness Pope Francis might have a private or official email address, he does maintain a publicly listed email address. People who wish to contact him by modern means aren't relegated to snail mail as he has an active[social media feed](https://twitter.com/Pontifex) .
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Contact the Pope Through the Mail
+
+ For contacting Pope Francis through the postal service, the Vatican provides this address:
+
+ **His Holiness, Pope Francis**
+ **Apostolic Palace**
+ **00120 Vatican City**
+
+ Don't add "Italy" to the address. The Vatican is a separate political entity from Italy.
+
+## The Pope Doesn't Use Email
+
+ Despite his lack of email accessibility, Pope Francis sees modern communication options as beneficial. When[Tim Cook, Apple's CEO](https://www.lifewire.com/who-is-tim-cook-1994301) , visited the Vatican in January 2016, Pope Francis released a message titled   _Communication and Mercy: A Fruitful Encounter, for the 50th World Day of Social Communications_ . In it, he said that the internet, text messages, and social networks are "gifts from God."
+
+![Pope Francis Delivers 'Urbi Et Orbi' Blessing During Easter Mass In St. Peter's Square](https://www.lifewire.com/thmb/z5bZaGaAuEBbtVki4q-_xec1lk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg)
+
+ Giulio Origlia / Getty Images
+
+## Other Popes in the Information Age
+
+ Unlike their current successor, Pope Benedict XVI and Pope John Paul II had email addresses: <benedictxvi@vatican.va> and john\_paul\_ii@vatican.va, respectively. Both might have had other private email addresses inside the Vatican, as well.
+
+ Karol Józef Wojtyla became Pope John Paul II in 1978 before people used email widely and practically. The[first email](https://www.lifewire.com/first-email-message-1164184) had been written seven years previous to his ascendancy, but few people outside the computer programming field knew computer networks existed. Yet, John Paul II became the first email-savvy pontiff in history and the first to be canonized in centuries.
+
+ In late 2001, the pope [apologized for injustices committed by the Roman Catholic Church in Oceania via email](http://news.bbc.co.uk/1/hi/world/europe/1671540.stm) . The Holy Father would have preferred to visit the Pacific nations and deliver his words of penitence in person, but email made for an effective second-best choice.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-get-the-videos-you-love-from-pinterest-for-free/"><u>[New] Get the Videos You Love From Pinterest for Free</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simplifying-the-process-how-to-guide-for-booking-meets/"><u>[Updated] Simplifying the Process How-To Guide for Booking Meets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722856158732-5-apps-to-help-you-meet-people-and-make-friends/"><u>5 Apps to Help You Meet People and Make Friends</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-detective-sagas-embark-on-4-thrilling-virtual-investigations/"><u>AI Detective Sagas: Embark on 4 Thrilling Virtual Investigations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ver-the-10-yt-channels-with-swift-ascendancy-and-intellect/"><u>Discover the 10 YT Channels with Swift Ascendancy and Intellect</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-for-removing-cache-memory-in-any-android-smartphone/"><u>Easy Methods for Removing Cache Memory in Any Android Smartphone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y36-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo Y36?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-decoding-aspect-ratios-for-effective-youtube-videos/"><u>In 2024, Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instantaneous-inspector-of-images-on-windows/"><u>Instantaneous Inspector of Images on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflix-trouble-heres-how-you-can-fix-it-when-it-fails-on-roku-streaming-stickbox/"><u>Netflix Trouble? Here's How You Can Fix It When It Fails on Roku Streaming Stick/Box</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-essential-notetaking-applications/"><u>Top 10 Essential Notetaking Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-considerations-for-prospective-video-capture-equipment-buyers/"><u>Top Considerations for Prospective Video Capture Equipment Buyers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uber-vs-taxi-comparing-costs-and-savings/"><u>Uber Vs. Taxi: Comparing Costs and Savings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-asl-proficiency-with-16-freely-available-online-guides-and-apps/"><u>Unlock ASL Proficiency with 16 Freely Available Online Guides and Apps</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
