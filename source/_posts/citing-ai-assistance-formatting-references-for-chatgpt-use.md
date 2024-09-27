@@ -1,7 +1,7 @@
 ---
 title: "Citing AI Assistance: Formatting References for ChatGPT Use"
-date: 2024-09-16T22:33:21.113Z
-updated: 2024-09-21T00:20:26.021Z
+date: 2024-09-25T19:50:41.396Z
+updated: 2024-09-27T00:31:59.388Z
 categories:
   - BestProducts
 description: "This Article Describes Citing AI Assistance: Formatting References for ChatGPT Use"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -32,6 +39,14 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
@@ -40,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
 
@@ -52,16 +74,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
@@ -108,5 +124,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-decrypting-the-significance-the-purpose-of-blue-icons-on-fb-messages/"><u>[New] 2024 Approved Decrypting the Significance The Purpose of Blue Icons on FB Messages</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-android-screenshots-in-4-steps/"><u>[New] 2024 Approved Mastering Android Screenshots in 4 Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-leading-tools-for-extracting-fb-videos-top-5/"><u>[Updated] In 2024, Leading Tools for Extracting FB Videos - TOP 5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ps4-broadcasting-basics-with-a-focus-on-obs-integration-for-2024/"><u>[Updated] PS4 Broadcasting Basics with a Focus on OBS Integration for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-peaceful-slumber-top-notch-asmr-artists-for-rest/"><u>2024 Approved Unlocking Peaceful Slumber Top-Notch ASMR Artists for Rest</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-understanding-smartwatch-capabilities/"><u>A Comprehensive Guide to Understanding Smartwatch Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-a-corrupt-bios-memory-and-eliminate-cmos-checksum-mistakes/"><u>How to Repair a Corrupt BIOS Memory and Eliminate CMOS Checksum Mistakes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-new-m3-macbook-pro-detailed-review-of-features-pricing-and-launch-date/"><u>Inside the New M3 MacBook Pro: Detailed Review of Features, Pricing, and Launch Date</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-there-a-no-cost-way-to-use-microsoft-word-find-out-how-its-possible/"><u>Is There a No-Cost Way to Use Microsoft Word? Find Out How It's Possible!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/softelevn-gennembrud-af-online-gratuelt-video-til-mp3-konverter/"><u>Softelevn: Gennembrud Af Online Gratuelt Video-Til MP3 Konverter</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stellaris-space-empires-and-conquests-insights-for-game-enthusiasts/"><u>Stellaris Space Empires and Conquests: Insights for Game Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-correcting-missing-user32dll-mistakes-on-your-pc/"><u>Step-by-Step Solutions: Correcting Missing User32.dll Mistakes on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-troubleshoot-and-fix-missing-mfc42dll-file-issues/"><u>Steps to Troubleshoot and Fix Missing mfc42.dll File Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-role-of-telecommunication-compannies-in-connecting-calls-and-data/"><u>The Role of Telecommunication Compannies in Connecting Calls and Data</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-non-root-auto-clicker-android-apps-enhance-your-mobile-productivity/"><u>Top 5 Non-Root Auto-Clicker Android Apps: Enhance Your Mobile Productivity</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-editing-on-mavericks-a-beginners-guide-to-pro-results/"><u>Updated Video Editing on Mavericks A Beginners Guide to Pro Results</u></a></li>
+</ul></div>
 

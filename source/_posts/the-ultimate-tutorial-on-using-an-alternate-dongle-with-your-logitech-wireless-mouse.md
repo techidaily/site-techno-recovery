@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Using an Alternate Dongle With Your Logitech Wireless Mouse
-date: 2024-09-17T17:00:12.966Z
-updated: 2024-09-20T16:18:54.786Z
+date: 2024-09-25T00:53:45.903Z
+updated: 2024-09-27T02:16:26.534Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Tutorial on Using an Alternate Dongle With Your Logitech Wireless Mouse
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/BL6ccy8Bv4hdbQIiYpcU6Wkxy1E=/400x300/fi
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
  To[take a screenshot on Windows](https://www.lifewire.com/take-screenshots-using-windows-3507009) , press**Windows key+PrtScn** .
@@ -37,6 +44,13 @@ thumbnail: https://www.lifewire.com/thmb/BL6ccy8Bv4hdbQIiYpcU6Wkxy1E=/400x300/fi
 
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -46,10 +60,17 @@ thumbnail: https://www.lifewire.com/thmb/BL6ccy8Bv4hdbQIiYpcU6Wkxy1E=/400x300/fi
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where Are My Screenshots Saved?
@@ -96,5 +117,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/best-mobile-app-dev-editing-systems/"><u>Best Mobile App Dev Editing Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-reading-apps-of-2024-picked-by-us-top-8-selections/"><u>Best Reading Apps of 2024 (Picked by Us) - Top 8 Selections</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/effortless-voice-memo-recording-on-your-iphone/"><u>Effortless Voice Memo Recording on Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-techniques-for-expanding-your-follower-base-on-twitter/"><u>Essential Techniques for Expanding Your Follower Base on Twitter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/geminis-milestone-redefining-value-at-1m-tokens/"><u>Gemini's Milestone: Redefining Value at $1M Tokens</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/high-quality-manfrotto-befree-adjustable-legs-incredible-mobility/"><u>High-Quality Manfrotto Befree Adjustable Legs: Incredible Mobility</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y27s-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y27s Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-youtube-metrics-a-compreousible-roadmap-to-tracking-traffic-and-turnover/"><u>Mastering YouTube Metrics A Compreousible Roadmap to Tracking Traffic and Turnover</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-windows-10-on-your-fresh-hard-drive/"><u>Step-by-Step Guide: Setting Up Windows 10 on Your Fresh Hard Drive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-musical-creativity-with-these-top-8-free-apple-device-tunes-tools/"><u>Unlocking Musical Creativity with These Top 8 Free Apple Device Tunes Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-fugetek-ft-568-a-detailed-look-at-this-elite-robust-selfie-accessory/"><u>Unveiling the Fugetek FT-568: A Detailed Look at This Elite, Robust Selfie Accessory</u></a></li>
+</ul></div>
 

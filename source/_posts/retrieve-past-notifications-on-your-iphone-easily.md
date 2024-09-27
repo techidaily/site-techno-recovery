@@ -1,7 +1,7 @@
 ---
 title: Retrieve Past Notifications on Your iPhone Easily
-date: 2024-09-20T01:59:09.763Z
-updated: 2024-09-20T23:47:04.032Z
+date: 2024-09-25T03:51:01.772Z
+updated: 2024-09-26T22:21:17.733Z
 categories:
   - BestProducts
 description: This Article Describes Retrieve Past Notifications on Your iPhone Easily
@@ -32,7 +32,22 @@ thumbnail: https://www.lifewire.com/thmb/jJxDc91zw7_hnWyUaX7w_sKZ4Ig=/540x405/fi
 2. Drag the**Slide to Power Off** option to the right.  
 ![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Settings to Restart iPhone 15
 
@@ -46,10 +61,10 @@ thumbnail: https://www.lifewire.com/thmb/jJxDc91zw7_hnWyUaX7w_sKZ4Ig=/540x405/fi
  Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Turn Off an iPhone 15 With Siri
@@ -63,10 +78,10 @@ thumbnail: https://www.lifewire.com/thmb/jJxDc91zw7_hnWyUaX7w_sKZ4Ig=/540x405/fi
  Siri will confirm that you want to power down your phone; select**Power Off** to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Force Restart an iPhone 15
@@ -106,5 +121,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-master-the-art-of-video-popularity-best-post-days/"><u>[Updated] 2024 Approved Master the Art of Video Popularity - Best Post Days</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bring-your-text-to-life-techniques-for-3d-design-in-ps/"><u>[Updated] Bring Your Text to Life Techniques for 3D Design in PS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-renowned-makers-exquisite-insta-hlv-designers-online-for-2024/"><u>[Updated] Renowned Makers Exquisite Insta HLV Designers Online for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/chill-vibes-top-idle-pc-experiences-for-2024/"><u>Chill Vibes Top Idle PC Experiences for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-timeline-the-evolutionary-path-of-iphones-operating-system-from-version-10-to-180/"><u>Exploring the Timeline: The Evolutionary Path of iPhone’s Operating System, From Version 1.0 to 18.0</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-12-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi Note 12 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-screen-capture-across-pcs-and-mobile-devices-for-2024/"><u>Navigating Screen Capture Across PCs and Mobile Devices for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-choice-of-building-versus-shopping-for-a-new-computer-which-path-suits-you-best/"><u>Navigating the Choice of Building Versus Shopping for a New Computer - Which Path Suits You Best?</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/reach-out-to-your-personalized-ai-companions-contact-digiarty-now/"><u>Reach Out to Your Personalized AI Companions - Contact Digiarty Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-opening-ms-word-files-that-refuse-to-load/"><u>Solutions for Opening MS Word Files That Refuse to Load</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-indispensable-tech-collection-nine-items-every-schoolgoer-should-own/"><u>The Indispensable Tech Collection: Nine Items Every Schoolgoer Should Own</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-free-video-call-apps-skype-alternatives-you-must-try/"><u>Top 5 Free Video Call Apps : Skype Alternatives You Must Try!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-beginners-guide-to-earning-success/"><u>YouTube Beginners' Guide to Earning Success</u></a></li>
+</ul></div>
 

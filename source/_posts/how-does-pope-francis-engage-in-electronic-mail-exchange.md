@@ -1,7 +1,7 @@
 ---
 title: How Does Pope Francis Engage in Electronic Mail Exchange?
-date: 2024-09-14T21:16:14.709Z
-updated: 2024-09-21T01:28:34.218Z
+date: 2024-09-22T04:57:32.802Z
+updated: 2024-09-27T07:14:35.447Z
 categories:
   - BestProducts
 description: This Article Describes How Does Pope Francis Engage in Electronic Mail Exchange?
@@ -27,13 +27,34 @@ thumbnail: https://www.lifewire.com/thmb/jBVYmCK8o7kU6_SXUFE-7K3qvYU=/400x300/fi
 
  Don't add "Italy" to the address. The Vatican is a separate political entity from Italy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Pope Doesn't Use Email
 
  Despite his lack of email accessibility, Pope Francis sees modern communication options as beneficial. When[Tim Cook, Apple's CEO](https://www.lifewire.com/who-is-tim-cook-1994301) , visited the Vatican in January 2016, Pope Francis released a message titled   _Communication and Mercy: A Fruitful Encounter, for the 50th World Day of Social Communications_ . In it, he said that the internet, text messages, and social networks are "gifts from God."
 
 ![Pope Francis Delivers 'Urbi Et Orbi' Blessing During Easter Mass In St. Peter's Square](https://www.lifewire.com/thmb/z5bZaGaAuEBbtVki4q-_xec1lk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Giulio Origlia / Getty Images
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Popes in the Information Age
 
@@ -70,12 +91,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-transition-tips-seamlessly-moving-to-macos-sierra/"><u>[Updated] Transition Tips Seamlessly Moving to MacOS Sierra</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-guffaw-generator-pictorial-mixer/"><u>2024 Approved Guffaw Generator Pictorial Mixer</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-secure-foundation-of-your-websites-personalization/"><u>Cookiebot: The Secure Foundation of Your Website's Personalization</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-engagement-strategies-with-these-powerful-25-hashtags-for-2024/"><u>Instagram Engagement Strategies with These Powerful 25 Hashtags for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/introducing-19-fresh-additions-to-tcls-premier-q-and-s-series-of-smart-tv-innovations/"><u>Introducing 19 Fresh Additions to TCL's Premier Q and S Series of Smart TV Innovations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a14-4gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A14 4GFRP Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/know-when-your-mailcom-account-will-expire/"><u>Know When Your Mail.com Account Will Expire</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-tech-choices-understanding-key-divergences-between-mac-and-pc/"><u>Navigating Tech Choices: Understanding Key Divergences Between Mac and PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-getting-tekken-8-running-on-your-pc-again/"><u>Step-by-Step Guide: Getting Tekken 8 Running on Your PC Again</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-dji-phantom-3-pro-drone-for-2024/"><u>The Ultimate Guide to DJI Phantom 3 Pro Drone for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-viewing-guide-arranging-the-how-to-train-your-dragon-film-series/"><u>The Ultimate Viewing Guide: Arranging the How To Train Your Dragon Film Series</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unpacking-the-influential-four-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Unpacking the Influential Four: A Deep Dive Into Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/voice-command-face-off-making-the-best-choice-between-alexa-and-google-assistant/"><u>Voice Command Face-Off: Making The Best Choice Between Alexa and Google Assistant</u></a></li>
+</ul></div>
 

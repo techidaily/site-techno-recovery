@@ -1,7 +1,7 @@
 ---
 title: Secure Your Child’s Discord Experience with Our Parental Control Setup Tips
-date: 2024-09-16T20:28:10.185Z
-updated: 2024-09-20T23:58:17.561Z
+date: 2024-09-22T08:06:03.300Z
+updated: 2024-09-27T06:30:03.042Z
 categories:
   - BestProducts
 description: This Article Describes Secure Your Child’s Discord Experience with Our Parental Control Setup Tips
@@ -38,6 +38,14 @@ thumbnail: https://www.lifewire.com/thmb/F2nA0E12XsbNRJ9GLglfKT3kOlw=/400x300/fi
 3. Click**Connect with Parent** .  
 ![Connect with Parent highlighted in Discord user settings.](https://www.lifewire.com/thmb/iy2PciF0HKJ5fKAOXO2HuLTLVno=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-SetUpDiscordParentalControls-annotated-c5f6bd88679a4be7a04716468a9ee14d.jpg)
 4. Click**Reveal QR Code** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Reveal QR Code highlighted in Discord.](https://www.lifewire.com/thmb/I9l61gcqkFl_cC9JDEcOmKtCj1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-SetUpDiscordParentalControls-annotated-9aca25da90e14a0b91ed91a25823b11f.jpg)  
 Don't allow anyone else to see this QR code.
 5. In the Discord app on your phone, tap the**menu** **icon** (three horizontal lines).
@@ -54,6 +62,14 @@ Don't allow anyone else to see this QR code.
 13. In the INCOMING PARENT REQUESTS section, tap the**check mark** .  
 ![The check mark highlighted in incoming parent requests in Discord.](https://www.lifewire.com/thmb/yIjX60Pn87I3zZJAbQvXUpeetxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-SetUpDiscordParentalControls-annotated-459062af4f9040fcabe5a1a49ebe40b6.jpg)
 14. Tap**Accept Request** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Accept Request highlighted in Discord.](https://www.lifewire.com/thmb/ukRV7PLI4Nqk_6YUBIy_EpeBmt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-SetUpDiscordParentalControls-annotated-36b3aa9ac6a74e329d7789a71b883dd7.jpg)
 15. Using the Discord app on your phone, tap the**menu icon** \>**user icon** \>**Family Center** to view your child's Discord activity.  
 ![Highlighted steps to view your child's activity on Discord on an iPhone.](https://www.lifewire.com/thmb/Zu9tZ4rxORqmLGYR3PLJsR4cJaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A15-SetUpDiscordParentalControls-annotated-45a19b099ca9476db0f4f520f15d7101.jpg)
@@ -70,7 +86,22 @@ Don't allow anyone else to see this QR code.
 2. Select**Privacy & Safety** .  
 ![Privacy & Safety highlighted in Discord.](https://www.lifewire.com/thmb/ssR6uky-pokYhRtbUabcK_4pO60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-SetUpDiscordParentalControls-annotated-96520af3661741eea561e73f846ad49f.jpg)
 3. Select**Filter all direct messages** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Filter all direct messages highlighted in explicit image filter settings in Discord.](https://www.lifewire.com/thmb/RKt5ARxr3USV5JNUESuGQK-BNpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-SetUpDiscordParentalControls-annotated-ff28708f2a3944829751b40d032d62b6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Block Strangers From Messaging Your Child
 
@@ -83,27 +114,36 @@ Don't allow anyone else to see this QR code.
 1. Using your child’s Discord account, navigate to**User Settings** (gear icon).  
 ![The gear icon highlighted in Discord.](https://www.lifewire.com/thmb/Qs7pxwuYy6kEfcgdu9_OHROKYts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-SetUpDiscordParentalControls-annotated-215cd187a9b94d1a812d1beb1afb5334.jpg)  
  On the mobile app, tap the**menu icon** \>**profile icon** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Select**Privacy & Safety** .  
 ![Privacy & Safety highlighted in Discord.](https://www.lifewire.com/thmb/F7-oc4CqC1zDDvgwnosxZ3tKGoI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-SetUpDiscordParentalControls-annotated-5950dc57736f49aca6df8d827d75796e.jpg)
 3. Scroll down to SERVER PRIVACY DEFAULTS and tap the **Enable message requests from server members you may not know** toggle to turn it off.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Enable message requests from server members you may not know toggle highlighted in Discord.](https://www.lifewire.com/thmb/3LUa5rUpyhKTtJE4MqfJN4vJ0-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-SetUpDiscordParentalControls-annotated-4762c0555b1e45d896e9fe9e84350d57.jpg)
 4. Tap the**Allow direct messages from server members** toggle to turn it off for additional protection.  
-![The Allow direct messages from server members toggle highlighted in Discord.](https://www.lifewire.com/thmb/ZrMWLpZRgdVKmUqcOQIAk16ttwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C4-SetUpDiscordParentalControls-annotated-e47fc3e3d39b4570939f71348c6cf55e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Allow direct messages from server members toggle highlighted in Discord.](https://www.lifewire.com/thmb/ZrMWLpZRgdVKmUqcOQIAk16ttwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C4-SetUpDiscordParentalControls-annotated-e47fc3e3d39b4570939f71348c6cf55e.jpg)
 
 ## How Do Discord Parental Controls Work?
 
@@ -138,5 +178,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/a-complete-overview-of-samsungs-onboard-app-ecosystem-for-televisions/"><u>A Complete Overview of Samsung's Onboard App Ecosystem for Televisions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/conquering-macs-record-functionality-keyboard-driven-tips-for-2024/"><u>Conquering Mac's Record Functionality Keyboard-Driven Tips for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-cable-tv-and-online-streaming-services-an-in-depth-comparison/"><u>Demystifying Cable TV and Online Streaming Services: An In-Depth Comparison</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-a-bluish-color-distortion-a-step-by-step-guide-for-your-screen/"><u>Fixing a Bluish Color Distortion: A Step-by-Step Guide for Your Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-infamous-pc-crash-in-god-of-war-solutions-proven-effective/"><u>Fixing the Infamous PC Crash in God of War - Solutions Proven Effective</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-link-a-logitech-mouse-for-optimal-computer-usage/"><u>How to Link a Logitech Mouse for Optimal Computer Usage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-n30-se-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord N30 SE to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-best-12-free-download-animation-software-for-windows-and-mac-2022/"><u>In 2024, Best 12 Free Download Animation Software for Windows and Mac 2022</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-6s-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 6s Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-mfc42ddll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the mfc42d.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-3-best-free-online-video-compressors-of-2020-reviews-and-how-to-guide/"><u>Top 3 Best Free Online Video Compressors of 2020: Reviews & How-To Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essentials-a-guide-to-purchasing-pre-owned-ipads/"><u>Top 5 Essentials: A Guide to Purchasing Pre-Owned iPads</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Solution for When Windows Says mfc71.dll Is Absent
-date: 2024-09-15T19:30:02.511Z
-updated: 2024-09-21T04:04:47.340Z
+date: 2024-09-22T21:49:03.449Z
+updated: 2024-09-26T16:04:41.317Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Solution for When Windows Says mfc71.dll Is Absent
@@ -34,26 +34,49 @@ thumbnail: https://www.lifewire.com/thmb/8zdbfZAPeJmvivu_RhWeL4OfEec=/540x405/fi
 2. Tap**Copy** to copy the FaceTime web address to your device’s clipboard, and then paste it into an email or text to send to a contact or yourself. Alternatively, you can tap one of the suggested apps to send the link there.  
 ![FaceTime app on iPhone with Create Link, Copy, and Join My FaceTime highlighted](https://www.lifewire.com/thmb/v19aQbgVNHjz4LM82TipY62hlZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SendLink-e9a6082b8665420993fad79478332dcd.jpg)  
  If you want to send the link to yourself, post it in a private chat in an app you can also access on your Windows computer, such as Facebook Messenger, Telegram, or[WhatsApp](https://www.lifewire.com/use-whatsapp-on-laptop-computer-4051534) .
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On your Windows computer, locate the FaceTime link and open it in the Microsoft Edge or Google Chrome web browser. It won't work in other web browsers.
 4. Enter a name in the space provided, then press**Continue** .  
 ![A name entered into the FaceTime web browser page on Windows 11](https://www.lifewire.com/thmb/ZEP2aHLtZX2KJLgKV21j-4haA98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facetime-windows-name-d8a7bf2c815d4f7eaa9368e479d1ed0f.png)
 5. Select**Join** to request to be added to the FaceTime call on Windows.  
 ![Join button highlighted on a FaceTime call in Chrome for Windows 11.](https://www.lifewire.com/thmb/0jH0gbIbBilrl4kUqu3LvppSmcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-GetFaceTimeonWindows-annotated-295a1a53f99b4b6992c46de0bdbfff06.jpg)
 6. The Apple user needs to accept the request by selecting the**checkbox** on their screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Checkbox highlighted in the FaceTime app for iPad.](https://www.lifewire.com/thmb/lt4n0fOeu3xW12FGuGS1sq-fAvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-GetFaceTimeonWindows-annotated-7bbae059fdc2434994ef40d7fb2c16ea.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I Need to Install FaceTime on My Windows Computer?
 
  There is no FaceTime app for Windows computers, nor do you need one. On Windows, FaceTime can be run completely from within a web browser by clicking a chat invite link sent from someone with an Apple device.  
 
  You can't start a FaceTime chat on a Windows computer. You’re only able to join an existing one created on an Apple device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is FaceTime for PC Safe?
 
@@ -90,5 +113,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-in-game-magic-discover-4-ways-to-preserve-your-gaming-sessions/"><u>[New] In 2024, In-Game Magic Discover 4 Ways to Preserve Your Gaming Sessions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solved-bcm2045a0-driver-issues-quickly-and-easily/"><u>[SOLVED] BCM2045A0 Driver Issues | Quickly & Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-ppts-potential-with-voiceover-techniques/"><u>[Updated] 2024 Approved Unlocking PPT's Potential with Voiceover Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-balancing-frameworks-for-engaging-visual-media-for-2024/"><u>[Updated] Balancing Frameworks for Engaging Visual Media for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-crucial-tasks-to-complete-when-starting-with-your-new-desktop/"><u>5 Crucial Tasks to Complete When Starting with Your New Desktop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bring-tiktok-to-life-easy-ways-to-view-shorts-on-a-larger-screen/"><u>Bring TikTok to Life - Easy Ways to View Shorts on a Larger Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-ray-tracing-techniques-explained-simply/"><u>Demystifying Ray Tracing Techniques Explained Simply</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/fluent-futures-shape-your-world-with-new-languages-vr/"><u>Fluent Futures: Shape Your World with New Languages VR</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-note-12-proplus-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi Note 12 Pro+ 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/keep-your-calls-anonymous-concealing-your-contact-info-in-android-settings/"><u>Keep Your Calls Anonymous: Concealing Your Contact Info in Android Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-for-windows-11s-software-folder-restarts/"><u>Quick-Fix Guide for Windows 11'S Software Folder Restarts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-solution-resolving-your-magic-mouses-tracking-issues/"><u>Simple Solution: Resolving Your Magic Mouse's Tracking Issues</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/smart-savings-with-style-second-generation-totobay-luminous-alarm-clock-unveiled/"><u>Smart Savings with Style: Second Generation Totobay Luminous Alarm Clock Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-d3dx928dll-missing-error-effective-solutions-and-tips/"><u>Troubleshooting 'd3dx9_28.dll' Missing Error: Effective Solutions and Tips</u></a></li>
+</ul></div>
 

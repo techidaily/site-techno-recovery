@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Great Photography with Your iPhone or iPad
-date: 2024-09-17T00:26:56.656Z
-updated: 2024-09-20T16:35:15.522Z
+date: 2024-09-24T20:53:16.926Z
+updated: 2024-09-26T22:47:53.759Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Great Photography with Your iPhone or iPad
@@ -31,12 +31,26 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
 
 1. **Never turn it on.** If your iPhone is water damaged,**never try to turn it on or wake it** . You may be tempted to do that to see if it still works, but doing that can short out its electronics and damage them even more. In fact, you should avoid anything that could cause the electronics to function, like getting notifications that light up the screen. If your phone was off when it got wet, you're fine. If your device was on,[turn it off](https://www.lifewire.com/turn-off-your-iphone-2000114) (this is a little risky, but it's better than leaving it on with all functions running).
 2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Advanced Techniques for Fixing a Wet iPhone
 
@@ -53,6 +67,13 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 1. **Take it apart.** You can take your iPhone apart to dry out the wet parts. Separate the parts to air dry or leave them in a bag of rice for a day or two and then re-assemble the device.  
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
@@ -61,10 +82,16 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Check for Water Damage in a Used iPhone or iPod
@@ -81,13 +108,6 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 
 * [What To Do with an iPhone That Won't Turn On](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281)
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Waterproof iPhones: iPhone 7 and Newer
 
@@ -124,5 +144,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-rise-to-success-with-these-essential-15-fb-sales-insights/"><u>[New] Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-cutting-edge-android-camera-techniques-and-tools-for-2024/"><u>[Updated] Cutting-Edge Android Camera Techniques & Tools for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-uncovering-individual-email-ids-safely/"><u>A Comprehensive Guide: Uncovering Individual Email IDs Safely</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-owc-mercury-pro-exceptional-storage-speed-and-capacity/"><u>Comprehensive Evaluation of the OWC Mercury Pro: Exceptional Storage Speed & Capacity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808328196-download-directx-on-windows-1110-fast-simple-steps-inside/"><u>Download DirectX on Windows 11/10: Fast, Simple Steps Inside!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-phantom-v-fold-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Phantom V Fold Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-timeless-tales-of-summer-delight-top-10-kids-movies/"><u>In 2024, Timeless Tales of Summer Delight Top 10 Kid's Movies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-zte-nubia-flip-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your ZTE Nubia Flip 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-vehicle-we-can-use-it-as-a-benchmark/"><u>IPhone Vehicle, We Can Use It as a Benchmark</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-link-effortless-hdmi-integration-for-laptops-and-televisions/"><u>Mastering the Link: Effortless HDMI Integration for Laptops and Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-twitch-presence-with-these-critical-5-streaming-essentials/"><u>Maximize Your Twitch Presence with These Critical 5 Streaming Essentials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/skyrocket-your-computer-efficiency-with-these-7-high-impact-techniques/"><u>Skyrocket Your Computer Efficiency with These 7 High-Impact Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stop-unwanted-anonymous-phone-interruptions-with-these-iphone-tips/"><u>Stop Unwanted Anonymous Phone Interruptions with These iPhone Tips</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/top-12-advantages-and-applications-of-educational-tech-tools/"><u>Top 12 Advantages and Applications of Educational Tech Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-windows-10-camera-software-review-top-10-for-2024/"><u>Ultimate Windows 10 Camera Software Review - Top 10 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-lifespan-of-a-mailcom-email-address-when-does-it-end/"><u>Understanding the Lifespan of a Mail.com Email Address – When Does It End?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-innovations-define-the-latest-generation-of-ipads-on-the-market/"><u>What Innovations Define The Latest Generation of iPads on the Market?</u></a></li>
+</ul></div>
 

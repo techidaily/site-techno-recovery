@@ -1,7 +1,7 @@
 ---
 title: "Securing Administrative Access: A Guide to Gaining Control Over the TrustedInstaller Service on Windows 10"
-date: 2024-09-19T02:32:42.839Z
-updated: 2024-09-21T04:01:08.865Z
+date: 2024-09-21T22:34:05.978Z
+updated: 2024-09-26T20:14:56.461Z
 categories:
   - BestProducts
 description: "This Article Describes Securing Administrative Access: A Guide to Gaining Control Over the TrustedInstaller Service on Windows 10"
@@ -43,6 +43,20 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
  While having your favorite Pokémon appear alongside you on your trainer profile and walk on the map can be cool, there are several more practical benefits to having a buddy Pokémon.
@@ -66,22 +80,24 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 4. Drag your finger back and forth to pat it. If you’re patting your Pokémon buddy correctly, you should see sparkles.  
 ![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
@@ -89,13 +105,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
@@ -134,5 +143,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-ideal-summertime-screens-top-10-family-vacay-movies-for-2024/"><u>[New] Ideal Summertime Screens Top 10 Family Vacay Movies for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-crafting-engaging-tiktok-content-on-computers/"><u>[New] In 2024, Crafting Engaging TikTok Content on Computers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-eagle-eyed-elites-superior-laptops-for-high-res-video-edits/"><u>[New] In 2024, Eagle-Eyed Elites Superior Laptops for High-Res Video Edits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-up-your-podcast-game-with-expert-guidance-on-zooming-into-quality-for-2024/"><u>[New] Step Up Your Podcast Game with Expert Guidance on Zooming Into Quality for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-remote-opportunities-6-innovative-applications/"><u>ChatGPT & Remote Opportunities: 6 Innovative Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-using-apple-books-to-shop-for-and-read-e-books/"><u>Comprehensive Guide on Using Apple Books to Shop for and Read E-Books</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-pitaka-magez-car-phone-stand-evaluation-is-it-the-ultimate-iphone-support-system/"><u>Comprehensive Pitaka MagEZ Car Phone Stand Evaluation: Is It the Ultimate iPhone Support System?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-the-dots-bridging-apples-homepod-with-your-flat-screen-display/"><u>Connecting the Dots: Bridging Apple's HomePod with Your Flat Screen Display</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Pattern Lock Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y55s-5g-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y55s 5G (2023) For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-14-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 14 Plus or iPad?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-gmail-cleanup-the-complete-method-to-remove-all-correspondence/"><u>Mastering Gmail Cleanup: The Complete Method to Remove All Correspondence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roblox-server-status-are-you-experiencing-downtime-or-is-it-just-your-connection/"><u>Roblox Server Status: Are You Experiencing Downtime or Is It Just Your Connection?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rumor-or-reality-uncover-expected-price-features-and-launch-date-for-the-new-apple-ring-device/"><u>Rumor or Reality?: Uncover Expected Price, Features & Launch Date for the New Apple Ring Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-ociiodll-not-detected-a-comprehensive-guide/"><u>Solving the 'OCIIoDLL' Not Detected: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/surface-pro-4-driver-setup-for-windows-pcs/"><u>Surface Pro 4 Driver Setup for Windows PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/thawing-your-macbook-air-a-step-by-step-guide/"><u>Thawing Your MacBook Air: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-error-libgdkwin32-20-dll-component-absent-on-windows-systems/"><u>Troubleshooting the Error: Libgdk_win32-2.0 DLL Component Absent on Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-email-whitelisting/"><u>Ultimate Guide: Mastering the Art of Email Whitelisting</u></a></li>
+</ul></div>
 

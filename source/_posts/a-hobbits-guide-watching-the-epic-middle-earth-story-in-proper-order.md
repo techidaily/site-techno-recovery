@@ -1,7 +1,7 @@
 ---
 title: "A Hobbit's Guide: Watching the Epic Middle-Earth Story in Proper Order"
-date: 2024-09-18T16:59:07.100Z
-updated: 2024-09-20T22:13:54.529Z
+date: 2024-09-23T07:40:11.723Z
+updated: 2024-09-27T07:34:07.084Z
 categories:
   - BestProducts
 description: "This Article Describes A Hobbit's Guide: Watching the Epic Middle-Earth Story in Proper Order"
@@ -42,6 +42,13 @@ New Line Cinemas
 
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Order of Release
 
  Do you want to watch_The Lord of the Rings_ , including_The Hobbit_ , in the order they were released? Many people do this to experience how it felt to experience the Tolkien story in the way Director Peter Jackson told it on the screen. This is because there is information and elements of the story which make more sense to moviegoers who've already seen the LOTR trilogy.
@@ -57,6 +64,13 @@ New Line Cinemas
 | _The Hobbit: The Desolation of Smaug_               | December 13, 2013 | Max                 | [•](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ea9f6fe-4cd5-5dda-2f7d-e1b3a210317a?autoplay=1&ref%5F=atv%5Fcf%5Fstrg%5Fwb&tag=lifewire-onsite-prod-20&ascsubtag=5087754%7Cn82158aa69c064a6d9a0d29aff5c71c3b07%7C) Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube |
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Is the Right Order?
 
  While you could boil 'em, mash 'em, and stick 'em in a stew, some of the stories in_The Lord of the Rings_ set up the viewer for seeing those tales unfold in_The Hobbit_ trilogy. On the other hand, the actual storyline in The Hobbit itself serves as a backdrop to events that take place in LOTR.
@@ -64,10 +78,10 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Does 'The Rings of Power' Take Place?
@@ -77,10 +91,10 @@ New Line Cinemas
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is 'The Hunt for Gollum'?
@@ -129,5 +143,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-mind-puzzling-stats-a-graphed-journey-through-yt-17-for-2024/"><u>[Updated] Mind-Puzzling Stats A Graphed Journey Through YT '17 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-peak-viewership-decoding-the-ideal-video-release-time/"><u>[Updated] Peak Viewership Decoding the Ideal Video Release Time</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-treasure-trove-of-discounts-top-10-sites-for-box-purchases-for-2024/"><u>A Treasure Trove of Discounts Top 10 Sites for Box Purchases for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-energy-efficient-laptops-with-gamers-features/"><u>Best Energy-Efficient Laptops with Gamers' Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-the-surface-explore-10-unexpected-facts-on-popular-emojis/"><u>Beyond the Surface: Explore 10 Unexpected Facts on Popular Emojis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-capture-screenshots-in-windows-11-using-4-simple-steps/"><u>Boost Your Productivity: Capture Screenshots in Windows 11 Using 4 Simple Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/building-or-buying-a-desktop-navigating-towards-the-perfect-fit-for-you/"><u>Building Or Buying A Desktop: Navigating Towards The Perfect Fit For You</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easy-mastery-of-movie-capturing-from-pc-mac-and-mobile-devices-for-2024/"><u>Easy Mastery of Movie Capturing From PC, Mac & Mobile Devices for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-handling-missing-d3dx926dll-file-alerts/"><u>Effective Fixes for Handling Missing d3dx9_26.dll File Alerts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-online-conversor-de-video-para-formatos-qt-e-wmv-aplicativo-facil-de-uso-do-movavi/"><u>Gratuito Online: Conversor De Vídeo Para Formatos QT E WMV - Aplicativo Fácil De Uso Do Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 12 when Phone is Broken?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insights-on-apples-new-earbud-style-wearable-with-hands-free-sound-leaked-info-and-anticipated-cost/"><u>Insights on Apple's New Earbud-Style Wearable with Hands-Free Sound: Leaked Info & Anticipated Cost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-budget-tips-for-securing-discounts-on-lenovo-products-for-students/"><u>Maximize Your Budget: Tips for Securing Discounts on Lenovo Products for Students</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolve-your-stadia-headset-connection-woes-step-by-step-troubleshooting-tips/"><u>Resolve Your Stadia Headset Connection Woes: Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-of-invisible-wi-fi-networks-a-step-by-step-guide/"><u>Solving the Issue of Invisible Wi-Fi Networks: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-out-windows-11-memory-dump-data/"><u>Step-by-Step Guide: Clearing Out Windows 11 Memory Dump Data</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-mastering-the-art-of-creating-tiktok-dual-videos/"><u>The Ultimate Guide: Mastering the Art of Creating TikTok Dual Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-removing-applications-from-your-mac-device/"><u>Ultimate Guide: Removing Applications From Your Mac Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Versatility of Smartwatches: What Can These Wrist Companions Do?"
-date: 2024-09-20T01:19:28.713Z
-updated: 2024-09-20T22:58:30.497Z
+date: 2024-09-25T07:23:02.199Z
+updated: 2024-09-26T17:36:14.324Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Versatility of Smartwatches: What Can These Wrist Companions Do?"
@@ -26,6 +26,13 @@ Close
 
 ###  What Is a Smartwatch and What Do They Do?
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Short History of the Smartwatch
 
  While digital watches have been around for decades—some with abilities like calculators and unit converters—only in the 2010s did tech companies begin releasing watches with smartphone-like abilities.
@@ -40,6 +47,13 @@ Close
 
  Likewise, companies like Suunto released smartwatches optimized for scuba diving that withstand extended time at significant depths.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Do Smartwatches Do?
 
  Most smartwatches—whether they're intended for daily use (as with the Apple Watch) or for specific purposes (as with the Garmin Fenix)—offer a suite of standard features:
@@ -52,6 +66,13 @@ Close
 * **GPS** : Most smartwatches include[ GPS](https://www.lifewire.com/how-gps-works-1683296) for tracking your location or receiving location-specific alerts.
 * **Good battery life** : Modern smartwatches feature batteries that get you through the day, with normal use, with a bit of juice still left to go. Battery use varies; the Apple Watch typically gets 18 hours of normal use on a single charge, while the Samsung Galaxy gets up to 40 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Types of Smartwatches
 
  Broadly speaking, smartwatches occupy two niches in the wearables market. First, a general-purpose smartwatch—like the Apple Watch and most Google-powered Wear devices—blend form and function.
@@ -59,6 +80,13 @@ Close
  They're designed to replace mechanical wristwatches and are heavily smartphone-dependent. Think of them as a support device for your phone that you happen to keep on your wrist.
 
 ![Man hand with Apple Watch and app Icon on screen](https://www.lifewire.com/thmb/na1qd-hiXDx4g3EILPtWmXhPeuw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-492655340-5bd79e4046e0fb00515754d0.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You also see vendor-specific classes of general-purpose smartwatches in the consumer market:
 
@@ -71,13 +99,6 @@ Close
 
 ![Garmin vivofit, sport fitness tracker and clock](https://www.lifewire.com/thmb/1Xr6meqfDSdaYTNjAB-Dw1WZShY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-520265419-5bd79e88c9e77c00513fcd8d.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  franckreporter/Getty Images 
 
  Examples of these specialized devices include:
@@ -85,19 +106,6 @@ Close
 * **Hiking watches** : Intended for remote travel and featuring solid battery life, GPS tracking and navigation, basic vitals, and weather forecasting. Often engineered for advanced durability to protect against bumps, drops, dust, and water. Examples include the Garmin Fenix 5 Plus, the Suunto 9 Baro, and the 2022[ Apple Watch Ultra](https://www.lifewire.com/apple-watch-pro-news-and-rumors-6362732) .
 * **Diving watches** : Connect your first-stage regulator to a Bluetooth transmitter to use a diving watch. Garmin's Descent Mk2i and Suunto's DX offer depth, time-remaining, temperature, and other important indicators. And the Apple Watch Ultra can make use of the[ Oceanic+ Dive Computer App](https://apps.apple.com/app/id1610517133) to calculate dive times, display a number of different stats, and can handle depths of up to 130 feet (40 meters).
 * **Flying watches** : A niche market, but Garmin's MARQ Aviator Gen. 2 offers a jet-lag advisor, GPS-powered moving map, NEXRAD weather reports (using METARs, TAFs and MOS2), flight logging, a barometric altimeter, and more.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Smartwatch Market Growth
 
@@ -145,5 +153,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-speedy-instagram-content-mobile-and-online-solutions/"><u>[New] 2024 Approved Speedy Instagram Content Mobile & Online Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-creativity-essential-angles-in-mobile-shooting/"><u>[New] Unleashing Creativity Essential Angles in Mobile Shooting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-psvr-2-pricing-launch-date-and-detailed-tech-specs-covered/"><u>All You Need to Know About PSVR 2 - Pricing, Launch Date, and Detailed Tech Specs Covered</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/direct-approaches-to-storing-google-voice-communications-for-2024/"><u>Direct Approaches to Storing Google Voice Communications for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-5-app-tools-to-expand-your-circle-of-friends/"><u>Discover the Ultimate 5 App Tools to Expand Your Circle of Friends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-archived-websites-easily-the-ultimate-guide-to-navigating-the-wayback-machine/"><u>Explore Archived Websites Easily: The Ultimate Guide to Navigating the Wayback Machine</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-motorola-edgeplus-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Motorola Edge+ (2023)?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-the-art-of-uplifting-daily-existence-videos/"><u>In 2024, Mastering the Art of Uplifting Daily Existence Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-users-ultimate-tutorial-creating-a-map-for-external-drive-connections/"><u>MacOS User's Ultimate Tutorial: Creating a Map for External Drive Connections</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pixelated-palace-beginner-friendly-home-design-guide-for-2024/"><u>Pixelated Palace Beginner-Friendly Home Design Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-photoshop-scratch-disk-capacity-issue/"><u>Resolving the Photoshop Scratch Disk Capacity Issue</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966519939-seamless-update-processes-for-windows-find-download-and-implement-the-best-sata-drivers-today/"><u>Seamless Update Processes for Windows: Find, Download, and Implement the Best SATA Drivers Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-freeing-up-space-by-flushing-your-android-devices-memory/"><u>Step-by-Step Guide: Freeing Up Space by Flushing Your Android Device's Memory</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-psvr-headset-with-windows-pc/"><u>Step-by-Step Guide: Linking Your PSVR Headset with Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-how-to-restoring-and-reinstalling-windows-on-dell-laptops/"><u>Ultimate How-To: Restoring and Reinstalling Windows on Dell Laptops</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-c67-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme C67 5G Device</u></a></li>
+</ul></div>
 

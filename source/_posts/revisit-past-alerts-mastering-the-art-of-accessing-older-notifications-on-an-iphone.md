@@ -1,7 +1,7 @@
 ---
 title: "Revisit Past Alerts: Mastering the Art of Accessing Older Notifications on an iPhone"
-date: 2024-09-15T02:39:01.498Z
-updated: 2024-09-20T21:18:27.195Z
+date: 2024-09-26T05:49:51.096Z
+updated: 2024-09-26T16:34:41.827Z
 categories:
   - BestProducts
 description: "This Article Describes Revisit Past Alerts: Mastering the Art of Accessing Older Notifications on an iPhone"
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Awkward Potion Recipe
 
  Here are the materials required to brew an Awkward Potion in Minecraft:  
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 * 1 Blaze Powder (craft with 1 Blaze Rod)  
 * 1 Water Bottle  
 * 1 Nether Wart  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does an Awkward Potion Do in Minecraft?
 
@@ -97,12 +111,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-overcoming-inaudibility-in-obs-captured-audio/"><u>[New] In 2024, Overcoming Inaudibility in OBS Captured Audio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-brand-partnerships-for-youtube-content-creators/"><u>[New] Leveraging Brand Partnerships for YouTube Content Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-your-worlds-masterful-tricks-for-mirrorcasting-android-phones-onto-a-firestick/"><u>Connect Your Worlds: Masterful Tricks for Mirrorcasting Android Phones Onto a Firestick</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-era-with-apples-cutting-edge-iphone-release-event/"><u>Exploring the New Era with Apple's Cutting-Edge iPhone Release Event</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722844260698-laptops-smartphones-and-books-oh-my/"><u>Laptops, Smartphones, and Books, Oh My!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-your-youtube-settings-stop-auto-play-videos-for-2024/"><u>Master Your YouTube Settings - Stop Auto-Play Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-attracting-more-followers-on-xtwitter-easily-and-effectively/"><u>Mastering the Art of Attracting More Followers on X/Twitter Easily and Effectively</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-unforeseen-glitches-on-your-windows-11-machine-a-step-by-step-fix-guide/"><u>Navigating Unforeseen Glitches on Your Windows 11 Machine: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-leap-in-neural-networks-what-about-gpt-5/"><u>Next Leap in Neural Networks: What About GPT-5?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revamping-performance-easily-refreshing-the-nvidia-gtx-1660-drivers-in-minutes/"><u>Revamping Performance: Easily Refreshing the Nvidia GTX 1660 Drivers in Minutes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seamless-video-recording-on-facebook-with-top-5-tools/"><u>Seamless Video Recording on Facebook with Top 5 Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-your-oculus-questquest-ebook-a-comprehensive-guide/"><u>Setting Up Your Oculus Quest/Quest Ebook: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/understanding-instagram-video-count-constraints-for-2024/"><u>Understanding Instagram Video Count Constraints for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-profile-on-facebook-steps-for-those-missing-contact-info/"><u>Unlocking Your Profile on Facebook - Steps for Those Missing Contact Info</u></a></li>
+</ul></div>
 

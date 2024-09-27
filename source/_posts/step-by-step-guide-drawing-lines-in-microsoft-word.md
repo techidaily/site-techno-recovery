@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Drawing Lines in Microsoft Word"
-date: 2024-09-17T22:01:26.887Z
-updated: 2024-09-20T20:26:00.790Z
+date: 2024-09-22T06:21:41.446Z
+updated: 2024-09-27T00:30:21.936Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Drawing Lines in Microsoft Word"
@@ -37,17 +37,38 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
@@ -74,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -88,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -109,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
@@ -157,5 +164,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-by-step-guide-find-your-own-tiktok-stream-key-for-2024/"><u>[New] [Step-by-Step Guide] Find Your Own TikTok Stream Key for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-make-waves-in-the-social-ocean-integrate-tiktok-into-your-insta-reels/"><u>[Updated] 2024 Approved Make Waves in the Social Ocean Integrate TikTok Into Your Insta Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-iphones-shutter-speed-for-movement/"><u>2024 Approved Harnessing the Power of iPhone's Shutter Speed for Movement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-5-photo-background-modifier-tools-x87-series/"><u>2024 Approved Leading 5 Photo Background Modifier Tools X/8/7 Series</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descubre-el-visor-de-fotografias-ideal-para-usar-en-windows-11-top-sugerencias/"><u>Descubre El Visor De Fotografías Ideal Para Usar en Windows 11 - Top Sugerencias</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-removed-contacts-a-guide-to-retrieving-lost-numbers-from-your-android-device/"><u>Discovering Removed Contacts: A Guide to Retrieving Lost Numbers From Your Android Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-look-at-rumored-apple-fitness-band-what-to-expect-in-terms-of-features-and-pricing/"><u>Exclusive Look at Rumored Apple Fitness Band – What to Expect in Terms of Features and Pricing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-oled-screens-operate-unveiling-the-mechanism/"><u>How Do OLED Screens Operate? Unveiling the Mechanism</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024-comprehensive-guide-to-new-windows-service-pack-updates/"><u>July 2024: Comprehensive Guide to New Windows Service Pack Updates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/noise-reduction-for-better-video-experiences-on-youtube-for-2024/"><u>Noise Reduction for Better Video Experiences on YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/perfect-order-for-watching-all-superman-movies-a-viewers-guide/"><u>Perfect Order for Watching All 'Superman' Movies: A Viewer's Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/utionize-your-content-delivery-with-live-streaming-expertise/"><u>Revolutionize Your Content Delivery with Live Streaming Expertise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-to-correct-the-not-found-ac1st16dll-message/"><u>Step-by-Step Fixes to Correct the Not Found Ac1St16.DLL Message</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-beginners-roadmap-to-connecting-a-chromecast-remote-make-it-work-perfectly/"><u>The Beginner's Roadmap to Connecting A Chromecast Remote – Make It Work Perfectly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-bright-with-amazon-prime-day-2024-unveiling-whats-in-store-for-bargain-hunters/"><u>The Future Is Bright with Amazon Prime Day 2024 - Unveiling What's In Store for Bargain Hunters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-32-complimentary-backup-solutions-your-definitive-guide-and-analysis/"><u>Top 32 Complimentary Backup Solutions: Your Definitive Guide & Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-solving-issues-with-a-non-functioning-firestick-remote/"><u>Troubleshooting Tips: Solving Issues with a Non-Functioning Firestick Remote</u></a></li>
+</ul></div>
 

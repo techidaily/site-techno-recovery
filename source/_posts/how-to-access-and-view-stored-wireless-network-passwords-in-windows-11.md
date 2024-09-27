@@ -1,7 +1,7 @@
 ---
 title: How to Access and View Stored Wireless Network Passwords in Windows 11
-date: 2024-09-18T19:30:04.058Z
-updated: 2024-09-20T18:47:15.360Z
+date: 2024-09-25T20:36:35.557Z
+updated: 2024-09-27T04:59:57.188Z
 categories:
   - BestProducts
 description: This Article Describes How to Access and View Stored Wireless Network Passwords in Windows 11
@@ -33,7 +33,22 @@ thumbnail: https://www.lifewire.com/thmb/y5kkPs6EGaFgj6L6HEiVY9k3THo=/400x300/fi
 3. Choose the Wi-Fi network listed as**Connected** .  
 ![Wi-Fi settings in Windows 11](https://www.lifewire.com/thmb/bhH-9VuFoCODAR-6GvOHYewTIls=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-wi-fi-settings-51c2df038e7e487eb876f3d33c2c29b5.png)
 4. Scroll to the bottom and choose**View** to see the Wi-Fi password.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A Wi-Fi password displayed in Windows 11 Settings](https://www.lifewire.com/thmb/QFm5BWQGHpnnBFNXdkIsmbunWso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-wi-fi-password-4e708b5883104965a4afc64195dd43aa.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View Wi-Fi Passwords in Windows 11 Control Panel
 
@@ -44,10 +59,26 @@ thumbnail: https://www.lifewire.com/thmb/y5kkPs6EGaFgj6L6HEiVY9k3THo=/400x300/fi
 2. Select**Network and Internet** \>**Network and Sharing Center** .  
 ![Network and Internet and Network and Sharing Center in Windows Control Panel](https://www.lifewire.com/thmb/HT2QUOSjcz8gJxGwB6RvWqtMezo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_find-wifi-password-on-windows-11-5216845-8073b99aea23455fa0be2a3f34158e0f.jpg)
 3. Select the network name next to**Connections** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Connections: Wi-Fi highlighted in Windows Network and Sharing Center](https://www.lifewire.com/thmb/AWY-19Zg3leiYniXwcR4ypNAgN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_find-wifi-password-on-windows-11-5216845-8d0585c1a9794654847d16d0662ee1f7.jpg)
 4. Select**Wireless Properties** .  
 ![Wireless Properties in Windows Wi-Fi Connections](https://www.lifewire.com/thmb/DpMgVGcpnlDqkek7-IC7KS74xcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_find-wifi-password-on-windows-11-5216845-4ce6ae5a405d4157addd33d139d41532.jpg)
 5. Open the**Security** tab and choose**Show characters** . You'll find the Wi-Fi password in the**Network security key** box.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Security and Show characters in Windows Wireless Properties](https://www.lifewire.com/thmb/qI7hMw7f2MakNbTxxuVVq_9uvhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_find-wifi-password-on-windows-11-5216845-4bfb99976f494124a3250fc1e0b950e1.jpg)
 
 ## How to View Wi-Fi Passwords for Old Networks
@@ -58,23 +89,22 @@ thumbnail: https://www.lifewire.com/thmb/y5kkPs6EGaFgj6L6HEiVY9k3THo=/400x300/fi
 ![Run as an administrator under Command Prompt in Windows Search](https://www.lifewire.com/thmb/bMKKbubk1ngHB_cw3XC26rZQY98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_find-wifi-password-on-windows-11-5216845-aa25a24986324c52bae079f42260ea69.jpg)  
  Another way there is through[Terminal](https://www.lifewire.com/windows-terminal-4779951) . Press**Win** +**X** and then select**Terminal (Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Type this into Command Prompt and then press**Enter** .  
  `netsh wlan show profiles`  
 ![The netsh wlan show profiles results in Command Prompt](https://www.lifewire.com/thmb/8W8Cx6VCJduquGVtFpMAj7JyDT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netsh-command-wi-fi-networks-5f3ecc20b8a342d0b1e5358611179dda.png)
 3. Listed here are all the Wi-Fi networks you've connected to from this device. Note the exact name of the network for which you need the password.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can[locate the name of the currently connected network](https://www.lifewire.com/find-name-of-your-wifi-network-5206127) if that's the one you're searching for in Command Prompt.
@@ -122,5 +152,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-designing-high-impact-tiktok-content-on-desktop/"><u>[Updated] Designing High Impact TikTok Content on Desktop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-full-potential-of-your-youtube-videos-with-these-tips/"><u>[Updated] Unlock the Full Potential of Your YouTube Videos with These Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exhaustive-evaluation-the-new-360-camera/"><u>2024 Approved Exhaustive Evaluation The New 360 Camera</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-frosty-frameworks-for-warm-video-productions/"><u>2024 Approved Frosty Frameworks for Warm Video Productions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-the-new-samsung-galaxy-watch-7-a-complete-breakdown-of-its-pricing-release-plans-and-technical-specs/"><u>All About the New Samsung Galaxy Watch 7: A Complete Breakdown of Its Pricing, Release Plans and Technical Specs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-life-into-photos-motion-blur-on-face-images-for-2024/"><u>Crafting Life Into Photos Motion Blur on Face Images for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-the-0x8e070570-issue-effective-troubleshooting-techniques/"><u>Demystifying the 0X8e070570 Issue - Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-top-507-inspiring-hashtags-and-captions-for-instagram/"><u>Discover the Top 507 Inspiring Hashtags and Captions for Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-easily-streaming-zoom-calls-from-pcmac-to-tv/"><u>Guide: Easily Streaming Zoom Calls From PC/Mac to TV</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-x100-pro-lock-screen-password-by-drfone-android/"><u>How To Change Vivo X100 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-twitter-toolsets-ultimate-list-of-clients-and-software/"><u>Leading Twitter Toolsets: Ultimate List of Clients & Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/saving-game-moments-with-fbx-recorder/"><u>Saving Game Moments with FBX Recorder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-enabling-2fa-in-your-gmail-account/"><u>Step-by-Step Guide: Enabling 2FA in Your Gmail Account</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-premium-ceiling-audio-solutions/"><u>The Ultimate Selection of Premium Ceiling Audio Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-on-leveraging-google-gemini-effectively/"><u>The Ultimate Tutorial on Leveraging Google Gemini Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-your-sites-service-temporarily-unavailable-expert-tips/"><u>Troubleshooting Your Site's Service Temporarily Unavailable: Expert Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmissable-discounts-on-ipads-shop-the-latest-savings-now/"><u>Unmissable Discounts on iPads – Shop the Latest Savings Now!</u></a></li>
+</ul></div>
 

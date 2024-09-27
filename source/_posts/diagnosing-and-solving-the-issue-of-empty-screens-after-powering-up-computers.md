@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Solving the Issue of Empty Screens After Powering Up Computers
-date: 2024-09-19T00:41:04.462Z
-updated: 2024-09-20T20:21:56.813Z
+date: 2024-09-25T19:43:06.128Z
+updated: 2024-09-27T01:54:10.707Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Solving the Issue of Empty Screens After Powering Up Computers
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
 
  If your computer is showing information on the monitor but is still not booting fully, see[How to Fix a Computer That Won't Turn On](https://www.lifewire.com/how-to-fix-a-computer-that-wont-turn-on-2624450) for a better troubleshooting guide. We also have unique solutions for[when a computer turns off right after turning on](https://www.lifewire.com/how-to-fix-a-computer-that-turns-on-and-then-off-2624444) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix a Computer That Turns on but Displays Nothing
 
  Try these common fixes in the order we present them:
@@ -42,6 +49,14 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
 6. [Reseat](https://www.lifewire.com/what-does-reseat-mean-2625987) everything possible inside your PC. Reseating will reestablish the various connections inside your computer and is very often a "magic" fix to problems like this one.  
 ![PC motherboard](https://www.lifewire.com/thmb/ZZzfc8Lt1xAaaZzhSPLA2gT6XMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/technology-1396677_1280-5c4263c2c9e77c0001be18e4.jpg)  
  skeeze/Pixabay  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Verify that all the cables are connected correctly. For example, if the onboard video card has been disabled, plugging a VGA cable into it will result in nothing on the monitor even if the computer is powered on. In this case, you'd want to plug the VGA cable into the correct video card.  
  Try reseating the following components and then test if your computer displays something on screen:  
    * [Reseat all internal data and power cables](https://www.lifewire.com/how-to-reseat-internal-data-and-power-cables-2624536)  
@@ -109,12 +124,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exploring-advanced-techniques-in-video-thumbnail-creation/"><u>[Updated] 2024 Approved Exploring Advanced Techniques in Video Thumbnail Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-enlarge-youtube-content-with-simple-techniques/"><u>[Updated] Enlarge YouTube Content with Simple Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-media-production-magix-video-pro-x-insights/"><u>[Updated] In 2024, Mastering Media Production Magix Video Pro X Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-innovations-of-sony-bdp-s6700-a-closer-look/"><u>[Updated] Innovations of Sony BDP-S6700 A Closer Look</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-are-m1-laptops-setting-the-standard-in-editing-studios/"><u>2024 Approved Are M1 Laptops Setting the Standard in Editing Studios?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-by-frame-excellence-selecting-webcams-for-podcasts/"><u>2024 Approved Frame-by-Frame Excellence Selecting Webcams for Podcasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-trainers-handbook-to-maximizing-fun-with-friends-while-catching-em-all-in-pokemon-go/"><u>A Trainer's Handbook to Maximizing Fun with Friends While Catching 'Em All in Pokémon GO</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-delete-the-native-apps-coming-with-iphone-operating-system/"><u>Can You Delete the Native Apps Coming with iPhone Operating System?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capture-whats-on-screen-a-users-manual-for-hp-laptop-photography/"><u>Capture What's On-Screen: A User's Manual for HP Laptop Photography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/coming-soon-the-apple-watch-series-x-teasers-on-costs-propelled-by-expert-speculations-and-release-schedules/"><u>Coming Soon? The Apple Watch Series X - Teasers on Costs, Propelled by Expert Speculations and Release Schedules</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-biometrics-what-you-need-to-know/"><u>Exploring the World of Biometrics: What You Need to Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-6-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 6 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-multi-monitor-mastery-a-step-by-step-guide/"><u>MacBook Multi-Monitor Mastery: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-deleting-cache-files-in-popular-web-browsers-with-this-guide/"><u>Master the Art of Deleting Cache Files in Popular Web Browsers with This Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-using-windows-telnet-client-effectively/"><u>Step-by-Step Instructions on Using Windows Telnet Client Effectively</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Spark 10 4G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Customizing MacOS Finder Display Options for Parent and Child Directories
-date: 2024-09-17T21:01:32.441Z
-updated: 2024-09-20T23:10:01.778Z
+date: 2024-09-20T16:17:27.527Z
+updated: 2024-09-27T00:54:16.363Z
 categories:
   - BestProducts
 description: This Article Describes Customizing MacOS Finder Display Options for Parent and Child Directories
@@ -32,6 +32,14 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
  Use your keyboard to switch Finder views by holding**Command** and pressing the numbers**1** through**4** .  
 ![Finder views in macOS](https://www.lifewire.com/thmb/-1a6hvV2FqLXkRbXwYweijPcXLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-set-finder-views-for-folders-and-subfolders-2260912-991c717c938e480b8b924d9f420ab036.jpg)
 3. After you select a Finder view, choose**Show View Options** from the Finder's**View** menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The keyboard shortcut is**Command+J** .  
 ![The Show View Options command in macOS](https://www.lifewire.com/thmb/pa3daxhKJu4nBG1OQJTHafyFXm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-set-finder-views-for-folders-and-subfolders-2260912-cfee9380fe544f30b08f2f1634898dc0.jpg)
 4. In the View Options dialog box that opens, set any parameters you wish for the selected view type, and then click the**Use as Defaults** button near the bottom of the dialog box.  
@@ -54,6 +62,13 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 
 [How to Change Folder Color on Mac](https://www.lifewire.com/change-folder-color-on-mac-5069823)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Automatically Assign a Finder View to All Sub-Folders
 
  The Finder has no method for easily setting a group of subfolders to the same Finder view as the parent folder. If you want all subfolders to match the parent folder, you could spend a few hours manually assigning views to each of the sub-folders, but luckily, there's a better way.
@@ -73,26 +88,27 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 6. If this option appears, select**New Document** when Automator opens.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Automator for earlier versions of macOS, this window doesn't open. If you don't see New Document, skip to step 7.  
 ![The New Document button in Automator](https://www.lifewire.com/thmb/nSaA1Q2751THCNCSo-OR1yO-j_g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-set-finder-views-for-folders-and-subfolders-2260912-820edce75aa1450f95c9ccc9aaaf6d6a.jpg)
 7. Select the**Workflow** template from the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Workflow template in Automator](https://www.lifewire.com/thmb/vEsmZ8hBClBDBwirlnhHW8nlJQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-set-finder-views-for-folders-and-subfolders-2260912-430150d5983d448f937588f1c1727c3d.jpg)
 8. Click the**Choose** button.  
 ![The Choose button in Automator](https://www.lifewire.com/thmb/DMfYE3l2XB7E5wMkecpYsinNfws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-set-finder-views-for-folders-and-subfolders-2260912-0b8dfe90cc5546c5a7b9ab48b454f642.jpg)
 9. Select the**Files & Folders** item in the**Library** of available actions.  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Files & Folders option in Library](https://www.lifewire.com/thmb/0-NPiltIjrAb8-NfrI5bpO-v58M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-set-finder-views-for-folders-and-subfolders-2260912-665024da0e5b42b3b84657cd9df18206.jpg)
 10. In the second column, grab the**Get Specified Finder Items** action and drag it to the workflow pane.  
@@ -100,44 +116,53 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 11. Click the**Add** button in the**Get Specified Finder Items** action you just placed in the workflow pane.  
 ![The Add button in Automator workflow](https://www.lifewire.com/thmb/izLQ3NLAYyrwpXifXGBUKrD1fGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-set-finder-views-for-folders-and-subfolders-2260912-e30e925fd2a44068bd06de09b71a78b3.jpg)
 12. Browse to the folder whose view settings you wish to propagate to all of its sub-folders, and then click the**Add** button.  
-![The Add button](https://www.lifewire.com/thmb/Qtq5KmQ7teLtjNi700TZBDLGJV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012-set-finder-views-for-folders-and-subfolders-2260912-8bb02bae6a634124ba61a5cd21444de9.jpg)
-13. Return to the Library pane and drag the**Set Folder Views** action to the**Workflow** pane. Drop the action just below the**Get Specified Finder Items** action already in the**Workflow** pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Add button](https://www.lifewire.com/thmb/Qtq5KmQ7teLtjNi700TZBDLGJV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012-set-finder-views-for-folders-and-subfolders-2260912-8bb02bae6a634124ba61a5cd21444de9.jpg)
+13. Return to the Library pane and drag the**Set Folder Views** action to the**Workflow** pane. Drop the action just below the**Get Specified Finder Items** action already in the**Workflow** pane.  
 
 ![Drag the "Set Folder View" action to the workspace](https://www.lifewire.com/thmb/sDznFjuE-2coeUgl7RmxA1Mf3Sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013-set-finder-views-for-folders-and-subfolders-2260912-c6ea4922f3894a29b1c4d79bed4d48af.jpg)
 14. Use the options displayed in the**Set Folder Views** action to tweak how you want the specified folder to display. It should already show the current folder's configuration for views, but you can fine-tune some parameters here.  
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Folder View drop-down menu in Automator](https://www.lifewire.com/thmb/Wczpaly2z_-R8jUPy97yLstOMZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014-set-finder-views-for-folders-and-subfolders-2260912-8fd62636eb484099a3395c5d25df3043.jpg)
 15. Place a checkmark in the**Apply Changes to Subfolders** box.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The "Apply Changes to Sub-folders" box](https://www.lifewire.com/thmb/xyedZj16jkocYMXP-P_mXHFUnfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/015-set-finder-views-for-folders-and-subfolders-2260912-4db50e63fc264b5483b4b4d05255dc69.jpg)
 16. Once you have everything configured the way you want it, click the**Run** button in the top-right corner.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Run button](https://www.lifewire.com/thmb/rJ1zY42vwk5PJ5JAM_Py8L5QgTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/016-set-finder-views-for-folders-and-subfolders-2260912-8445f658719f410499ac65fe1e3d996f.jpg)
 17. The**Finder View** options will copy to all sub-folders.
 
@@ -170,5 +195,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unlock-high-quality-video-playback-with-av1-on-youtube/"><u>[New] 2024 Approved Unlock High-Quality Video Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-video-game-top-10-keyword-strategy-resources/"><u>[New] In 2024, Elevate Your Video Game Top 10 Keyword Strategy Resources</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-boost-your-media-creation-skills-a-detailed-walkthrough-of-movie-maker-on-windows-8/"><u>2024 Approved Boost Your Media Creation Skills A Detailed Walkthrough of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-mobile-apps-to-watch-movies-online/"><u>Best Free Mobile Apps to Watch Movies Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-pokemn-unite-skills-every-gamer-should-know/"><u>Essential Pokémn Unite Skills Every Gamer Should Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-ussd-what-does-unstructured-supplementary-service-data-mean/"><u>Exploring the World of USSD: What Does Unstructured Supplementary Service Data Mean?</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-mfc42dll-is-missing-or-not-found-errors/"><u>How to Fix Mfc42.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-mac-simple-solutions-explored/"><u>How to Restore Sound on Your Mac: Simple Solutions Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-synthetic-adventures-starts-here-top-vr-tools-10/"><u>In 2024, Synthetic Adventures Starts Here Top VR Tools (10)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lifelike-broadcasts-which-aspect-holds-the-high-ground-for-2024/"><u>Lifelike Broadcasts Which Aspect Holds the High Ground for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-find-your-new-look-with-free-windows-11-customization/"><u>The Ultimate List: Find Your New Look with Free Windows 11 Customization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-lameencdll-failures-for-smooth-audio-conversion-in-audacity/"><u>Troubleshooting lame_enc.dll Failures for Smooth Audio Conversion in Audacity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-core-dll-files-on-your-pc/"><u>Troubleshooting Missing Core DLL Files on Your PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-latest-windows-aoc-driver/"><u>Upgrade to Latest Windows AOC Driver</u></a></li>
+</ul></div>
 

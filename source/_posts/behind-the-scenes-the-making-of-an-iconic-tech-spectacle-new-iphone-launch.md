@@ -1,7 +1,7 @@
 ---
 title: "Behind the Scenes: The Making of an Iconic Tech Spectacle - New iPhone Launch"
-date: 2024-09-17T01:26:03.418Z
-updated: 2024-09-20T18:08:52.986Z
+date: 2024-09-24T06:34:57.012Z
+updated: 2024-09-26T17:09:52.557Z
 categories:
   - BestProducts
 description: "This Article Describes Behind the Scenes: The Making of an Iconic Tech Spectacle - New iPhone Launch"
@@ -59,10 +59,16 @@ Lifewire / Rob LeFebvre
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Nothing Phone 3 Specs and Features
@@ -70,10 +76,10 @@ Lifewire / Rob LeFebvre
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Newer Chip (but Just How New)?
@@ -88,9 +94,23 @@ Lifewire / Rob LeFebvre
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Signature Glyph, Improved
 
@@ -102,31 +122,11 @@ Nothing OS 2.0.
 
 Nothing
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### An Action Button
 
  Nothing CEO Carl Pei teased several shots of an updated design on X. Though the below post asks for feedback on Nothing OS user interface updates, many suspect that Pei might have leaked the Nothing Phone 3.
 
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Integrated AI
 
@@ -135,6 +135,13 @@ Nothing
  The only timing clue Pei offered was a "next year" tag for the slow rollout of AI, starting with the Nothing Phone 3.  
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Nothing Phone 3
 
@@ -161,5 +168,26 @@ Nothing
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-share-twitch-stream-on-facebook-in-2024/"><u>[New] How to Share Twitch Stream on Facebook, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-telehealth-advancements-with-vr-integrations/"><u>[New] Telehealth Advancements with VR Integrations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/changing-the-hue-of-your-files-tips-and-tricks-for-coloring-mac-folders/"><u>Changing the Hue of Your Files: Tips and Tricks for Coloring Mac Folders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-and-mirror-a-comprehensive-walkthrough-for-lg-smart-tvs/"><u>Connect and Mirror: A Comprehensive Walkthrough for LG Smart TVs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/family-durable-camera-bundle-with-child-safety-features/"><u>Family Durable Camera Bundle with Child Safety Features</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>From Scripts to Subscribers Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-tecno-spark-20-proplus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Spark 20 Pro+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-for-engaging-presentation-creation/"><u>Harnessing ChatGPT for Engaging Presentation Creation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-essential-is-a-blu-ray-player-for-your-home-entertainment/"><u>How Essential Is a Blu-Ray Player for Your Home Entertainment?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-100-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 100 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-vs-android-analyzing-app-store-features-and-user-experience/"><u>IOS Vs. Android: Analyzing App Store Features and User Experience.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/master-the-art-of-live-streaming-old-content-with-facebook-tools/"><u>Master the Art of Live-Streaming Old Content with Facebook Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-gen-thrills-with-intova-x-action-tech-for-2024/"><u>Next-Gen Thrills with Intova X Action Tech for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-sync-incorporating-songs-into-videos-using-your-iphone-for-2024/"><u>Seamless Sync Incorporating Songs Into Videos Using Your iPhone for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-web-navigation-with-these-5-top-auto-clicker-apps-for-non-rooted-android-phones/"><u>Simplify Web Navigation with These 5 Top Auto-Clicker Apps for Non-Rooted Android Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-5-best-auto-clicker-apps-for-android-non-rooted-phones/"><u>The 5 Best Auto-Clicker Apps for Android (Non-Rooted Phones)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-viewing-order-for-the-entire-transformers-film-franchise/"><u>The Ultimate Viewing Order for the Entire Transformers Film Franchise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-ntdlldll-issues-across-different-windows-oss/"><u>Troubleshooting Steps for ntdll.dll Issues Across Different Windows OS's</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-go-to-list-of-11-most-reliable-free-online-film-download-sites/"><u>Your Go-To List of 11 Most Reliable Free Online Film Download Sites</u></a></li>
+</ul></div>
 
