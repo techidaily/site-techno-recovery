@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Embedding Programming Code Into Microsoft Word"
-date: 2024-09-25T22:01:46.320Z
-updated: 2024-09-27T00:56:54.693Z
+date: 2024-09-29T09:30:23.049Z
+updated: 2024-10-02T10:00:40.625Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Embedding Programming Code Into Microsoft Word"
@@ -33,25 +33,26 @@ These instructions only work with a single page of code.
 ![A Word document with the Insert field highlighted](https://www.lifewire.com/thmb/hhaKemMmX0vrIo89Vh-8tqrp0Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-insert-source-code-into-word-document-3994582-1a2d127c226f4846bf9bec7d9a281fc5.jpg)
 2. In the**Text** group, select**Object** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
@@ -64,17 +65,10 @@ These instructions only work with a single page of code.
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Different Paste Types in Word
@@ -86,6 +80,13 @@ These instructions only work with a single page of code.
 * **Unformatted Text** : All code is pasted as unformatted, so you'll lose indenting, color, typeface, and related contextual clues.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Problem With Using Source Code in Word
 
@@ -133,22 +134,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-charting-financial-success-the-tale-of-ajey-carryminati-and-youtube/"><u>[New] 2024 Approved Charting Financial Success The Tale of Ajey (CarryMinati) and YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-money-behind-the-screen-youtube-earnings-demystified/"><u>[New] 2024 Approved The Money Behind the Screen YouTube Earnings Demystified</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-fragmented-to-flawless-mastering-kinemaster-edits/"><u>[Updated] From Fragmented to Flawless Mastering Kinemaster Edits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unlocking-engagement-top-5-compelling-book-trailers-for-2024/"><u>[Updated] Unlocking Engagement Top 5 Compelling Book Trailers for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-to-mastering-instagram-chat-videos/"><u>A Step-by-Step to Mastering Instagram Chat Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-for-operating-android-programs-in-a-windows-10-framework/"><u>Comprehensive Tutorial for Operating Android Programs in a Windows 10 Framework</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-look-at-the-next-gen-google-pixel-tablet-preorder-info-and-complete-tech-overview/"><u>Exclusive Look at the Next-Gen Google Pixel Tablet – Preorder Info & Complete Tech Overview</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-windows-boot-failures-resolve-your-resetting-pc-error-today/"><u>Fixing Windows Boot Failures: Resolve Your 'Resetting PC' Error Today!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-nokia-c12-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Nokia C12 Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-capturing-and-keeping-your-social-media-moments/"><u>In 2024, Capturing and Keeping Your Social Media Moments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-digital-deception-a-step-by-step-guide-to-discerning-real-from-fraudulent-connection-requests/"><u>Navigating Digital Deception: A Step-by-Step Guide to Discerning Real From Fraudulent Connection Requests</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/scoring-big-savings-on-music-streams-how-students-can-get-cheaper-rates-from-spotify/"><u>Scoring Big Savings on Music Streams: How Students Can Get Cheaper Rates From Spotify</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/side-hustle-secrets-unlocking-profitable-chatgpt-alternatives-and-expert-tips-on-custom-pc-creation-plus-vintage-game-handhelds-collection-guides/"><u>Side Hustle Secrets: Unlocking Profitable ChatGPT Alternatives & Expert Tips on Custom PC Creation + Vintage Game Handhelds Collection Guides</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-viewing-guide-watching-x-men-saga-from-beginning-to-end/"><u>The Ultimate Viewing Guide: Watching X-Men Saga From Beginning to End</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-twitter-enhancement-programs-and-plugins/"><u>Ultimate Selection of Twitter Enhancement Programs and Plugins</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-for-acquiring-digital-books-on-iphoneipad-with-apple-books/"><u>Ultimate Tutorial for Acquiring Digital Books on iPhone/iPad with Apple Books</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-for-social-media-savants-distinguishing-between-igtv-and-youtube/"><u>[New] 2024 Approved For Social Media Savants Distinguishing Between IGTV & YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boost-your-visibility-with-a-cutting-edge-set-of-banners-for-2024/"><u>[New] Boost Your Visibility with a Cutting-Edge Set of Banners for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>[New] In 2024, A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-movavi-plus-review-a-detailed-look-at-its-version/"><u>2024 Approved Movavi Plus Review – A Detailed Look at Its Version</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-microsoft-sculpt-ergo-keyboard-assessment-unbeatable-quality-at-a-fair-price/"><u>Comprehensive Microsoft Sculpt Ergo Keyboard Assessment - Unbeatable Quality at a Fair Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-samsung-cf591-assessment-ideal-choice-for-gamers/"><u>Comprehensive Samsung CF591 Assessment: Ideal Choice for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-dacs-are-they-worth-investing-in-for-superior-sound-quality/"><u>Exploring the World of DACs – Are They Worth Investing in for Superior Sound Quality?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-latest-updates-and-driver-installation-guide-for-dell-thunderbolt-tb1n-adapter/"><u>Free Download: Latest Updates and Driver Installation Guide for Dell Thunderbolt TB1n Adapter</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-s17-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo S17 Phones with/without a PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-apples-appointment-system-step-by-step-assistance-inside-the-apple-store/"><u>Navigating Apple's Appointment System: Step-by-Step Assistance Inside The Apple Store</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-seamless-integration-of-audios-in-next-gen-avi-updates-for-2024/"><u>New Seamless Integration of Audios in Next-Gen AVI Updates for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/playstation-5-sole-exclusive-games-your-complete-list-for-next-gen-fun/"><u>PlayStation 5 Sole-Exclusive Games: Your Complete List for Next-Gen Fun</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shutting-off-the-iphone-15-pro-and-pro-max-tips-for-a-smooth-experience/"><u>Shutting Off the iPhone 15 Pro and Pro Max: Tips for a Smooth Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Transferring Computer Display Onto TV Using HDMI Technology"
-date: 2024-09-14T21:21:02.873Z
-updated: 2024-09-20T21:02:31.219Z
+date: 2024-09-25T18:11:41.490Z
+updated: 2024-10-01T22:47:51.591Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Transferring Computer Display Onto TV Using HDMI Technology"
@@ -32,14 +32,45 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
 
@@ -50,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
  You'll also need an HDMI 2.1 cable. You can use the HDMI cable that comes with the PS5, which is a 2.1\. However, if you're using a different cord (because the included one wasn't long enough, for example), you'll need to make sure it's that type.
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
 
@@ -102,5 +126,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-cinematic-capture-top-picks-from-video-experts/"><u>[New] 2024 Approved Cinematic Capture Top Picks From Video Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-above-average-cloud-service-selections/"><u>[New] Above-Average Cloud Service Selections</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cinematic-chronology-best-video-cameras-for-detailed-speed-recording/"><u>[New] Cinematic Chronology Best Video Cameras for Detailed Speed Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-purchase-to-use-installing-vrecord/"><u>[Updated] 2024 Approved From Purchase to Use Installing VRecord</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/11-of-our-favorite-free-software-updater-programs/"><u>11 of Our Favorite Free Software Updater Programs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-missing-component-dll-errors-how-to-get-your-applications-running-smoothly-again/"><u>Addressing Missing Component (DLL) Errors: How to Get Your Applications Running Smoothly Again</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-ringtones-roundup-essential-sites-for-2024/"><u>Best Ringtones Roundup Essential Sites for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-music-download-resources-a-guide-of-15-options/"><u>Discover the Best Free Music Download Resources: A Guide of 15 Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-best-free-video-software-for-your-chromebook-enjoy-media-streaming-without-hitches/"><u>Download the Best Free Video Software for Your Chromebook - Enjoy Media Streaming Without Hitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-fixing-missing-or-corrupted-xinput13dll-files-on-pcs/"><u>Guide to Fixing Missing or Corrupted xinput1_3.dll Files on PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-inauthentic-connection-bids-a-guide-to-discerning-genuine-from-phony-friends/"><u>Identifying Inauthentic Connection Bids: A Guide to Discerning Genuine From Phony Friends</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovo-ideapad-130s-analysis-a-look-at-its-constrained-power-and-unexpectedly-usable-design/"><u>Lenovo IdeaPad 130S Analysis: A Look at Its Constrained Power and Unexpectedly Usable Design</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-the-challenge-of-lost-or-absent-helperdll-files-step-by-step-strategies-for-victory/"><u>Overcoming the Challenge of Lost or Absent Helper.dll Files: Step-by-Step Strategies for Victory</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-fantastic-no-cost-web-based-calendar-apps/"><u>Top 4 Fantastic No-Cost Web-Based Calendar Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-performers-in-the-world-of-live-game-broadcast-cams-for-2024/"><u>Top Performers in the World of Live Game Broadcast Cams for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-msodll-not-found-message-efficiently/"><u>Troubleshooting the 'mso.dll Not Found' Message Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-mfc42dll-file-not-found-or-missing-issues/"><u>Ultimate Guide: Resolving 'MFC42.dll' File Not Found or Missing Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-x7b-by-drfone-android/"><u>Universal Unlock Pattern for Honor X7b</u></a></li>
+</ul></div>
 

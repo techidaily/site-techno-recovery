@@ -1,7 +1,7 @@
 ---
 title: Latest August 2Er Update on Common Login Codes for Linksys Routers
-date: 2024-09-20T18:13:23.212Z
-updated: 2024-09-26T18:10:46.372Z
+date: 2024-09-28T02:56:42.729Z
+updated: 2024-10-01T20:00:05.353Z
 categories:
   - BestProducts
 description: This Article Describes Latest August 2Er Update on Common Login Codes for Linksys Routers
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/mdiVngphS7d42qEcTTgMu-oDUJ0=/400x300/fi
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open Command Prompt in Windows 11 or 10
 
  There are a few ways, but using the search bar on the taskbar is one quick method for opening a command window.
@@ -50,6 +43,20 @@ thumbnail: https://www.lifewire.com/thmb/mdiVngphS7d42qEcTTgMu-oDUJ0=/400x300/fi
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
@@ -59,10 +66,10 @@ thumbnail: https://www.lifewire.com/thmb/mdiVngphS7d42qEcTTgMu-oDUJ0=/400x300/fi
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
@@ -77,6 +84,13 @@ thumbnail: https://www.lifewire.com/thmb/mdiVngphS7d42qEcTTgMu-oDUJ0=/400x300/fi
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -88,13 +102,6 @@ thumbnail: https://www.lifewire.com/thmb/mdiVngphS7d42qEcTTgMu-oDUJ0=/400x300/fi
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -102,13 +109,6 @@ thumbnail: https://www.lifewire.com/thmb/mdiVngphS7d42qEcTTgMu-oDUJ0=/400x300/fi
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -166,22 +166,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-leading-screen-recording-programs-for-mac-os/"><u>[Updated] 2024 Approved Leading Screen Recording Programs for Mac OS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-creating-professional-podcasts-at-home-for-2024/"><u>[Updated] Creating Professional Podcasts at Home for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-superior-select-five-4k-cameras/"><u>[Updated] Superior Select Five 4K Cameras</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unlocking-the-secrets-of-high-quality-twitch-broadcasts-for-2024/"><u>[Updated] Unlocking the Secrets of High-Quality Twitch Broadcasts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-sourcing-background-beats-for-boxings/"><u>2024 Approved Best Practices Sourcing Background Beats for Boxings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-convert-your-srt-files-for-free-with-top-websites/"><u>2024 Approved Convert Your SRT Files for FREE with Top Websites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/evaluating-the-performance-snappy-driver-installer-v113-unveiled/"><u>Evaluating the Performance: Snappy Driver Installer V1.13 Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-solve-the-problem-when-a-mac-application-wont-open/"><u>How to Solve the Problem When a Mac Application Won't Open</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo V29 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-connection-hurdles-a-user-manual-for-your-stadia-gaming-headset/"><u>Overcoming Connection Hurdles: A User Manual for Your Stadia Gaming Headset</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/photo-preservation-101-digitalization-of-ancestral-prints/"><u>Photo Preservation 101 Digitalization of Ancestral Prints</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-pick-top-10-apps-to-catch-football-and-tennis-in-the-moment/"><u>Premier Pick Top 10 Apps to Catch Football and Tennis in the Moment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-instructions-for-setting-up-your-samsung-in-ear-headphones-on-a-notebook/"><u>Simple Instructions for Setting Up Your Samsung In-Ear Headphones on a Notebook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-crafting-the-iconic-heart-symbol-using-your-keyboard/"><u>Step-by-Step Guide: Crafting the Iconic Heart Symbol Using Your Keyboard</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-rise-and-fall-of-yahoo-messenger-insights-into-its-purpose-and-causes-for-discontinuation/"><u>The Rise and Fall of Yahoo! Messenger: Insights Into Its Purpose and Causes for Discontinuation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-4-complimentary-cad-software-solutions-we-love/"><u>Top 4 Complimentary CAD Software Solutions We Love</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722896154209-unveiling-the-newest-apple-earwear-device-anticipated-launch-dates-and-features-inside/"><u>Unveiling the Newest Apple EARWEAR Device - Anticipated Launch Dates & Features Inside!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-effortless-methods-to-archive-slideshows-for-2024/"><u>[Updated] Effortless Methods to Archive Slideshows for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-resolving-social-media-puzzle-zippy-fb-videos-not-in-view/"><u>2024 Approved Resolving Social Media Puzzle Zippy FB Videos Not in View</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conocimiento-basico-de-tiempo-en-espanol/"><u>Conocimiento Básico De Tiempo en Español</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-briskly-bounce-back-from-a-fb-pass-lock/"><u>How to Briskly Bounce Back From a FB Pass-Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-missing-steamdll-error-effective-strategies-explored/"><u>How to Repair 'Missing Steam.dll Error': Effective Strategies Explored</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-smart-8-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Smart 8 Pro Phone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ultimate-live-band-webcasts/"><u>In 2024, Ultimate Live Band Webcasts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-se-2020-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone SE (2020) & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722889164468-resolving-the-netflix-issue-understanding-and-repairing-error-code-ui-800-3/"><u>Resolving the Netflix Issue: Understanding and Repairing Error Code UI-800-3</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-effectively-take-screenshots-with-a-logitech-keyboard/"><u>Step-by-Step Tutorial: How to Effectively Take Screenshots with a Logitech Keyboard</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Phone Hassle-Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-breakdown-of-modern-wireless-technologies-from-802nbgwi-fi-protocols-to-the-latest-80211ax-series/"><u>The Complete Breakdown of Modern Wireless Technologies: From 802.nB/gWi-Fi Protocols to the Latest 802.11Ax Series</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-leap-in-audio-tech-google-pixel-buds-pro-2-revealed-explore-price-predictions-release-timing-and-rumored-features/"><u>The Next Leap in Audio Tech – Google Pixel Buds Pro 2 Revealed! Explore Price Predictions, Release Timing & Rumored Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-keeping-your-files-safe-with-these-5-steps/"><u>Ultimate Guide to Keeping Your Files Safe with These 5 Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-tips-for-microsoft-windows-11-removing-your-personal-identification-number-pin/"><u>Unlocking Tips for Microsoft Windows 11: Removing Your Personal Identification Number (PIN)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-does-it-mean-when-your-pc-turns-blue-insights-into-the-causes-and-implications-of-bsod-errors/"><u>What Does It Mean When Your PC Turns Blue? Insights Into the Causes and Implications of BSOD Errors</u></a></li>
 </ul></div>
 

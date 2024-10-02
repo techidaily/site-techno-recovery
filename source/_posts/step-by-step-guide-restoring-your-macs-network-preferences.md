@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Your Mac's Network Preferences"
-date: 2024-09-22T18:32:29.053Z
-updated: 2024-09-27T01:57:31.701Z
+date: 2024-09-30T18:14:37.190Z
+updated: 2024-10-01T21:48:51.486Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Restoring Your Mac's Network Preferences"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 11 or 10
 
  There are a few ways, but using the search bar on the taskbar is one quick method for opening a command window.
@@ -36,20 +43,13 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Open Command Prompt Through the Start Menu Folder
 
@@ -58,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
@@ -90,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -108,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -172,18 +166,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-seekingsuperiorcameraspost-mycam/"><u>[New] SeekingSuperiorCamerasPost-MyCam</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-chronicles-expert-tips-for-story-downloads/"><u>[Updated] Instagram Chronicles Expert Tips for Story Downloads</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-sharpen-content-edge-with-studios-advanced-features-for-2024/"><u>[Updated] Sharpen Content Edge with Studio's Advanced Features for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/converting-ordinary-images-into-artistic-hdr-works/"><u>Converting Ordinary Images Into Artistic HDR Works</u></a></li>
-<li><a href="https://techtrends.techidaily.com/finding-the-right-channels-to-communicate-with-snapchats-help-desk/"><u>Finding the Right Channels to Communicate with Snapchat's Help Desk</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p40-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P40 To Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximize-browser-functionality-chromes-full-screen-video-playback/"><u>In 2024, Maximize Browser Functionality Chrome's Full-Screen Video Playback</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-skill-of-dropping-several-points-at-once-on-google-maps/"><u>Mastering the Skill of Dropping Several Points at Once on Google Maps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-through-fake-friending-attempts-on-social-networks/"><u>Navigating Through Fake Friending Attempts on Social Networks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/pinnacle-portals-select-laptops-for-uhd-content-creation/"><u>Pinnacle Portals Select Laptops for UHD Content Creation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-wave-in-innovation-preview-of-google-pixel-fold-2-estimated-specs-pricing-and-release-window/"><u>The Next Wave in Innovation: Preview of Google Pixel Fold 2 – Estimated Specs, Pricing & Release Window</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-google-pixel-8-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Google Pixel 8 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/whats-new-with-the-google-pixel-10-latest-speculation-on-price-release-date-and-features/"><u>What's New with the Google Pixel 10? Latest Speculation on Price, Release Date & Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-an-honest-review-of-recordcast/"><u>[New] 2024 Approved An Honest Review of RecordCast</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-audiophiles-choice-for-mac-recording-top-5-software-scooped-up-for-2024/"><u>[New] Audiophile's Choice for Mac Recording Top 5 Software Scooped Up for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-chromium-os-built-in-video-capturer/"><u>2024 Approved Chromium OS Built-In Video Capturer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-supreme-select-iphone-customized-sound-crafting/"><u>2024 Approved Supreme Select IPhone Customized Sound Crafting</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/creative-tims-professional-material-dashboard-with-angular-and-bootstrap-4-for-superior-admin-panel-experience/"><u>Creative Tim's Professional Material Dashboard with Angular & Bootstrap 4 for Superior Admin Panel Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-galaxy-f54-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Galaxy F54 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ev-performance-can-electric-cars-endure-severe-hot-or-cold-conditions/"><u>EV Performance: Can Electric Cars Endure Severe Hot or Cold Conditions?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-navigating-and-repairing-the-dreaded-code/"><u>Expert Advice: Navigating and Repairing the Dreaded Code</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-evolution-a-comprehensive-guide-from-ios-10-through-18/"><u>Exploring the Evolution: A Comprehensive Guide From iOS 1.0 Through 18.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-effective-is-the-data-lifeguard-an-in-depth-look-at-western-digitals-diagnostic-solution/"><u>How Effective Is the Data Lifeguard? An In-Depth Look at Western Digital’s Diagnostic Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-interpret-and-utilize-your-devices-battery-health-reports-on-windows-10/"><u>How to Interpret and Utilize Your Device’s Battery Health Reports on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-from-not-found-or-missing-comctl32dll-files/"><u>How to Recover From 'Not Found' Or Missing Comctl32.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/march-insanity-radio-roundup-full-coverage-of-the-ncaa-tournament-and-elite-eight-showdown/"><u>March Insanity Radio Roundup: Full Coverage of the NCAA Tournament and Elite Eight Showdown!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/proven-ways-to-enhance-your-fb-presence-and-boost-engagement-for-2024/"><u>Proven Ways to Enhance Your FB Presence and Boost Engagement for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sequential-cinema-experience-watching-the-matrix-trilogy-in-sequence/"><u>Sequential Cinema Experience: Watching The Matrix Trilogy In Sequence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-wizardry-unveiled-effortlessly-resetting-the-complementary-metal-oxide-semiconductor-on-your-device/"><u>Tech Wizardry Unveiled: Effortlessly Resetting the Complementary Metal-Oxide Semiconductor on Your Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-windows-folders-tricks-for-enhanced-efficiency/"><u>Top 5 Windows Folders Tricks for Enhanced Efficiency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-wininetdll-could-not-be-loaded-message-a-step-by-step-guide/"><u>Troubleshooting the 'Wininet.dll' Could Not Be Loaded Message – A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-elevate-your-video-game-6-expert-adobe-premiere-techniques-to-know/"><u>Updated In 2024, Elevate Your Video Game 6 Expert Adobe Premiere Techniques to Know</u></a></li>
 </ul></div>
 

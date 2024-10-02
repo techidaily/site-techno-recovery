@@ -1,7 +1,7 @@
 ---
 title: How to Access the Discounted Spotify Subscription as an Eligible College Scholar?
-date: 2024-09-26T07:15:27.101Z
-updated: 2024-09-27T00:59:46.702Z
+date: 2024-09-25T22:47:22.393Z
+updated: 2024-10-02T10:05:38.581Z
 categories:
   - BestProducts
 description: This Article Describes How to Access the Discounted Spotify Subscription as an Eligible College Scholar?
@@ -33,6 +33,14 @@ Close
 1. Navigate to Spotify.com/us/student/, and click**GET STARTED** .  
 ![A screenshot of the Spotify Student landing page.](https://www.lifewire.com/thmb/tJLno9OC-ySaw1RLxFSPPfTGhaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-255e6bb15e1148d9abb0293c57e135f3.JPG)
 2. Log into your Spotify account, or click**SIGN UP FOR SPOTIFY** to create a new account.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A screenshot of the Spotify login page.](https://www.lifewire.com/thmb/-6CZj73GwIltSS6-inTfMB8QNuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-2945114da00046faa581546912bf6abe.JPG)
 3. Enter your information, and click**VERIFY** .  
 ![A screenshot of the Spotify student confirmation page.](https://www.lifewire.com/thmb/mXFGl7eru9MJy9I52_h1MDlnUzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-6a5242754bef4516816091c26691b80d.JPG)  
@@ -42,10 +50,10 @@ Close
 [  Spotify Free vs Premium: What’s the Difference? ](https://www.lifewire.com/spotify-free-vs-premium-8651596) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What to Do When Automatic Verification Fails
@@ -57,21 +65,14 @@ Close
 2. Log into your Spotify account.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![A screenshot of the Spotify login page.](https://www.lifewire.com/thmb/Q-_4k-jnaCQDUWilsJdLE-AkUCc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-d28d0fbfb93e41dabadc7133ac790e97.JPG)
 3. Click**Manually verify** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![A screenshot of the Spotify student confirmation page.](https://www.lifewire.com/thmb/MnwsOaJO1oyQSi-Q4dcBqX14prk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-07ff7fc487b44ac29f727bf13d04758c.JPG)  
  If the automatic verification fails, do not click**VERIFY** on this step. Clicking**Manually verify** instead will allow you to provide verification of your enrollment.
@@ -86,13 +87,6 @@ Close
 ![A screenshot of the Spotify student discount verification process.](https://www.lifewire.com/thmb/dtjNjxW1SnPeEVNWYWdPUmzRJWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-56f5a2b77e9144eba5f8e4d6dafaa949.JPG)
 8. If your documents are successfully verified, you will be able to complete the signup process with the Spotify student discount in place. If it still doesn't work, contact Spotify customer service for further assistance in verifying your enrollment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Who Is Eligible for Spotify's Student Discount?
 
  The requirements for Spotify's student discount are very specific, so it's easy to tell if you qualify or not. If you are currently enrolled at a US Title IV accredited college or university, and you're at least 18 years old, then you qualify.
@@ -102,16 +96,10 @@ Close
  If you already signed up for a Spotify Premium subscription prior to enrolling at a qualifying school, you can still apply for the discount. If you're approved, you'll see the discounted price reflected the next time your subscription renews.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Does Spotify Verify Student Enrollment?
@@ -120,6 +108,13 @@ Close
 
  When SheerID isn't able to automatically verify your enrollment, it allows you to upload supporting documentation. For this process to work, you'll need to scan your student ID, or make sure you have access to documents like your current class schedule, or an official enrollment letter if you haven't started school yet.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Exactly Does the Spotify Student Discount Get You?
 
  The Spotify student discount provides you with a premium Spotify plan for about half as much as everyone else pays. That means you get full access to Spotify's full library of millions of songs, you can listen without any ad interruptions, and you can even choose to[ listen offline](https://www.lifewire.com/what-is-caching-mode-in-music-services-2438241) .
@@ -127,10 +122,10 @@ Close
  Depending on the current offers, the Spotify student discount may also provide you with extras, like a[ Hulu](https://www.lifewire.com/what-is-hulu-4783546) or Showtime subscription, for no additional charge.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Happens to Your Student Discount When You Graduate?
@@ -179,15 +174,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-9-youtube-video-extraction-tools-for-android-reviewed-for-2024/"><u>[New] 9 YouTube Video Extraction Tools for Android Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevating-your-artistry-in-lyric-videos-through-lyric-video-maker-mastery/"><u>[Updated] In 2024, Elevating Your Artistry in Lyric Videos Through Lyric Video Maker Mastery</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/error-no-more-effective-solutions-for-missing-msvcr80dll-files/"><u>Error No More: Effective Solutions for Missing Msvcr80.dll Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/future-forward-frames-discover-the-top-smart-glasses-of-202/"><u>Future-Forward Frames: Discover the Top Smart Glasses of 202</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-vivo-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Vivo</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-tecno-pova-5-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Tecno Pova 5 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-next-gen-xbox-virtual-reality-headset-pricing-predictions-and-release-forecasts/"><u>Inside Scoop on the Next-Gen Xbox Virtual Reality Headset – Pricing Predictions & Release Forecasts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/regain-access-3-straightforward-techniques-for-retrieving-deleted-photos-on-ios-devices/"><u>Regain Access: 3 Straightforward Techniques for Retrieving Deleted Photos on iOS Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/remier-software-selection-for-youtube-intros-for-2024/"><u>The Premier Software Selection for YouTube Intros for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-full-playback-potential-view-anything-on-apple-tv-using-vlc-methods/"><u>Unlock Full Playback Potential: View Anything on Apple TV Using VLC Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-details-for-the-next-gen-google-tv-stick-pricing-release-info-and-specs-sneak-peek/"><u>Anticipated Details for the Next-Gen Google TV Stick: Pricing, Release Info & Specs Sneak Peek</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-12-movie-streamers-that-wont-cost-a-dime/"><u>Discover the Ultimate List: 12 Movie Streamers That Won't Cost a Dime!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-turning-off-your-facebook-app-on-android-devices/"><u>Guide: Turning Off Your Facebook App on Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-lower-wucltexe-cpu-impact-in-windows-11/"><u>How to Troubleshoot and Lower wuclt.exe CPU Impact in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-gionee-f3-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Gionee F3 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reviving-your-printer-with-fresh-windows-71011-drivers/"><u>Reviving Your Printer with Fresh Windows 7/10/11 Drivers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamlined-screencasting-steps-ultimate-tutorial-for-2024/"><u>Streamlined Screencasting Steps - Ultimate Tutorial for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-6-best-standalone-dictionary-applications/"><u>Top 6 Best Standalone Dictionary Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-the-difference-an-in-depth-look-at-hulu-vs-hulu-plus/"><u>What's the Difference? An In-Depth Look at Hulu Vs. Hulu +</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/where-to-find-and-download-your-favorite-tunes-without-spending-a-penny/"><u>Where to Find and Download Your Favorite Tunes Without Spending a Penny</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/yakuza-like-a-dragon-the-ultimate-rpg-experience-you-cant-miss/"><u>Yakuza: Like a Dragon - The Ultimate RPG Experience You Can't Miss!</u></a></li>
 </ul></div>
 

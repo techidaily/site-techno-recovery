@@ -1,7 +1,7 @@
 ---
 title: "Entering the Digital Frontier: How Sony and Siemens Are Pioneering an Immersive Engineering Experience in the Industrial Metaverse | Wired"
-date: 2024-09-19T17:35:08.547Z
-updated: 2024-09-20T19:05:18.022Z
+date: 2024-09-27T16:00:05.818Z
+updated: 2024-10-01T17:42:57.493Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-a-beginners-roadmap-for-mobile-screening-on-snapchat-for-2024/"><u>[Updated] A Beginner’s Roadmap for Mobile Screening on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audible-allure-choosing-background-beats-for-videos/"><u>[Updated] Audible Allure Choosing Background Beats for Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-hit-on-youtube-name-generation-insights/"><u>[Updated] In 2024, Crafting a Hit on YouTube Name Generation Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-failing-internal-asus-camera/"><u>Bypassing Failing Internal Asus Camera</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/complete-overview-the-eero-pro-routers-performance-in-whole-home-wifi-management/"><u>Complete Overview: The Eero Pro Router's Performance in Whole Home WiFi Management</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-effective-child-cybersecurity-tools-of-2024-top-8-listed/"><u>Discover the Most Effective Child Cybersecurity Tools of 2024 – Top 8 Listed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-to-address-dnssddll-missing-or-inaccessible-problems/"><u>Effective Solutions to Address dnssd.dll Missing or Inaccessible Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/facing-video-display-issues-with-sony-a6400-for-2024/"><u>Facing Video Display Issues with Sony A6400 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-streaming-apple-tvplus-content-on-your-chromecast-device/"><u>Guide: Streaming Apple TV+ Content on Your Chromecast Device</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-save-and-transform-giantbomb-content-as-mp4-video-downloads/"><u>How to Save and Transform GiantBomb Content as MP4 Video Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-high-cpu-drain-caused-by-windows-audio-driver-a-step-by-step-guide/"><u>Solving the High CPU Drain Caused by Windows Audio Driver: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-implementing-copilot-in-microsoft-team-chats/"><u>Step-by-Step Tutorial for Implementing Copilot in Microsoft Team Chats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tracking-the-untraceable-steps-to-discover-disappeared-phone-numbers-from-an-android-device/"><u>Tracking the Untraceable: Steps to Discover Disappeared Phone Numbers From an Android Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-5-free-video-compression-apps-for-iphone-and-ipad/"><u>Updated 2024 Approved Top 5 Free Video Compression Apps for iPhone and iPad</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

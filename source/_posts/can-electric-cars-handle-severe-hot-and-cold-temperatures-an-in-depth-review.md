@@ -1,7 +1,7 @@
 ---
 title: Can Electric Cars Handle Severe Hot and Cold Temperatures? An In-Depth Review
-date: 2024-09-24T19:20:01.093Z
-updated: 2024-09-26T19:52:36.781Z
+date: 2024-09-30T17:03:18.299Z
+updated: 2024-10-02T00:30:27.789Z
 categories:
   - BestProducts
 description: This Article Describes Can Electric Cars Handle Severe Hot and Cold Temperatures? An In-Depth Review
@@ -52,10 +52,10 @@ Westend61/Getty
 [  How Long to Expect Your EV Battery to Last (and How to Extend Its Life) ](https://www.lifewire.com/how-long-will-ev-battery-last-5201587) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Temperature Specifically Affects EV Range
@@ -78,16 +78,16 @@ Westend61/Getty
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%271500%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  PHOTO:
@@ -97,6 +97,13 @@ Bailey Mariner
  When extreme temperatures swing in the other direction, EV range reduction is entirely due to the energy costs of cooling the cabin. This is an area where gas-powered vehicles don’t have an advantage, because running the A/C in a gas-powered vehicle takes gas that could have otherwise been used to move the vehicle.
 
  According to the U.S. Department of Energy,[ a gas-powered car can have its range decreased by over 25 percent](https://www.fueleconomy.gov/feg/hotweather.shtml) when running the A/C in extremely hot weather. In comparison, the average EV can be expected to reach about 80 percent of its rated range in conditions where the ambient temperature is 104 degrees. In that particular situation, an EV is likely to beat a gas-powered vehicle in terms of retaining more of its range.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Heat Pumps vs. Resistive Heaters in EVs
 
@@ -111,10 +118,10 @@ Bailey Mariner
  Heat pumps are typically capable of operating in EVs in temperatures down to about 25 to 30 degrees Fahrenheit, although efficiency does drop off the colder it gets. In even colder temperatures, it becomes more efficient to switch over to a resistive heater.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  9 Ways to Manage Range in Extreme Weather Conditions
@@ -122,19 +129,6 @@ Bailey Mariner
  While it’s true that EV range can be reduced by both extremely hot and cold weather, there are a number of things you can do to improve the range of an EV in extreme weather conditions: 
 
 ![A thermometer showing Celsius and Fahrenheit temps against a blue sky with light clouds.](https://www.lifewire.com/thmb/tDbSwvUy-6HtJbQj-IVHx1Jsd1U=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Thermometor_celsiusandF_Kameleon007_Getty-765dddd365544edfbcfd93b31bcf4342.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Kameleon007/Getty
 
@@ -165,19 +159,20 @@ Kameleon007/Getty
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-diverse-opinions-one-easeus-evaluation/"><u>[New] 2024 Approved Diverse Opinions, One EaseUS Evaluation</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-mastering-visual-communication-a-guide-to-adding-captions-on-tiktok/"><u>[New] 2024 Approved Mastering Visual Communication A Guide to Adding Captions on TikTok</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-journey-to-new-realities-the-prime-10-smartphone-vr-headsets/"><u>2024 Approved Journey to New Realities - The Prime 10 Smartphone VR Headsets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-anticipated-tesla-smartphone-release-timeline-estimated-cost-and-feature-leakage/"><u>All You Need to Know About the Anticipated Tesla Smartphone - Release Timeline, Estimated Cost & Feature Leakage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-inbuilt-iphone-apps-removable-or-permanent-software-features/"><u>Are Inbuilt iPhone Apps Removable or Permanent Software Features?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/hulu-vs-hulu-plus-understanding-the-distinct-features/"><u>Hulu Vs. Hulu + - Understanding the Distinct Features</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/launch-of-oneplus-1/"><u>Launch of OnePlus 1</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/no-cost-android-facetime-replacements-ranked/"><u>No-Cost Android FaceTime Replacements Ranked</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-address-the-graphics-driver-crashed-hurdle-in-valorant-gaming/"><u>Step-by-Step Guide to Address the 'Graphics Driver Crashed' Hurdle in Valorant Gaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-non-responsive-keys-on-your-macbook-pro/"><u>Troubleshooting Steps: Resolving Non-Responsive Keys on Your MacBook Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-non-functional-apps-on-your-samsung-television/"><u>Troubleshooting Tips: Resolving Issues with Non-Functional Apps on Your Samsung Television</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movgifmovavi/"><u>オンラインで簡単MOVファイルをGIFに自由に変換:Movaviのガイド</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-lighten-your-load-with-laughs-fb-detainment-chuckle-highlighters/"><u>[New] 2024 Approved Lighten Your Load with Laughs FB Detainment Chuckle Highlighters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlocking-content-discovery-with-instagram-hashtags/"><u>[New] In 2024, Unlocking Content Discovery with Instagram Hashtags</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-tips-and-tricks-for-clearing-cluttered-backdrops-in-figma/"><u>[New] Tips and Tricks for Clearing Cluttered Backdrops in Figma</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-lightweightapp-no-trouble-recording-windows-10/"><u>[Updated] 2024 Approved LightweightApp - No-Trouble Recording, Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-estimate-income-from-youtube-video-snippets-for-2024/"><u>[Updated] How to Estimate Income From YouTube Video Snippets for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-reducing-lags-during-your-naraka-bladepoint-battles/"><u>Expert Advice on Reducing Lags During Your Naraka Bladepoint Battles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hilarity-awaits-top-iphone-and-ipad-tricks-to-play-on-your-buddies/"><u>Hilarity Awaits: Top iPhone & iPad Tricks to Play on Your Buddies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enable-and-tune-into-fm-radio-channels-on-smartphones/"><u>How to Enable and Tune Into FM Radio Channels on Smartphones</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-90-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor 90 Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-and-android-showdown-a-detailed-look-at-apples-app-store-vs-google-play-stores/"><u>IOS and Android Showdown: A Detailed Look at Apple's App Store vs Google Play Stores</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastery-of-fixes-for-an-internal-server-error-http-500/"><u>Mastery of Fixes for an Internal Server Error (HTTP 500)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/real-time-viewership-counter-systems-for-2024/"><u>Real-Time Viewership Counter Systems for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/soundscape-synthesis-the-chatgpt-approach-in-daws/"><u>Soundscape Synthesis: The ChatGPT Approach in DAWs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-must-have-ebook-applications/"><u>Top 8 Must-Have eBook Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-how-to-repair-when-propsysdll-file-is-lost/"><u>Troubleshooting: How to Repair When PropSys.dll File Is Lost</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protect Your iCloud Inbox: Implementing Two-Way Sign-In Authentification"
-date: 2024-09-20T01:36:11.111Z
-updated: 2024-09-20T16:00:40.354Z
+date: 2024-09-30T06:09:32.667Z
+updated: 2024-10-01T21:15:49.984Z
 categories:
   - BestProducts
 description: "This Article Describes Protect Your iCloud Inbox: Implementing Two-Way Sign-In Authentification"
@@ -25,6 +25,19 @@ thumbnail: https://thmb.techidaily.com/b92970fb02a09749baa6f2838ddd89dd174bd2bb3
 
  You must[set up an @icloud.com email address](https://www.lifewire.com/how-to-create-an-icloud-email-4584873) before you can use Mail on iCloud.com and set up two-factor authentication.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Set up Two-Factor Authentication for iCloud Mail Using a Mac
 
 1. Go to the**Apple** menu and select**System Settings** .  
@@ -35,6 +48,14 @@ This option might be labeled System Preferences.
  In some macOS versions, you may see this option labeled**Password & Security** .  
 ![Sign-In & Security from Apple ID settings on macOS.](https://www.lifewire.com/thmb/KizCBIJYRDaxwozjguG9IejZ-uM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-secure-icloud-mail-1172270-0a704be39f124dcf8bc8718805cce537.jpg)
 4. Select**Turn on** beside**Two-Factor Authentication** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Add your Apple ID email and password if prompted.  
 ![Two-Factor Authentication option from Apple ID Sign-In & Security settings in macOS.](https://www.lifewire.com/thmb/HYUboXf84Ofbntu2tKRF8QnJetU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-secure-icloud-mail-1172270-0712d00f8b0c48b7bbe303072da6bda0.jpg)
 5. Answer security questions and click**Continue** \>**Verify** when you're done.
@@ -50,6 +71,14 @@ Add your Apple ID email and password if prompted.
 2. Tap**Turn on Two-Factor Authentication** \>**Continue** .  
 ![Two-Factor Authentication from Apple ID Sign-in & Security settings on iPhone.](https://www.lifewire.com/thmb/w6ToZpP0mjCDuwvLOFtDeUE5u5U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_set-up-two-factor-authentication-on-iphone-4799065-baf427a2337145ae8376c379f3f0f6aa.jpg)
 3. Enter the phone numbers you want to use as Trusted Phone Numbers. Choose to receive the two-factor authentication codes by text message or automated phone call.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. When you tap**Next** , Apple sends a verification code to the phone number you provided. Enter the verification code to verify your phone number and turn on two-factor authentication.
 
 ## Turn on Two-Factor Authentication Using a Web Browser
@@ -63,17 +92,10 @@ Add your Apple ID email and password if prompted.
 3. Follow the prompts to create security questions and trusted phone numbers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create Secure App-Specific Passwords
@@ -88,17 +110,18 @@ Add your Apple ID email and password if prompted.
 ![App-Specific Passwords tile from the Sign-in and Security page on the Apple ID website.](https://www.lifewire.com/thmb/hZiXrBFV7cRxc8J_m7V9Nhp2_m4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-secure-icloud-mail-1172270-e4b8291f13e24a29a3f8dc04db6084f4.jpg)
 4. Select**Generate an app-specific password** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Generate an app-specific password option from the Sign-In and Security section of the Apple ID website.](https://www.lifewire.com/thmb/ZJkeIEa9_oVjRcWPmYgGm3gOiAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-secure-icloud-mail-1172270-7bfbc4e8037945ba9a9f5156f9b4fd51.jpg)
 5. Enter a label for the program or service for which you want to create the password and select**Create** .  
 ![Dialog box to enter a label and create a password for a particular app on the Apple ID website.](https://www.lifewire.com/thmb/rC8XT5lfXdTwb6jTQuxiRzwRFCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_how-to-secure-icloud-mail-1172270-3e092d565ea944ac8b4df1e443ce4d07.jpg)
 6. Re-enter your Apple ID and password.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Done** after you grab the the password generated for you and paste it directly in to the app you want to use it with.  
 ![The Done button confirmation after creating an app-specific password on the Apple ID website.](https://www.lifewire.com/thmb/M_OsBphxS6Jh8HTvq71g3AKGU34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_how-to-secure-icloud-mail-1172270-f215eede80504adabeac7068661927c5.jpg)
 
@@ -131,5 +154,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-stealthiest-instagram-story-viewers/"><u>[New] The Stealthiest Instagram Story Viewers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-uniting-social-spheres-from-instagram-to-tiktok-triumphs-for-2024/"><u>[New] Uniting Social Spheres From Instagram to TikTok Triumphs for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-accessing-live-spaces-on-tiktok-your-pathway-for-2024/"><u>[Updated] Accessing Live Spaces on TikTok Your Pathway for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-no-sound-issues-in-stereo-systems/"><u>Diagnosing and Repairing No-Sound Issues in Stereo Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-the-best-rapid-fire-web-games-today/"><u>Dive Into the Best Rapid-Fire Web Games Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-text-message-planning-with-your-iphones-automation-features/"><u>Effortless Text Message Planning with Your iPhone's Automation Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-your-photography-skills-a-complete-guide-to-iphones-latest-cutout-feature-in-ios-16/"><u>Enhancing Your Photography Skills: A Complete Guide to iPhone's Latest Cutout Feature in iOS 16</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-updated-amd-smbus-drivers-for-immediate-installation/"><u>Fast & Simple: Updated AMD SMBus Drivers for Immediate Installation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-ipad-mini-stack-up-against-ipad-air-a-comprehensive-review/"><u>How Does iPad Mini Stack Up Against iPad Air? A Comprehensive Review</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y27-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y27 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-libgdk-win32-20-0dll-file-missing-issues-a-guide/"><u>How to Repair Libgdk-win32-2.0-0.dll File Missing Issues – A Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-oppo-reno-11f-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Reno 11F 5G Phone?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unleashing-content-extract-vimeo-videos-as-mp4/"><u>In 2024, Unleashing Content Extract Vimeo Videos as MP4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-passcode-solutions-for-ipad-users-securely-restoring-device-access/"><u>No-Passcode Solutions for iPad Users: Securely Restoring Device Access</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006394378-phasmophobia-crash-troubles-heres-your-ultimate-guide-to-2ebarriers-2024-resolutions/"><u>Phasmophobia Crash Troubles? Here's Your Ultimate Guide to 2Ebarriers 2024 Resolutions!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-smartphones-rumored-specs-and-release-info-for-the-google-pixel-9/"><u>The Future of Smartphones: Rumored Specs and Release Info for the Google Pixel 9</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-15-free-windows-11-customization-skins-boost-your-pcs-look/"><u>Top 15 FREE Windows 11 Customization Skins: Boost Your PC's Look</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/turning-off-talkback-functionality-in-your-samsung-tv-a-simple-walkthrough/"><u>Turning Off Talkback Functionality In Your Samsung TV – A Simple Walkthrough</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering the Art of Live View in Google Maps"
-date: 2024-09-24T22:38:13.392Z
-updated: 2024-09-27T02:25:19.840Z
+date: 2024-09-25T16:03:44.499Z
+updated: 2024-10-02T07:05:49.455Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Mastering the Art of Live View in Google Maps"
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -56,18 +70,18 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -80,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -98,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -134,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Was this page helpful?
 
 Thanks for letting us know!
@@ -170,17 +170,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-beauty-brilliance-inside-the-world-of-youtube-cosmetics/"><u>[Updated] Beauty Brilliance Inside the World of Youtube Cosmetics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-stagnation-of-ideas-in-contemporary-vr/"><u>2024 Approved The Stagnation of Ideas in Contemporary VR</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/augmenting-learning-with-vr/"><u>Augmenting Learning with VR</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-pin-count-on-the-w11-start-screen/"><u>Boosting Pin Count on the W11 Start Screen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-address-and-repair-missing-jvm-dll-errors/"><u>Expert Advice: How To Address and Repair Missing JVM DLL Errors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-google-pixel-8withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Google Pixel 8with/without a PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insider-information-on-googles-new-pixel-9-discover-expected-costs-release-schedule-and-tech-specs/"><u>Insider Information on Google's New Pixel 9! Discover Expected Costs, Release Schedule, and Tech Specs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-dell-wi-fi-adapter-drivers-for-smooth-internet-connection/"><u>Latest Dell Wi-Fi Adapter Drivers for Smooth Internet Connection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-regional-preferences-transforming-iphone-locale-effortlessly/"><u>Mastering Regional Preferences: Transforming iPhone Locale Effortlessly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-connecting-with-a-bose-soundlink-speaker/"><u>Step-by-Step Tutorial on Connecting with a Bose SoundLink Speaker</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-solutions-why-isnt-my-amazon-prime-video-closed-captioning-functioning/"><u>Troubleshooting Solutions: Why Isn't My Amazon Prime Video Closed Captioning Functioning?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-8-mirrorless-cams-for-professional-videographers/"><u>[New] 2024 Approved Essential 8 Mirrorless Cams for Professional Videographers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-create-a-youtube-channel-today/"><u>[Updated] 2024 Approved How to Create A YouTube Channel Today</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-winxdvddvd/"><u>1. 『WinXDVD』でDVD変換・動画コピー時のエラー・不具合を解消する詳しいガイド</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-your-next-tablet-understanding-how-ipad-mini-and-ipad-air-stack-up/"><u>Choosing Your Next Tablet: Understanding How iPad Mini & iPad Air Stack Up</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/demystifying-ez-grabber-a-beginners-guide/"><u>Demystifying EZ Grabber A Beginner's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-diy-tips-on-swapping-out-your-devices-glass-panel-cover/"><u>Easy DIY Tips on Swapping Out Your Device’s Glass Panel Cover</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-ipad-release-whats-new-in-the-most-recent-gen/"><u>Exploring the Latest iPad Release: What's New in the Most Recent Gen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-common-issues-with-failed-instagram-story-uploads-a-complete-guide/"><u>Fixing Common Issues with Failed Instagram Story Uploads – A Complete Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/jpeg-repair-tool-to-fix-corrupt-jpeg-files-stellar-data-recovery/"><u>JPEG Repair Tool to Fix Corrupt JPEG Files - Stellar Data Recovery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-core-dll-error-troubleshooting-techniques/"><u>Mastering Core DLL Error Troubleshooting Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pedagogic-practices-with-a-focus-on-visual-materials/"><u>Pedagogic Practices with a Focus on Visual Materials</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-installing-custom-fonts-on-your-iphone/"><u>Step-by-Step Guide: Installing Custom Fonts on Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-index-for-troubleshooting-pc-blue-screen-codes/"><u>The Definitive Index for Troubleshooting PC Blue Screen Codes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-buyers-guide-to-superior-selfie-sticks-discover-top-picks-and-expert-advice/"><u>The Ultimate Buyer's Guide to Superior Selfie Sticks - Discover Top Picks and Expert Advice!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-screen-recorder-a-2023-evaluation-of-camstudio/"><u>The Ultimate Screen Recorder A 2023 Evaluation of CamStudio</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-duckduckgo-a-secure-search-experience/"><u>Understanding DuckDuckGo: A Secure Search Experience</u></a></li>
 </ul></div>
 

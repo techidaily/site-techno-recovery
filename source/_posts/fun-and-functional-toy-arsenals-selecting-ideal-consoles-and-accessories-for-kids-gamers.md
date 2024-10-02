@@ -1,7 +1,7 @@
 ---
 title: "Fun and Functional Toy Arsenals: Selecting Ideal Consoles and Accessories for Kids Gamers"
-date: 2024-09-25T07:53:56.806Z
-updated: 2024-09-27T08:21:58.990Z
+date: 2024-09-30T04:43:07.917Z
+updated: 2024-10-01T16:51:34.761Z
 categories:
   - BestProducts
 description: "This Article Describes Fun and Functional Toy Arsenals: Selecting Ideal Consoles and Accessories for Kids Gamers"
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 11 or 10
@@ -44,6 +44,19 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
@@ -57,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
@@ -76,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 3. Select**Command Prompt** . You can now execute whatever command you needed to run.
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 7, Vista, or XP
 
@@ -103,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -121,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -166,24 +172,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-techniques-and-tools-for-fast-quality-image-reductions/"><u>[Updated] Techniques and Tools for Fast, Quality Image Reductions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-implementing-chromes-pip-multiscreen-functionality/"><u>2024 Approved Step-by-Step Implementing Chrome’s PIP Multiscreen Functionality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>2024 Approved Talk Turned Type Essential Apps for Offline Speech Recognition</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s17t-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo S17t</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/add-the-numerator-1-to-the-result-to-get-a-new-numerator-of-7/"><u>Add the Numerator 1 to the Result to Get a New Numerator of 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-restoring-lost-or-deleted-messages-on-your-gmail-account/"><u>Complete Guide: Restoring Lost or Deleted Messages on Your Gmail Account</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-logitech-g910-mouse-driver-update-and-installation-guide-for-pc-users/"><u>Download the Logitech G910 Mouse Driver: Update and Installation Guide for PC Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-certain-phone-usage-patterns-can-shorten-your-devices-battery-lifespan/"><u>How Certain Phone Usage Patterns Can Shorten Your Device's Battery Lifespan</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-free-up-space-by-removing-cache-on-your-android-device/"><u>How to Free Up Space by Removing Cache on Your Android Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011117787-how-to-overcome-ps4-freezing-problems-step-by-step-solutions-inside/"><u>How to Overcome PS4 Freezing Problems? Step-by-Step Solutions Inside!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 8</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-start-shooting-smart-top-15-shot-techniques-for-beginners/"><u>In 2024, Start Shooting Smart Top 15 Shot Techniques for Beginners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-gpt-4-into-chatgpt-for-instant-results/"><u>Integrating GPT-4 Into ChatGPT for Instant Results</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/removing-gadgets-comprehensive-tips-on-disconnecting-from-google-home/"><u>Removing Gadgets: Comprehensive Tips on Disconnecting From Google Home</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/time-adjustment-for-amazon-kindle-paperwhite-instructions-and-tips/"><u>Time Adjustment for Amazon Kindle Paperwhite - Instructions & Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-what-to-do-if-alexa-indicates-your-echo-device-is-not-connected/"><u>Troubleshooting Steps: What to Do If Alexa Indicates Your Echo Device Is Not Connected</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-503-service-unavailable-error-causes-solutions-and-prevention/"><u>Understanding the 503 Service Unavailable Error – Causes, Solutions & Prevention</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-device-confusion-identifying-key-differences-between-ipads-and-general-tablets/"><u>Unraveling Device Confusion: Identifying Key Differences Between iPads and General Tablets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-history-of-netflixs-original-dvd-service/"><u>Unraveling the History of Netflix's Original DVD Service</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-playlist-sharing-on-youtube/"><u>[New] 2024 Approved Mastering Playlist Sharing on YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-handbook-mastering-the-art-of-opening-command-prompt-in-all-versions-of-microsoft-windows/"><u>Beginner's Handbook: Mastering the Art of Opening Command Prompt in All Versions of Microsoft Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-tools-full-sphere-filming-and-photography/"><u>Best Tools Full Sphere Filming and Photography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-streaming-technology-unveiling-the-secrets-of-digital-entertainment-devices/"><u>Decoding Streaming Technology: Unveiling The Secrets Of Digital Entertainment Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/embark-on-an-intriguing-journey-of-nft-conception/"><u>Embark on an Intriguing Journey of NFT Conception</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-media-interaction-with-smart-control-options/"><u>Enhancing Media Interaction with Smart Control Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-correct-d3dx941dll-error-and-restore-functionality/"><u>Guide to Correct D3dx9_41.dll Error and Restore Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g310-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Nokia G310 Phone with Broken Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-hp-networking-drivers-on-your-pc-supports-windows-11-7-and-8/"><u>Install Updated HP Networking Drivers on Your PC - Supports Windows 11, 7 & 8</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-camera-recording-top-10-camcorders-of-2024/"><u>Mastering Camera Recording Top 10 Camcorders of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-meta-ai-integration-on-instagram-the-ultimate-guide/"><u>Mastering Meta AI Integration on Instagram: The Ultimate Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-to-select-every-single-message-in-your-gmail-inbox/"><u>The Complete Walkthrough to Select Every Single Message in Your Gmail Inbox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-choosing-from-10-chatgpt-replacements/"><u>The Ultimate Guide to Choosing From 10 ChatGPT Replacements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tips-and-techniques-for-referencing-custom-generative-pre-trained-transformers-gpt-within-chatbot-conversations/"><u>Tips and Techniques for Referencing Custom Generative Pre-Trained Transformers (GPT) Within Chatbot Conversations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-value-picks-essential-components-for-your-first-home-cinema-setup/"><u>Ultimate Value Picks: Essential Components for Your First Home Cinema Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/verifying-true-dolby-atmos-quality-are-you-getting-it-right/"><u>Verifying True Dolby Atmos Quality: Are You Getting It Right?</u></a></li>
 </ul></div>
 

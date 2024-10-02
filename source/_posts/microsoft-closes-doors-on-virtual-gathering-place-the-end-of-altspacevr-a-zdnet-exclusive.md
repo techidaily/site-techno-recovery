@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Closes Doors on Virtual Gathering Place: The End of AltspaceVR - A ZDNet Exclusive"
-date: 2024-09-15T21:41:19.768Z
-updated: 2024-09-21T01:43:18.617Z
+date: 2024-09-30T11:57:24.441Z
+updated: 2024-10-02T01:56:33.226Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,27 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-nes-switch-brawlers-the-ultimate-10-game-guide-for-2024/"><u>[New] NES Switch Brawlers The Ultimate 10-Game Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-envelop-your-senses-in-virtual-realms-the-best-vr-playback-systems-for-pc/"><u>[Updated] In 2024, Envelop Your Senses in Virtual Realms The Best VR Playback Systems for PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/activating-dual-authentication-in-your-gmail-a-step-by-step-guide/"><u>Activating Dual-Authentication in Your Gmail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/average-time-to-watch-a-20-megabit-movie-for-2024/"><u>Average Time to Watch a 20 Megabit Movie for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-method-for-getting-rid-of-windows-backup-restore-partition/"><u>Comprehensive Method for Getting Rid of Windows Backup Restore Partition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-your-firestick-a-comprehensive-tutorial-on-using-a-phones-mobile-data-as-internet-source/"><u>Connecting Your Firestick: A Comprehensive Tutorial on Using a Phone's Mobile Data as Internet Source</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-visual-fidelity-with-4k-upscaling-a-comprehensive-guide/"><u>Enhance Visual Fidelity with 4K Upscaling: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exporting-your-spotify-listens-to-readable-text-a-comprehensive-tutorial/"><u>Exporting Your Spotify Listens to Readable Text - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fresh-start-your-lenovo-notebook-with-a-full-system-reset/"><u>How To Fresh Start Your Lenovo Notebook With A Full System Reset</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-busting-vlogger-shakiness-leading-camera-stabilizer-brands/"><u>In 2024, Busting Vlogger Shakiness Leading Camera Stabilizer Brands</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-to-downloading-intel-bluetooth-driver-on-windows-7/"><u>Quick & Easy Guide to Downloading Intel Bluetooth Driver on Windows 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-to-rectify-cygwin1dll-errors-on-your-computer/"><u>Troubleshooting Steps to Rectify Cygwin1.dll Errors on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/vriendelijke-opschrevensoftware-van-movavi-geavanceerd-fotobewerking-made-simple/"><u>Vriendelijke Opschrevensoftware Van Movavi - Geavanceerd Fotobewerking Made Simple</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: How to Switch Off Sticky Keys Functionality on a Windows Computer
-date: 2024-09-18T16:59:23.697Z
-updated: 2024-09-20T17:18:44.299Z
+date: 2024-10-01T06:11:00.974Z
+updated: 2024-10-01T19:36:25.508Z
 categories:
   - BestProducts
 description: This Article Describes How to Switch Off Sticky Keys Functionality on a Windows Computer
@@ -43,6 +43,13 @@ thumbnail: https://www.lifewire.com/thmb/8FJguj3CbG3Pg0axU1nf6m_P2Ok=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -55,6 +62,19 @@ thumbnail: https://www.lifewire.com/thmb/8FJguj3CbG3Pg0axU1nf6m_P2Ok=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -92,12 +112,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-best-of-battles-10-most-epic-royale-games-for-2024/"><u>[New] Best of Battles 10 Most Epic Royale Games for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-creating-characterful-images-with-animated-filters/"><u>[Updated] In 2024, Creating Characterful Images with Animated Filters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/basketball-mania-unleashed-hear-live-ncaa-action-leading-up-to-the-electrifying-final-four/"><u>Basketball Mania Unleashed: Hear Live NCAA Action Leading up to the Electrifying Final Four</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g04-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G04 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-multi-tasking-set-up-split-screen-functionality-on-macbook-air/"><u>Effortless Multi-Tasking: Set Up Split Screen Functionality on MacBook Air</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-best-qualities-of-the-samsung-galaxy-tab-s7-an-essential-guide-for-tablet-fans/"><u>Exploring the Best Qualities of the Samsung Galaxy Tab S7 - An Essential Guide for Tablet Fans</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-how-to-restore-wi-fi-access-on-your-nonfunctioning-ipad/"><u>Guide: How to Restore Wi-Fi Access on Your Nonfunctioning iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-effortlessly-send-documents-from-a-printer-to-your-laptopdesktop/"><u>How To Effortlessly Send Documents From a Printer to Your Laptop/Desktop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/immediate-flagging-of-insta-de-following-events/"><u>Immediate Flagging of Insta De-Following Events</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-create-a-personalized-broadcasting-experience-record-webcam-with-vlc/"><u>In 2024, Create a Personalized Broadcasting Experience Record Webcam with VLC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/julys-ultimate-selection-of-no-cost-flicks-on-youtube-for-movie-buffs/"><u>July's Ultimate Selection of No-Cost Flicks on YouTube for Movie Buffs!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-samsung-tv-apps-a-complete-overview-for-users/"><u>Navigating the World of Samsung TV Apps: A Complete Overview for Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-windows-10-search-issues-effective-solutions-and-tricks/"><u>Solving Windows 10 Search Issues: Effective Solutions and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212232931-step-by-step-guide-to-resolving-mic-issues-with-your-laptop-now-fixed/"><u>Step-by-Step Guide to Resolving Mic Issues with Your Laptop - Now Fixed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-your-default-browser-app-on-android-devices/"><u>Step-by-Step Guide: Switching Your Default Browser App on Android Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-6-food-monitoring-applications-for-a-healthier-you/"><u>The Best 6 Food Monitoring Applications for a Healthier You</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-podcast-introduction-skills-for-2024/"><u>The Ultimate Guide to Podcast Introduction Skills for 2024</u></a></li>
+</ul></div>
 

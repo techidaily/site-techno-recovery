@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes to Reactivate Your Amazon Prime Show's Closed Captions
-date: 2024-09-20T07:57:46.474Z
-updated: 2024-09-26T16:15:53.441Z
+date: 2024-09-25T21:17:26.645Z
+updated: 2024-10-02T03:50:11.475Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Fixes to Reactivate Your Amazon Prime Show's Closed Captions
@@ -24,16 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/LXkWUsczAo4apEW37j4mOVFO5zM=/400x300/fi
  This page will walk you through the setup process to get your Amazon Fire TV Stick ready for casting, the instructions for casting from an Android mobile, and some additional options for Samsung phone users.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can Android Stream to Fire TV Sticks?
@@ -45,19 +39,28 @@ thumbnail: https://www.lifewire.com/thmb/LXkWUsczAo4apEW37j4mOVFO5zM=/400x300/fi
 1. Turn your Amazon Fire TV Stick on as usual and then press the**Home** button on the remote until a menu appears.  
 ![Amazon Fire TV Stick Home screen.](https://www.lifewire.com/thmb/5jHRQ5T_KkfuawTO2i9KJ1TC97s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_cast-to-firestick-from-android-5203940-471dbdb7861344b69af918a7d2b1361b.jpg)
 2. Highlight**Mirroring** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Fire TV Stick menu with Mirroring highlighted.](https://www.lifewire.com/thmb/qKvb3gx91cEcIS_1ZuQVtyIHV8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_cast-to-firestick-from-android-5203940-07ee8331644e40548b51b0d8db7d6639.jpg)
 3. Press**Enter** on the Fire Stick remote to activate the**Mirroring** option.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enter is the large circle button on the remote.  
 ![Fire Stick menu with Mirroring tile highlighted from the shortcut menu.](https://www.lifewire.com/thmb/HHKPByl6ZToAKKsraJQX_cC2-Cs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_cast-to-firestick-from-android-5203940-699056d65c4445a68aba96493d4c6f19.jpg)
 4. The screen should now change and your Fire Stick is now primed and ready to receive a wireless casting signal.  
 ![Fire Stick Display Mirroring screen.](https://www.lifewire.com/thmb/UkfPkJTnj7o6Ibuc-AHVIGhFHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_cast-to-firestick-from-android-5203940-2717553df30541fb871ee1fef9b28d68.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Cast to Amazon Fire TV Stick From Android
 
@@ -67,26 +70,26 @@ Enter is the large circle button on the remote.
 ![Android home screen and Settings app with Connected devices highlighted.](https://www.lifewire.com/thmb/ES2KOfu0oXU9_Ki2t4Wm5jNy-aM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_cast-to-firestick-from-android-5203940-5b429840ed1a4f74baeeecc9087bf277.jpg)
 7. Select**Cast** . If your Fire TV Stick is visible on the list of devices, tap it to begin casting. If it's not, select the ellipsis icon in the top-right corner.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Android cast settings.](https://www.lifewire.com/thmb/_Hx3qqBZLyPwefeoz5hE17tXPpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_cast-to-firestick-from-android-5203940-952a7999d83442378f321bf6c95bdf14.jpg)
 8. Check the box next to**Enable wireless display** . This will make additional devices such as the Amazon Fire TV Stick visible in the Cast list.  
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you ever have trouble finding your Fire Stick when casting, repeat this step to make it visible again.
 9. Select the name of your Fire TV Stick.  
 ![Android wireless display cast settings.](https://www.lifewire.com/thmb/YABRvBSzh5daotOFpjkzKZqaZ1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_cast-to-firestick-from-android-5203940-467c4af4f85948bbbcacf596028705d2.jpg)
 10. Your Android mobile device should now have its screen mirrored on your Fire TV on your TV. To end the casting session, tap the Fire TV Stick's name from the Cast menu once again.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Fire TV and smart TV in the Android Cast settings.](https://www.lifewire.com/thmb/Rp1cb2dP4xTjlf6U0S9jQB6CBOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_cast-to-firestick-from-android-5203940-38efe25a67b64beab712699c9261c55b.jpg)
 
@@ -142,19 +145,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-the-art-of-twilight-portraits/"><u>[New] 2024 Approved Mastering the Art of Twilight Portraits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-mastering-3-key-copywriting-frameworks-for-social-media-promotion-for-2024/"><u>[Updated] Mastering 3 Key Copywriting Frameworks for Social Media Promotion for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfectly-blending-iphones-multimedia/"><u>[Updated] Perfectly Blending iPhones' Multimedia</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-video-shape-study-overview/"><u>2024 Approved FB Video Shape Study Overview</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/balancing-width-and-height-for-ultimate-videography/"><u>Balancing Width and Height for Ultimate Videography</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-xtwitter-client-tools-and-software/"><u>Best X/Twitter Client Tools and Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-streaming-tools-key-features-and-benefits-explained/"><u>Demystifying Streaming Tools: Key Features and Benefits Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discord-outage-explained-determining-if-the-problem-lies-with-us-or-them/"><u>Discord Outage Explained: Determining If the Problem Lies With Us or Them</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-shutdown-the-guide-to-auto-mode-with-windows-1011/"><u>Efficient Shutdown: The Guide to Auto Mode with Windows 10/11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-becoming-a-pro-in-spotify-ad-deals/"><u>In 2024, Becoming a Pro in Spotify Ad Deals</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/razer-kiyo-webcam-full-breakdown/"><u>Razer Kiyo Webcam Full Breakdown</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-camera-problems-fix-the-lack-of-focus-now/"><u>Troubleshooting iPhone Camera Problems - Fix the Lack of Focus Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-made-simple-overcoming-the-challenge-of-code-0x80004005/"><u>Troubleshooting Made Simple: Overcoming the Challenge of Code 0X80004005</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-cache-clearing-techniques-enhancing-performance-and-storage/"><u>Android Cache Clearing Techniques: Enhancing Performance & Storage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-brand-exposure-through-box/"><u>Boosting Brand Exposure Through Box</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-free-rotate-and-merge-videos-on-android/"><u>How to Free Rotate and Merge Videos on Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-integrate-a-logitech-mouse-with-your-pc-or-mac/"><u>How To Seamlessly Integrate A Logitech Mouse With Your PC or Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y27-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y27 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-nord-ce-3-lite-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus Nord CE 3 Lite 5G Lock Screen Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-magic-5-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor Magic 5 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-video-editing-a-step-by-step-guide-to-rotating-footage-in-adobe-premiere-pro/"><u>Mastering Video Editing: A Step-by-Step Guide to Rotating Footage in Adobe Premiere Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/metro-by-t-mobiles-wireless-networking-expansion-and-its-impact-on-your-plan/"><u>Metro by T-Mobile's Wireless Networking Expansion and Its Impact on Your Plan</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimal-frequency-for-smartphone-upgrades-when-to-get-the-latest-model/"><u>Optimal Frequency for Smartphone Upgrades: When to Get the Latest Model</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-tecno-pova-5-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Tecno Pova 5 Pro password or pattern lock</u></a></li>
 </ul></div>
 

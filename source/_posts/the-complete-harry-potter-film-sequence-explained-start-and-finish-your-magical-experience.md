@@ -1,7 +1,7 @@
 ---
 title: "The Complete Harry Potter Film Sequence Explained: Start and Finish Your Magical Experience"
-date: 2024-09-18T22:07:54.477Z
-updated: 2024-09-20T16:18:38.826Z
+date: 2024-09-27T07:34:31.171Z
+updated: 2024-10-02T00:46:58.835Z
 categories:
   - BestProducts
 description: "This Article Describes The Complete Harry Potter Film Sequence Explained: Start and Finish Your Magical Experience"
@@ -33,10 +33,25 @@ These instructions apply to PCs running Windows 10 and up.
 2. Hold down the**Windows button** on your keyboard and then press the**. (Period)** . This sequence will bring up a small emoji keyboard.  
 ![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Type a Heart on a Mac Keyboard
 
@@ -53,6 +68,13 @@ These instructions apply to PCs running Windows 10 and up.
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -60,6 +82,13 @@ These instructions apply to PCs running Windows 10 and up.
  Things work a little differently on Macs, as the Apple keyboard uses option keys to insert symbols. However, you’ll have to change your keyboard settings to use the Unicode Hex Input method to do this.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
 
@@ -73,25 +102,18 @@ These instructions apply to PCs running Windows 10 and up.
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Get the White Heart Emoji on Your Keyboard?
 
@@ -135,5 +157,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-uncovering-old-facebook-stories-with-ease/"><u>[New] In 2024, Uncovering Old Facebook Stories with Ease</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-audio-capturing-in-android-without-rooting-guide-for-2024/"><u>[Updated] Audio Capturing in Android - Without Rooting [Guide] for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-audio-picks-high-quality-sites-compilation-for-2024/"><u>Best Audio Picks High-Quality Sites Compilation for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/como-fazer-a-transformacao-on-line-de-formatos-video-mp4-em-mov-ou-quicktime-sem-custo-algum/"><u>Como Fazer a Transformação On-Line De Formatos Video MP4 Em MOV Ou QuickTime Sem Custo Algum</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-and-expert-review-on-the-all-rounder-samsung-galaxy-tab-s4-tablet/"><u>Comprehensive Guide and Expert Review on the All-Rounder Samsung Galaxy Tab S4 Tablet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-correct-pixel-damage-causing-image-deformation-on-monitors/"><u>Effective Ways to Correct Pixel Damage Causing Image Deformation on Monitors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-earning-potential-revenue-from-youtube-advertisements-in-2024/"><u>Exploring Earning Potential Revenue From YouTube Advertisements, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-twitch-experiencing-a-blackout-or-is-my-stream-lagging-due-to-other-factors/"><u>Is Twitch Experiencing a Blackout, or Is My Stream Lagging Due to Other Factors?</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-hurdles-of-success-insight-into-teredos-quest-for-eligibility/"><u>The Hurdles of Success: Insight Into Teredo's Quest for Eligibility</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-subwoofer-with-samsungs-premium-soundbar/"><u>Ultimate Guide: Connecting Your Subwoofer with Samsung's Premium Soundbar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-dts-play-fi-an-introduction/"><u>Understanding DTS Play-Fi: An Introduction</u></a></li>
+</ul></div>
 

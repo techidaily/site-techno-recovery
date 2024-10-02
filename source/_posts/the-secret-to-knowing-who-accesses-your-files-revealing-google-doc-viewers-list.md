@@ -1,7 +1,7 @@
 ---
 title: "The Secret to Knowing Who Accesses Your Files: Revealing Google Doc Viewers List"
-date: 2024-09-25T05:40:20.978Z
-updated: 2024-09-27T07:07:40.376Z
+date: 2024-09-30T11:40:21.507Z
+updated: 2024-10-02T07:47:29.522Z
 categories:
   - BestProducts
 description: "This Article Describes The Secret to Knowing Who Accesses Your Files: Revealing Google Doc Viewers List"
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
@@ -44,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
 
 The plural of emoji is emoji, not emojis.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## New Emoji Are Announced Regularly
 
@@ -62,10 +76,10 @@ The plural of emoji is emoji, not emojis.
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Face With Tears of Joy Emoji Is the Most Popular
@@ -80,23 +94,9 @@ The plural of emoji is emoji, not emojis.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Emoji Are Supported Just About Everywhere
 
@@ -107,10 +107,16 @@ The plural of emoji is emoji, not emojis.
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Emoji Trivia
@@ -159,19 +165,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-audireview-listening-and-recording-evaluation/"><u>[New] 2024 Approved Audireview Listening & Recording Evaluation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-google-meet-a-self-teached-path-for-hosts-and-attendees/"><u>[Updated] 2024 Approved Google Meet A Self-Teached Path for Hosts & Attendees</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/abbyy-digital-intelligence-revolutioniert-den-automatisierten-rechnungseingang-bei-bunting-effiziente-und-zuverlassige-unternehmenssoftware-fur-die-geschaft5/"><u>ABBYY Digital Intelligence Revolutioniert Den Automatisierten Rechnungseingang Bei Bünting - Effiziente Und Zuverlässige Unternehmenssoftware Für Die Geschäftsabwicklung</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ac3-to-wav-file-transformation-tutorial-how-to-do-it-seamlessly-on-the-web-or-your-desktop/"><u>AC3 to WAV File Transformation Tutorial - How to Do It Seamlessly on the Web or Your Desktop</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipated-launch-of-the-google-pixel-fold-2nd-gen-projected-cost-release-timeline-and-leaked-specifications/"><u>Anticipated Launch of the Google Pixel Fold (2Nd Gen): Projected Cost, Release Timeline & Leaked Specifications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-coredll-not-found-issues-efficiently/"><u>Diagnosing and Repairing 'Core.dll' Not Found Issues Efficiently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminating-missing-coredll-mishaps-on-your-system/"><u>Eliminating Missing Core.dll Mishaps on Your System</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/from-novice-to-influencer-a-step-by-step-fb-live-blueprint/"><u>From Novice to Influencer A Step-by-Step FB Live Blueprint</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gw-macx-dvd-ripper-pro-digiarty/"><u>GW記念: 期間限定でMacX DVD Ripper Pro無料体験版提供! 令和の初め、Digiartyからのプレゼントキャンペーン!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-11-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme 11 5G Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>In 2024, Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-on-facebook-in-just-five-steps/"><u>Maximizing Productivity on Facebook in Just Five Steps!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-communication-hurdles-with-your-samsung-galaxy-watch/"><u>Overcoming Communication Hurdles with Your Samsung Galaxy Watch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stay-safe-online-a-comprehensive-tutorial-for-changing-x-password-settings/"><u>Stay Safe Online: A Comprehensive Tutorial for Changing X Password Settings</u></a></li>
+<li><a href="https://facebook.techidaily.com/blockchain-beast-zuckerbergs-fanciful-pet-moniker/"><u>'Blockchain Beast': Zuckerberg's Fanciful Pet Moniker.</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aws-surrounding-personal-recording-on-youtube-site-for-2024/"><u>[New] Laws Surrounding Personal Recording on YouTube Site for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-artists-chromatic-companion/"><u>[New] The Artist's Chromatic Companion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-20-greatest-sandbox-experiences-ever-made-for-2024/"><u>[Updated] 20 Greatest Sandbox Experiences Ever Made for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-elevating-your-text-with-advanced-3d-effects/"><u>[Updated] 2024 Approved Elevating Your Text with Advanced 3D Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>2024 Approved The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-ai-chatbots-discover-the-ideal-replacements-for-chatgpt/"><u>Best AI Chatbots: Discover the Ideal Replacements for ChatGPT</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-free-and-premium-background-editor-apps-for-smartphones-enhance-your-photos/"><u>Best Free and Premium Background Editor Apps for Smartphones: Enhance Your Photos!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/change-your-gmail-alert-tones-instructions-and-best-practices/"><u>Change Your Gmail Alert Tones - Instructions and Best Practices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-stop-0x0000003d-errors-expert-tips-and-techniques-to-restore-system-stability/"><u>Decoding STOP 0X0000003D Errors: Expert Tips and Techniques to Restore System Stability</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-system-agility-through-memory-speed-and-latency-management-essential-insights/"><u>Enhancing System Agility Through Memory Speed & Latency Management: Essential Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expand-your-choices-with-19-new-models-in-tcls-innovative-q-and-s-series-smart-televisions/"><u>Expand Your Choices with 19 New Models in TCL's Innovative Q & S Series Smart Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-strategies-for-integrating-multiple-data-columns-in-excel-efficiently/"><u>Expert Strategies for Integrating Multiple Data Columns in Excel Efficiently</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-8-plus-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 8 Plus to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/inside-look-at-cutting-edge-computing-with-toms-hardware-guide/"><u>Inside Look at Cutting-Edge Computing with Tom's Hardware Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-twitter-what-does-it-mean-to-retweet/"><u>Understanding Twitter: What Does It Mean to 'Retweet'?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-security-matters-learn-to-change-passwords-easily-on-x-network/"><u>Your Security Matters: Learn to Change Passwords Easily on X Network</u></a></li>
 </ul></div>
 

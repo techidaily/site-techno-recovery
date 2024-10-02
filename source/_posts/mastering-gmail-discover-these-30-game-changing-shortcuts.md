@@ -1,7 +1,7 @@
 ---
 title: "Mastering Gmail: Discover These 30 Game-Changing Shortcuts"
-date: 2024-09-13T17:56:15.876Z
-updated: 2024-09-21T01:57:34.181Z
+date: 2024-09-27T01:28:30.854Z
+updated: 2024-10-01T18:19:14.974Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Gmail: Discover These 30 Game-Changing Shortcuts"
@@ -33,17 +33,38 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
 
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
 
 The plural of emoji is emoji, not emojis.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## New Emoji Are Announced Regularly
 
@@ -52,13 +73,6 @@ The plural of emoji is emoji, not emojis.
  If your mobile device is still running on an older OS version, you'll want to update it as soon as a new version is released to make sure you get access to all these new and fun emoji.
 
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Emoji Tattoos Show Up in Odd Places
 
@@ -80,16 +94,22 @@ The plural of emoji is emoji, not emojis.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Emoji Are Supported Just About Everywhere
 
@@ -98,13 +118,6 @@ The plural of emoji is emoji, not emojis.
  They're not quite identical to the ones you see and type on mobile devices, but they come pretty close, and anything is better than a bunch of boxes filling up your X stream.
 
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Emoji Trivia
 
@@ -150,5 +163,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-12-clicker-games-you-may-like-on-pc/"><u>[New] Top 12 Clicker Games You May Like on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-upcoming-appraisal-innovative-opinions/"><u>[New] Upcoming Appraisal Innovative Opinions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-vct-pro-capture-assessment-full-review/"><u>[Updated] VCT Pro Capture Assessment Full Review</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-user-friendly-tutorial-on-modifying-your-chromecast-screen-look/"><u>A User-Friendly Tutorial on Modifying Your Chromecast Screen Look</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/freepaid-luminar-the-ultimate-lightroom-substitute/"><u>Free/Paid Luminar The Ultimate Lightroom Substitute</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-achieve-immersive-sound-by-pairing-a-subwooer-with-your-samsung-soundbar/"><u>How to Achieve Immersive Sound by Pairing a Subwooer with Your Samsung Soundbar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-kernel32dll-errors-in-windows/"><u>How to Fix Kernel32.dll Errors in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-edge-40-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola Edge 40 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-when-your-apple-watch-touchscreen-fails-to-respond/"><u>Solutions for When Your Apple Watch Touchscreen Fails to Respond</u></a></li>
+</ul></div>
 

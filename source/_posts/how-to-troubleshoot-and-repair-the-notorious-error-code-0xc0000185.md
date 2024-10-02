@@ -1,7 +1,7 @@
 ---
 title: How To Troubleshoot And Repair The Notorious Error Code 0xC0000185
-date: 2024-09-16T02:28:27.222Z
-updated: 2024-09-20T20:07:25.761Z
+date: 2024-09-29T03:06:15.494Z
+updated: 2024-10-02T06:20:52.413Z
 categories:
   - BestProducts
 description: This Article Describes How To Troubleshoot And Repair The Notorious Error Code 0xC0000185
@@ -31,6 +31,13 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
@@ -46,6 +53,13 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 2. **Put it in rice.** This is the most famous technique (though not necessarily the best). Get a ziplock bag big enough to hold the wet iPhone or iPod and some rice. Re-insert the SIM card, put the device in the bag, and fill most of the bag with uncooked rice. Leave it in the bag for a couple of days. The rice should draw the moisture out of the device. Many a wet iPhone has been saved this way. Just watch out for pieces of rice getting inside the phone.  
  Don't use enriched rice. It can leave dust behind that can get into your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try This Only If You're Desperate to Fix Your Wet iPhone
 
  If you're really desperate, or really skilled, you can try this option—but you better know what you're doing. You can ruin your iPhone and[void your warranty](https://www.lifewire.com/iphone-warranty-plus-applecare-1999284) .
@@ -60,13 +74,6 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 1. **Try a repair company.** If none of these tactics work, there are[iPhone repair](https://www.lifewire.com/repair-options-cracked-iphone-screen-2000276) companies that specialize in saving water-damaged iPhones. A little time at your favorite search engine can put you in touch with a number of good vendors.
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check for Water Damage in a Used iPhone or iPod
 
  If you're[buying a used iPhone or iPod](https://www.lifewire.com/check-if-used-iphone-is-stolen-1999376) or lent someone your device and now it's not working so well, you want to check if it got wet. You can do this using the moisture indicator built into iPods and iPhones.
@@ -74,6 +81,13 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
  The moisture indicator is a small orange dot that appears in the headphone jack, Dock Connector, or SIM card slot. Check out [this Apple article to find the location of the moisture indicator](https://support.apple.com/en-us/109350) for your model.
 
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Software Tips for Dealing with a Wet iPhone
 
@@ -83,10 +97,10 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Waterproof iPhones: iPhone 7 and Newer
@@ -124,5 +138,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>[New] Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-analyzing-flight-performance-in-djis-drone-standard-edition/"><u>[New] In 2024, Analyzing Flight Performance in DJI's Drone Standard Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chromatic-confluence-blending-colors-with-flair/"><u>[Updated] Chromatic Confluence Blending Colors with Flair</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-wmp-techniques-for-efficient-cd-handling-and-recordings/"><u>2024 Approved Master WMP Techniques for Efficient CD Handling and Recordings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-creator-toolkit-commanding-video-kingdoms/"><u>2024 Approved The Ultimate Creator Toolkit Commanding Video Kingdoms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/efficient-editing-techniques-mastering-video-cropping-and-exporting/"><u>Efficient Editing Techniques Mastering Video Cropping and Exporting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-turning-off-safety-and-amber-warnings-on-iphones-efficiently/"><u>Guide to Turning Off Safety and Amber Warnings on iPhones Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-oleaut32dll-not-found-or-missing-errors/"><u>How to Fix Oleaut32.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reactivate-your-frozen-apple-watch-digitizer/"><u>How to Reactivate Your Frozen Apple Watch Digitizer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11r-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock OnePlus 11R Phone without Any Data Loss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-macos-privacy-settings-how-to-display-hidden-files-with-terminal-techniques/"><u>Mastering macOS Privacy Settings: How to Display Hidden Files with Terminal Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedy-conversion-techniques-how-to-turn-youtube-footage-into-avi-files-seamlessly/"><u>Speedy Conversion Techniques: How to Turn YouTube Footage Into AVI Files Seamlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-samsung-smart-tv-applications-in-2-actual-year/"><u>Top Rated Samsung Smart TV Applications in 2# Actual Year</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/virtual-reality-filming-tips-and-tricks-for-gamers/"><u>Virtual Reality Filming Tips and Tricks for Gamers</u></a></li>
+</ul></div>
 

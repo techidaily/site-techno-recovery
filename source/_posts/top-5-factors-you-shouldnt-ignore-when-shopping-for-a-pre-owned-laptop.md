@@ -1,7 +1,7 @@
 ---
 title: Top 5 Factors You Shouldn't Ignore When Shopping for a Pre-Owned Laptop
-date: 2024-09-23T01:49:59.870Z
-updated: 2024-09-26T17:26:22.476Z
+date: 2024-09-29T19:03:25.729Z
+updated: 2024-10-02T05:56:30.044Z
 categories:
   - BestProducts
 description: This Article Describes Top 5 Factors You Shouldn't Ignore When Shopping for a Pre-Owned Laptop
@@ -29,10 +29,10 @@ Close
  We've compiled this guide to help you understand what a refurbished laptop is and what to look for so you can find a refurb that looks and runs like new. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Are Refurbished Laptops?
@@ -44,10 +44,10 @@ Close
  The main question people ask is "Are refurbished laptops good?" The answer is, "It's complicated." However, there are a few key items to think about as you explore this type of purchase.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Top 5 Things to Consider When Buying a Refurbished Laptop
@@ -61,6 +61,13 @@ Close
 * What warranty should a refurbished laptop have?
 * What condition should a refurbished laptop have?
 * How old should a refurbished laptop be?
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Are Refurbished Laptops Just Used Laptops?
 
@@ -92,6 +99,13 @@ Close
 
  Some refurbishers will give letter or number grades to their laptops or refer to the condition with words like excellent, great, or satisfactory. Pay attention to the specific terminology, and if you pay for an "excellent-quality" laptop that’s supposed to be free of cosmetic blemishes, make sure that’s what you receive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Old Should a Refurbished Laptop Be?
 
  The ideal age of a refurbished laptop will depend on your budget and how you plan on using the machine.
@@ -113,13 +127,6 @@ Close
 * **Deal hunters** . Those searching for fantastic deals will want to target recently released open-box refurbished laptops for steep discounts on modern hardware.
 * **Budget gamers** . Brand-new budget laptops aren’t good for gaming because they use integrated graphics. Instead, consider looking for a refurbished[ gaming laptop](https://www.lifewire.com/things-to-consider-buying-gaming-laptop-5235493) with an actual[ video card](https://www.lifewire.com/what-is-a-video-card-2618161) that’s a few years old but still capable of handling the latest games on lower settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Should I Do After I Buy a Refurbished Laptop?
 
  When you buy a refurbished laptop, you’ll have to do all the same data transfer and other tasks you'd have to do if you purchased a new device. In addition to those tasks, there are some unique concerns when going refurbished:
@@ -128,13 +135,6 @@ Close
 * Make sure there aren’t any files from the previous owner. If the laptop wasn’t reset, you should consider a[ clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) , macOS, or Linux and formatting the hard drive.
 * [ Scan for viruses and malware](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) , even if it looks like someone reset the laptop. You don’t want to get stuck with issues that the previous owner left behind.
 * Check the operation of the laptop. Make sure it boots up and runs all your apps or games, listen to see if the fan comes on, and verify that components like the[ optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) and webcam work.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  More Tips for Buying a Refurbished Laptop
 
@@ -182,14 +182,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-legalities-in-skype-call-audio-preservation/"><u>[New] 2024 Approved Navigating Legalities in Skype Call Audio Preservation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-velocity-vision-speed-up-videos-on-android/"><u>[Updated] Velocity Vision Speed Up Videos on Android</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-missing-python-24-dll-file-errors-on-your-computer/"><u>Fixing Missing Python 2.4 DLL File Errors on Your Computer</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/install-and-set-up-hyper-v-on-windows-11-a-comprehensive-tutorial/"><u>Install and Set Up Hyper-V on Windows 11: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/launching-soon-unveiling-the-latest-apple-ear-worn-gadget-pricing-and-release-info-inside/"><u>Launching Soon? Unveiling the Latest Apple Ear-Worn Gadget – Pricing & Release Info Inside</u></a></li>
-<li><a href="https://win-blog.techidaily.com/silent-combat-how-to-restore-your-lost-ark-game-sound/"><u>Silent Combat: How to Restore Your Lost Ark Game Sound</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-trending-hashtags-on-instagram-for-boosting-your-posts-visibility/"><u>Top Trending Hashtags on Instagram for Boosting Your Posts' Visibility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-methods-silencing-your-overworked-pc-cooling-system/"><u>Troubleshooting Methods: Silencing Your Overworked PC Cooling System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-tips-for-youtube-audio-optimization/"><u>[New] In 2024, Essential Tips for YouTube Audio Optimization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-complete-step-by-step-for-youtube-fb-sharing/"><u>[New] In 2024, The Complete Step-by-Step for YouTube FB Sharing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-your-firestick-a-step-by-step-guide-to-using-a-mobile-hotspot/"><u>Connecting Your Firestick: A Step-by-Step Guide to Using a Mobile Hotspot</u></a></li>
+<li><a href="https://tools.techidaily.com/macxdvd/products/"><u>Digiarty Software(MacXDVD)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enregistreur-decran-az-installer-facilement-sur-windows-et-macos-telecharger-gratuitement/"><u>Enregistreur D'écran AZ: Installer Facilement Sur Windows Et macOS - Télécharger Gratuitement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-cgps-credibility-for-medical-insights/"><u>Evaluating CGP's Credibility for Medical Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-making-personalized-appointments-at-the-apple-store/"><u>Expert Advice on Making Personalized Appointments at the Apple Store</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-correcting-the-missing-mapi32dll-error-on-your-windows-pc/"><u>Guide to Correcting the Missing Mapi32.dll Error on Your Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-broadcast-your-netflix-favorites-in-real-time-a-guide-to-screen-sharing/"><u>How To Broadcast Your Netflix Favorites in Real-Time: A Guide to Screen Sharing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-reveal-the-latest-in-smartphone-evolution-meet-the-new-iphone/"><u>Innovative Reveal: The Latest in Smartphone Evolution – Meet the New iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-2024-anticipated-launch-details-pricing-predictions-and-leaked-specifications/"><u>IPhone 2024 Anticipated Launch Details, Pricing Predictions & Leaked Specifications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-fixing-the-notorious-hunger-game-on-your-computer/"><u>No More Freezes: Fixing the Notorious 'Hunger' Game on Your Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-shopping-for-dash-cams-unpacking-the-top-9-features-and-specifications-you-need-to-know-about/"><u>Smart Shopping for Dash Cams - Unpacking the Top 9 Features and Specifications You Need to Know About</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-dsounddll-not-detected-or-absent-issue-on-your-computer/"><u>Solving the dsound.dll Not Detected or Absent Issue on Your Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/step-by-step-to-stunning-snaps-with-snapseed/"><u>Step-by-Step to Stunning Snaps with Snapseed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-creative-dall-e-3-text-prompts-to-generate-stunning-images/"><u>Top 8 Creative DALL-E 3 Text Prompts to Generate Stunning Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-your-pc-resolving-physxloaderdll-not-detected-errors/"><u>Troubleshooting Your PC: Resolving 'PhysXLoader.dll' Not Detected Errors</u></a></li>
 </ul></div>
 

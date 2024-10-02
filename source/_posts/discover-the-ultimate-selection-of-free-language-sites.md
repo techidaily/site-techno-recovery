@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Free Language Sites
-date: 2024-09-24T08:10:57.385Z
-updated: 2024-09-27T05:46:47.142Z
+date: 2024-09-27T06:02:44.021Z
+updated: 2024-10-02T03:26:34.235Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Ultimate Selection of Free Language Sites
@@ -30,6 +30,13 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -56,6 +63,13 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -63,10 +77,10 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -80,19 +94,6 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -102,13 +103,6 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -132,6 +126,13 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -139,13 +140,6 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,18 +170,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/solved-operational-system-after-drivers-reinstallation/"><u>[SOLVED] Operational System After Drivers Reinstallation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hue-harmony-masterclass-for-audience-enthusiasts/"><u>[Updated] Hue Harmony Masterclass for Audience Enthusiasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/connectivity-modifier-fb-stories-backup-tool-for-2024/"><u>Connectivity Modifier FB Stories Backup Tool for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-look-the-upcoming-samsung-galaxy-s25-ultra-anticipated-costs-launch-timeline-and-features/"><u>Inside Look: The Upcoming Samsung Galaxy S25 Ultra - Anticipated Costs, Launch Timeline & Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/make-smart-investments-in-car-safety-learn-the-9-most-important-aspects-for-selecting-a-reliable-dash-camera/"><u>Make Smart Investments in Car Safety: Learn the 9 Most Important Aspects for Selecting a Reliable Dash Camera</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-reactivating-your-frozen-airpod-devices/"><u>Step-by-Step Solution: Reactivating Your Frozen AirPod Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-iphone-users-handbook-for-stopping-unwanted-sms-and-regaining-peace-of-mind/"><u>The iPhone User's Handbook for Stopping Unwanted SMS and Regaining Peace of Mind</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-new-era-for-facebook-employees-metamates/"><u>The New Era for Facebook Employees - Metamates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-a-5-bad-gateway-problem-a-step-by-step-approach/"><u>Troubleshooting a 5) Bad Gateway Problem - A Step-by-Step Approach</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-resolve-issues-with-valorants-voice-communication/"><u>Troubleshooting Steps to Resolve Issues with Valorant's Voice Communication</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/whats-next-for-google-pixel-earbuds-insights-on-pricing-release-dates-specs-and-hidden-rumors/"><u>What's Next for Google Pixel Earbuds? Insights on Pricing, Release Dates, Specs & Hidden Rumors.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tips-for-optimizing-facebooks-auto-play-videos/"><u>[New] Tips for Optimizing Facebook's Auto-Play Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-complete-guide-to-video-studios-focusing-on-xvideo/"><u>[Updated] Complete Guide to Video Studios Focusing on XVideo</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-hacking-tiktoks-video-pace-efficiently/"><u>2024 Approved Hacking TikTok's Video Pace Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/corrective-actions-how-to-recover-and-solve-lib402dll-not-detected-errors/"><u>Corrective Actions: How to Recover and Solve lib402.dll Not Detected Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-resolve-d3dx934dll-missing-on-your-pc/"><u>Easy Steps to Resolve d3dx9_34.dll Missing on Your PC</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-11-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme 11 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-create-captivating-colleagues-on-instagram-in-minutes/"><u>How to Create Captivating Colleagues on Instagram in Minutes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-your-video-call-not-working-pinpointing-whether-its-microsoft-teams-outage-or-user-connectivity-issue/"><u>Is Your Video Call Not Working? Pinpointing Whether It's Microsoft Teams Outage or User Connectivity Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-watch-lgbtqplus-tv-programs-available-on-netflix-this-month-july-2024/"><u>Must-Watch LGBTQ+ TV Programs Available on Netflix This Month (July 2024)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-to-repair-missing-mingwm10dll-filesystem-problem/"><u>Troubleshooting Tips to Repair Missing mingwm10.dll Filesystem Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-secrets-of-teslas-self-driving-cab-price-insights-launch-date-and-specifications-rumors-revealed/"><u>Unlocking Secrets of Tesla's Self-Driving Cab: Price Insights, Launch Date & Specifications - Rumors Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-samsung-galaxy-ring-pricing-details-launch-timeline-and-cutting-edge-features/"><u>Unveiling the Samsung Galaxy Ring: Pricing Details, Launch Timeline & Cutting-Edge Features</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/what-countries-are-emphasized-in-us-education/"><u>What Countries Are Emphasized in U.S. Education?</u></a></li>
+<li><a href="https://common-error.techidaily.com/white-screen-of-death-heres-what-you-need-to-know-about-laptop-repairs/"><u>White Screen of Death? Here's What You Need to Know About Laptop Repairs!</u></a></li>
 </ul></div>
 

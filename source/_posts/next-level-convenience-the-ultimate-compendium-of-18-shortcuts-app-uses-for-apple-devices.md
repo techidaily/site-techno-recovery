@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Convenience: The Ultimate Compendium of 18 Shortcuts App Uses for Apple Devices"
-date: 2024-09-23T21:56:45.375Z
-updated: 2024-09-27T04:22:49.633Z
+date: 2024-09-30T01:15:00.965Z
+updated: 2024-10-02T04:00:27.250Z
 categories:
   - BestProducts
 description: "This Article Describes Next-Level Convenience: The Ultimate Compendium of 18 Shortcuts App Uses for Apple Devices"
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -77,16 +70,10 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -99,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -132,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -139,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,17 +170,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-revealing-successful-markets/"><u>[New] Revealing Successful Markets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-air-lift-extraordinaire-top-industrial-drones/"><u>[Updated] Air-Lift Extraordinaire Top Industrial Drones</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-blueprint-of-successful-video-endorsements-for-2024/"><u>[Updated] The Blueprint of Successful Video Endorsements for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-asus-rog-phone-7-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Asus ROG Phone 7 Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-your-digital-sidekick-alexa-vs-google-assistant/"><u>Choosing Your Digital Sidekick: Alexa Vs. Google Assistant</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nokia-c300-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Nokia C300 online without jailbreak</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-visual-impact-on-facebook-by-linking-with-pinterest-a-quick-tutorial/"><u>Maximizing Visual Impact on Facebook by Linking with Pinterest – A Quick Tutorial</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-post-update-issues-with-realtek-lan-controls/"><u>Solving Post-Update Issues with Realtek LAN Controls</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-windows-11-shutdown-woes-expert-techniques-and-advice/"><u>Solving Windows 11 Shutdown Woes: Expert Techniques and Advice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sound-of-skype-find-and-save-ringtones-easily/"><u>Sound of Skype Find and Save Ringtones Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-secret-language-a-beginners-cheat-sheet-on-snapchat-emojis/"><u>Understanding the Secret Language: A Beginner's Cheat Sheet on Snapchat Emojis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-guide-to-easy-content-making-10-basic-youtube-videos/"><u>[New] 2024 Approved The Ultimate Guide to Easy Content Making 10 Basic YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-essentials-of-transferring-youtube-media-to-social-networks/"><u>[New] The Essentials of Transferring YouTube Media to Social Networks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-insider-look-at-youtube-revenue-policies/"><u>[Updated] 2024 Approved Insider Look at YouTube Revenue Policies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-route-to-youtube-entrepreneurship-top-10-easy-channels/"><u>2024 Approved Your Route to YouTube Entrepreneurship Top 10 Easy Channels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-lgbtq-entertainment-offerings-on-netflix-in-june-july-2024/"><u>Discover the Best LGBTQ Entertainment Offerings on Netflix in June-July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722894446253-discover-the-ultimate-list-the-7-best-imessage-games-for-2econdaries/"><u>Discover the Ultimate List: The 7 Best iMessage Games for 2Econdaries</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974390546-effortlessly-enhance-intel-graphics-3000-via-windows-10-driver-upgrade/"><u>Effortlessly Enhance Intel Graphics 3000 via Windows 10 Driver Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973834184-get-your-hands-on-updated-windows-drivers-for-msi-gs65-free-downloads-available/"><u>Get Your Hands on Updated Windows Drivers for MSi GS65 - Free Downloads Available</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-and-correcting-issues-with-your-silent-stereo-ampreceiver/"><u>Identifying and Correcting Issues with Your Silent Stereo Amp/Receiver</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-advanced-techniques-in-itunes-video-saving/"><u>In 2024, Advanced Techniques in iTunes Video Saving</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-inside-outlooks-of-instagram-stories-consumers/"><u>In 2024, Inside Outlooks of Instagram Stories Consumers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-virality-the-ultimate-10-techniques-for-instagram-success/"><u>Mastering the Art of Virality: The Ultimate 10 Techniques for Instagram Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-mingwm10dll-not-detected-issues-effective-solutions/"><u>Overcoming 'mingwm10.dll Not Detected' Issues: Effective Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-nospinlockavailable-error-a-guide-to-overcome-stop-code-0x0000001d/"><u>Resolving NO_SPIN_LOCK_AVAILABLE Error: A Guide to Overcome Stop Code 0X0000001D</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-and-verify-a-comprehensive-approach-to-listing-emails-safely/"><u>Secure and Verify: A Comprehensive Approach to Listing Emails Safely</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-performing-a-full-restart-on-any-ipad-model/"><u>Ultimate Guide: Performing a Full Restart on Any iPad Model</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning On/Off Your Screen Keyboard on Windows 11"
-date: 2024-09-25T21:58:34.574Z
-updated: 2024-09-26T18:52:30.574Z
+date: 2024-09-27T18:01:29.580Z
+updated: 2024-10-02T08:19:36.968Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Turning On/Off Your Screen Keyboard on Windows 11"
@@ -23,19 +23,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
  This article explains all the different ways to make Windows 11 screenshots.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -45,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
  On some computers, the**Fn** (function) key needs to be pressed along with**PrtSc** .
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
 
@@ -56,13 +50,20 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
@@ -81,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -102,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -156,22 +150,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-a-new-take-on-favorite-movies-7-alternatives/"><u>[New] 2024 Approved A New Take on Favorite Movies - #7 Alternatives</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-allure-in-online-visuals-for-beauty/"><u>[New] In 2024, Crafting Allure in Online Visuals for Beauty</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unpacking-techniques-for-facebook-live-embedding-for-2024/"><u>[New] Unpacking Techniques for Facebook Live Embedding for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722875925325-beyond-just-funny-faces-uncovering-remarkable-tidbits-from-the-history-and-usage-of-emojis/"><u>Beyond Just Funny Faces: Uncovering Remarkable Tidbits From the History and Usage of Emojis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-troubleshooting-of-d3dx9-34dll-file-not-found-problems-in-windows/"><u>Comprehensive Troubleshooting of D3dx9_ 34.dll File Not Found Problems in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/creating-your-own-compiled-pdf-a-simple-method-for-assembling-jpeg-photos-together/"><u>Creating Your Own Compiled PDF: A Simple Method for Assembling JPEG Photos Together</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dealing-with-a-502-error-heres-your-comprehensive-guide-to-troubleshooting/"><u>Dealing with a 502 Error? Here's Your Comprehensive Guide to Troubleshooting</u></a></li>
-<li><a href="https://win-dash.techidaily.com/efficient-techniques-for-slicing-through-wmv-videos-with-precision/"><u>Efficient Techniques for Slicing Through WMV Videos with Precision</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-allow-website-cookies-in-your-browsers/"><u>Expert Advice: How to Allow Website Cookies in Your Browsers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-out-which-ipads-come-with-inbuilt-satellite-positioning-tools/"><u>Find Out Which iPads Come With Inbuilt Satellite Positioning Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-find-deleted-phone-numbers-on-android/"><u>How to Find Deleted Phone Numbers on Android</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a14-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy A14 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-s24-ultra-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy S24 Ultra? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/orchestrating-the-soundscape-finding-perfect-background-tunes/"><u>Orchestrating the Soundscape Finding Perfect Background Tunes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-your-netgear-devices-julys-ultimate-2024-default-password-collection/"><u>Unlocking Your NETGEAR Devices: July's Ultimate 2024 Default Password Collection</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-civi-3-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Civi 3 won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts/"><u>[New] A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-harmonize-video-quality-with-instagrams-visual-theme/"><u>[New] Harmonize Video Quality with Instagram's Visual Theme</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-onscreen-excellence-flexible-talent-access-for-2024/"><u>[Updated] Onscreen Excellence Flexible Talent Access for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/begin-anew-transferring-and-setting-up-windows-10-on-a-replacement-drives/"><u>Begin Anew: Transferring & Setting Up Windows 10 on a Replacement Drives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-the-newly-updated-dell-xps-2020-featuring-refined-aesthetics-and-powerful-snapdragon-x-elite-processor/"><u>Comprehensive Review of the Newly Updated Dell XPS 지2020 - Featuring Refined Aesthetics and Powerful Snapdragon X Elite Processor</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-step-toward-balance-best-yoga-series-to-watch-and-learn-from/"><u>In 2024, Step Toward Balance Best Yoga Series to Watch and Learn From</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-iphone-vocal-memos-a-step-by-step-tutorial/"><u>Master the Art of iPhone Vocal Memos: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-windows-8-movie-maker-like-a-pro/"><u>Navigating Windows 8 Movie Maker Like a Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-remedy-non-stuttering-views-only/"><u>Swift Remedy: Non-Stuttering Views Only</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-for-accessing-and-leaving-iphone-recovery-modes/"><u>The Ultimate How-To for Accessing and Leaving iPhone Recovery Modes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-household-bot-prospective-pricing-scheduled-debut-date-and-hardware-details-uncovered/"><u>Upcoming Apple Household Bot: Prospective Pricing, Scheduled Debut Date, and Hardware Details Uncovered</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-fabrication-suite/"><u>Video Fabrication Suite</u></a></li>
 </ul></div>
 

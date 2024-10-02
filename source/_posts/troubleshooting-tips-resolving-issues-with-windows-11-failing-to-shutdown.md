@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Issues with Windows 11 Failing to Shutdown"
-date: 2024-09-23T08:02:08.132Z
-updated: 2024-09-27T00:52:13.719Z
+date: 2024-09-26T03:27:26.962Z
+updated: 2024-10-02T00:08:13.431Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Tips: Resolving Issues with Windows 11 Failing to Shutdown"
@@ -34,6 +34,13 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
 
  Reset This PC errors can happen in[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) , and[Windows 8](https://www.lifewire.com/windows-8-2626235) . The directions below apply to both operating systems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix the 'There Was a Problem Resetting Your PC' Error
 
  Follow these steps in the order they're presented to try the simpler fixes first:
@@ -45,16 +52,10 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
  To complete this step, you’ll need to[access the ASO menu](https://www.lifewire.com/how-to-access-advanced-startup-options-in-windows-10-or-8-2626229) . Once you’re there, go to**Troubleshoot** \>**Advanced options** \>**Startup Repair** .
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. [Repair system files with the sfc /scannow command](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) . Reset This PC might be trying to use some important Windows files that are corrupt, which is why you’re seeing this error.  
@@ -62,10 +63,16 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
  You’ll need to run a command to do this, which you can do in an[elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) from within Windows. If you can’t get as far as your desktop, use the Command Prompt in the ASO menu. Instructions for both methods are available in that link above.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. [Run System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . This will undo any changes made to Windows files that might be the cause for the “_There was a problem resetting your PC_ ” error. Just be sure to restore your computer to a point before the error starting occurring.  
@@ -73,10 +80,16 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
  If you can’t log in to Windows to run[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) , you can also do it from the ASO menu via**Troubleshoot** \>**System Restore** or from bootable installation media (see the last step below).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Repair Windows Recovery Environment. If the WinRE image is, for whatever reason, missing or corrupt, it might be throwing the “_There was a problem resetting your PC_ ” error.  
@@ -84,13 +97,6 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
  `reagentc /disable`  
 ![reagentc disable command in Command Prompt](https://www.lifewire.com/thmb/d5zO43p4ZIJfMESMS8Q9H8kNBPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reagentc-disable-command-2ad577ae139f435da2305cc3d34dfd5b.png)  
  Reboot your computer, open Command Prompt again, and enter this command:  
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  `reagentc /enable`  
  This fix is only relevant for a very specific situation, which might be unrelated to what's causing the problem. Be sure to complete the other steps above before moving on to this one.
@@ -127,18 +133,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-choices-for-premium-video-calls-on-smartphones/"><u>[Updated] Essential Choices for Premium Video Calls on Smartphones</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-flash-clip-content-wizard/"><u>[Updated] In 2024, Flash Clip Content Wizard</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/"><u>[Updated] In 2024, The Ultimate Guide to Capturing and Editing High-Quality Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-camera-selection-for-youtube-filmmakers/"><u>[Updated] The Ultimate Camera Selection for YouTube Filmmakers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-amplify-visual-impact-mastering-the-art-of-applying-luts-with-obs-studio/"><u>2024 Approved Amplify Visual Impact Mastering the Art of Applying LUTs with OBS Studio</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-insta-game-ultimate-techniques-for-accumulating-more-followers/"><u>Elevate Your Insta Game: Ultimate Techniques for Accumulating More Followers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/family-planning-simplified-discover-the-7-shared-digital-calendars-that-work-wonders/"><u>Family Planning Simplified: Discover the 7 Shared Digital Calendars That Work Wonders</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/free-downloader-tool-save-gaytube-content-instantly/"><u>Free Downloader Tool: Save GayTube Content Instantly</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-14-pro-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 14 Pro Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-mobile-use-timely-decisions-for-phone-upgrades/"><u>Maximizing Mobile Use: Timely Decisions for Phone Upgrades</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ps4-screen-capture-guide-simple-steps-to-taking-perfect-screenshots/"><u>PS4 Screen Capture Guide: Simple Steps to Taking Perfect Screenshots</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ubiquitous-influence-of-facebook-today/"><u>The Ubiquitous Influence of Facebook Today</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-easy-igtv-video-grabs-for-ios-and-android-devices/"><u>[New] In 2024, Easy IGTV Video Grabs for iOS and Android Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-solo-stardom-in-the-podcast-universe/"><u>[New] In 2024, Solo Stardom in the Podcast Universe</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-step-by-step-guide-to-implement-siri-on-tiktok-platform/"><u>[Updated] Step-By-Step Guide to Implement Siri on TikTok Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-psd-shadow-gradient/"><u>2024 Approved Ultimate PSD Shadow Gradient</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-issues-how-to-resolve-your-mouse-not-working-in-windows/"><u>Bluetooth Connectivity Issues: How to Resolve Your Mouse Not Working in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-16-no-cost-tools-for-learning-sign-language-easily/"><u>Discover These 16 No-Cost Tools for Learning Sign Language Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-access-gratis-worldwide-dns-systems-for-web-navigation/"><u>How To Access Gratis Worldwide DNS Systems For Web Navigation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-development-and-application-of-vr-shopping/"><u>In 2024, The Development and Application of VR Shopping</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-pixel-watch-release-specs-price-forecast-and-rumored-updates/"><u>Inside Scoop on The Pixel Watch - Release Specs, Price Forecast & Rumored Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-iphone-album-collaborations/"><u>Master the Art of iPhone Album Collaborations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pixelpartition-review/"><u>PixelPartition Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-and-easy-ways-to-end-your-subscription-to-paramountplus/"><u>Quick and Easy Ways to End Your Subscription to Paramount+</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-razr-40-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Razr 40 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-easy-way-to-take-photos-of-your-desktop-using-an-hp-computer/"><u>The Easy Way to Take Photos of Your Desktop Using an HP Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-big-thing-in-smartphones-release-info-and-price-breakdown-for-samsung-galaxy-z-flip-6/"><u>The Next Big Thing in Smartphones: Release Info and Price Breakdown for Samsung Galaxy Z Flip 6</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-resolving-printer-visibility-issues-on-your-ipad-device/"><u>The Ultimate Guide to Resolving Printer Visibility Issues on Your iPad Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-twitter-video-enhancers-for-2024/"><u>Ultimate Guide Twitter Video Enhancers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wi-fi-woes-a-guide-to-fixing-connectivity-problems-with-your-vizio-set/"><u>Wi-Fi Woes? A Guide to Fixing Connectivity Problems with Your Vizio Set</u></a></li>
 </ul></div>
 

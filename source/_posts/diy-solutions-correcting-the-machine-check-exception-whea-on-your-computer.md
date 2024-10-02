@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions: Correcting the Machine Check Exception (WHEA) on Your Computer"
-date: 2024-09-25T02:07:30.311Z
-updated: 2024-09-27T05:28:52.905Z
+date: 2024-09-25T12:35:21.487Z
+updated: 2024-10-02T00:23:34.800Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Solutions: Correcting the Machine Check Exception (WHEA) on Your Computer"
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 * Less familiarity with internal components.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Advantages of Buying
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
@@ -114,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -131,20 +124,33 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
-Lifewire / Julie Bang
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Lifewire / Julie Bang
 
 ## How to Build a Computer
 
@@ -189,17 +195,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-gameplay-transformations-roguelikes-vs-roguiles/"><u>[New] Gameplay Transformations Roguelikes Vs. Roguiles</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevate-your-storytelling-game-on-snapchat-top-15-ideas/"><u>[Updated] In 2024, Elevate Your Storytelling Game on Snapchat (Top 15 Ideas)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-revolutionize-your-webcam-experience-now/"><u>[Updated] In 2024, Revolutionize Your Webcam Experience Now</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cut-to-quality-perfecting-videos-with-enhancer-22/"><u>2024 Approved Cut to Quality Perfecting Videos with Enhancer 2.2</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-tutorial-how-to-easily-delete-applications-in-windows-10-environment/"><u>Complete Tutorial: How to Easily Delete Applications in Windows 10 Environment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-your-ps3-controller-to-a-pc-a-guide-that-doesnt-involve-motioninjoy-software/"><u>Connecting Your PS3 Controller to a PC: A Guide That Doesn't Involve MotionInJoy Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-whats-fresh-with-windows-10-creators-edition-building-1503-preview-guide/"><u>Discover What’s Fresh with Windows 10 Creator's Edition - Building 1503 Preview Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-your-running-windows-os-quick-guide-in-a-single-step/"><u>Discover Your Running Windows OS: Quick Guide in a Single Step</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-pratique-comment-demarrer-movavi-suite-software-sur-mac/"><u>Guide Pratique: Comment Démarrer Movavi Suite Software Sur Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-windows-10s-prime-video-grabbing-solutions-ranked/"><u>In 2024, Windows 10'S Prime Video Grabbing Solutions Ranked</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-hit-by-criticism-as-game-publisher-reports-total-system-failures-on-latest-gen-cpus/"><u>Intel Hit by Criticism as Game Publisher Reports Total System Failures on Latest-Gen CPUs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ye-artful-jargon-unlocking-pirate-slang-and-vocabulary/"><u>Ye Artful Jargon: Unlocking Pirate Slang and Vocabulary</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-live-excellence-a-comprehensive-tutorial/"><u>[New] YouTube Live Excellence A Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-tips-efficiently-capturing-moments-with-snap-features-in-meet/"><u>[Updated] 2024 Approved Quick Tips Efficiently Capturing Moments with Snap Features in Meet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-melodious-messages-in-whatsapp/"><u>[Updated] Melodious Messages in WhatsApp</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-youtubes-features-adding-images-to-videos-for-2024/"><u>[Updated] Unveiling YouTube's Features Adding Images to Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-how-to-unite-two-excel-spreadsheets-into-one/"><u>Comprehensive Guide on How To Unite Two Excel Spreadsheets Into One</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-a-virtual-haven-configuring-and-using-the-facebook-portal-tv/"><u>Creating a Virtual Haven: Configuring and Using the Facebook Portal TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enable-dual-screen-experience-connect-chromecast-and-fire-stick-together/"><u>How to Enable Dual Screen Experience: Connect Chromecast and Fire Stick Together</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-rectify-the-invisible-wi-fi-network-dilemma/"><u>How to Rectify the Invisible Wi-Fi Network Dilemma?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>In 2024, The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-2024-security-update-the-ultimate-list-of-default-linksys-device-credentials/"><u>July 2024 Security Update: The Ultimate List of Default Linksys Device Credentials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-play-40c-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor Play 40C Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-d3dx925dll-missing-file-issue/"><u>Solutions for Resolving d3dx9_25.dll Missing File Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fix-activity-tracking-on-your-apple-watch/"><u>Step-by-Step Guide to Fix Activity Tracking on Your Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-best-free-music-streaming-services-on-iphone-and-android-devices/"><u>Top 7 Best Free Music Streaming Services on iPhone & Android Devices</u></a></li>
 </ul></div>
 

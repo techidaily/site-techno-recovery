@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up and Mapping Network Drives on macOS"
-date: 2024-09-22T08:20:05.852Z
-updated: 2024-09-27T02:26:41.636Z
+date: 2024-09-28T11:50:09.420Z
+updated: 2024-10-02T10:11:53.891Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Setting Up and Mapping Network Drives on macOS"
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
  This article explains how to set up a[mapped drive](https://www.lifewire.com/what-is-a-mapped-drive-2625932) on a Mac and how to reconnect to the shared folders automatically after a reboot. These directions are for Macs running macOS Sonoma, but they can easily be adapted for other versions of macOS.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Map a Network Drive on Mac
 
  Instead of downloading or copying the same data to all your devices, save the files in a single folder and then share the folder with your other devices. With the shared folder ready to go, follow these steps to map the network drive:
@@ -40,27 +33,34 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 ![Go > Connect to Server](https://www.lifewire.com/thmb/o4nzpFECIMhhjSy946PTVqi6NkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/go_connecttoserver-015046850f824f41874453979f22fb61.jpg)
 3. Enter the path to the network drive and then select**Connect** . It should start like this in most cases:  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  `smb://`  
 ![Connect to smb](https://www.lifewire.com/thmb/LGGVIx8-2eXACqoDFGFx2WQEuCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connecttosmbserver-d55cf0e3c30f47eb8775f220506ce07f.jpg)
 4. If you're prompted for a confirmation, click**Connect** .  
 ![Confirm server connection](https://www.lifewire.com/thmb/0seVxpQZnWQ2lKqukB2EbRbeD44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/confirmserverconnection-5f5a46f9f44d44739284b5b6ccfc692b.jpg)  
  Accounts that don't have permission to access this file/folder are unable to create a connection to the network drive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once the network drive has been mapped, it will appear under the**Locations** menu in any Finder window, and on your desktop (if not, go to**Finder** \>**Settings** and turn on**Connected servers** ).  
 ![Network drive in Finder](https://www.lifewire.com/thmb/2f4aT702rnz3MPWi5Rzb8V9w8jA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/networkdriveinfinderwindow-92d62c1eadd242d8bc12b4ef8225f71f.jpg)  
  Since mapped drives show up as mounted drives on your macOS device, you're able to disconnect from them by ejecting the drive.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Auto-Mount a Network Drive on macOS
@@ -72,13 +72,21 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 2. Search for**Login Items** , or select it from the**General** menu.  
 ![The General settings in macOS Sonoma](https://www.lifewire.com/thmb/HrlqpnLHLrKZXCvhuz6ds3v4cq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mac-general-settings-852379f46e5b483d9109f6149d449040.png)
 3. Drag the shares from the desktop into the**Open at Login** screen. Or, click the**plus sign** , select the shares in the pop-up window, and then choose**Open** or**Add** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Add item](https://www.lifewire.com/thmb/HUk4Vz4G4x7xJJCa0gQsyEbDnN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/additem-f32796130b64451cafd6246a060e9eb5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Set up Multiple Network Locations on Your Mac](https://www.lifewire.com/set-up-multiple-network-locations-on-mac-2260396)
@@ -119,22 +127,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/fixed-how-to-set-up-wifi-calling-on-phones-and-laptop/"><u>[Fixed] How to Set Up WiFi Calling on Phones & Laptop?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-motion-clearer-captures/"><u>[New] Mastering Motion Clearer Captures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-compact-obs-setup-for-underpriced-pcs-for-2024/"><u>[Updated] Compact OBS Setup for Underpriced PCs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-network-transmission-power-with-vlc/"><u>2024 Approved Unlocking Network Transmission Power with VLC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/free-download-compatible-google-usb-drivers/"><u>Free Download: Compatible Google USB Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-samsung-m2n070fw-up-to-date-with-a-fast-driver-download/"><u>Get Your Samsung M2n070FW Up-to-Date with a Fast Driver Download!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-disconnecting-wireless-networks-using-windows-11-settings/"><u>Guide: Disconnecting Wireless Networks Using Windows 11 Settings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a54-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A54 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-completely-disable-nvidia-software-on-windows-n-operating-system/"><u>How to Completely Disable Nvidia Software on Windows N Operating System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-disconnect-from-cortana-a-comprehensive-walkthrough-for-windows-tenth-users/"><u>How to Disconnect From Cortana: A Comprehensive Walkthrough for Windows Tenth Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-download-hp-drivers-for-windows-7/"><u>How to Download HP Drivers for Windows 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-enter-bios-on-windows-11-and-windows-7/"><u>How to Enter BIOS on Windows 11 & Windows 7?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-a-non-detectable-external-hard-drive-on-windows-10-solutions-inside/"><u>How to Fix a Non-Detectable External Hard Drive on Windows 10 - Solutions Inside</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-new-frontiers-in-contactless-interface-designs/"><u>In 2024, Exploring New Frontiers in Contactless Interface Designs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seagate-external-hard-drive-not-showing-up-on-windows-11-solved/"><u>Seagate External Hard Drive Not Showing Up on Windows 11 [Solved]</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-get-the-newest-amd-ryzen-5-2400g-graphics-driver-download/"><u>Step-by-Step Guide to Get the Newest AMD Ryzen 5 2400G Graphics Driver Download</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-online-video-capture-tools/"><u>[Updated] Top 5 Online Video Capture Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-the-perfect-shot-learn-how-to-use-timers-in-iphone-photography/"><u>Capturing the Perfect Shot: Learn How to Use Timers in iPhone Photography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-walkthrough-for-recording-and-sending-voice-messages-on-iphones/"><u>Comprehensive Walkthrough for Recording and Sending Voice Messages on iPhones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fire-stick-remote-woes-heres-how-you-can-fix-it/"><u>Fire Stick Remote Woes? Here's How You Can Fix It</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-advanced-iphone-management-toolkit-enhance-and-safeguard-your-data-with-ease/"><u>Free Advanced iPhone Management Toolkit: Enhance & Safeguard Your Data with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-streaming-apple-tvplus-on-your-chromecast-device/"><u>Guide: Streaming Apple TV+ on Your Chromecast Device</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-youtube-gaming-success-with-right-tags-for-2024/"><u>Navigate YouTube Gaming Success with Right Tags for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-bringing-videos-to-life-in-vr-the-ultimate-conversion-guide-for-2024/"><u>New Bringing Videos to Life in VR The Ultimate Conversion Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-best-parent-approved-monitoring-tools/"><u>Top 8 Best Parent-Approved Monitoring Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-say-it-with-feeling-a-beginners-guide-to-making-a-valentines-day-video/"><u>Updated Say It with Feeling A Beginners Guide to Making a Valentines Day Video</u></a></li>
 </ul></div>
 

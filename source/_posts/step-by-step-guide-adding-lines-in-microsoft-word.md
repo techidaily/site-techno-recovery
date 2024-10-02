@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Lines in Microsoft Word"
-date: 2024-09-15T03:48:42.893Z
-updated: 2024-09-20T18:56:19.855Z
+date: 2024-09-25T02:41:31.479Z
+updated: 2024-10-02T03:12:48.225Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Adding Lines in Microsoft Word"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -34,8 +41,36 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
@@ -48,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -98,5 +133,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screenshot-supreme-in-depth-recorder-reviews/"><u>[New] 2024 Approved Screenshot Supreme In-Depth Recorder Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>[New] 2024 Approved The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-the-world-of-blurry-backgrounds-on-social-media/"><u>[New] In 2024, Exploring the World of Blurry Backgrounds on Social Media</u></a></li>
+<li><a href="https://techidaily.com/solved-download-directx-12-for-windows-11/"><u>[SOLVED] Download DirectX 12 for Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-from-idea-to-execution-creating-must-watch-fb-reels-for-2024/"><u>[Updated] From Idea to Execution Creating Must-Watch FB Reels for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pioneering-techniques-for-superior-fullscreen-presentation-in-premiere-for-2024/"><u>[Updated] Pioneering Techniques for Superior Fullscreen Presentation in Premiere for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/inners-guide-to-making-attractive-video-thumbnails-for-social-media-platforms/"><u>A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-essential-shows-featured-right-now-on-your-favorite-tv-network-max/"><u>Catch Essential Shows Featured Right Now on Your Favorite TV Network, MAX</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-art-of-iphone-image-editing-with-ios-16-photo-cutout-techniques/"><u>Discover the Art of iPhone Image Editing with iOS 16 Photo Cutout Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-top-6-ways-to-utilize-gpt-4-for-superior-chat-experiences/"><u>Discover the Top 6 Ways to Utilize GPT-4 for Superior Chat Experiences</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-sonys-psvr-2-revolution-insights-on-pricing-strategies-launch-timelines-and-comprehensive-system-specifications/"><u>Explore Sony’s PSVR 2 Revolution: Insights on Pricing Strategies, Launch Timelines, and Comprehensive System Specifications</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-f54-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy F54 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722895042154-lose-your-ipad-passcode-easy-steps-to-regain-access-without-it/"><u>Lose Your iPad Passcode? Easy Steps to Regain Access Without It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-meta-quest-microphone-features-a-comprehensive-guide/"><u>Navigating Meta Quest Microphone Features: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-non-functional-samsung-smart-tv-applications-a-step-by-step-guide/"><u>Resolving Non-Functional Samsung Smart TV Applications: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-speaker-face-off-determining-the-best-between-alexa-and-google-assistant-for-you/"><u>Smart Speaker Face-Off: Determining the Best Between Alexa and Google Assistant for You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-record-your-playstation-4-video-games/"><u>Step-by-Step Tutorial: How to Record Your PlayStation 4 Video Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/synchronize-your-samsung-in-ear-headphones-with-a-windows-or-macbook-easily/"><u>Synchronize Your Samsung In-Ear Headphones with a Windows or MacBook Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-iphone-privacy-settings-for-determining-an-individuals-location/"><u>Unlocking iPhone Privacy Settings for Determining an Individual’s Location</u></a></li>
+</ul></div>
 

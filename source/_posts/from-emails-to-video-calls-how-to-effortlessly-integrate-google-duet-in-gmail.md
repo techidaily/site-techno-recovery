@@ -1,7 +1,7 @@
 ---
 title: "From Emails to Video Calls: How to Effortlessly Integrate Google Duet in Gmail"
-date: 2024-09-22T16:36:32.533Z
-updated: 2024-09-27T08:30:58.076Z
+date: 2024-09-28T00:09:20.280Z
+updated: 2024-10-02T04:16:34.690Z
 categories:
   - BestProducts
 description: "This Article Describes From Emails to Video Calls: How to Effortlessly Integrate Google Duet in Gmail"
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 ![The Personalization settings in Windows 11](https://www.lifewire.com/thmb/SJdYi81a1Rm29jJ6p7V24JP49ss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/personalization-settings-windows-11-83afd8d0867d4d39a1b87dff59dd8fae.png)
 2. Scroll down to**Available fonts** , and find and select the font you're interested in using.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don't see the font you want, you can take this time to download it. Lots of websites have free fonts, but you can also[buy fonts online](https://www.lifewire.com/buy-fonts-for-desktop-publishing-1077714) . Then, return to this area of Settings to see it. Our[How to Install Fonts in Windows 11](https://www.lifewire.com/install-fonts-in-windows-11-5192443) guide can help if you need it.
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 6. If you're using Notepad, go to**File** \>**Save as** , and type a name in the**File name** box.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Choose**All files** from the**Save as type** menu.
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 12. [Reboot your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see the font changes. The quickest method is to right-click the Start button and go to**Shut down or sign out** \>**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does Changing the System Font Do?
@@ -87,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 ![Windows 11 font type change in Run and Control Panel](https://www.lifewire.com/thmb/eN6m7hD9Mgh_sWhJB-Jl9QOeR2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-changed-font-type-control-panel-run-desktop-365bc4a2e315498f96aa4115713f7d59.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, not every part of Windows will change to the new font. All the text within Settings, Start menu, Clock, Quick Settings, and numerous other areas aren't affected.
@@ -133,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 5. If the changes don't take effect immediately (they did for us), reboot your computer.
 
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Changing Other Fonts in Windows 11
 
@@ -186,15 +186,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-masterclass-the-different-faces-of-hand-tracker/"><u>2024 Approved Masterclass The Different Faces of Hand Tracker</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1724766722244-audacity-mp3cd/"><u>Audacity使用ガイド：ダウンロード後の操作方法 - 音声録音・編集から始める！ノイズ除去、MP3書き出し、最終CDプレスまで</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Zero 30 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-unfreeze-your-chromebook-with-these-top-8-methods/"><u>How to Unfreeze Your Chromebook with These Top 8 Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-external-drives-compatible-usage-with-your-xbox-one-system/"><u>Mastering External Drives: Compatible Usage with Your Xbox One System</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-storm-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Storm 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-zlibdll-file-absence-issue-a-step-by-step-guide/"><u>Solving the zlib.dll File Absence Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-skype-sessions-with-obs-streaming/"><u>The Ultimate Guide to Skype Sessions with OBS Streaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/vizio-tv-wont-link-to-wi-fi-learn-these-quick-fix-techniques-now/"><u>Vizio TV Won't Link to Wi-Fi? Learn These Quick Fix Techniques Now</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sparkle-on-screen-ideal-tools-for-online-videos/"><u>[Updated] Sparkle on Screen Ideal Tools for Online Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-choreographed-battle-top-5-martial-arts-video-game-list/"><u>2024 Approved Choreographed Battle Top 5 Martial Arts Video Game List</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-topview-assessment-report/"><u>2024 Approved TopView Assessment Report</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-proven-techniques-to-sync-your-sound-with-chromecast-audio/"><u>5 Proven Techniques to Sync Your Sound with Chromecast Audio</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/command-and-conquer-the-pinnacle-of-strategic-sagas-in-7-total-war-games-for-2024/"><u>Command & Conquer The Pinnacle of Strategic Sagas in 7 Total War Games for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/hiding-like-counts-the-new-facebook-and-instagram-trend/"><u>Hiding Like Counts: The New Facebook & Instagram Trend</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722866435331-samsung-unpacked-2025-countdown-event-timeline-new-releases-and-juicy-rumors/"><u>Samsung Unpacked 2025 Countdown: Event Timeline, New Releases, and Juicy Rumors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/swift-and-smart-techniques-locate-anyone-quickly-via-facebook/"><u>Swift and Smart Techniques: Locate Anyone Quickly via Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-shopping-guide-choosing-game-consoles-and-extras-for-junior-players/"><u>Ultimate Shopping Guide: Choosing Game Consoles and Extras for Junior Players</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-dragon-age-origins-keep-freezing-in-windows-10-heres-the-solution/"><u>Why Does Dragon Age: Origins Keep Freezing in Windows 10? Here's the Solution!</u></a></li>
 </ul></div>
 

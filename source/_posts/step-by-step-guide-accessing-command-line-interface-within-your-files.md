@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Command Line Interface Within Your Files"
-date: 2024-09-20T18:12:24.802Z
-updated: 2024-09-26T20:03:57.492Z
+date: 2024-09-26T23:12:43.591Z
+updated: 2024-10-01T19:21:29.935Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Accessing Command Line Interface Within Your Files"
@@ -23,16 +23,22 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
  This article teaches you how to open Command Prompt in a way that lets you start working from a specific folder immediately. Here's how to start CMD from a folder in Windows 11 (it's very similar in older versions).
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Open CMD in a Folder
 
  It's easy to[start Command Prompt the normal way](https://www.lifewire.com/how-to-open-command-prompt-2618089) , but if you know which folder you want to run commands in, you'll save yourself a step or two if you open Command Prompt in the folder from the start. Below are two methods.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Change the Folder Path
 
@@ -45,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 3. Replace the path with**cmd** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![CMD written in the folder path in File Explorer](https://www.lifewire.com/thmb/rr8ptOhLYrnBgD6w_Hjye9YQuYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-folder-path-file-explorer-300f168551ca419ca508d6d57c6b4eb4.png)
@@ -56,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 ![Command Prompt set to a specific folder](https://www.lifewire.com/thmb/ImWlJT46vdUQ80eKbgJrFAaBcFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/command-prompt-open-to-folder-33b0154a3b924977be06347bb84ef696.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use a Keyboard Shortcut
@@ -72,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 [Terminal](https://www.lifewire.com/windows-terminal-4779951) is the command line tool used in Windows 11\. Follow that link to learn how to access Command Prompt and other tools from Terminal.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Command for Changing Folders in Command Prompt
@@ -121,18 +127,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-maximize-exposure-the-ultimate-youtube-schedule/"><u>[New] 2024 Approved Maximize Exposure The Ultimate YouTube Schedule</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-smoothly-blending-bio-and-linktree-on-your-tiktok-platform/"><u>[New] Smoothly Blending Bio & Linktree on Your TikTok Platform</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-engaging-subjects-for-consistent-vlogging/"><u>[Updated] In 2024, Engaging Subjects for Consistent Vlogging</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-accelerating-streamed-instagram-content-mobile-hacks/"><u>2024 Approved Accelerating Streamed Instagram Content Mobile Hacks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-of-the-chill-easy-phone-game-compilation-for-2024/"><u>Best of the Chill Easy Phone Game Compilation for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-lg-channels-crucial-points-everyone-should-know-about/"><u>Demystifying LG Channels: Crucial Points Everyone Should Know About</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-the-broken-search-button-in-windows-10-a-step-by-step-guide/"><u>Fixing the Broken Search Button in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-absent-pin-problems-post-windows-11-system-glitch/"><u>Resolving Absent PIN Problems Post-Windows 11 System Glitch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revamping-your-smart-tv-experience-customize-chromecast-with-new-wallpapers/"><u>Revamping Your Smart TV Experience: Customize Chromecast with New Wallpapers!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-z-fold-6-unveiled-find-out-the-costs-launch-timeline-and-essential-features/"><u>Samsung Galaxy Z Fold 6 Unveiled: Find Out the Costs, Launch Timeline & Essential Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-using-gifs-in-instagram-comments-like-a-pro/"><u>The Ultimate Guide: Using GIFs in Instagram Comments Like a Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-strategy-for-winning-at-royal-match-games/"><u>The Ultimate Strategy for Winning at Royal Match Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-empathic-3ds-players-android-edition/"><u>[New] 2024 Approved Best Empathic 3DS Players Android Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-sound-shifts-in-free-fire/"><u>[New] Mastering Sound Shifts in Free Fire</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-the-ultimate-methods-for-high-quality-video-conversion-for-2024/"><u>[New] Unveiling the Ultimate Methods for High Quality Video Conversion for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-mail-management-tools-on-iphone-our-recommended-selection/"><u>Best Mail Management Tools on iPhone : Our Recommended Selection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-elite-selection-of-network-enclosures-proven-winners-of-2024/"><u>Explore the Elite Selection of Network Enclosures: Proven Winners of 2024!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-x3daudiodll-not-found-issues-expert-tips-and-solutions/"><u>Fixing 'x3daudio.dll Not Found' Issues: Expert Tips & Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-fix-windows-code-28-errors-effectively-for-smooth-operation/"><u>Guide to Fix Windows Code 28 Errors Effectively for Smooth Operation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-height-tracking-the-ultimate-tutorial-for-using-iphones-elevation-features/"><u>Mastering Height Tracking: The Ultimate Tutorial for Using iPhone's Elevation Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/maximizing-ipad-audio-record-best-tips/"><u>Maximizing iPad Audio Record Best Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-ahead-with-ipados-dive-into-version-17s-groundbreaking-capabilities-and-release-info/"><u>Stay Ahead with iPadOS: Dive Into Version 17'S Groundbreaking Capabilities & Release Info</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor X8b? | Dr.fone</u></a></li>
 </ul></div>
 

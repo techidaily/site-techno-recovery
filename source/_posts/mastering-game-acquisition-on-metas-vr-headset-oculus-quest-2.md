@@ -1,7 +1,7 @@
 ---
 title: Mastering Game Acquisition on Meta's VR Headset - Oculus Quest 2
-date: 2024-09-21T04:39:18.613Z
-updated: 2024-09-26T19:05:02.907Z
+date: 2024-09-28T06:36:28.748Z
+updated: 2024-10-02T04:48:58.876Z
 categories:
   - BestProducts
 description: This Article Describes Mastering Game Acquisition on Meta's VR Headset - Oculus Quest 2
@@ -30,6 +30,19 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -40,6 +53,13 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 * **Forward a message (F)** : Press**F** to forward an open message.
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reply to Email
 
@@ -62,13 +82,6 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -80,13 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -97,13 +103,6 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -113,6 +112,13 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -135,16 +141,10 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Was this page helpful?
@@ -176,24 +176,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://unlock-android.techidaily.com/best-itel-a70-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Itel A70 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-practices-for-writing-captivating-episode-summaries/"><u>Best Practices for Writing Captivating Episode Summaries</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/bright-ideas-effective-lighting-in-vlogging-for-2024/"><u>Bright Ideas Effective Lighting in Vlogging for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-mini-m4-with-macbook-air-m3-key-differences-explored/"><u>Comparing iPad Pro Mini (M4) with MacBook Air (M3): Key Differences Explored</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-overview-of-line-messenger-app-evaluations/"><u>Comprehensive Overview of LINE Messenger App Evaluations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-insights-the-6-leading-causes-of-persistent-car-battery-problems/"><u>Expert Insights: The 6 Leading Causes of Persistent Car Battery Problems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-darkroom-to-digital-mastering-modern-grading-techniques-for-2024/"><u>From Darkroom to Digital Mastering Modern Grading Techniques for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/glimpsing-beyond-virtual-reality-the-pros-and-cons-spectrum/"><u>Glimpsing Beyond Virtual Reality The Pros & Cons Spectrum</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/logitech-mouse-compatibility-switching-receivers-for-seamless-use/"><u>Logitech Mouse Compatibility: Switching Receivers for Seamless Use</u></a></li>
-<li><a href="https://common-error.techidaily.com/lonicera-periclymenum-european-honeysuckle-or-woodbine-native-to-europe-it-features-twining-stems-and-fragrant-tubular-flowers-that-bloom-in-the-summer/"><u>Lonicera Periclymenum (European Honeysuckle or Woodbine): Native to Europe, It Features Twining Stems and Fragrant Tubular Flowers that Bloom in the Summer.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-gossip-delving-into-the-details-of-the-hyped-tesla-phone-projected-costs-and-potential-specs-uncovered/"><u>Tech Gossip: Delving Into the Details of the Hyped Tesla Phone – Projected Costs and Potential Specs Uncovered</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-free-online-short-video-downloading/"><u>The Ultimate Guide to Free, Online Short Video Downloading</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-reno-11-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo Reno 11 5G Location | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-substitutes-for-keepvid-discover-legitimate-downloading-platforms-for-videos-and-music/"><u>Top Substitutes for KeepVid: Discover Legitimate Downloading Platforms for Videos & Music!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-elusive-no-signal-problem-on-your-xbox-one/"><u>Troubleshooting the Elusive 'No Signal' Problem on Your Xbox One</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-missing-rockaldlldll-file-not-found-error/"><u>Ultimate Guide: Resolving 'Missing rockaldll.dll' File Not Found Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-family-movies-on-netflix-for-kids-to-watch/"><u>Ultimate Selection of Family Movies on Netflix for Kids to Watch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-for-picking-out-your-dream-smartphone-cover/"><u>Ultimate Tips for Picking Out Your Dream Smartphone Cover</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-add-emojis-to-videos-on-youtubefacebooksnapchat-2023-guide/"><u>Updated 2024 Approved Add Emojis to Videos on YouTube/Facebook/Snapchat 2023 Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-boosting-your-youtube-with-partner-videos/"><u>[New] 2024 Approved Boosting Your YouTube with Partner Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-purchasing-followers-impacts-the-integrity-of-youtube-content-creators/"><u>[Updated] 2024 Approved How Purchasing Followers Impacts the Integrity of YouTube Content Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fixes-for-a-blank-screen-overcoming-xbox-one-connection-issues/"><u>Easy Fixes for a Blank Screen - Overcoming Xbox One Connection Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y02t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y02T to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/is-splitcam-the-pinnacle-of-recording-capabilities/"><u>Is SplitCam The Pinnacle of Recording Capabilities?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-cleanup-disabling-and-deleting-the-windows-backup-partition/"><u>Master the Cleanup: Disabling and Deleting the Windows Backup Partition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/organize-your-messages-like-a-pro-advanced-filtering-techniques-and-adding-email-aliases-in-gmail/"><u>Organize Your Messages Like a Pro: Advanced Filtering Techniques & Adding Email Aliases in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/prepare-to-be-amazed-inside-look-at-future-pricing-availability-and-advanced-tech-for-the-newly-announced-foldable-iphone-range/"><u>Prepare to Be Amazed: Inside Look at Future Pricing, Availability & Advanced Tech for the Newly Announced Foldable iPhone Range</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revitalize-your-airpods-battery-life-9-proven-fixes-for-charging-problems/"><u>Revitalize Your AirPods' Battery Life: 9 Proven Fixes for Charging Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/siri-speaks-up-learn-to-configure-voice-assistant-for-reading-aloud-on-iosmacos/"><u>Siri Speaks Up! Learn to Configure Voice Assistant for Reading Aloud on iOS/macOS</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/step-by-step-guide-to-aplus-tiktok-videos-with-designed-templates/"><u>Step-by-Step Guide to A+ TikTok Videos with Designed Templates</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-lava-storm-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Lava Storm 5G Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-now-with-online-streaming-capable-televisions-explained/"><u>The Future Is Now with Online Streaming Capable Televisions Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-selecting-your-ps5-slim-model-vs-traditional-unit/"><u>The Ultimate Guide to Selecting Your PS5: Slim Model Vs. Traditional Unit</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-fall-guys-freezing-on-load/"><u>Troubleshooting Guide: How to Fix Fall Guys Freezing on Load</u></a></li>
+<li><a href="https://win-popular.techidaily.com/unconventional-monetary-policies-include-quantitative-easing-forward-guidance-and-negative-interest-rate-policies/"><u>Unconventional Monetary Policies Include Quantitative Easing, Forward Guidance, and Negative Interest Rate Policies.</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlocking-spotifys-potential-for-brands-a-comprehensive-guide/"><u>Unlocking Spotify's Potential for Brands A Comprehensive Guide</u></a></li>
 </ul></div>
 

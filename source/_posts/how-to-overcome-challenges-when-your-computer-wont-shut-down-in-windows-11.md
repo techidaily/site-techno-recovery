@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Challenges When Your Computer Won't Shut Down in Windows 11
-date: 2024-09-19T22:08:07.096Z
-updated: 2024-09-27T08:20:00.663Z
+date: 2024-09-29T16:45:58.324Z
+updated: 2024-10-01T23:38:21.619Z
 categories:
   - BestProducts
 description: This Article Describes How to Overcome Challenges When Your Computer Won't Shut Down in Windows 11
@@ -40,13 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -62,13 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
 * Less customization.
 * Less familiarity with internal components.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -79,6 +65,13 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -86,13 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
  If you like to know your computer intimately, purchasing a pre-built PC might not be the way to go. Since the manufacturer decides the components, you probably won't do a ton of research to know each part in the system. With this, there will be less customization. So, if you want in-depth knowledge of your computer and need to fine-tune it to your needs, a pre-made system probably won't serve you well.
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
 
@@ -108,6 +94,13 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
 * No single point of contact for support.
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Advantages of Building
 
@@ -132,10 +125,10 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Verdict: Know Your Needs and Skills
@@ -143,6 +136,19 @@ thumbnail: https://www.lifewire.com/thmb/L7JKCiC9GBoIaDvNgJ3H_sU49Zw=/400x300/fi
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Julie Bang
 
@@ -189,24 +195,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-future-proof-files-top-5-cloud-services-for-peak-performance/"><u>[New] Future-Proof Files Top 5 Cloud Services for Peak Performance</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-decoding-youtubes-best-video-editing-practices/"><u>[Updated] Decoding YouTube's Best Video Editing Practices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ascent-of-jake-paul-in-online-video-fame/"><u>[Updated] In 2024, The Ascent of Jake Paul in Online Video Fame</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shoes-for-virtual-ground-leading-treadmill-insights/"><u>[Updated] Shoes for Virtual Ground Leading Treadmill Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-methods-to-modify-login-credentials-for-others-on-windows-os/"><u>Easy Methods to Modify Login Credentials for Others on Windows OS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-exceptional-audio-comfort-with-blueear-wireless-bluetooth-cap-in-depth-review/"><u>Experience Exceptional Audio Comfort with Blueear Wireless Bluetooth Cap - In-Depth Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-correcting-missing-dll-files-including-msvcr90dll/"><u>Expert Tips for Correcting Missing .dll Files, Including Msvcr90.dll</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-error-to-solution-expert-tips-on-resolving-the-infamous-code-0xc0000185-in-windows-environments/"><u>From Error to Solution: Expert Tips on Resolving the Infamous Code 0xC0000185 in Windows Environments</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/immerse-yourself-in-tech-excellence-elite-dell-screen-display-premier-acoustic-isolation-headset-outstanding-digital-camera-features/"><u>Immerse Yourself in Tech Excellence: Elite Dell Screen Display, Premier Acoustic Isolation Headset, Outstanding Digital Camera Features</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-pro-revival-how-to-guide-for-a-fresh-system-boot/"><u>MacBook Pro Revival: How-To Guide for a Fresh System Boot</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/remobell-s-review-a-video-doorbell-under-100/"><u>RemoBell S Review: A Video Doorbell Under $100</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-making-your-netflix-streaming-smooth-on-roku/"><u>Solving Common Issues: Making Your Netflix Streaming Smooth on Roku</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-managing-google-home-devices-via-pc-app/"><u>Step-by-Step Tutorial: Managing Google Home Devices via PC App</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-definitive-how-to-repairing-whea-system-memory-failures-effectively/"><u>The Definitive How-To: Repairing WHEA System Memory Failures Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-interpreting-and-utilizing-windows-10s-battery-information-tool/"><u>The Ultimate Guide to Interpreting and Utilizing Windows 10’S Battery Information Tool</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-pdhdll-files-on-your-pc/"><u>Troubleshooting Missing pdh.dll Files on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-restoring-calling-functions-on-your-android-phone/"><u>Ultimate Guide: Restoring Calling Functions on Your Android Phone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-flight-pattern-perfection-dissecting-bebops-parrot-expedition/"><u>[Updated] Flight Pattern Perfection Dissecting Bebop's Parrot Expedition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-social-media-strategists-guide-to-adjustable-video-sizes-on-fb-for-2024/"><u>[Updated] The Social Media Strategist's Guide to Adjustable Video Sizes on FB for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-the-frustration-of-an-empty-screen-fixing-xbox-one-no-signal-issues/"><u>Beat the Frustration of an Empty Screen - Fixing Xbox One 'No Signal' Issues!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-screen-with-your-logitech-keyboard-a-step-by-step-guide/"><u>Capturing Screen with Your Logitech Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/deletion-dynamics-streamlining-your-steam-game-inventory/"><u>Deletion Dynamics: Streamlining Your Steam Game Inventory</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-and-swift-methods-to-amplify-graphics-power-with-nvidia-drivers/"><u>Easy & Swift Methods to Amplify Graphics Power with Nvidia Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdr-standards-meeting-or-surpassing-with-aurora/"><u>HDR Standards Meeting or Surpassing with Aurora?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-pet-eyes-in-your-photos/"><u>How to Fix Pet Eyes in Your Photos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-g2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-14-pro-max-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 14 Pro Max Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-normalizdll-file-missing-step-by-step-guide/"><u>Resolving 'Normaliz.dll' File Missing: Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-free-messaging-apps-for-your-iphone-and-ipod-touch/"><u>Top Free Messaging Apps for Your iPhone and iPod Touch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-ups-battery-solutions/"><u>Top-Ranking UPS Battery Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-ultimate-guide-to-streaming-fandango-films-directly-through-your-apple-tv-device/"><u>Your Ultimate Guide to Streaming Fandango Films Directly Through Your Apple TV Device</u></a></li>
 </ul></div>
 

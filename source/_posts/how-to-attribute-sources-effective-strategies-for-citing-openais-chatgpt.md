@@ -1,7 +1,7 @@
 ---
 title: "How To Attribute Sources: Effective Strategies for Citing OpenAI's ChatGPT"
-date: 2024-09-19T23:45:59.803Z
-updated: 2024-09-21T03:57:01.121Z
+date: 2024-09-29T21:21:04.192Z
+updated: 2024-10-01T22:49:08.095Z
 categories:
   - BestProducts
 description: "This Article Describes How To Attribute Sources: Effective Strategies for Citing OpenAI's ChatGPT"
@@ -26,6 +26,19 @@ Close
 
  This guide will explain how to cite[ ChatGPT](https://www.lifewire.com/what-is-chatgpt-7105508) in APA (American Psychological Association), MLA (Modern Language Association), and Chicago publishing styles.  
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Cite ChatGPT in APA Style
 
  When writing in-text citations in[ APA style](https://www.lifewire.com/how-to-apa-format-in-google-docs-4844955) , writers are expected to give reference to the original author's last name and the year of publication. For example, if you were citing me in the writing of this article, you might quote me and then put "(Martindale, 2024)".
@@ -44,7 +57,21 @@ Close
 
 ![ChatGPT displayed on the screen of a laptop computer on a table with a coffee cup nearby.](https://www.lifewire.com/thmb/xz7Kz-RwDroVaT8wns5_1ebM-Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/emiliano-vittoriosi-kdNhf7vJSik-unsplash-beba734fd77446faaf1422be840fe2e3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Emiliano Vittoriosi / Unsplash
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Cite ChatGPT in MLA Style
 
@@ -66,13 +93,6 @@ Emiliano Vittoriosi / Unsplash
 
  However, MLA does suggest that if you feel any AI you use is quoting from a primary or more senior source, you should find the root of that quote and use the original source if possible, rather than citing ChatGPT.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Cite ChatGPT in Chicago Style
 
  Chicago style citations are handled a little differently, and they don't lend ChatGPT as much credence as MLA and APA style in considering it as an author in most cases. However, writers are still encouraged to cite ChatGPT clearly and effectively in the following ways.
@@ -90,10 +110,10 @@ Emiliano Vittoriosi / Unsplash
  Since ChatGPT doesn't let you link to specific conversations, Chicago style argues any further linking would be ineffective for citation purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why It's Important to Cite ChatGPT
@@ -131,5 +151,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-freefire-gameplay-on-youtube-channels/"><u>[New] 2024 Approved Elevate Your FreeFire Gameplay on YouTube Channels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-edge-enhancing-vertical-videos-using-fcpx-techniques-for-2024/"><u>[New] Instagram Edge Enhancing Vertical Videos Using FCPX Techniques for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-novice-to-pro-a-comprehensive-reference-on-using-zds-video-capturing-features/"><u>[Updated] 2024 Approved From Novice to Pro A Comprehensive Reference on Using ZD's Video Capturing Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tune-into-visuals-embedding-music-in-powerpoint/"><u>[Updated] Tune Into Visuals Embedding Music in PowerPoint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/critical-aspects-to-think-about-prior-to-investing-in-a-dash-cam-a-comprehensive-guide/"><u>Critical Aspects to Think About Prior to Investing in a Dash Cam: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-resolve-osetupdll-error-not-found-or-missing/"><u>Effective Ways to Resolve osetup.dll Error: Not Found or Missing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nubia-z50s-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nubia Z50S Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-your-surface-pros-wi-fi-back-online-expert-advice/"><u>Getting Your Surface Pro's Wi-Fi Back Online - Expert Advice</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-converting-magic-stream-files-into-mp4avi-formats-for-mac-and-pc/"><u>Guide: Converting Magic Stream Files Into MP4/AVI Formats for Mac & PC</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-12-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 12 and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-organizing-information-by-alphabetical-order-in-ms-excel/"><u>Step-by-Step Guide: Organizing Information by Alphabetical Order in MS Excel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unfolding-the-truth-new-insights-into-foldable-iphone-prices-release-dates-and-specs-the-latest-gossip/"><u>Unfolding the Truth: New Insights Into Foldable iPhone Prices, Release Dates, and Specs - The Latest Gossip</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-toshiba-dynabook-rescue-media-driver-pack-instructions-for-windows-users/"><u>Update Toshiba Dynabook Rescue Media - Driver Pack Instructions for Windows Users</u></a></li>
+</ul></div>
 

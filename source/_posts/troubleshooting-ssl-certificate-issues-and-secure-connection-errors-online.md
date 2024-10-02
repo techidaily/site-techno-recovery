@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting SSL Certificate Issues and 'Secure Connection' Errors Online
-date: 2024-09-15T23:20:39.138Z
-updated: 2024-09-21T03:38:23.860Z
+date: 2024-09-25T04:34:12.985Z
+updated: 2024-10-02T04:37:10.705Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting SSL Certificate Issues and 'Secure Connection' Errors Online
@@ -57,19 +57,6 @@ thumbnail: https://www.lifewire.com/thmb/xo_2t5e5ZeVaabmtT7h70fUp9UI=/400x300/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
@@ -77,10 +64,10 @@ thumbnail: https://www.lifewire.com/thmb/xo_2t5e5ZeVaabmtT7h70fUp9UI=/400x300/fi
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Skype on a Computer
@@ -88,6 +75,13 @@ thumbnail: https://www.lifewire.com/thmb/xo_2t5e5ZeVaabmtT7h70fUp9UI=/400x300/fi
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
@@ -97,16 +91,10 @@ thumbnail: https://www.lifewire.com/thmb/xo_2t5e5ZeVaabmtT7h70fUp9UI=/400x300/fi
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
@@ -124,13 +112,6 @@ thumbnail: https://www.lifewire.com/thmb/xo_2t5e5ZeVaabmtT7h70fUp9UI=/400x300/fi
 1. Open**Settings** and then**Apps** .
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 5: Check Skype's Video Settings and Permissions
 
@@ -159,10 +140,10 @@ thumbnail: https://www.lifewire.com/thmb/xo_2t5e5ZeVaabmtT7h70fUp9UI=/400x300/fi
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
@@ -177,6 +158,13 @@ thumbnail: https://www.lifewire.com/thmb/xo_2t5e5ZeVaabmtT7h70fUp9UI=/400x300/fi
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -184,6 +172,13 @@ thumbnail: https://www.lifewire.com/thmb/xo_2t5e5ZeVaabmtT7h70fUp9UI=/400x300/fi
  When you delete and reinstall Skype, you're basically resetting the program and all of its connections with your camera and microphone, which should resolve any issues. You're also getting the freshest version that's available, which could address whatever was causing the problem in the first place. However, you might then have to follow the steps outlined above once more to make sure the new connections are set up properly.
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 8: Update Device Drivers
 
@@ -234,5 +229,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-10-recording-apps-for-social-media-vids-for-2024/"><u>[Updated] Foremost 10 Recording Apps for Social Media Vids for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-multimedia-fabrication-zone/"><u>[Updated] Multimedia Fabrication Zone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x/"><u>2024 Approved How to Edit Vertical Videos for Instagram in Final Cut Pro X?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ankers-discounted-portable-laptop-docking-stations-your-next-must-have-tech-accessory/"><u>Anker's Discounted Portable Laptop Docking Stations: Your Next Must-Have Tech Accessory!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-farewell-bid-adieu-to-one-of-its-most-enduring-and-successful-devices/"><u>Apple Farewell: Bid Adieu to One of Its Most Enduring and Successful Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/coming-soon-windows-10-eol-approaches-explore-alternative-operating-systems/"><u>Coming Soon: Windows 10 EOL Approaches – Explore Alternative Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creating-a-bootable-ubuntu-stick-with-etcher-on-any-pc/"><u>Creating a Bootable Ubuntu Stick with Etcher on Any PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/el-mejor-compressor-mp4-en-2023-tecnicas-avanzadas-de-codificacion-de-videos/"><u>El Mejor Compressor MP4 en 2023 - Técnicas Avanzadas De Codificación De Vídeos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sky-high-cloud-stashing-solutions-on-android-for-2024/"><u>Sky-High Cloud Stashing Solutions on Android for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transform-into-a-toon-best-apps-for-cartooning-yourself/"><u>Transform Into a Toon Best Apps for Cartooning Yourself</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-bargains-on-high-demand-electronics-including-the-latest-macbook-air-trending-tiktok-backpacks-and-top-rated-webcams/"><u>Unbeatable Bargains on High-Demand Electronics: Including the Latest MacBook Air, Trending TikTok Backpacks & Top-Rated Webcams</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-slow-down-or-freeze-time-expert-fcpx-editing-techniques-for-2024/"><u>Updated Slow Down or Freeze Time Expert FCPX Editing Techniques for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/weekly-briefing-on-iphone-software-enhancements-and-product-recalls/"><u>Weekly Briefing on iPhone Software Enhancements & Product Recalls</u></a></li>
+</ul></div>
 

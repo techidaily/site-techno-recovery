@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Collaborative Time Management Apps for Families in the Pace
-date: 2024-09-25T01:55:32.595Z
-updated: 2024-09-27T08:02:27.025Z
+date: 2024-09-25T09:55:20.182Z
+updated: 2024-10-02T10:13:43.437Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Collaborative Time Management Apps for Families in the Pace
@@ -41,13 +41,6 @@ thumbnail: https://www.lifewire.com/thmb/Lgd5TUsFkYjXRy5hbjlIgZVN9U4=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -63,6 +56,13 @@ thumbnail: https://www.lifewire.com/thmb/Lgd5TUsFkYjXRy5hbjlIgZVN9U4=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -70,10 +70,10 @@ thumbnail: https://www.lifewire.com/thmb/Lgd5TUsFkYjXRy5hbjlIgZVN9U4=/400x300/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -88,10 +88,10 @@ thumbnail: https://www.lifewire.com/thmb/Lgd5TUsFkYjXRy5hbjlIgZVN9U4=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -114,13 +114,6 @@ thumbnail: https://www.lifewire.com/thmb/Lgd5TUsFkYjXRy5hbjlIgZVN9U4=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -132,6 +125,13 @@ thumbnail: https://www.lifewire.com/thmb/Lgd5TUsFkYjXRy5hbjlIgZVN9U4=/400x300/fi
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -170,17 +170,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/royal-match-exploring-its-multi-level-gameplay-dynamics/"><u>'Royal Match': Exploring Its Multi-Level Gameplay Dynamics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-comprehensively-capturing-your-messenger-conversations/"><u>[Updated] In 2024, Comprehensively Capturing Your Messenger Conversations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-no-cost-typing-courses-12-picks-for-users-of-any-age/"><u>Best No-Cost Typing Courses: 12 Picks for Users of Any Age</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-rtx-3070-graphics-driver-for-windows-1110-get-the-best-performance-now/"><u>Download Updated NVIDIA RTX 3070 Graphics Driver for Windows 11/10 - Get the Best Performance Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/ephemeral-enchantment-event-gameplay-magic-unlocked/"><u>Ephemeral Enchantment Event: Gameplay Magic Unlocked</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-8-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-guide-navigating-through-the-502-bad-gateway-mishap/"><u>Expert Guide: Navigating Through the 502 Bad Gateway Mishap</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-handle-msvcr70dll-missing-or-undetected-problems/"><u>How to Correctly Handle MSVCR70.dll Missing or Undetected Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/scoring-steep-tech-deals-finding-and-claiming-your-dell-student-discount/"><u>Scoring Steep Tech Deals: Finding and Claiming Your Dell Student Discount!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/sh-profiles-easy-downloads-in-2024/"><u>Stylish Profiles, Easy Downloads, In 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tutorial-how-to-retrieve-and-save-video-content-from-usa-today-across-both-macos-and-windows-platforms/"><u>Tutorial: How to Retrieve and Save Video Content From 'USA Today' Across Both macOS & Windows Platforms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/understanding-split-screen-techniques-in-facebook-lives-for-2024/"><u>Understanding Split Screen Techniques in Facebook Lives for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-dissecting-vidma-a-guide-to-screen-capturing-tech/"><u>[New] In 2024, Dissecting Vidma A Guide to Screen Capturing Tech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-exclusive-free-mcb-banner-designs/"><u>[New] In 2024, Exclusive Free MCB Banner Designs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-optimal-flight-the-lipo-selection-saga/"><u>2024 Approved Unlocking Optimal Flight The LiPo Selection Saga</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/amd-high-definition-audio-fix-unplugged-device-resolved/"><u>AMD High Definition Audio Fix: Unplugged Device Resolved</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-se-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone SE - 4 Easy Ways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-smart-tv-experience-with-these-exclusive-samsung-app-recommendations/"><u>Elevate Your Smart TV Experience with These Exclusive Samsung App Recommendations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-resolving-palworld-session-search-problems-a-step-by-step-approach/"><u>Guide to Resolving Palworld Session Search Problems – A Step-by-Step Approach</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-time-your-shots-with-an-iphones-built-in-stopwatch-feature/"><u>How to Time Your Shots with an iPhone's Built-In Stopwatch Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/manage-repeated-portraits-with-ease-unifying-photo-libraries-for-iphone-and-mac-users/"><u>Manage Repeated Portraits with Ease: Unifying Photo Libraries for iPhone & Mac Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sony-vr-tech-update-expected-debut-date-and-pricing-innovative-specs-and-rumored-insights/"><u>Sony VR Tech Update: Expected Debut Date & Pricing, Innovative Specs, and Rumored Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-adding-new-titles-to-your-meta-oculus-quest-2-library/"><u>Step-by-Step Process: Adding New Titles to Your Meta Oculus Quest 2 Library</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-definitive-guide-to-film-gear-buying-tips/"><u>The Definitive Guide to Film Gear Buying Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/upgrade-images-to-ultra-high-definition-achieve-4k-8k-or-10k-quality-using-winxvideo-ai-technology/"><u>Upgrade Images to Ultra High-Definition: Achieve 4K, 8K, or 10K Quality Using WinxVideo AI Technology</u></a></li>
 </ul></div>
 

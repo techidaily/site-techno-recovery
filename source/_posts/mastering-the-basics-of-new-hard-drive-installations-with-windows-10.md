@@ -1,7 +1,7 @@
 ---
 title: Mastering the Basics of New Hard Drive Installations with Windows 10
-date: 2024-09-22T07:10:55.402Z
-updated: 2024-09-26T18:38:26.989Z
+date: 2024-09-25T17:14:13.891Z
+updated: 2024-10-01T21:00:58.536Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Basics of New Hard Drive Installations with Windows 10
@@ -37,57 +37,45 @@ thumbnail: https://www.lifewire.com/thmb/vnMoP-bSjTfPETaufR0AJNJSFHg=/400x300/fi
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
 4. Click the**Choose your color** drop down, and select**Custom** .  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Custom highlighted in the choose your color Windows personalization dropdown box.](https://www.lifewire.com/thmb/eA7uewut5FM7kZcZg4i8rTtsoAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customannotated-e732222a31ff4e7084109b0cde824d2f.jpg)
 5. Under**Choose your default Windows mode** , click**Dark** .  
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Dark highlighted under Choose your default Windows mode.](https://www.lifewire.com/thmb/hwscXAtkVVGnRXJOxVPrK4-g_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Darkannotated-24f27a05096643cbaea9db7154eb3c20.jpg)
 6. Click**Custom color** .  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Custom color highlighted in Windows color settings.](https://www.lifewire.com/thmb/M8gPUzgdrRCHL-40UiGLeUBo8i8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customcolorannotated-b599f0b8b4fe4e0b92240f051aee0d90.jpg)
 7. Use the**color picker** to choose your custom color, and click**Done** .  
 ![Done highlighted in the Windows color picker.](https://www.lifewire.com/thmb/hGVjGq0ok4PwKRRjTNyRMCrpwQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Doneannotated-e3cd94035aaa41fd840c08ca0229a5e7.jpg)
 8. Check**Start, taskbar, and action center** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
 9. Your taskbar will now reflect the custom color you chose.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
@@ -99,13 +87,20 @@ thumbnail: https://www.lifewire.com/thmb/vnMoP-bSjTfPETaufR0AJNJSFHg=/400x300/fi
 ![Colors menu in Windows 10. This menu houses the dark mode option.](https://www.lifewire.com/thmb/fUzWLhtj_44EGlchuXXx4vjABx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/darkthemescreenshot-5c76fc2cc9e77c0001fd594b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Has My Taskbar Changed Color in Windows 10?
 
@@ -155,16 +150,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-speed-settings-for-snapchat-content/"><u>[Updated] Navigating Speed Settings for Snapchat Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/captivating-imagery-assemblies-your-lifelong-collection-for-2024/"><u>Captivating Imagery Assemblies Your Lifelong Collection for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/convert-azw3-books-to-multiple-formats-epub-pdf-and-mobi-with-our-top-ranking-ebook-converter/"><u>Convert AZW3 Books to Multiple Formats: EPUB, PDF, and MOBI with Our Top-Ranking eBook Converter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-to-follow-steps-to-separate-sound-from-your-favorite-youtube-clips/"><u>Easy-to-Follow Steps to Separate Sound From Your Favorite YouTube Clips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-productivity-ultimate-techniques-for-dividing-your-display-in-windows-10/"><u>Effortless Productivity: Ultimate Techniques for Dividing Your Display in Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-ways-to-refresh-your-icon-cache-on-windows-7-8-and-vista/"><u>Effortless Ways to Refresh Your Icon Cache on Windows 7, 8, and Vista</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-sneak-peek-new-features-of-windows-11-creators-version-insider-preview-build-1503/"><u>Exclusive Sneak Peek: New Features of Windows 11 Creator’s Version, Insider Preview Build 1503</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-missing-xinput-13-dll-errors-on-your-pc/"><u>The Ultimate Fixes for Missing XInput 1.3 DLL Errors on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-solving-the-netflix-nw-1-19-error/"><u>Troubleshooting Guide: Solving the Netflix NW-1-19 Error</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers in Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-smart-7-hd-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Smart 7 HD Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-optimal-yt-video-cover-images/"><u>[Updated] Optimal YT Video Cover Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-awakenings-discovering-harmonious-podcast-starts/"><u>2024 Approved Audio Awakenings Discovering Harmonious Podcast Starts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accelerate-tasks-with-these-1nnovative-chatgpt-ready-pdf-management-addons/"><u>Accelerate Tasks with These 1Nnovative ChatGPT-Ready PDF Management Addons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-wont-sync-discover-6-proven-fixes-to-re-establish-the-connection/"><u>Apple Watch Won't Sync? Discover 6 Proven Fixes to Re-Establish the Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-troubleshooting-tackling-the-disappearance-of-normalizdll/"><u>Comprehensive Troubleshooting: Tackling The Disappearance of Normaliz.dll</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-methods-fixing-the-issue-when-zoom-starts-without-video/"><u>Effective Methods: Fixing the Issue When Zoom Starts Without Video</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/hashtag-wisdom-uncovering-the-best-tags-to-dominate-on-instagram-for-2024/"><u>Hashtag Wisdom Uncovering the Best Tags to Dominate on Instagram for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-connection-a-user-friendly-guide-for-subwoofer-and-samsung-soundbar-pairing/"><u>Master the Connection: A User-Friendly Guide for Subwoofer and Samsung Soundbar Pairing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-deciding-who-to-mute-on-your-previously-known-x-platform/"><u>The Ultimate Guide: Deciding Who to Mute on Your Previously Known X Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-steam-activities-into-child-safe-fun/"><u>Transforming Steam Activities Into Child-Safe Fun</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-rectifying-missing-d3dx9amoled-dll-errors/"><u>Troubleshooting Steps for Rectifying Missing D3dx9_amoled DLL Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-constant-fortnite-collapses-on-windows/"><u>Ultimate Guide to Resolving Constant Fortnite Collapses on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-of-elon-musks-self-driving-taxis-cost-predictions-and-release-schedule-revealed/"><u>Unraveling the Mystery of Elon Musk's Self-Driving Taxis: Cost Predictions and Release Schedule Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pc/"><u>ストリーム配信をキャプチャし、PCやスマホで安全に保管するためのテクニック</u></a></li>
 </ul></div>
 

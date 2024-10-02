@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of 12 Zero-Fee Software for Optimizing Your Hard Drive This July 2024
-date: 2024-09-23T19:49:01.419Z
-updated: 2024-09-27T01:36:34.168Z
+date: 2024-09-28T21:39:27.975Z
+updated: 2024-10-02T06:35:10.666Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of 12 Zero-Fee Software for Optimizing Your Hard Drive This July 2024
@@ -48,6 +48,13 @@ thumbnail: https://www.lifewire.com/thmb/u_HnkBJKyWBIafqnvOQUdb-LsFU=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -56,18 +63,18 @@ thumbnail: https://www.lifewire.com/thmb/u_HnkBJKyWBIafqnvOQUdb-LsFU=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -90,13 +97,6 @@ thumbnail: https://www.lifewire.com/thmb/u_HnkBJKyWBIafqnvOQUdb-LsFU=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -108,16 +108,10 @@ thumbnail: https://www.lifewire.com/thmb/u_HnkBJKyWBIafqnvOQUdb-LsFU=/400x300/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -132,19 +126,6 @@ thumbnail: https://www.lifewire.com/thmb/u_HnkBJKyWBIafqnvOQUdb-LsFU=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -152,6 +133,13 @@ thumbnail: https://www.lifewire.com/thmb/u_HnkBJKyWBIafqnvOQUdb-LsFU=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -182,22 +170,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-reverse-a-video-on-iphone/"><u>[New] 2024 Approved How to Reverse a Video on iPhone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-inshots-ultimate-tune-up-import-music-essentials/"><u>[New] InShot's Ultimate Tune Up Import Music Essentials</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-jokester-jukebox-selecting-sources-for-funny-ringtones/"><u>[Updated] 2024 Approved Jokester Jukebox Selecting Sources for Funny Ringtones</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bedtime-videos-breakdown-stories-and-reviews/"><u>2024 Approved Bedtime Videos Breakdown Stories and Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-free-electronic-faxing-solutions-online/"><u>Best Free Electronic Faxing Solutions Online</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-maxoaks-185wh-500000-mah-power-bank/"><u>Comprehensive Evaluation of MaxOak's 185Wh / 500,000 mAh Power Bank</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-connection-techniques-for-pairing-samsung-soundbar-to-televisions/"><u>Easy Connection Techniques for Pairing Samsung Soundbar to Televisions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-eliminating-your-pcs-windows-restore-section/"><u>Expert Tips on Eliminating Your PC's Windows Restore Section</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722896628290-explore-our-top-picks-the-15-best-free-bootable-anti-virus-solutions-available-online/"><u>Explore Our Top Picks: The 15 Best Free Bootable Anti-Virus Solutions Available Online!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/get-ready-for-unprecedented-conversations-with-ai/"><u>Get Ready for Unprecedented Conversations with AI</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-restore-x3astoudiodll-files-and-eliminate-system-errors/"><u>How to Restore x3astoudio.dll Files and Eliminate System Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>In 2024, The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-mac-video-production-powerhouse-adobe-premiere-pro/"><u>New In 2024, Mac Video Production Powerhouse Adobe Premiere Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlined-sonic-experience-techniques-to-connect-and-configure-multiple-bluetooth-speakers-together/"><u>Streamlined Sonic Experience: Techniques to Connect and Configure Multiple Bluetooth Speakers Together</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-osetupdll-file-problems-in-windows/"><u>Troubleshooting Missing osetup.dll File Problems in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-benefits-of-having-an-iptv-or-smart-tv-at-home/"><u>Unveiling the Benefits of Having an IPTV or Smart TV at Home</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-google-gathering-latest-insights-and-potential-reveals/"><u>Upcoming Google Gathering: Latest Insights & Potential Reveals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-full-understanding-the-world-of-vsco-photo-editor-for-2024/"><u>[New] Full Understanding The World of VSCO Photo Editor for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-prepare-your-fb-content-hv-orientation-matters/"><u>[Updated] How to Prepare Your FB Content H/V Orientation Matters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-integrating-social-video-platforms-with-hdtv-for-2024/"><u>[Updated] Integrating Social Video Platforms with HDTV for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y200-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y200 to Roku | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-app-selection-perfecting-your-windows-display-captures-for-2024/"><u>Best App Selection Perfecting Your Windows Display Captures for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciding-between-an-ipad-mini-or-ipad-air-an-in-depth-analysis/"><u>Deciding Between an iPad Mini or iPad Air: An In-Depth Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-technical-hurdles-on-zoom-how-to-tell-if-its-you-vs-the-platform/"><u>Navigating Technical Hurdles on Zoom - How to Tell if It's You Vs. The Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflix-group-watches-unlocked-a-guide-to-syncing-your-views-across-distances/"><u>Netflix Group Watches Unlocked: A Guide to Syncing Your Views Across Distances</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-checklist-for-your-next-ps5-control-crisis/"><u>The Complete Checklist for Your Next PS5 Control Crisis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-factors-for-selecting-your-ideal-gaming-machine-a-guide/"><u>Top Factors for Selecting Your Ideal Gaming Machine: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-windows-11-calendar-for-organization/"><u>Utilizing Windows 11 Calendar for Organization</u></a></li>
 </ul></div>
 

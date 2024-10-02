@@ -1,7 +1,7 @@
 ---
 title: Google Maps Unveils Innovative Geo-Augmented Reality Capability for Immersive City Experiences | CNBC Technology
-date: 2024-09-15T22:49:54.410Z
-updated: 2024-09-20T21:39:42.334Z
+date: 2024-09-28T16:35:35.194Z
+updated: 2024-10-02T10:23:47.398Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unlocking-docs-transcription-feature-a-beginners-guide/"><u>[New] 2024 Approved Unlocking Docs' Transcription Feature A Beginner’s Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-showcase-a-dialogue-in-one-instagram-post-for-2024/"><u>[Updated] Showcase a Dialogue in One Instagram Post for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-crafting-dynamic-canon-time-lapses/"><u>[Updated] The Ultimate Guide to Crafting Dynamic Canon Time-Lapses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-d-link-router-passwords-guide-updated-july-2024/"><u>Comprehensive D-Link Router Passwords Guide Updated July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/educational-perks-how-students-can-score-a-tidal-subscription-deal/"><u>Educational Perks: How Students Can Score a Tidal Subscription Deal</u></a></li>
+<li><a href="https://win-news.techidaily.com/effective-strategies-to-change-ogv-format-into-optimal-mp4-video-quality/"><u>Effective Strategies to Change OGV Format Into Optimal MP4 Video Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-a-stubborn-failed-to-update-warframe-issue/"><u>How to Resolve a Stubborn 'Failed to Update Warframe' Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-address-and-resolve-netflix-error-code-nw-1-19/"><u>How to Successfully Address and Resolve Netflix Error Code NW-1-19</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-add-free-text-animation-to-videos/"><u>In 2024, How to Add Free Text Animation to Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x8b-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Honor X8b Phone without Any Data Loss</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-analysis-of-the-2022-nacon-revolution-x-pro-controller-features-performance-and-user-experience/"><u>In-Depth Analysis of the 2022 Nacon Revolution X Pro Controller - Features, Performance & User Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-connectivity-issues-with-your-apple-watchs-motion-sensor-for-accurate-steps/"><u>Overcoming Connectivity Issues with Your Apple Watch’s Motion Sensor for Accurate Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/savor-the-best-in-affordable-high-end-gadgets-top-recommendations-to-try-now/"><u>Savor the Best in Affordable High-End Gadgets – Top Recommendations to Try Now</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tackling-youtubes-dark-view-troubleshooting-steps-for-2024/"><u>Tackling YouTube's Dark View Troubleshooting Steps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-5-cost-effective-pc-recording-applications/"><u>Top 5 Cost-Effective PC Recording Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-funny-iphoneipad-scams-for-a-good-laugh-ideas-for-tech-savvy-pranksters/"><u>Top Funny iPhone/iPad Scams for a Good Laugh: Ideas for Tech-Savvy Pranksters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-a-hushed-receiver-steps-to-bring-back-audio-life/"><u>Troubleshooting a Hushed Receiver: Steps to Bring Back Audio Life</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-when-your-pc-wont-turn-on-a-comprehensive-guide/"><u>Troubleshooting Steps When Your PC Won't Turn On: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-3-must-watch-tech-movements-now/"><u>Unveiling the Top 3 Must-Watch Tech Movements Now</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

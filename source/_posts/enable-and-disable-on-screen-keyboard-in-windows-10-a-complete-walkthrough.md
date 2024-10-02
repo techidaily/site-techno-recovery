@@ -1,7 +1,7 @@
 ---
 title: Enable and Disable On-Screen Keyboard in Windows 10 - A Complete Walkthrough
-date: 2024-09-25T00:56:41.717Z
-updated: 2024-09-27T05:06:03.606Z
+date: 2024-09-28T10:46:39.849Z
+updated: 2024-10-02T05:39:06.924Z
 categories:
   - BestProducts
 description: This Article Describes Enable and Disable On-Screen Keyboard in Windows 10 - A Complete Walkthrough
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 
  This article explains how to change the color of the taskbar in Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change the Taskbar Color in Windows 10
 
  Windows 10 gives you the ability to choose the color of your taskbar. If you don’t want fine control over the color, simply switching between light and[dark mode](https://www.lifewire.com/turn-on-windows-10-dark-theme-4587692) will change the color of your taskbar. You can also access Windows settings via the[Start Menu](https://www.lifewire.com/windows-10-start-menu-tour-3506815) for some color personalization options, including the ability to change the taskbar color to whatever you like.
@@ -32,15 +39,16 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 1. Click**Start** \>**Settings** .  
 ![Settings highlighted in the Windows 10 start menu.](https://www.lifewire.com/thmb/_3yFCu2vpkCj2sGFGwRKhs5fhyk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Settings-743b3fd7d16d4bd497ba9c57acea34e9.jpg)
 2. Click**Personalization** .  
-![Personalization highlighted in Windows 10 settings.](https://www.lifewire.com/thmb/wVm6EMDfsoVarlbSfz8mkWF1nWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Personalizationannotated-23cf54124d3b4f02a4b3e7df15707474.jpg)
-3. Click**Colors** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Personalization highlighted in Windows 10 settings.](https://www.lifewire.com/thmb/wVm6EMDfsoVarlbSfz8mkWF1nWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Personalizationannotated-23cf54124d3b4f02a4b3e7df15707474.jpg)
+3. Click**Colors** .  
 
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
 4. Click the**Choose your color** drop down, and select**Custom** .  
@@ -49,15 +57,16 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 ![Dark highlighted under Choose your default Windows mode.](https://www.lifewire.com/thmb/hwscXAtkVVGnRXJOxVPrK4-g_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Darkannotated-24f27a05096643cbaea9db7154eb3c20.jpg)
 6. Click**Custom color** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Custom color highlighted in Windows color settings.](https://www.lifewire.com/thmb/M8gPUzgdrRCHL-40UiGLeUBo8i8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customcolorannotated-b599f0b8b4fe4e0b92240f051aee0d90.jpg)
 7. Use the**color picker** to choose your custom color, and click**Done** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Done highlighted in the Windows color picker.](https://www.lifewire.com/thmb/hGVjGq0ok4PwKRRjTNyRMCrpwQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Doneannotated-e3cd94035aaa41fd840c08ca0229a5e7.jpg)
 8. Check**Start, taskbar, and action center** .  
 ![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
@@ -65,17 +74,10 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 ![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Can’t I Change the Color of My Taskbar?
@@ -87,10 +89,16 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Has My Taskbar Changed Color in Windows 10?
@@ -141,24 +149,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-dissecting-vidma-a-guide-to-screen-capturing-tech/"><u>[New] In 2024, Dissecting Vidma A Guide to Screen Capturing Tech</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/action-camera-accessories-buying-guide-for-2024/"><u>Action Camera Accessories Buying Guide for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chronological-watchlist-for-all-the-man-of-steel-pictures/"><u>Chronological Watchlist for All The Man of Steel Pictures</u></a></li>
-<li><a href="https://facebook.techidaily.com/data-survival-scenarios-post-fb-demise/"><u>Data Survival Scenarios Post-FB Demise</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-methods-for-diagnosing-and-correcting-kernel32dll-failures-in-windows-systems/"><u>Effective Methods for Diagnosing and Correcting Kernel32.dll Failures in Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/efficient-fixes-for-hd-audio-driver-challenges-with-intels-idt-technology-in-windows-11/"><u>Efficient Fixes for HD Audio Driver Challenges with Intel's IDT Technology in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-resolving-issues-with-non-ejectable-dvd-bd-and-cd-drives/"><u>Expert Advice: Resolving Issues with Non-Ejectable DVD, BD & CD Drives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-how-to-address-and-repair-the-missing-binkw32dll-error/"><u>Expert Tips on How to Address and Repair the Missing BinkW32.dll Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-the-stop-0x0000001d-error-for-smooth-computer-operations/"><u>Fixing the STOP 0X0000001D Error for Smooth Computer Operations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/free-film-feast-must-watch-movies-on-youtube-in-july-2024-our-recommendations/"><u>Free Film Feast: Must-Watch Movies on YouTube in July 2024 - Our Recommendations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-memory-device-for-sony-a7s-cameras/"><u>In 2024, Premium Memory Device for Sony A7S Cameras</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/leveraging-abbyys-expertise-ashling-partners-accelerates-automation-with-elite-program-membership-and-smart-content-insights/"><u>Leveraging ABBYY's Expertise: Ashling Partners Accelerates Automation with Elite Program Membership and Smart Content Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/morning-judgment-creative-viewpoints/"><u>Morning Judgment Creative Viewpoints</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/proven-strategies-for-wiping-out-your-pcs-recovery-volume-on-a-windows-operating-system/"><u>Proven Strategies for Wiping Out Your PC’s Recovery Volume on a Windows Operating System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-discover-how-to-turn-on-the-invisible-file-explorer-path/"><u>Step-by-Step Tutorial: Discover How to Turn On the Invisible File Explorer Path</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-to-copying-imagesvideos-between-iphones-for-2024/"><u>The Ultimate Guide to Copying Images/Videos Between iPhones for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-cell-phone-trade-in-offers-on-verizon-this-month/"><u>Top-Rated Cell Phone Trade-In Offers on Verizon This Month</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/voc-vma-free-online-converter-by-audiowiz/"><u>VOC 애드실로 VMA 변환 - Free Online Converter by AudioWiz</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/our-path-to-youtube-stardom-3-strategies-for-captivating-reaction-videos-for-2024/"><u>[New] Your Path to YouTube Stardom 3 Strategies for Captivating Reaction Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-building-a-studio-quality-setup-at-home/"><u>[Updated] 2024 Approved Building a Studio-Quality Setup at Home</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-virtual-backgrounds-in-webcasters-arsenal/"><u>[Updated] Unlocking the Potential of Virtual Backgrounds in Webcasters' Arsenal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-best-premiere-plans-free-for-pros/"><u>[Updated] Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-your-ultimate-method-for-mobile-igtv-downloads-for-2024/"><u>[Updated] Your Ultimate Method for Mobile IGTV Downloads for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-macpc-guide-posting-content-on-tiktok/"><u>2024 Approved Mac/PC Guide Posting Content on TikTok</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-beginners-guide-to-uploading-tunes-for-instagram-video-creation/"><u>A Beginner's Guide to Uploading Tunes for Instagram Video Creation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-playstation-virtual-reality-with-your-personal-pc-a-guide/"><u>Connecting PlayStation Virtual Reality with Your Personal PC: A Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/dive-into-iphones-audio-memos-made-simple-for-2024/"><u>Dive Into iPhone's Audio Memos Made Simple for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-troubleshooting-techniques-for-haldll-complications-on-windows-os-11-10-8-vista/"><u>Effective Troubleshooting Techniques for hal.dll Complications on Windows OS (11, 10, 8, Vista)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhancing-photos-with-picarts-background-elimination/"><u>Enhancing Photos with PicArt's Background Elimination</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/green-wheels-or-greenwashed-uncovering-the-truth-about-electric-cars-environmental-costs/"><u>Green Wheels or Greenwashed? Uncovering the Truth About Electric Cars' Environmental Costs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-addressing-and-resolving-missing-mfc42dll-files-in-windows-systems/"><u>Guide: Addressing and Resolving Missing mfc42.dll Files in Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/increasing-brilliance-on-your-android-videos/"><u>Increasing Brilliance on Your Android Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-real-time-navigation-a-guide-to-using-live-view-in-google-maps/"><u>Mastering Real-Time Navigation: A Guide to Using Live View in Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-televisions-shopping-a-consumers-roadmap-to-acquiring-an-ideal-tv-unit-for-household-enjoyment/"><u>Navigating Televisions Shopping: A Consumer's Roadmap to Acquiring an Ideal TV Unit for Household Enjoyment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-google-pixel-7a-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Google Pixel 7a</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-mobile-network-providers-an-in-depth-guide/"><u>Understanding Mobile Network Providers: An In-Depth Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-windows-11s-battery-status-feature-a-comprehensive-guide/"><u>Unveiling Windows 11'S Battery Status Feature: A Comprehensive Guide</u></a></li>
 </ul></div>
 

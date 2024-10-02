@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough for Uninstalling Windows 11'S AI Assistant, Copilot
-date: 2024-09-19T17:23:02.579Z
-updated: 2024-09-20T17:33:13.696Z
+date: 2024-09-26T08:36:09.904Z
+updated: 2024-10-02T04:31:15.570Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Walkthrough for Uninstalling Windows 11'S AI Assistant, Copilot
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/B0qB9qt4Px07Wpu0VGDmKa735TA=/400x300/fi
 
  The Code 28 error could apply to any hardware device in Device Manager, but most seem to affect USB devices and sound cards.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix a Code 28 Error
 
  Any of Microsoft's operating systems could experience a Code 28 Device Manager error, including Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, and more. These directions apply to all of those Windows versions.
@@ -30,11 +37,27 @@ thumbnail: https://www.lifewire.com/thmb/B0qB9qt4Px07Wpu0VGDmKa735TA=/400x300/fi
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
 ![Restart menu in Windows 10](https://www.lifewire.com/thmb/BfpzNB-2PZs2XbtmfAqOhjUL7Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c8032ed46e0fb00019b8ed8.jpg)  
  There's always the slim chance that the Code 28 error you're seeing in Device Manager was caused by a fluke with Device Manager or in your[BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820) . If that's the case, a reboot might fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Did you install a device or make a change in Device Manager just before you noticed the error? If so, it's very possible that the change you made caused the problem.  
  Undo the change, restart your PC, and then check again for the Code 28 error.  
  Depending on the changes you made, some solutions might include removing or re-configuring the newly installed device,[rolling back the driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) to the version prior to your update, or[using System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) to undo recent Device Manager changes.  
 ![System Restore button for Windows 10](https://www.lifewire.com/thmb/dLFN9DPEpHd1ClDWsExz8wKhnMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restoresystemWindows-5c80332846e0fb00011bf425.jpg)
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
  If the drivers won't update, try disabling your antivirus software during the update process. Sometimes these programs misinterpret your driver updating as malicious and block it.
 4. [Install the latest Windows service pack](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Microsoft regularly releases[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and other[patches](https://www.lifewire.com/what-is-a-patch-2625960) for their operating systems, one of which may contain a fix for the cause of the Code 28 error.  
@@ -42,6 +65,13 @@ thumbnail: https://www.lifewire.com/thmb/B0qB9qt4Px07Wpu0VGDmKa735TA=/400x300/fi
 5. Replace the hardware. As a last resort, you may need to replace the hardware that has the error.  
  It's also possible that the device is not compatible with this version of Windows. You can check the[Windows HCL](https://www.lifewire.com/what-is-the-windows-hardware-compatibility-list-2625914) to be sure.  
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Causes of a Code 28 Error
 
@@ -95,12 +125,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-snapchat-profits-strategies-for-success/"><u>[Updated] In 2024, Mastering Snapchat Profits Strategies for Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-transformative-recording-techniques-audacity-tips-and-tricks-on-a-mac/"><u>[Updated] Transformative Recording Techniques Audacity Tips and Tricks on a Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-cell-network-troubleshooting-top-fixes-to-restore-functionality/"><u>Apple Watch Cell Network Troubleshooting: Top Fixes to Restore Functionality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-valheim-game-top-strategies-to-combat-low-fps/"><u>Boost Your Valheim Game: Top Strategies to Combat Low FPS</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-v-purse-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor V Purse Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ready-for-nothing-phone-projected-price-points-scheduled-arrival-tech-specs-and-hidden-insights/"><u>Get Ready for Nothing Phone Ⓦ: Projected Price Points, Scheduled Arrival, Tech Specs & Hidden Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-surface-pro-screen-shaking-and-flickering/"><u>How to Fix Surface Pro Screen Shaking and Flickering</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-verified-on-instagram/"><u>How to Get Verified on Instagram</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-thumbnail-creation-a-step-by-step-guide/"><u>Mastering Thumbnail Creation A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplified-methods-wiping-off-the-pin-protection-from-microsofts-windows-10/"><u>Simplified Methods: Wiping Off the PIN Protection From Microsoft's Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-fix-the-missing-wlanapidll-component-issue/"><u>Steps to Fix the Missing wlanApi.dll Component Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-nubia-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Nubia Phone Hassle-Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools-for-2024/"><u>Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools for 2024</u></a></li>
+</ul></div>
 
