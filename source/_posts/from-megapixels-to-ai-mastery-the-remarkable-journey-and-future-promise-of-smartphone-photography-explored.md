@@ -1,7 +1,7 @@
 ---
 title: "From Megapixels to AI Mastery: The Remarkable Journey and Future Promise of Smartphone Photography | Explored"
-date: 2024-09-30T13:21:22.124Z
-updated: 2024-10-02T09:01:05.365Z
+date: 2024-10-04T16:28:37.232Z
+updated: 2024-10-07T16:59:30.137Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ To find the Journal app setting, open your Settings app on your iPhone.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find Privacy & Security
@@ -63,25 +69,11 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Tap on Journaling Suggestions
 
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -91,18 +83,25 @@ Maria Diaz/ZDNET
 
 ---
 
-## **FAQ**
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## **FAQ**
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -117,6 +116,13 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -156,24 +162,24 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-chart-topping-video-content-on-youtube/"><u>[New] 2024 Approved Chart-Topping Video Content on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-simulations-in-medical-schools/"><u>2024 Approved Immersive Simulations in Medical Schools</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/brightening-up-your-online-videos/"><u>Brightening Up Your Online Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cropping-images-in-final-cut-pro-x-a-comprehensive-guide-for-2024/"><u>Cropping Images in Final Cut Pro X A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elite-selection-top-downloader-apps-for-vimeo-videos-for-2024/"><u>Elite Selection Top Downloader Apps for Vimeo Videos for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-6plus-software-choices-download-youtube-music-as-mp3-for-iphone-users/"><u>In 2024, 6+ Software Choices Download YouTube Music as MP3 for iPhone Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leading-audiobook-drm-bypass-solutions-for-202n4/"><u>Leading Audiobook DRM Bypass Solutions for 202N4</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leading-pdfepub-converters-reviewed-find-the-perfect-book-formatting-tool-today/"><u>Leading PDF/EPUB Converters Reviewed: Find the Perfect Book Formatting Tool Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-ebook-transformation-a-step-by-step-tutorial-with-calibre-tools/"><u>Mastering eBook Transformation: A Step-by-Step Tutorial with Calibre Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-mobile-kindle-reading-a-comprehensive-tutorial-for-android-users/"><u>Mastering Mobile Kindle Reading: A Comprehensive Tutorial for Android Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-website-visibility-strategies-for-effective-hyperlinking-and-interactive-comment-sections/"><u>Maximizing Website Visibility: Strategies for Effective Hyperlinking and Interactive Comment Sections</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-steps-for-transforming-protected-ebooks-epub-into-readable-kindle-files-on-macos/"><u>Simple Steps for Transforming Protected eBooks (EPUB) Into Readable Kindle Files on macOS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-converting-aax-files-to-mp3-on-windows-11/"><u>Step-by-Step Guide: Converting AAX Files to MP3 on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-converting-and-importing-ebooks-from-kindle-to-kobo-devices/"><u>Step-by-Step Guide: Converting and Importing eBooks From Kindle to Kobo Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-drm-removal-from-ebooks-starting-on-page-1/"><u>Step-by-Step Guide: DRM Removal From eBooks - Starting on Page 1</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-your-malfunctioning-samsung-soundbar/"><u>Ultimate Guide: Repairing Your Malfunctioning Samsung Soundbar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/xmedia-recodemp4movm2ts/"><u>XMedia Recode：簡単ガイド！MP4/MOV/M2TS形式のビデオフォーマット変換法</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-ultra-short-timelapse-capture-methods/"><u>[Updated] In 2024, Top Ultra-Short Timelapse Capture Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-easy-methods-flipping-film-frames-using-vlc/"><u>2024 Approved Easy Methods Flipping Film Frames Using VLC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-innovations-reshaping-the-future-of-software-development-the-productivity-shift-unveiled-codedigest/"><u>AI Innovations Reshaping the Future of Software Development - The Productivity Shift Unveiled | CodeDigest</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-hottest-max-original-programming-of-the-moment/"><u>Discover the Hottest Max Original Programming of the Moment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-7-no-cost-music-streamers-for-ios-and-android-users/"><u>Discover the Ultimate List of 7 No-Cost Music Streamers for iOS and Android Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-tips-on-refreshing-your-discord-user-pic-settings/"><u>Easy Tips on Refreshing Your Discord User Pic Settings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/freeze-frame-like-a-pro-easy-steps-to-amazing-slow-mo-videos-on-android/"><u>Freeze Frame Like a Pro Easy Steps to Amazing Slow Mo Videos on Android</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lava-blaze-2-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lava Blaze 2 Pro?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-walkthrough-changing-your-windows/"><u>In-Depth Walkthrough: Changing Your Windows 지미 컨트롤러 밴드의 색상</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps-vr-and-pc-connection-a-detailed-walkthrough-for-gamers/"><u>PS VR and PC Connection: A Detailed Walkthrough for Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tap-into-easy-payments-the-ultimate-guide-to-setting-up-and-using-apple-pay-on-an-apple-watch/"><u>Tap Into Easy Payments: The Ultimate Guide to Setting Up and Using Apple Pay on an Apple Watch</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-itel-s23plus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Itel S23+</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-presents-for-young-players-gaming-systems-and-extras/"><u>Top Presents for Young Players: Gaming Systems and Extras</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-rtx-a-comprehensive-guide-to-nvidias-rtx-graphics-cards/"><u>Understanding RTX: A Comprehensive Guide to NVIDIA's RTX Graphics Cards</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-new-age-of-ipads-the-latest-breakthrough-in-tablets/"><u>Unveiling Apple's New Age of iPads: The Latest Breakthrough in Tablets</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-aiff-to-mp3-an-experts-methodology-for-audio-conversion/"><u>Updated 2024 Approved AIFF to MP3 An Experts Methodology for Audio Conversion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-next-for-audio-insights-on-the-upcoming-google-pixel-buds-pro-2-release-schedule-and-rumored-details/"><u>What's Next for Audio: Insights on the Upcoming Google Pixel Buds Pro 2, Release Schedule & Rumored Details</u></a></li>
 </ul></div>
 

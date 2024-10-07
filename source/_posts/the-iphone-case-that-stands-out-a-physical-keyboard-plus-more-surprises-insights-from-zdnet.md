@@ -1,7 +1,7 @@
 ---
 title: "The iPhone Case That Stands Out: A Physical Keyboard Plus More Surprises - Insights From ZDNet"
-date: 2024-09-30T18:19:53.274Z
-updated: 2024-10-02T06:02:19.356Z
+date: 2024-10-03T17:31:22.037Z
+updated: 2024-10-07T18:59:53.634Z
 tags:
   - apple
 categories:
@@ -80,10 +80,10 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -122,24 +122,18 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-3-must-know-methods-to-record-on-your-ipad/"><u>[New] 3 Must-Know Methods to Record on Your iPad</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-look-at-securing-background-visuals/"><u>2024 Approved A Comprehensive Look at Securing Background Visuals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-address-iphone-photography-blur/"><u>2024 Approved Swiftly Address iPhone Photography Blur</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-your-favorite-xbox-games-on-meta-quest-vr-without-a-console-microsoft-enables-cloud-streaming/"><u>Access Your Favorite Xbox Games on Meta Quest VR Without a Console, Microsoft Enables Cloud Streaming</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-free-tools-for-m4a-file-editing-our-top-6-picks-and-why-you-should-use-them/"><u>Best Free Tools for M4A File Editing: Our Top 6 Picks and Why You Should Use Them</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dont-lose-it-keeping-gpt-conversations-safe/"><u>Don't Lose It: Keeping GPT Conversations Safe</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/efficient-video-editing-learn-the-ultimate-online-ways-to-shorten-and-slice-on-vimeo-for-2024/"><u>Efficient Video Editing Learn the Ultimate Online Ways to Shorten & Slice on Vimeo for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixes-and-solutions-successfully-installing-oculus-on-windows-11-and-10/"><u>Fixes & Solutions: Successfully Installing Oculus on Windows 11 and 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-notfound-ssleay32dll-error-in-windows-systems/"><u>Fixing NotFound: Ssleay32.dll Error in Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-deactivate-microsofts-cortana-assistant-for-windows-11-users/"><u>Guide to Deactivate Microsoft's Cortana Assistant for Windows 11 Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-disable-avast-antivirus-temporarily/"><u>How to Disable Avast Antivirus Temporarily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-non-functional-headphones-on-windows-11-pc-troubleshooting-guide/"><u>How to Fix Non-Functional Headphones on Windows 11 PC: Troubleshooting Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-when-your-windows-10-device-keeps-awake-solution-found/"><u>How to Fix When Your Windows 10 Device Keeps Awake - Solution Found</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-windows-11-boot-issues-in-safe-mode-when-the-f8-key-isnt-responding/"><u>How to Fix Windows 11 Boot Issues in Safe Mode When the F8 Key Isn't Responding</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-set-up-and-configure-your-epson-printer-step-by-step-instructions/"><u>How To Successfully Set Up and Configure Your Epson Printer - Step by Step Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-upgrade-windows-7-to-windows-11/"><u>How to Upgrade Windows 7 to Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone XS Max</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-startup-settings-in-windows-11-access-the-boot-options-menu-today/"><u>Mastering Startup Settings in Windows 11 – Access the Boot Options Menu Today</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/text-artistry-in-ae-our-top-10-recommendations/"><u>Text Artistry in AE Our Top 10 Recommendations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-vcs-vision-recorder-check-detailed-scrutiny/"><u>[New] VCS Vision Recorder Check Detailed Scrutiny</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-journey-through-history-similar-themed-video-games-to-ghost-of-tsushima-for-2024/"><u>[Updated] Journey Through History Similar Themed Video Games to Ghost of Tsushima for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-xbox-wireless-controller-driets-with-one-click-simplicity/"><u>Download Xbox Wireless Controller Driets with One-Click Simplicity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-overcoming-code-eb0a-windows-errors/"><u>Effective Solutions for Overcoming Code Eb0a (Windows) Errors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-screenshot-and-video-recorder-choice-guide-for-pc-for-2024/"><u>Efficient Screenshot & Video Recorder Choice Guide for PC for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-record-your-favorite-youtube-show-regardless-of-your-gear/"><u>In 2024, How to Record Your Favorite YouTube Show, Regardless of Your Gear</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/nine-key-points-to-reflect-on-when-selecting-a-reliable-and-effective-dashboard-camera/"><u>Nine Key Points to Reflect On When Selecting a Reliable and Effective Dashboard Camera</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rethinking-windows-photo-viewer-usage-on-modern-os-for-2024/"><u>Rethinking Windows Photo Viewer Usage on Modern OS for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-kept-secret-11-freebie-updater-tools-to-enhance-and-streamline-your-system/"><u>The Best-Kept Secret: 11 Freebie Updater Tools to Enhance and Streamline Your System</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-c67-4g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme C67 4G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-hdcp-mistakes-identifying-and-resolving-them/"><u>Understanding HDCP Mistakes: Identifying & Resolving Them</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-fluency-with-these-9-top-picks-premium-free-language-learning-portals/"><u>Unlock Fluency with These 9 Top Picks: Premium-Free Language Learning Portals</u></a></li>
 </ul></div>
 

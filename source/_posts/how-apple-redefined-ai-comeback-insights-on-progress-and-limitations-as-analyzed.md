@@ -1,7 +1,7 @@
 ---
 title: How Apple Redefined AI Comeback, Insights on Progress & Limitations as Analyzed
-date: 2024-09-26T12:57:30.010Z
-updated: 2024-10-02T12:46:31.029Z
+date: 2024-10-06T17:29:02.672Z
+updated: 2024-10-07T19:32:36.331Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
@@ -75,24 +75,18 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AI image generation and Genmoji
 
 Apple has opened up a world of creative possibilities by integrating the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) API into all apps. Users can create AI-generated images in three styles: Sketch, Animation, and Realism. Imagine creating and sharing these images directly within Messages or Pages -- it's a game-changer. In Notes, a new Image Wand tool can generate images based on the current page content. [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) allows users to create custom emojis, adding a personalized touch to communications.
 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
 
@@ -108,6 +102,13 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AI capabilities across Apple products
 
 Lastly, enhancing AI capabilities across all Apple products, including Siri, Apple Music, Apple News, Health, Fitness+, TV, and HomeKit, was a major recommendation. While Apple's AI features are integrated across devices, the specific enhancements for services like Apple Music and HomeKit were limited, at least as addressed in the WWDC keynote.
@@ -115,13 +116,6 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -148,16 +142,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -200,22 +188,18 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-affordable-techniques-to-enhance-written-content-with-media/"><u>[New] 2024 Approved Affordable Techniques to Enhance Written Content with Media</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-path-to-facebooks-exclusive-verified-marker/"><u>[New] 2024 Approved Navigating the Path to Facebook's Exclusive Verified Marker</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-building-brands-through-memes/"><u>[New] Building Brands Through Memes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-limitless-video-snipping-program/"><u>2024 Approved Limitless Video Snipping Program</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipating-apples-vision-pro-release-in-feb-revolutionizing-the-purchase-experience-techradar/"><u>Anticipating Apple's Vision Pro Release in Feb: Revolutionizing the Purchase Experience | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-app-deletion-tips-for-managing-software-on-your-samsung-screen/"><u>Effortless App Deletion: Tips for Managing Software on Your Samsung Screen</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-smart-8-plus-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Smart 8 Plus FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-60-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo 60 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simple-way-to-blur-faces-in-picsart/"><u>In 2024, Simple Way To Blur Faces in Picsart</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-time-configuration-for-your-kindle-paperwhite-a-comprehensive-tutorial/"><u>Mastering Time Configuration for Your Kindle Paperwhite – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-windows-compatibility-problems-with-your-ds4-controller-fix-here/"><u>Overcoming Windows Compatibility Problems With Your DS4 Controller (Fix Here!)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-playstation-5-tactics-for-achieving-a-buttery-smooth-120-fps-experience/"><u>Revolutionize Your PlayStation 5: Tactics for Achieving a Buttery-Smooth 120 FPS Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-transition-moving-your-memories-from-google-photos-to-icloud/"><u>Seamless Transition: Moving Your Memories From Google Photos to iCloud</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-composing-and-sharing-audio-messages-on-iphones/"><u>Step-by-Step Instructions for Composing and Sharing Audio Messages on iPhones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-for-sending-emojis-from-an-iphone-device/"><u>The Ultimate How-To for Sending Emojis From an iPhone Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-windows-11s-look-a-tutorial-on-changing-taskbar-colors/"><u>Transforming Windows 11'S Look: A Tutorial on Changing Taskbar Colors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-terminating-your-paramountplus-membership-seamlessly/"><u>Ultimate Guide: Terminating Your Paramount+ Membership Seamlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-your-browsers-cache-on-any-platform-a-complete-tutorial/"><u>Clear Your Browser's Cache on Any Platform - A Complete Tutorial</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cutting-edge-platforms-for-digital-transformation-into-nft-tokens/"><u>Cutting-Edge Platforms for Digital Transformation Into NFT Tokens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-and-addressing-error-0x80004005-a-troubleshooting-blueprint/"><u>Deciphering and Addressing Error 0X80004005 – A Troubleshooting Blueprint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-to-resolve-windows-code-31-issues/"><u>Essential Steps to Resolve Windows Code 31 Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-common-problems-when-using-iphone-guided-access-mode/"><u>How to Fix Common Problems when Using iPhone Guided Access Mode</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-c12-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia C12 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-iphone-x-identity-verification-restoring-biometric-lock/"><u>Mastering iPhone X Identity Verification Restoring Biometric Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/missing-facebook-marketplace-find-out-why-and-fix-it-now/"><u>Missing Facebook Marketplace? Find Out Why and Fix It Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-shift-critical-questions-for-aspiring-electric-car-buyers/"><u>Navigating the Shift: Critical Questions for Aspiring Electric Car Buyers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-audio-disruptions-your-guide-to-a-smooth-soundscape-in-dying-light/"><u>Solving Audio Disruptions: Your Guide to a Smooth Soundscape in Dying Light</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sturdy-yet-inexpensive-the-verdict-on-the-omotein-t1-tablet-holder/"><u>Sturdy Yet Inexpensive: The Verdict on the Omotein T1 Tablet Holder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-androids-smart-ai-capabilities-unveiling-system-intelligence/"><u>Understanding Android's Smart AI Capabilities – Unveiling System Intelligence</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-itel-a60s-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Itel A60s Phones</u></a></li>
 </ul></div>
 

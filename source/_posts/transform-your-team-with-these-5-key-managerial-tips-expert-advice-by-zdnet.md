@@ -1,7 +1,7 @@
 ---
 title: Transform Your Team with These 5 Key Managerial Tips - Expert Advice by ZDNet
-date: 2024-09-18 13:15:34
-updated: 2024-09-20 12:51:47
+date: 2024-10-02T19:15:11.027Z
+updated: 2024-10-07T17:38:10.849Z
 tags:
   - work-life
 categories:
@@ -29,6 +29,19 @@ Al-Kudcy says people respond well to managers who are authentic and who show the
 
 "So, it's about demonstrating that I'm able to say, 'I'm not perfect, I did get that wrong, I own up to that.' And that level of honesty just breeds a better working environment for other people."
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Recognize that good is better than perfect
 
 Jeff Singman, executive vice president of technology at Arkos Health, says effective leaders understand that everyone in their team has individual strengths and weaknesses. An effective management style comes from putting people in the right kind of position, where they can work with confidence and start to excel.
@@ -41,6 +54,13 @@ Singman also believes that leading people effectively is about more than just se
 
 "You've just got to tailor your environment," he says. "You've got to set boundaries, guidelines, and rules. We're agile, we're innovative, we're a unicorn healthcare business. And the way we achieve innovation is through flexibility and creativity, working together, and showing mutual respect."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Celebrate success
 
 Prakash Rao, group head of supply chain projects at retail and hospitality giant Landmark Group, says good managers recognize that their team is their strength. 
@@ -52,6 +72,13 @@ Also:
 Rao says good managers ensure their staff continue to receive training and development, so they can learn new skills and deliver great results. And when those staff members achieve something, it's vital to build enthusiasm through rewards, recognition, and a supportive, happy culture. 
 
 "Every month, we celebrate success," he says. "We call out people who have done well to keep the team motivated. Ultimately, managers need to have a sense of humor. Your team should be happy to come in to work every morning. A happy employee means a happy customer."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Engage with people constantly
 
@@ -66,6 +93,13 @@ Pourrat says some of his previous C-suite roles came with the trappings of a sen
 Pourrat says earlier experiences helped shape his engaged approach. He worked in the Middle East as a CPO for several years. When he visited his procurement team for the first time in one role, they were surprised to see him take the time to leave the C-suite and engage in their space.
 
 "They said, 'That's not the way it works in this business. Usually, we go to see the executive team and it's rarely the executive team that are coming down to see us.' And I said, 'Well, you will have to deal with that, because that's the way I'm working.' And then when I left the role, several of them said to me, 'The thing that we will miss the most is you coming to see us.'"
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Be clear about expectations
 
@@ -108,11 +142,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-turn-techniques-flipping-your-photos-and-gaining-followers/"><u>[New] 2024 Approved Insta-Turn Techniques Flipping Your Photos and Gaining Followers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-virtually-vivacious-top-humorous-memes-for-the-metaverse-enthusiasts-for-2024/"><u>[New] Virtually Vivacious Top Humorous Memes for the Metaverse Enthusiasts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-videography-with-top-instagram-techniques/"><u>[Updated] 2024 Approved Elevate Your Videography with Top Instagram Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-samsung-gear-360-alternatives-updated-list-2023/"><u>2024 Approved Samsung Gear 360 Alternatives Updated List 2023</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-guide-to-cutting-edge-activity-monitors-dominating-2024/"><u>A Comprehensive Guide to Cutting-Edge Activity Monitors Dominating 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aqua-exploration-at-your-will-discover-the-insta360-one-x2-review/"><u>Aqua Exploration at Your Will - Discover the Insta360 One X2 Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customizing-windows-11-taskbar-color-expert-strategies-and-techniques/"><u>Customizing Windows 11 Taskbar Color: Expert Strategies and Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fixes-a-step-by-step-guide-to-refresh-your-samsung-soundbars-performance/"><u>Easy Fixes: A Step-by-Step Guide to Refresh Your Samsung Soundbar's Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-the-most-effective-parental-controls/"><u>Expert Picks: The Most Effective Parental Controls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gamers-dream-the-elite-consoles-dominating-2024/"><u>Gamer's Dream: The Elite Consoles Dominating 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-7740-driver-installation-guide/"><u>HP Officejet 7740 Driver Installation Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-building-a-successful-facebook-charity-competition/"><u>In 2024, Building a Successful Facebook Charity Competition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-ps-vr-with-a-personal-computer/"><u>Step-by-Step Guide: Setting Up Your PS VR with a Personal Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-big-thing-in-transportation-apple-car-info-update-pricing-estimates-launch-dates-and-technical-specs-revealed/"><u>The Next Big Thing in Transportation - Apple Car Info Update: Pricing Estimates, Launch Dates & Technical Specs Revealed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-repairing-screen-image-retention-on-all-displays/"><u>Ultimate Guide to Repairing Screen Image Retention on All Displays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-typing-the-universal-symbol-of-love/"><u>Ultimate Guide: Typing the Universal Symbol of Love</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722887084254-unveiling-the-best-ai-alternatives-to-chatgpt-countdown-of-10/"><u>Unveiling the Best AI Alternatives to ChatGPT - Countdown of 10!</u></a></li>
+</ul></div>
+

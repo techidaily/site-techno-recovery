@@ -1,7 +1,7 @@
 ---
 title: "Inside the Hushed Collaboration: Qualcomm Unveils Its Joint Venture with Samsung & Google on AR Smart Glasses - A Dive Into the Future"
-date: 2024-09-19 14:28:34
-updated: 2024-09-20 11:23:48
+date: 2024-10-01T17:22:10.327Z
+updated: 2024-10-07T17:34:22.875Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,36 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-your-starting-guide-to-tiktok-macos-basics/"><u>[Updated] 2024 Approved Your Starting Guide to TikTok (macOS) Basics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-revolutionizing-video-content-youtube-marketings-top-5-secrets/"><u>[Updated] In 2024, Revolutionizing Video Content YouTube Marketing's #Top 5 Secrets</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-celebrated-scripts-spanning-eight-movie-segments/"><u>2024 Approved Celebrated Scripts Spanning Eight Movie Segments</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-apple-tv-4k-series-third-gen-model-evaluation/"><u>Comprehensive Apple TV 4K Series - Third Gen Model Evaluation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enjoy-barcelona-2024-olympiad-from-home-a-comprehensive-guide-to-live-streaming/"><u>How to Enjoy Barcelona 2024 Olympiad From Home - A Comprehensive Guide to Live Streaming</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-mx150-driver-version-for-windows-free-download-guide/"><u>Latest NVIDIA MX150 Driver Version for Windows - Free Download Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-external-drives-compatible-usage-with-your-xbox-one-system/"><u>Mastering External Drives: Compatible Usage with Your Xbox One System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-privacy-a-complete-tutorial-for-purging-cache-in-major-internet-explorers/"><u>Mastering Privacy: A Complete Tutorial for Purging Cache in Major Internet Explorers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/most-amazing-discounts-on-oneplus-during-cyber-week-shopping/"><u>Most Amazing Discounts on OnePlus During Cyber Week Shopping</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflix-not-playing-right-19-effective-strategies-to-fix-streaming-issues-on-lg-screens/"><u>Netflix Not Playing Right? 19 Effective Strategies to Fix Streaming Issues on LG Screens</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-repair-for-video-customer-testimonial/"><u>Stellar Repair for Video - Customer Testimonial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-remedies-to-correct-ntfs-boot-files-ntldr-errors/"><u>Step-by-Step Remedies to Correct NTFS Boot Files (NTLDR) Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-enhancing-email-management-in-gmail/"><u>Ultimate Guide to Enhancing Email Management in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-iphone-15s-moisture-protection-capabilities/"><u>Understanding iPhone 15'S Moisture Protection Capabilities</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

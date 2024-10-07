@@ -1,7 +1,7 @@
 ---
 title: The Impact of Meta's New Image-Recognition AI Model on Technology and Society | ZDNet Insights
-date: 2024-09-17 16:28:18
-updated: 2024-09-20 11:28:12
+date: 2024-10-06T18:30:25.635Z
+updated: 2024-10-07T19:37:36.971Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,32 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-chronoscape-controls-rewinding-iphone-footage-efficiently/"><u>[New] 2024 Approved Chronoscape Controls Rewinding iPhone Footage Efficiently</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-amplifying-obs-visual-appeal-with-free-high-quality-luts/"><u>2024 Approved Amplifying OBS Visual Appeal with Free, High-Quality LUTs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-infinix-hot-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Infinix Hot 30 5G</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-screen-with-adobe-captive/"><u>How To Record Screen With Adobe Captive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-iphone-recovery-mode-how-to-access-and-disable-safely/"><u>Mastering iPhone Recovery Mode: How to Access and Disable Safely</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-steams-disk-write-failure-a-step-by-step-guide/"><u>Resolving Steam's Disk Write Failure: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-when-phone-app-shows-numbers-not-names-for-callers/"><u>Solution: When Phone App Shows Numbers Not Names for Callers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-iphone-xr-error-14-issue-a-step-by-step-guide/"><u>Solving the iPhone XR 'Error 14' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-on-creating-a-trusted-domain-blacklist-within-macs-mail-application-for-optimal-protection/"><u>The Ultimate Tutorial on Creating a Trusted Domain Blacklist Within Mac's Mail Application for Optimal Protection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-your-mac-reveal-hidden-files-using-terminal/"><u>Unlocking the Secrets of Your Mac: Reveal Hidden Files Using Terminal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-our-selection-of-great-family-movies-streaming-now-on-amazon-prime-video/"><u>Watch Our Selection of Great Family Movies Streaming Now on Amazon Prime Video!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Updating to the Newest FreeLibreOffice on Linux Systems
-date: 2024-09-19 22:58:13
-updated: 2024-09-20 10:37:52
+date: 2024-09-30T18:42:50.597Z
+updated: 2024-10-07T19:10:26.040Z
 tags:
   - work-life
 categories:
@@ -43,6 +43,13 @@ With that said, let's get to the steps.
 
 **What you'll need:** You'll only need three things for this - a running instance of an RHEL-based distribution (I'll demonstrate with Fedora 38), a user with sudo privileges, and an internet connection. That's it. Let's get to work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Download the latest version of LibreOffice
 
 The first thing to do is to download the latest version of LibreOffice. Open your web browser, head over to the [LibreOffice download page](https://www.libreoffice.org/download/download-libreoffice/), and download the RPM version of the software. Make sure to save the file in your Downloads folder.
@@ -51,6 +58,13 @@ Make sure to download the RPM version for RHEL-based distributions and the DEB v
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Unpack the file
 
 Once the download is finished, you must open your file manager and navigate to the Downloads folder. Right-click the file that ends with .tar.gz. From the popup menu, select Extract. This will create a new directory that starts with LibreOffice. Change into that newly-created directory and then change into the child directory within (that also starts with LibreOffice).
@@ -58,6 +72,13 @@ Once the download is finished, you must open your file manager and navigate to t
 Extracting the downloaded LibreOffice file in the GNOME file manager.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Open a terminal and install the software
 
@@ -70,6 +91,13 @@ Once the command completes, you can close the terminal and delete both the downl
 A successful LibreOffice installation.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Installing on Ubuntu
 
@@ -102,11 +130,27 @@ And that's all there is to installing the latest version of LibreOffice on eithe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-achieving-a-noiseless-presence-on-social-video-platforms/"><u>[New] 2024 Approved Achieving a Noiseless Presence on Social Video Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-enhance-your-content-filmmaking-for-youtube-trailers-with-filmora/"><u>[New] In 2024, Enhance Your Content Filmmaking for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition/"><u>[New] In 2024, Unlock High-End Visuals A Practical Guide for SDR to HDR Transition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-stealthy-guide-secretly-recording-video-chats-on-snapchat/"><u>1. Stealthy Guide: Secretly Recording Video Chats on Snapchat</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-deciphering-the-block-code-on-snapchat/"><u>2024 Approved Deciphering the Block Code on Snapchat</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/does-the-iphone-13-offer-protection-against-accidental-dunking/"><u>Does the iPhone 13 Offer Protection Against Accidental Dunking?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-8-desktop-images-to-personalize-your-mbp/"><u>In 2024, Ideal 8 Desktop Images to Personalize Your MBP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-inbox-the-ultimate-how-to-for-turning-on-google-mail-2fa/"><u>Protecting Your Inbox: The Ultimate How-To for Turning On Google Mail 2FA</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-digital-life-with-these-amoulti-faceted-free-backup-programs-evaluated-for-you/"><u>Secure Your Digital Life with These Amo(u)lti-Faceted Free Backup Programs, Evaluated for You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/silencing-telemarketers-tips-to-halt-unwanted-texts-on-ios-devices/"><u>Silencing Telemarketers: Tips to Halt Unwanted Texts on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722889029297-tackling-troublesome-subwoofer-whirring-expert-fixes-revealed/"><u>Tackling Troublesome Subwoofer Whirring: Expert Fixes Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722880912678-upcoming-touchscreen-macbook-revealed-learn-about-the-projected-costs-and-launch-timeline/"><u>Upcoming Touchscreen MacBook Revealed - Learn About the Projected Costs & Launch Timeline!</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-narzo-60-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme Narzo 60 5G? Here is How | Dr.fone</u></a></li>
+</ul></div>
+

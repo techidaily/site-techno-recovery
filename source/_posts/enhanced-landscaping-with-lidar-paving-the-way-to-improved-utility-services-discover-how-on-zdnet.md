@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Landscaping with Lidar: Paving the Way to Improved Utility Services - Discover How on ZDNET"
-date: 2024-09-17 23:20:48
-updated: 2024-09-20 10:16:12
+date: 2024-10-06T19:34:04.491Z
+updated: 2024-10-07T19:23:44.542Z
 tags:
   - yard-outdoors
 categories:
@@ -20,6 +20,13 @@ Maria Diaz/ZDNET
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +86,13 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +104,13 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +137,33 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-details-on-the-new-apple-personal-robot-pricing-strategy-expected-release-timeline-specs-insights-and-rumored-information/"><u>Anticipated Details on the New Apple Personal Robot - Pricing Strategy, Expected Release Timeline, Specs Insights, and Rumored Information</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-restoring-lost-or-deleted-messages-on-your-gmail-account/"><u>Complete Guide: Restoring Lost or Deleted Messages on Your Gmail Account</u></a></li>
+<li><a href="https://article-files.techidaily.com/crafting-captivating-chronicles-the-worlds-best-schools-top-8-for-2024/"><u>Crafting Captivating Chronicles The World's Best Schools (Top 8) for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-with-drivers-brother-mfc-l2700dw-printer-software-for-windows-users/"><u>Easy Installation Guide with Drivers: Brother MFC-L2700DW Printer Software for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-ways-to-correct-magic-mouse-movement-errors/"><u>Effortless Ways to Correct Magic Mouse Movement Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminating-msvbvm50dll-errors-a-detailed-guide-to-restoring-your-systems-stability/"><u>Eliminating MSVBVM50.DLL Errors: A Detailed Guide to Restoring Your System's Stability</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-diagnose-and-repair-ntdlldll-glitches-on-windows-10-8-7-etc/"><u>How to Diagnose and Repair ntdll.dll Glitches on Windows 10, 8, 7, Etc.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-6s-plus-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 6s Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-c67-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme C67 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-look-at-srt-knowledge-for-all-levels/"><u>In-Depth Look at SRT Knowledge for All Levels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-through-the-best-of-2024-our-selection-of-premier-news-aggregator-platforms/"><u>Navigate Through the Best of 2024: Our Selection of Premier News Aggregator Platforms</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-realme-12-proplus-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme 12 Pro+ 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-two-step-verification-in-gmail-a-step-by-step-guide/"><u>Setting Up Two-Step Verification in Gmail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-your-amazon-prime-caption-problems-easily-and-effectively/"><u>Solve Your Amazon Prime Caption Problems Easily and Effectively</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-f5-pro-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from F5 Pro 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-10-unveiling-the-latest-rumors-on-release-dates-pricing-and-specifications/"><u>Upcoming Google Pixel 10: Unveiling the Latest Rumors on Release Dates, Pricing & Specifications</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-volume-controls-with-adobe-premiere-pro-on-windows-for-2024/"><u>Updated Mastering Volume Controls with Adobe Premiere Pro on Windows for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-realtek-audio-software-on-dell-systems/"><u>Updating Realtek Audio Software on Dell Systems</u></a></li>
+</ul></div>
+

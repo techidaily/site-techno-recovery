@@ -1,7 +1,7 @@
 ---
 title: "The Science Behind OLEDs: Unraveling How They Illuminate Our Screens"
-date: 2024-09-29T04:18:52.900Z
-updated: 2024-10-02T07:30:34.252Z
+date: 2024-09-30T17:10:56.268Z
+updated: 2024-10-07T20:12:09.584Z
 categories:
   - BestProducts
 description: "This Article Describes The Science Behind OLEDs: Unraveling How They Illuminate Our Screens"
@@ -26,16 +26,10 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
  This is the main reason more and more devices use OLED screens, including smartphones, wearables, TVs, tablets,[monitors](https://www.lifewire.com/what-is-a-monitor-2618155) , and digital cameras. Among those devices and others are two kinds of OLED displays that are controlled in different ways, called_active-matrix_ (AMOLED) and_passive-matrix_ (PMOLED).
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How OLED Works
@@ -46,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 
 ![Photo of a smartphone taking a photo of strawberries](https://www.lifewire.com/thmb/PqVU54yGcABkraCEnq6HLdNQ0A0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  pbombaert / Getty Images
 
  The color of the light that's seen on the OLED display is affected by red, green, and blue layers attached to the substrate. When color is to be black, the pixel can be turned off to ensure that no light is generated for that pixel.
@@ -60,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
  This method to create black is very different than the one used with LED. When a to-be black pixel is set to black on an LED screen, the pixel shutter is closed but the backlight is still emitting light, meaning it never quite goes all the way dark.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OLED Pros
@@ -78,10 +65,16 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 * The absence of any excess layers allows for curved and bendable displays.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OLED Cons
@@ -91,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 * Since part of the display is organic, OLEDs show color degradation over time, which affects the overall screen brightness and color balance. This gets worse with time since the material required for making blues decays at a quicker rate than reds and greens.
 * OLED screens are expensive to make, at least compared to older technology.
 * Both OLED and LED displays experience screen burn-in if particular pixels are used for too long over a long period of time, but the effect is greater on OLEDs. However, this effect is in part determined by the number of [pixels per inch](https://www.lifewire.com/how-many-pixels-in-an-inch-4125185) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More Information on OLED
 
@@ -146,22 +146,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-7-android-apps-to-eliminate-intrusive-ads/"><u>[New] 2024 Approved Essential 7 Android Apps to Eliminate Intrusive Ads</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mastering-google-meeting-documentation-a-time-saving-guide/"><u>[New] 2024 Approved Mastering Google Meeting Documentation A Time-Saving Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unlocking-google-meet-a-comprehensive-no-cost-host-and-participant-manual/"><u>[New] Unlocking Google Meet A Comprehensive No-Cost Host & Participant Manual</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-8-family-monitoring-applications-for-online-security-2e4rly-reviewed/"><u>Best 8 Family Monitoring Applications for Online Security - 2E4rly Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/disabling-your-facebook-account-from-an-android-device-a-step-by-step-guide/"><u>Disabling Your Facebook Account From an Android Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-work-with-slack-a-comprehensive-guide/"><u>Mastering the Art of Work with Slack: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-dsounddll-not-detected-mishaps-with-proven-tips-and-tricks/"><u>Overcoming 'dsound.dll Not Detected' Mishaps with Proven Tips & Tricks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/poll-power-players-guide-quintessential-voting-simulations-for-2024/"><u>Poll Power Players' Guide Quintessential Voting Simulations for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-11-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme 11 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-the-fixes-when-you-cant-find-facebook-marketplace/"><u>Solving the Mystery: The Fixes When You Can't Find Facebook Marketplace</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-building-a-portable-wireless-movie-hub-for-students-rooms/"><u>Step-by-Step Tutorial on Building a Portable Wireless Movie Hub for Students' Rooms</u></a></li>
-<li><a href="https://solve-help.techidaily.com/trasforma-i-tuoi-dvd-in-formato-hd-senza-problemi-tecniche-avanzate-di-ripping-e-correzione-h2650334hevc/"><u>Trasforma I Tuoi DVD in Formato HD Senza Problemi – Tecniche Avanzate Di Ripping E Correzione H.2#65033;4/HEVC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-the-d3dx927dll-cant-be-located-mishap/"><u>Troubleshooting Steps for the 'd3dx9_27.dll' Can't Be Located Mishap</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-team-meeting-applications/"><u>Ultimate Selection of Team Meeting Applications</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-panning-for-priceless-pieces-in-open-source-archives/"><u>[New] 2024 Approved Panning for Priceless Pieces in Open-Source Archives</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-how-to-download-part-of-a-youtube-videos-in-2024/"><u>[New] How to Download Part of a YouTube Videos, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-science-behind-time-warp-visuals/"><u>[New] In 2024, The Science Behind Time Warp Visuals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-leaving-no-trace-on-insta-permanent-deactivation-101/"><u>[New] Leaving No Trace on Insta Permanent Deactivation 101</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-construction-tips-for-mc-community-abodes-for-2024/"><u>[Updated] Prime Construction Tips for MC Community Abodes for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-and-repair-netflix-glitch-code-nw-30-19-for-hassle-free-watching/"><u>Decode and Repair Netflix Glitch Code NW-30-19 for Hassle-Free Watching</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-details-of-lg-communication-pathways/"><u>Decoding the Details of LG Communication Pathways</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-definition-vision-saving-tech/"><u>High Definition Vision Saving Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-top-8-collaborative-affordable-android-video-mosaics/"><u>In 2024, Exploring the Top 8 Collaborative, Affordable Android Video Mosaics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/list-of-ipad-versions-with-integrated-gps-capabilities/"><u>List of iPad Versions with Integrated GPS Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-roku-tv-step-by-step-instructions/"><u>Ultimate Guide: Connecting Your Roku TV - Step-by-Step Instructions</u></a></li>
 </ul></div>
 

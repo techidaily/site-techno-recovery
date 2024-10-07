@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hybrid & In-Office Work: Strategies for Sustaining Employee Engagement | ZDNet Insights"
-date: 2024-09-19 21:58:23
-updated: 2024-09-20 12:27:54
+date: 2024-10-02T17:18:58.724Z
+updated: 2024-10-07T16:57:55.932Z
 tags:
   - work-life
 categories:
@@ -25,6 +25,13 @@ So, how can companies create an effective balance between home and office work? 
 
 Athina Kanioura, chief strategy and transformation officer at PepsiCo, agrees hybrid working is here to stay and wants to make it a success.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Securing Data in a Hybrid World Data security was a rising concern before the pandemic. Today, the new era of hybrid work has only intensified the issue, with far more employees now splitting time between the office and remote work. Innovative new security solutions and approaches are needed to rise to the challenge.  Read now](https://www.zdnet.com/collection/securing-data-in-a-hybrid-world/)
@@ -40,6 +47,13 @@ She believes new workers must meet and connect in person regularly, so her team 
 **Also:** [**New job? Here are 5 ways to make a great first impression**](https://www.zdnet.com/home-and-office/work-life/new-job-here-are-5-ways-to-make-a-great-first-impression/)
 
 Kanioura's staff use their time at HQ to engage productively through meetings and one-to-ones. Home working is for developing insight on projects; office working is for taking action. "When we make a decision, we have to be together -- because we have to debate, we have to argue, and we have to drive to an ultimate outcome," she says. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use your time in the office to share ideas
 
@@ -73,6 +87,13 @@ Picking the right channel to foster those interactions is also crucial.
 
 "So, there are different nuances for everyone now," Al-Kudcy adds. "And the physical interaction is still needed, for sure. I think the physical interaction is more important for long-term relationships and the people you work with on a day-to-day basis, rather than just the one-off meetings."
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Get remote workers together to build a conversation
 
 Matthew Lawson, chief digital officer at Ribble Cycles, says he's focused on "building a conversation" for people who are working away from the office.
@@ -88,6 +109,13 @@ Instead, Lawson encourages an informal online get-together, where the whole team
 "The team has a laugh; they get interaction, and they see faces that they don't get to see because they're not in the office walking past. We need to encourage more of that," he says.
 
 "I like meandering conversations to happen and that's hard to do remotely. But I feel like, if we can crack collaboration, then a hybrid approach will ultimately prevail."
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Let people decide what works best for them
 
@@ -139,11 +167,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streamlining-video-dispatch-to-facebook-from-youtube/"><u>[Updated] In 2024, Streamlining Video Dispatch to Facebook From YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlocking-mobile-tech-how-to-record-your-snapchat-content/"><u>[Updated] In 2024, Unlocking Mobile Tech How to Record Your Snapchat Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-hd-playback-on-social-media-fb/"><u>[Updated] Maximizing HD Playback on Social Media (FB)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridging-platforms-a-step-by-step-tutorial-for-using-android-apps-on-windows-11/"><u>Bridging Platforms: A Step-by-Step Tutorial for Using Android Apps on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-smart-home-assistants-google-assistant-and-alexa-face-off/"><u>Comparing Smart Home Assistants: Google Assistant and Alexa Face-Off</u></a></li>
+<li><a href="https://win-able.techidaily.com/cs-go-players-guide-fixing-no-user-logon-error-with-5-proven-techniques/"><u>CS GO Players Guide: Fixing No-User-Logon Error with 5 Proven Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-for-enabling-cookie-support-on-any-browser/"><u>Easy Instructions for Enabling Cookie Support on Any Browser</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-power-problems-restoring-charge-to-your-playstation-5-controller/"><u>Fixing Power Problems: Restoring Charge to Your PlayStation 5 Controller</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-meizu-21-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Meizu 21 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-vibrant-visuals-with-post-color-techniques/"><u>In 2024, Unlocking Vibrant Visuals with Post-Color Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-repairing-wi-fi-issues-on-the-surface-pro/"><u>Step-by-Step Guide: Repairing Wi-Fi Issues on the Surface Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-resetting-an-iphone-that-forgot-its-password/"><u>Step-by-Step Instructions for Resetting an iPhone That Forgot Its Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-error-code-0x80070570-a-detailed-guide-on-resolution-steps/"><u>Understanding Error Code 0X80070570 - A Detailed Guide on Resolution Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-wifi-protocols-a-comprehensive-guide-to-80211be-ax-ac-bgn-and-a/"><u>Understanding WiFi Protocols: A Comprehensive Guide to 802.11Be, Ax, Ac, B/G/N & A</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-poetry-masterpieces-using-chatgpt-techniques/"><u>Writing Poetry Masterpieces Using ChatGPT Techniques</u></a></li>
+</ul></div>
+

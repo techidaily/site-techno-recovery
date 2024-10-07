@@ -1,7 +1,7 @@
 ---
 title: Apple's New AR/VR Gear Misses the Mark for a Workout Warrior | Insights From ZDNET
-date: 2024-09-16T17:57:07.781Z
-updated: 2024-09-21T01:39:42.034Z
+date: 2024-09-30T17:14:17.555Z
+updated: 2024-10-07T19:20:42.551Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-visualtwitter-quickly-download-and-share-videos-on-mobile-for-2024/"><u>[Updated] VisualTwitter Quickly Download and Share Videos on Mobile for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-digital-video-recorders-a-comprehensive-overview-for-beginners/"><u>Demystifying Digital Video Recorders: A Comprehensive Overview for Beginners</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-efficient-methods-for-sharing-powerful-ppt-in-google-meet-sessions/"><u>In 2024, Efficient Methods for Sharing Powerful PPT in Google Meet Sessions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-insight-on-sierras-icloud-drive-accessibility/"><u>In 2024, Expert Insight on Sierra's iCloud Drive Accessibility</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-avatar-online-for-2024/"><u>New Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-dead-machines-how-to-resurrect-a-computer-with-no-sign-of-life/"><u>Reviving Dead Machines: How to Resurrect a Computer with No Sign of Life</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/stream-and-save-securely-download-tv-series-and-films-using-watch-episodestvs-reliable-downloader-tool/"><u>Stream and Save - Securely Download TV Series & Films Using Watch-Episodes.TV's Reliable Downloader Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-new-wave-of-innovation-detailed-coverage-of-upcoming-samsung-galaxy-z-flip-7s-rumored-features-and-market-arrival-predictions/"><u>The New Wave of Innovation: Detailed Coverage of Upcoming Samsung Galaxy Z Flip 7'S Rumored Features and Market Arrival Predictions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/triumphing-over-daunting-adversaries-how-to-defeat-a-lynel-in-the-legendary-zelda-botw/"><u>Triumphing Over Daunting Adversaries: How To Defeat A Lynel In The Legendary Zelda BOTW</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

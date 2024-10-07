@@ -1,7 +1,7 @@
 ---
 title: Top 4 Innovative Features of the New iPhone 16 That Propel Its Superiority Over Previous Models - Insights From ZDNet
-date: 2024-09-27T03:22:26.534Z
-updated: 2024-10-01T16:22:30.767Z
+date: 2024-10-06T17:05:01.515Z
+updated: 2024-10-07T18:07:54.609Z
 tags:
   - apple
 categories:
@@ -39,10 +39,16 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +62,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +87,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,15 +135,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unlocking-windows-10-sound-capabilities/"><u>[Updated] 2024 Approved Unlocking Windows 10 Sound Capabilities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/achieving-top-ranking-visibility-on-apple-tv-channels/"><u>Achieving Top Ranking Visibility on Apple TV Channels</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-t2-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo T2 Pro 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/easy-way-change-clownfish-tone-in-windows/"><u>Easy Way Change Clownfish Tone in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-deleting-your-pcs-windows-recovery-section/"><u>Expert Tips on Deleting Your PC's Windows Recovery Section</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-8-pitfalls-of-relying-solely-on-artificer-bots-for-content-writing/"><u>Exploring the 8 Pitfalls of Relying Solely on Artificer Bots for Content Writing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-professional-mobile-photography-strategies/"><u>In 2024, Professional Mobile Photography Strategies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-espnpluss-world-class-streaming-service-features-and-functionality-explained/"><u>Inside ESPN+'s World-Class Streaming Service: Features and Functionality Explained</u></a></li>
-<li><a href="https://article-tips.techidaily.com/melodic-mastery-for-game-dominance-in-free-fire-for-2024/"><u>Melodic Mastery for Game Dominance in Free Fire for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722899018720-step-by-step-fix-for-stop-code-0x0000007b-no-more-blue-screen-woes/"><u>Step-by-Step Fix for Stop Code 0X0000007B – No More Blue Screen Woes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-clickbait-curator-supreme/"><u>2024 Approved Clickbait Curator Supreme</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-latest-innovation-unveiling-the-apple-watch-series-8-launch-details-and-pricing/"><u>Apple's Latest Innovation: Unveiling the Apple Watch Series 8 - Launch Details & Pricing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/conquering-the-rails-elite-techniques-in-subway-surfers/"><u>Conquering the Rails: Elite Techniques in Subway Surfers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/contemporary-verbiage-slang-definitions-for-modern-english/"><u>Contemporary Verbiage: Slang Definitions for Modern English</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-the-tiers-of-royal-match-how-many-layers-does-it-have/"><u>Deciphering the Tiers of 'Royal Match': How Many Layers Does It Have?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-finest-websites-selling-modern-televisions/"><u>Discover the Finest Websites Selling Modern Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-getting-your-vizio-tv-online-again-via-wi-fi-connectivity-solutions/"><u>Expert Tips for Getting Your Vizio TV Online Again via Wi-Fi Connectivity Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exploring-updates-to-sonys-s6500-model-for-2024/"><u>Exploring Updates to Sony's S6500 Model for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facebook-unveiled-the-journey-from-creation-to-mass-following-with-a-look-at-its-key-aspects/"><u>Facebook Unveiled: The Journey From Creation to Mass Following with a Look at Its Key Aspects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-activate-moonlight-display-options-in-iphone-settings/"><u>How to Activate Moonlight Display Options in iPhone Settings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-se-2022-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone SE (2022)</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-13-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 13 mini/iPad? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-review-unveiling-the-potential-of-vidma-capture-tech/"><u>In 2024, Review Unveiling the Potential of Vidma Capture Tech</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-step-into-innovation-top-10-youtube-vr-creations/"><u>In 2024, Step Into Innovation Top 10 YouTube VR Creations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-go-to-list-of-exclusive-amazon-prime-day-technology-steals/"><u>Your Go-To List of Exclusive Amazon Prime Day Technology Steals</u></a></li>
 </ul></div>
 

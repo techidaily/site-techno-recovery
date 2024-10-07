@@ -1,7 +1,7 @@
 ---
 title: Creating Your Own Camera Obscura for Safe Solar Eclipse Viewing - Tutorial
-date: 2024-09-19 17:19:31
-updated: 2024-09-20 12:56:51
+date: 2024-10-02T19:52:55.380Z
+updated: 2024-10-07T18:23:01.370Z
 tags:
   - yard-outdoors
 categories:
@@ -68,11 +68,34 @@ The Govee Permanent Outdoor Lights 2 are available for purchase right now. The 5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-innovations-in-capturing-high-quality-facetime-calls/"><u>[New] In 2024, Innovations in Capturing High-Quality FaceTime Calls</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-speaking-and-visualizing-in-powerpoint/"><u>[Updated] 2024 Approved The Ultimate Guide to Speaking & Visualizing in PowerPoint</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-easy-alteration-rotate-film-frames-with-vlc-for-2024/"><u>[Updated] Easy Alteration Rotate Film Frames with VLC for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ankers-discounted-portable-laptop-docking-stations-your-next-must-have-tech-accessory/"><u>Anker's Discounted Portable Laptop Docking Stations: Your Next Must-Have Tech Accessory!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-farewell-bid-adieu-to-one-of-its-most-enduring-and-successful-devices/"><u>Apple Farewell: Bid Adieu to One of Its Most Enduring and Successful Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/coming-soon-windows-10-eol-approaches-explore-alternative-operating-systems/"><u>Coming Soon: Windows 10 EOL Approaches – Explore Alternative Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creating-a-bootable-ubuntu-stick-with-etcher-on-any-pc/"><u>Creating a Bootable Ubuntu Stick with Etcher on Any PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-unseen-macos-auto-complete-trick-a-hidden-gem-in-keyboard-customization/"><u>Discover the Unseen MacOS Auto-Complete Trick: A Hidden Gem in Keyboard Customization</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-free-and-public-domain-name-system-dns-providers-you-can-use/"><u>Top Free & Public Domain Name System (DNS) Providers You Can Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/total-byte-requirement-for-a-days-movie-watching/"><u>Total Byte Requirement for a Day's Movie Watching</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-metas-hidden-edge-in-virtual-reality-a-potential-upper-hand-over-apples-vision-pro-insights-from-zdnet/"><u>Unveiling Meta's Hidden Edge in Virtual Reality: A Potential Upper Hand Over Apple's Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/weekly-briefing-on-iphone-software-enhancements-and-product-recalls/"><u>Weekly Briefing on iPhone Software Enhancements & Product Recalls</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

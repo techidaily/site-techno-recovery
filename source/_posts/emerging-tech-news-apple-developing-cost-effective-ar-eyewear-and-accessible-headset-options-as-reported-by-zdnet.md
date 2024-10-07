@@ -1,7 +1,7 @@
 ---
 title: "Emerging Tech News: Apple Developing Cost-Effective AR Eyewear and Accessible Headset Options as Reported by ZDNET"
-date: 2024-09-29T03:26:08.845Z
-updated: 2024-10-02T01:46:49.569Z
+date: 2024-10-04T19:19:32.928Z
+updated: 2024-10-07T17:27:46.888Z
 tags:
   - apple
 categories:
@@ -91,13 +91,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -113,13 +106,6 @@ Lenovo/ZDNET
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals during Prime Day
 
 Kyle Kucharski/ZDNET
@@ -128,6 +114,13 @@ Kyle Kucharski/ZDNET
 * [HP Chromebook x360 2-in-1 Laptop for $293 (save $35 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-HD-Touchscreen-2-in-1-Laptop-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Teal-14a-ca0130wm%2F518977383&subId1=zd-__COM_CLICK_ID__-dtp): In [our testing](https://www.zdnet.com/article/this-hp-chromebook-made-living-without-windows-easier-than-i-expected/), we found this 2-in-1 Chromebook easily flexes between a laptop and a tablet, with a large 14-inch screen, comfortable keyboard, and sturdy build.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
 
@@ -140,10 +133,10 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -151,21 +144,22 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
@@ -177,16 +171,22 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -251,19 +251,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-visual-storytellers-complete-vsco-tutorial/"><u>[New] Visual Storyteller's Complete VSCO Tutorial</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimizing-ps4-games-for-live-capture-in-obs/"><u>[Updated] Optimizing PS4 Games for Live Capture in OBS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-max-versus-hero-11-ultimate-review-guide/"><u>2024 Approved GoPro Max Versus Hero 11 Ultimate Review Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/building-a-noteworthy-and-authentic-online-self-image-on-fb/"><u>Building a Noteworthy and Authentic Online Self-Image on FB</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-mastering-remote-connectivity-with-your-samsung-smart-tv/"><u>Complete Guide: Mastering Remote Connectivity with Your Samsung Smart TV</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-navigating-the-world-of-hardware-and-gadgets/"><u>Expert Reviews by Tom: Navigating the World of Hardware and Gadgets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-tricks-for-hitting-paydirt-with-image-discovery-on-facebook/"><u>Expert Tips and Tricks for Hitting Paydirt with Image Discovery on Facebook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-can-i-play-spotify-simultaneously-with-a-friend/"><u>How Can I Play Spotify Simultaneously With a Friend?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/matrix-movie-marathon-enjoy-them-in-their-official-release-order/"><u>Matrix Movie Marathon: Enjoy Them in Their Official Release Order!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protect-your-privacy-by-blocking-no-caller-id-incoming-calls-on-iphone/"><u>Protect Your Privacy by Blocking No Caller ID Incoming Calls on iPhone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-source-to-download-official-elo-touchscreen-driver-supported-by-windows-operating-system/"><u>Secure Source To Download Official Elo Touchscreen Driver Supported by Windows Operating System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-essential-manual-on-leveraging-slack-in-your-workplace-environment/"><u>The Essential Manual on Leveraging Slack in Your Workplace Environment</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-complete-guide-to-record-google-meet-for-free-as-hostpaticipants-for-2024/"><u>[New] Complete Guide to Record Google Meet for Free [As Host/Paticipants] for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-absence-of-recommended-videos-on-facebook/"><u>[New] In 2024, Unveiling Absence of Recommended Videos on Facebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-screen-companionship-the-right-cms-guidebook/"><u>2024 Approved Ultimate Screen Companionship The Right CMS Guidebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-steps-to-perform-a-full-system-restore-on-your-lenovo-notebook/"><u>Complete Guide: Steps to Perform a Full System Restore on Your Lenovo Notebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-remedies-for-restoring-windows-computer-health-evaluation-software-performance/"><u>Effective Remedies for Restoring Windows Computer Health Evaluation Software Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-smooth-video-capture-apple-and-android-apps-compared/"><u>Essential Smooth Video Capture Apple & Android Apps Compared</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-for-thawing-out-a-frozen-macbook-air-instantly/"><u>Expert Advice for Thawing Out a Frozen MacBook Air Instantly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/no-complications-in-hdr-a-thorough-review-for-2024/"><u>No Complications in HDR A Thorough Review for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-users-facing-problems-with-microsoft-edge/"><u>Quick Fixes for Users Facing Problems with Microsoft Edge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-start-10-effective-tips-for-first-time-users-of-formerly-known-as-twitter/"><u>Quick Start: 10 Effective Tips for First-Time Users of Formerly Known as Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolve-your-program-crashes-with-these-fixes-for-the-lost-avcodecdll-errors/"><u>Resolve Your Program Crashes with These Fixes for the Lost avcodec.dll Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snapchat-tutorial-mastering-the-art-of-video-playback-reversal/"><u>Snapchat Tutorial: Mastering the Art of Video Playback Reversal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-resolving-distorted-image-lines-on-televisions/"><u>Step-by-Step Solutions for Resolving Distorted Image Lines on Televisions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-choices-free-and-paid-screen-recorder-tools-for-google-meet/"><u>Top Choices Free & Paid Screen Recorder Tools for Google Meet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-story-behind-netflixs-previous-dvd-rental-business-model/"><u>Unveiling the Story Behind Netflix's Previous DVD Rental Business Model</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-creativity-top-10-free-webm-video-editing-tools/"><u>Updated Unleash Your Creativity Top 10 Free WebM Video Editing Tools</u></a></li>
 </ul></div>
 

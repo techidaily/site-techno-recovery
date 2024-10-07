@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Locating Misplaced AirPods and Preventing Future Losses | ZDNET
-date: 2024-09-25T08:05:18.028Z
-updated: 2024-10-02T07:13:40.546Z
+date: 2024-09-30T17:06:27.653Z
+updated: 2024-10-07T18:00:33.978Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ Those sneaky little earbuds can walk away from us, but luckily the AirPods have 
 ## How to find your lost AirPods
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Set up Find My ASAP
@@ -44,10 +44,10 @@ Nina Raemont/ZDNET
 First and foremost, set up Find My. Find My, one of the native apps on your iPhone and iPad, will become your best friend when you begin a search for lost devices like AirPods or Apple Watches. Note: You'll want to set up Find My as soon as possible, because you can't locate your AirPods through Find My _after_ you've lost them. If your AirPods are already set up on Find My, go to the next step. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open Find My
@@ -56,40 +56,28 @@ Nina Raemont/ZDNET
 
 Open the Find My app, then toggle to the Devices tab to select your AirPods, which you've registered on Find My. If your AirPods are nearby, they'll appear on the map. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Play sound to find AirPods
 
 Nina Raemont/ZDNET
 
 Click the Play Sound feature to locate your earbuds. You'll hear a ringing sound near you. It's important to know that at least one of the two earbuds must be out of its charging case or it won't play a sound. You can play sound for the left and right earbuds by tapping L or R. Once you've found them, you can hit stop. 
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will this work if I've lost my AirPods while they're in the charging case?
 
 If you've lost your AirPods while they're in the charging case, it gets harder to locate them on Find My.The Find My map will show the most recent location where the case was last opened, but won't be updated to their current location if they've been moved since they were last used.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can you locate AirPods that aren't online?
@@ -126,18 +114,22 @@ Unfortunately, no. They need to be online and connected to Find My to easily loc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>[New] 2024 Approved Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unlock-the-secrets-of-youtube-monetization-key-viewer-numbers/"><u>[New] 2024 Approved Unlock the Secrets of YouTube Monetization Key Viewer Numbers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-connecting-consciously-with-content-craftsmen-of-your-realm/"><u>[New] In 2024, Connecting Consciously with Content Craftsmen of Your Realm</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlock-creative-potential-editing-videos-via-windows-photos-and-story-remix/"><u>[Updated] 2024 Approved Unlock Creative Potential Editing Videos via Windows Photos and Story Remix</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hilarityhub-design-memes-with-ease-and-speed/"><u>2024 Approved HilarityHub Design Memes with Ease and Speed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-periscope-filming-made-easy-the-ultimate-how-to/"><u>2024 Approved Periscope Filming Made Easy The Ultimate How-To</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-deep-dive-into-the-rtx-gpu-lineup-insights-and-advancements-by-nvidia-explained/"><u>A Deep Dive Into the RTX GPU Lineup: Insights and Advancements by Nvidia Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-erasing-personal-information-from-your-dell-machine/"><u>Comprehensive Tutorial: Erasing Personal Information From Your Dell Machine</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-how-t-mobile-handles-wireless-roaming-at-home/"><u>Decoding How T-Mobile Handles Wireless Roaming at Home</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-selfie-companion-a-guide-to-picking-the-ideal-selfie-stick-using-our-pro-tips/"><u>Find Your Perfect Selfie Companion - A Guide to Picking The Ideal Selfie Stick Using Our Pro Tips!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/high-quality-fast-downloaders-for-vimeo-content/"><u>High-Quality, Fast Downloaders for Vimeo Content</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-methods-to-refuel-your-phone-battery-in-an-emergency-situation/"><u>Innovative Methods to Refuel Your Phone Battery in an Emergency Situation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/journey-through-gadgets-and-genres-master-your-laptop-phone-and-expand-your-reading-universe/"><u>Journey Through Gadgets & Genres: Master Your Laptop, Phone & Expand Your Reading Universe!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhancing-meeting-success-with-microsoft-teams-snap-camera/"><u>[New] 2024 Approved Enhancing Meeting Success with Microsoft Teams Snap Camera</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-reliable-steps-toward-attaining-safe-and-ethical-one-million-follower-status-for-2024/"><u>[Updated] Reliable Steps Toward Attaining Safe and Ethical One-Million Follower Status for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-windows-11-game-recording-5-methods/"><u>2024 Approved Windows 11 Game Recording [5 Methods]</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-play-7t-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-whats-new-in-windows-july-202-comprehensive-update-roundup-for-optimal-performance/"><u>Discover What's New in Windows (July 202#): Comprehensive Update Roundup for Optimal Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-solutions-resolving-vcompdll-file-not-found-mistake/"><u>Easy Solutions: Resolving 'Vcomp.dll' File Not Found Mistake</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tips-for-bringing-back-a-nonfunctional-instagram-profile/"><u>Essential Tips for Bringing Back a Nonfunctional Instagram Profile</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974710557-graphical-gone-wrong-monster-hunts-fix-successful/"><u>Graphical Gone Wrong? Monster Hunt's Fix Successful</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-deleted-text-messages-on-any-phone/"><u>How to Recover Deleted Text Messages on Any Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-s17-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo S17 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-12plus-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme 12+ 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/multilingual-mastery-harnessing-the-power-of-chatgpt-beyond-english/"><u>Multilingual Mastery: Harnessing the Power of ChatGPT Beyond English</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pairing-made-easy-instructions-for-integrating-your-samsung-infrared-device-with-tvs/"><u>Pairing Made Easy: Instructions for Integrating Your Samsung Infrared Device with TVs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-microsoft-teams-for-video-calls-on-windows-a-comprehensive-guide/"><u>Setting Up Microsoft Teams for Video Calls on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-why-your-ipad-refuses-to-print/"><u>Troubleshooting: Why Your iPad Refuses to Print</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-hidden-gems-shocking-insights-from-10-less-known-emoji-truths/"><u>Unveiling Hidden Gems: Shocking Insights From 10 Less-Known Emoji Truths</u></a></li>
 </ul></div>
 

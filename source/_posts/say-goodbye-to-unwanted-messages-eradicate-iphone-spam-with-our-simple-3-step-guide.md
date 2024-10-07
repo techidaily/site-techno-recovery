@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Unwanted Messages: Eradicate iPhone Spam with Our Simple 3-Step Guide!"
-date: 2024-09-29T03:34:56.671Z
-updated: 2024-10-02T03:50:41.296Z
+date: 2024-10-04T20:18:29.144Z
+updated: 2024-10-07T17:23:14.484Z
 tags:
   - apple
 categories:
@@ -38,13 +38,6 @@ Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
 Scroll down to find the Filter Unknown Messages option and turn it on. This option is turned off by default, so you'll need to toggle it to the "on" position to enable it.
@@ -54,6 +47,19 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -79,6 +85,13 @@ Screenshot by Maria Diaz/ZDNET
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I stop spam calls on iPhone?
 
 Incoming spam calls are a nuisance; if you're having that problem, you can either block specific numbers via your phone app, add your number to the National Do Not Call Registry, or block all calls from unknown numbers. To do the latter, follow these steps:
@@ -93,13 +106,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I report junk messages on iPhone?
 
@@ -120,10 +126,10 @@ If you keep getting messages from the same sender after reporting them, you can 
 4. Select Block this caller.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why is the 'Filter Unknown Senders' option turned off?
@@ -133,10 +139,10 @@ The necessity for increased vigilance in certain situations -- like deliveries a
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
@@ -175,15 +181,17 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ps4-broadcasting-basics-with-a-focus-on-obs-integration/"><u>[New] PS4 Broadcasting Basics with a Focus on OBS Integration</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unlock-your-tunes-curated-list-of-websites-for-youtuberingtones/"><u>[New] Unlock Your Tunes Curated List of Websites For YouTubeRingtones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-twitch-sharing-techniques-for-facebook-integration/"><u>[Updated] In 2024, Twitch Sharing Techniques for Facebook Integration</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-asana-not-working-on-windows/"><u>How to Fix Asana Not Working on Windows</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-critical-vr-movies-you-cant-skip/"><u>In 2024, Critical VR Movies You Can't Skip</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-compatibility-official-guide-for-downloading-googles-usb-driver-software/"><u>Mastering Compatibility: Official Guide for Downloading Google's USB Driver Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-display-settings-in-windows-11-easy-fix-for-changing-screen-resolution/"><u>Mastering Display Settings in Windows 11: Easy Fix for Changing Screen Resolution</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-image-dimension-changes-for-pcs-and-macbooks/"><u>Mastering Image Dimension Changes for PCs and MacBooks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-process-get-your-directx-12-for-windows-10-up-and-running/"><u>Mastering the Process: Get Your DirectX 12 for Windows 10 up and Running</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/unlocking-tiktok-a-comprehensive-guide-for-macpc/"><u>Unlocking TikTok A Comprehensive Guide for Mac/PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-mastering-the-art-of-converting-speech-to-text-with-google-docs/"><u>[Updated] Mastering the Art of Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciding-between-an-ipad-mini-or-ipad-air-an-in-depth-analysis/"><u>Deciding Between an iPad Mini or iPad Air: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-creativity-and-writing-with-chatgpt-a-guide-for-better-content/"><u>Enhancing Creativity & Writing with ChatGPT: A Guide for Better Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-50plus-best-tiktok-quotes-to-inspire-you-and-make-videos-go-viral/"><u>In 2024, 50+ Best TikTok Quotes to Inspire You and Make Videos Go Viral</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-conquer-youtube-creator-studio-a-comprehensive-guide/"><u>In 2024, Conquer YouTube Creator Studio A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 6 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflix-group-watches-unlocked-a-guide-to-syncing-your-views-across-distances/"><u>Netflix Group Watches Unlocked: A Guide to Syncing Your Views Across Distances</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-echoes-a-2024-guide-for-clearing-up-discord-audio-glitches-on-your-pc/"><u>Say Goodbye to Echoes: A 2024 Guide for Clearing Up Discord Audio Glitches on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplified-steps-for-placing-several-locations-in-google-maps-at-once/"><u>Simplified Steps for Placing Several Locations in Google Maps at Once</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/streamline-your-video-search-on-facebook-tips-and-tricks/"><u>Streamline Your Video Search on Facebook (Tips & Tricks)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-factors-for-selecting-your-ideal-gaming-machine-a-guide/"><u>Top Factors for Selecting Your Ideal Gaming Machine: A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-preventing-fallout-3-from-crashing-in-windows-11/"><u>Troubleshooting Guide: Preventing Fallout 3 From Crashing in Windows 11</u></a></li>
 </ul></div>
 

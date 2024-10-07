@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Messages with Ease: The Ultimate Guide to Crafting Gmail Labels Directly From Mail and Unveiling the Benefits"
-date: 2024-09-18 20:33:53
-updated: 2024-09-20 10:52:42
+date: 2024-10-04T17:33:59.014Z
+updated: 2024-10-07T17:11:25.324Z
 tags:
   - work-life
 categories:
@@ -34,6 +34,13 @@ I'm going to show you how to create a Gmail label from an existing email, so you
 
 With that said, let's get to it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need for this are a valid Gmail account and a web browser. That's it. Let's create your first label.
@@ -44,6 +51,13 @@ The only things you'll need for this are a valid Gmail account and a web browser
 
 The first thing you must do is open your web browser and point it to <http://mail.google.com>. Once you've logged in to your account, you can create a label.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Locate the email in question
 
 Scroll through your inbox and locate an email from which you'll create a label. Choose an email from a sender whose emails you don't want to miss. Once you've found the email in question, right-click it and select Label As > Create New.
@@ -51,6 +65,19 @@ Scroll through your inbox and locate an email from which you'll create a label. 
 Creating a new label from an existing email.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create your new label
 
@@ -69,6 +96,13 @@ You can also add a color to a label to make it even easier to see. To do this, l
 Adding a color to a label.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A cool trick
 
@@ -107,11 +141,28 @@ Congratulations, you've just made those important emails even easier to find. I 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-command-your-tech-not-money-needed/"><u>[New] In 2024, Command Your Tech, Not Money Needed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-hidden-gems-top-8-private-video-downloaders/"><u>[Updated] Hidden Gems Top 8 Private Video Downloaders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chatgpt-plus-is-it-valuable-unveiling-5-essential-perks-of-enrolling-today/"><u>ChatGPT Plus: Is It Valuable? Unveiling 5 Essential Perks of Enrolling Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-oled-technology-a-comprehensive-guide-on-its-operating-principles/"><u>Decoding OLED Technology: A Comprehensive Guide on Its Operating Principles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-malware-eradication-software-for-free/"><u>Discover the Best Malware Eradication Software for Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-optimizing-your-tv-setup-for-an-epic-super-bowl-game-day/"><u>Expert Advice on Optimizing Your TV Setup for an Epic Super Bowl Game Day</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/home-theater-receiver-vs-stereo-receiver/"><u>Home Theater Receiver Vs. Stereo Receiver</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-vivo-y02t-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Vivo Y02T</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-tecno-spark-10-pro-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Tecno Spark 10 Pro’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-continuous-system-failures-during-play-of-ms-flight-simulator-2020-on-windows/"><u>How to Resolve Continuous System Failures During Play of MS Flight Simulator 2020 on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-2fa-on-twitch-a-comprehensive-guide-for-safer-streaming/"><u>Mastering 2FA on Twitch - A Comprehensive Guide for Safer Streaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-podcast-seo-the-essential-handbook-for-2024/"><u>Mastering Podcast SEO The Essential Handbook for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-unveiled-2025-the-complete-guide-dates-latest-updates-and-exclusive-leaks/"><u>Samsung Unveiled 2025: The Complete Guide - Dates, Latest Updates & Exclusive Leaks</u></a></li>
+<li><a href="https://win-able.techidaily.com/spatial-audio-not-playing-on-win11-or-win10-quick-fixes-and-solutions/"><u>Spatial Audio Not Playing on Win11 or Win10: Quick Fixes and Solutions</u></a></li>
+</ul></div>
+

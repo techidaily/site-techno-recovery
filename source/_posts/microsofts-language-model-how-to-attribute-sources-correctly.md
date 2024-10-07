@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Language Model: How to Attribute Sources Correctly"
-date: 2024-09-27T16:09:52.428Z
-updated: 2024-10-02T01:49:58.875Z
+date: 2024-10-03T18:04:01.546Z
+updated: 2024-10-07T18:59:52.635Z
 categories:
   - BestProducts
 description: "This Article Describes Microsoft's Language Model: How to Attribute Sources Correctly"
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't Do This to a Wet iPhone
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Advanced Techniques for Fixing a Wet iPhone
@@ -61,16 +61,16 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
  Don't use enriched rice. It can leave dust behind that can get into your phone.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
+<span id="1983446">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try This Only If You're Desperate to Fix Your Wet iPhone
@@ -80,19 +80,19 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 1. **Take it apart.** You can take your iPhone apart to dry out the wet parts. Separate the parts to air dry or leave them in a bag of rice for a day or two and then re-assemble the device.  
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
 
 1. **Try a repair company.** If none of these tactics work, there are[iPhone repair](https://www.lifewire.com/repair-options-cracked-iphone-screen-2000276) companies that specialize in saving water-damaged iPhones. A little time at your favorite search engine can put you in touch with a number of good vendors.
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Check for Water Damage in a Used iPhone or iPod
 
@@ -146,18 +146,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-parrot-mambo-complete-review/"><u>[New] Parrot Mambo Complete Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inside-picsarts-new-horizon-the-ultimate-2024-review-and-tutorial/"><u>[Updated] Inside PicsArt's New Horizon – The Ultimate 2024 Review & Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2024-ultimate-guide-boost-your-games-frame-rate-with-these-proven-strategies/"><u>2024 Ultimate Guide: Boost Your Game's Frame Rate with These Proven Strategies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accelerate-your-pc-performance-on-windows-11-or-10-fixes-inside/"><u>Accelerate Your PC Performance on Windows 11 or 10 [Fixes Inside]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-productivity-easily-connect-second-monitor-for-windows-users-windows-7810/"><u>Boost Productivity: Easily Connect Second Monitor for Windows Users (Windows 7/8/10)</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808330638-easy-and-fast-learn-how-to-set-up-bluetooth-speaker-with-laptop-today/"><u>Easy & Fast: Learn How To Set Up Bluetooth Speaker With Laptop Today!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-creativity-top-10-secrets-from-canva-pros/"><u>In 2024, Maximize Creativity - Top 10 Secrets From Canva Pros</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>In 2024, Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808330131-seamless-streaming-setting-up-a-vpn-on-firestick-in-just-minutes/"><u>Seamless Streaming: Setting Up a VPN on FireStick in Just Minutes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/tricks-to-faster-and-smoother-instagram-media/"><u>Tricks to Faster and Smoother Instagram Media</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ominance-in-video-landscape-mirrorless-vs-dslr-cameras-for-2024/"><u>[New] Dominance in Video Landscape Mirrorless vs DSLR Cameras for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aising-awareness-with-youtubes-cc-membership-tips-for-view-growth/"><u>[New] Raising Awareness with YouTube's CC Membership Tips for View Growth</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-5-choices-in-professional-3d-intros/"><u>[New] Top 5 Choices in Professional 3D Intros</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-key-elements-in-achieving-proficient-interview-performance/"><u>[Updated] 2024 Approved The Key Elements in Achieving Proficient Interview Performance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-insiders-guide-to-overwatch-game-recording/"><u>[Updated] The Insider's Guide to Overwatch Game Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-revolutionary-approaches-to-share-fb-videos-on-whatsapp/"><u>2024 Approved Revolutionary Approaches to Share FB Videos on WhatsApp</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-complete-handbook-for-capturing-and-organizing-skype-call-data/"><u>2024 Approved The Complete Handbook for Capturing and Organizing Skype Call Data</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-your-hidden-reels-a-guide-to-locating-archived-content-on-instagram/"><u>Discovering Your Hidden Reels: A Guide to Locating Archived Content on Instagram</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-passo-a-passo-para-gravar-videos-em-camera-lenta-no-android-usando-o-aplicativo-movavi-clips/"><u>Guia Passo a Passo Para Gravar Vídeos Em Câmera Lenta No Android Usando O Aplicativo Movavi Clips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/halting-haldll-errors-successfully-in-your-windows-pc-a-cross-version-guide/"><u>Halting hal.dll Errors Successfully in Your Windows PC – A Cross-Version Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nokia-g22-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nokia G22 Unlock Without Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insider-information-on-google-tv-streaming-device-forecast-pricing-launch-timeline-and-feature-sneak-peeks/"><u>Insider Information on Google TV Streaming Device: Forecast Pricing, Launch Timeline & Feature Sneak Peeks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-schedule-explore-our-picks-for-top-free-calendar-apps/"><u>Revolutionize Your Schedule: Explore Our Picks for Top Free Calendar Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-gaining-access-through-trustedinstaller-on-windows-10/"><u>Step-by-Step Guide: Gaining Access Through TrustedInstaller on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackling-the-missing-launchdll-error-effective-remedies-and-tips/"><u>Tackling the Missing Launch.dll Error - Effective Remedies and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-rise-and-fall-of-aim-how-aols-chat-software-shaped-online-messaging/"><u>The Rise and Fall of AIM: How AOL's Chat Software Shaped Online Messaging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-adding-expressions-with-iphone-emojis/"><u>The Ultimate Tutorial: Adding Expressions with iPhone Emojis</u></a></li>
 </ul></div>
 

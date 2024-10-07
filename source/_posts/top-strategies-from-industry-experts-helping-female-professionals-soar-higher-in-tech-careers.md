@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies From Industry Experts: Helping Female Professionals Soar Higher in Tech Careers"
-date: 2024-09-19 14:15:30
-updated: 2024-09-20 11:30:25
+date: 2024-09-30T19:12:39.406Z
+updated: 2024-10-07T19:45:55.263Z
 tags:
   - work-life
 categories:
@@ -47,6 +47,13 @@ Heneghan says modern business needs engaged communicators and all senior manager
 
 "I'm rolling that initiative out globally, but you have to keep challenging yourself on diversity every day. I just think we all must be ruthless and rigorous." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't fit people into neat boxes
 
 Clare Lansley, CIO at Aston Martin Cognizant Formula One, says there's a lot more that can be done in terms of diversity in IT.
@@ -69,6 +76,13 @@ And Lansley encourages recruiters to be more open than relying on a wish list of
 
 "I think a lot of recruiters go for a wish list -- 'this would be my perfect candidate'. But I would challenge those guys by saying, 'Have you ever hired your perfect candidate?' There are always areas where you're compromising. I'd much rather hire for attitudes and behaviors, because at the end of day, I can teach skills." 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Encourage people to find their voice
 
 Rajeswari Koppala, senior manager of DevOps at United Airlines, sees herself as an IT professional who deserves respect and attention from her peers.
@@ -89,6 +103,13 @@ Don't let others try to push you down and don't be afraid to grab the mic and ta
 
 "If you're not tall enough to look at something, you would take the help of a tool," she says. "So, you just need to put your effort into being seen or heard and to make a difference in your own way."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Show younger candidates the benefits
 
 Adam Warne, CIO at retailer River Island, says a diverse team means fresh perspectives and new ways of solving problems.
@@ -106,6 +127,13 @@ Warne says one answer is to start encouraging more people to think about IT at a
 "We need to get into the schools. We need to interact with people when they're thinking about what their career might be in 10 years' time, and we need to be talking to them openly and honestly about what a career in tech might look like. Because for me, it's for everybody," he says.
 
 "Technology is not a career that is limited to certain demographics or people who like playing video games. It's a career for anybody, and anybody should be able to get into it. We need to do more to influence younger people before they're making career choices, and demystifying the myths about what a career in tech looks like."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Create senior role models
 
@@ -140,11 +168,24 @@ Plumettaz says more females in senior positions means more role models for the n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-cloud-space-costs-analyzing-and-top-tier-savings-guide/"><u>[New] Cloud Space Costs Analyzing & Top-Tier Savings Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-in-game-capturing-titans/"><u>[New] In 2024, In-Game Capturing Titans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-youtube-intro-wonders-with-imovie-for-2024/"><u>[Updated] From Zero to Hero YouTube Intro Wonders with iMovie for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customize-your-macs-folder-display-with-easy-guide-to-finder-configurations/"><u>Customize Your Mac's Folder Display with Easy Guide to Finder Configurations</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-xr21-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia XR21 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/missing-zlibdll-errors-how-to-fix-them-and-prevent-future-issues/"><u>Missing 'Zlib.dll' Errors: How To Fix Them and Prevent Future Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/official-breakdown-of-the-next-gen-psvr-2-price-specs-and-arrival-predictions/"><u>Official Breakdown of the Next-Gen PSVR 2 – Price, Specs, and Arrival Predictions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-titles-exclusive-to-playstation-5-gaming-on-next-gen/"><u>Top Titles Exclusive to PlayStation 5: Gaming on Next-Gen</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-the-art-of-volume-control-a-guide-to-seamless-audio-transitions-in-adobe-after-effects/"><u>Updated In 2024, Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects</u></a></li>
+</ul></div>
+

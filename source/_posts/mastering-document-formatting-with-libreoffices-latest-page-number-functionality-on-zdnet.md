@@ -1,7 +1,7 @@
 ---
 title: Mastering Document Formatting with LibreOffice’s Latest Page Number Functionality on ZDNet
-date: 2024-09-19 18:12:49
-updated: 2024-09-20 10:32:11
+date: 2024-10-05T16:34:29.844Z
+updated: 2024-10-07T19:41:07.333Z
 tags:
   - work-life
 categories:
@@ -55,9 +55,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 To find out which version you're using, open LibreOffice, click Help > About LibreOffice, and verify the version number in the popup window. If you're using any release prior to 7.6, you'll need to upgrade.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open LibreOffice
 
 The first thing to do is open LibreOffice Writer. If you already have a document that needs page numbers, open that document. If you don't have a previously created document, you can start with a blank one. Either way, adding page numbers is the same process.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open the Page Number Wizard
 
@@ -66,6 +80,13 @@ To open the Page Number Wizard, click Insert > Page Number.
 The Page Number option lives near the bottom part of the menu.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Configure your page numbers
 
@@ -104,11 +125,25 @@ If you're curious about what other new features have been added to the [LibreOff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-inside-the-wonders-of-stardew-valley-particularly-ginger-island/"><u>[New] Inside the Wonders of Stardew Valley, Particularly Ginger Island</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-audio-artistry-in-a-download-top-7-vocal-transformation-apps-reviewed/"><u>2024 Approved Audio Artistry in a Download Top 7 Vocal Transformation Apps Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safeguard-your-windows-system-using-simple-techniques-video/"><u>How to Safeguard Your Windows System Using Simple Techniques (Video)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-pair-google-mail-account-with-apple-watch/"><u>How To Seamlessly Pair Google Mail Account With Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722888490575-mastering-the-art-of-screenshots-on-a-logitech-keyboard-quick-and-simple-steps-inside/"><u>Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/notable-20-anime-series-theme-tracks-for-2024/"><u>Notable 20 Anime Series Theme Tracks for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-zlibdll-absence-issues-a-step-by-step-guide/"><u>Resolving zlib.dll Absence Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-12-complimentary-cinema-streaming-tools/"><u>The Ultimate Selection: 12 Complimentary Cinema Streaming Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-correcting-ocidll-file-missing-issues-on-your-pc/"><u>Troubleshooting and Correcting oci.dll File Missing Issues on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-concept-what-exactly-is-involved-in-tagging-an-item-or-person/"><u>Unraveling the Concept: What Exactly Is Involved in Tagging an Item or Person?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Small Business: Discover Four Key Methods for Gaining Extra Assistance | Tech Insights by ZDNet"
-date: 2024-09-17 19:16:35
-updated: 2024-09-20 12:32:19
+date: 2024-10-05T17:34:03.115Z
+updated: 2024-10-07T19:38:43.329Z
 tags:
   - work-life
 categories:
@@ -39,6 +39,13 @@ Heneghan believes the biggest obstacle to change in smaller firms is often acces
 
 "I think small businesses are more dependent on an ecosystem to help them to drive their diversity of thinking," she says. "As an SMB manager, you need to think how you build a successful ecosystem around your business."
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use technology to support nimble decision-making processes
 
 Alex Read, senior manager of data platforms at EDF UK, says his business operates in a sector where entrepreneurial smaller businesses are using technology to gain a foothold.
@@ -46,6 +53,13 @@ Alex Read, senior manager of data platforms at EDF UK, says his business operate
 "They're competitive because they're lean," he says. "They'll typically have a modern frontend stack. They will invest in modern technologies and platforms that support their outcomes and allow technology to do the work rather than people."
 
 Read says his business is learning lessons from these agile smaller businesses: "We're almost trying to adopt the mindset of a startup company, even though we're a larger business." 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -62,6 +76,19 @@ For small business owners who are looking to increase their competitiveness, Rea
 
 "Make sure that technology is the enabler -- and keep having that small-scale, iterative and agile approach, rather than trying to conquer the whole world at once."
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Find the right suppliers for you 
 
 Ed Higgs, group director of IT shared services at Rentokil Initial, is another business leader who says smart-thinking smaller firms support their digital transformation efforts through the tactical use of technology.
@@ -77,6 +104,13 @@ And it can sometimes be easier to find that kind of specialist knowledge in a la
 SMBs should meet this challenge head-on -- they should analyze the technology market, get to know key account managers, and build a trusted collection of IT specialists.
 
 "In a smaller business, you've got to leverage your supply network even more," he says. "And getting the right size provider that's going to give you the right level of attention is really important."
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Identify hidden talents
 
@@ -115,11 +149,33 @@ What's more, she says hackathons can help SMBs to identify latent capability wit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-music-law-guide-for-instagram-users/"><u>[New] In 2024, The Music Law Guide for Instagram Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-the-cost-per-thousand-views-on-youtube-for-successful-earning/"><u>[Updated] In 2024, Decoding the Cost Per Thousand Views on YouTube for Successful Earning</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-outsmart-automated-views-to-propel-your-channel/"><u>[Updated] In 2024, Outsmart Automated Views to Propel Your Channel</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-join-the-party-your-guide-to-active-tiktok-streaming-for-2024/"><u>[Updated] Join the Party Your Guide to Active TikTok Streaming for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-powerful-money-management-tips-for-xbox-players/"><u>3 Powerful Money Management Tips for Xbox Players</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-icloud-images-from-iphone-laptop-and-android-a-simple-guide/"><u>Access iCloud Images From iPhone, Laptop and Android – A Simple Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722866810748-best-8-complimentary-music-apps-for-your-iphone-discover-them-here/"><u>Best 8 Complimentary Music Apps for Your iPhone – Discover Them Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-on-removing-gadgets-from-google-home-setup/"><u>Complete Tutorial on Removing Gadgets From Google Home Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elite-selection-of-multi-person-video-communication-tools/"><u>Elite Selection of Multi-Person Video Communication Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-f14-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy F14 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-14-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 14?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflixs-most-popular-movies-among-teens-today/"><u>Netflix's Most Popular Movies Among Teens Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/powerpoint-update-procedures-simplified-essential-tips-and-tricks/"><u>PowerPoint Update Procedures Simplified: Essential Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roku-hotel-and-dorm-usage-tips-for-a-hassle-free-mobile-viewing-experience/"><u>Roku Hotel & Dorm Usage Tips for a Hassle-Free Mobile Viewing Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/taming-the-obs-timeline-glitches-for-2024/"><u>Taming the OBS Timeline Glitches for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-complimentary-digital-calendar-apps-you-cant-miss/"><u>Top 4 Complimentary Digital Calendar Apps You Can't Miss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-you-need-to-know-before-acquiring-a-video-surveillance-gadget/"><u>What You Need to Know Before Acquiring a Video Surveill#ance Gadget</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wipe-out-your-digital-footprints-how-to-irrevocably-delete-your-yahoo-mail-account/"><u>Wipe Out Your Digital Footprints: How to Irrevocably Delete Your Yahoo Mail Account</u></a></li>
+</ul></div>
+

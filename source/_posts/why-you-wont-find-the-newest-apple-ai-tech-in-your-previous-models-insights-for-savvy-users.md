@@ -1,7 +1,7 @@
 ---
 title: Why You Won't Find the Newest Apple AI Tech in Your Previous Models - Insights for Savvy Users
-date: 2024-09-30T18:29:53.680Z
-updated: 2024-10-01T20:52:44.828Z
+date: 2024-10-01T18:31:35.394Z
+updated: 2024-10-07T16:34:05.789Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +60,16 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +83,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,22 +131,24 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-endless-entertainment-loop-youtube-content-on-tv/"><u>[New] 2024 Approved Endless Entertainment Loop YouTube Content on TV</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-propel-your-content-using-igtv-hashtags-to-expand-audiences/"><u>[New] In 2024, Propel Your Content Using IGTV Hashtags to Expand Audiences</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-streamlining-your-tweets-with-video-upload-rules/"><u>[New] Streamlining Your Tweets with Video Upload Rules</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solved-how-to-install-epson-printer-step-by-step/"><u>[Solved] How To Install Epson Printer Step-by-Step</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-your-content-on-facebook-after-algorithms-change/"><u>[Updated] In 2024, Mastering Your Content on Facebook After Algorithms Change</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[Updated] Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-frozen-windows-spotlight-with-these-simple-steps/"><u>Fix Your Frozen Windows Spotlight with These Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-logitech-g920-mouse-drivers-on-your-pc-compatible-with-win11-win10-win8-and-win7/"><u>How to Get Logitech G920 Mouse Drivers on Your PC - Compatible with Win11, Win10, Win8 & Win7</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lens-legends-best-video-cameras-for-professional-use/"><u>Lens Legends Best Video Cameras for Professional Use</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-solo-adventures-a-players-guide-to-steam-offline-mode/"><u>Mastering Solo Adventures: A Player's Guide to Steam Offline Mode</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-stealth-mode-tips-for-secret-internet-exploration/"><u>Mastering Stealth Mode: Tips for Secret Internet Exploration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pc-survival-tactics-a-beginners-handbook-to-jump-into-fortnite-action/"><u>PC Survival Tactics: A Beginner’s Handbook to Jump Into Fortnite Action!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-and-easy-guide-mastering-the-clean-installation-of-windows-11-in-no-time/"><u>Quick & Easy Guide: Mastering the Clean Installation of Windows 11 in No Time</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revive-your-pcs-speakers-a-complete-tutorial-to-reinstall-realtek-hd-audio-driver-in-windows-11/"><u>Revive Your PC's Speakers: A Complete Tutorial to Reinstall Realtek HD Audio Driver in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-ad-blocking-in-firefox-unlock-a-cleaner-faster-web-experience-today/"><u>Seamless Ad Blocking in Firefox: Unlock a Cleaner, Faster Web Experience Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-successfully-uninstalling-a-printer-from-your-windows-pc/"><u>Step-by-Step Guide: Successfully Uninstalling a Printer From Your Windows PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-v30-lite-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo V30 Lite 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-begin-webcam-footage-recording-with-vlc-for-2024/"><u>[New] Begin Webcam Footage Recording with VLC for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-multiangle-exploration-guide/"><u>[New] In 2024, MultiAngle Exploration Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-maximizing-memory-retention-through-mac-based-audio-recordings/"><u>[Updated] In 2024, Maximizing Memory Retention Through Mac-Based Audio Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>Action Filming at Its Peak Garmin VIRB Ultra 30 Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722872827071-apple-watch-pairing-woes-here-are-6-fixes-to-get-you-connected-again/"><u>Apple Watch Pairing Woes? Here Are 6 Fixes to Get You Connected Again!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fix-for-pc-reset-errors-your-ultimate-solution-walkthrough/"><u>DIY Fix for 'PC Reset Errors': Your Ultimate Solution Walkthrough</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-when-msvcrtdll-is-unavailable/"><u>Effective Solutions for When Msvcrt.dll Is Unavailable</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-update-usb-drivers-on-various-windows-operating-systems-including-win11-7-8-and-81/"><u>Effortlessly Update USB Drivers on Various Windows Operating Systems Including Win11, 7, 8 & 8.1</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-the-fugetek-ft-568-top-performing-selfie-extender-reviewed/"><u>Evaluating the Fugetek FT-568: Top Performing Selfie Extender Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-the-stop-code-0xc0000185-a-step-by-step-guide/"><u>How To Resolve The Stop Code 0XC0000185? A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v27e-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V27e to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-shelldll-disappeared-a-step-by-step-guide/"><u>Resolving 'Shell.dll' Disappeared: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-endurance-showdown-does-an-electric-car-outlast-a-gas-vehicle-over-time/"><u>The Endurance Showdown: Does an Electric Car Outlast a Gas Vehicle Over Time?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-opengl32dll-file-missing-and-not-detected-issues/"><u>Ultimate Guide: Resolving OpenGL32.dll File Missing & Not Detected Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mobile-mastery-the-top-10-vlog-editor-apps-you-need-to-know/"><u>Updated 2024 Approved Mobile Mastery The Top 10 Vlog Editor Apps You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watching-3d-films-from-your-couch-a-step-by-step-guide-using-fandango/"><u>Watching 3D Films From Your Couch: A Step-by-Step Guide Using Fandango</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-efficient-application-batch-deployment-via-winstall/"><u>Windows 11: Efficient Application Batch Deployment via Winstall</u></a></li>
 </ul></div>
 

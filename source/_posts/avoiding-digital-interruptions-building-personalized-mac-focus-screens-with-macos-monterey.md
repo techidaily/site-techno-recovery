@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Digital Interruptions: Building Personalized Mac Focus Screens with macOS Monterey"
-date: 2024-09-26T08:35:33.447Z
-updated: 2024-10-01T21:49:08.012Z
+date: 2024-09-30T18:06:46.104Z
+updated: 2024-10-07T19:28:17.164Z
 tags:
   - apple
 categories:
@@ -28,15 +28,28 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -56,10 +69,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -79,10 +92,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -98,13 +111,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,21 +154,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-live-gaming-decide-on-obsshadowplay-for-2024/"><u>[New] Capturing Live Gaming - Decide on OBS/ShadowPlay for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-iphone-tips-change-image-dimensions-proficiently/"><u>[New] Expert iPhone Tips Change Image Dimensions Proficiently</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-get-the-facts-about-youtube-keyword-research/"><u>[New] Get the Facts About YouTube Keyword Research</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-launch-your-athletic-channel-step-by-step-guide-on-mac-os/"><u>[New] Launch Your Athletic Channel Step by Step Guide on Mac OS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-multitask-media-consumption-employing-picture-in-picture-functionality/"><u>[Updated] Master Multitask Media Consumption Employing Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-art-of-engaging-audiences-with-facebooks-split-screen-tech-for-2024/"><u>[Updated] The Art of Engaging Audiences with Facebook's Split Screen Tech for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-watchlist-premier-movies-available-for-streaming-today/"><u>Essential Watchlist: Premier Movies Available for Streaming Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-eliminate-the-login-pin-for-easy-access-to-windows-10/"><u>How to Eliminate the Login PIN for Easy Access to Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-no-cost-audio-archives-for-professional-youtube-makers/"><u>In 2024, No-Cost Audio Archives for Professional YouTube Makers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-microsoft-teams-efficiently-with-copilot-integration-tips/"><u>Navigating Microsoft Teams Efficiently with Copilot Integration Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-the-challenge-of-a-non-existent-ksuserdll-file-in-windows-systems/"><u>Overcoming the Challenge of a Non-Existent ksuser.dll File in Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-security-issues-correcting-connection-unsecured-messages-on-websites/"><u>Resolving Security Issues: Correcting “Connection Unsecured” Messages on Websites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-utilizing-the-measure-feature-on-android-phones/"><u>Step-by-Step Tutorial: Utilizing the Measure Feature on Android Phones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-nintendo-switch-online-outages-personal-experience-or-widespread-issue/"><u>Troubleshooting Nintendo Switch Online Outages: Personal Experience or Widespread Issue?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-zoom-in-google-for-2024/"><u>Updated How to Use Zoom in Google for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/uick-video-growth-top-20-hacks-for-instant-impact-for-2024/"><u>[New] Quick Video Growth Top 20 Hacks for Instant Impact for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-essential-directory-of-public-domain-gaming-melodies/"><u>[Updated] 2024 Approved Essential Directory of Public Domain Gaming Melodies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-ads-transformed-predicting-the-trends-for-next-year/"><u>2024 Approved Facebook Ads Transformed Predicting the Trends for Next Year</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/assessing-the-true-environmental-impact-of-electric-cars/"><u>Assessing the True Environmental Impact of Electric Cars</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delving-into-quantum-hdr-a-complete-overview/"><u>Delving Into Quantum HDR A Complete Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-bedtime-companions-for-apple-watch-users-top-5-picks/"><u>Discover the Best Bedtime Companions for Apple Watch Users: Top 5 Picks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevating-your-content-strategy-with-smart-igtv-hashtags-for-2024/"><u>Elevating Your Content Strategy with Smart IGTV Hashtags for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enjoy-family-cinema-night-with-these-6-amazing-free-movie-sites-for-kids/"><u>Enjoy Family Cinema Night with These 6 Amazing Free Movie Sites for Kids</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-overcoming-connectivity-and-functionality-issues-in-tiktok/"><u>Expert Advice: Overcoming Connectivity and Functionality Issues in TikTok.</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-video-editing-on-a-mac-the-top-picks-for-for-2024/"><u>New Video Editing on a Mac The Top Picks For for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-for-bypassing-trustedinstaller-protections-and-managing-system-files-on-windows-10/"><u>Tips for Bypassing TrustedInstaller Protections and Managing System Files on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-constant-crashes-in-beat-saber-game/"><u>Troubleshooting Guide: Fixing Constant Crashes in Beat Saber Game</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watching-3d-films-from-home-a-complete-guide-with-fandango/"><u>Watching 3D Films From Home: A Complete Guide with Fandango</u></a></li>
 </ul></div>
 

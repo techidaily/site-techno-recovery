@@ -1,7 +1,7 @@
 ---
 title: "The Innovative Bet by Agog Co-Founders: Leveraging AR/VR/XR Tech to Transform Social Good | Exclusive ZDNET Coverage"
-date: 2024-09-13T16:22:52.875Z
-updated: 2024-09-20T18:54:23.172Z
+date: 2024-10-02T17:49:55.411Z
+updated: 2024-10-07T19:24:39.938Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>[New] 2024 Approved Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>[New] Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-journey-to-visual-impact-with-simple-lenses/"><u>2024 Approved Journey to Visual Impact with Simple Lenses</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/pc-32024/"><u>高解像度PC画面録画方法 最新ベストメンバー3つをご紹介します【2024版】</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-addressing-msidll-errors-in-windows-operating-system/"><u>Effective Solutions for Addressing MSI.DLL Errors in Windows Operating System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-guide-configuring-gmail-notifications-and-alerts-on-your-apple-watch/"><u>Expert Guide: Configuring Gmail Notifications and Alerts on Your Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-address-physxloaderdll-not-found-issues-on-your-pc/"><u>How to Correctly Address 'PhysXLoader.dll Not Found' Issues on Your PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/professional-photographers-pick-of-edits/"><u>Professional Photographers' Pick of Edits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essential-playbook-for-newcomers-to-pokemon-unite/"><u>The Essential Playbook for Newcomers to Pokémon Unite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tech-bargains-during-amazons-prime-day-event/"><u>Top Tech Bargains During Amazon's Prime Day Event</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tutorial-simultaneously-pairing-and-playing-on-more-than-one-bluetooth-speaker-with-a-single-unit/"><u>Tutorial: Simultaneously Pairing and Playing on More Than One Bluetooth Speaker with a Single Unit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-quantum-leap-hdr-innovations-for-2024/"><u>Understanding the Quantum Leap HDR Innovations for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-watch-4-anticipated-features-and-speculated-launch-timeline-unveiled/"><u>Upcoming Google Pixel Watch 4: Anticipated Features & Speculated Launch Timeline Unveiled</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-top-10-best-free-manga-sites-to-read-online/"><u>Updated In 2024, Top 10 Best Free Manga Sites to Read Online</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

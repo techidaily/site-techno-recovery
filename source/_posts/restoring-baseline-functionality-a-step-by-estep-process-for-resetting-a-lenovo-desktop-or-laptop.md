@@ -1,7 +1,7 @@
 ---
 title: "Restoring Baseline Functionality: A Step-by-eStep Process for Resetting a Lenovo Desktop or Laptop"
-date: 2024-10-01T06:41:16.346Z
-updated: 2024-10-02T04:06:12.634Z
+date: 2024-10-06T19:51:51.027Z
+updated: 2024-10-07T16:54:50.757Z
 categories:
   - BestProducts
 description: "This Article Describes Restoring Baseline Functionality: A Step-by-eStep Process for Resetting a Lenovo Desktop or Laptop"
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why the Keyboard Quit Working
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
@@ -108,24 +108,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-boosting-engagement-and-followers-with-smart-tiktok-hash-usage/"><u>[New] Boosting Engagement & Followers with Smart TikTok Hash Usage</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-recover-lost-watch-visual-preview-for-2024/"><u>[New] Recover Lost Watch Visual Preview for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/clear-up-sound-errors-on-your-chromecast-for-a-perfect-viewing-experience/"><u>Clear Up Sound Errors on Your Chromecast for a Perfect Viewing Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/convenient-and-quality-passport-images-top-free-tools-listed-here-for-2024/"><u>Convenient & Quality Passport Images - Top Free Tools Listed Here for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnose-and-fix-504-gateway-timing-out-glitches-easily/"><u>Diagnose and Fix 504 Gateway Timing Out Glitches Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/free-cinema-at-your-fingertps-top-11-recommended-downloading-sites-for-films/"><u>Free Cinema at Your Fingertps: Top 11 Recommended Downloading Sites for Films</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-mirror-appletv-plus-shows-and-movies-on-chromecast/"><u>How To Mirror Appletv Plus Shows and Movies on Chromecast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-windows-11-update-error-code-0x80c705b4/"><u>How to Resolve the Persistent Windows 11 Update Error (Code 0X80C705B4)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-discover-the-best-12-pc-games-for-click-mastery/"><u>In 2024, Discover the Best 12 PC Games for Click Mastery</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-must-see-vr-platforms-and-places/"><u>In 2024, Must-See VR Platforms and Places</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/julys-essential-resource-newly-revealed-linksys-default-passwords-guide/"><u>July's Essential Resource: Newly Revealed Linksys Default Passwords Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-windows-security-tips-for-managing-trustedinstaller-permissions-on-your-pc/"><u>Mastering Windows Security: Tips for Managing TrustedInstaller Permissions on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-to-repair-persistent-image-retention-on-screens/"><u>Step-by-Step Strategies to Repair Persistent Image Retention on Screens</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-connect-windows-desktop-to-television-with-googles-chromecast-device/"><u>Step-by-Step Tutorial: Connect Windows Desktop to Television with Google's Chromecast Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-secret-language-of-texts-how-to-know-if-and-when-your-messages-are-being-read/"><u>The Secret Language of Texts: How to Know If and When Your Messages Are Being Read</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/tiktok-streams-decoded-finding-your-special-hashtag/"><u>TikTok Streams Decoded Finding Your Special Hashtag</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/yahoo-mail-alert-what-to-do-when-your-inbox-stops-populating-emails/"><u>Yahoo Mail Alert: What to Do When Your Inbox Stops Populating Emails</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/zdsofts-screen-capture-brilliance-reviewed/"><u>ZDSoft's Screen Capture Brilliance Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-ig-videos-tips-and-templates-for-2024/"><u>[Updated] Elevate Your IG Videos Tips & Templates for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-vr-fitness-treadmills/"><u>2024 Approved The Ultimate Guide to VR Fitness Treadmills</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-14-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 14 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-accessing-cost-free-shared-dns-services/"><u>Comprehensive Guide: Accessing Cost-Free Shared DNS Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-viewership-of-your-videos-on-youtube-how/"><u>Identifying Viewership of Your Videos on YouTube - How?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-6-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 6 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-hero-10-ultimate-guide-for-l-slow-cinematography/"><u>In 2024, Mastering Hero 10 Ultimate Guide for L-Slow Cinematography</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/maximize-your-gameplay-update-nvidia-geforce-gtx-1660-ti-graphics-card-driver/"><u>Maximize Your Gameplay: Update NVIDIA GeForce GTX 1660 Ti Graphics Card Driver</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mline-free-webinar-organizing-with-youtube-help-for-2024/"><u>Streamline Free Webinar Organizing with YouTube Help for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-value-picks-essential-components-for-your-first-home-cinema-setup/"><u>Ultimate Value Picks: Essential Components for Your First Home Cinema Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-correcting-robloxs-error-403-on-windows-systems/"><u>Understanding and Correcting Roblox's Error 403 on Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/verifying-true-dolby-atmos-quality-are-you-getting-it-right/"><u>Verifying True Dolby Atmos Quality: Are You Getting It Right?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-fresh-in-the-world-of-apple-the-newest-macbook-unveiled/"><u>What's Fresh in the World of Apple: The Newest MacBook Unveiled</u></a></li>
 </ul></div>
 

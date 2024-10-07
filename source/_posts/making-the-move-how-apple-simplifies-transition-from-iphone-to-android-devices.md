@@ -1,7 +1,7 @@
 ---
 title: "Making the Move: How Apple Simplifies Transition From iPhone to Android Devices"
-date: 2024-09-30T10:45:26.464Z
-updated: 2024-10-01T17:32:13.928Z
+date: 2024-10-05T18:12:33.584Z
+updated: 2024-10-07T19:27:43.541Z
 tags:
   - apple
 categories:
@@ -35,6 +35,13 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -71,13 +78,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -89,13 +89,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -109,13 +102,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -128,6 +114,13 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -139,6 +132,13 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -157,10 +157,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,24 +218,21 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-youtubes-rivalry-the-leading-3-video-streaming-sites/"><u>[New] In 2024, YouTube's Rivalry The Leading 3 Video Streaming Sites</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/elevate-ap-efficiency-with-these-6-key-steps-essential-reading-on-the-abbyy-official-site/"><u>Elevate AP Efficiency with These 6 Key Steps - Essential Reading on the ABBYY Official Site</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/essentials-of-creating-share-worthy-instagram-videos-for-2024/"><u>Essentials of Creating Share-Worthy Instagram Videos for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a56s-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo A56s 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/level-up-your-looting-speed-proven-techniques-for-a-swift-fortnite-victory-and-enhanced-fps-the-future-of-gaming-begins-now/"><u>Level Up Your Looting Speed: Proven Techniques for a Swift Fortnite Victory and Enhanced FPS - The Future of Gaming Begins Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-windows-11-unlocking-access-to-your-file-sharing-and-backup-options/"><u>Mastering Windows 11: Unlocking Access to Your File Sharing and Backup Options</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-the-mechanics-guaranteeing-a-glitch-free-gaming-experience/"><u>Mastery of the Mechanics: Guaranteeing a Glitch-Free Gaming Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mouse-acceleration-on-windows-11-turn-it-off-to-improve-gaming-experience/"><u>Mouse Acceleration on Windows 11: Turn It Off to Improve Gaming Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-setup-activating-and-using-ps4-remote-play-across-pcs-and-macs/"><u>Quick Setup: Activating and Using PS4 Remote Play Across PCs & Macs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rapid-fire-direct3d-acquisition-made-easy/"><u>Rapid-Fire Direct3D Acquisition Made Easy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rekindle-your-love-for-skyrim-se-experience-unparalleled-speed-and-performance-with-our-exclusive-fps-boost/"><u>Rekindle Your Love for Skyrim SE: Experience Unparalleled Speed and Performance with Our Exclusive FPS Boost !</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolve-disappearing-camera-problem-fast-easy-tweaks-through-device-manager/"><u>Resolve Disappearing Camera Problem Fast: Easy Tweaks Through Device Manager</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-steps-turn-off-your-lock-screen-in-windows-11/"><u>Simple Steps: Turn Off Your Lock Screen in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/skyline-spectacular-the-gopro-karma-edition/"><u>Skyline Spectacular The GoPro Karma Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solution-steps-overcoming-lagging-challenges-when-using-a-wireless-keyboard-with-windows-operating-system/"><u>Solution Steps: Overcoming Lagging Challenges When Using a Wireless Keyboard With Windows Operating System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-is-here-speculations-on-tesla-robotaxi-features-price-point-and-arrival-date-explored/"><u>The Future Is Here: Speculations on Tesla Robotaxi Features, Price Point & Arrival Date Explored</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-11-pro-max-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 11 Pro Max on MetroPCS</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-trustworthy-ways-to-extract-audio-from-youtube-videos-for-2024/"><u>Three Trustworthy Ways to Extract Audio From YouTube Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/urgent-update-required-widespread-uefi-security-compromise-endangers-countless-computers/"><u>Urgent Update Required: Widespread UEFI Security Compromise Endangers Countless Computers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-cyber-health-solutions-for-modern-medicine/"><u>[New] 2024 Approved Cyber-Health Solutions for Modern Medicine</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-tweets-to-device-storage-android-and-iphone-gif-steps/"><u>[Updated] 2024 Approved From Tweets to Device Storage Android & iPhone GIF Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-inshot-pro-advanced-features-showcase/"><u>[Updated] 2024 Approved InShot Pro Advanced Features Showcase</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instawisdom-100-powerful-caption-examples-for-self-expression/"><u>[Updated] 2024 Approved InstaWisdom 100 Powerful Caption Examples for Self-Expression</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-secure-song-transfers-to-youtube-channel/"><u>[Updated] Secure Song Transfers to Youtube Channel</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-essential-insights-into-youtubes-content-policy-framework/"><u>2024 Approved Essential Insights Into YouTube's Content Policy Framework</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/8-challenges-can-gpt-enhance-your-side-hustle/"><u>8 Challenges: Can GPT Enhance Your Side Hustle?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-sync-and-conquer-to-dot-and-ifttt/"><u>Automate, Sync, and Conquer: To-Dot & IFTTT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/begin-anew-transferring-and-setting-up-windows-10-on-a-replacement-drives/"><u>Begin Anew: Transferring & Setting Up Windows 10 on a Replacement Drives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-walkthrough-managing-rar-files-with-mac-os-x-tools/"><u>Comprehensive Walkthrough: Managing RAR Files with Mac OS X Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-banishing-dark-pixels-from-youtube-views/"><u>In 2024, Banishing Dark Pixels From YouTube Views</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-external-monitor-woes-heres-how-to-resolve-not-detecting-displays/"><u>Mac External Monitor Woes? Here’s How to Resolve Not Detecting Displays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-iphone-vocal-memos-a-step-by-step-tutorial/"><u>Master the Art of iPhone Vocal Memos: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-missing-msvcr80dll-a-step-by-step-guide/"><u>Resolving the Issue: Missing msvcr80.dll - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-for-accessing-and-leaving-iphone-recovery-modes/"><u>The Ultimate How-To for Accessing and Leaving iPhone Recovery Modes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-household-bot-prospective-pricing-scheduled-debut-date-and-hardware-details-uncovered/"><u>Upcoming Apple Household Bot: Prospective Pricing, Scheduled Debut Date, and Hardware Details Uncovered</u></a></li>
 </ul></div>
 

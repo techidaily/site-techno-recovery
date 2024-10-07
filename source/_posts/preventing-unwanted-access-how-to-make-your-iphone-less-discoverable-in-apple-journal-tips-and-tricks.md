@@ -1,7 +1,7 @@
 ---
 title: "Preventing Unwanted Access: How to Make Your iPhone Less Discoverable in Apple Journal - Tips & Tricks"
-date: 2024-09-28T11:09:36.104Z
-updated: 2024-10-01T21:38:29.722Z
+date: 2024-09-30T16:10:02.083Z
+updated: 2024-10-07T18:24:27.562Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -59,16 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -77,18 +64,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -97,6 +84,13 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -140,22 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-perfect-your-yt-content-mastery-of-windows-movie-maker/"><u>[New] 2024 Approved Perfect Your YT Content Mastery of Windows Movie Maker</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-insiders-guide-to-recording-on-itunes/"><u>[New] 2024 Approved The Insider's Guide to Recording on iTunes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-scouting-for-cost-effective-clouds-a-pricing-analysis-of-2024/"><u>[Updated] Scouting for Cost-Effective Clouds A Pricing Analysis of 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-unlock-immersive-worlds-with-youtubes-top-10-vr-videos/"><u>2024 Approved Unlock Immersive Worlds with YouTube's Top 10 VR Videos</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1726227018906-webmgif-movavi/"><u>無料でWebMを動画GIFに変換する: Movaviの使い方 - 詳しく解説!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-free-tools-for-hard-drive-testing-ranked-top-13-july-2024-edition/"><u>Best Free Tools for Hard Drive Testing - Ranked Top 13, July 2024 Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-workout-management-applications-for-a-healthier-2024/"><u>Discover the Leading Workout Management Applications for a Healthier 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-insight-into-budget-friendly-design-portals-for-2024/"><u>Exclusive Insight Into Budget-Friendly Design Portals for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-your-iphone-email-setup-working-again/"><u>How to Get Your iPhone Email Setup Working Again</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721412546081-new-milestone-achieved-chatgpts-significant-updates-explored/"><u>New Milestone Achieved: ChatGPT’s Significant Updates Explored</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/scholarly-savings-on-tech-the-definitive-guide-to-dell-student-deals/"><u>Scholarly Savings on Tech: The Definitive Guide to Dell Student Deals</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simplifying-your-email-life-a-comprehensive-guide-to-categorization-with-gmail-labels/"><u>Simplifying Your Email Life: A Comprehensive Guide to Categorization with Gmail Labels</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-bootmgr-is-not-found-expert-solutions/"><u>Troubleshooting 'BOOTMGR Is Not Found': Expert Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-voice-chat-silence-on-discord-what-to-do-next/"><u>Ultimate Fixes for Voice Chat Silence on Discord - What to Do Next?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-collaborative-gaming-learn-to-share-your-playstation-5-experiences-with-friends-easily/"><u>Unlock Collaborative Gaming: Learn to Share Your PlayStation 5 Experiences with Friends Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-mystery-how-to-repair-your-androids-suddenly-blackened-screen/"><u>Unlock the Mystery: How to Repair Your Android's Suddenly Blackened Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11s-secure-testing-solution-enabling-and-configuring-sandbox/"><u>Win 11'S Secure Testing Solution: Enabling and Configuring Sandbox</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-cheapest-cloud-storage-service-for-mass-file/"><u>[New] 2024 Approved The Cheapest Cloud Storage Service for Mass File</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtubes-role-in-todays-dynamic-educational-landscape/"><u>[New] 2024 Approved YouTube's Role in Today's Dynamic Educational Landscape</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-exceptional-quality-hd-video-documenters/"><u>[Updated] 2024 Approved Exceptional Quality HD Video Documenters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-investigating-profit-per-viewer-engagement-on-video-platforms/"><u>[Updated] Investigating Profit per Viewer Engagement on Video Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-management-strategies-for-fetal-alcohol-syndrome-for-2024/"><u>[Updated] Management Strategies for Fetal Alcohol Syndrome for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlock-clarity-in-photos-leading-10-online-edits-at-a-glance-for-2024/"><u>[Updated] Unlock Clarity in Photos Leading 10 Online Edits at a Glance for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-best-value-top-6-discounted-4k-hd-projectors/"><u>2024 Approved Best Value Top 6 Discounted 4K HD Projectors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieving-a-million-on-the-map-a-strategic-view-to-sub-guide-for-2024/"><u>Achieving a Million on the Map A Strategic View-to-Sub Guide for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/conversioni-facili-da-video-tape-vhs-ai-dischi-dvd-con-il-tuo-personal-computer/"><u>Conversioni Facili Da Video Tape VHS Ai Dischi DVD Con Il Tuo Personal Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-creating-the-perfect-awkward-potion-in-minecraft/"><u>Easy Guide: Creating the Perfect Awkward Potion in Minecraft</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-how-to-recharge-your-mobile-device-without-traditional-chargers/"><u>Expert Tips: How To Recharge Your Mobile Device Without Traditional Chargers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-6-amazing-free-tools-for-graphic-designers-like-photoshop/"><u>Explore 6 Amazing Free Tools for Graphic Designers Like Photoshop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-lenovo-x1-carbon-driver-software-for-windows-107-users/"><u>Get the Latest Lenovo X1 Carbon Driver Software for Windows 10/7 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-compatibility-guaranteed-playing-ps4-titles-on-your-new-ps5-console/"><u>Is Compatibility Guaranteed: Playing PS4 Titles on Your New PS5 Console?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-repair-guide-dealing-with-the-error-of-a-lost-bootmgr-file/"><u>Step-by-Step Repair Guide: Dealing with the Error of a Lost BOOTMGR File</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-explanation-of-blinking-led-colors-on-a-ps4-controller-what-each-color-represents/"><u>The Ultimate Explanation of Blinking LED Colors on a PS4 Controller – What Each Color Represents</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/trouble-logging-in-to-blizzard-battlenet-server-crash-or-individual-connection-error/"><u>Trouble Logging in to Blizzard Battlenet - Server Crash or Individual Connection Error?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-helperdll-could-not-be-found-mistake/"><u>Troubleshooting the 'Helper.dll' Could Not Be Found Mistake</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-facebook-the-story-of-its-creation-popularity-and-main-attributes/"><u>Understanding Facebook: The Story of Its Creation, Popularity & Main Attributes</u></a></li>
 </ul></div>
 

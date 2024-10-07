@@ -1,7 +1,7 @@
 ---
 title: Exploring the Promise of AR/VR/XR Through Social Lenses with Agog Co-Founders | Featured on ZDNET
-date: 2024-09-18T17:57:21.716Z
-updated: 2024-09-21T00:43:04.433Z
+date: 2024-10-01T16:01:25.507Z
+updated: 2024-10-07T19:45:05.452Z
 tags:
   - ar+vr
 categories:
@@ -71,18 +71,31 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-create-a-sports-youtube-channel-on-mac/"><u>[New] How to Create a Sports YouTube Channel on Mac?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-anglers-guide-to-premium-fishing-cameras-for-2024/"><u>[Updated] Angler’s Guide to Premium Fishing Cameras for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-leap-over-a-thousand-followers-on-youtube-quickly/"><u>[Updated] Leap Over a Thousand Followers on YouTube Quickly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-skyrocketing-fb-engagement-masterful-seo-techniques-explored/"><u>[Updated] Skyrocketing FB Engagement Masterful SEO Techniques Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-chromecast-speaker-problems-getting-your-sounds-back/"><u>DIY Fixes for Chromecast Speaker Problems - Getting Your Sounds Back!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-cleaning-your-mechanical-keyboard-a-comprehensive-how-to/"><u>Mastering the Art of Cleaning Your Mechanical Keyboard - A Comprehensive How-To</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-dont-know-which-video-splitter-to-choose-just-check-out-our-list-of-the-5-best-video-software-for-splitting-videos-below/"><u>New 2024 Approved Dont Know Which Video Splitter to Choose? Just Check Out Our List of the 5 Best Video Software for Splitting Videos Below</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-stops-tips-to-prevent-your-pathfinder-game-from-haltinng-in-the-midst-of-battle-on-computer/"><u>No More Stops: Tips to Prevent Your Pathfinder Game From Haltinng in the Midst of Battle on Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-guide-updating-your-default-sata-and-ahci-drive-controllers/"><u>Simple Guide: Updating Your Default SATA and AHCI Drive Controllers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-fixing-zoom-camera-malfunctions/"><u>Step-by-Step Solutions for Fixing Zoom Camera Malfunctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-correcting-ntfs-boot-files-missing-issues-on-windows-pcs/"><u>Step-by-Step Tutorial: Correcting NTFS Boot Files Missing Issues on Windows PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-snappy-driver-installer-v1n13-performance-review-and-insights/"><u>The Ultimate Guide to Snappy Driver Installer v1.n13: Performance Review and Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-iphone-gps-navigation-apps/"><u>Top 5 Essential iPhone GPS Navigation Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-must-have-gps-navigation-apps-for-your-iphone/"><u>Top 5 Must-Have GPS Navigation Apps for Your iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-get-your-madden-22-up-and-running-today/"><u>Troubleshooting Made Easy: Get Your Madden 22 Up And Running Today</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

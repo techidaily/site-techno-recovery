@@ -1,7 +1,7 @@
 ---
 title: Unveiling Covert Wi-Fi Chips Enabling Smart Home Features on Macs and iPads | Is Yours Equipped? - ZDNet Insights
-date: 2024-09-29T17:29:26.894Z
-updated: 2024-10-01T18:00:25.034Z
+date: 2024-10-06T20:05:03.467Z
+updated: 2024-10-07T18:05:00.667Z
 tags:
   - apple
 categories:
@@ -75,10 +75,16 @@ Matthew Miller/ZDNET
 The battery provides up to 12 hours of data and the glasses are dust- and water-resistant, which means I can wear them all year long here in Puget Sound. I always wear glasses while biking, but rarely use them while running, and yet I have worn these for every run since they arrived. I am definitely buying my own pair to help me achieve my goals.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,24 +123,18 @@ The Engo 2 also ensure that I will continue to be a Strava Premium subscriber. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/fixed-windows-pc-health-check-app-not-working/"><u>[Fixed] Windows PC Health Check App Not Working</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-9-masterclass-in-live-gaming-streams/"><u>[New] 9 Masterclass in Live Gaming Streams</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-guide-to-rectify-failed-hardware-format-on-windows-devices/"><u>DIY Guide to Rectify Failed Hardware Format on Windows Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easily-leaving-safe-mode-on-your-pc-a-comprehensive-walkthrough-for-windows-natives/"><u>Easily Leaving Safe Mode on Your PC: A Comprehensive Walkthrough for Windows Natives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-and-fast-how-to-get-high-quality-mp3s-from-soundcloud-today/"><u>Easy & Fast: How To Get High-Quality MP3s From SoundCloud Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-fix-for-the-windows-11-installation-failed-with-error-code-80240020-your-guide/"><u>Easy Fix for the Windows 11 Installation Failed with Error Code 80240020 - Your Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-downgrading-your-nvidia-drivers-in-windows-10/"><u>Effective Techniques for Downgrading Your Nvidia Drivers in Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-techniques-for-optimizing-cpu-performance-and-reducing-load-on-windows-devices/"><u>Essential Techniques for Optimizing CPU Performance and Reducing Load on Windows Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-strategies-resetting-your-lost-snapchat-account-key/"><u>Expert Strategies: Resetting Your Lost Snapchat Account Key</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fast-track-changing-your-facebook-password-made-effortless/"><u>Fast Track: Changing Your Facebook Password Made Effortless</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guide-seamlessly-moving-images-from-your-samsung-galaxy-note-10-onto-a-computer/"><u>Guide: Seamlessly Moving Images From Your Samsung Galaxy Note 10 Onto a Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-poco-f5-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Poco F5 5G?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-7-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 7 Plus</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-innovative-platforms-simplifying-group-chats/"><u>In 2024, Innovative Platforms Simplifying Group Chats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-magix-image-handling-insights-reviewed/"><u>In 2024, MAGIX Image Handling Insights Reviewed</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-unleash-your-creativity-best-professional-animation-software-for-macwindows/"><u>New In 2024, Unleash Your Creativity Best Professional Animation Software for Mac/Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-iphones-share-focus-mode-a-comprehensive-guide/"><u>Understanding iPhone's 'Share Focus' Mode: A Comprehensive Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-7-sonic-alterations-mastering-the-art-of-digital-audio-transformation-for-2024/"><u>Updated Top 7 Sonic Alterations Mastering the Art of Digital Audio Transformation for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-windows-10-video-production-the-best-software-options-for-2024/"><u>Updated Windows 10 Video Production The Best Software Options for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-hero-4-vs-hero-5-performance-face-off/"><u>2024 Approved Hero 4 VS Hero 5 Performance Face-Off</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-skyward-savings-for-your-snaps-the-best-free-to-premium-cloud-storages/"><u>2024 Approved Skyward Savings for Your Snaps The Best Free to Premium Cloud Storages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898502038-boost-efficiency-with-dual-task-management-learn-how-to-split-screens-on-your-macbook-air-today/"><u>Boost Efficiency with Dual Task Management - Learn How to Split Screens on Your MacBook Air Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-the-stuck-passcode-on-your-ipad-a-comprehensive-fix/"><u>Bypassing the Stuck Passcode on Your iPad - A Comprehensive Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-repairing-broken-samsung-tv-application-services/"><u>Expert Tips on Repairing Broken Samsung TV Application Services</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-online-presence-with-effective-seo-through-cookiebot-systems/"><u>Maximize Online Presence with Effective SEO Through Cookiebot Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-resolution-for-out-of-memory-in-red-dead-redemption-2-increase-pagefile/"><u>Quick Resolution for 'Out of Memory' In Red Dead Redemption 2 - Increase Pagefile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009084096-solving-slow-chrome-dilemmas-quick-wins-for-browsers/"><u>Solving Slow Chrome Dilemmas – Quick Wins for Browsers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-troubleshooting-your-iphone-display-sharing-tool/"><u>Step-by-Step Solutions for Troubleshooting Your iPhone Display Sharing Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/supercharge-your-windows-experience-troubleshooting-tips-for-faster-operation-on-windows-nvme1ss/"><u>Supercharge Your Windows Experience: Troubleshooting Tips for Faster Operation on Windows Nvme1ss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722903418628-synchronize-disneyplus-and-chromecast-for-ultimate-viewing-pleasure-tutorial/"><u>Synchronize Disney+ and Chromecast for Ultimate Viewing Pleasure – Tutorial</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-strategy-for-efficient-use-of-mobizens-recording-features-for-2024/"><u>The Ultimate Strategy for Efficient Use of Mobizen's Recording Features for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-setting-up-auto-gpt-on-ubuntu-systems/"><u>Ultimate Guide to Setting Up Auto-GPT on Ubuntu Systems</u></a></li>
 </ul></div>
 

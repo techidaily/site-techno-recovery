@@ -1,7 +1,7 @@
 ---
 title: "Sub-Hundred Dollars and High Performance: Meet the New Earbuds That Challenge AirPods Pricing | ZDNET"
-date: 2024-09-29T09:23:00.447Z
-updated: 2024-10-02T05:48:40.728Z
+date: 2024-09-30T16:33:46.792Z
+updated: 2024-10-07T18:52:03.356Z
 tags:
   - apple
 categories:
@@ -87,10 +87,10 @@ Other than all of these improvements, this device works like an AirTag. It's act
 This is the AirTag that Apple should have made. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -127,24 +127,16 @@ This is the AirTag that Apple should have made.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-elite-choice-of-cameras-the-top-8-for-live-video/"><u>[Updated] In 2024, Elite Choice of Cameras The Top 8 for Live Video</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones/"><u>[Updated] Innovating Messaging Sounds A Guide to Downloading & Personalizing WhatsApp Ringtones</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-a-simple-yet-effective-guide-for-starting-a-skype-group-discussion-across-different-os-platforms/"><u>2024 Approved A Simple yet Effective Guide for Starting a Skype Group Discussion Across Different OS Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-nubia-z50s-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nubia Z50S Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/dll-concern-msvcr120-not-present-in-win/"><u>DLL Concern: MSVCR120 Not Present in Win</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-fps-performance-for-modern-video-games-tips-and-fixes/"><u>Enhancing FPS Performance for Modern Video Games: Tips & Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-not-detected-message-solutions-for-d3dx926dll-file-issues/"><u>Fix the 'Not Detected' Message: Solutions for D3DX9_26.dll File Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-download-epson-scanner-drivers-for-windows-11/"><u>How to Download Epson Scanner Drivers for Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-factory-reset-acer-laptop-step-by-step/"><u>How to Factory Reset Acer Laptop - Step by Step</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-format-sd-card-on-windows-1087xp-solved/"><u>How to Format SD Card on Windows 10/8/7/XP [Solved]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-windows-10-updates-faster-effective-strategies-inside/"><u>How to Get Windows 10 Updates Faster - Effective Strategies Inside</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-integrate-a-computer-printer-with-windows-11-a-comprehensive-guide/"><u>How to Integrate a Computer Printer with Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-link-two-displays-with-a-single-laptop-unit/"><u>How to Link Two Displays with a Single Laptop Unit</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oneplus-by-fonelab-android-recover-music/"><u>How to recover old music from your OnePlus</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-change-pictures-into-fun-animated-gif-files/"><u>How To Seamlessly Change Pictures Into Fun Animated GIF Files</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>In 2024, A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/legally-spying-on-mobile-phones-your-step-by-step-guide/"><u>Legally Spying on Mobile Phones - Your Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-kodi-streaming-a-complete-resource-for-all-your-questions-answered/"><u>Mastering Kodi Streaming: A Complete Resource for All Your Questions Answered</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-online-meetings-zoom-for-win10-for-2024/"><u>Streamlining Online Meetings Zoom for WIN10 for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-exploring-the-unexpected-sideway-effects-in-ig-videos/"><u>[New] In 2024, Exploring the Unexpected Sideway Effects in IG Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-dive-into-the-world-of-instagram-voice-personalization/"><u>[Updated] Dive Into the World of Instagram Voice Personalization</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-illustrator-guide-to-dynamic-text-art-for-2024/"><u>[Updated] The Illustrator Guide to Dynamic Text Art for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-apps-and-websites-for-american-sign-language-training/"><u>Best Free Apps and Websites for American Sign Language Training</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/countdown-magic-discover-10-must-have-androidios-clocks-for-2024/"><u>Countdown Magic Discover 10 Must-Have Android/iOS Clocks for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722873653858-customizing-your-desktop-text-how-to-change-the-font-in-windows-11/"><u>Customizing Your Desktop Text: How to Change the Font in Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-sending-direct-tweets-share-photosvideos-on-twitter-without-retweeting/"><u>In 2024, Sending Direct Tweets Share Photos/Videos on Twitter without Retweeting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sequencing-your-way-through-the-classic-superman-movie-series/"><u>Sequencing Your Way Through the Classic 'Superman' Movie Series</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-safeguard-your-data-in-5-simple-steps/"><u>The Ultimate Guide: Safeguard Your Data in 5 Simple Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-page-not-found-mistake-explanation-and-solutions/"><u>Understanding the 'Page Not Found' Mistake: Explanation & Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unveiling-the-power-of-the-tcl-32s325-an-exclusive-2019-roku-smart-led-tv-assessment/"><u>Unveiling the Power of the TCL 32S325 - An Exclusive 2019 Roku Smart LED TV Assessment</u></a></li>
 </ul></div>
 

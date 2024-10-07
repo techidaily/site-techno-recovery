@@ -1,7 +1,7 @@
 ---
 title: "IOS Integrates AI: Apple Collaborates with OpenAI to Introduce ChatGPT on iPhone, iPad, and Mac - Insights From ZDNet"
-date: 2024-09-28T02:29:57.023Z
-updated: 2024-10-01T22:57:28.117Z
+date: 2024-09-30T16:14:54.628Z
+updated: 2024-10-07T18:16:01.814Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -108,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,6 +123,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -152,13 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,19 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-iconic-video-titles-youtubes-most-watched-lore/"><u>[Updated] In 2024, Iconic Video Titles YouTube's Most-Watched Lore</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-secrets-of-speed-instant-background-cleanse-techniques/"><u>[Updated] Secrets of Speed Instant Background Cleanse Techniques</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-dts-play-fi-and-its-functionality/"><u>Exploring The World of DTS Play-Fi and Its Functionality</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-a-comprehensible-guide-on-saving-instagram-story-content/"><u>In 2024, A Comprehensible Guide on Saving Instagram Story Content</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-ultimate-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Ultimate Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-guide-mapmyride-app-evaluation/"><u>In-Depth Guide: MapMyRide App Evaluation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mediatek-enters-the-fray-preparing-arm-chips-for-laptops-running-windows-after-qualcomm-deal-concludes/"><u>MediaTek Enters the Fray: Preparing ARM Chips for Laptops Running Windows After Qualcomm Deal Concludes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ranking-apples-lineup-finding-your-perfect-iphone-companutionary-gamer-device/"><u>Ranking Apple's Lineup: Finding Your Perfect iPhone Companutionary Gamer Device</u></a></li>
-<li><a href="https://fox-http.techidaily.com/selecting-the-ideal-vr-device-seeking-simplicity-with-wireless-or-precision-with-tethers-for-2024/"><u>Selecting the Ideal VR Device Seeking Simplicity with Wireless, Or Precision With Tethers for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-beginners-pathway-to-becoming-a-pokemon-unite-pro/"><u>The Beginner's Pathway to Becoming a Pokémon Unite Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-3-emerging-technology-innovations-you-cant-ignore/"><u>Top 3 Emerging Technology Innovations You Can't Ignore</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ial-quickly-convert-youtube-audio-to-mp3-on-mac/"><u>Tutorial Quickly Convert YouTube Audio to MP3 on Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-step-by-step-enable-and-use-split-view-on-a-macbook-air/"><u>Ultimate Step-by-Step: Enable and Use Split View on a MacBook Air</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-vdl-screen-capturers-critique-in-depth-look/"><u>[New] In 2024, VDL Screen Capturer's Critique In-Depth Look</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-jump-start-your-journey-to-quality-video-edits-in-windows-10/"><u>[New] Jump-Start Your Journey to Quality Video Edits in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-creative-potential-with-luts-in-cs6cc/"><u>[Updated] Unlocking Creative Potential with LUTs in CS6/CC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-lost-online-identities-tips-for-recovering-deleted-emails/"><u>Finding Lost Online Identities: Tips for Recovering Deleted Emails</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722897910174-get-ready-for-amazon-prime-day-2amday2024-essential-info-you-cant-miss/"><u>Get Ready for Amazon Prime Day 2Amday_2024 – Essential Info You Can't Miss!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-the-power-of-hdr-in-portrait-photography/"><u>Harnessing the Power of HDR in Portrait Photography</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-elevate-video-conferencing-skills-google-meet-aesthetics-guide/"><u>In 2024, Elevate Video Conferencing Skills Google Meet Aesthetics Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-s24plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy S24+ Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selecting-your-dream-mobile-coverage-tips-and-tricks/"><u>Selecting Your Dream Mobile Coverage: Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/send-faxes-without-spending-a-penny-learn-about-these-7-services/"><u>Send Faxes Without Spending a Penny - Learn About These 7 Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/silencing-spam-how-to-prevent-unwanted-texts-on-ios-devices/"><u>Silencing Spam: How to Prevent Unwanted Texts on iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-changing-your-samsung-tvs-built-in-web-browser/"><u>Step-by-Step Guide: Changing Your Samsung TV's Built-In Web Browser</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722903355030-the-complete-overview-of-biometrics-explained/"><u>The Complete Overview of Biometrics Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-communication-how-to-utilize-chatgpts-translation-features/"><u>The Future of Communication: How to Utilize ChatGPT’s Translation Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/transcript-download-analyze-content-for-2024/"><u>Transcript Download, Analyze Content for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-what-to-do-when-you-cant-find-x3daudiodll-on-your-pc/"><u>Troubleshooting: What to Do When You Can't Find X3DAudio.DLL on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/twitter-success-formula-proven-techniques-to-expand-your-digital-community/"><u>Twitter Success Formula: Proven Techniques to Expand Your Digital Community</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-display-showcasing-your-laptops-screen-on-tv-using-hdmi-connection/"><u>Wireless Display: Showcasing Your Laptop's Screen on TV Using HDMI Connection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal: Enjoy a Cozy Ambiance with the $50 Colsen Tabletop Fire Pit - Now in Stock!"
-date: 2024-09-19 10:13:37
-updated: 2024-09-20 10:50:38
+date: 2024-10-01T18:12:01.664Z
+updated: 2024-10-07T17:36:23.150Z
 tags:
   - yard-outdoors
 categories:
@@ -20,6 +20,13 @@ Maria Diaz/ZDNET
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +86,13 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +104,13 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +137,31 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-industry-leaders-top-10-free-lut-resource-list/"><u>[New] 2024 Approved Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-vr-liftoff-top-peripherals-and-their-impacts/"><u>[New] VR Liftoff - Top Peripherals & Their Impacts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-comprehensive-examination-editrite-pro-suite-the-final-word-2023/"><u>2024 Approved Comprehensive Examination EditRite Pro Suite – The Final Word, 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-auto-click-applications-for-your-android-phone-no-root-required/"><u>Best Auto-Click Applications for Your Android Phone (No Root Required)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/camera-selection-for-young-shooters-top-picks-24-for-2024/"><u>Camera Selection For Young Shooters - Top Picks '24 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-for-creating-snapshots-on-xbox-one-gaming-systems/"><u>Easy Methods for Creating Snapshots on Xbox One Gaming Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/humor-hacks-simplifying-the-process-of-meme-creation/"><u>Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lenovo-ideapad-100-driver-update-and-download-guide-for-windows-11-users/"><u>Lenovo IdeaPad 100 Driver Update & Download Guide for Windows 11 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/markets-tiny-helicopters-a-ranked-list/"><u>Market's Tiny Helicopters A Ranked List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/micromobile-universe-explored-timelines-news-roundup-whispers-and-comprehensive-insights/"><u>Micromobile Universe Explored: Timelines, News Roundup, Whispers & Comprehensive Insights!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-your-iphone-contacts-disappear-and-how-to-bring-them-back/"><u>Solving the Issue: Why Your iPhone Contacts Disappear and How to Bring Them Back</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-accessing-instagram-content-as-a-non-user/"><u>Step-by-Step Guide: Accessing Instagram Content as a Non-User</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-hook-up-your-pc-with-a-bluetooth-speaker/"><u>The Ultimate Guide to Hook Up Your PC with a Bluetooth Speaker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-how-to-locate-and-restore-python24dll-files/"><u>Troubleshooting Tips: How to Locate and Restore Python24.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-missing-or-inaccessible-mfc42dll-errors/"><u>Understanding and Repairing Missing or Inaccessible mfc42.dll Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-distinct-features-of-cable-tv-and-streaming-services/"><u>Unraveling the Distinct Features of Cable TV and Streaming Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-waterproof-ratings-for-the-revolutionary-iphone-15/"><u>Unveiling the Waterproof Ratings for the Revolutionary iPhone 15</u></a></li>
+</ul></div>
+

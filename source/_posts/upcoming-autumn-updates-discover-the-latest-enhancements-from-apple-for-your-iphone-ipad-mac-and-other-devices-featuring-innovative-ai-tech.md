@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Updates: Discover the Latest Enhancements From Apple for Your iPhone, iPad, Mac, and Other Devices Featuring Innovative AI Tech"
-date: 2024-09-27T00:57:46.769Z
-updated: 2024-10-02T11:08:12.751Z
+date: 2024-10-01T17:34:03.751Z
+updated: 2024-10-07T16:14:19.412Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -115,16 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -137,6 +131,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -147,13 +148,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -224,24 +218,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-dynamic-duo-of-dialogue-for-podcasters/"><u>[Updated] 2024 Approved Dynamic Duo of Dialogue For Podcasters</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-erasing-extra-borders-for-smooth-youtube-playback-for-2024/"><u>[Updated] Erasing Extra Borders for Smooth YouTube Playback for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-monitors-unveiled-the-ultimate-guide-for-sourcing-a-stellar-4k-screen/"><u>[Updated] Monitors Unveiled The Ultimate Guide for Sourcing a Stellar 4K Screen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-discover-your-next-favorite-book-with-audible/"><u>1. Discover Your Next Favorite Book with @Audible</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-editing-epub-books-at-zero-cost-master-the-art-of-using-sigil/"><u>1. Editing EPUB Books at Zero Cost: Master the Art of Using Sigil</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-mastering-the-art-of-e-book-reading-on-microsofts-win-8-tablets-surface-rt-and-pro-guides/"><u>1. Mastering the Art of E-Book Reading on Microsoft's Win 8 Tablets: Surface RT & Pro Guides</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-transfer-your-reading-materials-4-methods-to-move-epub-and-pdf-books-onto-your-kobo-reader/"><u>1. Transfer Your Reading Materials: 4 Methods to Move EPUB & PDF Books Onto Your Kobo Reader</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-ultimate-sky-archive-sentries-2-written-by-a-user-not-an-ai-model/"><u>Android's Ultimate Sky Archive Sentries (2 Written by a User, Not an AI Model</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g-stylus-2023-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11r-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus 11R Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dslr-or-mirrorless-for-high-quality-video-recording/"><u>In 2024, DSLR or Mirrorless for High-Quality Video Recording?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-g24-power-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola G24 Power?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-vitalsource-content-step-by-step-guide-to-removing-drm-from-vbk-files/"><u>Unlock Your VitalSource Content: Step-by-Step Guide to Removing DRM From .VBK Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-audible-audiobook-access-removing-drm-on-your-android-device/"><u>Unlocking Audible Audiobook Access: Removing DRM on Your Android Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-epub-content-on-your-kindle-paperwhite-simple-steps-for-enjoyment/"><u>Unlocking EPUB Content on Your Kindle Paperwhite: Simple Steps for Enjoyment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-knowledge-freedom-a-comprehensive-tutorial-on-drm-removal-for-mobipocket-books/"><u>Unlocking Knowledge Freedom: A Comprehensive Tutorial on DRM Removal for Mobipocket Books</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-effective-web-content-a-comprehensive-guide/"><u>Unveiling the Secrets of Effective Web Content: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ultimate-ff-downloader-suite-for-social-video-grabs/"><u>[Updated] In 2024, Ultimate FF Downloader Suite for Social Video Grabs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-rhythm-rendezvous-optimal-dj-video-selections/"><u>[Updated] Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-your-guide-to-affordable-android-recording-with-top-8-free-apps/"><u>[Updated] Your Guide to Affordable Android Recording with Top 8 Free Apps</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/batman-arkham-knight-instant-solutions-for-game-crashes-and-critical-failures/"><u>Batman: Arkham Knight - Instant Solutions for Game Crashes & Critical Failures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722868588369-download-the-ultimate-list-of-15-free-windows-11-themes-here/"><u>Download the Ultimate List of 15 Free Windows 11 Themes Here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-infinix-hot-30-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/effortless-srt-conversion-the-ultimate-txt-solution-in-a-flash/"><u>Effortless SRT Conversion The Ultimate TXT Solution in a Flash</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-and-resolve-msodll-file-missing-error-on-your-pc/"><u>How to Repair and Resolve mso.dll File Missing Error on Your PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/saving-screen-preferences-success-achieved/"><u>Saving Screen Preferences: Success Achieved</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tracking-down-your-data-consumption-easily-and-effectively/"><u>Tracking Down Your Data Consumption Easily and Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-distinct-features-of-home-theater-and-stereo-sound-receivers/"><u>Unraveling the Distinct Features of Home Theater & Stereo Sound Receivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whos-tuned-in-effective-strategies-to-identify-your-youtube-video-spectators/"><u>Who's Tuned In? Effective Strategies to Identify Your YouTube Video Spectators</u></a></li>
 </ul></div>
 

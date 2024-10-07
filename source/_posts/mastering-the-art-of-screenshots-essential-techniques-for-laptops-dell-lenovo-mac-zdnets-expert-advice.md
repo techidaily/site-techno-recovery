@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Screenshots: Essential Techniques for Laptops (Dell, Lenovo, Mac) | ZDNet's Expert Advice"
-date: 2024-09-19 18:55:45
-updated: 2024-09-20 11:53:57
+date: 2024-09-30T17:52:51.354Z
+updated: 2024-10-07T17:30:49.080Z
 tags:
   - work-life
 categories:
@@ -31,6 +31,13 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: The old fashioned way**
 
 ## 1\. Use your Print Screen key
@@ -55,7 +62,21 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -85,6 +106,13 @@ Michael Gariffo/ZDNET
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Is there an easy way to record video of my laptop screen too? 
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
@@ -92,6 +120,13 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 ### What's a good, free image editing software to use on my screenshots? 
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot? 
 
@@ -123,11 +158,26 @@ There's a few reasons why things can look strange in your screenshots. Animated 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-wallet-friendly-mirrorless-choices/"><u>[New] 2024 Approved Wallet-Friendly Mirrorless Choices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-exploring-mozillas-split-screen-technique-in-firefox-for-2024/"><u>[New] Exploring Mozilla's Split Screen Technique in Firefox for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-insights-into-full-periscope-utilization/"><u>[New] In-Depth Insights Into Full Periscope Utilization</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-terranomes-uncovering-treasure-in-virtual-landscapes/"><u>[New] Top Terranomes Uncovering Treasure in Virtual Landscapes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-simple-starts-proving-talent-with-tiktok-edits/"><u>[Updated] From Simple Starts Proving Talent with TikTok Edits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-game-changing-capture-technology-for-switch/"><u>[Updated] Game-Changing Capture Technology for Switch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/20-must-haves-free-copyright-compliant-relaxation-tracks-for-2024/"><u>20 Must-Haves Free, Copyright-Compliant Relaxation Tracks for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-5-cost-free-anti-malware-solutions/"><u>Discover the Leading 5 Cost-Free Anti-Malware Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-access-gratis-worldwide-dns-systems-for-web-navigation/"><u>How To Access Gratis Worldwide DNS Systems For Web Navigation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100a-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100A Pattern Lock Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-iphone-album-collaborations/"><u>Master the Art of iPhone Album Collaborations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-day-with-these-4-windows-11-screenshot-tricks/"><u>Simplify Your Day with These 4 Windows 11 Screenshot Tricks</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Productivity with Kindle Scrivener: Essential Techniques and Strategies for Mastering Amazon's E-Writer Tool | TechAdvice"
-date: 2024-09-17 11:11:19
-updated: 2024-09-20 10:10:52
+date: 2024-10-03T16:43:30.388Z
+updated: 2024-10-07T17:09:52.357Z
 tags:
   - work-life
 categories:
@@ -63,6 +63,13 @@ The same goes for the highlighter. As for the eraser, you can control how wide t
 
 Screenshot by Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to customize the Pen's shortcut button 
 
 The premium pen for the scribe has a shortcut button near the end of the pen. When you press and hold the button, and then use the pen, it quickly changes its behavior, and then changes back when you release the button. 
@@ -72,6 +79,13 @@ I currently have the button set to act as an erasre so I don't have to constantl
 To change how the button behaves on your premium pen, select the **More** tab along the bottom of your Kindle and then tap **Settings > Pen > Pen Shortcuts**. Then select the behavior you want under the Shortcut tool section. Right now, the options are Highlighter, Pen, Eraser or Sticky note. 
 
 Screenshot by Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What you can do with the Pen in a Kindle book 
 
@@ -84,6 +98,19 @@ You may have had a weird look on your face when I mentioned sticky notes in the 
 When you're viewing a Kindle book, you can create and leave sticky notes in the book using the pen. These notes can then be exported once you're done reading the book, so you have all of your notes in one place. 
 
 If you don't have a premium pen, you can use the toolbar's sticky note button to create the note, or if you have the premium pen and have the shortcut button set to sticky note, just hold in the button, tap the tip of the pen on the page and the note interface will show up. 
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to get documents, PDFs on the Kindle Scribe 
 
@@ -108,6 +135,13 @@ Screenshots by Jason Cipriani/ZDNET
 It's simple: Install the Kindle app. That's right, your Notebooks will sync across Amazon's Kindle app, putting them directly on your phone, for example. You can't edit or add to your notes, but at least you'll have access to them while away from your Scribe. 
 
 Screenshot by Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to share a notebook or document 
 
@@ -138,11 +172,31 @@ The recipient of the notebook will receive a link to download the PDF that's goo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-virtual-anonymity-to-facebook-fame-how-to-expand-your-audience/"><u>[New] In 2024, From Virtual Anonymity to Facebook Fame How to Expand Your Audience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-stepwise-strategies-for-measuring-yt-success-metrics-and-revenue-for-2024/"><u>[Updated] Stepwise Strategies for Measuring YT Success Metrics and Revenue for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-dos-and-donts-of-youtube-videos-on-twitter/"><u>2024 Approved The Dos and Don'ts of YouTube Videos on Twitter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-leaderboard-of-first-zeoid-innovations/"><u>2024 Approved The Leaderboard of First Zeoid Innovations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-your-display-a-users-manual-for-hp-laptop-shots/"><u>Capturing Your Display: A User's Manual for HP Laptop Shots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clearing-up-color-anomalies-a-guide-to-restore-your-monitors-true-hue/"><u>Clearing Up Color Anomalies: A Guide To Restore Your Monitor's True Hue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-and-correcting-the-n-error-in-your-windows-environment/"><u>Decoding and Correcting the 'N'-Error in Your Windows Environment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-ins-and-outs-of-atandt-cellular-roaming-agreements/"><u>Exploring the Ins and Outs of AT&T Cellular Roaming Agreements</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-13-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 13 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-xiaomi-redmi-12-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Xiaomi Redmi 12 Phone Screen?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-fascinating-facts-about-emojis-that-will-surprise-you/"><u>Top 10 Fascinating Facts About Emojis That Will Surprise You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722857571020-trouble-with-msvbvm50dll-heres-how-to-correctly-fix-the-not-found-error/"><u>Trouble with MSVBVM50.DLL? Here's How to Correctly Fix the Not Found Error!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tutorial-on-integrating-multiple-jpg-images-into-a-unified-pdf-file/"><u>Tutorial on Integrating Multiple JPG Images Into a Unified PDF File</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-twitch-connectivity-problems-service-interruption-vs-personal-access-issues/"><u>Understanding Twitch Connectivity Problems: Service Interruption vs Personal Access Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-is-my-ps4-controller-flickering-in-various-colors-a-guide-to-understanding-the-codes/"><u>Why Is My PS4 Controller Flickering in Various Colors? A Guide to Understanding the Codes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wie-kann-man-im-system-plex-mit-av1-videodateien-umgehen-losungen-fur-das-streaming-in-av1-format/"><u>Wie Kann Man Im System Plex Mit AV1-Videodateien Umgehen? Lösungen Für Das Streaming in AV1-Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wp-apps-face-off-intel-unison-or-microsofts-phone-link/"><u>WP Apps Face-Off: Intel Unison or Microsoft's Phone Link?</u></a></li>
+</ul></div>
+

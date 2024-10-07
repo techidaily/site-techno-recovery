@@ -1,7 +1,7 @@
 ---
 title: "Maintaining a Vibrant Team Culture in Post-Pandemic Work Life: Hybrid or Office? Tips From ZDNet"
-date: 2024-09-19 11:16:59
-updated: 2024-09-20 11:56:28
+date: 2024-10-05T19:47:52.695Z
+updated: 2024-10-07T17:09:25.557Z
 tags:
   - work-life
 categories:
@@ -25,6 +25,13 @@ So, how can companies create an effective balance between home and office work? 
 
 Athina Kanioura, chief strategy and transformation officer at PepsiCo, agrees hybrid working is here to stay and wants to make it a success.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Securing Data in a Hybrid World Data security was a rising concern before the pandemic. Today, the new era of hybrid work has only intensified the issue, with far more employees now splitting time between the office and remote work. Innovative new security solutions and approaches are needed to rise to the challenge.  Read now](https://www.zdnet.com/collection/securing-data-in-a-hybrid-world/)
@@ -41,6 +48,13 @@ She believes new workers must meet and connect in person regularly, so her team 
 
 Kanioura's staff use their time at HQ to engage productively through meetings and one-to-ones. Home working is for developing insight on projects; office working is for taking action. "When we make a decision, we have to be together -- because we have to debate, we have to argue, and we have to drive to an ultimate outcome," she says. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use your time in the office to share ideas
 
 Mark O'Brien, senior platform manager at Leeds Building Society, says his organization has found a cadence -- usually three days in the office and two days at home -- that's effective for most professionals and their managers.
@@ -56,6 +70,13 @@ O'Brien says it's important to remember that being an effective professional mea
 "It does help to be in and around people and to see them. That's particularly true of collaborative stuff," he says. "Some of that is corridor conversations, especially from a management and leadership point of view. I haven't really found a successful online alternative. It's surprising how much you can do in five minutes chatting after bumping into someone in a corridor."
 
 **Also:** [**Zoom is expanding its platform to become a one-stop digital workplace**](https://www.zdnet.com/article/zoom-is-expanding-its-platform-to-become-a-one-stop-digital-workplace/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Use the right channels to stay in touch
 
@@ -88,6 +109,13 @@ Instead, Lawson encourages an informal online get-together, where the whole team
 "The team has a laugh; they get interaction, and they see faces that they don't get to see because they're not in the office walking past. We need to encourage more of that," he says.
 
 "I like meandering conversations to happen and that's hard to do remotely. But I feel like, if we can crack collaboration, then a hybrid approach will ultimately prevail."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Let people decide what works best for them
 
@@ -139,11 +167,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-reviews-best-game-capture-apps/"><u>[New] 2024 Approved Expert Reviews Best Game Capture Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-essential-tips-for-incorporating-soundtracks-in-adobe-premiere/"><u>[New] Essential Tips for Incorporating Soundtracks in Adobe Premiere</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-chatcam-downloader-high-quality/"><u>[Updated] In 2024, ChatCam Downloader, High Quality</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-renowned-companies-advancing-virtual-reality-tech-for-2024/"><u>[Updated] Renowned Companies Advancing Virtual Reality Tech for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customizing-chromecast-display-easy-tips-for-new-backgrounds/"><u>Customizing Chromecast Display: Easy Tips for New Backgrounds</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-12-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 12 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/effective-methods-share-twitch-stream-on-facebook-for-2024/"><u>Effective Methods | Share Twitch Stream on Facebook for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-resolving-acrocefexe-program-malfunction/"><u>Effective Solutions for Resolving AcroCEF.exe Program Malfunction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficient-memory-management-for-android-devices-how-to-clear-the-cache-quickly/"><u>Efficient Memory Management for Android Devices: How to Clear the Cache Quickly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-a-windows-machine-a-comprehensive-walkthrough-of-correcting-code-28-problems/"><u>Fixing a Windows Machine: A Comprehensive Walkthrough of Correcting 'Code 28' Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-connecting-apple-earbuds-to-your-switch-game-system/"><u>Guide to Connecting Apple Earbuds to Your Switch Game System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/handling-errors-steps-for-nintendo-wii-unable-to-process-disc-data/"><u>Handling Errors: Steps for Nintendo Wii Unable to Process Disc Data</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-translate-any-hindi-video-into-english-with-ai/"><u>In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insightful-guide-to-the-upcoming-google-tv-streaming-stick-anticipated-launch-dates-and-pricing/"><u>Insightful Guide to the Upcoming Google TV Streaming Stick - Anticipated Launch Dates & Pricing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/join-the-fun-learn-how-to-make-amazing-duets-on-tiktok-today/"><u>Join the Fun! Learn How to Make Amazing Duets on TikTok Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-common-issues-with-netflix-streaming-on-your-roku-box-or-stick/"><u>Solving Common Issues with Netflix Streaming on Your Roku Box or Stick</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-play-8t-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Play 8T? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-news.techidaily.com/streamlining-your-digital-library-a-guide-to-quick-reliable-internet-music-downloading/"><u>Streamlining Your Digital Library: A Guide to Quick, Reliable Internet Music Downloading</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-technique-for-restarting-your-ipad-across-all-versions/"><u>The Definitive Technique for Restarting Your iPad Across All Versions</u></a></li>
+</ul></div>
+

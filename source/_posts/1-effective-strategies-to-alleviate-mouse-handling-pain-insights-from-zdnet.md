@@ -1,7 +1,7 @@
 ---
 title: "1. Effective Strategies to Alleviate Mouse-Handling Pain: Insights From ZDNet"
-date: 2024-09-17 22:21:32
-updated: 2024-09-20 11:33:35
+date: 2024-10-05T18:07:08.814Z
+updated: 2024-10-07T17:50:49.998Z
 tags:
   - work-life
 categories:
@@ -43,6 +43,13 @@ Simple, cheap, and non-invasive.
 
 I almost always work seven days a week, so if I had to declare a wrist sick day, there was usually no real problem. After all, almost everyone is entitled to a day off once or twice a year. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Not this time 
 
 Unfortunately, not this time. This time I had a deliverable due on Wednesday and I had to get it done. Worse, this time my wrist hurt a bit worse than on previous occasions. I was honestly somewhat worried. 
@@ -54,6 +61,13 @@ To meet my obligation and still care for my wrist, I turned to a combination of 
 In this article, I'm going to first talk about my work-practice changes, and then discuss the resources I used to support those changes. 
 
 Let's go. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Narrow the focus 
 
@@ -95,6 +109,13 @@ And, again, check with your doctor. This works for me, but it's best to check wi
 
 I also took Extra Strength Tylenol and Aleve, following the package directions. Obviously, check with your doctor before using any medication. I am neither a doctor nor do I play one on TV, so get real advice from someone with a medical clue. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Take breaks 
 
 The article I had to write wasn't all that big, roughly 1,200 words or so. Unfortunately, it was on a technical, fairly obscure topic, so it required a lot of research. 
@@ -135,6 +156,13 @@ A trackpad was something I didn't have. I placed an order with Amazon and had an
 
 I'm also somewhat excited because the Magic Trackpad 2 has some gestures that work great with both Final Cut Pro and Autodesk Fusion 360, two programs I use regularly. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A fairly simple strategy 
 
 Overall, I have a fairly simple strategy when my wrist acts up: 
@@ -159,11 +187,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamline-success-blending-obs-zoom-made-easy/"><u>[New] 2024 Approved Streamline Success Blending OBS, Zoom Made Easy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-learn-the-art-of-video-to-animation-stepwise-guide-for-efficient-gif-creation/"><u>[Updated] 2024 Approved Learn The Art Of Video to Animation Stepwise Guide for Efficient Gif Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-video-placement-on-social-media-platforms-for-2024/"><u>[Updated] Mastering Video Placement on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unraveling-the-secrets-of-iphone-hdr/"><u>2024 Approved Unraveling the Secrets of iPhone HDR</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-503-error-code-causes-and-resolution-steps/"><u>Decoding the 503 Error Code - Causes and Resolution Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-address-audacitys-lameencdll-malfunctioning/"><u>Effective Strategies to Address Audacity's lame_enc.dll Malfunctioning</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-realme-12-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme 12 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps4-controller-light-indicators-explained-blue-white-red-and-orange-blinks/"><u>PS4 Controller Light Indicators Explained - Blue, White, Red, and Orange Blinks!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-subtitles-to-your-instagram-story-videos/"><u>Step-by-Step Guide: Adding Subtitles to Your Instagram Story Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-streaming-services-without-cost-discover-your-new-favorites/"><u>Top 10 Streaming Services Without Cost: Discover Your New Favorites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-water-resistant-cellphone-covers/"><u>Top Rated Water-Resistant Cellphone Covers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tuneful-images-the-apple-fusion-method-for-2024/"><u>Tuneful Images The Apple Fusion Method for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How Meta Quest's Supernatural App Revolutionized My Fitness Journey – Why Going Back Is Unthinkable | ZDNET
-date: 2024-09-19 20:40:40
-updated: 2024-09-20 12:17:36
+date: 2024-10-03T19:55:29.681Z
+updated: 2024-10-07T17:29:45.606Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,38 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-cutting-edge-8-streaming-selectors/"><u>[New] 2024 Approved Cutting-Edge 8 Streaming Selectors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>[New] Becoming a Metaverse Veteran Top 7 Gadgets for the Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-macx-dvd-ripper-pro-historys-top-ranked-mac-dvd-converter/"><u>1. MacX DVD Ripper Pro - History's Top-Ranked Mac DVD Converter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-embedding-echoes-adding-audio-to-your-powerpoint-slides/"><u>2024 Approved Embedding Echoes Adding Audio to Your PowerPoint Slides</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-output-displays-in-window-based-os/"><u>Altering Output Displays in Window-Based OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/combining-multiple-jpeg-photos-a-comprehensive-guide-to-creating-a-single-pdf/"><u>Combining Multiple JPEG Photos: A Comprehensive Guide to Creating a Single PDF</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-giants-in-tech-can-you-find-the-right-fit-for-an-iphone-or-android/"><u>Comparing Giants in Tech: Can You Find the Right Fit for an iPhone or Android?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/lence-guild-crafting-photos-plus-sounds-visuals/"><u>Excellence Guild Crafting Photos + Sounds, Visuals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-look-at-the-next-gen-google-pixel-tablet-preorder-info-and-complete-tech-overview/"><u>Exclusive Look at the Next-Gen Google Pixel Tablet – Preorder Info & Complete Tech Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-everyday-tv-mishaps-a-handbook-on-fixing-prevalent-issues/"><u>Navigating Through Everyday TV Mishaps: A Handbook on Fixing Prevalent Issues</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-sound-design-excellence-applying-audio-ducking-methods-in-powerdirector-for-non-intrusive-volume-reduction-for-2024/"><u>New Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-big-reveal-2025-dates-latest-headlines-product-launches-and-speculations/"><u>Samsung's Big Reveal 2025: Dates, Latest Headlines, Product Launches & Speculations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-viewing-guide-watching-x-men-saga-from-beginning-to-end/"><u>The Ultimate Viewing Guide: Watching X-Men Saga From Beginning to End</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-claude-pro-a-comparative-analysis-with-microsofts-chatgpt-plus/"><u>Understanding Claude Pro: A Comparative Analysis with Microsoft's ChatGPT Plus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-full-potential-using-polarrs-image-tools-for-2024/"><u>Unlock Full Potential Using Polarr's Image Tools for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-samsung-galaxy-z-flip-7-anticipated-costs-launch-timeline-features-and-latest-leaks/"><u>Unveiling the Samsung Galaxy Z Flip 7: Anticipated Costs, Launch Timeline, Features & Latest Leaks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-event-insights-unveiling-date-latest-buzz-and-prospects/"><u>Upcoming Apple Event Insights: Unveiling Date, Latest Buzz & Prospects</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

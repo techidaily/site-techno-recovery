@@ -1,7 +1,7 @@
 ---
 title: "Why Managing Differs From Leadership: Key Insights & Implications - Explore on ZDNet"
-date: 2024-09-18 19:19:12
-updated: 2024-09-20 10:52:25
+date: 2024-10-02T16:37:28.269Z
+updated: 2024-10-07T16:02:31.277Z
 tags:
   - work-life
 categories:
@@ -25,6 +25,13 @@ However, professionals shouldn't make the mistake of thinking that leadership is
 
 While everyone remembers a great leader, Jaspreet Singh, CEO and founder of software firm Druva, says it's crucial not to underrate managers – which is something that's too common in modern business. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### More from **ZDNET**
 
 * [41 impressive questions to ask in a job interview](https://www.zdnet.com/article/questions-to-ask-in-an-interview/)
@@ -45,6 +52,19 @@ Singh says managers take responsibility for overseeing a set of resources effici
 
 "A manager of people understands how to bring a team together," he says. "How do you assemble a team, where do you hire people, what's the ideal profile, how do you enable them, how do you deal with conflict resolution, and how do you ensure empowerment and the education and the retraining of individuals?"
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Helpful managers ensure team members don't sink**
 
 Gerardo del Guercio, solutions architect at Prostate Cancer UK, says effective management is about making sure you don't ask people on your team to do something you wouldn't do yourself. 
@@ -58,6 +78,13 @@ He says IT management often involves using similar systems from one industry to 
 "What I enjoy about management is building the team around the activity that's required. I warn my students that they will feel the pressure. They might even feel like they're sinking sometimes," says del Guercio.
 
 "My job is to make sure they've got straw beneath them and to make sure they bounce. If you're not learning, then you're in the wrong place. When you stop learning then you need to move on."
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Effective managers and leaders have key roles to play**
 
@@ -88,6 +115,13 @@ Higgs believes in giving as much power as possible to people who are responsible
 Higgs engages with these service owners and then sells the ideas that his people generate to senior stakeholders in the organization.
 
 "For me, leadership is not about telling people what to do," he says. "I represent 80 people in my team. I represent them when I go to the board and the decisions get made." 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Successful leaders set the direction of future travel**
 
@@ -124,11 +158,31 @@ Pocock says successful leadership in his own business usually involves leading b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/omplete-guide-what-does-unlisted-mean-on-youtube/"><u>[New] Complete Guide What Does Unlisted Mean on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-discreetly-discovering-stories-with-these-apps/"><u>[New] In 2024, Discreetly Discovering Stories with These Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-elite-series-for-engaging-typographic-movement-for-2024/"><u>[Updated] Elite Series for Engaging Typographic Movement for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-achieving-profit-through-youtube-sourav-joshis-guide/"><u>2024 Approved Achieving Profit Through YouTube Sourav Joshi’s Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/advanced-photography-iphones-leading-object-cutting-tools-revealed/"><u>Advanced Photography IPhone's Leading Object Cutting Tools Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-neo-qled-and-oled-technology-for-ultimate-viewing-experience/"><u>Comparing Neo QLED and OLED Technology for Ultimate Viewing Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/essential-techniques-for-recording-instagram-stories/"><u>Essential Techniques for Recording Instagram Stories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-leading-voice-message-viewers-of-2024-for-a-revolutionary-audio-experience/"><u>Explore the Leading Voice Message Viewers of 2024 for a Revolutionary Audio Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-xcover-6-pro-tactical-edition-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy XCover 6 Pro Tactical Edition 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screenshotting-in-windows-11-the-four-methods-you-need-to-know/"><u>Mastering the Art of Screenshotting in Windows 11 – The Four Methods You Need to Know</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/oxford-unlocks-english-essentials-with-mondly/"><u>Oxford Unlocks English Essentials with Mondly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-transferring-documents-from-your-printer-to-pc-or-mac/"><u>Step-by-Step Guide: Transferring Documents From Your Printer to PC or Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-must-see-80s-cinema-classics-watch-them-today/"><u>Top 10 Must-See '80S Cinema Classics - Watch Them Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-not-found-error-in-mingwm10dll-fixes-and-tips/"><u>Troubleshooting the 'Not Found' Error in mingwm10.dll - Fixes & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-server-racks-and-cabinets-2024-edition/"><u>Ultimate Guide to the Best Server Racks and Cabinets - 2024 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/version-52-the-next-level-of-email-management-on-mozilla-thunderbird/"><u>Version 52: The Next Level of Email Management on Mozilla Thunderbird</u></a></li>
+</ul></div>
+

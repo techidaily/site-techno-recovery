@@ -1,7 +1,7 @@
 ---
 title: Maximize Savings on Tech Essentials! Get an Extra $150 Off with Every Mac or iPad Purchase for Students | ZDNET
-date: 2024-09-24T23:28:51.524Z
-updated: 2024-10-02T03:06:08.511Z
+date: 2024-10-04T18:46:15.662Z
+updated: 2024-10-07T17:12:11.007Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,18 +121,20 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-maximizing-your-search-for-stellar-pexels-artwork/"><u>[New] 2024 Approved Maximizing Your Search for Stellar Pexels Artwork</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-expert-recommendations-top-5-windows-screen-cutting-apps/"><u>[New] Expert Recommendations Top 5 Windows Screen Cutting Apps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-shadow-play-with-iphone-pro-photography-tips/"><u>[New] Shadow Play with iPhone Pro Photography Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/before-you-invest-in-wearable-health-technology-the-five-most-important-questions-to-ask/"><u>Before You Invest in Wearable Health Technology: The Five Most Important Questions to Ask</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-pro-demystified-how-it-stacks-up-to-chatgptplus/"><u>Claude Pro Demystified: How It Stacks Up to ChatGPT+</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-streamline-your-recording-process-across-all-tech-platforms/"><u>In 2024, Streamline Your Recording Process Across All Tech Platforms</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722962800634-intel-hd-graphics-630-solving-driver-glitches-on-windows-systems-efficiently-and-effectively/"><u>Intel HD Graphics 630: Solving Driver Glitches on Windows Systems Efficiently and Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mac-users-guide-step-by-step-process-for-clearing-the-systems-dns-cache/"><u>Mac Users Guide: Step-by-Step Process for Clearing the System's DNS Cache</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-future-of-electronics-sonys-vision-product-launches-and-market-movements/"><u>Navigating the Future of Electronics: Sony's Vision - Product Launches & Market Movements</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-guide-to-updating-acer-speakers-driver-for-improved-performance/"><u>Quick Guide to Updating Acer Speakers' Driver for Improved Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/reducing-load-for-faster-team-collaboration/"><u>Reducing Load for Faster Team Collaboration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722874570235-resetting-your-kindle-paperwhites-time-zone-and-hour-easy-instructions-inside/"><u>Resetting Your Kindle Paperwhite's Time Zone and Hour – Easy Instructions Inside!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-6-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 6 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-top-5-storage-solutions-for-xbox/"><u>[New] Premium Top 5 Storage Solutions for Xbox</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-complete-reference-for-content-creators-youtube-copyright/"><u>[Updated] 2024 Approved The Complete Reference for Content Creators YouTube Copyright</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-excellence-in-hd-conversion-elevate-your-views/"><u>[Updated] Excellence in HD Conversion Elevate Your Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-toolwiz-analysis-revolutionizing-image-editing-on-the-go/"><u>[Updated] In 2024, Toolwiz Analysis Revolutionizing Image Editing on the Go</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-crafting-quality-content-image-submission-for-youtubers/"><u>2024 Approved Crafting Quality Content Image Submission for YouTubers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-geforce-experience-startup-errors-solutions-and-best-practices/"><u>Dealing with GeForce Experience Startup Errors: Solutions and Best Practices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-refreshing-your-audiophiles-sound-stage-cleaner-speakers-better-quality/"><u>Expert Advice on Refreshing Your Audiophile's Sound Stage - Cleaner Speakers, Better Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-retailers-offering-high-quality-phones-and-great-prices/"><u>Leading Retailers Offering High-Quality Phones and Great Prices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-airplay-how-to-easily-project-your-mac-screen-onto-a-television/"><u>Mastering AirPlay: How to Easily Project Your Mac Screen Onto a Television</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-pc-screenshotting-a-comprehensive-guide/"><u>Mastering the Art of PC Screenshotting: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-your-way-through-the-best-gaming-pc-options-important-factors-you-shouldnt-ignore/"><u>Navigating Your Way Through the Best Gaming PC Options: Important Factors You Shouldn't Ignore</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-vanishing-act-reversed-troubleshooting-tips-for-an-unresponsive-android-phone-screen/"><u>The Vanishing Act Reversed: Troubleshooting Tips for an Unresponsive Android Phone Screen</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-the-hidden-gems-in-discord-stickers/"><u>Unveiling the Hidden Gems in Discord Stickers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watching-the-matrix-trilogy-right-discover-the-perfect-order-to-experience/"><u>Watching The Matrix Trilogy Right: Discover the Perfect Order to Experience</u></a></li>
 </ul></div>
 

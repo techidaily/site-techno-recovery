@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Tasks: The Ultimate Guide to MacOS Finder's Quick Actions for Enhanced Efficiency | Expert Tips by ZDNET"
-date: 2024-09-27T11:20:45.257Z
-updated: 2024-10-02T01:30:00.552Z
+date: 2024-10-05T19:14:11.432Z
+updated: 2024-10-07T17:41:30.230Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -50,6 +43,13 @@ In my case, morning to mid-afternoon is that daily productivity time. That's whe
 That whole process is my flow. Over my many various iterations, I've managed to optimize this process so I'm able to get a tremendous amount done in a relatively short amount of time.
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Changes due to the pandemic
 
@@ -81,6 +81,13 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -92,10 +99,10 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
@@ -114,13 +121,6 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -132,13 +132,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -177,6 +170,19 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -199,6 +205,19 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -250,13 +269,6 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Rethinking your flow
 
 Every few years, I rethink my productivity flow, usually when I find myself getting too far behind, or getting that _baaaad_ feeling that I'm letting things slip through the cracks. This latest optimization, where I added Notion, has been working for a few months now, and so far it's the most effective flow I've used. Most of the elements, particularly how I use Gmail and Pocket, have been productive processes for years. 
@@ -286,20 +298,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-recommendations-10-high-end-podcast-mics/"><u>[New] Expert Recommendations 10 High-End Podcast Mics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-your-way-to-the-perfect-4k-lens-purchase-for-2024/"><u>[Updated] Navigating Your Way to the Perfect 4K Lens Purchase for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-vr-screens-producers/"><u>[Updated] Premier VR Screens Producers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-directory-easy-classics-ringtone-websites/"><u>2024 Approved Ultimate Directory Easy Classics Ringtone Websites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-closer-look-at-minecraft-realms-do-the-advantages-outweigh-costs/"><u>A Closer Look at Minecraft Realms: Do the Advantages Outweigh Costs?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-getting-rid-of-the-extra-windows-partition-reserved-for-recovery/"><u>Easy Steps for Getting Rid of the Extra Windows Partition Reserved for Recovery</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-guide-to-repairing-damaged-mpeg-videos-without-hacking-your-system/"><u>Expert Guide to Repairing Damaged MPEG Videos Without Hacking Your System</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instructions-for-installing-windows-movie-maker-6-for-2024/"><u>Instructions for Installing Windows Movie Maker 6 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-your-experience-live-coverage-of-athens-2024-olympic-games/"><u>Maximizing Your Experience: Live Coverage of Athens 2024 Olympic Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sequential-watchlist-how-to-experience-the-dragon-ball-universe-from-start-to-finish/"><u>Sequential Watchlist: How to Experience the Dragon Ball Universe From Start to Finish</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-guide-switching-your-pcs-os-language-settings-in-windows-10/"><u>Simple Guide: Switching Your PC's OS Language Settings in Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-perfect-movie-night-plan-watching-the-matrix-series-step-by-step/"><u>The Perfect Movie Night Plan: Watching The Matrix Series Step-By-Step</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/tips-for-using-google-meets-built-in-photo-functionality-for-2024/"><u>Tips for Using Google Meet's Built-In Photo Functionality for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-restoring-your-waterlogged-iphoneipod-with-easy-drying-techniques/"><u>Ultimate Guide: Restoring Your Waterlogged iPhone/iPod with Easy Drying Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-understanding-and-enabling-fbs-auto-video-functionality/"><u>2024 Approved Understanding and Enabling Fb's Auto-Video Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/basketball-fever-peaks-experience-march-madness-and-the-road-to-the-final-four-through-radio-broadcasts/"><u>Basketball Fever Peaks - Experience March Madness & The Road to the Final Four Through Radio Broadcasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-the-elusive-msxml4dll-file-a-detailed-tutorial/"><u>Diagnosing and Repairing the Elusive 'Msxml4.dll' File: A Detailed Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-activating-and-using-parent-filters-on-discord/"><u>Guide: Activating and Using Parent Filters on Discord</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-xs-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone XS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-and-enjoy-ebooks-using-the-ios-books-app-a-users-guide/"><u>How to Get and Enjoy eBooks Using the iOS Books App - A User's Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-study-polish-fast-a-smart-strategy-for-beginners/"><u>How To Study Polish Fast: A Smart Strategy For Beginners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-minutes-a-deep-dive-into-chatgpts-impact-on-time-management/"><u>Master Your Minutes: A Deep Dive Into ChatGPT's Impact on Time Management</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-xs-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone XS Max</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premier-android-vocal-mixer-app-for-2024/"><u>Premier Android Vocal Mixer App for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/reach-unprecedented-numbers-youtube-marketing-wisdom-for-2024/"><u>Reach Unprecedented Numbers YouTube Marketing Wisdom for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-your-mobile-entertainment-solving-spotify-glitches-in-android-auto/"><u>Revive Your Mobile Entertainment: Solving Spotify Glitches in Android Auto</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/simple-tips-for-splitting-videos-into-segments-using-windows-software/"><u>Simple Tips for Splitting Videos Into Segments Using Windows Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-expect-from-ios-18-release-schedule-price-free-access-notable-traits-and-recent-developments/"><u>What to Expect From iOS 18? Release Schedule, Price-Free Access, Notable Traits & Recent Developments</u></a></li>
 </ul></div>
 

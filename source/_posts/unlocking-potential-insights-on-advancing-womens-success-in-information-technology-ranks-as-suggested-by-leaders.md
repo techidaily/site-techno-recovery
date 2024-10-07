@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Insights on Advancing Women's Success in Information Technology Ranks, as Suggested by Leaders"
-date: 2024-09-18 13:50:36
-updated: 2024-09-20 11:52:24
+date: 2024-10-06T16:13:31.438Z
+updated: 2024-10-07T19:08:26.730Z
 tags:
   - work-life
 categories:
@@ -47,6 +47,19 @@ Heneghan says modern business needs engaged communicators and all senior manager
 
 "I'm rolling that initiative out globally, but you have to keep challenging yourself on diversity every day. I just think we all must be ruthless and rigorous." 
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't fit people into neat boxes
 
 Clare Lansley, CIO at Aston Martin Cognizant Formula One, says there's a lot more that can be done in terms of diversity in IT.
@@ -69,6 +82,19 @@ And Lansley encourages recruiters to be more open than relying on a wish list of
 
 "I think a lot of recruiters go for a wish list -- 'this would be my perfect candidate'. But I would challenge those guys by saying, 'Have you ever hired your perfect candidate?' There are always areas where you're compromising. I'd much rather hire for attitudes and behaviors, because at the end of day, I can teach skills." 
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Encourage people to find their voice
 
 Rajeswari Koppala, senior manager of DevOps at United Airlines, sees herself as an IT professional who deserves respect and attention from her peers.
@@ -89,6 +115,13 @@ Don't let others try to push you down and don't be afraid to grab the mic and ta
 
 "If you're not tall enough to look at something, you would take the help of a tool," she says. "So, you just need to put your effort into being seen or heard and to make a difference in your own way."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Show younger candidates the benefits
 
 Adam Warne, CIO at retailer River Island, says a diverse team means fresh perspectives and new ways of solving problems.
@@ -106,6 +139,19 @@ Warne says one answer is to start encouraging more people to think about IT at a
 "We need to get into the schools. We need to interact with people when they're thinking about what their career might be in 10 years' time, and we need to be talking to them openly and honestly about what a career in tech might look like. Because for me, it's for everybody," he says.
 
 "Technology is not a career that is limited to certain demographics or people who like playing video games. It's a career for anybody, and anybody should be able to get into it. We need to do more to influence younger people before they're making career choices, and demystifying the myths about what a career in tech looks like."
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Create senior role models
 
@@ -140,11 +186,25 @@ Plumettaz says more females in senior positions means more role models for the n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-laughlens-quickly-create-social-memes-and-gifs/"><u>[New] 2024 Approved LaughLens Quickly Create Social Memes & Gifs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-video-synchronization-with-obs/"><u>[New] 2024 Approved Mastering Video Synchronization with OBS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/create-unforgettable-moments-with-this-how-to-on-throwing-an-at-home-karaoke-gathering/"><u>Create Unforgettable Moments with This How-To on Throwing an At-Home Karaoke Gathering</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-every-must-play-game-for-your-new-ps5/"><u>Discover Every Must-Play Game for Your New PS5!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-6-mobile-journal-apps-that-enhance-personal-productivity/"><u>Discover the Best 6 Mobile Journal Apps That Enhance Personal Productivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-automated-conversations-how-does-censorship-shape-your-interaction-with-chatbots/"><u>Exploring Automated Conversations: How Does Censorship Shape Your Interaction with Chatbots?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-filer-to-fanfare-transmitting-videos-across-services-for-2024/"><u>From Filer to Fanfare Transmitting Videos Across Services for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola support - Forgotten screen lock.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-market-is-buying-a-blu-ray-player-a-good-decision-now/"><u>Navigating the Market: Is Buying a Blu-Ray Player a Good Decision Now?</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/step-by-step-solutions-for-watching-4k-videos-on-pcs-and-macs-without-glitches/"><u>Step-by-Step Solutions for Watching 4K Videos on PCs and Macs without Glitches</u></a></li>
+</ul></div>
+

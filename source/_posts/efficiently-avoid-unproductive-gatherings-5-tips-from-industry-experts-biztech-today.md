@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Avoid Unproductive Gatherings: 5 Tips From Industry Experts | BizTech Today"
-date: 2024-09-19 22:21:36
-updated: 2024-09-20 10:57:57
+date: 2024-10-05T16:03:15.413Z
+updated: 2024-10-07T18:02:53.327Z
 tags:
   - work-life
 categories:
@@ -51,6 +51,13 @@ While those catch-up sessions can build camaraderie, they can also eat into your
 
 "Is the meeting useful? And if I think it isn't, I'll always question it and say, 'Do you really need me here? Am I really important in this meeting? Is this a valid use of my time?'"
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Develop a conscious meeting culture
 
 Alex Hibbitt, engineering director at albelli-Photobox Group, says the debate over the value of meetings is "an eternal workplace challenge". 
@@ -67,6 +74,13 @@ The albelli-Photobox group was formed through the merger of an English and a Dut
 
 "It's become the norm now, which helps massively. And I'd like to think that all the meetings I go to are effective. Very few are window-dressing meetings in my experience these days."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Craft time for creativity
 
 Robyn Furby, technology adoption manager at insurance firm NFU Mutual, is another business leader who says a conscious approach to meetings and work time is crucial, especially in the post-COVID world of work.
@@ -80,6 +94,13 @@ Robyn Furby, technology adoption manager at insurance firm NFU Mutual, is anothe
 While knowing why you're expected to attend a meeting is crucial, so is having time -- whether it's online or in-person -- for ad hoc creativity sessions. 
 
 "Sometimes it's important to have a meeting without a set agenda because I think that's when the energy grows and the ideas come," says Furby. "But I think a successful approach to meeting culture is about crafting time."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Think about who should be involved
 
@@ -96,6 +117,13 @@ Warne believes there's a formula for the right number of people in meetings, and
 "And so, we're always challenging people to think about, 'how can you get the best result with the fewest people possible?'" he says. 
 
 "Because for every one person you add, you're not just increasing the complexity by one -- you're increasing it by a magnitude. I think success is just about giving people the permission to challenge whether a meeting should take place."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Be prepared to leave if your work is done
 
@@ -134,11 +162,28 @@ Liste says it's important everyone is mindful that people's time is a commodity 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/ais-evolutionary-path-from-weak-to-robustness/"><u>AI's Evolutionary Path: From Weak to Robustness</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amv-opzwijperen-in-wmv-online-gratis-met-movavi-efficient-en-gemakkelijk/"><u>AMV Opzwijperen in WMV Online Gratis Met Movavi - Efficiënt en Gemakkelijk!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-top-8-parent-approved-internet-safety-apps-of-2024/"><u>Discover the Top 8 Parent-Approved Internet Safety Apps of 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-vector-images-a-beginners-overview-of-categories/"><u>Discovering Vector Images A Beginner’s Overview of Categories</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-video-visibility-through-thumbnails-for-2024/"><u>Elevating Video Visibility Through Thumbnails for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-oleds-illuminate-a-deep-dive-into-their-operational-principles/"><u>How Do OLEDs Illuminate? A Deep Dive Into Their Operational Principles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-problems-with-the-iphone-remote-app/"><u>How to Fix Problems with the iPhone Remote App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-and-resolve-d3dx9n41dll-errors-on-your-computer/"><u>How to Recover and Resolve 'd3dx9_n41.dll' Errors on Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y100a-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo Y100A</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-strategies-in-nvidia-screen-capturing/"><u>In 2024, Expert Strategies in NVIDIA Screen Capturing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screen-captures-on-your-hp-device/"><u>Mastering the Art of Screen Captures on Your HP Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-sign-on-your-computers-monitor-a-comprehvew-guide-to-restore-its-visual-output/"><u>No Sign on Your Computer’s Monitor? A Comprehvew Guide to Restore Its Visual Output</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-to-restart-stuck-hp-printers/"><u>Tips to Restart Stuck HP Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-swift-ssds-for-sonys-playstation-5-console/"><u>Ultimate Guide to Choosing Swift SSDs for Sony's PlayStation 5 Console</u></a></li>
+</ul></div>
+
