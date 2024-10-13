@@ -1,7 +1,7 @@
 ---
 title: Is the Journey Worth Continuing? A Deep Dive Into Apple Watch Series 10 Vs. Apple Watch Series 8 Comparison
-date: 2024-10-01T20:16:25.656Z
-updated: 2024-10-07T18:34:15.725Z
+date: 2024-10-09T23:04:22.294Z
+updated: 2024-10-13T06:09:04.793Z
 tags:
   - apple
 categories:
@@ -65,11 +65,25 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 ---
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You should buy the Apple Watch Series 10 if...
 
@@ -107,22 +121,15 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
@@ -133,13 +140,6 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C18911bd6-33f0-46ad-9f93-9cc100988cea%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
@@ -147,10 +147,10 @@ A major reason you may be interested in the Series 8, even though it's now a few
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -187,19 +187,18 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-elite-series-for-engaging-typographic-movement-for-2024/"><u>[New] Elite Series for Engaging Typographic Movement for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-examining-splitcams-video-quality-against-competitors-for-2024/"><u>[Updated] Examining SplitCam's Video Quality Against Competitors for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-illustrate-and-write-with-iosandroid-tools/"><u>[Updated] Illustrate & Write with iOS/Android Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-from-novice-to-professional-a-comprehensive-guide-to-mastering-final-cut-pro/"><u>2024 Approved From Novice to Professional A Comprehensive Guide to Mastering Final Cut Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/before-you-invest-in-a-dashboard-recorder-9-vital-aspects-everyone-should-consider/"><u>Before You Invest in a Dashboard Recorder: 9 Vital Aspects Everyone Should Consider</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-digital-video-recorders-a-comprehensive-overview-for-beginners/"><u>Demystifying Digital Video Recorders: A Comprehensive Overview for Beginners</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/digital-deviants-titles-mirroring-gta-v-experience/"><u>Digital Deviants Titles Mirroring GTA V Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-dolby-atmos-movie-titles-for-a-cinematic-adventure-right-in-your-living-room-top-15-picks/"><u>Discover the Best Dolby Atmos Movie Titles for a Cinematic Adventure Right in Your Living Room (Top 15 Picks)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortlessly-bind-your-firestick-remote-a-comprehensive-guide/"><u>Effortlessly Bind Your Firestick Remote - A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-repair-the-missing-or-inaccessible-msidll-file-on-your-computer/"><u>How to Repair the Missing or Inaccessible msi.dll File on Your Computer</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-ultimate-guide-to-selecting-mobile-speech-to-text-software-for-2024/"><u>New Ultimate Guide to Selecting Mobile Speech-to-Text Software for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/triumphing-over-daunting-adversaries-how-to-defeat-a-lynel-in-the-legendary-zelda-botw/"><u>Triumphing Over Daunting Adversaries: How To Defeat A Lynel In The Legendary Zelda BOTW</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-how-to-fix-a-non-responsive-iphone-mail-app/"><u>Troubleshooting Steps: How to Fix a Non-Responsive iPhone Mail App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-capabilities-of-the-latest-claude-generation/"><u>Unveiling the Capabilities of the Latest Claude Generation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-10-superior-choices-high-end-video-conferencing-software/"><u>[Updated] In 2024, 10 Superior Choices High-End Video Conferencing Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shedding-darkness-from-iphone-videography/"><u>[Updated] Shedding Darkness From Iphone Videography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-use-aiseesoft-screen-recorder/"><u>2024 Approved How to Use Aiseesoft Screen Recorder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-consumers-blueprint-mastering-the-art-of-purchasing-and-setting-up-your-dream-tv-at-home/"><u>A Consumer’s Blueprint: Mastering the Art of Purchasing and Setting Up Your Dream TV at Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-user-friendly-guide-overcoming-the-opengl32dll-not-found-challenge/"><u>A User-Friendly Guide: Overcoming The 'OpenGL32.dll Not Found' Challenge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/definitive-tips-for-handling-ietfamedll-malfunction-and-errors/"><u>Definitive Tips for Handling ietfame.dll Malfunction and Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-bedtime-companions-for-apple-watch-users-top-5-picks/"><u>Discover the Best Bedtime Companions for Apple Watch Users: Top 5 Picks</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/get-your-free-15-discount-for-winx-dvd-ripper-platinum-with-our-limited-time-offer/"><u>Get Your Free $15 Discount for WinX DVD Ripper Platinum with Our Limited-Time Offer!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-celebratory-moments-captured-a-list-of-the-most-beautiful-wedding-videos-8/"><u>In 2024, Celebratory Moments Captured A List of the Most Beautiful Wedding Videos (8)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-five-important-aspects-to-assess-before-purchasing-a-fitness-tracker/"><u>Navigating Through: Five Important Aspects to Assess Before Purchasing a Fitness Tracker</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-your-wireless-keyboard-woes-troubleshooting-tips-for-windows-users/"><u>Solve Your Wireless Keyboard Woes: Troubleshooting Tips for Windows Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-free-video-editing-tools-expert-picks-techradar/"><u>Top 4 Free Video Editing Tools : Expert Picks | TechRadar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-ussd-what-you-need-to-know-about-unstructured-supplementary-service-data-for-mobile-communication/"><u>Unveiling USSD: What You Need to Know About Unstructured Supplementary Service Data for Mobile Communication</u></a></li>
 </ul></div>
 

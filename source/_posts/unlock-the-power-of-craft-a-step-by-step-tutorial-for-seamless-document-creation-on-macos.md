@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Craft: A Step-by-Step Tutorial for Seamless Document Creation on macOS"
-date: 2024-10-06T17:45:08.689Z
-updated: 2024-10-07T18:11:33.057Z
+date: 2024-10-08T17:20:32.577Z
+updated: 2024-10-13T04:40:36.568Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,20 +134,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-12-leading-free-video-viewing-apps-for-loving-watchers-worldwide/"><u>[New] In 2024, 12 Leading Free Video Viewing Apps for Loving Watchers Worldwide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-pctablet-mkv-reader/"><u>[New] Premium PC/Tablet MKV Reader</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-platform-selection-guide-determining-the-best-for-individual-creators-for-2024/"><u>[Updated] Platform Selection Guide Determining the Best for Individual Creators for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-speed-edit-windows-11-photos-like-a-pro/"><u>[Updated] Unleash Speed Edit Windows 11 Photos Like a Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-techniques-for-gradual-volume-change/"><u>2024 Approved Advanced Techniques for Gradual Volume Change</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-itel-p55-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Itel P55 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-film-choices-by-lifewire-for-instant-streaming-pleasure/"><u>Expert Film Choices by Lifewire for Instant Streaming Pleasure</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-insights-how-recuva-stands-out-as-the-premier-software-for-data-salvage/"><u>Expert Insights: How Recuva Stands Out as the Premier Software for Data Salvage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/hdcp-error-what-it-is-and-how-to-fix-one/"><u>HDCP Error: What It Is and How to Fix One</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-discord-bot-setup-for-enhanced-server-management/"><u>Mastering Discord Bot Setup for Enhanced Server Management</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-windows-security-tips-for-managing-trustedinstaller-permissions-on-your-pc/"><u>Mastering Windows Security: Tips for Managing TrustedInstaller Permissions on Your PC</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-best-voice-changer-apps-for-iphone-and-android/"><u>New 2024 Approved Best Voice Changer Apps for iPhone and Android</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-resolving-netflix-content-playback-problems/"><u>Troubleshooting Steps for Resolving Netflix Content Playback Problems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-split-trim-and-edit-mastering-video-segmentation-in-windows-live-movie-maker/"><u>Updated 2024 Approved Split, Trim, and Edit Mastering Video Segmentation in Windows Live Movie Maker</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/yahoo-mail-alert-what-to-do-when-your-inbox-stops-populating-emails/"><u>Yahoo Mail Alert: What to Do When Your Inbox Stops Populating Emails</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-steps-for-secure-and-swift-video-transfers-iphone-macconnection/"><u>[New] Expert Steps for Secure & Swift Video Transfers IPhone-macConnection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-generate-funny-image-jokes-at-flipfotohub/"><u>[New] Generate Funny Image Jokes at FlipFotoHub</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-funimate-android-adventure-the-apk-breakdown-for-2024/"><u>[Updated] Funimate Android Adventure The APK Breakdown for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-definitive-path-from-twitter-video-to-creatively-crafted-gifs-for-2024/"><u>[Updated] The Definitive Path From Twitter Video to Creatively Crafted GIFs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210738908-bid-farewell-to-the-incessant-cursor-twinkle-with-these-proven-solutions/"><u>Bid Farewell to the Incessant Cursor Twinkle with These Proven Solutions!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-top-8-education-apps-dominating-2024/"><u>Discover the Top 8 Education Apps Dominating 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/do-electric-vehicles-have-a-shelf-life-on-par-with-their-gas-powered-counterparts/"><u>Do Electric Vehicles Have a Shelf Life on Par with Their Gas-Powered Counterparts?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-find-the-optimal-selfie-extender-a-quick-tip-list/"><u>How to Find The Optimal Selfie Extender - A Quick Tip List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-a-professional-rss-feed-for-your-podcast/"><u>In 2024, Crafting a Professional RSS Feed for Your Podcast</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flipping-fun-facts-into-memes-with-kinemaster/"><u>In 2024, Flipping Fun Facts Into Memes with KineMaster</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-mechanical-keyboard-sanitation-tips-and-techniques/"><u>Master the Art of Mechanical Keyboard Sanitation: Tips & Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-battery-management-in-windows-10-with-insights-from-its-diagnostic-tool/"><u>Mastering Battery Management in Windows 10 with Insights From Its Diagnostic Tool</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-gt-neo-5-se-messages-recovery-recover-deleted-messages-from-realme-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>Realme GT Neo 5 SE Messages Recovery - Recover Deleted Messages from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-where-is-msvcr70dll/"><u>Resolving the Issue: Where Is MSVCR70.DLL?</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-halts-loophole-exploitation-impact-explored/"><u>Steam Halts Loophole Exploitation: Impact Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-for-personalizing-file-explorer-display-options/"><u>Ultimate Tips for Personalizing File Explorer Display Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-exactly-is-telegram-and-how-does-it-work/"><u>What Exactly Is Telegram and How Does It Work?</u></a></li>
 </ul></div>
 

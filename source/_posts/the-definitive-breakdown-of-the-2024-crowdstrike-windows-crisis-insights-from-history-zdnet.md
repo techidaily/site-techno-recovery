@@ -1,7 +1,7 @@
 ---
 title: The Definitive Breakdown of the 2024 CrowdStrike-Windows Crisis - Insights From History | ZDNet
-date: 2024-10-03T18:05:20.842Z
-updated: 2024-10-07T19:23:39.888Z
+date: 2024-10-10T21:43:49.774Z
+updated: 2024-10-12T22:03:58.163Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,18 +181,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-realistic-quantum-leaps-a-vfx-perspective/"><u>[New] 2024 Approved Realistic Quantum Leaps A VFX Perspective</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-discovering-the-ultimate-10-free-youtube-artist-collaborators/"><u>[New] Discovering the Ultimate 10 Free YouTube Artist Collaborators</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-linking-up-tweeted-movies-and-music-on-fb-platform/"><u>[Updated] 2024 Approved Linking Up Tweeted Movies and Music on FB Platform</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-enhance-your-digital-footprint-upload-tiktoks-on-twitter/"><u>[Updated] Enhance Your Digital Footprint Upload TikToks on Twitter</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-key-strategies-for-harvesting-free-photo-frames-for-2024/"><u>[Updated] Key Strategies for Harvesting Free Photo Frames for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tomorrows-digital-playground-a-comparative-study-of-metaverse-and-omniverse/"><u>2024 Approved Tomorrow's Digital Playground A Comparative Study of Metaverse & Omniverse</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-most-lucrative-star-title/"><u>2024 Approved YouTube's Most Lucrative Star Title</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/boost-your-contents-reach-with-these-tiktok-unboxing-strategies-for-2024/"><u>Boost Your Content’s Reach with These TikTok Unboxing Strategies for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cross-language-chatgpt-usage-simplified/"><u>Cross-Language ChatGPT Usage Simplified</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-connect-an-external-hard-drive-to-your-xbox-one-console-for-more-space/"><u>How to Connect an External Hard Drive to Your Xbox One Console for More Space</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-like-a-pro-with-these-top-5-iphone-gps-app-recommendations/"><u>Navigate Like a Pro with These Top 5 iPhone GPS App Recommendations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-solving-wifi-authentication-troubles-on-android-smartphones/"><u>The Ultimate Guide to Solving Wifi Authentication Troubles on Android Smartphones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-cross-platform-use-install-and-play-android-apps-on-windows-10/"><u>Unlocking Cross-Platform Use: Install and Play Android Apps on Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-navigating-the-art-of-iptv-screen-recording/"><u>[New] 2024 Approved Navigating the Art of IPTV Screen Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-covert-content-creation-how-to-invisibly-alter-videos/"><u>[New] In 2024, Covert Content Creation How to Invisibly Alter Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-links-for-acquiring-youtube-preview-templates-online/"><u>2024 Approved Essential Links for Acquiring YouTube Preview Templates Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-5-cost-free-anti-malware-solutions/"><u>Discover the Leading 5 Cost-Free Anti-Malware Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-the-benefits-of-owning-a-blu-ray-disc-system/"><u>Evaluating the Benefits of Owning a Blu-Ray Disc System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-diagnosing-and-fixing-black-screens-in-active-computers/"><u>Expert Advice on Diagnosing and Fixing Black Screens in Active Computers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exploring-cinema-best-filming-cameras-from-35mm-to-point-and-shoot-for-2024/"><u>Exploring Cinema Best Filming Cameras From 35Mm to Point-and-Shoot for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-find-n3-flip-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo Find N3 Flip</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-instant-understanding-of-keying-concepts/"><u>In 2024, Instant Understanding of Keying Concepts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-macbook-users-learn-how-to-download-and-use-videoleap-for-2024/"><u>New MacBook Users Learn How to Download and Use Videoleap for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/outlook-oops-learn-how-to-restore-unintentionally-deleted-emails-with-these-tips/"><u>Outlook Oops: Learn How to Restore Unintentionally Deleted Emails with These Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-day-with-these-4-windows-11-screenshot-tricks/"><u>Simplify Your Day with These 4 Windows 11 Screenshot Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fixing-the-shell32dll-error-message/"><u>Step-by-Step Guide to Fixing the Shell32.dll Error Message</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-professionals-choice-discover-the-best-5-video-editors-on-the-market/"><u>The Professional's Choice: Discover the Best 5 Video Editors on the Market</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-a-502-bad-gateway-clear-explanations-for-resolution-steps/"><u>What Is a 502 Bad Gateway? Clear Explanations for Resolution Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-resource-monitor-how-to-rejuvenate-a-non-responsive-app/"><u>Win11's Resource Monitor: How To Rejuvenate a Non-Responsive App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-wonder-how-to-wirelessly-hook-up-a-speaker-to-your-computer/"><u>Wireless Wonder: How to Wirelessly Hook Up a Speaker to Your Computer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/45809538-your-treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go/"><u>Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go</u></a></li>
 </ul></div>
 

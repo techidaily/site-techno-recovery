@@ -1,7 +1,7 @@
 ---
 title: Top 5 Strategies for Declining Unproductive Meetings - Insights From ZDNet
-date: 2024-09-19 21:17:36
-updated: 2024-09-20 12:56:27
+date: 2024-10-08T13:36:54.936Z
+updated: 2024-10-13T12:30:02.052Z
 tags:
   - work-life
 categories:
@@ -51,6 +51,13 @@ While those catch-up sessions can build camaraderie, they can also eat into your
 
 "Is the meeting useful? And if I think it isn't, I'll always question it and say, 'Do you really need me here? Am I really important in this meeting? Is this a valid use of my time?'"
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Develop a conscious meeting culture
 
 Alex Hibbitt, engineering director at albelli-Photobox Group, says the debate over the value of meetings is "an eternal workplace challenge". 
@@ -67,6 +74,13 @@ The albelli-Photobox group was formed through the merger of an English and a Dut
 
 "It's become the norm now, which helps massively. And I'd like to think that all the meetings I go to are effective. Very few are window-dressing meetings in my experience these days."
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Craft time for creativity
 
 Robyn Furby, technology adoption manager at insurance firm NFU Mutual, is another business leader who says a conscious approach to meetings and work time is crucial, especially in the post-COVID world of work.
@@ -80,6 +94,13 @@ Robyn Furby, technology adoption manager at insurance firm NFU Mutual, is anothe
 While knowing why you're expected to attend a meeting is crucial, so is having time -- whether it's online or in-person -- for ad hoc creativity sessions. 
 
 "Sometimes it's important to have a meeting without a set agenda because I think that's when the energy grows and the ideas come," says Furby. "But I think a successful approach to meeting culture is about crafting time."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Think about who should be involved
 
@@ -96,6 +117,13 @@ Warne believes there's a formula for the right number of people in meetings, and
 "And so, we're always challenging people to think about, 'how can you get the best result with the fewest people possible?'" he says. 
 
 "Because for every one person you add, you're not just increasing the complexity by one -- you're increasing it by a magnitude. I think success is just about giving people the permission to challenge whether a meeting should take place."
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Be prepared to leave if your work is done
 
@@ -134,11 +162,28 @@ Liste says it's important everyone is mindful that people's time is a commodity 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-creating-a-strong-brand-voice-with-social-media-videos/"><u>[New] 2024 Approved Creating a Strong Brand Voice with Social Media Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-complete-review-of-camstudio-screencap-tech/"><u>[New] In 2024, The Complete Review of CamStudio Screencap Tech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/begin-your-journey-on-x-a-comprehensive-walkthrough-of-signing-up/"><u>Begin Your Journey on X - A Comprehensive Walkthrough of Signing Up</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rical-wisdom-on-youtube-for-students-for-2024/"><u>Historical Wisdom on YouTube for Students for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-7-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 7 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-k11-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo K11 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-7-hd-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 7 HD Phone FRP Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-handbooks-downloading-made-easy-access-documentation-for-every-version/"><u>IPhone Handbooks Downloading Made Easy: Access Documentation for Every Version</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-how-to-alter-virtual-position-on-phone-a-comprehensive-guide/"><u>Learn How to Alter Virtual Position on Phone - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-macos-ventura-a-users-blueprint/"><u>Mastering macOS Ventura: A User's Blueprint</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-make-a-cartoon-from-your-favorite-photo/"><u>New 2024 Approved Make a Cartoon From Your Favorite Photo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-missing-msvcr80dll-file-a-step-by-step-guide/"><u>Resolving the 'Missing msvcr80.dll' File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-six-most-common-problems-causing-your-cars-battery-drainage/"><u>The Six Most Common Problems Causing Your Car's Battery Drainage</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-lego-stop-motion-maker/"><u>Updated Best Lego Stop Motion Maker</u></a></li>
+</ul></div>
+

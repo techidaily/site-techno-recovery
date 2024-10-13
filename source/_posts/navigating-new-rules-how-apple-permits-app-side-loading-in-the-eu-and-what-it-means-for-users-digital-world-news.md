@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Rules: How Apple Permits App Side-Loading in the EU and What It Means for Users | Digital World News"
-date: 2024-10-04T17:21:06.309Z
-updated: 2024-10-07T19:34:30.446Z
+date: 2024-10-06T09:01:24.088Z
+updated: 2024-10-13T08:53:20.641Z
 tags:
   - apple
 categories:
@@ -76,10 +76,10 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727607600000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day Chromebook deals
@@ -90,19 +90,6 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -112,10 +99,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -126,19 +113,19 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -157,14 +144,14 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2aab3ab-d04d-471c-ad92-a7b251e27f00%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon Prime Day 2024?
 
@@ -183,6 +170,13 @@ Even though Amazon isn't typically the first place you think of when you're shop
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -251,24 +245,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-visual-appeal-incorporating-black-bar-and-box-in-social-feeds/"><u>[New] 2024 Approved Elevate Visual Appeal Incorporating Black Bar & Box in Social Feeds</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-engineering-superior-canon-time-lapse-works/"><u>[New] 2024 Approved Engineering Superior Canon Time-Lapse Works</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-compre-writters-manual-for-great-documentary-storytelling/"><u>[New] The Compre Writter's Manual for Great Documentary Storytelling</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unlock-professional-editing-techniques-in-fcp/"><u>[New] Unlock Professional Editing Techniques in FCP</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-closer-inspect-of-the-stunning-dell-p2715q-monitors-capabilities/"><u>A Closer Inspect of the Stunning Dell P2715Q Monitor's Capabilities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-you-experiencing-blizzard-battlenet-downtime-or-personal-internet-glitches/"><u>Are You Experiencing Blizzard Battle.net Downtime or Personal Internet Glitches?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dealing-with-server-errors-insight-into-the-40urt-request-timed-out-problem-definition-plus-solutions/"><u>Dealing with Server Errors: Insight Into the 40Urt Request Timed Out Problem (Definition + Solutions)</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/easy-guide-moving-epub-books-from-pc-to-iphone-without-using-itunes/"><u>Easy Guide: Moving EPUB Books From PC to iPhone Without Using iTunes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>Flawless Soundscape Secrets to High-Resolution Audio Recording</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-zero-to-social-media-hero-crafting-an-x-twitters-new-identity-presence-from-scratch/"><u>From Zero to Social Media Hero: Crafting an X (Twitter's New Identity) Presence From Scratch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-expand-your-scratch-disk-and-rectify-full-capacity-errors-in-photoshop/"><u>How to Expand Your Scratch Disk and Rectify 'Full Capacity' Errors in Photoshop</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-optimal-internet-coverage-worth-it-with-a-wi-fi-mesh-setup/"><u>Is Optimal Internet Coverage Worth It with a Wi-Fi Mesh Setup?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-microsoft-edge-malfunctioning-problems/"><u>Solutions for Microsoft Edge Malfunctioning Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-no-signal-on-your-stadia-headset-how-to-reconnect/"><u>Solving the Problem: No Signal on Your Stadia Headset - How to Reconnect?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-extracting-the-main-subject-from-any-photo/"><u>Step-by-Step Guide: Extracting the Main Subject From Any Photo</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-7-most-effective-notetakers-for-apples-ipad-and-ipad-pro-devices/"><u>The 7 Most Effective Notetakers for Apple's iPad and iPad Pro Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-showdown-between-iphone-15-pro-max-and-samsung-s24-ultra-who-wins/"><u>The Showdown Between iPhone 15 Pro Max And Samsung S24 Ultra – Who Wins?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-successful-how-to-fix-blue-screen-caused-by-kernel-memory-issues-within-pages/"><u>Troubleshooting Successful: How to Fix 'Blue Screen' Caused by Kernel Memory Issues Within Pages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725288450885-winx-dvd/"><u>WinX の公式 ゲームコピーサイト - フリー版 映像DVDダウナラソフと高解像度ビデオ変換ツール</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-step-by-step-approach-crafting-quality-subtitles-for-facebook-videos-in-minutes/"><u>[New] Step-By Step Approach Crafting Quality Subtitles for Facebook Videos in Minutes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-15-top-rated-youtube-downloaders-your-offline-viewing-solution/"><u>[Updated] 2024 Approved 15 Top-Rated YouTube Downloaders - Your Offline Viewing Solution</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ultimate-3-fb-movie-extractors-for-2024/"><u>[Updated] Ultimate 3 Fb Movie Extractors for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-copyright-quest-for-content-creators-tiktok-edition/"><u>2024 Approved Copyright Quest for Content Creators (TikTok Edition)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-engagement-by-permanent-display-of-key-talks-on-instagram-a-how-to/"><u>Boost Engagement by Permanent Display of Key Talks on Instagram – A How-To</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-expanded-world-of-tcls-q-and-s-series-now-featuring-19-cutting-edge-smart-tvs/"><u>Discover the Expanded World of TCL's Q and S Series - Now Featuring 19 Cutting-Edge Smart TVs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-approach-eliminating-the-infamous-hulu-rununk13-error-once-and-for-all/"><u>DIY Approach: Eliminating the Infamous Hulu RUNUNK13 Error Once and For All</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-files-on-mac-the-ultimate-mavericks-solution/"><u>Edit MP4 Files on Mac The Ultimate Mavericks Solution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-v30-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme V30 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instructions-switch-network-browsing-on-or-off-in-windows-11-easily/"><u>Instructions: Switch Network Browsing On or Off in Windows 11 Easily</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/is-integrating-android-with-windows-11-beneficial-explore-insights-from-zdnet/"><u>Is Integrating Android with Windows 11 Beneficial? Explore Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-art-ranked-top-17-graphics-editors-and-programs/"><u>Mastering Art: Ranked Top 17 Graphics Editors and Programs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-moving-your-google-photos-library-to-icloud/"><u>Seamless Integration: Moving Your Google Photos Library to iCloud</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-best-ultrawide-displays-for-gamers/"><u>Top Pick: Best Ultrawide Displays for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-your-mac-a-comprehensive-tutorial-for-finding-saved-passwords/"><u>Unlock Your Mac: A Comprehensive Tutorial for Finding Saved Passwords</u></a></li>
 </ul></div>
 

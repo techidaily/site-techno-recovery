@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Mastering the Art of Screen Shots on Your Xbox Console"
-date: 2024-10-03T18:35:39.811Z
-updated: 2024-10-07T17:11:27.994Z
+date: 2024-10-10T16:23:18.154Z
+updated: 2024-10-13T14:12:01.395Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Mastering the Art of Screen Shots on Your Xbox Console"
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/febc5e8eb723097c959ee0c4369a98c541397c828
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
@@ -43,35 +43,35 @@ thumbnail: https://thmb.techidaily.com/febc5e8eb723097c959ee0c4369a98c541397c828
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
 
@@ -123,20 +123,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/etting-sail-on-the-content-sea-your-youtube-account/"><u>[New] Setting Sail on the Content Sea Your YouTube Account</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-top-5-platforms-for-active-engagement-outside-of-twitter/"><u>[New] Top 5 Platforms For Active Engagement Outside of Twitter</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-art-of-creating-spherical-shots-with-fisheye-lenses/"><u>[Updated] 2024 Approved The Art of Creating Spherical Shots with Fisheye Lenses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-creative-uses-of-auto-gpt-technology/"><u>5 Creative Uses of Auto-GPT Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boot-camp-backing-up-your-hard-drive-solo/"><u>Boot Camp: Backing up Your Hard Drive Solo</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/catch-these-top-10-sport-movies-that-are-a-perfect-fit-for-movie-buffs-right-now/"><u>Catch These Top 10 Sport Movies That Are a Perfect Fit for Movie Buffs Right Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-airpods-for-effortless-sound-on-a-windows-hp-computer-a-users-manual/"><u>Connecting AirPods for Effortless Sound on a Windows HP Computer - A User's Manual</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-handling-missing-mscorwksdll-files-on-your-pc-fixes-and-prevention/"><u>Expert Tips for Handling Missing mscorwks.dll Files on Your PC – Fixes & Prevention</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-pinnacle-6-web-based-auditory-dividers-and-snips/"><u>In 2024, Pinnacle 6 Web-Based Auditory Dividers and Snips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-factors-to-evaluate-when-choosing-your-next-gaming-system/"><u>Top 5 Factors to Evaluate When Choosing Your Next Gaming System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-must-watch-family-films-on-amazon-prime-video-this-july-2024/"><u>Top Picks: Must-Watch Family Films on Amazon Prime Video This July 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/"><u>Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-differences-charge-level-one-two-and-three-unraveled/"><u>Understanding the Differences: Charge Level One, Two & Three Unraveled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-10-anticipated-cost-and-launch-timeline-latest-rumored-specs-revealed/"><u>Upcoming Google Pixel 10: Anticipated Cost & Launch Timeline - Latest Rumored Specs Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-discovering-the-finest-mac-screen-capture-software/"><u>[New] 2024 Approved Discovering the Finest Mac Screen Capture Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>[Updated] Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/6-of-our-favorite-journal-apps/"><u>6 of Our Favorite Journal Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/boosting-your-windows-photos-feed-incorporating-audio-elements-for-2024/"><u>Boosting Your Windows Photos Feed Incorporating Audio Elements for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-usb-20-technology-insights-on-transfer-rates-cable-varieties-and-connection-systems/"><u>Demystifying USB 2.0 Technology: Insights on Transfer Rates, Cable Varieties, & Connection Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficiently-delete-all-correspondence-in-gmail-a-complete-mobile-guide/"><u>Efficiently Delete All Correspondence in Gmail - A Complete Mobile Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-checking-a-contacts-position-using-your-iphone/"><u>Guide: Checking a Contact's Position Using Your iPhone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-se-2020-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone SE (2020) Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-secure-mp3-conversion-of-live-skype-talks/"><u>In 2024, Secure MP3 Conversion of Live Skype Talks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategizing-effective-movie-sneak-peeks/"><u>In 2024, Strategizing Effective Movie Sneak Peeks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-firmware-and-software-downloads-for-your-hp-deskjet-printer-model-3700/"><u>Latest Firmware & Software Downloads for Your HP Deskjet Printer Model 3700</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/starting-and-participating-in-zoom-meetings-from-android-devices-for-2024/"><u>Starting and Participating in Zoom Meetings From Android Devices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-11-motivational-films-that-will-inspire-you/"><u>Top 11 Motivational Films That Will Inspire You</u></a></li>
 </ul></div>
 

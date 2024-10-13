@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Apple Pushes Back Launch of Smart Tech Capabilities to October"
-date: 2024-10-04T17:28:20.307Z
-updated: 2024-10-07T20:29:36.142Z
+date: 2024-10-11T21:46:16.956Z
+updated: 2024-10-12T22:10:47.137Z
 tags:
   - apple
 categories:
@@ -35,13 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -78,6 +71,13 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -91,16 +91,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -127,13 +121,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -145,6 +132,13 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -178,10 +172,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -224,22 +218,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-copyright-free-audio-treasury-for-gamers-online/"><u>[New] 2024 Approved Copyright-Free Audio Treasury for Gamers Online</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-veiled-side-of-instagram-stories-what-youre-not-seeing/"><u>[New] In 2024, The Veiled Side of Instagram Stories What You're Not Seeing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-leading-workspace-high-flying-space/"><u>[New] Leading Workspace High-Flying Space</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-a-verified-instagram-account-essential-actions-for-rapid-follower-expansion/"><u>[Updated] 2024 Approved Crafting a Verified Instagram Account Essential Actions for Rapid Follower Expansion</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevating-visuals-the-most-inspiring-instagram-photos/"><u>2024 Approved Elevating Visuals The Most Inspiring Instagram Photos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/code-43-troubleshooting-ensuring-flawless-print-jobs-every-time/"><u>Code 43 TroubleShooting: Ensuring Flawless Print Jobs Every Time</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-to-get-your-alexa-running-smoothly-again-when-its-not-responding/"><u>Expert Advice to Get Your Alexa Running Smoothly Again When It's Not Responding</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-correct-the-dnssddll-could-not-be-located-error-quickly/"><u>Expert Tips: Correct the 'dnssd.dll Could Not Be Located' Error Quickly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-non-fullscreen-windows-resolved-in-win11/"><u>Fixing Non-Fullscreen Windows - Resolved in Win11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/meta-quest-3-insights-breaking-down-news-price-tags-release-schedule-and-tech-specifications/"><u>Meta Quest 3 Insights: Breaking Down News, Price Tags, Release Schedule & Tech Specifications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-disappearing-mscorwksdll-a-step-by-step-guide/"><u>Solving the Mystery of Disappearing mscorwks.dll: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/techniques-for-maintaining-active-display-on-a-macbook-while-its-lid-remains-down/"><u>Techniques for Maintaining Active Display on a MacBook While Its Lid Remains Down</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-basics-of-real-time-chat-protocols-exploring-rcs/"><u>The Basics of Real-Time Chat Protocols: Exploring RCS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-definitive-walkthrough-for-fixing-error-codes-in-windows-spotlight-on-code-19/"><u>The Definitive Walkthrough for Fixing Error Codes in Windows – Spotlight on Code 19</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-resolving-issues-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Guide: Resolving Issues When Mozilla Thunderbird Won't Launch</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlock-your-listening-experience-the-ultimate-review-of-audio-book-drm-removal-software/"><u>Unlock Your Listening Experience: The Ultimate Review of Audio Book DRM Removal Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-direct-to-mp3-ease-select-10-video-to-audio-devices-for-2024/"><u>[Updated] Direct to Mp3 Ease Select 10 Video-to-Audio Devices for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-exclusive-offer-20-free-luts-just-for-dji-mini-and-air-users-for-2024/"><u>[Updated] Exclusive Offer 20 FREE LUTS Just for DJI Mini & Air Users for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-public-instagram-profiles-without-an-account-a-step-by-step-guide/"><u>Explore Public Instagram Profiles Without an Account - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/home-entertainment-unveiled-comparing-features-of-home-theater-vs-stereo-receiver-setups/"><u>Home Entertainment Unveiled: Comparing Features of Home Theater Vs. Stereo Receiver Setups</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-an-electric-cars-life-span-stack-up-against-a-gas-powered-vehicle/"><u>How Does an Electric Car's Life Span Stack Up Against a Gas-Powered Vehicle?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-snapshot-solution-how-to-swiftly-switch-your-gif-for-a-sticker/"><u>In 2024, The Snapshot Solution How to Swiftly Switch Your GIF for a Sticker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-programs-from-your-samsung-smart-tv/"><u>Step-by-Step Guide: Removing Programs From Your Samsung Smart TV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-format-transmutation-srt-to-ssa-and-more/"><u>The Art of Format Transmutation SRT to SSA & More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-your-surface-pros-wi-fi-connection-issues/"><u>Troubleshooting Steps: Resolving Your Surface Pro's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgraded-experience-right-gear-makes-a-difference/"><u>Upgraded Experience: Right Gear Makes a Difference</u></a></li>
 </ul></div>
 

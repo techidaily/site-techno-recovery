@@ -1,7 +1,7 @@
 ---
 title: "Expert Opinion on iPhone 15: A Must-Have Device Even for Advanced Users - Insights From ZDNet"
-date: 2024-10-01T17:43:23.759Z
-updated: 2024-10-07T18:55:12.349Z
+date: 2024-10-12T12:17:01.836Z
+updated: 2024-10-13T10:45:47.053Z
 tags:
   - apple
 categories:
@@ -45,6 +45,13 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -59,13 +66,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -128,10 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -149,10 +149,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -172,10 +172,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,18 +212,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-initial-guide-to-zoom-room-segregation/"><u>[Updated] 2024 Approved Initial Guide to Zoom Room Segregation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-syncopated-social-media-adding-melodies-to-reels/"><u>[Updated] In 2024, Syncopated Social Media Adding Melodies to Reels</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-best-smartphone-friendly-vr-headgear-for-2024/"><u>[Updated] Unveiling the Best Smartphone-Friendly VR Headgear for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/6app-2024/"><u>6款最佳免費去除水印的繪圖工具/APP - 2024年選擇指南</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/8-things-to-consider-before-buying-a-desktop-pc/"><u>8 Things to Consider Before Buying a Desktop PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-guide-to-best-visual-voicemail-apps/"><u>Discover The Ultimate Guide to Best Visual Voicemail Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-chromecast-speaker-problems-getting-your-sounds-back/"><u>DIY Fixes for Chromecast Speaker Problems - Getting Your Sounds Back!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-solutions-for-overcoming-the-iphone-black-display-problem/"><u>DIY Solutions for Overcoming the iPhone Black Display Problem</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-advanced-techniques-flawless-insertion-of-vimeo-video-in-slides/"><u>In 2024, Advanced Techniques Flawless Insertion of Vimeo Video in Slides</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/journey-through-ru-cyrillic-sounds-and-pronunciation/"><u>Journey Through RU Cyrillic Sounds and Pronunciation</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-gt-5-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on GT 5 without backup.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/trying-the-ultra-compact-controllers-for-macbooks-no-more-clutter/"><u>Trying the Ultra-Compact Controllers for MacBooks - No More Clutter!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-faults-identified-during-power-on-self-test-post/"><u>Understanding and Repairing Faults Identified During Power-On Self Test (POST)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unveiling-the-best-strategies-how-to-boost-engagement-and-growth-on-youtube/"><u>2024 Approved Unveiling the Best Strategies How to Boost Engagement and Growth on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/4-xtwitter-chat-tools-to-follow-hashtags/"><u>4 X/Twitter Chat Tools to Follow Hashtags</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-launch-of-apples-residential-bot-updates-on-cost-availability-specifications-and-latest-gossip/"><u>Anticipated Launch of Apple's Residential Bot: Updates on Cost, Availability, Specifications & Latest Gossip</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-software-to-defragment-your-hard-drive-july-2024-edition/"><u>Best Free Software to Defragment Your Hard Drive - July 2024 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-productivity-in-microsoft-teams-using-githubs-advanced-coding-assistant-copilot/"><u>Boost Productivity in Microsoft Teams Using GitHub's Advanced Coding Assistant, Copilot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-5-free-tools-to-fight-off-cyber-threats/"><u>Essential 5 Free Tools to Fight Off Cyber Threats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-what-smartwatches-can-do-and-their-benefits/"><u>Exploring What Smartwatches Can Do and Their Benefits</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-8t-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 8T 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-clone-a-hard-drive-on-windows-servers-2003-2016-2019-and-2022-no-need-for-fresh-install/"><u>How to Clone a Hard Drive on Windows Servers: 2003, 2016, 2019 & 2022 - No Need for Fresh Install</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-impact-of-visual-client-reviews-on-business-image/"><u>In 2024, Impact of Visual Client Reviews on Business Image</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-superior-free-viewing-software-guide-top-16/"><u>In 2024, Superior Free Viewing Software Guide - Top 16</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-dvd-to-computer-the-easy-way-to-convert-your-movie-collection/"><u>New 2024 Approved DVD to Computer The Easy Way to Convert Your Movie Collection</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-optimized-overcoming-the-dual-decline-in-frames-per-second/"><u>PC Gaming Optimized: Overcoming the Dual Decline in Frames Per Second</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-fundamentals-of-quantum-hdr-efficiency/"><u>The Fundamentals of Quantum HDR Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-advantages-a-comparison-between-chatgpt-desktop-app-and-website-functionality/"><u>Unveiling Advantages: A Comparison Between ChatGPT Desktop App and Website Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-powerhouse-behind-facebooks-tech-meta-ai-explained/"><u>Unveiling the Powerhouse Behind Facebook's Tech: Meta AI Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-a-408-request-timed-out-diagnosis-and-resolution-techniques/"><u>What Is a 408 Request Timed Out? Diagnosis and Resolution Techniques</u></a></li>
 </ul></div>
 

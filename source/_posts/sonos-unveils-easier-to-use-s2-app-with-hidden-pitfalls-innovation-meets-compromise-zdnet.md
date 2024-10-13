@@ -1,7 +1,7 @@
 ---
 title: Sonos Unveils Easier-to-Use S2 App with Hidden Pitfalls – Innovation Meets Compromise [ZDNet]
-date: 2024-10-05T19:50:17.249Z
-updated: 2024-10-07T19:57:48.002Z
+date: 2024-10-05T22:21:52.147Z
+updated: 2024-10-12T20:22:10.922Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 ## What Apple Intelligence will bring to the company's operating system platforms
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
@@ -60,10 +60,10 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -73,6 +73,13 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Also: [How to install iOS 18 developer beta (and which models support it)](https://www.zdnet.com/article/how-to-install-ios-18-developer-beta-and-which-models-support-it/)**
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
 
@@ -89,10 +96,10 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -108,13 +115,6 @@ The new Reduce Interruptions feature ensures that only the most important notifi
 Apple Intelligence also performs actions within apps on behalf of the user. It can open Photos and show images of specific groups based on a request. In Mail, priority messages are highlighted with summaries for quick insight. Notes users can record, transcribe, and summarize audio, creating summary transcripts of calls with automatic notifications to participants.
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
 
@@ -188,20 +188,17 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/iscovering-the-magic-behind-youtube-shorts-for-2024/"><u>[New] Discovering the Magic Behind Youtube Shorts for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-excellent-7-mac-videos-players-reviewed/"><u>[New] Excellent 7 Mac Videos Players Reviewed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-legality-of-recording-on-youtube-platform/"><u>[Updated] Legality of Recording on YouTube Platform?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-what-is-the-best-mp4-cutter-for-youtubers-on-mac/"><u>[Updated] What Is the Best MP4 Cutter for YouTubers On Mac?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-deep-dive-into-tagging-understanding-its-significance-and-how-to-for-objectsindividuals/"><u>A Deep Dive Into Tagging – Understanding Its Significance and How-To for Objects/Individuals</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-google-pixel-7a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Google Pixel 7a Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/dual-platform-game-on-fbtwitter-and-wnb-season-2023/"><u>Dual Platform Game On: FB/Twitter and WNB Season 2023</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-fubotv-on-amazon-firestick/"><u>Guide: Setting Up FuboTV on Amazon Firestick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-restore-image-output-on-a-laptopdesktop-that-turns-on-but-remains-unseen/"><u>How to Restore Image Output on a Laptop/Desktop That Turns On but Remains Unseen</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ps2-on-ios-selecting-the-best-emulators/"><u>In 2024, PS2 on iOS Selecting the Best Emulators</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/mp3pc/"><u>MP3形式へのファイル変換手順：PCとスマートフォンで学ぶ</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-your-way-to-the-nearest-ev-charging-station-using-google-maps/"><u>Navigate Your Way to the Nearest EV Charging Station Using Google Maps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/restore-your-iphone-call-alert-sounds-expert-advice-and-solutions/"><u>Restore Your iPhone Call Alert Sounds: Expert Advice and Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-on-personal-residential-charging-stations-for-electric-vehicles/"><u>The Ultimate How-To on Personal Residential Charging Stations for Electric Vehicles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-steps-after-unboxing-your-latest-laptop/"><u>Top 5 Essential Steps After Unboxing Your Latest Laptop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-beyond-basic-editing-innovative-use-of-luts-for-photography-for-2024/"><u>[New] Beyond Basic Editing Innovative Use of LUTs for Photography for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-add-stickers-to-instagram/"><u>[Updated] How to Add Stickers to Instagram?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-share-screen-on-zoom-meeting-guide/"><u>[Updated] In 2024, Share Screen on Zoom Meeting Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-guide-capturing-youtube-live-on-multiple-devices-for-2024/"><u>[Updated] Step-by-Step Guide Capturing YouTube Live on Multiple Devices for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898502038-boost-efficiency-with-dual-task-management-learn-how-to-split-screens-on-your-macbook-air-today/"><u>Boost Efficiency with Dual Task Management - Learn How to Split Screens on Your MacBook Air Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-repairing-broken-samsung-tv-application-services/"><u>Expert Tips on Repairing Broken Samsung TV Application Services</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-xs-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone XS Max Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-triple-monitor-display-with-pc/"><u>Step-by-Step Guide: Setting Up Your Triple Monitor Display with PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-troubleshooting-your-iphone-display-sharing-tool/"><u>Step-by-Step Solutions for Troubleshooting Your iPhone Display Sharing Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/supercharge-your-windows-experience-troubleshooting-tips-for-faster-operation-on-windows-nvme1ss/"><u>Supercharge Your Windows Experience: Troubleshooting Tips for Faster Operation on Windows Nvme1ss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722903418628-synchronize-disneyplus-and-chromecast-for-ultimate-viewing-pleasure-tutorial/"><u>Synchronize Disney+ and Chromecast for Ultimate Viewing Pleasure – Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
 

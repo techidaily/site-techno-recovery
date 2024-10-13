@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Windows 10 Power & Sleep Settings: A Comprehensive Guide"
-date: 2024-10-01T18:22:53.650Z
-updated: 2024-10-07T19:10:47.145Z
+date: 2024-10-07T23:18:14.013Z
+updated: 2024-10-13T03:35:46.717Z
 categories:
   - BestProducts
 description: "This Article Describes Understanding the Windows 10 Power & Sleep Settings: A Comprehensive Guide"
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
  This article explains how to delete a Yahoo account from a web browser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Delete a Yahoo Mail Account
 
  You can shut down your entire Yahoo account and revoke access to your email address, remove all your emails, and prevent people from messaging you. This is possible through the Privacy Dashboard:
@@ -43,25 +36,33 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
  If you're paying for any Yahoo subscription services, cancel those now to avoid unexpected payments;[open My Subscriptions](https://mysubscriptions.yahoo.com/) to see if you have any active subscriptions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click**Privacy controls** at the top.  
 ![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
 5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
 ![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
 6. Enter your email address once more into the field provided.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Select **Yes, delete this account** .  
@@ -69,16 +70,22 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
  In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Cancel a BT Yahoo Mail Premium Account
 
  If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does It Mean to Delete a Yahoo Mail Account?
 
@@ -134,24 +141,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-the-finest-iphone-x876-gif-apps/"><u>[New] 2024 Approved Unveiling the Finest iPhone X/8/7/6 GIF Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-youtube-channel-url-with-these-tips/"><u>[New] Streamline Your YouTube Channel URL with These Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-beginners-guide-to-blending-images-crafting-videographics-in-pixiz/"><u>[Updated] A Beginner's Guide to Blending Images, Crafting Videographics in Pixiz</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-perfecting-video-cuts-the-role-of-visual-callouts-in-edits/"><u>[Updated] In 2024, Perfecting Video Cuts The Role of Visual Callouts in Edits</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3g23g2mp4/"><u>最適な3G2フォーマット変換ツールの選び方：3G2ビデオをMP4へ移行する手引き</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-computers-at-your-fingertips-for-2024/"><u>Advanced Computers at Your Fingertips for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-performance-with-the-latest-amd-radeon-drivers-version-2410-download-and-tips/"><u>Enhancing Performance with the Latest AMD Radeon Drivers - Version 24.10 Download and Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-accessories-included-with-your-new-nintendo-switch/"><u>Essential Accessories Included with Your New Nintendo Switch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-fixes-to-revive-search-capabilities-in-windows-10-systems/"><u>Essential Fixes to Revive Search Capabilities in Windows 10 Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-x50iplus-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor X50i+</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-pc-troubleshooting-with-an-exhaustive-list-of-boot-time-stop-codes/"><u>Mastering PC Troubleshooting with an Exhaustive List of Boot-Time Stop Codes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-free-converter-avi-to-3gp-formats-by-movavi/"><u>Online Free Converter: AVI to 3GP Formats by Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-adding-your-emails-to-trusted-contact-protection-lists/"><u>Step-by-Step Tutorial for Adding Your Emails to Trusted Contact Protection Lists</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streaming-cinema-and-series-on-crackle-enjoy-films-and-tv-at-no-cost/"><u>Streaming Cinema & Series on Crackle - Enjoy Films & TV at No Cost</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-9-hardest-languages-to-learn/"><u>The 9 Hardest Languages to Learn</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-rise-and-fall-of-online-chat-services-delving-into-aims-legacy/"><u>The Rise and Fall of Online Chat Services: Delving Into AIM's Legacy</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlocking-potential-an-in-depth-look-at-the-open-source-capabilities-of-the-linksys-wrt1900ac-wi-fi-router/"><u>Unlocking Potential: An In-Depth Look at the Open Source Capabilities of the Linksys WRT1900AC Wi-Fi Router</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-netflixs-ui-800-3-mishap-and-fixes-for-seamless-viewing/"><u>Unraveling the Mystery Behind Netflix's UI-800-3 Mishap & Fixes for Seamless Viewing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-samsung-galaxy-s25-ultra-revealing-rumored-specifications-launch-timeline-and-estimated-costs/"><u>Upcoming Samsung Galaxy S25 Ultra - Revealing Rumored Specifications, Launch Timeline & Estimated Costs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>[New] 2024 Approved Beautiful Beginnings Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-vegas-pro-gambit-unveiled-a-21-comprehensive-review/"><u>[New] Vegas Pro Gambit Unveiled A '21 Comprehensive Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-thumbnails-that-captivate-a-professionals-guide-to-visual-lures/"><u>[Updated] Thumbnails That Captivate A Professional's Guide to Visual Lures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-spark-20-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Spark 20 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-setup-watch-films-using-fandango-on-amazons-firestick-device/"><u>Easy Setup: Watch Films Using Fandango on Amazon's Firestick Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-continuous-usb-recognition-failures-on-your-pc/"><u>Effective Solutions for Continuous USB Recognition Failures on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-missing-mapi32dll-errors-on-your-windows-pc-step-by-step-tips/"><u>Fixing Missing 'Mapi32.dll' Errors on Your Windows PC - Step-by-Step Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Phones with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/instagram-and-soundtracks-demystifying-legalities-for-2024/"><u>Instagram & Soundtracks Demystifying Legalities for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-vimeo-video-farewells-tips-and-tricks-for-2024/"><u>Mastering Vimeo Video Farewells Tips and Tricks for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-your-tvs-potential-with-lg-channel-information/"><u>Mastering Your TV's Potential with LG Channel Information</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-building-an-affordable-projector-screen-at-home/"><u>Step-by-Step Tutorial: Building an Affordable Projector Screen at Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailoring-email-ringtones-the-ultimate-walkthrough-for-assigning-new-sounds-to-gmail-messages/"><u>Tailoring Email Ringtones: The Ultimate Walkthrough for Assigning New Sounds to Gmail Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-to-resolve-missing-avcodecdll-errors-in-windows/"><u>The Ultimate Fixes to Resolve Missing Avcodec.dll Errors in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-troubleshooting-for-samsung-soundbar-resets/"><u>The Ultimate Troubleshooting for Samsung Soundbar Resets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-strategies-for-gaining-more-followers-on-twitter/"><u>Top Strategies for Gaining More Followers on Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unseen-signals-steps-to-make-your-hidden-wifi-appear-again/"><u>Unseen Signals: Steps to Make Your Hidden WiFi Appear Again</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/video-marketing-mastery-for-youtube-success-for-2024/"><u>Video Marketing Mastery for YouTube Success for 2024</u></a></li>
 </ul></div>
 

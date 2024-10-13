@@ -1,7 +1,7 @@
 ---
 title: Comprehensive VPN Evaluation Methods - Insights From ZDNet
-date: 2024-09-18 19:44:45
-updated: 2024-09-20 11:55:42
+date: 2024-10-06T20:24:52.231Z
+updated: 2024-10-13T05:32:38.041Z
 tags:
   - vpn
 categories:
@@ -53,6 +53,19 @@ Charlie Osborne/ZDNET
 * [The best cheap VPNs](https://www.zdnet.com/article/best-cheap-vpn/)
 * [The best VPN trials](https://www.zdnet.com/article/best-vpn-trial/)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How we test VPN speeds
 
 Charlie Osborne/ZDNET
@@ -80,6 +93,13 @@ If we detect any anomalies or unusual results from our speed tests, we will note
 Some VPNs reduce your speed by a substantial amount, perhaps even as much as 50%. When assessing VPNs, we want to see an average speed loss of under 20%, although we do grant some leeway when servers are located over vast distances (such as from the UK to Australia). 
 
 Below, you will see how we display the results in easy-to-understand graphs. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we assess VPN features
 
@@ -118,6 +138,13 @@ All of a sudden, your data is unprotected, unless a kill switch is active. Kill 
 ### Extras
 
 While the above features are the most important criteria we consider during VPN evaluations, we also research and may test additional features including password managers, cloud storage, antivirus software, browser extensions, and more. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we assess VPN security
 
@@ -168,6 +195,13 @@ However, if your online activities are being monitored at the ISP level -- say, 
 
 VPNs are useful in unblocking geo-restricted content and can be a vital tool for accessing information in countries with repressive governments. They are important services for anyone who wants to maintain a high level of safety and privacy online. However, because they are anonymous (or at least should be) they can also be used to hide illegal online activities such as pirating content.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How can I tell if my VPN is working or not?
 
 A fully functional VPN should protect your privacy and mask your location and IP address. If you're unsure if your VPN is working properly, there are tools that make checking your VPN's performance easy.
@@ -176,9 +210,29 @@ You can find out your IP address and location using [whatismyipaddress.com](http
 
 It's also possible that your VPN is leaking your data and potentially exposing your online activity. To ensure your VPN doesn't have any issues with DNS leaks or IP leaks, you can run tests on a site like [DNS Leak Test](https://www.dnsleaktest.com/). There are plenty of tools that allow you to test for leaks, but many are owned by VPN providers and it may not always be clear who developed the tool, which could be a conflict of interest. You may want to run tests with several different sites and compare the results.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I need a VPN if I'm traveling or using a Wi-Fi hotspot? 
 
 If you're [traveling](https://www.zdnet.com/article/best-travel-vpn/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/best-travel-vpn/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22traveling%22%7D) or using the internet in a public place like a coffee shop, that data encryption is critical, since most public Wi-Fi hotspots are open and unencrypted -- which means anyone on the network can see what you send and may be able to eavesdrop on your activities and steal passwords. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's the best free VPN service?
 
@@ -229,11 +283,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-adventures-in-enigma-browsing-the-leading-websites-for-mystery-gift-boxes/"><u>[New] Adventures in Enigma Browsing the Leading Websites for Mystery Gift Boxes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-become-a-successful-ai-whisperer-exploring-this-unique-career-path/"><u>Can You Become a Successful AI Whisperer: Exploring This Unique Career Path</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creativity-clash-analyzing-the-features-of-midjourney-against-dall-e-3/"><u>Creativity Clash: Analyzing the Features of MidJourney Against DALL-E 3</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-nfts-your-essential-companion-into-the-realm-of-blockchain-powered-treasures/"><u>Decoding NFTs: Your Essential Companion Into the Realm of Blockchain-Powered Treasures</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-your-global-ip-on-win-os-via-cli/"><u>Demystifying Your Global IP on WIN OS via CLI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-4-emerging-advances-in-ev-tech-poised-to-revolutionize-the-auto-industry/"><u>Discover 4 Emerging Advances in EV Tech Poised to Revolutionize the Auto Industry</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-the-value-of-the-oculus-quest-2-for-current-consumers/"><u>Evaluating the Value of the Oculus Quest 2 for Current Consumers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expanded-compatibility-bing-chat-now-functional-across-chrome-and-firefox/"><u>Expanded Compatibility: Bing Chat Now Functional Across Chrome & Firefox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-apple-cards-new-high-yield-savings-account-option/"><u>Explore Apple Card's New High-Yield Savings Account Option</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gemini-stands-strong-as-a-complement-not-a-replacement-to-google-assistant/"><u>Gemini Stands Strong as a Complement, Not a Replacement, to Google Assistant</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-adding-a-counterweight-can-upgrade-comfort-levels-in-your-oculus-quest-vr-headset/"><u>How Adding a Counterweight Can Upgrade Comfort Levels in Your Oculus Quest VR Headset</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-srgb-encoding-versus-rgb-basics/"><u>In 2024, Srgb Encoding Versus Rgb Basics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/master-instagram-livestreams-with-ease-your-complete-guide-to-obs-usage/"><u>Master Instagram Livestreams with Ease Your Complete Guide to OBS Usage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/prime-selection-the-best-12-pc-games-for-click-enthusiasts/"><u>Prime Selection The Best 12 PC Games for Click Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roblox-server-status-how-can-you-tell-if-the-service-is-down/"><u>Roblox Server Status: How Can You Tell If The Service Is Down?</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-break-windows-stealthy-cam-policy/"><u>Techniques to Break Window's Stealthy Cam Policy</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Mophie Reintroduces Its Trailblazing Juice Pack for Unmatched Mobile Charging Experience
-date: 2024-10-04T17:07:40.997Z
-updated: 2024-10-07T16:25:45.966Z
+date: 2024-10-10T19:41:33.149Z
+updated: 2024-10-13T13:55:39.453Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What do I mean by my flow?
@@ -65,6 +65,13 @@ In any case, what that means is that instead of my escalating ranking of phones,
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First morning Gmail
 
 It's been quite a while since [I made the switch from Outlook to Gmail](https://www.zdnet.com/article/why-i-bit-the-bullet-and-finally-switched-from-outlook-to-gmail/), and I have to tell you, my productivity has improved tremendously, and after more than half a decade of use, I don't regret the move one bit. Having the exact same email interface on all my machines, with tight integration into my iPhone, iPad, and computers, has made all the difference. 
@@ -90,13 +97,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -125,13 +125,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -170,6 +163,13 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -183,13 +183,6 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured
 
@@ -231,16 +224,10 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -248,6 +235,19 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -292,21 +292,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-youtube-a-guide-for-gamers-live-broadcasts/"><u>[New] In 2024, Mastering YouTube A Guide for Gamers' Live Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unblemished-visuals-a-buyers-ultimate-guide/"><u>[New] Unblemished Visuals A Buyer's Ultimate Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-shorts-a-beginners-guide/"><u>[New] YouTube Shorts A Beginner's Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-selfies-and-pics-on-snapchat-edit-like-a-pro/"><u>[Updated] Elevating Selfies and Pics on Snapchat – Edit Like a Pro</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unravel-the-secrets-to-successful-instagram-metrics-management-with-top-tools/"><u>2024 Approved Unravel the Secrets to Successful Instagram Metrics Management with Top Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-zte-nubia-flip-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from ZTE Nubia Flip 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-laptop-maintenance-steps-for-putting-a-key-back-on-your-keyboard/"><u>DIY Laptop Maintenance: Steps for Putting a Key Back on Your Keyboard</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-communicate-via-text-without-busting-your-mobile-data-plan/"><u>How to Communicate via Text Without Busting Your Mobile Data Plan</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722865982868-how-to-fix-photoshop-scratch-disk-full-errors/"><u>How to Fix Photoshop ‘Scratch Disk Full’ Errors</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/cket-engagement-20-video-tricks-for-maximum-impact/"><u>Skyrocket Engagement 20 Video Tricks for Maximum Impact</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-collection-of-ps-vr2-game-announcements-everything-unveiled-to-date/"><u>The Ultimate Collection of PS VR2 Game Announcements - Everything Unveiled to Date</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-listeners-guide-to-2022s-podcast-powerhouses/"><u>The Ultimate Listener's Guide to 2022'S Podcast Powerhouses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-factors-to-evaluate-prior-to-purchasing-your-next-gaming-system/"><u>Top 5 Essential Factors to Evaluate Prior to Purchasing Your Next Gaming System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-gadgets-and-literature-laptops-phones-and-reading-materials-galore/"><u>Top Gadgets & Literature: Laptops, Phones & Reading Materials Galore!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-80s-movie-roundup-10-timeless-picks-for-now/"><u>Ultimate '80S Movie Roundup: 10 Timeless Picks for Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unpacking-the-corsair-i500s-performance-a-detailed-analysis-of-a-modern-minimalist-pc/"><u>Unpacking the Corsair I500's Performance - A Detailed Analysis of a Modern, Minimalist PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-efficient-use-of-snap-in-zoom-webinar/"><u>[New] Efficient Use of Snap in Zoom Webinar</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-complex-world-of-lipos-for-drones/"><u>[New] Navigating the Complex World of LiPos for Drones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nleash-potential-access-premium-sound-effects-for-2024/"><u>[New] Unleash Potential Access Premium Sound Effects for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-firefoxs-pip-mode/"><u>[Updated] 2024 Approved Unlocking the Secrets of Firefox's PIP Mode</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-essential-strategies-leveraging-chatgpt-for-enhanced-well-being/"><u>9 Essential Strategies: Leveraging ChatGPT for Enhanced Well-Being</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-ultra-series-2-unveiled-whats-new-predicted-cost-and-launch-timeline/"><u>Apple Watch Ultra Series 2 Unveiled - What's New, Predicted Cost & Launch Timeline?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enjoying-hulu-content-on-an-lg-smart-tv-easy-setup-steps-inside/"><u>Enjoying Hulu Content on an LG Smart TV - Easy Setup Steps Inside!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-kinemaster-a-comprehensive-guide-and-top-online-platforms/"><u>Mastering KineMaster A Comprehensive Guide & Top Online Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-btballloondll-file-not-presentmissing-issue-on-your-pc/"><u>Resolving the btballloon.dll File Not Present/Missing Issue on Your PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-essential-tutorial-for-vrecorder-setup-for-2024/"><u>The Essential Tutorial for VRecorder Setup for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-lms-for-streamlined-linguistics-education/"><u>Top LMS for Streamlined Linguistics Education</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tips-for-broadcasting-zoom-calls-directly-to-your-hdtv/"><u>Top Tips for Broadcasting Zoom Calls Directly to Your HDTV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-for-resolving-netflixs-notorious-error-code-nw-1-19/"><u>Troubleshooting Tips for Resolving Netflix's Notorious Error Code NW-1-19</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resetting-your-samsung-television-easily/"><u>Ultimate Guide: Resetting Your Samsung Television Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/user-experience-assessment-the-line-app-unveiled/"><u>User Experience Assessment: The Line App Unveiled</u></a></li>
 </ul></div>
 

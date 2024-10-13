@@ -1,7 +1,7 @@
 ---
 title: "Innovative and Lively: Apple's New Range of Gadgets Hit the Market Covertly This Week | ZDNET"
-date: 2024-10-03T18:55:42.822Z
-updated: 2024-10-07T18:58:01.170Z
+date: 2024-10-10T00:22:49.512Z
+updated: 2024-10-13T06:58:50.109Z
 tags:
   - apple
 categories:
@@ -77,26 +77,32 @@ Apple's iOS 18.1 is accessible currently as a developers beta and only for the P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-screenrecorder-comprehensive-step-by-step-guide/"><u>[New] 2024 Approved Ultimate ScreenRecorder Comprehensive, Step-by-Step Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-discover-the-future-of-screens-with-camstudios-2023-review/"><u>[Updated] Discover the Future of Screens with CamStudio's 2023 Review</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-inside-the-world-of-funimate-gamers-for-2024/"><u>[Updated] Inside the World of Funimate Gamers for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-content-with-professional-end-screen-templates/"><u>2024 Approved Elevate Your Content with Professional End Screen Templates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-with-android-quick-settings-a-user-friendly-guide/"><u>Boost Your Productivity with Android Quick Settings: A User-Friendly Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquering-among-us-stability-problems-a-comprehensive-troubleshooting-manual/"><u>Conquering Among Us Stability Problems: A Comprehensive Troubleshooting Manual</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722893525195-fix-the-missing-msstdfmtdll-error-on-your-computer-today/"><u>Fix the Missing Msstdfmt.dll Error on Your Computer Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-does-bass-management-work-an-in-depth-analysis/"><u>How Does Bass Management Work? An In-Depth Analysis</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-the-hey-siri-issue-in-just-17-steps-on-your-iphone-device/"><u>How to Resolve the Hey Siri Issue in Just 17 Steps on Your iPhone Device</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-unveiling-the-art-of-audio-blend-with-audacity-techniques/"><u>In 2024, Unveiling the Art of Audio Blend with Audacity Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/privacy-tip-remove-spotifys-auto-podcast-suggestions-for-2024/"><u>Privacy Tip Remove Spotify's Auto-Podcast Suggestions for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/proactive-measures-against-typical-short-video-issues/"><u>Proactive Measures Against Typical Short Video Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-8-superior-email-providers-as-alternatives-to-gmail/"><u>The Ultimate List: 8 Superior Email Providers as Alternatives to Gmail</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-complimentary-student-apps-for-the-new-school-year/"><u>Top 7 Complimentary Student Apps for the New School Year</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-youtubes-profit-distribution-to-content-makers/"><u>[New] In 2024, YouTube's Profit Distribution to Content Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-perfect-your-recordings-the-ultimate-guide-to-adobe-presenter/"><u>2024 Approved Perfect Your Recordings The Ultimate Guide to Adobe Presenter</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-dual-users-conflict-with-one-ms-login/"><u>Bypassing Dual Users’ Conflict with One MS Login</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Media Giants: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-emergency-and-amber-notifications-on-your-iphone-a-step-by-step-guide/"><u>Disabling Emergency & Amber Notifications on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-guide-enhancing-audio-performance-with-updated-usb-drivers-on-microsofts-latest-and-older-operating-systems/"><u>DIY Guide: Enhancing Audio Performance with Updated USB Drivers on Microsoft's Latest & Older Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-apple-watch-display-issues-tips-for-accurate-step-counts/"><u>Fix Your Apple Watch Display Issues - Tips for Accurate Step Counts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immerse-in-crystal-clear-viewing-with-hitachis-4k-hdr-televisions-and-built-in-roku-technology/"><u>Immerse in Crystal Clear Viewing with Hitachi's 4K HDR Televisions and Built-In Roku Technology</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-motorola-moto-e13-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Motorola Moto E13 Phone Screen?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/selecting-your-audio-system-comparison-of-home-theater-and-stereo-receivers/"><u>Selecting Your Audio System: Comparison of Home Theater & Stereo Receivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-12-no-cost-defragmentation-applications-your-guide-to-a-faster-pc-in-july-2n-2024/"><u>Top 12 No-Cost Defragmentation Applications: Your Guide to a Faster PC in July 2N, 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-mp4-to-mp3-conversion-on-mobile-the-best-apps-and-tools-for-2024/"><u>Updated MP4 to MP3 Conversion on Mobile The Best Apps and Tools for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

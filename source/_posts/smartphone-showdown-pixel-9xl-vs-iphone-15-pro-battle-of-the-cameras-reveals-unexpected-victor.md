@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Showdown: Pixel 9XL Vs. IPhone 15 Pro Battle of the Cameras Reveals Unexpected Victor!"
-date: 2024-10-06T18:17:19.485Z
-updated: 2024-10-07T17:32:32.576Z
+date: 2024-10-12T10:50:51.888Z
+updated: 2024-10-13T00:16:41.478Z
 tags:
   - apple
 categories:
@@ -77,10 +77,10 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -110,10 +110,10 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -127,10 +127,10 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -175,24 +175,24 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-efficient-broadcast-techniques-incorporating-youtube-loops-on-tv/"><u>[New] 2024 Approved Efficient Broadcast Techniques Incorporating YouTube Loops on TV</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-experts-picks-best-free-video-tools-for-pc-and-mac/"><u>[New] 2024 Approved Expert's Picks Best Free Video Tools for PC & Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-essential-techniques-for-making-and-tweaking-multi-snap-chats/"><u>[New] Essential Techniques for Making & Tweaking Multi-Snap Chats</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-legal-harmonies-unpacking-music-policy-on-instagram-for-2024/"><u>[New] Legal Harmonies Unpacking Music Policy on Instagram for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-getting-started-with-windows-movie-maker-6-installs/"><u>[Updated] 2024 Approved Getting Started with Windows Movie Maker 6 Installs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-step-by-step-iphone-music-video-production-basics/"><u>2024 Approved Step-by-Step IPhone Music Video Production Basics</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enigmatic-adventures-for-idevices-the-best-brain-teasing-apps-like-the-room-and-myst/"><u>Enigmatic Adventures for iDevices: The Best Brain-Teasing Apps Like 'The Room' And 'Myst'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-handling-and-repairing-bios-level-faults-whea-error/"><u>Expert Advice on Handling and Repairing BIOS-Level Faults (WHEA Error)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-troubleshooting-and-fixing-device-managers-code-41-errors/"><u>Expert Tips on Troubleshooting and Fixing Device Manager's Code #41 Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-origins-of-chatgpt-which-entity-holds-the-reigns/"><u>Exploring the Origins of ChatGPT: Which Entity Holds the Reigns?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-13-mini-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-d3dx928dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_28.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-use-the-quick-settings-menu-on-android/"><u>How to Use the Quick Settings Menu on Android</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-maximizing-sound-immediately-the-best-volumetric-boost-software-compatible-with-windows/"><u>New 2024 Approved Maximizing Sound Immediately The Best Volumetric Boost Software Compatible with Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-mfc42dll-file-missing-or-unavailable-issue/"><u>Solutions for Resolving mfc42.dll File Missing or Unavailable Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-the-ultimate-way-to-clean-your-dell-notebook/"><u>Step-by-Step Guide: The Ultimate Way to Clean Your Dell Notebook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-videos-you-record-with-your-phone-often-dont-last-very-long-which-makes-it-a-bit-difficult-to-tell-the-entire-story-of-the-scene-you-captured-thats-why-/"><u>The Videos You Record with Your Phone Often Dont Last Very Long, Which Makes It a Bit Difficult to Tell the Entire Story of the Scene You Captured. Thats Why in This Article We Are Going to Present</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-to-easier-driving-with-evs-free-parking-spots-and-faster-commutes-via-hov-lanes/"><u>Unlock the Secrets to Easier Driving with EVs: Free Parking Spots & Faster Commutes via HOV Lanes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winx-video-transfer-ipadipodiphonepc/"><u>WinX Video Transfer: 完全ガイド - iPad、iPod、iPhoneからPCへの動画・ビデオ転送と同期</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-understanding-igtv-shutdown/"><u>[New] 2024 Approved Understanding IGTV Shutdown</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-ranking-the-top-value-video-resources-online/"><u>[New] Ranking the Top Value Video Resources Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-countdown-in-forward-the-counterintuitive-playlist-method/"><u>[Updated] 2024 Approved Countdown in Forward The Counterintuitive Playlist Method</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-share-a-private-youtube-video/"><u>[Updated] How to Share a Private YouTube Video?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-skyrocket-with-subscribers-5-proven-methods-for-igtv-success-for-2024/"><u>[Updated] Skyrocket with Subscribers 5 Proven Methods for IGTV Success for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-beginners-manual-to-setting-up-a-gmail-safelist-for-enhanced-security/"><u>A Beginner's Manual to Setting Up a Gmail Safelist for Enhanced Security</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-performance-by-purging-your-androids-cache-quick-and-easy-methods/"><u>Boost Performance by Purging Your Android's Cache: Quick and Easy Methods</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/choosing-the-right-windows-11-user-profile-tips-and-decision-guidelines-techadvice/"><u>Choosing the Right Windows 11 User Profile: Tips & Decision Guidelines | TechAdvice</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/comprehensive-skype-screencasting-with-obs/"><u>Comprehensive Skype Screencasting with OBS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehvew-into-the-future-with-the-sony-car-afeela-release-timeline-and-price-estimates-explored/"><u>Comprehvew Into the Future with the Sony Car (Afeela): Release Timeline and Price Estimates Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-pair-your-logitech-wireless-mouse-with-another-transmitter/"><u>How to Pair Your Logitech Wireless Mouse With Another Transmitter</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-wifi-connectivity-problems-fixing-the-network-not-registered-message-on-a-samsung-galaxy-phone/"><u>Overcoming WiFi Connectivity Problems: Fixing the 'Network Not Registered' Message on a Samsung Galaxy Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorials-how-to-create-reverse-videos-with-snapchat-features/"><u>Step-by-Step Tutorials: How to Create Reverse Videos with Snapchat Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-free-language-learning-apps-of-the-year-2024-our-top-picks/"><u>The Best Free Language-Learning Apps of the Year 2024 - Our Top Picks!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-iphone-hdr-photography-skills/"><u>The Essential iPhone HDR Photography Skills</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-waterproof-cellphone-protectors-the-ultimate-guide/"><u>Top-Rated Waterproof Cellphone Protectors: The Ultimate Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-15-color-grading-plugins-for-action-cam-video-for-2024/"><u>Ultimate 15 Color Grading Plugins for Action Cam Video for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/xbox-network-outage-or-personal-setup-errors-understanding-the-difference/"><u>Xbox Network Outage or Personal Setup Errors – Understanding the Difference</u></a></li>
 </ul></div>
 

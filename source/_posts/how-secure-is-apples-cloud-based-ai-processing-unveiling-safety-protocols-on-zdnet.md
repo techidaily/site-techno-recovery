@@ -1,7 +1,7 @@
 ---
 title: How Secure Is Apple's Cloud-Based AI Processing? Unveiling Safety Protocols on ZDNet
-date: 2024-10-06T17:29:19.761Z
-updated: 2024-10-07T20:04:26.054Z
+date: 2024-10-10T23:28:04.857Z
+updated: 2024-10-12T16:45:20.667Z
 tags:
   - apple
 categories:
@@ -45,22 +45,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -71,10 +70,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -84,10 +83,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -95,6 +94,13 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,19 +136,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-direct-approaches-to-storing-google-voice-communications/"><u>[New] In 2024, Direct Approaches to Storing Google Voice Communications</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimize-audio-quality-while-recording-lectures-on-apple-devices-for-2024/"><u>[New] Optimize Audio Quality While Recording Lectures on Apple Devices for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/7-free-back-to-school-apps-for-students/"><u>7 Free Back-to-School Apps for Students</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/location-changer/"><u>Aiseesoft AnyCoord</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/android-system-intelligence-explained-the-future-of-smart-operating-systems/"><u>Android System Intelligence Explained: The Future of Smart Operating Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-to-psvr-2-titles-revealed-comprehensive-list-of-all-announced-games/"><u>Complete Guide to PSVR 2 Titles Revealed: Comprehensive List of All Announced Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-solution-for-fixing-avcodecdll-not-detected-or-lost-errors-in-windows/"><u>Complete Solution for Fixing Avcodec.dll Not Detected or Lost Errors in Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-of-value-the-beantech-bitwatch-s1-plus-smartwatch-insights/"><u>Exploring the Best of Value: The Beantech Bitwatch S1 Plus Smartwatch Insights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-motion-with-polaroids-latest-xs-innovation/"><u>In 2024, Mastering Motion with Polaroid's Latest XS Innovation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-how-to-clear-and-reboot-network-settings-on-your-mac/"><u>Quick Fix: How to Clear and Reboot Network Settings on Your Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-effective-ways-to-silence-your-pc-cooling-system/"><u>Solving the Issue: Effective Ways to Silence Your PC Cooling System</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a54-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A54 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-guide-to-thriving-as-a-digital-creator/"><u>[New] 2024 Approved A Guide to Thriving as a Digital Creator</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-gratitude-freepaid-video-outro-template-gallery/"><u>[New] 2024 Approved Gratitude Free/Paid Video Outro Template Gallery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-acclaimed-tools-the-finest-ps1-emulators-for-pc-gaming-for-2024/"><u>[New] Acclaimed Tools The Finest PS1 Emulators for PC Gaming for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-chrome-pip-integration-a-cross-platform-tutorial-for-2024/"><u>[Updated] Chrome PIP Integration A Cross-Platform Tutorial for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-leaderboard-best-following-drone-technology/"><u>2024 Approved Leaderboard Best-Following Drone Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-lost-online-identities-tips-for-recovering-deleted-emails/"><u>Finding Lost Online Identities: Tips for Recovering Deleted Emails</u></a></li>
+<li><a href="https://games-able.techidaily.com/hyper-responsive-top-logitech-for-gamers/"><u>Hyper-Responsive: Top Logitech for Gamers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stealthy-edits-blur-without-compromising-quality/"><u>In 2024, Stealthy Edits Blur Without Compromising Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rapidly-increasing-your-xtwitter-following-expert-tips-and-tricks-to-attract-more-users/"><u>Rapidly Increasing Your X/Twitter Following: Expert Tips & Tricks to Attract More Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-permanent-display-damage-a-complete-strategy-for-all-screens/"><u>Resolving Permanent Display Damage: A Complete Strategy for All Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-account/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest ✨ Account</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/streamlined-approaches-to-documenting-whatsapp-discussions/"><u>Streamlined Approaches to Documenting WhatsApp Discussions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-for-successfully-participating-in-live-tweeting-sessions-on-twitter/"><u>Tips for Successfully Participating in Live Tweeting Sessions on Twitter</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Major Savings: Grab Deflated Prices for Apple AirPods in July Sales Event | ZDNET"
-date: 2024-09-30T16:28:10.153Z
-updated: 2024-10-07T16:32:59.431Z
+date: 2024-10-12T00:07:45.887Z
+updated: 2024-10-12T22:11:15.402Z
 tags:
   - apple
 categories:
@@ -85,11 +85,31 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4de934a1-1103-4a84-8470-1a8052870dd6%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -101,18 +121,18 @@ We also looked over customer reviews to find out what matters to real people who
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do Apple Watches track my AFib?
 
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -122,27 +142,20 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the newest Apple Watch?
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Apple watches have the new double tap feature?
 
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the different Apple Watch bands available?
 
@@ -161,13 +174,6 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -213,20 +219,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-can-you-stream-fb-videos-on-your-living-room-screen-this-year/"><u>[New] 2024 Approved Can You Stream FB Videos On Your Living Room Screen This Year?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-addressing-msidll-errors-in-windows-operating-system/"><u>Effective Solutions for Addressing MSI.DLL Errors in Windows Operating System</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-xs-max-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone XS Max without Apple Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/our-5-favorite-sleep-apps-for-apple-watch/"><u>Our 5 Favorite Sleep Apps for Apple Watch</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nubia-red-magic-9-proplus-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nubia Red Magic 9 Pro+ Phone Now with These Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pros-vs-ultra-plus-an-in-depth-review-of-apples-newest-iphone-titans/"><u>Pros Vs. Ultra Plus: An In-Depth Review of Apple's Newest iPhone Titans</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-improve-fps-and-reduce-lag-in-roblox-windows-edition/"><u>Strategies to Improve FPS & Reduce Lag in Roblox Windows Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-essential-playbook-for-newcomers-to-pokemon-unite/"><u>The Essential Playbook for Newcomers to Pokémon Unite</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-correcting-issues-with-a-missing-xlivedll-file-on-your-pc/"><u>The Ultimate Guide: Correcting Issues with a Missing Xlive.dll File on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-tech-bargains-during-amazons-prime-day-event/"><u>Top Tech Bargains During Amazon's Prime Day Event</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-ceiling-audio-systems/"><u>Top-Rated Ceiling Audio Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tutorial-simultaneously-pairing-and-playing-on-more-than-one-bluetooth-speaker-with-a-single-unit/"><u>Tutorial: Simultaneously Pairing and Playing on More Than One Bluetooth Speaker with a Single Unit</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-breaking-free-from-adobe-top-4-premiere-rush-alternatives/"><u>Updated In 2024, Breaking Free From Adobe Top 4 Premiere Rush Alternatives</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-s24-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy S24 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/decoding-the-realm-key-dichotomies-in-mr-ar-and-vr-for-2024/"><u>Decoding the Realm Key Dichotomies in MR, AR, & VR for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-maintenance-how-to-keep-your-mechanical-keyboard-spotless/"><u>DIY Maintenance: How to Keep Your Mechanical Keyboard Spotless</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-notebooks-excellent-in-media-post-production/"><u>Essential Notebooks Excellent in Media Post-Production</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/garmins-vivomove-hr-smartwatch-reviewed-the-sleekest-wearable-for-daily-fitness-routines/"><u>Garmin's Vivomove HR Smartwatch Reviewed: The Sleekest Wearable for Daily Fitness Routines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-chip-restarts-after-failure/"><u>Graphics Chip Restarts After Failure</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-pair-a-chromecast-remote/"><u>How to Pair a Chromecast Remote</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-virtual-race-titles-reviewed/"><u>In 2024, Best Virtual Race Titles Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-video-beats-into-ringtones-must-visit-sites-explored/"><u>In 2024, Transform Video Beats Into Ringtones Must-Visit Sites Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/landmarks-of-virtual-reality-showcases/"><u>Landmarks of Virtual Reality Showcases</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/perform-a-photoshop-magic-act-erase-those-glassy-pets-peepers/"><u>Perform a Photoshop Magic Act: Erase Those Glassy Pets' Peepers!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/more-viewers-to-your-channel-with-easy-tricks-2-for-2024/"><u>Push More Viewers to Your Channel with Easy Tricks (2) for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/slow-motion-magic-how-to-use-windows-live-movie-makers-advanced-features-for-2024/"><u>Slow Motion Magic How to Use Windows Live Movie Makers Advanced Features for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-get-your-steam-friends-network-back-online-and-functioning/"><u>Steps to Get Your Steam Friends Network Back Online and Functioning</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-quick-access-to-command-line-in-windows-explorer/"><u>Unlock Quick Access to Command Line in Windows Explorer</u></a></li>
 </ul></div>
 

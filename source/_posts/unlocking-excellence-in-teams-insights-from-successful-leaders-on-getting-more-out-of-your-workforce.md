@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Excellence in Teams: Insights From Successful Leaders on Getting More Out of Your Workforce"
-date: 2024-09-19 10:45:59
-updated: 2024-09-20 12:35:53
+date: 2024-10-10T04:04:19.559Z
+updated: 2024-10-12T23:38:03.096Z
 tags:
   - work-life
 categories:
@@ -47,6 +47,13 @@ Hibbitt says it's also important to ensure your people enjoy the journey to thei
 
 "Making sure it's fun is really, really important," he says. "Our engineering teams are spread out across Europe. If I think about some of my engineers, making sure that the problems they're focusing on are meaningful to the organization -- but also meaningful to them, and that they're growing within their careers, and that they're working with other high-performing individuals -- is crucial."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Connect with people
 
 Cynthia Stoddard, CIO at Adobe, says you get the best from people by connecting with them, talking with them, hearing their voices, and then acting. 
@@ -62,6 +69,13 @@ Stoddard says these kinds of initiatives take a lot of effort. However, this inv
 Stoddard says ideas will come out of workshops. Good managers then make sure their staff feel their ideas are being heard.
 
 "I will listen to everything. And I think it's important that, when people speak, their voice is heard, they know you listened, and then an action took place," she says. "So, that's what I've tried to do is build that connection all the way to the action taking place. And we make changes based on the ideas of individual contributors, managers, and people around the organization from different regions and areas of the world."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Provide personalized feedback
 
@@ -79,6 +93,13 @@ Think about what works for each individual and try to accommodate that personali
 
 "Whether you're giving feedback twice in one week, or just meeting in one block for an hour, success is all about being flexible."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Give people space
 
 Bob Michael, head of data at retailer DFS, says you get the best from your people when they know they can trust your word.
@@ -90,6 +111,13 @@ Michael says openness also extends to the things you ask your staff to do. Don't
 **Also:** [**Generative AI is changing your technology career path. What to know**](https://www.zdnet.com/article/generative-ai-is-changing-your-technology-career-path-heres-what-you-need-to-know/)
 
 "I wouldn't ask somebody to do something that I wouldn't necessarily do myself," he says. "The other bit that goes alongside that is trusting what they do. I don't want to micromanage; I'm not interested in micromanaging."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Cover all your bases
 
@@ -128,11 +156,29 @@ Warne also says any manager who covers those three areas will end up with a very
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-funnybox-simple-setup-for-content-creators/"><u>[New] In 2024, FunnyBox Simple Setup for Content Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-how-to-seamlessly-observe-the-most-praised-youtube-comments/"><u>[New] In 2024, How to Seamlessly Observe the Most Praised YouTube Comments</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-must-use-instagram-hashtags-to-skyrocket-your-post-reach/"><u>5 Must-Use Instagram Hashtags to Skyrocket Your Post Reach</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/disabling-or-enabling-pip-mode-youtube-on-iphone-guide/"><u>Disabling or Enabling PIP Mode YouTube on iPhone Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/earn-your-spot-on-spotifys-premium-platform-the-college-edition-savings-secrets/"><u>Earn Your Spot on Spotify's Premium Platform: The College Edition Savings Secrets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-remedies-for-the-missing-btballoondll-error-in-your-system/"><u>Effective Remedies for the Missing btballoon.dll Error in Your System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-save-netflix-videos-onto-your-pc-or-mac/"><u>How To Save Netflix Videos Onto Your PC or Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-k70-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi K70 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/inside-look-free2xs-camera-recording-capabilities-for-2024/"><u>Inside Look Free2X's Camera Recording Capabilities for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c300frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C300FRP Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-ntldr-errors-on-your-computer/"><u>Step-by-Step Solutions for NTLDR Errors on Your Computer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-essential-guide-to-saying-thank-you-in-germany/"><u>The Essential Guide to Saying Thank You in Germany</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-choice-compact-gaming-pcs-the-ultimate-selection/"><u>Top Choice Compact Gaming PCs: The Ultimate Selection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-windows-11-shutdown-issues/"><u>Troubleshooting Guide: Solving Windows 11 Shutdown Issues</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Future of Smartphones: Apple's Latest AI Innovations Poised for iPhone Integration"
-date: 2024-10-01T17:20:10.459Z
-updated: 2024-10-07T17:28:06.656Z
+date: 2024-10-07T00:47:48.241Z
+updated: 2024-10-12T22:45:33.253Z
 tags:
   - apple
 categories:
@@ -56,13 +56,6 @@ Working in any of the virtual environments (I prefer Mount Hood) is great, but t
 
 I'd like the ability to create a passthrough opening that allows me to see the keyboard and the mouse (and I wouldn't mind one that lets me also see my coffee cup) while in virtual space. Ideally, an AI would be smart enough to recognize my keyboard (even if it's not Apple branded), but a reasonable first step would be merely allowing users to define passthrough zones by hand in the Vision Pro. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Less draconian media restrictions
 
 Apple Vision Pro does not allow any screenshots of entertainment media. Period. Do I want to show you a screenshot of the impressive rhino sanctuary or Parkour immersive videos? Yes. Can I? No. No screenshots, no video. I also can't mirror any video to the Apple TV from the Vision Pro. 
@@ -73,6 +66,13 @@ That precludes using the Vision Pro's mirror-to-Apple TV feature to help a perso
 
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. More native spatial apps
 
 Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Shortcuts, Stocks, and Voice Memos in the Compatibility Mode folder. While some of these, like Podcasts, won't benefit much from spatial conversion, others will. Maps, for example, would be the obvious beneficiary of a spatial upgrade, since the app itself tries to present 3D projections on a 2D screen. 
@@ -81,18 +81,18 @@ Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Short
 
 But I also think it might be nice to have some clocks you could actually place in mixed reality or a calendar you could hang on the wall. And where could Books go if the interactive features that are already so great in Books could be extended to a fully 3D world? Oh, the stories we could show and tell! 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. More environments and third-party environments
 
 Apple currently allows just a few fully immersive environments. While the surface of the moon and Mount Hood are nice enough, they get boring after a while. My immersive environment on the [Quest 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMeta-Quest-128GB-Breakthrough-Reality-3%2Fdp%2FB0C8VKH1ZH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb135956-8baa-4edf-a1db-c0f82f14a9f0%7Cdtp&dtb=1) is an old mining town. The Quest 3 provides many immersive environments, including inside and outside locations. 
 
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Larger play space boundary
 
@@ -106,6 +106,13 @@ There's more flexibility on the Quest 3\. Using a [fairly dangerous optional set
 
 Maybe, with VisionOS 2.0, Apple will allow for some flexibility in play space boundary size. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. VR controller support
 
 While I wouldn't say that the Quest experience beats the Apple Vision Pro experience, some things just work better on the [Quest 3](https://www.zdnet.com/article/zdnet-2023-product-of-the-year-meta-quest-3/). Key to this is the fact that the Quest 3 has controllers, and the Vision Pro relies entirely on hand gestures. It's time for the Vision Pro to add controller support. 
@@ -117,13 +124,6 @@ I'll give you one example. I really enjoy the game [Puzzling Places on the Quest
 This situation was also apparent in [the Marvel What…If? immersive experience](https://www.zdnet.com/article/marvels-what-if-brings-immersive-vr-to-apple-vision-pro-for-free/) I just explored. I found that the hand gestures, while fun, had some lag. [Adam Savage's Tested experienced the same issues](https://www.youtube.com/watch?v=coMrs5KgiV8). 
 
 Most likely, Apple will someday introduce its own controllers, if only to meet some special purpose large-scale enterprise need. But given that Meta has added support for Apple's spatial videos to the Quest 3, it seems only fair for Apple to add support for Quest controllers. I haven't found Quest 3 controllers available separately, but [since the Quest 2 is only $199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOculus-Quest-Advanced-All-One-Virtual%2Fdp%2FB099VMT8VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb135956-8baa-4edf-a1db-c0f82f14a9f0%7Cdtp&dtb=1), folks could buy it and get the Quest 2 controllers. Hey, at $199, it's the same price as a [spare Vision Pro battery](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW283LL%2FA%2Fapple-vision-pro-battery&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or [Vision Pro carrying case](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW2F3LL%2FA%2Fapple-vision-pro-travel-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  9\. Better and more accurate hand and eye tracking
 
@@ -137,16 +137,16 @@ It's weird, but there's no Find My app for the Apple Vision Pro. You can't even 
 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -186,24 +186,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-recording-steps-for-youtube-audio-extraction-for-2024/"><u>[New] Essential Recording Steps for YouTube Audio Extraction for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-ultimate-guide-to-lightroom-for-hdr-image-creation/"><u>[New] In 2024, The Ultimate Guide to Lightroom for HDR Image Creation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-lighten-spirits-with-adobes-meme-magic-for-2024/"><u>[New] Lighten Spirits with Adobe's Meme Magic for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-reel-in-viewers-with-these-best-twitch-cameras-and-webcams-for-2024/"><u>[New] Reel in Viewers with These Best Twitch Cameras and Webcams for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-youtube-for-affiliate-earnings/"><u>[Updated] Leveraging YouTube for Affiliate Earnings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-meme-design-collection/"><u>2024 Approved The Ultimate Meme Design Collection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-instructions-to-erase-browser-cache-in-most-used-browsers-today/"><u>Complete Instructions to Erase Browser Cache in Most Used Browsers Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/defeating-dangerous-boss-lynels-with-efficient-tactics-in-breath-of-the-wild/"><u>Defeating Dangerous Boss Lynels with Efficient Tactics in Breath of the Wild</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-secured-email-platforms-a-guide-to-staying-protected-online/"><u>Discover the Leading Secured Email Platforms: A Guide to Staying Protected Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-compatibility-problems-with-your-iphone-and-its-peripherals-comprehensive-guide/"><u>Fixing Compatibility Problems with Your iPhone and Its Peripherals – Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/going-viral-made-simple-discover-10-ingenious-hacks-for-insta-success/"><u>Going Viral Made Simple: Discover 10 Ingenious Hacks for Insta Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-rescue-a-stuck-macbook-air-from-its-frozen-state-a-step-by-step-guide/"><u>How to Rescue a Stuck MacBook Air From Its Frozen State: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-tips-creating-beautiful-and-easy-collage-projects/"><u>In 2024, IPhone Tips Creating Beautiful and Easy Collage Projects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-tenths-svchostexe-performance-issues-a-step-by-step-approach/"><u>Resolving Windows Tenth's svchost.exe Performance Issues: A Step-by-Step Approach</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/step-by-step-maximizing-fb-video-area/"><u>Step by Step Maximizing Fb Video Area</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-duplicate-posts-on-tiktok/"><u>Step-by-Step Guide: Removing Duplicate Posts on TikTok</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-usb-20-exploring-velocity-cabling-and-adapters/"><u>The Complete Guide to USB 2.0: Exploring Velocity, Cabling, and Adapters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-for-converting-your-spotify-queues-to-editable-txt-files/"><u>The Ultimate Walkthrough for Converting Your Spotify Queues to Editable TXT Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-strategies-for-free-texting-save-on-data-and-stay-connected/"><u>Top Strategies for Free Texting: Save on Data & Stay Connected</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/harting-the-course-from-adsense-income-to-savings/"><u>[New] Charting the Course From AdSense Income to Savings</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-enhancing-engagement-with-solutions-to-common-shorts-challenges/"><u>[New] Enhancing Engagement with Solutions to Common Shorts Challenges</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-pros-verdict-4-superior-fullscreen-capture-applications-for-2024/"><u>[Updated] Pro's Verdict 4 Superior Fullscreen Capture Applications for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/best-free-online-flv-to-mp4-converter-tools-top-picks/"><u>Best Free Online FLV to MP4 Converter Tools - Top Picks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-asus-rog-phone-7-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Asus ROG Phone 7 Phone that is Locked?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-buzz-of-the-new-m4-mac-mini-projections-for-specs-costs-and-launch-schedule/"><u>Inside the Buzz of the New M4 Mac Mini - Projections for Specs, Costs & Launch Schedule</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-how-to-connect-to-shared-drives-from-your-mac/"><u>Step-by-Step Instructions: How to Connect to Shared Drives From Your Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722865231576-stop-receiving-amber-alerts-on-your-android-device-today/"><u>Stop Receiving AMBER Alerts on Your Android Device Today</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-essential-guide-for-every-aspiring-snapchat-editor-for-2024/"><u>The Essential Guide for Every Aspiring Snapchat Editor for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-hidden-connections-6-tricks-for-efficiently-searching-people-on-facebook/"><u>Uncover Hidden Connections: 6 Tricks for Efficiently Searching People on Facebook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/unleash-high-performance-elevate-your-pc-with-an-updated-asus-rx-970-pro-card/"><u>Unleash High Performance: Elevate Your PC with an Updated Asus RX 970 Pro Card</u></a></li>
 </ul></div>
 

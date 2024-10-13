@@ -1,7 +1,7 @@
 ---
 title: The Distinct Roles of Managers Vs. Leaders Explained – Essential Perspectives by ZDNet
-date: 2024-09-18 20:21:22
-updated: 2024-09-20 10:49:14
+date: 2024-10-11T10:32:32.345Z
+updated: 2024-10-13T05:56:43.197Z
 tags:
   - work-life
 categories:
@@ -45,6 +45,13 @@ Singh says managers take responsibility for overseeing a set of resources effici
 
 "A manager of people understands how to bring a team together," he says. "How do you assemble a team, where do you hire people, what's the ideal profile, how do you enable them, how do you deal with conflict resolution, and how do you ensure empowerment and the education and the retraining of individuals?"
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Helpful managers ensure team members don't sink**
 
 Gerardo del Guercio, solutions architect at Prostate Cancer UK, says effective management is about making sure you don't ask people on your team to do something you wouldn't do yourself. 
@@ -58,6 +65,13 @@ He says IT management often involves using similar systems from one industry to 
 "What I enjoy about management is building the team around the activity that's required. I warn my students that they will feel the pressure. They might even feel like they're sinking sometimes," says del Guercio.
 
 "My job is to make sure they've got straw beneath them and to make sure they bounce. If you're not learning, then you're in the wrong place. When you stop learning then you need to move on."
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Effective managers and leaders have key roles to play**
 
@@ -75,6 +89,13 @@ While White says being an effective leader often involves some common characteri
 
 "They are multiple generations in the workplace," she says. "We can't have a one-size-fits-all approach to communication and our leadership styles have got to develop as the generations change in our workplace."
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Smart leaders establish the right culture**
 
 Ed Higgs, group director of IT shared services at Rentokil Initial, says there's a sharp difference between management and leadership. One is focused on direction while the other is centered on inspiration.
@@ -88,6 +109,13 @@ Higgs believes in giving as much power as possible to people who are responsible
 Higgs engages with these service owners and then sells the ideas that his people generate to senior stakeholders in the organization.
 
 "For me, leadership is not about telling people what to do," he says. "I represent 80 people in my team. I represent them when I go to the board and the decisions get made." 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Successful leaders set the direction of future travel**
 
@@ -124,11 +152,25 @@ Pocock says successful leadership in his own business usually involves leading b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-grassroots-video-marketing-strategies/"><u>[New] 2024 Approved Grassroots Video Marketing Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-where-the-magic-of-video-editing-begins-on-youtube/"><u>[New] 2024 Approved Where the Magic of Video Editing Begins on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-iphones-blueprint-for-extended-frame-mastery/"><u>[New] In 2024, IPhone's Blueprint for Extended Frame Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-core-ideas-behind-online-story-crafting/"><u>[Updated] 2024 Approved Core Ideas Behind Online Story Crafting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-block-automated-youtube-content-triggers-for-2024/"><u>[Updated] Block Automated YouTube Content Triggers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audience-focus-top-webcams-that-bring-life-to-podcasts/"><u>2024 Approved Audience Focus Top Webcams That Bring Life to Podcasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-maximize-engine-power-the-best-windows-and-mac-srt-mods-countdown/"><u>2024 Approved Maximize Engine Power The Best Windows & Mac SRT Mods Countdown</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-wi-fi-connection-woes-heres-how-to-solve-authentication-errors/"><u>Android Wi-Fi Connection Woes? Here's How to Solve Authentication Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/modify-your-online-presence-how-to-switch-your-discord-picture/"><u>Modify Your Online Presence: How to Switch Your Discord Picture</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/release-date-costs-and-features-find-your-playstation-portal-purchase-locations-included/"><u>Release Date, Costs & Features: Find Your PlayStation Portal - Purchase Locations Included</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-the-users-who-liked-or-commented-on-your-instagram-post/"><u>Uncover the Users Who Liked or Commented on Your Instagram Post</u></a></li>
+</ul></div>
+

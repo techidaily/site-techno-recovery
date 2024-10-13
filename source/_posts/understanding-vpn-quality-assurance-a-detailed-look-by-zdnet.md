@@ -1,7 +1,7 @@
 ---
 title: "Understanding VPN Quality Assurance: A Detailed Look by ZDNet"
-date: 2024-09-17 20:15:42
-updated: 2024-09-20 12:49:45
+date: 2024-10-10T10:36:41.907Z
+updated: 2024-10-13T04:21:41.393Z
 tags:
   - vpn
 categories:
@@ -38,6 +38,13 @@ ZDNET VPN experts include [David Gerwirtz](https://www.zdnet.com/meet-the-team/d
 We have run hundreds of speed tests on numerous VPNs throughout the years -- including over a dozen VPNs more recently -- and we have also conducted in-depth research on each VPN, including soliciting customer feedback and speaking to other experts. 
 
 If a VPN is going to meet our standards as a top recommendation, it must perform well in numerous criteria. See below for the most significant criteria we test for, and how. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Our top VPN recommendations
 
@@ -109,6 +116,13 @@ It's always best to have the option for simultaneous connections in a VPN to ens
 
 ZDNET considers the number of simultaneous device connections available to subscribers within our evaluations. While some VPN providers only offer one or two, we prefer to see a minimum of six to eight simultaneous connections when you are paying for an ongoing plan.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Kill switches
 
 One of the main features we insist upon when we recommend a VPN is the existence of a kill switch. Sometimes, our internet connectivity can unexpectedly drop, and this will also cause your VPN connection to fail. Your phone or computer is likely to immediately try to automatically reconnect to your internet service, and this will happen independently of any VPN you are running. 
@@ -118,6 +132,19 @@ All of a sudden, your data is unprotected, unless a kill switch is active. Kill 
 ### Extras
 
 While the above features are the most important criteria we consider during VPN evaluations, we also research and may test additional features including password managers, cloud storage, antivirus software, browser extensions, and more. 
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we assess VPN security
 
@@ -158,6 +185,13 @@ Here are the most important factors and pointers to consider when you are select
 * **Contract terms**: VPN providers constantly offer discounts, typically on longer-term plans, so you need to consider the fine print before you sign up. Remember to cancel before automatic renewal if you're no longer happy with the service or you want to switch to a cheaper deal elsewhere.
 * **Use cases**: Your VPN selection should relate to how you want to use a VPN. You may want one specifically for streaming geolocked content, for example, or you may need a VPN likely to work in restricted countries. Consider these points before making your final choice, and test them out during your MBG time period to ensure the VPN is right for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Frequently Asked Questions
 
 ## What is a VPN?
@@ -176,6 +210,13 @@ You can find out your IP address and location using [whatismyipaddress.com](http
 
 It's also possible that your VPN is leaking your data and potentially exposing your online activity. To ensure your VPN doesn't have any issues with DNS leaks or IP leaks, you can run tests on a site like [DNS Leak Test](https://www.dnsleaktest.com/). There are plenty of tools that allow you to test for leaks, but many are owned by VPN providers and it may not always be clear who developed the tool, which could be a conflict of interest. You may want to run tests with several different sites and compare the results.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I need a VPN if I'm traveling or using a Wi-Fi hotspot? 
 
 If you're [traveling](https://www.zdnet.com/article/best-travel-vpn/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/best-travel-vpn/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22traveling%22%7D) or using the internet in a public place like a coffee shop, that data encryption is critical, since most public Wi-Fi hotspots are open and unencrypted -- which means anyone on the network can see what you send and may be able to eavesdrop on your activities and steal passwords. 
@@ -189,6 +230,13 @@ Before you choose a VPN service, free or paid, it's important to know that no si
 Operating a good VPN service requires hundreds of servers worldwide and a ton of networking resources. If you're not paying to support that infrastructure, who is? Probably advertisers or data miners. However, some reputable services -- such as ProtonVPN -- offer free plans that are supported by paid subscribers, rather than your personal data. 
 
 if you want to try out a free VPN, check out our guide: [The best free VPNs: Expert tested](https://www.zdnet.com/article/best-free-vpn/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it legal to use a VPN?
 
@@ -229,11 +277,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-gamers-pathway-to-impeccable-recordings/"><u>[New] 2024 Approved Gamers' Pathway to Impeccable Recordings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>[New] Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-brief-journey-through-the-past-of-electrified-transportation/"><u>A Brief Journey Through the Past of Electrified Transportation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-signs-is-my-text-being-read/"><u>Discover the Signs: Is My Text Being Read?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-strategies-for-protected-email-registration-in-server-environments/"><u>Expert Strategies for Protected Email Registration in Server Environments</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pc-troubleshooting-made-easy-with-chatgpt-support/"><u>PC Troubleshooting Made Easy with ChatGPT Support</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-missing-msvcr80dll-step-by-step-error-fix-guide/"><u>Solving The Mystery Of 'Missing MSVCR80.DLL' – Step-By-Step Error Fix Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/trampas-comunes-y-facil-recuperacion-supera-el-error-del-99-durante-la-configuracion-de-windows-11/"><u>Trampas Comunes Y Fácil Recuperación: Supera El Error Del 99% Durante La Configuración De Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-the-reason-behind-your-ps4-controllers-colorful-indicator-lights/"><u>Uncover the Reason Behind Your PS4 Controller's Colorful Indicator Lights</u></a></li>
+</ul></div>
+

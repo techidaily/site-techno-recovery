@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Launch: Apple Rumored to Release Updated 'AirPods Lite' And Premium 'AirPods Max' Soon - Tech News by ZDNet"
-date: 2024-10-06T19:36:56.611Z
-updated: 2024-10-07T19:53:41.339Z
+date: 2024-10-10T07:56:58.748Z
+updated: 2024-10-13T02:41:33.550Z
 tags:
   - apple
 categories:
@@ -32,6 +32,19 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -52,13 +65,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -76,16 +82,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -105,10 +105,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -117,16 +117,16 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -174,20 +174,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/lord-of-the-rings-movie-marathon-the-correct-viewing-order-explained/"><u>'Lord of the Rings' Movie Marathon: The Correct Viewing Order Explained</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-your-inner-star-bold-steps-for-youtube-success/"><u>[New] Unleash Your Inner Star Bold Steps for YouTube Success</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-inexpensive-pc-playback-devices/"><u>[Updated] 2024 Approved Inexpensive PC Playback Devices</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-building-and-managing-youtube-collaborative-projects/"><u>[Updated] In 2024, Strategies for Building & Managing YouTube Collaborative Projects</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-revolutionize-your-online-presence-with-live-screenshares/"><u>[Updated] Revolutionize Your Online Presence with Live Screenshares</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chatgpt-reference-techniques-a-step-by-step-tutorial-for-proper-citation/"><u>ChatGPT Reference Techniques: A Step-by-Step Tutorial for Proper Citation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-how-to-detach-a-gadget-from-google-home-settings/"><u>Guide: How To Detach A Gadget From Google Home Settings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-create-a-meta-oculus-quest-or-quest-2-account/"><u>How to Create a Meta (Oculus) Quest or Quest 2 Account</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-t2-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo T2 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-psvr-with-a-personal-computer/"><u>Step-by-Step Guide: Setting Up Your PSVR with a Personal Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-rectifying-dsounddll-file-unavailability-on-pcs/"><u>The Complete Guide to Rectifying dsound.dll File Unavailability on PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-factors-to-evaluate-when-purchasing-pre-owned-notebooks/"><u>Top 5 Factors to Evaluate When Purchasing Pre-Owned Notebooks</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-se-2020-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-learn-and-master-io-screen-recording-today/"><u>[Updated] Learn and Master IO Screen Recording Today</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-top-5-captivating-videos-from-the-world-of-fb-for-2024/"><u>[Updated] Top 5 Captivating Videos From the World of FB for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-essential-video-promo-tips-for-startups-infographic/"><u>2024 Approved Essential Video Promo Tips for Startups (Infographic)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-the-elusive-normalizdll-error-on-your-computer/"><u>Diagnosing and Repairing the Elusive Normaliz.dll Error on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-free-language-educational-applications-of-2024/"><u>Discover the Leading Free Language Educational Applications of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-the-ipads-with-internal-navigation-systems-a-comprehensive-guide/"><u>Discovering the iPads with Internal Navigation Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tricks-for-accessing-and-customizing-your-android-quick-settings-panel/"><u>Essential Tricks for Accessing and Customizing Your Android Quick Settings Panel</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-narzo-60-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme Narzo 60 5G Phone Network-Ready</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/introduction-to-vlogging-tools-for-getting-started/"><u>Introduction to Vlogging Tools for Getting Started</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-launchdll-file-not-foundmissing-issues-on-your-pc/"><u>Resolving 'Launch.dll' File Not Found/Missing Issues on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-big-thing-in-apples-lineup-get-insider-info-on-the-rumored-touchscreen-macbook/"><u>The Next Big Thing in Apple's Lineup: Get Insider Info on The Rumored Touchscreen MacBook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-5-best-capture-cards-for-nintendo-switch/"><u>Top 5 Best Capture Cards for Nintendo Switch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-effortlessly-removing-applications-from-your-mac/"><u>Ultimate Guide: Effortlessly Removing Applications From Your Mac</u></a></li>
 </ul></div>
 

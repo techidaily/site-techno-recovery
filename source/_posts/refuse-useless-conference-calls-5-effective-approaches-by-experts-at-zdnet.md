@@ -1,7 +1,7 @@
 ---
 title: "Refuse Useless Conference Calls: 5 Effective Approaches by Experts at ZDNet"
-date: 2024-09-18 13:23:40
-updated: 2024-09-20 11:24:56
+date: 2024-10-10T13:31:08.912Z
+updated: 2024-10-13T12:19:40.978Z
 tags:
   - work-life
 categories:
@@ -51,6 +51,13 @@ While those catch-up sessions can build camaraderie, they can also eat into your
 
 "Is the meeting useful? And if I think it isn't, I'll always question it and say, 'Do you really need me here? Am I really important in this meeting? Is this a valid use of my time?'"
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Develop a conscious meeting culture
 
 Alex Hibbitt, engineering director at albelli-Photobox Group, says the debate over the value of meetings is "an eternal workplace challenge". 
@@ -67,6 +74,13 @@ The albelli-Photobox group was formed through the merger of an English and a Dut
 
 "It's become the norm now, which helps massively. And I'd like to think that all the meetings I go to are effective. Very few are window-dressing meetings in my experience these days."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Craft time for creativity
 
 Robyn Furby, technology adoption manager at insurance firm NFU Mutual, is another business leader who says a conscious approach to meetings and work time is crucial, especially in the post-COVID world of work.
@@ -80,6 +94,13 @@ Robyn Furby, technology adoption manager at insurance firm NFU Mutual, is anothe
 While knowing why you're expected to attend a meeting is crucial, so is having time -- whether it's online or in-person -- for ad hoc creativity sessions. 
 
 "Sometimes it's important to have a meeting without a set agenda because I think that's when the energy grows and the ideas come," says Furby. "But I think a successful approach to meeting culture is about crafting time."
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Think about who should be involved
 
@@ -96,6 +117,19 @@ Warne believes there's a formula for the right number of people in meetings, and
 "And so, we're always challenging people to think about, 'how can you get the best result with the fewest people possible?'" he says. 
 
 "Because for every one person you add, you're not just increasing the complexity by one -- you're increasing it by a magnitude. I think success is just about giving people the permission to challenge whether a meeting should take place."
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Be prepared to leave if your work is done
 
@@ -134,11 +168,29 @@ Liste says it's important everyone is mindful that people's time is a commodity 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>[New] A Step-by-Step Guide to Memetic Marvels Essential Strategies for GIF Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comparing-profit-potential-dailymovement-and-youtubes-earnings/"><u>[Updated] 2024 Approved Comparing Profit Potential DailyMovement and Youtube's Earnings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-video-impact-interpreting-youtube-metrics-wisely-for-2024/"><u>[Updated] Enhancing Video Impact Interpreting YouTube Metrics Wisely for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-iptv-screen-capture-techniques-for-2024/"><u>[Updated] Mastering IPTV Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-best-ios-and-android-apps-you-can-use-to-create-animoji-and-memoji-videos/"><u>2024 Approved Best iOS and Android Apps You Can Use to Create Animoji and Memoji Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oneplus-11r-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from OnePlus 11R to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/6-reasons-your-car-battery-keeps-dying/"><u>6 Reasons Your Car Battery Keeps Dying</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722878544362-best-free-tools-and-apps-for-students-get-ready-for-back-to-school/"><u>Best Free Tools & Apps for Students: Get Ready for Back-to-School!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-insta-game-ultimate-techniques-for-accumulating-more-followers/"><u>Elevate Your Insta Game: Ultimate Techniques for Accumulating More Followers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/expert-analysis-of-the-bellroy-venture-watch-strap-upgrading-your-timepiece-with-elegance/"><u>Expert Analysis of the Bellroy Venture Watch Strap: Upgrading Your Timepiece with Elegance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-turning-off-government-alert-systems-in-android-settings/"><u>Guide to Turning Off Government Alert Systems in Android Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-activate-moonlight-setting-in-your-iphone-effortlessly/"><u>How To Activate Moonlight Setting In Your iPhone Effortlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-find-someones-email-address/"><u>How to Find Someone's Email Address</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps4-screen-capture-guide-simple-steps-to-taking-perfect-screenshots/"><u>PS4 Screen Capture Guide: Simple Steps to Taking Perfect Screenshots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-potential-of-your-ipad-free-ipados-18-update-available-with-new-innovations-and-pricing-insights/"><u>Unlock the Potential of Your iPad: Free IPadOS 18 Update Available with New Innovations and Pricing Insights!</u></a></li>
+</ul></div>
+

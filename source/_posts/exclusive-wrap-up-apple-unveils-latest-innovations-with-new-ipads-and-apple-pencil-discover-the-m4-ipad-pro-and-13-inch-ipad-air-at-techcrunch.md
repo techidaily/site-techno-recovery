@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Wrap-Up: Apple Unveils Latest Innovations with New iPads & Apple Pencil - Discover the M4 iPad Pro and 13-Inch iPad Air at TechCrunch"
-date: 2024-09-30T19:44:17.497Z
-updated: 2024-10-07T16:32:23.051Z
+date: 2024-10-10T14:24:37.928Z
+updated: 2024-10-12T17:13:34.731Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,16 +121,17 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-free-best-drawing-apps-for-chromebook/"><u>[New] 2024 Approved FREE Best Drawing Apps for Chromebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tune-focus-effective-minecraft-zooming-strategies/"><u>2024 Approved Fine-Tune Focus Effective Minecraft Zooming Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-smartphone-snaps-expert-strategies-for-idevice-cameras/"><u>Boost Your Smartphone Snaps: Expert Strategies for iDevice Cameras</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-guide-repair-launchdll-not-detected-errors-successfully/"><u>DIY Guide: Repair 'Launch.dll Not Detected' Errors Successfully</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-transformation-of-mov-videos-into-mp4-on-any-platform-pcmacweb/"><u>Effortless Transformation of MOV Videos Into MP4 on Any Platform (PC/Mac/Web)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/free-passport-photography-made-simple-our-top-10-picks-list-for-2024/"><u>Free Passport Photography Made Simple Our Top 10 Picks List for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/pro-graphic-designers-guide-install-and-optimize-brother-dcp-l2540dw-for-windows/"><u>Pro Graphic Designer's Guide: Install & Optimize Brother DCP-L2540DW for Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-creating-and-customizing-reminders-in-slack-app/"><u>Step-by-Step Process: Creating & Customizing Reminders in Slack App</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-13-complimentary-hddssd-diagnostic-software-of-july-2024/"><u>Top 13 Complimentary HDD/SSD Diagnostic Software of July 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-your-macbooks-identity-how-to-determine-its-model-number/"><u>Unveiling Your MacBook’s Identity - How To Determine Its Model Number</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-eyelaughs-funny-image-generator/"><u>[New] 2024 Approved EyeLaughs Funny Image Generator</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>2024 Approved Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-to-background-dimming-in-videos/"><u>2024 Approved Step-by-Step Guide to Background Dimming in Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/car-stereo-codes-unveiled-the-ultimate-method-for-retrieving-your-auto-entertainment-system-code/"><u>Car Stereo Codes Unveiled: The Ultimate Method for Retrieving Your Auto Entertainment System Code</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/easy-window-recorder-w10-edition/"><u>Easy Window Recorder - W10 Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-activate-and-customize-zooms-virtual-screen-mode-for-2024/"><u>How to Activate and Customize Zoom's Virtual Screen Mode for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-deleted-text-messages-on-any-phone/"><u>How to Recover Deleted Text Messages on Any Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-7-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 7 SIM Lock?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-visual-voicemail-solutions-enhanced-communication-at-your-fingertips/"><u>Top 5 Visual Voicemail Solutions : Enhanced Communication at Your Fingertips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-why-your-ipad-refuses-to-print/"><u>Troubleshooting: Why Your iPad Refuses to Print</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-vlog-like-a-pro-14-essential-video-editing-software-for-popular-platforms/"><u>Updated In 2024, Vlog Like a Pro 14 Essential Video Editing Software for Popular Platforms</u></a></li>
 </ul></div>
 

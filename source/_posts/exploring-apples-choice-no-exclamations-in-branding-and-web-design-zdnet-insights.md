@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Choice: No Exclamations in Branding & Web Design | ZDNet Insights"
-date: 2024-10-03T19:44:55.951Z
-updated: 2024-10-07T18:12:21.582Z
+date: 2024-10-10T06:23:00.186Z
+updated: 2024-10-13T04:04:46.816Z
 tags:
   - apple
 categories:
@@ -49,16 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -78,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -95,10 +89,16 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -139,19 +139,18 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturafx-firefox-add-ons/"><u>[New] CapturaFX FireFox Add-Ons</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-detailed-instructions-for-embedding-and-displaying-youtube-playlists-online-for-2024/"><u>[Updated] Detailed Instructions for Embedding and Displaying YouTube Playlists Online for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ignite-conversations-tactics-for-facebook-impact/"><u>[Updated] In 2024, Ignite Conversations Tactics for Facebook Impact</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-about-the-compact-ps5-slim-find-out-its-launch-dates-cost-estimates-and-technical-spec-sheet/"><u>All About the Compact PS5 Slim: Find Out Its Launch Dates, Cost Estimates & Technical Spec Sheet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategies-to-resolve-haldll-troubles-in-all-popular-versions-of-windows-os/"><u>Comprehensive Strategies to Resolve hal.dll Troubles in All Popular Versions of Windows OS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/die-top-empfehlungen-fur-kostenlose-mediaplayer-unter-windows-11-funf-der-beste/"><u>Die Top-Empfehlungen Für Kostenlose Mediaplayer Unter Windows 11: Fünf Der Beste</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-gmail-hotkeys-boost-your-productivity/"><u>Discover the Ultimate List of Gmail Hotkeys: Boost Your Productivity</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-tips-to-enhance-your-iphone-memo-making-skills/"><u>Expert Tips to Enhance Your iPhone Memo-Making Skills</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-investing-in-minecraft-realms-a-good-choice/"><u>Is Investing in Minecraft Realms a Good Choice?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-quick-key-tricks-for-efficiency/"><u>Mastering Windows: Quick Key Tricks for Efficiency</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-32-no-cost-backup-solutions-comprehensive-ratings-and-reviews/"><u>Top 32 No-Cost Backup Solutions: Comprehensive Ratings & Reviews</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-easily-use-korean-to-english-video-translators/"><u>Updated 2024 Approved How To Easily Use Korean to English Video Translators</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-is-sleep-mode-in-messenger-kids-how-to-use-it/"><u>What Is Sleep Mode in Messenger Kids? How to Use It</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722877898705-wi-fi-woes-heres-how-you-can-get-your-surface-pro-connected-again/"><u>Wi-Fi Woes? Here’s How You Can Get Your Surface Pro Connected Again!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-snort-spree-twitters-funniest-humor-chronicles/"><u>[Updated] In 2024, Snort Spree Twitter’s Funniest Humor Chronicles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ultimate-guide-to-finding-free-video-subtitles/"><u>[Updated] In 2024, Ultimate Guide to Finding Free Video Subtitles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leveraging-fb-media-speeds-up-strategies/"><u>2024 Approved Leveraging FB Media Speeds Up Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-conversations-is-claude-a-more-advanced-option-than-chatgpt-for-chatbots/"><u>AI Conversations: Is Claude a More Advanced Option than ChatGPT for Chatbots?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-fixes-overcoming-the-challenge-of-disconnected-steam-clients/"><u>Comprehensive Fixes: Overcoming the Challenge of Disconnected Steam Clients</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-rcs-texts-understanding-rich-communication-services/"><u>Decoding RCS Texts: Understanding Rich Communication Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-for-reconnecting-an-unresponsive-ipad-to-wi-fi-networks/"><u>Guide for Reconnecting an Unresponsive iPad to Wi-Fi Networks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-make-the-most-of-live-photo-upgrades-on-ios-16-devices/"><u>How to Make the Most of Live Photo Upgrades on iOS 16 Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-silent-spectator-of-social-media-snippets/"><u>In 2024, Silent Spectator of Social Media Snippets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/incorporating-scripts-into-word-docs-a-comprehensive-walkthrough/"><u>Incorporating Scripts Into Word Docs: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-google-events-breaking-down-buzz-and-upcoming-announcements/"><u>The Future of Google Events: Breaking Down Buzz and Upcoming Announcements</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-pcs-power-a-guide-to-activating-the-stealthy-find-bar/"><u>Unlocking Your PC's Power: A Guide to Activating the Stealthy Find Bar</u></a></li>
 </ul></div>
 

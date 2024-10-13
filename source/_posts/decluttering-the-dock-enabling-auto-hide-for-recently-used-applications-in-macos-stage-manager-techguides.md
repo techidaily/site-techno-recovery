@@ -1,7 +1,7 @@
 ---
 title: "Decluttering the Dock: Enabling Auto-Hide for Recently Used Applications in macOS Stage Manager | TechGuides"
-date: 2024-10-05T16:01:33.833Z
-updated: 2024-10-07T19:57:45.548Z
+date: 2024-10-11T11:08:56.583Z
+updated: 2024-10-13T08:24:33.817Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ Fortunately, there's an easy way around this problem. Once you've taken the foll
 **What you'll need:** The only thing you'll need is a MacOS device running MacOS Ventura or later. Make sure your OS is as up-to-date as possible. I'll demonstrate this on a MacBook Pro (M1), running MacOS Sonoma. As long as your version of MacOS supports Stage Manager, you should be good to go.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open System Settings
@@ -58,10 +58,16 @@ Fortunately, there's an easy way around this problem. Once you've taken the foll
 The first thing to do is open the System Settings app. You can do this by either clicking the Apple icon in the Menu Bar, from your Dock (if it's pinned there) or from the Launchpad. I usually just go the Apple icon route because that's what my brain is accustomed to.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Go to Desktop & Dock
@@ -73,10 +79,10 @@ You'll find the Stage Manager options in the Desktop & Dock section of System Se
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Show recent apps
@@ -121,22 +127,21 @@ And that's all there is to hiding the recent apps in Stage Manager. If you're li
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/irect-youtube-tunes-to-mp3s-online-and-offline-options/"><u>[New] Direct YouTube Tunes to MP3s Online & Offline Options</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-easy-to-use-drones-kids-edition/"><u>[New] Top 10 Easy-to-Use Drones - Kids Edition</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>2024 Approved Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-speed-and-stability-inside-look-at-the-tp-link-archer-c50-router/"><u>Budget-Friendly Speed & Stability: Inside Look at the TP-Link Archer C50 Router</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnosing-issues-how-to-get-your-apple-software-running-smoothly-again/"><u>Diagnosing Issues: How to Get Your Apple Software Running Smoothly Again</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/die-besten-itunes-ersatzprogramme-zur-effizienten-verwaltung-und-datentransfer-in-der-ios-umgebung-top-10-liste/"><u>Die Besten iTunes-Ersatzprogramme Zur Effizienten Verwaltung Und Datentransfer in Der iOS-Umgebung - Top 10 Liste</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-our-chosen-selection-the-finest-no-cost-malware-eradication-tools-of-2024/"><u>Explore Our Chosen Selection: The Finest No-Cost Malware Eradication Tools of 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722892994739-is-it-possible-to-know-if-someone-has-checked-your-sms-heres-how/"><u>Is It Possible to Know if Someone Has Checked Your SMS? Here's How</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-really-zoom-lagging-or-is-something-else-affecting-your-call-quality/"><u>Is It Really Zoom Lagging, or Is Something Else Affecting Your Call Quality?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-troubleshooting-process-for-ntloader-is-unavailable-and-similar-glitches/"><u>Master the Troubleshooting Process for 'NTLoader Is Unavailable' And Similar Glitches</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-low-volume-transitions-within-fl-studio-for-2024/"><u>Mastering Low-Volume Transitions Within FL Studio for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-progress-and-potential-of-5g-technology-at-verizon/"><u>The Progress and Potential of 5G Technology at Verizon</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-airpods-charge-issues-try-these-9-fixes/"><u>Troubleshooting AirPods Charge Issues? Try These 9 Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-with-sons-of-the-forest-step-by-step-solutions/"><u>Troubleshooting PC Issues with 'Sons of the Forest' - Step-by-Step Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncovering-hidden-digits-techniques-to-find-and-restore-erased-phone-numbers-on-android-phones/"><u>Uncovering Hidden Digits: Techniques to Find and Restore Erased Phone Numbers on Android Phones</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y100i-power-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100i Power 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-secure-is-subforsup-to-expand-your-youtube-community-safely-for-2024/"><u>[New] How Secure Is Subforsup to Expand Your YouTube Community Safely for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masters-crafting-unparalleled-vr-adventures/"><u>[New] Masters Crafting Unparalleled VR Adventures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-quality-fb-picture-and-film-maker-gratis-for-2024/"><u>[New] Top-Quality FB Picture & Film Maker (Gratis!) For 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effective-techniques-to-archive-vimeo-content/"><u>[Updated] In 2024, Effective Techniques to Archive Vimeo Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-tutorial-to-correct-the-pdhdll-error-on-your-computer/"><u>A Step-by-Step Tutorial to Correct the Pdh.dll Error on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886166846-all-you-need-to-know-about-the-upcoming-samsung-galaxy-z-flip-6-pricing-and-features-revealed/"><u>All You Need to Know About the Upcoming Samsung Galaxy Z Flip 6 – Pricing and Features Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-productivity-strategies-for-effective-message-grouping-using-labels-in-gmail/"><u>Boost Productivity: Strategies for Effective Message Grouping Using Labels in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridge-the-gap-effortless-casting-from-android-phones-to-amazons-firestick/"><u>Bridge the Gap: Effortless Casting From Android Phones to Amazon's Firestick</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-for-getting-back-deleted-text-conversations-from-all-smartphones/"><u>Expert Advice for Getting Back Deleted Text Conversations From All Smartphones</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-se-2022-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone SE (2022) iCloud Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-turning-off-and-restarting-iphone-15-propro-max-devices-for-optimal-performance/"><u>Guide to Turning Off & Restarting iPhone 15 Pro/Pro Max Devices for Optimal Performance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lowering-audio-amplitude-progressively-using-lumafusion/"><u>In 2024, Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-smart-8-hd-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Smart 8 HD Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/tactical-insights-for-cod-warzone-players-in-the-new-pacific-map/"><u>Tactical Insights for COD: Warzone Players in the New Pacific Map</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-next-era-of-web-browsing-microsoft-brings-powerful-ai-to-revolutionize-bings-search-capabilities/"><u>Unveiling the Next Era of Web Browsing: Microsoft Brings Powerful AI to Revolutionize Bing's Search Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722882549587-unveiling-the-power-of-the-new-apple-tv-4k-gen-3-reviewed-here/"><u>Unveiling the Power of the New Apple TV 4K (Gen 3) Reviewed Here!</u></a></li>
 </ul></div>
 

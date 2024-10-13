@@ -1,7 +1,7 @@
 ---
 title: The Ins and Outs of Changing Your IP Address – Pros, Cons, and Timely Strategies Explored by ZDNET
-date: 2024-09-19 12:49:51
-updated: 2024-09-20 11:25:51
+date: 2024-10-07T01:06:24.156Z
+updated: 2024-10-13T00:45:50.485Z
 tags:
   - vpn
 categories:
@@ -30,6 +30,13 @@ An IP address is a series of numbers (in the form 192.168.1.100) assigned to eve
 **Also: [Do you need antivirus on Linux?](https://www.zdnet.com/article/do-you-need-antivirus-on-linux/)**
 
 There are two types of IP addresses: IPv4 and IPv6\. IPv4 is the most widely used because of its simplicity. IPv6 addresses are longer and more complicated and look like this: 2345:0425:2CA1:0000:0000:0567:5673:23b5\. IP addresses can be dynamic (assigned to a device by a router) or static (manually assigned by a user or administrator). Static IP addresses remain constant, whereas dynamic addresses automatically change at certain intervals. Without IP addresses, the internet would fail to function.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Different IP addresses
 
@@ -60,6 +67,13 @@ A caution is in order: It's not always a good idea to change these internal IP a
 Your internal IP addresses are assigned by your router. Unless you configure your router manually to only assign from a specific pool of addresses (say 192.168.1.1-192.168.1.50) and then only configure manual addresses from 192.168.1.51 and up, you might run into IP address conflicts. To that end, it's best to only change internal IP addresses if you know what you're doing. 
 
 So, read on!
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to change your internal IP address manually
 
@@ -96,6 +110,13 @@ How you do this will depend on your desktop environment, so I'll walk you throug
 6. Fill out the necessary information (Address, Netmask, Gateway, DNS) and click Apply.
 7. Click Save.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Android
 
 1. Open Settings.
@@ -121,6 +142,13 @@ Remember, changing your internal IP address does nothing to your external addres
 ## How to change your external IP address
 
 As I mentioned, you won't be doing this manually or permanently. What you can do, however, is use a service to masquerade your true external IP address as something else. For this, you can obfuscate your external IP address in three different ways.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. VPN
 
@@ -159,11 +187,29 @@ And there you have it: The various ways you can change your internal and externa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-master-the-melodies-secrets-to-adding-soundtracks-on-insta-for-2024/"><u>[New] Master the Melodies Secrets to Adding Soundtracks on Insta for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-master-listings-for-melodic-mobile-alerts/"><u>[Updated] 2024 Approved Master Listings for Melodic Mobile Alerts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-social-media-metrics-the-igtv-hashtag-connection/"><u>[Updated] 2024 Approved Mastering Social Media Metrics The IGTV Hashtag Connection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-animatedapp-full-guide-24-edition/"><u>2024 Approved AnimatedApp Full Guide '24 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-effortless-online-guide-youtube-video-to-gif-magic-no-download/"><u>2024 Approved Effortless Online Guide YouTube Video to GIF Magic (No Download)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-enhancing-content-strategy-with-targeted-tagging/"><u>2024 Approved Enhancing Content Strategy with Targeted Tagging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-factors-in-choosing-your-perfect-projector/"><u>Essential Factors in Choosing Your Perfect Projector</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-turning-off-safety-and-amber-warnings-on-iphones-efficiently/"><u>Guide to Turning Off Safety and Amber Warnings on iPhones Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-fixing-obs-studio-stability-issues-in-windows-111e-whats-new/"><u>Master the Art of Fixing OBS Studio Stability Issues in Windows 11/1E - What's New ?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/may-19-new-york-times-crosswords-exposed-tips-and-answers-for-brain-teasing-challenges-343/"><u>May 19 New York Times Crosswords Exposed: Tips and Answers for Brain-Teasing Challenges #343</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/programming-made-easy-how-to-connect-various-devices-to-a-single-universal-control-unit/"><u>Programming Made Easy: How to Connect Various Devices to a Single Universal Control Unit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/proton-vpn-launches-wider-anti-censorship-initiative-across-additional-nations/"><u>Proton VPN Launches Wider Anti-Censorship Initiative Across Additional Nations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/solutions-to-amplify-iphoneandroid-video-quality-for-2024/"><u>Solutions to Amplify iPhone/Android Video Quality for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-advantages-of-choosing-cloud-storage-instead-of-traditional-local-backups/"><u>Top 7 Advantages of Choosing Cloud Storage Instead of Traditional Local Backups</u></a></li>
+</ul></div>
+

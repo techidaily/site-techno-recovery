@@ -1,7 +1,7 @@
 ---
 title: "Exploring the New Horizons in Tablets: Apple Event Highlights Including The Powerhouse M4 iPad Pro, Extended Battery Life with the 13-Inch iPad Air & Revolutionary Apple Pencil Pro – Detailed Insights From ZDNet!"
-date: 2024-10-05T19:35:40.863Z
-updated: 2024-10-07T19:29:59.790Z
+date: 2024-10-06T23:19:45.435Z
+updated: 2024-10-13T12:14:32.459Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -60,10 +53,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -83,10 +76,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -111,16 +104,16 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -133,6 +126,13 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -168,22 +168,16 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-arcadia-elite-seamless-full-hd-multi-touch-desktops/"><u>[New] Arcadia Elite Seamless, Full HD Multi-Touch Desktops</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-boost-viewers-interaction-via-youtube-cards/"><u>[New] In 2024, Boost Viewers Interaction via YouTube Cards</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-benefits-of-high-dynamic-range-in-professional-videography/"><u>[Updated] The Benefits of High Dynamic Range in Professional Videography</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-movements-intova-xs-video-excellence/"><u>2024 Approved Mastering Movements Intova X's Video Excellence</u></a></li>
-<li><a href="https://facebook.techidaily.com/block-unsolicited-general-member-postings/"><u>Block Unsolicited General Member Postings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-restoring-lost-or-deleted-messages-on-your-gmail-account/"><u>Complete Guide: Restoring Lost or Deleted Messages on Your Gmail Account</u></a></li>
-<li><a href="https://fox-http.techidaily.com/crafting-visual-dynamics-illustrator-motion-blur-tips-for-2024/"><u>Crafting Visual Dynamics Illustrator Motion Blur Tips for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-ways-to-correct-magic-mouse-movement-errors/"><u>Effortless Ways to Correct Magic Mouse Movement Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eliminating-msvbvm50dll-errors-a-detailed-guide-to-restoring-your-systems-stability/"><u>Eliminating MSVBVM50.DLL Errors: A Detailed Guide to Restoring Your System's Stability</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-whats-inside-a-nintendo-switch-box-set-for-gamers/"><u>Exploring What's Inside a Nintendo Switch Box Set for Gamers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/fading-curtain-opens/"><u>Fading Curtain Opens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-diagnose-and-repair-ntdlldll-glitches-on-windows-10-8-7-etc/"><u>How to Diagnose and Repair ntdll.dll Glitches on Windows 10, 8, 7, Etc.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/setting-up-two-step-verification-in-gmail-a-step-by-step-guide/"><u>Setting Up Two-Step Verification in Gmail: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solve-your-amazon-prime-caption-problems-easily-and-effectively/"><u>Solve Your Amazon Prime Caption Problems Easily and Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-history-of-netflixs-original-dvd-service/"><u>Unraveling the History of Netflix's Original DVD Service</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-10-unveiling-the-latest-rumors-on-release-dates-pricing-and-specifications/"><u>Upcoming Google Pixel 10: Unveiling the Latest Rumors on Release Dates, Pricing & Specifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-reserve-memory-an-overview/"><u>Windows Reserve Memory: An Overview</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/evealing-the-identity-of-viewers-on-youtube/"><u>[New] Revealing the Identity of Viewers on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>2024 Approved YouTube Subscriber Awards The Play Button Awards for Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722899105156-comctl32dll-missing-expert-tips-for-a-swift-recovery/"><u>Comctl32.dll Missing? Expert Tips for a Swift Recovery!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-steps-on-forcing-windows-booting-via-safe-mode/"><u>Effective Steps on Forcing Windows Booting via Safe Mode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/full-fix-protocol-troubleshooting-and-restoring-beyond-the-wire-microphone-functionality/"><u>Full Fix Protocol: Troubleshooting and Restoring 'Beyond The Wire' Microphone Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-and-resolve-d3dx9n41dll-errors-on-your-computer/"><u>How to Recover and Resolve 'd3dx9_n41.dll' Errors on Your Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-12-mini-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 12 mini online without jailbreak</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-mornings-the-best-erseus-in-greek-mythology/"><u>Mastering Mornings: The Best Erseus in Greek Mythology?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-file-damage-error-code-0x80070570-in-windows-11/"><u>Remedy for File Damage Error (Code 0X80070570) in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revitalize-your-mac-connection-a-step-by-step-guide-to-refresh-network-configurations/"><u>Revitalize Your Mac Connection: A Step-by-Step Guide to Refresh Network Configurations</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-find-x7-ultra-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Find X7 Ultra Screen | Dr.fone</u></a></li>
 </ul></div>
 

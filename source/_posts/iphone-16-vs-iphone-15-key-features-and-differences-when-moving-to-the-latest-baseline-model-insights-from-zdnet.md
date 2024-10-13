@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16 vs iPhone 15: Key Features and Differences When Moving to the Latest Baseline Model – Insights From ZDNet"
-date: 2024-10-02T18:57:45.349Z
-updated: 2024-10-07T18:08:34.103Z
+date: 2024-10-11T23:13:40.613Z
+updated: 2024-10-13T06:30:49.170Z
 tags:
   - apple
 categories:
@@ -30,24 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -63,6 +57,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -70,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -85,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -96,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,17 +134,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-beneath-the-wave-expert-strategies-for-filming-with-gopro-below-water-for-2024/"><u>[New] Beneath the Wave Expert Strategies for Filming with GoPro Below Water for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-hands-free-tips-saving-instagram-stories-as-videos/"><u>[New] In 2024, Hands-Free Tips Saving Instagram Stories as Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-digital-rights-unexpected-content-take-downs/"><u>[Updated] In 2024, Digital Rights Unexpected Content Take-Downs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-intro-editors-for-device-applications/"><u>[Updated] Leading Intro Editors for Device Applications</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/10-innovative-platforms-revolutionizing-online-education/"><u>10 Innovative Platforms Revolutionizing Online Education</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy S23 Tactical Edition?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/iphone2/"><u>IPhone動画リサイジングガイド：初学者に役立つ最新テクニック2種</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-guide-to-optimal-screen-casting-via-meet/"><u>Step-by-Step Guide to Optimal Screen Casting via Meet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-why-cant-adobe-digital-editions-read-acsm-downloads/"><u>Troubleshooting Guide: Why Can’t Adobe Digital Editions Read ACSM Downloads?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-top-ebook-converters-and-unlock-secure-digital-books-for-universal-access/"><u>Ultimate Guide: Top eBook Converters & Unlock Secure Digital Books for Universal Access</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-and-resolving-digital-rights-management-drm-errors-effectively/"><u>Understanding and Resolving Digital Rights Management (DRM) Errors Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-a-world-of-reading-discover-the-benefits-of-kindle-unlimited/"><u>Unlock a World of Reading: Discover the Benefits of Kindle Unlimited</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-best-10-customizable-filters-for-personalized-videos-for-2024/"><u>[Updated] Best 10 Customizable Filters for Personalized Videos for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-tecno-spark-10-4g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Tecno Spark 10 4G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-submerge-your-iphone-13-without-damage-water-resistance-explained/"><u>Can You Submerge Your iPhone 13 Without Damage – Water Resistance Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/create-your-own-musical-party-at-home-a-comprehensive-guide-to-hosting-karaoke-night/"><u>Create Your Own Musical Party at Home: A Comprehensive Guide to Hosting Karaoke Night</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-top-20-zero-copyright-pubg-screenshots/"><u>Cutting-Edge Top 20 Zero-Copyright PUBG Screenshots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-the-meaning-of-a-503-error-and-learn-quick-fix-steps/"><u>Decode the Meaning of a 503 Error & Learn Quick Fix Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-scriptwriting-techniques-for-higher-video-rankings/"><u>Engaging Scriptwriting Techniques for Higher Video Rankings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experiencing-connectivity-problems-with-roblox-heres-how-to-check-if-its-a-global-outage-or-local-issue/"><u>Experiencing Connectivity Problems with Roblox? Here's How to Check if It’s a Global Outage or Local Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-variations-comparing-ipads-with-conventional-tablets/"><u>Exploring Variations: Comparing iPads with Conventional Tablets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/hidden-viewers-guide-reading-instagram-stories-privately-from-pcandroidios/"><u>Hidden Viewers Guide Reading Instagram Stories Privately From PC/Android/iOS</u></a></li>
 </ul></div>
 

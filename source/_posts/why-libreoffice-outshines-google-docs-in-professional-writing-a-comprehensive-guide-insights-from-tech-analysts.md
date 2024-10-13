@@ -1,7 +1,7 @@
 ---
 title: "Why LibreOffice Outshines Google Docs in Professional Writing: A Comprehensive Guide - Insights From Tech Analysts"
-date: 2024-09-18 14:44:45
-updated: 2024-09-20 10:47:23
+date: 2024-10-06T16:44:48.994Z
+updated: 2024-10-13T13:46:04.009Z
 tags:
   - work-life
 categories:
@@ -63,6 +63,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. LibreOffice offers continuity
 
 I have LibreOffice installed (and set as the default) on my Linux desktop and my MacBook Pro. By doing this, I can ensure that switching from one machine to the next will keep the document formatting intact. This becomes very important when dealing with book manuscripts that you submit to your publisher, as they might require them to be formatted in a very particular way. 
@@ -72,6 +79,13 @@ I have LibreOffice installed (and set as the default) on my Linux desktop and my
 If I were to switch between LibreOffice, Pages, and Google Documents, the formatting could wind up a jumbled mess. That's not to say LibreOffice doesn't adhere to standards. You can open a LibreOffice document in MS Office and it will (mostly) look fine (although you might have to tweak some formatting). Even Google Docs allows you to download in the Open Document Format (ODT), which LibreOffice uses as its default. 
 
 With LibreOffice -- more than any other office suite -- I find the continuity between applications, computers, and documents to be spot on.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. LibreOffice is packed with tools
 
@@ -83,6 +97,13 @@ And that only scratches the surface. There are also database, presentation, form
 
 The thing about LibreOffice is that if I need to get something done in a document, you bet I can do it without turning to a third-party tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. LibreOffice is free (and not just in price)
 
 I'm not an open-source purist. I use proprietary applications, like Spotify, Slack, Opera, and others. But when given the choice, I will always go with an open-source application. Why? Because that means the source can be vetted by thousands of developers across the globe. On top of that, the development team listens to feature requests. I've submitted features to the developers that they are considering. That's important to someone who depends on a tool for their livelihood.
@@ -92,6 +113,13 @@ On top of LibreOffice being free, it's also free of charge. You can download and
 **Also: [5 best open-source email clients for Linux (and why Geary is my go-to)](https://www.zdnet.com/article/5-best-open-source-email-clients-for-linux-and-why-geary-is-my-go-to/)**
 
 I can already hear you saying, "But Google Docs is free." That it is. But with the locally-installed LibreOffice, you don't have to worry about a third-party gaining access to your work. Although Google claims they aren't currently training their AI LLMs with user content, there's no guarantee that the claim will continue to be the case.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. LibreOffice is big on security
 
@@ -128,11 +156,27 @@ Download and install LibreOffice from the [Document Foundation](https://www.libr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-screenshot-on-snapchat-without-them-knowing-5-ways/"><u>[New] How to Screenshot on Snapchat without Them Knowing 5 Ways</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-share-screen-on-facebook-live/"><u>2024 Approved How to Share Screen on Facebook Live?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/beginner-to-pro-selecting-the-best-cinema-cameras/"><u>Beginner to Pro Selecting the Best Cinema Cameras</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/discover-the-ultimate-list-of-free-compatible-mp3-players-for-big-sur-macos-users/"><u>Discover the Ultimate List of Free, Compatible Mp3 Players for Big Sur macOS Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-stop-receiving-emergency-and-amber-alerts-on-your-iphone-step-by-step-guide/"><u>How to Stop Receiving Emergency and Amber Alerts on Your iPhone: Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>In 2024, Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-g35-headset-on-windows-computers-os-7810-driver-downloads/"><u>Install Logitech G35 Headset on Windows Computers (OS 7/8/10 Driver Downloads)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-royal-match-a-step-by-step-guide/"><u>Mastering 'Royal Match': A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-meet-the-top-lego-stop-motion-talent/"><u>New 2024 Approved Meet the Top Lego Stop Motion Talent</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-buyers-checklist-evaluating-used-ipad-options-before-commitment/"><u>Smart Buyer’s Checklist: Evaluating Used iPad Options Before Commitment</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-powering-down-refreshing-or-rebooting-your-ps5-console/"><u>Ultimate Guide: Powering Down, Refreshing, or Rebooting Your PS5 Console</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-formula-for-successful-skype-interviews-with-these-9-pro-tips/"><u>Unlock the Formula for Successful Skype Interviews with These 9 Pro Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-xbox-virtual-reality-set-discover-latest-insights-on-costs-launch-timeline-and-tech-details/"><u>Upcoming Xbox Virtual Reality Set - Discover Latest Insights on Costs, Launch Timeline & Tech Details!</u></a></li>
+</ul></div>
+
