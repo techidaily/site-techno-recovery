@@ -1,7 +1,7 @@
 ---
 title: ZDNet Highlights Call for Innovative Minds to Outpace Lazy AI Scripting by Bank Chief Information Officer
-date: 2024-09-18 23:54:27
-updated: 2024-09-20 12:57:37
+date: 2024-10-15T12:53:48.767Z
+updated: 2024-10-19T04:49:15.959Z
 tags:
   - professional-development
 categories:
@@ -98,11 +98,40 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/upercharge-youtube-traffic-with-key-hash-tags/"><u>[New] Supercharge YouTube Traffic with Key Hash Tags</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-recording-virtual-sessions-ios-and-android-methods/"><u>[Updated] In 2024, Recording Virtual Sessions IOS & Android Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-learn-to-use-vlcs-screen-recorder-today-for-2024/"><u>[Updated] Learn to Use VLC's Screen Recorder Today for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-livestreaming-facebook-made-simple-for-all-tech-users-for-2024/"><u>[Updated] Livestreaming Facebook Made Simple for All Tech Users for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevating-video-appeal-for-profiles/"><u>2024 Approved Elevating Video Appeal for Profiles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-key-to-success-perfecting-your-online-yt-presence/"><u>2024 Approved The Key to Success Perfecting Your Online YT Presence</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-journey-in-sky-high-4k-clarity/"><u>2024 Approved The Ultimate Journey in Sky High 4K Clarity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-tutorial-for-navigating-and-utilizing-the-telnet-client-in-winows/"><u>Beginner's Tutorial for Navigating and Utilizing the Telnet Client in Winows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/citing-ai-tools-in-research-the-comprehensive-guide-to-referencing-chatgpt-outputs/"><u>Citing AI Tools in Research: The Comprehensive Guide to Referencing ChatGPT Outputs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/firestick-frustrations-a-step-by-step-guide-to-resolve-paramountplus-playback-issues/"><u>Firestick Frustrations: A Step-by-Step Guide to Resolve Paramount+ Playback Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-started-with-the-meta-quest-mic-essential-setup-and-usage-instructions/"><u>Getting Started with the Meta Quest Mic: Essential Setup and Usage Instructions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guida-esclusiva-per-la-trasformazione-da-hevc-a-mp4-con-mantenimento-della-qualita-originale/"><u>Guida Esclusiva per La Trasformazione Da HEVC a MP4 Con Mantenimento Della Qualità Originale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-pause-the-continuous-music-flow-on-apple-music/"><u>How to Pause the Continuous Music Flow on Apple Music</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy F04</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-productivity-unveiling-7-exceptional-notetaking-apps-tailored-for-apples-tablet-range/"><u>Mastering Productivity: Unveiling 7 Exceptional Notetaking Apps Tailored for Apple's Tablet Range</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-preparing-to-purchase-the-right-dash-cam/"><u>The Ultimate Checklist: Preparing to Purchase the Right Dash Cam</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-when-you-encounter-missing-d3dx934dll/"><u>Troubleshooting Steps When You Encounter Missing d3dx9_34.dll</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tying-emotions-to-the-right-soundtrack-in-movies/"><u>Tying Emotions to the Right Soundtrack in Movies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-the-8-greatest-mobile-video-games/"><u>Ultimate Selection: The 8 Greatest Mobile Video Games</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

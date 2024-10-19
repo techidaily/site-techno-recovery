@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Editor Explained - Tips & Tricks"
-date: 2024-10-05T20:50:44.372Z
-updated: 2024-10-12T20:18:38.947Z
+date: 2024-10-11T22:14:24.566Z
+updated: 2024-10-19T02:11:17.516Z
 tags:
   - apple
 categories:
@@ -36,16 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,21 +134,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-amp-up-your-tiktok-profile-with-distinctive-pfp-concepts/"><u>[New] 2024 Approved Amp up Your TikTok Profile with Distinctive PFP Concepts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-15-latest-tiktok-fads-stay-updated/"><u>[New] Top 15 Latest TikTok Fads Stay Updated</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-still-photos-to-dynamic-video-how-to-use-your-cellular-device/"><u>[Updated] 2024 Approved From Still Photos to Dynamic Video How To Use Your Cellular Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-your-brother-printer-to-wifi-a-comprehensive-guide-including-driver-download/"><u>Connecting Your Brother Printer to WiFi - A Comprehensive Guide Including Driver Download</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-when-your-lenovos-backlit-keyboard-stops-working/"><u>DIY Fixes for When Your Lenovo's Backlit Keyboard Stops Working</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/does-my-laptop-have-bluetooth-two-ways-to-check/"><u>Does My Laptop Have Bluetooth? [Two Ways to Check]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-diy-system-refresh-how-to-factory-reset-windows-7-without-needing-an-installation-cd/"><u>Easy DIY System Refresh: How to Factory Reset Windows 7 Without Needing an Installation CD</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-guide-to-trigger-safe-mode-on-your-windows-n-methods-and-images-included/"><u>Easy Guide to Trigger Safe Mode on Your Windows N - Methods & Images Included</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-successful-torrent-downloads-an-in-depth-guide-for-newbies/"><u>Easy Steps to Successful Torrent Downloads: An In-Depth Guide for Newbies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-to-save-password-in-chrome-quickly-and-easily/"><u>Easy to Save Password in Chrome - Quickly & Easily</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-a-comprerant-guide-to-enhanced-captioning-on-instagram-platforms/"><u>In 2024, A Compreran't Guide to Enhanced Captioning on Instagram Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-audio-pazera-free-extractor-insights/"><u>In 2024, Revolutionize Your Audio Pazera Free Extractor Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-honor-x9b-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor X9b Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-strategies-for-free-online-conversion-transforming-mxf-files-into-mp4/"><u>Top Strategies for Free, Online Conversion: Transforming MXF Files Into MP4</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/transitioning-from-iphoto-to-photos-is-it-time-to-upgrade/"><u>Transitioning From iPhoto to Photos: Is It Time to Upgrade?</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-back-online-how-to-mend-fall-guys-connection-glitches-on-pc/"><u>Winning Back Online: How to Mend Fall Guys Connection Glitches on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-obs-recording-tech-breakdown-comparing-leading-screen-recorders/"><u>[New] 2024 Approved OBS Recording Tech Breakdown Comparing Leading Screen Recorders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ranking-9-premier-video-call-and-meeting-apps-ios-vs-android-reviewed/"><u>[Updated] In 2024, Ranking 9 Premier Video Call & Meeting Apps iOS vs Android Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-clarity-a-look-at-screensnapelite-for-2024/"><u>Capturing Clarity A Look at 'ScreenSnapElite' For 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-restoring-your-microsoft-surface-pros-ability-to-connect-to-wireless-networks/"><u>DIY Fixes: Restoring Your Microsoft Surface Pro's Ability to Connect to Wireless Networks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortlessly-fix-the-youtube-to-mp3-issue-top-troubleshooting-guide/"><u>Effortlessly Fix the 'YouTube to MP3' Issue - Top Troubleshooting Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exhilarating-stories-from-the-field-and-court-top-sporting-motion-pictures-to-enjoy-now/"><u>Exhilarating Stories From the Field and Court: Top Sporting Motion Pictures to Enjoy Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-fixing-the-corrupted-bios-checksum-quickly/"><u>Expert Advice: Fixing the Corrupted BIOS Checksum Quickly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-snap-it-up-innovative-ig-images-that-inspire/"><u>In 2024, Snap It Up! Innovative IG Images That Inspire</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/microsoft-prepares-to-discontinue-paint-3d-what-it-means-for-users-and-creators/"><u>Microsoft Prepares to Discontinue Paint 3D – What It Means for Users and Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-display-despite-power-on-troubleshoot-steps-for-restoring-visibility-on-your-computer/"><u>No Display Despite Power On - Troubleshoot Steps for Restoring Visibility on Your Computer</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/secure-your-free-trial-on-top-of-the-line-audio-transcriber-factory-pro-software-online/"><u>Secure Your Free Trial on Top-of-the-Line Audio Transcriber - Factory Pro Software Online!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/snap-salvage-digital-camera-image-retrieval/"><u>Snap Salvage: Digital Camera Image Retrieval</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitter-vids-analysis-the-holistic-2023-guide/"><u>Twitter Vids Analysis The Holistic 2023 Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-blockbusters-and-classic-shows-for-free-discover-crackle-streaming-service/"><u>Watch Blockbusters & Classic Shows for Free - Discover 'Crackle' Streaming Service</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-must-watch-list-of-complimentary-movies-streaming-on-youtube-july-2024/"><u>Your Must-Watch List of Complimentary Movies Streaming on YouTube (July 2024)</u></a></li>
 </ul></div>
 

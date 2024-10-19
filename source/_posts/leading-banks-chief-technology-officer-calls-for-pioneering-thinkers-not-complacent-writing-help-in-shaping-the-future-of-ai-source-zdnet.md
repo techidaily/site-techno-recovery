@@ -1,7 +1,7 @@
 ---
 title: "Leading Bank's Chief Technology Officer Calls for Pioneering Thinkers, Not Complacent Writing Help, in Shaping the Future of AI | Source: ZDNet"
-date: 2024-09-19 11:41:11
-updated: 2024-09-20 10:48:42
+date: 2024-10-13T16:52:40.845Z
+updated: 2024-10-18T17:46:55.805Z
 tags:
   - professional-development
 categories:
@@ -98,11 +98,38 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-full-review-of-the-latest-powerdirector-app-24/"><u>[New] Full Review of the Latest PowerDirector App - '24</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-6-apps-for-creating-film-captions-in-various-languages/"><u>[New] Top 6 Apps for Creating Film Captions in Various Languages</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-se-2020-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone SE (2020) for Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-the-troublesome-error-0x80004005-with-ease/"><u>Bypassing the Troublesome Error 0X80004005 with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/computer-maintenance-mastery-how-to-reduce-or-eliminate-loud-fans/"><u>Computer Maintenance Mastery: How To Reduce or Eliminate Loud Fans</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-reviving-and-unlocking-your-stuck-macbook-air/"><u>Expert Tips on Reviving and Unlocking Your Stuck MacBook Air</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-claude-pro-stack-up-against-microsofts-enhanced-chatgpt-plus/"><u>How Does Claude Pro Stack Up Against Microsoft's Enhanced ChatGPT Plus?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-watching-dragon-ball-series-properly/"><u>Mastering the Art of Watching Dragon Ball Series Properly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-guide-reducing-the-size-of-your-quicktime-movies/"><u>Quick and Simple Guide: Reducing the Size of Your QuickTime Movies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/soundtrack-secrets-your-complete-audio-compilation-for-ig-videos/"><u>Soundtrack Secrets Your Complete Audio Compilation for IG Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-activating-and-utilizing-live-view-in-google-maps/"><u>Step-by-Step Tutorial: Activating and Utilizing Live View in Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-to-revive-your-unresponsive-macbook-air/"><u>The Complete Walkthrough to Revive Your Unresponsive MacBook Air</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-setting-up-and-operating-apples-facetime-app-in-windows-environment/"><u>The Ultimate Guide to Setting Up and Operating Apple's FaceTime App in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-user-support-4-new-windows-features/"><u>Transforming User Support: 4 New Windows Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/vizio-television-and-wi-fi-how-to-overcome-connection-problems/"><u>Vizio Television and Wi-Fi: How to Overcome Connection Problems</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

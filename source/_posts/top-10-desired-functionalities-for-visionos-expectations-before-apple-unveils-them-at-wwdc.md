@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Desired Functionalities for VisionOS: Expectations Before Apple Unveils Them at WWDC"
-date: 2024-10-07T23:33:49.644Z
-updated: 2024-10-12T20:35:28.720Z
+date: 2024-10-16T20:19:11.422Z
+updated: 2024-10-18T18:12:31.030Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -63,6 +56,13 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -70,19 +70,6 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -100,6 +87,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -107,6 +101,13 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -118,19 +119,6 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -141,10 +129,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What do you think?
@@ -191,24 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-hypergame-hub-your-portal-to-infinite-titles/"><u>[New] In 2024, HyperGame Hub Your Portal to Infinite Titles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-the-spectrum-advanced-hdr-tips-for-lightroom-pro/"><u>[Updated] Master the Spectrum Advanced HDR Tips for Lightroom Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-your-life-with-iphones-top-10-photo-rules/"><u>2024 Approved Frame Your Life with iPhone's Top 10 Photo Rules</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>2024 Approved The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/can-you-find-chinese-language-audiobooks-on-audible/"><u>Can You Find Chinese Language Audiobooks on Audible?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-greatest-inspirational-films-of-all-time/"><u>Discover The Greatest Inspirational Films Of All Time</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-smartphone-to-pc-how-to-enjoy-the-full-snapchat-features-on-desktop/"><u>From Smartphone to PC: How to Enjoy the Full Snapchat Features on Desktop</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-handle-mfc71dll-is-absent-or-not-detected-errors/"><u>How to Correctly Handle 'Mfc71.dll Is Absent or Not Detected' Errors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-overcome-unable-to-run-files-in-temp-directory-and-complete-initialization-successfully/"><u>How to Overcome 'Unable to Run Files in Temp Directory' And Complete Initialization Successfully</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-tackle-netflixs-nw-1-19-error-and-get-back-to-watching-seamlessly/"><u>How to Tackle Netflix's NW- 1-19 Error and Get Back to Watching Seamlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-a-non-downloading-torrent-file-tips-and-solutions/"><u>How to Troubleshoot a Non-Downloading Torrent File: Tips and Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011066284-missing-football-manager-2022-update-this-easy-tip-has-it-covered/"><u>Missing Football Manager 2022 Update? This Easy Tip Has It Covered</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/newest-july-2024-microsoft-windows-update-service-pack-and-patches-overview/"><u>Newest July 2024 Microsoft Windows Update: Service Pack & Patches Overview</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-methods-creating-efficient-sefx-packages-in-win11/"><u>Proven Methods: Creating Efficient SEFx Packages in Win11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-the-missing-mingwm10dll-file-warning/"><u>Solutions for Resolving the 'Missing Mingwm10.dll File' Warning</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-your-personal-unlock-code-on-windows-11/"><u>Step-by-Step Guide: Removing Your Personal Unlock Code on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-setup-and-sync-disneyplus-for-chromecast-viewing-comfortably-at-home/"><u>Step-by-Step Process: Setup and Sync Disney+ for Chromecast Viewing Comfortably at Home</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-resolve-the-windows-update-error-error-id-0x8007001f/"><u>Step-by-Step Solution: Resolve the Windows Update Error (Error ID: 0X8007001f)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722873027185-whats-new-in-july-2024-fresh-windows-update-roster-unveiled/"><u>What's New in July 2024: Fresh Windows Update Roster Unveiled</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-a-beginners-guide-to-using-siri-for-easy-tiktok-filming/"><u>[New] 2024 Approved A Beginner's Guide to Using Siri for Easy TikTok Filming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-stand-out-yt-thumbnail-size-and-engagement-strategies/"><u>[New] How to Stand Out YT Thumbnail Size and Engagement Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-concluding-your-channel-on-youtube-expert-guides-and-templates/"><u>[New] In 2024, Concluding Your Channel on YouTube - Expert Guides & Templates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-video-audio-extraction-made-simple-for-mp3-lovers-for-2024/"><u>[Updated] FB Video Audio Extraction Made Simple for MP3 Lovers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-mini-m4-vs-macbook-air-m3-understanding-key-distinctions/"><u>Comparing iPad Pro Mini (M4) Vs. MacBook Air (M3): Understanding Key Distinctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-disappearing-reactions-and-replies-to-your-youtube-posts/"><u>Dealing with Disappearing Reactions and Replies to Your YouTube Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-guide-picking-your-ideal-motherboard-based-on-key-features/"><u>Essential Guide: Picking Your Ideal Motherboard Based on Key Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-hulu-app-on-lg-smart-tv-for-instant-entertainment/"><u>Guide: Setting Up Hulu App on LG Smart TV for Instant Entertainment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-built-in-apps-on-an-iphone-device-a-guide/"><u>How to Uninstall Built-In Apps on an iPhone Device - A Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-premium-online-streams-convert-youtube-to-mp3-instantly/"><u>In 2024, Premium Online Streams Convert YouTube to MP3 Instantly!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-google-pixel-watch-3-speculated-release-dates-pricing-and-technical-specifications-revealed/"><u>Inside Scoop on the Google Pixel Watch 3: Speculated Release Dates, Pricing & Technical Specifications Revealed</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/kompetenter-technischer-assistenzservice-fur-winx-dvd-ripping-and-video-konvertierungssoftware-im-internet/"><u>Kompetenter Technischer Assistenzservice Für WinX DVD Ripping & Video Konvertierungssoftware Im Internet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/leveraging-snap-functions-boosting-virtual-interaction-during-meets-for-2024/"><u>Leveraging Snap Functions Boosting Virtual Interaction During Meets for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-notification-history-learn-how-to-find-and-review-previous-warnings-on-your-ios-device/"><u>Navigating Notification History: Learn How to Find and Review Previous Warnings on Your iOS Device</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-note-30-vip-racing-edition-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Note 30 VIP Racing Edition unlock screen</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-itel-s23plus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Itel S23+ Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-apps-for-seamless-dlna-media-sharing/"><u>The Ultimate Guide to the Top 5 iPhone Apps for Seamless DLNA Media Sharing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-resolving-504-gateway-timeout-issues/"><u>Troubleshooting Guide: Resolving 504 Gateway Timeout Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-siri-for-text-reading-features-on-your-iphone-and-macbook/"><u>Unlock the Power of Siri for Text-Reading Features on Your iPhone and MacBook</u></a></li>
 </ul></div>
 

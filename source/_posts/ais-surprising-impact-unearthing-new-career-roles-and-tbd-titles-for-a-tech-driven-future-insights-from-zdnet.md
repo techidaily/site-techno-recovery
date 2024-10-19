@@ -1,7 +1,7 @@
 ---
 title: "AI's Surprising Impact: Unearthing New Career Roles and TBD Titles for a Tech-Driven Future | Insights From ZDNet"
-date: 2024-09-17 10:59:54
-updated: 2024-09-20 11:47:40
+date: 2024-10-12T09:58:16.550Z
+updated: 2024-10-18T17:05:42.939Z
 tags:
   - professional-development
 categories:
@@ -90,11 +90,42 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-sealed-snap-chronicles-an-experts-guidebook/"><u>[Updated] The Sealed Snap Chronicles An Expert's Guidebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accelerating-bings-intelligence-the-latest-upgrades-with-new-interactive-features/"><u>Accelerating Bing's Intelligence: The Latest Upgrades with New Interactive Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/attempted-assault-on-smartphones-why-corporate-sabotage-is-impossible/"><u>Attempted Assault on Smartphones: Why Corporate Sabotage Is Impossible</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/building-your-personalized-gpt-3-powered-conversation-agent-using-microsofts-advanced-bot-framework/"><u>Building Your Personalized GPT-3 Powered Conversation Agent Using Microsoft's Advanced Bot Framework</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-claude-and-chatgpt-identifying-the-most-effective-ai-for-routine-activities/"><u>Choosing Between Claude and ChatGPT: Identifying the Most Effective AI for Routine Activities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-content-with-custom-fonts-in-adobe-ae/"><u>Crafting Content with Custom Fonts in Adobe AE</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-oculus-link-essential-tips-for-seamless-connectivity-and-experience/"><u>Demystifying Oculus Link: Essential Tips for Seamless Connectivity and Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-vision-tech-smart-frames-without-arsocial-features-a-basic-camera-suffices/"><u>Effortless Vision Tech: Smart Frames Without AR/Social Features - A Basic Camera Suffices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-apple-iphone-8-by-drfone-ios/"><u>How Do I SIM Unlock My Apple iPhone 8?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-eliminate-lag-in-discord-expert-tips-and-tricks/"><u>How to Eliminate Lag in Discord: Expert Tips and Tricks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-downloading-fandango-app-onto-your-firestick/"><u>Step-by-Step Guide: Downloading Fandango App Onto Your Firestick</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-crafting-video-trailers-to-elevate-sales-for-2024/"><u>The Art of Crafting Video Trailers to Elevate Sales for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshoot-cant-be-opened-dev-cant-be-verified-solutions-for-mac-users/"><u>Troubleshoot 'Can’t Be Opened - Dev Can't Be Verified': Solutions for Mac Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-edit-videos-for-free-top-online-tools-and-software-for-2024/"><u>Updated Edit Videos for Free Top Online Tools and Software for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

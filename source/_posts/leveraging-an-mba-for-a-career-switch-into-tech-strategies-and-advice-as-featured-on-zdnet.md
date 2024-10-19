@@ -1,7 +1,7 @@
 ---
 title: "Leveraging an MBA for a Career Switch Into Tech: Strategies and Advice as Featured on ZDNet"
-date: 2024-09-17 13:35:46
-updated: 2024-09-20 10:25:21
+date: 2024-10-15T19:55:45.828Z
+updated: 2024-10-19T13:45:23.432Z
 tags:
   - professional-development
 categories:
@@ -23,6 +23,19 @@ While certain [MBA concentrations](https://www.zdnet.com/education/business-mana
 
 Graduates also develop and hone applicable people skills, such as communication, problem-solving, and critical thinking skills. The [GMAC survey](https://www.gmac.com/-/media/files/gmac/research/employment-outlook/gmac%5Fcorporate%5Frecruiters%5Fsurvey%5Fsept%5F2020.pdf) found that employers value MBA graduates' communication skills, versatile skillsets, and strategic thinking most highly. 
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Technical roles available to MBA graduates in tech
 
 While not exhaustive, the following two sections should give you an idea of [what you can do with an MBA](https://www.zdnet.com/article/what-can-you-do-with-mba/). 
@@ -41,6 +54,13 @@ These careers may require tech, math, and programming know-how. Your specific ed
 * Problem-solvers with technical expertise
 
 [Computer and information systems managers](https://www.zdnet.com/education/computers-tech/computer-information-systems-managers/) oversee technology and computer-related activities within an organization. They look for new technology, upgrades, and cost-saving opportunities. These managers help the organization meet its goals using computers and information systems.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Market research analyst
 
@@ -82,6 +102,13 @@ MBA graduates can also enter the tech world through more traditional business pa
 
 Human resources managers handle administrative tasks and connect an organization's management with employees. They may manage labor relations, health and safety protocols, and staffing. These managers may also apply mediation and conflict resolution techniques from their [human resources MBA](https://www.zdnet.com/article/online-mba-human-resources).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Project manager
 
 **Minimum degree required:** Bachelor's   
@@ -106,6 +133,13 @@ Project managers handle large teams and assignments, including design, developme
 
 Accountants manage an organization's financial records, ensuring accuracy and adherence to laws and regulations. They handle taxes, produce reports based on their financial analysis, and assist with budgeting. Accountants may look for financial irregularities, inefficiencies, and opportunities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips for how to get into tech after an MBA
 
 Your preparation for the tech field should begin before you complete your degree. The following tips can help position you to make the most of your training and appeal to tech employers.
@@ -128,6 +162,19 @@ Highlight what makes you, your training, and your experience special. Focus on y
 
 Though not all roles require a portfolio as part of the application, they're more common among tech roles. MBA students with coding experience should learn [how to build a coding portfolio](https://www.zdnet.com/education/how-to-build-a-coding-portfolio/). Use practical examples that highlight your skills' versatility. You can build your own portfolio webpage or use an existing online portfolio platform.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Show your expertise, self-awareness, and passion throughout the interview process.
 
 Tech interviews can look quite different from traditional business interviews. Employers must assess specific tech skills needed for the role. 
@@ -143,6 +190,19 @@ For more information, check out these [phone interview tips](https://www.zdnet.c
 An MBA provides opportunities to enter the tech field for students and business professionals hoping to [switch careers to tech](https://www.zdnet.com/education/topic/how-to-switch-careers-to-tech/). Your MBA can equip you with transferable skills to pursue tech-specific and interdisciplinary careers, using both your business and technical expertise. 
 
 If these jobs aren't quite right for you, continue exploring [top-paying MBA jobs](https://www.zdnet.com/article/top-paying-mba-jobs/).
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **This article was reviewed by Sarah Holliday, MS** 
 
@@ -181,11 +241,27 @@ _Last reviewed March 12, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>[Updated] Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-photoshop-hdr-mastery-from-basics-to-advanced-strategies/"><u>2024 Approved Photoshop HDR Mastery From Basics to Advanced Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-what-gamers-must-know-about-bandicam/"><u>2024 Approved What Gamers Must Know About Bandicam</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-apple-watch-touch-sensitivity-issues-insights-into-non-responsive-displays/"><u>Addressing Apple Watch Touch Sensitivity Issues: Insights Into Non-Responsive Displays</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-chromebook-flip-c302ca-a-superior-choice-for-budget-conscious-consumers-seeking-versatility-and-quality/"><u>ASUS Chromebook Flip C302CA: A Superior Choice for Budget-Conscious Consumers Seeking Versatility & Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exquisite-savings-exceptional-high-end-gadgets-worth-a-spin/"><u>Exquisite Savings: Exceptional High-End Gadgets Worth a Spin</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-x50-by-drfone-android/"><u>Full Guide to Unlock Your Honor X50</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-s17-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo S17 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restart-a-malfunctioned-device-mastering-the-art-of-correcting-code-error-10-issues/"><u>How to Restart a Malfunctioned Device? Mastering the Art of Correcting Code Error 10 Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-speech-recognition-failure-to-initialize/"><u>Stop Windows Speech Recognition Failure to Initialize</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-silence-how-to-restore-audio-functionality-on-your-laptop/"><u>Troubleshooting Complete Silence: How to Restore Audio Functionality on Your Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-why-your-ipad-refuses-to-connect-with-the-printer/"><u>Troubleshooting Guide: Why Your iPad Refuses to Connect with the Printer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/avi-flv-movavi/"><u>무료 AVI 및 FLV 형식 전환 - 웹사이트에서 Movavi 라이브ライ드</u></a></li>
+</ul></div>
+

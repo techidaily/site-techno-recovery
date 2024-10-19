@@ -1,7 +1,7 @@
 ---
 title: "Mastering Emotional Awareness in the Workplace: The Ultimate ZDNet Strategy"
-date: 2024-09-18 15:57:31
-updated: 2024-09-20 10:51:41
+date: 2024-10-18T09:13:18.615Z
+updated: 2024-10-19T06:25:40.579Z
 tags:
   - professional-development
 categories:
@@ -65,6 +65,13 @@ Conversely, low emotional intelligence skills can unnecessarily complicate your 
 * Difficulty getting those working under you to complete important tasks
 * Missed opportunities for advancement or high-profile projects
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to practice emotional intelligence during your workday
 
 The important thing about emotional intelligence skills is that they represent a constant process rather than attaining perfection. It is through practice in real life rather than detached understanding that you can refine your emotional intelligence skills.
@@ -97,6 +104,13 @@ In a way, self-awareness is the ultimate tool for living in the present because 
 * **"Embrace being human**. Being human innately comes with being imperfect. Trying to be perfect at everything is a form of denying your reality as a human. Self-awareness comes with understanding the inevitabilities of being human, and one of them is messing up. Use times that you fall short as an opportunity to activate your growth mindset (using your flaws as a way to grow and develop vs. remaining stuck and giving up) so you can continually strive to be the best version of yourself while acknowledging your humanness.
 * **"Check in with your energy levels at the start of every day before making your to-do list.** We are a society that loves our 'to-do' lists. While I know that writing prioritizes can be helpful, we often don't incorporate the ebbs and flows in energy levels when doing this practice. Some days, you may need to take it slow (e.g. if you are in a bad mood, feeling anxious, or had a bad night of sleep) and your priority list should reflect this. Self-awareness of your energy levels leads to you setting realistic expectations about what you can accomplish that day, instead of setting yourself up for disappointment."
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Self-regulation
 
 Self-regulation is the ability to regulate your emotional responses to things. This emotional intelligence skill is important because it allows us to:
@@ -114,6 +128,19 @@ To understand self-regulation's importance, think about how much we take it for 
 "Practice observing your thoughts as thoughts, rather than your thoughts as facts. Often, our thoughts aren't factual to what's actually happening in the moment. Check the facts of your thought to confirm they're accurate. Many times, one may find themselves reacting to a situation that's prompted by a thought that isn't a fact. 
 
 "If you are reacting to a situation in a disproportionate way, there is most likely more to the situation that is triggering you to react. Take a step back and observe what's going on inside yourself and outside yourself that's prompting the strong emotional reaction."
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Intrinsic motivation
 
@@ -144,6 +171,13 @@ Practicing empathy can make it easier to:
 * **"Check in on how your co-workers are doing.** Especially over the past two years, people have experienced more stress, anxiety, and depression than ever before. Mental health has been hard to manage for many, but in the workplace, people are often expected to "function as normal." This can lead to feeling burnt out and depleted, especially when keeping this all to yourself. Ask your co-workers or managers how they are doing. If you notice that they are overwhelmed, normalize their experience and if you have the capacity, ask them if you can help them with some tasks.
 * **"Normalize talking about feelings.** Everyone has emotions, but due to stigma (especially in the workplace), people hide their emotions. Many people think that sharing something like "I'm feeling overwhelmed with my workload right now" or "Tomorrow's presentation is giving me anxiety" is unprofessional. People can't "turn off" being human for the 40+ hours they work weekly, so instead of pretending to not have natural human emotions, start normalizing your emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Social skills
 
 Social skills refer to our ability to follow social conventions and use tools such as levity, politeness, and friendliness when interacting with others. Good social skills allow us to remember what is off-limits or irrelevant in our interactions and what would instead help us get along with others effectively.
@@ -159,6 +193,13 @@ Good social skills can encompass some of the following positive acts you can pra
 * "Self-disclose mindfully, and keep it balanced to what the other person is sharing.
 * "Avoid interrupting.
 * "Read, study new ideas, and be engaged in life with new information you can share when you speak to someone."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## In conclusion
 
@@ -199,11 +240,26 @@ Divya Robin, MHC-LP, is a psychotherapist, media contributor, mental health advo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-navigate-to-new-horizinas-top-win11-gaming-delights/"><u>[Updated] 2024 Approved Navigate to New Horizinas Top Win11 Gaming Delights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>[Updated] The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-20-complimentary-luts-available-for-dji-miniair-2-users/"><u>2024 Approved 20 Complimentary LUTs Available for DJI Mini/Air 2 Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-for-novices-a-primer-on-av1-technology/"><u>2024 Approved For Novices A Primer on AV1 Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-breakdown-of-items-that-accompany-your-nintendo-switch-box-set/"><u>A Breakdown of Items That Accompany Your Nintendo Switch Box Set</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-wi-fi-connection-woes-heres-how-to-solve-authentication-errors/"><u>Android Wi-Fi Connection Woes? Here's How to Solve Authentication Errors</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-5-dvd-ripping-tools-convert-your-discs-into-digital-files-with-ease/"><u>Best 5 DVD Ripping Tools: Convert Your Discs Into Digital Files with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bid-farewell-to-cortanacopilot-tips-for-a-clean-windows-cuh11-setup-without-ai-assistance/"><u>Bid Farewell to Cortana/Copilot: Tips for a Clean Windows Cuh11 Setup Without AI Assistance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-teamwork-skills-by-integrating-microsoft-teams-innovative-copilot-tool/"><u>Enhance Your Teamwork Skills by Integrating Microsoft Teams' Innovative Copilot Tool</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/social-synergy-blueprint-for-ig-and-tiktok-pairing/"><u>Social Synergy Blueprint for IG & TikTok Pairing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/where-the-fun-never-stops-top-free-preschool-game-destinations-for-kids/"><u>Where the Fun Never Stops: Top Free Preschool Game Destinations for Kids</u></a></li>
+</ul></div>
+

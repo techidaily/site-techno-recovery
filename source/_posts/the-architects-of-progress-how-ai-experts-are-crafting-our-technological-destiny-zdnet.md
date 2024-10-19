@@ -1,7 +1,7 @@
 ---
 title: "The Architects of Progress: How AI Experts Are Crafting Our Technological Destiny | ZDNET"
-date: 2024-09-18 10:28:52
-updated: 2024-09-20 10:12:34
+date: 2024-10-12T11:02:15.587Z
+updated: 2024-10-19T11:13:15.361Z
 tags:
   - professional-development
 categories:
@@ -82,11 +82,34 @@ The roles of engineers aren't going away anytime soon, "but they will most likel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/lord-of-the-rings-movie-marathon-the-correct-viewing-order-explained/"><u>'Lord of the Rings' Movie Marathon: The Correct Viewing Order Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-choosing-your-soundtrack-the-podcast-vs-youtube-showdown-for-2024/"><u>[New] Choosing Your Soundtrack The Podcast Vs. YouTube Showdown for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-closing-in-on-the-essence-of-cinematic-action/"><u>[New] Closing in on the Essence of Cinematic Action</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726029824676-8/"><u>「高解像度動画から静止画切り取りフリーソフトランキングトップ8をご紹介します」</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-broadcast-battles-obs-clashes-with-shadowgl/"><u>2024 Approved Broadcast Battles OBS Clashes with ShadowGL</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pay-integration-a-comprehensive-guide-to-making-contactless-payments-with-an-apple-watch/"><u>Apple Pay Integration: A Comprehensive Guide to Making Contactless Payments with an Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-correcting-missing-ksuserdll-file-issues/"><u>Comprehensive Guide to Correcting Missing ksuser.dll File Issues</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-tips-for-effortless-screen-recording-on-android/"><u>Expert Tips for Effortless Screen Recording on Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-device-not-found/"><u>Graphics Failure: Device Not Found</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-create-a-meta-oculus-quest-or-quest-2-account/"><u>How to Create a Meta (Oculus) Quest or Quest 2 Account</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-psvr-with-a-personal-computer/"><u>Step-by-Step Guide: Setting Up Your PSVR with a Personal Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-time-capsules-online-how-to-explore-historical-web-content-with-wayback-machine/"><u>Unlocking Time Capsules Online: How to Explore Historical Web Content with Wayback Machine</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-simplify-avi-editing-a-step-by-step-guide-to-trimming-and-splitting-for-2024/"><u>Updated Simplify AVI Editing A Step-by-Step Guide to Trimming and Splitting for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Securing a Tech Gig as an Intern: Expert Advice and Tips by ZDNet"
-date: 2024-09-17 23:49:43
-updated: 2024-09-20 10:54:51
+date: 2024-10-16T19:38:07.691Z
+updated: 2024-10-18T18:55:19.591Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Tech companies hire for internships year-round. Companies like Google, Meta, Air
 
 How much internships pay depends on the company. Some companies pay hourly or a set amount for the entire term. Unpaid internships are less common now but still exist. Review intern pay policies before applying at companies that interest you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tech internship benefits
 
 * Practical experience to add to your resume
@@ -54,6 +61,13 @@ Networking is an easy way to get a referral, so try to start networking as early
 
 Alumni from your school who work at your desired company are a good place to start — you already have something in common. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Decide what kind of internship you want
 
 Tech is an enormous field with hundreds of potential job titles. Start paying attention to the industry. Follow tech news sources — such as this very website — to learn more about it. 
@@ -78,6 +92,19 @@ Read Crunchbase, company blogs, and Glassdoor to make sure the company you're in
 
 If you want to turn an internship into a job, focus on employers known for hiring interns. Don't be afraid to ask about post-internship roles. You're saving yourself and the company time by being upfront with your intentions. 
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Explore multiple avenues to find internships
 
 No matter what school you attend, it likely offers career services. Most schools offer resume reviews, mock interviews, or advice on choosing the right internship. 
@@ -95,6 +122,13 @@ Networking is a valuable skill you can use throughout your entire career.
 Seek alumni and others who live in your area and work in your intended field, and ask them to coffee via LinkedIn. You might be surprised how many people happily accept your offer. Remember that most people are happy to help since they were once in your position.
 
 Even if a connection you make doesn't get you an internship offer, keeping in touch with networking connections might help you get a job later. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Strategically prepare for recruitment
 
@@ -138,11 +172,31 @@ Ask past interns about their experience or look on Glassdoor to ensure the [comp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-straightforward-guide-switch-video-direction-in-vlc/"><u>[New] Straightforward Guide Switch Video Direction in VLC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-dissecting-splitcam-a-video-recorder-standout-analysis/"><u>2024 Approved Dissecting SplitCam A Video Recorder Standout Analysis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-spark-interest-with-style-mixing-tiktoks-genius-techniques-for-insta/"><u>2024 Approved Spark Interest with Style Mixing TikTok's Genius Techniques for Insta</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726224456762-movavimp3/"><u>音楽データのビットレート調整: Movaviを使ったMP3形式への変換ガイド</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>In 2024, Gentle Glide of Noises Subdued Amplitude Adjustment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/interact-using-your-voice-experience-upgraded-communication-with-bing-chat-online/"><u>Interact Using Your Voice: Experience Upgraded Communication with Bing Chat Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/introducing-new-smarter-rewrite-features-in-microsoft-words-office-copilot/"><u>Introducing New Smarter Rewrite Features in Microsoft Word's Office Copilot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-midjourney-techniques-for-building-reliable-and-compelling-literary-figures/"><u>Mastering MidJourney Techniques for Building Reliable and Compelling Literary Figures</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/navigating-the-obstacles-in-customer-onboarding-key-drivers-and-critical-issues-revealed-through-survey-data/"><u>Navigating the Obstacles in Customer Onboarding: Key Drivers and Critical Issues Revealed Through Survey Data</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-tariffs-lead-to-a-surge-in-pricing-for-the-futuristic-tesla-cybertruck/"><u>New Tariffs Lead to a Surge in Pricing for the Futuristic Tesla Cybertruck</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reflecting-on-the-journey-of-non-fungible-tokens-nfts-the-current-state/"><u>Reflecting on the Journey of Non-Fungible Tokens (NFTs): The Current State</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-absence-of-spare-wheels-in-electric-vehicles-unraveling-the-mystery/"><u>The Absence of Spare Wheels in Electric Vehicles: Unraveling the Mystery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-financial-breakdown-of-getting-your-teslas-battery-swapped-out/"><u>The Financial Breakdown of Getting Your Tesla's Battery Swapped Out</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-process-explained-how-are-ev-batteries-interchanged/"><u>The Process Explained: How Are EV Batteries Interchanged?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-picking-a-tablet-amazon-fire-or-ipad/"><u>The Ultimate Guide to Picking a Tablet - Amazon Fire or iPad?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-creative-photos-using-pexels-effectively-for-2024/"><u>Unlocking Creative Photos Using Pexels Effectively for 2024</u></a></li>
+</ul></div>
+

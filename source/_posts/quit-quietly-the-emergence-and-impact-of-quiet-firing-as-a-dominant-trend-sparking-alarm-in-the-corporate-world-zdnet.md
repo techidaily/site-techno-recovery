@@ -1,7 +1,7 @@
 ---
 title: Quit Quietly? The Emergence and Impact of 'Quiet Firing' As a Dominant Trend Sparking Alarm in the Corporate World | ZDNET
-date: 2024-09-18 14:35:57
-updated: 2024-09-20 12:41:24
+date: 2024-10-13T06:51:44.157Z
+updated: 2024-10-18T18:29:14.676Z
 tags:
   - professional-development
 categories:
@@ -76,11 +76,40 @@ The consequences of quiet quitting and quiet firing impact both employees and em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-sharex-insight-reviews-and-competing-choices/"><u>[Updated] 2024 Approved The ShareX Insight Reviews & Competing Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-nine-key-points-before-investing-in-a-new-4k-lens/"><u>[Updated] Nine Key Points Before Investing in a New 4K Lens</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-permanently-quit-youtube-shorts-now/"><u>[Updated] Permanently Quit YouTube Shorts Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-new-web-browser-app-for-your-samsung-television-a-comprehensive-tutorial/"><u>Download New Web Browser App for Your Samsung Television – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-deals-on-verizon-device-upgrades-dont-miss-out/"><u>Exclusive Deals on Verizon Device Upgrades – Don’t Miss Out!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-bass-management-unveiling-its-purpose-and-operation/"><u>Exploring the World of Bass Management - Unveiling Its Purpose and Operation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-set-up-not-functioning-properly/"><u>Graphic Set Up: Not Functioning Properly</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-exclude-a-folder-from-onedrive-sync-without-deleting-files/"><u>How to Exclude a Folder From OneDrive Sync Without Deleting Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-protect-your-inbox-by-adding-senders-to-the-safe-list-on-gmail/"><u>How to Protect Your Inbox by Adding Senders to the Safe List on Gmail</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-10-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 10 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-outlook-unveiling-vrs-downfalls-for-2024/"><u>Inside Outlook Unveiling VR's Downfalls for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/luminous-likes-three-proven-ways-for-insta-highlights/"><u>Luminous Likes Three Proven Ways for Insta Highlights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-anywhere-discover-our-picks-for-the-8-ultimate-planning-tools-for-wanderlust-seekers/"><u>Navigate Anywhere: Discover Our Picks for the 8 Ultimate Planning Tools for Wanderlust Seekers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-the-world-of-vsco-editing-features/"><u>Navigating the World of VSCO Editing Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revamping-your-music-preferences-on-spotify-unliking-songs-easily/"><u>Revamping Your Music Preferences on Spotify - Unliking Songs Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722847193349-step-by-step-home-sound-solutions-a-newbies-comprehensive-handbook/"><u>Step-by-Step Home Sound Solutions: A Newbie’s Comprehensive Handbook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-downloading-the-apple-tv-streamer-on-firestick/"><u>Step-by-Step Tutorial: Downloading the Apple TV Streamer on Firestick</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/utilizing-microsofts-codex-copilot-feature-within-your-teams-workflow/"><u>Utilizing Microsoft's Codex Copilot Feature Within Your Teams Workflow</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

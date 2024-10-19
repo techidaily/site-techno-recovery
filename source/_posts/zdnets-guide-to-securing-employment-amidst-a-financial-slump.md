@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Guide to Securing Employment Amidst a Financial Slump
-date: 2024-09-19 19:47:30
-updated: 2024-09-20 10:55:49
+date: 2024-10-13T02:53:09.134Z
+updated: 2024-10-18T16:49:14.903Z
 tags:
   - professional-development
 categories:
@@ -29,7 +29,27 @@ Write down what you want in a job and prioritize your list. Refer back to the li
 
 Next, set achievable goals. Instead of telling yourself to find a job by a certain date, set goals for networking, like attending a certain number of events each month or reaching out to a certain number of contacts each week. You can also set goals for the number of job applications you want to submit each week. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your resume and LinkedIn.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -75,7 +95,21 @@ And even within industries, look for [recession-proof jobs](https://www.zdnet.co
 
 In addition, you can add transferable skills that give you greater flexibility on the job market. Make sure to highlight those skills on your resume.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Consider freelancing as an option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -123,11 +157,33 @@ Focus on what you can control. Stand up to [imposter syndrome](https://www.zdnet
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-how-to-find-your-own-tiktok-stream-key/"><u>[New] 2024 Approved How to Find Your Own TikTok Stream Key</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-simple-ways-to-record-and-save-your-macos-screen/"><u>[New] In 2024, Simple Ways to Record and Save Your macOS Screen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube/"><u>[Updated] From Vision to Execution The Full Spectrum of Personal Branding on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-echo-mapping-digital-audio-preservation/"><u>[Updated] In 2024, Echo Mapping Digital Audio Preservation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-enhancing-video-quality-callout-techniques-for-engaging-edits/"><u>[Updated] In 2024, Enhancing Video Quality Callout Techniques for Engaging Edits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-join-the-social-gaming-movement-xbox-and-fb-livestreams-for-2024/"><u>[Updated] Join the Social Gaming Movement Xbox & FB Livestreams for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-switching-onoff-comment-functionality-on-youtube-for-2024/"><u>[Updated] Switching On/Off Comment Functionality on YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-missing-component-dll-errors-how-to-get-your-applications-running-smoothly-again/"><u>Addressing Missing Component (DLL) Errors: How to Get Your Applications Running Smoothly Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-bing-your-comprehensive-introduction-to-the-microsoft-search-tool/"><u>Demystifying Bing – Your Comprehensive Introduction to the Microsoft Search Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-16-amazing-free-online-platforms-for-sign-language-study/"><u>Discover These 16 Amazing Free Online Platforms for Sign Language Study</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-your-windows-11-wi-fi-network-key-a-step-by-step-guide/"><u>Discovering Your Windows 11 Wi-Fi Network Key: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-picture-quality-by-removing-line-defects-from-tv-screens/"><u>How To Restore Picture Quality by Removing Line Defects From TV Screens</u></a></li>
+<li><a href="https://fox-info.techidaily.com/htc-vive-headset-review-for-2024/"><u>HTC Vive Headset Review for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-inauthentic-connection-bids-a-guide-to-discerning-genuine-from-phony-friends/"><u>Identifying Inauthentic Connection Bids: A Guide to Discerning Genuine From Phony Friends</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-fugetek-ft-568-selfie-extender-unveiling-its-robust-design-and-functionalities/"><u>The Ultimate Guide to the Fugetek FT-568 Selfie Extender - Unveiling Its Robust Design and Functionalities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722900686035-transform-your-pc-explore-15-best-and-free-windows-11-aesthetic-makeovers-online/"><u>Transform Your PC: Explore 15 Best and Free Windows 11 Aesthetic Makeovers Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-msodll-not-found-message-efficiently/"><u>Troubleshooting the 'mso.dll Not Found' Message Efficiently</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/viral-vault-finns-financial-findings/"><u>Viral Vault Finn's Financial Findings</u></a></li>
+</ul></div>
+

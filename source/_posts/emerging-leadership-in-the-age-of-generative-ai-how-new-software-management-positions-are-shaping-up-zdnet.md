@@ -1,7 +1,7 @@
 ---
 title: "Emerging Leadership in the Age of Generative AI: How New Software Management Positions Are Shaping Up | ZDNet"
-date: 2024-09-19 16:44:48
-updated: 2024-09-20 10:42:39
+date: 2024-10-17T03:40:27.972Z
+updated: 2024-10-18T21:16:05.513Z
 tags:
   - professional-development
 categories:
@@ -93,11 +93,34 @@ Finally, [recruiting, developing, and managing talent](https://www.zdnet.com/hom
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fusing-youtube-beats-into-film-scenes/"><u>2024 Approved Fusing YouTube Beats Into Film Scenes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-windows-11-seamlessly-pairs-with-onedrive-for-enhanced-cloud-storage-solutions/"><u>Discover How Windows 11 Seamlessly Pairs With OneDrive for Enhanced Cloud Storage Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-5-intense-command-line-tricks-in-windows-for-authentic-hacker-flair/"><u>Discover These 5 Intense Command-Line Tricks in Windows for Authentic Hacker Flair</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-identifying-your-motherboards-model-in-windows/"><u>Easy Guide: Identifying Your Motherboard's Model in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-resolving-issues-with-the-windows-security-application/"><u>Effective Solutions for Resolving Issues with the Windows Security Application</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-f25-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo F25 Pro 5G Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-14-pro-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 14 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-s17t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo S17t</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-share-screen-on-facebook-live/"><u>In 2024, How to Share Screen on Facebook Live?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-what-to-do-when-your-word-document-wont-open-up/"><u>Step-by-Step Guide: What To Do When Your Word Document Won't Open Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/stream-unlimited-films-with-these-6-free-android-movie-watching-apps/"><u>Stream Unlimited Films with These 6 Free Android Movie-Watching Apps!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-magic-of-motion-in-video-text-elements/"><u>Unlock the Magic of Motion in Video Text Elements</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

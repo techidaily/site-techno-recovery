@@ -1,7 +1,7 @@
 ---
 title: "Mastering Virtual First Impressions: A Guide to Nailing Phone Interviews & Progressing to In-Person Meetups, Backed by Experts at ZDNET"
-date: 2024-09-17 23:48:25
-updated: 2024-09-20 11:43:42
+date: 2024-10-17T13:29:20.055Z
+updated: 2024-10-18T22:38:34.186Z
 tags:
   - professional-development
 categories:
@@ -25,14 +25,41 @@ Most companies use phone interviews to screen applicants in the early stages of 
 
 Salary might come up during a phone interview, particularly when speaking with a recruiter. The interviewer may ask about salary expectations or provide the salary range for the role. Phone interviews might last as little as 15 minutes to as long as an hour.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Common phone interview questions
 
 | "Tell me about yourself.""What makes you a good fit for this role?""What interests you about this role?""What do you know about our company?""What are some of your strengths?""What are some of your weaknesses?""Why do you want to work for our company?" | "Why are you looking for a new job?""What are your salary expectations?""What type of work environment do you prefer?""What type of management style do you prefer?""How would you describe your management style?""Do you have any questions for us?" |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Start prepping as early as possible
 
 It's important to start preparing for a phone interview as early as possible. When scheduling the interview, consider blocking off time to prepare. Use that time to learn more about the company, practice your answers to common phone interview questions, and prepare questions for the interviewer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Get the details down
 
@@ -46,6 +73,19 @@ During the phone interview, you'll want to demonstrate your enthusiasm for the p
 
 The interviewer will want to know why they should hire you. Make a cheat sheet of your experiences, skills, and accomplishments. Read the job posting again and write down specific qualifications that the employer is looking for. Make sure you talk about these qualifications in your interview. Use the cheat sheet during the interview when they ask you to provide specific examples of your accomplishments. 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Practice answering common questions
 
 Many phone interviews start with an open-ended question like "tell me about yourself." Practice a concise, focused answer to that question and other common questions. Practice speaking about your strengths and your professional accomplishments. Planning these answers will help you relax and sound confident during the interview.
@@ -53,6 +93,13 @@ Many phone interviews start with an open-ended question like "tell me about your
 ### Plan out your salary answer
 
 Salary expectations might come up during a phone interview. Research the salary range for the role in your area to avoid undervaluing yourself. In fact, you might want to ask about the salary range to make sure the company's pay matches what you're looking for. Plan out how to answer the salary question without selling yourself short. For example, you can avoid saying an exact number but give a range. Or, you can ask the interviewer what the company's salary range is and base your answer off of their range.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prep three questions for the interviewer
 
@@ -80,6 +127,13 @@ Your first impression goes a long way and approaching a phone interview professi
 
 During a phone interview, the hiring manager evaluates how you would fit in with the team and the company. They want to know what you'd be like as a member of the team. So act professional and friendly. Show that you're an active listener and let small talk happen. Give off the energy of a great coworker and colleague.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Speak slowly and breathe
 
 It's natural to feel nervous during a phone interview, and we tend to speak faster when we're nervous. Make sure to breathe while you speak. Focus on enunciating your words and speaking slowly. If it helps you relax, pretend you're in a mock interview with someone you know well.
@@ -88,6 +142,13 @@ It's natural to feel nervous during a phone interview, and we tend to speak fast
 
 Don't let a dry throat or cough interrupt your interview. Make sure to start the call with a glass of water close at hand. Or if you prefer, bring a cup of coffee or tea for a little caffeine boost. Similarly, make sure you're not hungry (or overly full) when you start the interview.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ask follow-up questions
 
 Feel free to ask follow-up questions throughout the call. Asking questions shows the interviewer that you're listening and interested in the role. If the interviewer asks an unclear question, don't hesitate to ask for clarification. It's better to make sure you understand the question than to muddle through with a subpar answer.
@@ -95,6 +156,13 @@ Feel free to ask follow-up questions throughout the call. Asking questions shows
 ### Bring examples from your professional experience
 
 The interviewer wants to know if you're a good fit for the role, so make sure to use examples from your professional experience to demonstrate your accomplishments. Those examples serve as evidence of your qualifications and work history. Avoid using examples from your personal life — it's important to stay professional.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Show enthusiasm
 
@@ -162,11 +230,28 @@ _Last reviewed Jan. 27, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-brighten-up-techniques-for-improving-video-lighting-on-youtube/"><u>[New] In 2024, Brighten Up Techniques for Improving Video Lighting on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-5-key-players-to-triple-your-youtube-views-for-2024/"><u>[New] The 5 Key Players to Triple Your YouTube Views for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastery-over-instagram-video-playback-pace/"><u>[Updated] Mastery Over Instagram Video Playback Pace</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unveiling-the-quintessential-five-strategic-moves-for-youtube-marketing-success/"><u>2024 Approved Unveiling the Quintessential Five Strategic Moves for YouTube Marketing Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dialogue-dynamics-and-emotional-depth-via-gpts-novel-writing-tips/"><u>Dialogue Dynamics and Emotional Depth via GPT’s Novel-Writing Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-enable-voice-recognition-for-reading-text-in-apple-devices/"><u>Effective Ways to Enable Voice Recognition for Reading Text in Apple Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/engage-audiences-on-all-sides-live-360-degree-video-broadcasting-for-youtube/"><u>Engage Audiences on All Sides Live 360-Degree Video Broadcasting for YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-advancements-in-5g-networks-with-a-focus-on-verizon/"><u>Exploring the Latest Advancements in 5G Networks with a Focus on Verizon</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/innovative-typesetting-in-adobe-ae-for-2024/"><u>Innovative Typesetting in Adobe AE for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-varied-strategies-check-out-the-best-6-unique-chess-apps/"><u>Master Varied Strategies: Check Out the Best 6 Unique Chess Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-nspr4dll-file-not-present-a-comprehensive-guide/"><u>Resolving 'Nspr4.dll' File Not Present: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-deactivate-automatic-guided-navigation-in-samsung-smart-tvs/"><u>Steps to Deactivate Automatic Guided Navigation in Samsung Smart TVs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-for-placing-multiple-markers-on-your-google-map/"><u>The Ultimate How-To for Placing Multiple Markers on Your Google Map</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-techniques-for-disabling-windows-emergency-backup-zone/"><u>Ultimate Techniques for Disabling Windows' Emergency Backup Zone</u></a></li>
+</ul></div>
+

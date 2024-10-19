@@ -1,7 +1,7 @@
 ---
 title: Emerging Trends in Coding Careers & Key Programming Languages of the Future - Insights From ZDNet
-date: 2024-09-17 20:51:50
-updated: 2024-09-20 11:25:22
+date: 2024-10-14T01:37:44.389Z
+updated: 2024-10-18T20:48:29.760Z
 tags:
   - professional-development
 categories:
@@ -26,6 +26,13 @@ The role of the software developer is as central to an organization's success no
 Running technology in a business has become a business in itself. As commerce goes digital and consumers spend more time working, shopping and managing their lives from home**,** companies are spending billions of dollars to showcase their technology and maintain a lead on competitors. As a result, software creators find themselves in enormous demand.
 
 This _ZDNet Special Feature_ series is both an examination of the role of developers and the work they do, as well as an exploration into the trends that are shaping the software industry, and with it, the direction of travel for businesses in the coming months and years. Our ambition is to cast a light on the value of software developers in the modern digital workplace, as well as investigate the skills, technologies and programming languages that are driving market demand.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Programming languages 
 
@@ -65,6 +72,13 @@ Yet demand for data scientists currently outstrips supply. [A survey of nearly 1
 
 With demand for data scientists and their unique skillsets rising, it stands to reason that knowledge of highly specialist programming languages used within these fields is associated with higher salaries. The same goes for Rust: this multi-paradigm programming language has become a favourite amongst developers since its conception in 2010, but isn't yet widely used in commercial settings. O'Reilly notes that, despite its lower market demand, "employers interpret knowledge of Rust and Go as a sign of competence and willingness to learn, which increases candidates' value."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Web devs
 
 While data scientists and machine-learning specialists might be the hot new object of recruiters' desires, there can be no understating the ongoing importance of traditional mobile and web app developers.
@@ -91,6 +105,13 @@ Markup and query languages were also high up in the list, with HTML/CSS in secon
 
 Businesses' appetite for digital front doors and customer-facing applications has only been increased by accelerated cloud adoption prompted by COVID-19\. With JavaScript still the go-to language for web development, demand for these programming languages won't be going away any time soon. That said, Python is hot on their tails. Python traded places with SQL to become the third most popular language in Stack Overflow's survey, whereas CodinGame/CoderPad's survey suggests that JavaScript, Java and Python will be the top three languages recruiters will look for in 2022.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The rise of DevOps
 
 Much as the popularity of certain programming languages, frameworks and technical disciplines has evolved with time, so has the role of the developer itself.
@@ -112,6 +133,13 @@ Most difficult tech roles to fill - HackerRank Tech Recruiting Benchmark Report 
 Image: HackerRank
 
 Developers themselves are wise to the opportunities that DevOps offers: alongside machine learning, DevOps was among the top skills developers want to learn in 2022, CodinGame/CoderPad found. "DevOps enables remote business activities to be maintained without compromising speed or operational efficiency," said Frederic Desmoulins, co-founder and CEO of CodinGame.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -152,11 +180,27 @@ Whatever the case, the role of the developer continues to evolve. New business n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-halt-youtubes-automatic-video-screening/"><u>[New] Halt YouTube's Automatic Video Screening</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streaming-made-easy-with-these-11-advanced-recording-tips/"><u>[Updated] Streaming Made Easy with These 11 Advanced Recording Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-step-into-vr-wonderland-youtubes-finest-vr-content-list/"><u>2024 Approved Step Into VR Wonderland YouTube's Finest VR Content List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-deep-dive-into-chatgpt-how-it-works-and-its-impact/"><u>A Deep Dive Into ChatGPT: How It Works and Its Impact</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-strategies-overcoming-common-issues-when-skype-fails-to-connect/"><u>Essential Strategies: Overcoming Common Issues When Skype Fails to Connect</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gpt-clonezilla/"><u>GPTディスクの完全コピー製造: Clonezillaというツール</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-oleaut32dll-not-found-or-missing-errors/"><u>How to Fix Oleaut32.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reactivate-your-frozen-apple-watch-digitizer/"><u>How to Reactivate Your Frozen Apple Watch Digitizer</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-classics-win-11-integration-with-mypics/"><u>Reviving Classics: Win 11 Integration with MyPics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tcl-launches-latest-innovations-19-fresh-additions-to-q-and-s-series-smart-tvs/"><u>TCL Launches Latest Innovations: 19 Fresh Additions to Q and S Series Smart TVs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-lava-yuva-3-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Lava Yuva 3 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-correcting-a-401-unauthorized-mistake-on-your-site/"><u>Troubleshooting Tips: Correcting a 401 Unauthorized Mistake on Your Site</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/universal-accessibility-in-learning-mondly-for-ukraine/"><u>Universal Accessibility in Learning - Mondly for Ukraine</u></a></li>
+</ul></div>
+

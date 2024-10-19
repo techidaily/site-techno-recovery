@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Field of Data Professionals: A 5-Step Guide for Successful Career Trajectory (According to ZDNet)"
-date: 2024-09-18 20:46:52
-updated: 2024-09-20 12:59:53
+date: 2024-10-17T06:21:04.348Z
+updated: 2024-10-19T07:07:48.569Z
 tags:
   - professional-development
 categories:
@@ -57,6 +57,13 @@ Whitcomb says EDF gives graduates in its program a career manager, who stays wit
 
 "Even now it's still useful to have her around. We catch up and it's useful having somebody who has shared experiences, good advice to give, and who understands where I'm coming from more than somebody who hasn't had that experience."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't be scared
 
 Whitcomb says it's important young professionals don't feel too anxious about moving into a new and fast-moving area.
@@ -72,6 +79,13 @@ Young professionals will quickly learn everyone has gaps in their digital knowle
 Whitcomb says the key to success for new graduates is seeing every obstacle as an opportunity. 
 
 "Going in from square one is quite intimidating," she says. "But if you have that mindset of, 'I want to learn, I'm willing to learn, and I can think logically' then you'll be great. So, don't be put off because you don't know how to code at the start."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Embrace the creativity
 
@@ -93,6 +107,19 @@ Whitcomb wants to help people in the department feel empowered to use the tools 
 
 "If you enjoy the logical side of things, you can bring brilliant, creative solutions together."
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Ask questions
 
 If you want to get ahead, don't be afraid to probe people, says Whitcomb: "I know everyone says this the whole time, but asking questions is the best way to learn." 
@@ -108,6 +135,13 @@ Both Bentley and EDF are keen to get their professionals to ask questions about 
 "On the flip side, if somebody asks you a question, be open to that. Sometimes, it's quite difficult to know who to ask questions. If someone asks you something, you learn yourself," she says. 
 
 "So, make sure you're asking questions and be the person other people feel they can ask questions to."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Grab fresh opportunities
 
@@ -144,11 +178,26 @@ Whitcomb says she enjoys speaking about her work, sharing learnings, and contrib
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-video-magic-templates-and-insights/"><u>[New] Instagram Video Magic Templates & Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pinnacle-platforms-transforming-online-interaction/"><u>[Updated] 2024 Approved Pinnacle Platforms Transforming Online Interaction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-simplify-your-macs-sound-recording-journey-with-audacity/"><u>[Updated] In 2024, Simplify Your Mac's Sound Recording Journey with Audacity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-enhanced-chat-experience-the-evolution-of-googles-gemini-on-mobile-devices/"><u>1. Enhanced Chat Experience: The Evolution of Google's Gemini on Mobile Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-become-a-successful-ai-whisperer-exploring-this-unique-career-path/"><u>Can You Become a Successful AI Whisperer: Exploring This Unique Career Path</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creativity-clash-analyzing-the-features-of-midjourney-against-dall-e-3/"><u>Creativity Clash: Analyzing the Features of MidJourney Against DALL-E 3</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/setting-up-a-system-directory-with-emeditor-text-editor-steps/"><u>Setting Up a System Directory with EmEditor Text Editor Steps</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/troubleshooting-and-correcting-error-code-4140-efficiently/"><u>Troubleshooting and Correcting Error Code 4140 Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-benefits-of-switching-to-an-e-ink-phone/"><u>Understanding the Benefits of Switching to an E-Ink Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-distinct-roles-of-crypto-wallets-vs-trading-platforms-a-bitcoin-focus/"><u>Understanding the Distinct Roles of Crypto Wallets Vs. Trading Platforms: A Bitcoin Focus</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-take-your-editing-to-the-next-level-advanced-jump-cuts-in-final-cut-pro-x/"><u>Updated In 2024, Take Your Editing to the Next Level Advanced Jump Cuts in Final Cut Pro X</u></a></li>
+</ul></div>
+

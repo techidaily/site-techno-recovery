@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look Inside Apple's WWDC Announcements: Advancing Machine Intelligence, Upgrades to Siri & Unveiling of iOS Eighteen | GadgetGuru"
-date: 2024-10-10T22:12:23.401Z
-updated: 2024-10-13T08:47:26.013Z
+date: 2024-10-14T18:14:05.540Z
+updated: 2024-10-18T21:47:54.718Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -55,13 +62,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -78,13 +78,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -96,6 +89,13 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -122,10 +122,16 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -139,13 +145,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -162,6 +161,19 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -218,24 +230,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-controlling-who-can-leave-a-comment-on-your-youtube-videos-for-2024/"><u>[Updated] Controlling Who Can Leave a Comment on Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-foundations-of-frame-and-frequency-in-visual-media/"><u>[Updated] In 2024, Foundations of Frame and Frequency in Visual Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/continued-security-guaranteed-why-windows-10-remains-protected-beyond-2025-with-subscription-support/"><u>Continued Security Guaranteed: Why Windows 10 Remains Protected Beyond 2025 with Subscription Support</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-asus-trackpad-malfunctions-on-windows-1110-pcs/"><u>Effective Solutions for ASUS TrackPad Malfunctions on Windows 11/10 PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-methods-to-find-out-what-bios-version-youre-running-on-windows-11/"><u>Effortless Methods to Find Out What BIOS Version You're Running on Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevating-windows-10-photos-visuals-through-personalized-filtersmusic/"><u>Elevating Windows 10 Photos Visuals Through Personalized Filters/Music</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/enhance-and-resize-videos-using-gpu-power-discover-the-advanced-features-of-winx-deluxe-video-converter-hd/"><u>Enhance and Resize Videos Using GPU Power - Discover the Advanced Features of WinX Deluxe Video Converter HD</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expanding-ps4-storage-with-an-external-hdd-essential-tips-and-tricks/"><u>Expanding PS4 Storage with an External HDD - Essential Tips and Tricks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-windows-10s-best-new-applications-and-games/"><u>Explore Windows 10'S Best New Applications & Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/free-download-compatible-dell-bluetooth-software-and-drivers-for-windows-8/"><u>Free Download: Compatible Dell Bluetooth Software & Drivers for Windows 8</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/graphics-card-capability/"><u>Graphics Card Capability</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-retrieving-accidentally-overlooked-facebook-login-information/"><u>Guide to Retrieving Accidentally Overlooked Facebook Login Information</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-allow-unverified-drivers-in-windows-pressure-a-simple-guide-for-windows-10-users/"><u>How to Allow Unverified Drivers in Windows Pressure: A Simple Guide for Windows 10 Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-download-epson-scanner-drivers-for-windows-11/"><u>How to Download Epson Scanner Drivers for Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-factory-reset-acer-laptop-step-by-step/"><u>How to Factory Reset Acer Laptop - Step by Step</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-examination-of-the-kobo-nia-rivals-amazons-kindle-with-superior-features/"><u>In-Depth Examination of the Kobo Nia - Rivals Amazon's Kindle with Superior Features!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spectral-imagery-phantasmal-camera-analysis/"><u>Spectral Imagery Phantasmal Camera Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-innovations-a-comparison-between-iphones-face-id-and-galaxy-recognition-for-2024/"><u>Unlocking Innovations A Comparison Between iPhone's Face ID & Galaxy Recognition for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/winning-against-fortnites-windows-display-problem-solutions-unveiled/"><u>Winning Against Fortnite's Windows Display Problem: Solutions Unveiled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-apeaksofts-game-changing-recording-technology-review/"><u>[New] 2024 Approved Apeaksoft's Game-Changing Recording Technology Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-your-photography-with-polarrs-complete-features/"><u>[Updated] 2024 Approved Elevate Your Photography with Polarr's Complete Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-iphone-videography-strategies-to-elevate-your-work-top-8/"><u>[Updated] Expert iPhone Videography Strategies to Elevate Your Work (Top 8)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-enlargement-editor-for-media-files/"><u>[Updated] Image Enlargement Editor for Media Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mirror-movies-a-guide-to-flipping-your-youtube-video-upside-down/"><u>[Updated] Mirror Movies A Guide to Flipping Your YouTube Video Upside Down</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-opengl32dll-related-problems-strategies-for-a-successful-fix/"><u>Dealing with OpenGL32.dll-related Problems: Strategies for a Successful Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-the-workings-of-espnpluss-direct-to-consumer-sports-content-delivery/"><u>Demystifying the Workings of ESPN+'s Direct-to-Consumer Sports Content Delivery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-clear-out-apps-from-a-samsung-television/"><u>Easy Steps to Clear Out Apps From a Samsung Television</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-success-elevating-winning-frames/"><u>Fast-Track to Success: Elevating Winning Frames</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-moto-g84-5g-by-drfone-android/"><u>How to Bypass FRP on Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-motorola-g24-power-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Motorola G24 Power Phone Now with These Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-timekeepers-a-curated-list-of-superior-smartwatches/"><u>Innovative Timekeepers: A Curated List of Superior Smartwatches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-next-gen-macbook-pro-m3-releasing-dates-cost-breakdowns-and-cutting-edge-tech-specs-unveiled/"><u>Inside the Next-Gen MacBook Pro (M3): Releasing Dates, Cost Breakdowns & Cutting-Edge Tech Specs Unveiled</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-correcting-connectivity-problems-with-your-wifi-adapter/"><u>Step-by-Step Strategies for Correcting Connectivity Problems with Your WiFi Adapter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tracking-the-untraceable-steps-to-discover-disappeared-phone-numbers-from-an-android-device/"><u>Tracking the Untraceable: Steps to Discover Disappeared Phone Numbers From an Android Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-overcoming-the-frustrating-blue-screen-of-death/"><u>Troubleshooting Techniques: Overcoming the Frustrating 'Blue Screen of Death'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-technique-accessing-the-macos-recovery-on-a-mac-computer/"><u>Ultimate Technique: Accessing the macOS Recovery on a Mac Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-automotive-venture-latest-insights-on-costs-launch-timeline-and-specifications/"><u>Upcoming Apple Automotive Venture: Latest Insights on Costs, Launch Timeline & Specifications</u></a></li>
 </ul></div>
 

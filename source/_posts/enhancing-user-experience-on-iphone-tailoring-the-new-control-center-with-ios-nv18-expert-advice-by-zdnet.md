@@ -1,7 +1,7 @@
 ---
 title: "Enhancing User Experience on iPhone: Tailoring the New Control Center with iOS Nv18 | Expert Advice by ZDNET"
-date: 2024-10-08T08:58:18.663Z
-updated: 2024-10-13T04:03:58.772Z
+date: 2024-10-15T04:31:46.841Z
+updated: 2024-10-19T03:48:03.155Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -52,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,6 +57,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -71,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,20 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>[New] 2024 Approved Reclaim Social Life Overcoming a Hack on Facebook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-streamline-creative-processes-with-youtube-studio-editing-insights/"><u>[New] 2024 Approved Streamline Creative Processes with YouTube Studio Editing Insights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-android-techniques-old-to-new-video-format/"><u>[Updated] In 2024, Android Techniques Old to New Video Format</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-tips-to-shield-your-viewing-experience-from-unwanted-ads/"><u>2024 Approved Tips to Shield Your Viewing Experience From Unwanted Ads</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-narzo-60-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme Narzo 60 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/acer-laptop-visual-capture-guide-screenshots-simplified/"><u>Acer Laptop Visual Capture Guide: Screenshots Simplified</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808135079-best-virtual-private-networks-for-google-chrome-quick-setup-steps-inside/"><u>Best Virtual Private Networks for Google Chrome - Quick Setup Steps Inside</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-vmware-improved-input-device-drivers-comprehensive-installation-steps-and-features-explained/"><u>Demystifying VMware Improved Input Device Drivers: Comprehensive Installation Steps & Features Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808348085-disable-driver-signature-enforcement-on-windows-11-easily/"><u>Disable Driver Signature Enforcement on Windows 11 Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-dota-2-wont-start-and-loading-screen-fixes/"><u>Effective Solutions for Dota 2 Won’t Start & Loading Screen Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808193530-enhanced-visibility-of-icons-and-graphical-user-interface-elements-making-navigation-more-intuitive-for-users-with-limited-vision/"><u>Enhanced Visibility of Icons and Graphical User Interface Elements, Making Navigation More Intuitive for Users with Limited Vision.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808164826-how-to-uninstall-windows-11-and-downgrade-to-windows-7-or-windows-81-quickly-and-easily/"><u>How to Uninstall Windows 11 and Downgrade to Windows 7 or Windows 8.1, Quickly and Easily</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-practical-methods-for-instagram-story-capture/"><u>In 2024, Practical Methods for Instagram Story Capture</u></a></li>
-<li><a href="https://extra-information.techidaily.com/samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better/"><u>Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-imagedivide-review-summary/"><u>[New] 2024 Approved ImageDivide Review Summary</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-enhancing-iphone-x-security-mending-facial-detection-glitches/"><u>[New] In 2024, Enhancing iPhone X Security Mending Facial Detection Glitches</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-prime-directors-cut-trailers/"><u>2024 Approved Prime Director's Cut Trailers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>2024 Approved Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-the-blues-fixing-code-angs-in-windows-with-ease/"><u>Bypassing the Blues: Fixing Code Angs in Windows with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-effective-child-cybersecurity-tools-of-2024-top-8-listed/"><u>Discover the Most Effective Child Cybersecurity Tools of 2024 – Top 8 Listed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-to-address-dnssddll-missing-or-inaccessible-problems/"><u>Effective Solutions to Address dnssd.dll Missing or Inaccessible Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-streaming-apple-tvplus-content-on-your-chromecast-device/"><u>Guide: Streaming Apple TV+ Content on Your Chromecast Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-a-deep-dive-into-youtube-content-ownership-laws/"><u>In 2024, A Deep Dive Into YouTube Content Ownership Laws</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-razr-40-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Razr 40 Location | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-amazon-prime-subtitle-issues-effective-strategies-and-tips/"><u>Solving Amazon Prime Subtitle Issues: Effective Strategies and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-troubleshooting-for-d3dx940dll-errors-not-found-on-windows/"><u>Step-by-Step Troubleshooting for D3dx9_40.dll Errors Not Found on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-implementing-copilot-in-microsoft-team-chats/"><u>Step-by-Step Tutorial for Implementing Copilot in Microsoft Team Chats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-fixing-nspr4dll-missing-mistake-on-your-pc/"><u>Understanding and Fixing nspr4.dll Missing Mistake on Your PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unlocking-the-power-of-titles-in-final-cut-pro-x-2023-update-for-2024/"><u>Unlocking the Power of Titles in Final Cut Pro X 2023 Update for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ling-fake-followers-trap-on-youtube-landscapes-for-2024/"><u>Unveiling Fake Followers' Trap on YouTube Landscapes for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-10-customization-tips-how-to-alter-and-personalize-your-taskbar-colors/"><u>Windows 10 Customization Tips: How to Alter and Personalize Your Taskbar Colors</u></a></li>
 </ul></div>
 

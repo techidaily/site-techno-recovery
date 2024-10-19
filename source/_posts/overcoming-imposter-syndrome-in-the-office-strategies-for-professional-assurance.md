@@ -1,7 +1,7 @@
 ---
 title: Overcoming Imposter Syndrome in the Office - Strategies for Professional Assurance
-date: 2024-09-17 22:57:42
-updated: 2024-09-20 12:14:48
+date: 2024-10-15T10:58:48.484Z
+updated: 2024-10-18T18:01:42.913Z
 tags:
   - professional-development
 categories:
@@ -45,6 +45,13 @@ Additionally, since imposter syndrome is an internal experience, there's no thre
 
 We know from research that those feelings do not subside after reaching a new goal because we acclimate and quickly pick a new goal as the next threshold, continuing the cycle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Am I experiencing imposter syndrome at work?
 
 Recognizing imposter syndrome is the first step toward healing. Feeling like you aren't good enough for your job can lead to overwhelming stress, a [sense of burnout](https://www.zdnet.com/education/professional-development/how-to-avoid-burnout/), and even resigning from your position. 
@@ -73,6 +80,13 @@ Additionally, if you are going to talk to your manager, think about some actiona
 If you don't have a transparent and vulnerable relationship with your manager, I would also suggest seeking the support of peers. Ultimately, you want to go to the well that has water for you. 
 
 Tori Rubloff/ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to cope with imposter syndrome in your career
 
@@ -144,6 +158,13 @@ Keep your list somewhere you can access it when you need a boost. Include anythi
 
 If you led a successful meeting, note what worked and some [public speaking tips](https://www.zdnet.com/education/professional-development/public-speaking-tips/) for future you. Don't forget to add any kind Slack messages you've received or positive comments on a performance review. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [How to overcome new job anxiety New job anxiety can hinder your productivity and hurt your professional experience. Find out what anxiety is and what you can do to manage it.  Read now](https://www.zdnet.com/article/overcome-new-job-anxiety/)
@@ -161,6 +182,13 @@ These methods to overcome imposter syndrome can be helpful, but sometimes you ne
 Cognitive-behavioral therapy can help explore negative emotions and create personalized methods to manage them. 
 
 Your primary care provider may be able to connect you with a therapist. If that's not possible for you, try an online service like Betterhelp or Talkspace. These sites offer quick appointment availability.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More about Dr. Pauline Yeghnazar Peck, MA, MMFT, Ph.D.
 
@@ -187,11 +215,31 @@ Your primary care provider may be able to connect you with a therapist. If that'
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-meet-twitters-video-standards-aspect-ratio-matters/"><u>[New] How to Meet Twitter's Video Standards Aspect Ratio Matters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-leading-edge-free-players-for-pc-and-mac-os/"><u>[New] Leading Edge Free Players for PC & Mac OS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/evolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps-for-2024/"><u>[New] Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-guide-adding-zoom-to-your-email-communications/"><u>[Updated] Quick Guide Adding Zoom to Your Email Communications</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionary-drone-editing-for-visual-storytellers/"><u>2024 Approved Revolutionary Drone Editing for Visual Storytellers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-spinning-stars-olympic-ice-celebrations/"><u>2024 Approved Spinning Stars Olympic Ice Celebrations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crucial-criteria-to-evaluate-when-investing-in-your-next-gaming-rig/"><u>Crucial Criteria to Evaluate When Investing in Your Next Gaming Rig</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-atandt-mobile-network-roaming-agreements-for-seamless-travel/"><u>Deciphering AT&T Mobile Network Roaming Agreements for Seamless Travel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficient-file-restoration-guide-unveiling-the-powerful-functions-of-recuva-for-data-rescue/"><u>Efficient File Restoration Guide: Unveiling the Powerful Functions of Recuva for Data Rescue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps-for-2024/"><u>Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-your-optical-disc-drive-to-eject-properly-again/"><u>How to Get Your Optical Disc Drive to Eject Properly Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-samsungs-newest-smartwatch-the-galaxy-watch-7-insights-on-pricing-release-schedule-and-capabilities/"><u>Inside Samsung's Newest Smartwatch - The Galaxy Watch ^7: Insights on Pricing, Release Schedule & Capabilities</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-15-soundtracks-without-copyrights-for-montage-projects-for-2024/"><u>New Top 15 Soundtracks Without Copyrights for Montage Projects for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rise-to-fame-on-instagram-with-these-must-use-tags-and-hashtags/"><u>Rise to Fame on Instagram with These Must-Use Tags & Hashtags</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-your-ipad-securely-no-passcode-needed/"><u>Unlock Your iPad Securely: No Passcode Needed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-latest-in-handheld-gaming-ps-portable-specs-release-timeline-price-points-and-buying-options/"><u>Unveiling the Latest in Handheld Gaming – PS Portable Specs, Release Timeline, Price Points & Buying Options</u></a></li>
+</ul></div>
+

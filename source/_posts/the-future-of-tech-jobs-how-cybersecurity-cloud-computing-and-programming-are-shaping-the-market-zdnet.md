@@ -1,7 +1,7 @@
 ---
 title: "The Future of Tech Jobs: How Cybersecurity, Cloud Computing & Programming Are Shaping the Market | ZDNet"
-date: 2024-09-17 16:37:50
-updated: 2024-09-20 11:52:23
+date: 2024-10-14T20:45:24.384Z
+updated: 2024-10-18T16:56:33.087Z
 tags:
   - professional-development
 categories:
@@ -63,6 +63,13 @@ In conjunction with cloud-related skills, developers can recession-proof themsel
 
 "By mastering modern software delivery processes, developers will be able to demonstrate how they can add value and directly address business challenges."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### A new type of software developer?
 
 As the scale and growth of software development accelerates, and with ongoing AI developments in programming and engineering, the role requirements of software development also look set to change.
@@ -79,6 +86,13 @@ Indeed, Sander van't Noordende, CEO of Randstad, says the rapid growth of AI and
 
 "The human traits that set us apart from machines -- like empathy and creativity -- remain crucial in labor markets and talent and employers should prioritize them alongside technical skills."
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The challenge for leadership
 
 Leadership will also be key to maintaining growth stability over the next 12 months, particularly hiring, retention and upskilling challenges continue to impact the business.
@@ -88,6 +102,13 @@ Melina Masnatta, Learning & DEI global director at Globant, believes that invest
 Specifically, Masnatta says leaders will be responsible for providing the structure and resources to develop skillsets among teams, and effectively managing upskilling across the organization. "It will be the leader's responsibility to engage and empower their teams, often remotely," Masnatta tells ZDNET. 
 
 "High-performing working environments are driven by high psychological safety within teams. Future and present leaders face the challenge of fostering that psychological safety from a distance."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **More on the tech trends to watch in 2023:**
 
@@ -105,11 +126,31 @@ Specifically, Masnatta says leaders will be responsible for providing the struct
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-reviewing-asuss-4k-spectacle-the-mg28uq-unboxed/"><u>[New] Reviewing ASUS's 4K Spectacle - The MG28UQ Unboxed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-multimedia-production-a-guide-to-editing-videos-on-windows-10/"><u>[Updated] Mastering Multimedia Production A Guide to Editing Videos on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2-secure-your-inbox-the-smart-alternative-to-providing-work-emails-for-company-communications/"><u>2. Secure Your Inbox: The Smart Alternative to Providing Work Emails for Company Communications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-helpers-face-off-which-is-superior-claude-or-chatgpt-for-everyday-functions/"><u>AI Helpers Face-Off: Which Is Superior, Claude or ChatGPT, for Everyday Functions?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/family-friendly-password-sharing-enabled-by-google-now-a-new-way-to-secure-your-loved-ones-data/"><u>Family-Friendly Password Sharing Enabled by Google Now: A New Way to Secure Your Loved Ones' Data</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/googles-bard-intelligence-evolves-with-cutting-edge-functionality-and-diverse-language-integration/"><u>Google's BARD Intelligence Evolves with Cutting-Edge Functionality and Diverse Language Integration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-i-overcame-years-of-chaotic-password-management-a-transformation-journey/"><u>How I Overcame Years of Chaotic Password Management - A Transformation Journey</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f04-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F04 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-action-cam-faceoff-the-best-of-both-worlds-hero5-black-and-hero4-silver/"><u>In 2024, Action Cam Faceoff The Best of Both Worlds – Hero5 Black & Hero4 Silver</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-ensuring-every-snapchatter-friendly-footage-via-mac/"><u>In 2024, Ensuring Every Snapchatter-Friendly Footage via Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-18th-new-york-times-connection-challenges-unlocking-insights-nyt-403/"><u>July 18Th New York Times Connection Challenges: Unlocking Insights (NYT #403)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-music-creation-with-ipads-the-8-leading-ios-daws-you-must-try-for-2024/"><u>New Innovative Music Creation with iPads The 8 Leading iOS DAWs You Must Try for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/starlink-mini-spacex-unveils-the-compact-satellite-internet-solution-for-all/"><u>Starlink Mini: SpaceX Unveils the Compact Satellite Internet Solution for All</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-android-device-into-a-smart-view-with-our-innovative-screen-mirroring-widget/"><u>Transform Your Android Device Into a Smart View with Our Innovative Screen Mirroring Widget</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-how-can-you-get-back-voicemails-that-were-unintentionally-removed-from-your-iphone/"><u>Ultimate Guide: How Can You Get Back Voicemails That Were Unintentionally Removed From Your iPhone?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-advanced-features-in-paid-fitness-apps-are-they-worth-the-investment/"><u>Unlocking Advanced Features in Paid Fitness Apps – Are They Worth the Investment?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-wonders-of-toms-computer-reviews/"><u>Unveiling the Wonders of Tom's Computer Reviews</u></a></li>
+</ul></div>
+

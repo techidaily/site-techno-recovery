@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Essential Steps to Achieving Success in the Data Industry: Insights From ZDNet"
-date: 2024-09-18 21:50:26
-updated: 2024-09-20 12:59:20
+date: 2024-10-12T13:17:31.387Z
+updated: 2024-10-19T08:21:50.215Z
 tags:
   - professional-development
 categories:
@@ -57,6 +57,19 @@ Whitcomb says EDF gives graduates in its program a career manager, who stays wit
 
 "Even now it's still useful to have her around. We catch up and it's useful having somebody who has shared experiences, good advice to give, and who understands where I'm coming from more than somebody who hasn't had that experience."
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't be scared
 
 Whitcomb says it's important young professionals don't feel too anxious about moving into a new and fast-moving area.
@@ -72,6 +85,19 @@ Young professionals will quickly learn everyone has gaps in their digital knowle
 Whitcomb says the key to success for new graduates is seeing every obstacle as an opportunity. 
 
 "Going in from square one is quite intimidating," she says. "But if you have that mindset of, 'I want to learn, I'm willing to learn, and I can think logically' then you'll be great. So, don't be put off because you don't know how to code at the start."
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Embrace the creativity
 
@@ -93,6 +119,13 @@ Whitcomb wants to help people in the department feel empowered to use the tools 
 
 "If you enjoy the logical side of things, you can bring brilliant, creative solutions together."
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Ask questions
 
 If you want to get ahead, don't be afraid to probe people, says Whitcomb: "I know everyone says this the whole time, but asking questions is the best way to learn." 
@@ -108,6 +141,13 @@ Both Bentley and EDF are keen to get their professionals to ask questions about 
 "On the flip side, if somebody asks you a question, be open to that. Sometimes, it's quite difficult to know who to ask questions. If someone asks you something, you learn yourself," she says. 
 
 "So, make sure you're asking questions and be the person other people feel they can ask questions to."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Grab fresh opportunities
 
@@ -144,11 +184,33 @@ Whitcomb says she enjoys speaking about her work, sharing learnings, and contrib
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-complete-guide-to-implementing-siri-speech-on-tiktok-platforms/"><u>[New] 2024 Approved The Complete Guide to Implementing Siri Speech on TikTok Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-sonic-enhancement-strategies-for-your-instagram-creativity/"><u>[New] Sonic Enhancement Strategies for Your Instagram Creativity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-laying-foundations-for-fresh-content-first-timers-youtube-video-guide-mac-edition/"><u>[Updated] Laying Foundations for Fresh Content First-Timer's Youtube Video Guide, Mac Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/a-social-storytellers-playbook-maximizing-video-impact-on-fb/"><u>A Social Storyteller’s Playbook Maximizing Video Impact on FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/aligning-phonetablet-zoom-schedules-with-pc-plans/"><u>Aligning Phone/Tablet Zoom Schedules with PC Plans</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-no-cost-messaging-programs-for-apple-devices-iphone-ipod-touch/"><u>Best No-Cost Messaging Programs for Apple Devices (iPhone, iPod Touch)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-i-use-my-airpods-as-a-headset-on-the-nintendo-switch-find-out-here/"><u>Can I Use My AirPods as a Headset on the Nintendo Switch? Find Out Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722844917208-disabling-microsofts-sticky-keys-feature-a-step-by-step-guide/"><u>Disabling Microsoft's Sticky Keys Feature: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/investigating-interruptions-is-aols-email-service-down-or-are-you-facing-internet-troubles/"><u>Investigating Interruptions: Is AOL's Email Service Down or Are You Facing Internet Troubles?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mka-a-mp4-come-convertire-gratuitamente-i-file-video-usando-movavi-online/"><u>MKA a MP4: Come Convertire Gratuitamente I File Video Usando Movavi Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premiere-pro-exposure-corrections-to-fix-overlit-iphone-videos-for-2024/"><u>Premiere Pro Exposure Corrections to Fix Overlit iPhone Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-tips-using-command-prompt-inside-your-file-explorers-current-directory/"><u>Quick Tips: Using Command Prompt Inside Your File Explorer's Current Directory</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-mobile-life-mastering-androids-handy-quick-settings-feature/"><u>Simplify Your Mobile Life: Mastering Android’s Handy Quick Settings Feature</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stellaris-space-saga-reviewed-mastering-exploration-empire-building-and-warfare/"><u>Stellaris Space Saga Reviewed - Mastering Exploration, Empire Building, and Warfare</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-smart-way-to-clean-up-your-snapchat-contacts-by-removing-many-in-one-go/"><u>The Smart Way to Clean Up Your Snapchat Contacts by Removing Many in One Go</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-5-premier-free-languages-learning-tools-2024-edition/"><u>The Ultimate List: 5 Premier Free Languages Learning Tools - 2024 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-btballoondll-files-efficiently/"><u>Troubleshooting Missing btballoon.dll Files Efficiently</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-excellence-mirrorless-cameras-vs-traditional-dslrs/"><u>Video Excellence Mirrorless Cameras vs Traditional DSLRs</u></a></li>
+</ul></div>
+

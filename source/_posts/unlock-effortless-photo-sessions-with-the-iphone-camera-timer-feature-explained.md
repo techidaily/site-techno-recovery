@@ -1,7 +1,7 @@
 ---
 title: Unlock Effortless Photo Sessions with the iPhone Camera Timer Feature Explained
-date: 2024-10-05T20:47:22.505Z
-updated: 2024-10-13T01:06:58.356Z
+date: 2024-10-15T11:01:10.837Z
+updated: 2024-10-18T23:32:11.541Z
 categories:
   - BestProducts
 description: This Article Describes Unlock Effortless Photo Sessions with the iPhone Camera Timer Feature Explained
@@ -28,16 +28,10 @@ thumbnail: https://www.lifewire.com/thmb/hoOuvzdnbkZQB53jeYnE2CJSmz4=/540x405/fi
  The short answer is yes; the iPhone camera does have a timer. You'll find it in the settings for the Photo and Portrait modes.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set the Timer on Your iPhone Camera
@@ -52,10 +46,10 @@ thumbnail: https://www.lifewire.com/thmb/hoOuvzdnbkZQB53jeYnE2CJSmz4=/540x405/fi
 3. Select the**Shutter Timer** icon (it looks a bit like a clock). It may be in different locations on the menu, depending on what Mode you're using and what version of iOS you're running, but the icon will always remain the same.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Shutter Timer icon will turn yellow to indicate it is selected.  
@@ -65,10 +59,10 @@ thumbnail: https://www.lifewire.com/thmb/hoOuvzdnbkZQB53jeYnE2CJSmz4=/540x405/fi
 5. Then press the shutter button and get into position. The countdown will flash on-screen as it counts down. Once the timer is done, the shutter will fire, taking a series of 10 shots in a short burst.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want your camera to take a burst of 10 shots like it does in Live Mode, then you need to be Live Mode is enabled before you tap the timer. If you haven't enabled Live Mode, the camera will only take one picture, regardless of whether it's on Portrait or Photo Mode.
@@ -78,10 +72,10 @@ thumbnail: https://www.lifewire.com/thmb/hoOuvzdnbkZQB53jeYnE2CJSmz4=/540x405/fi
 [Everything You Need to Know About iPhone Live Photos](https://www.lifewire.com/iphone-live-photos-1999618)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does iPhone 11 Have a Camera Timer?
@@ -124,16 +118,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elite-home-and-office-desk-setups/"><u>[Updated] 2024 Approved Elite Home & Office Desk Setups</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>[Updated] 2024 Approved Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/creating-the-perfect-viewing-space-how-to-construct-a-diy-projector-screen/"><u>Creating the Perfect Viewing Space: How to Construct a DIY Projector Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-s17-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo S17 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-galaxy-perfect-order-to-experience-every-star-trek-movie/"><u>Master the Galaxy: Perfect Order to Experience Every Star Trek Movie</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-windows-11-power-and-sleep-options-unveiling-the-battery-report-feature/"><u>Navigating the Windows 11 Power & Sleep Options: Unveiling the Battery Report Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-present-ideas-for-youngsters-in-gaming-console-selection-and-added-bonuses/"><u>Smart Present Ideas for Youngsters in Gaming: Console Selection & Added Bonuses</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-your-video-production-with-kinemaster-and-leading-alternatives/"><u>Streamlining Your Video Production with KineMaster & Leading Alternatives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-11-best-free-update-utilities-enhancing-your-system-effortlessly/"><u>Top 11 Best Free Update Utilities: Enhancing Your System Effortlessly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722973565771-transient-monocular-blindness-often-indicates-a-transient-ischemic-attack-tia/"><u>Transient Monocular Blindness Often Indicates a Transient Ischemic Attack (TIA).</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-review-free-meme-makers-to-use-for-2024/"><u>[New] A Review Free Meme Makers to Use for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-perfect-proposal-to-perfection-8-best-weddings-online/"><u>[New] The Perfect Proposal to Perfection 8 Best Weddings Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-prime-tools-elevating-digital-collaboration/"><u>[Updated] Prime Tools Elevating Digital Collaboration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-music-continuous-playback-learn-how-to-pause-it-here/"><u>Apple Music Continuous Playback? Learn How to Pause It Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-rcs-messaging-an-in-depth-overview/"><u>Demystifying RCS Messaging: An In-Depth Overview</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-get-the-latest-dell-monitor-drivers-here/"><u>Effortless Installation: Get the Latest Dell Monitor Drivers Here</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-with-advanced-cookie-tracking-technology/"><u>Enhanced with Advanced Cookie Tracking Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-startup-failures-in-mozilla-thunderbird-step-by-step-guide/"><u>Fixing Startup Failures in Mozilla Thunderbird - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-a59-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo A59 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-s23-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy S23 FRP?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-samsungs-innovative-phone-debut-what-to-know/"><u>Inside Look at Samsung's Innovative Phone Debut: What to Know</u></a></li>
+<li><a href="https://discover-able.techidaily.com/kostenloos-convert-mp4-naar-3g2-heuristiek-online-movavi-converter/"><u>Kostenloos Convert MP4 Naar 3G2 Heuristiek - Online - Movavi Converter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflixs-treasure-trove-of-teen-favorites-the-ultimate-guide-to-youthful-cinema/"><u>Netflix's Treasure Trove of Teen Favorites – The Ultimate Guide to Youthful Cinema</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-gaming-presents-for-youngsters-console-selections-and-must-have-extras/"><u>Top Gaming Presents for Youngsters: Console Selections & Must-Have Extras</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-how-to-optimize-your-super-bowl-viewing-experience-with-the-perfect-tvhome-theater-setup/"><u>Ultimate Guide: How to Optimize Your Super Bowl Viewing Experience with the Perfect TV/Home Theater Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-syncing-your-tv-with-chromecast-using-the-remote-control/"><u>Ultimate Guide: Syncing Your TV with Chromecast Using the Remote Control</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722856786190-x-men-movie-marathon-watch-them-all-in-ideal-order/"><u>X-Men Movie Marathon: Watch Them All in Ideal Order</u></a></li>
 </ul></div>
 

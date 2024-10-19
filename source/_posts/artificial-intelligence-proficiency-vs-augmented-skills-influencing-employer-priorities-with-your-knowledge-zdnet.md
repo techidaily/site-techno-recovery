@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Proficiency Vs. Augmented Skills: Influencing Employer Priorities with Your Knowledge | ZDNet"
-date: 2024-09-19 12:46:15
-updated: 2024-09-20 11:12:34
+date: 2024-10-13T06:32:33.668Z
+updated: 2024-10-19T12:46:46.499Z
 tags:
   - professional-development
 categories:
@@ -98,11 +98,40 @@ To achieve successful AI implementations, "talent must be familiar with AI capab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-developing-intriguing-video-segments-for-channels-for-2024/"><u>[New] Developing Intriguing Video Segments for Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-regain-access-how-to-fix-a-2023-facebook-glitch/"><u>[New] Regain Access How to Fix a 2023 Facebook Glitch</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-securing-speech-accuracy-techniques-for-perfect-translation/"><u>[New] Securing Speech Accuracy Techniques for Perfect Translation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-admasters-the-epitome-of-creative-brilliance/"><u>[Updated] YouTube Admasters The Epitome of Creative Brilliance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-tablets-how-ipad-mini-stacks-up-against-ipad-air/"><u>Comparing Tablets: How IPad Mini Stacks Up Against iPad Air</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-growing-your-instagram-audience/"><u>Effective Strategies for Growing Your Instagram Audience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-radio-broadcasts-for-college-hoops-fans-march-madness-to-final-four-journey/"><u>Exclusive Radio Broadcasts for College Hoops Fans: March Madness to Final Four Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-thrilling-mysteries-with-these-top-1ntrue-crime-podcast-picks/"><u>Explore Thrilling Mysteries with These Top 1nTrue Crime Podcast Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-eliminate-the-preinstalled-backup-image-on-windows-os/"><u>How To Eliminate The Preinstalled Backup Image On Windows OS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-the-nuances-of-ppt-voiceover-performance/"><u>In 2024, Navigating the Nuances of PPT Voiceover Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/is-av1-the-new-video-codec-front-runner-for-2024/"><u>Is AV1 The New Video Codec Front-Runner for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/manage-srt-files-in-winmac-environments/"><u>Manage SRT Files in Win/Mac Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-playstation-5-gaming-experience-achieving-120-fps/"><u>Maximizing Your PlayStation 5 Gaming Experience: Achieving 120 FPS</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-malfunction-win1011s-ccleaner-complications/"><u>Overcoming Malfunction: Win10/11's CCleaner Complications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-newest-addition-the-galaxy-z-flip-7-what-we-know-so-far-about-price-arrival-date-and-potential-specs/"><u>Samsung's Newest Addition: The Galaxy Z Flip 7 - What We Know So Far About Price, Arrival Date & Potential Specs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-for-establishing-parental-guidelines-on-discord/"><u>Steps for Establishing Parental Guidelines on Discord</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-v27e-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo V27e Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-self-portraits-a-comprehve-insight-into-the-world-of-selfie-lights/"><u>Transform Your Self-Portraits: A Comprehve Insight Into the World of Selfie Lights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verdingvoudige-cr2-fotos-in-een-1-click-proces-omdicht-tot-bmp-format-via-gratis-movavi-tool/"><u>Verdingvoudige CR2-Foto's in Een 1-Click Proces Omdicht Tot BMP-Format via Gratis Movavi Tool!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

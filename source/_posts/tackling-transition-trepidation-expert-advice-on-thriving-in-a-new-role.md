@@ -1,7 +1,7 @@
 ---
 title: "Tackling Transition Trepidation: Expert Advice on Thriving in a New Role"
-date: 2024-09-19 22:15:43
-updated: 2024-09-20 12:42:11
+date: 2024-10-12T07:29:22.384Z
+updated: 2024-10-19T09:49:04.064Z
 tags:
   - professional-development
 categories:
@@ -30,6 +30,13 @@ These emotions trigger a stress response in our bodies, which can cause physical
 New job anxiety can cause many physical symptoms, such as headaches, nausea, changes in appetite, muscle pain, and restlessness. You may find it difficult to fall asleep or stay awake. 
 
 If the anxiety escalates to a panic attack, you might also encounter shortness of breath, stomach pain, lightheadedness, dizziness, trembling, and a racing heart. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mental symptoms
 
@@ -75,6 +82,19 @@ However, if your anxiety is so elevated that you feel paralyzed and cannot take 
 
 The following tips might provide some relief from new job anxiety. Some might be more effective than others depending on the individual and the situation.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Write down your thoughts and emotions.
 
 The first step to managing your anxiety is understanding what might be triggering it. To do this, consider keeping a journal of your thoughts and emotions. Whenever you have a worry or anxiety pop into your head, jot it down, noting when it happened and what preceded it. 
@@ -82,6 +102,13 @@ The first step to managing your anxiety is understanding what might be triggerin
 The goal here should be to catalog your thoughts and anxieties and track the times and potential triggers. While you might not solve all your anxiety issues or make sense of every single thought, you may be able to identify a pattern or trigger along the way. 
 
 These records might also help you feel more in control of your anxiety and boost your [emotional intelligence](https://www.zdnet.com/education/emotional-intelligence-at-work-guide/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Remind yourself about how anxiety works.
 
@@ -100,6 +127,13 @@ You can also think about the situation logically and examine whether the fear dr
 Think of this as challenging your thoughts with reason rather than forced positivity. 
 
 Tori Rubloff/ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Become aware of your physiology and practice self-regulating.
 
@@ -122,6 +156,13 @@ New job anxiety creates feelings of doubt and insecurity, but you have to rememb
 
 Face these feelings by looking over your resume and thinking positively about your accomplishments and what you have to offer moving forward.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Ask yourself: Is there anything I can do to remedy my worries?
 
 After you've collected your thoughts in a journal, take some time to analyze them and figure out if there might be a solution. 
@@ -137,6 +178,13 @@ A great way to remove yourself from your thoughts and anxiety is to talk about t
 During a [magnetic resonance imaging study](https://pubmed.ncbi.nlm.nih.gov/17576282/), scientists showed participants images designed to evoke negative emotions during a magnetic resonance imaging study. The researchers found that affect labeling, or putting your thoughts into words, reduced activity in the amygdala — part of the brain involved in experiencing emotions. 
 
 So talk it out with your family, friends, counselor, or mentor. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Personalize your workspace so that it feels familiar and comforting.
 
@@ -203,11 +251,25 @@ _Last reviewed March 16, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-fashion-filming-simplified-for-macos-users/"><u>[New] Fashion Filming Simplified for MacOS Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-money-no-problem-the-best-free-subtitles-apps/"><u>[New] No Money, No Problem The Best Free Subtitles Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-converting-your-cellphone-to-a-diy-video-recorder-for-2024/"><u>[Updated] Converting Your Cellphone to a DIY Video Recorder for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-top-32-gratis-back-up-apps-expertly-rated-and-analyzed-guide/"><u>Discover the Top 32 Gratis Back-Up Apps: Expertly Rated and Analyzed Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-hd-video-recording-for-windows-10-users/"><u>In 2024, HD Video Recording for Windows 10 Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-se-2020-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone SE (2020) Device from iCloud</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-around-chatgpts-safety-net-fixes-for-moderation-error-troubles/"><u>Navigating Around ChatGPT's Safety Net – Fixes for Moderation Error Troubles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-solution-for-fixing-a-504-gateway-error-quickly/"><u>The Definitive Solution for Fixing a 504 Gateway Error Quickly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-15-ideais-mais-confiaveis-para-desenho-de-identidade-visual-zero-costos-na-web/"><u>Top 15 Ideais Mais Confiáveis Para Desenho De Identidade Visual Zero-Costos Na Web</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-linking-your-apple-homepod-with-your-television/"><u>Ultimate Guide: Linking Your Apple HomePod with Your Television</u></a></li>
+</ul></div>
+

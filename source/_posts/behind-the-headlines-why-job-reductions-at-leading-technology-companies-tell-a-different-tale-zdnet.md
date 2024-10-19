@@ -1,7 +1,7 @@
 ---
 title: "Behind the Headlines: Why Job Reductions at Leading Technology Companies Tell a Different Tale | ZDNET"
-date: 2024-09-17 11:41:13
-updated: 2024-09-20 11:15:19
+date: 2024-10-17T14:15:48.498Z
+updated: 2024-10-19T02:36:17.866Z
 tags:
   - professional-development
 categories:
@@ -57,7 +57,21 @@ Contrary to recent moves by some tech companies to reduce their headcount, Rhona
 
 Carmichael told ZDNET: "Our report shows that many are planning additional technology investment next year as the number one board priority is to be operationally more efficient to help 'recession-proof' their business. In short, technology is still seen by many as a way of reducing operating costs even in the face of rising inflation."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remote work hiring trends upward
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** In Depth
 
@@ -83,9 +97,23 @@ Nash Squared's White also offered caution to tech leaders in the year ahead, tho
 
 Job cuts at big tech companies are understandably worrying for anyone working in tech, and job cuts are a terrible ordeal for those that have to go through it especially if the process is not handled with sensitivity and compassion. But big tech is not the whole tech industry, which is still a source of opportunity for many.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET'S MONDAY OPENER** 
 
 _ZDNet's Monday Opener is our opening take on the week in tech, written by members of our editorial team._ 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **PREVIOUSLY ON ZDNET'S MONDAY OPENER:**
 
@@ -119,11 +147,23 @@ _ZDNet's Monday Opener is our opening take on the week in tech, written by membe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-mixed-reality-a-comprehensive-insight/"><u>[Updated] In 2024, Unveiling Mixed Reality A Comprehensive Insight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>2024 Approved Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-your-selfies-expert-tips-on-harnessing-the-power-of-selfie-lights/"><u>Ace Your Selfies: Expert Tips on Harnessing the Power of Selfie Lights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-going-right-5-must-do-steps-when-you-get-fresh-tech-gear/"><u>Getting Going Right: 5 Must-Do Steps When You Get Fresh Tech Gear</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/integrating-microsofts-azure-transcription-service-in-code-for-2024/"><u>Integrating Microsoft's Azure Transcription Service in Code for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/relaxation-in-a-box-best-10-stress-busters/"><u>Relaxation in a Box Best 10 Stress Busters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-to-overcome-base-driver-issues-dm/"><u>Strategies to Overcome Base Driver Issues (DM)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-docu-series-featuring-maximillian-what-were-watching-in-july-2024/"><u>Top Docu-Series Featuring Maximillian: What We're Watching in July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zoom-update-tutorial-for-pcs-and-mac-computers-a-comprehensive-approach/"><u>Zoom Update Tutorial for PCs & Mac Computers - A Comprehensive Approach</u></a></li>
+</ul></div>
+

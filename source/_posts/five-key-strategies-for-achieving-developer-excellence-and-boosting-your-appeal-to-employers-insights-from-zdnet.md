@@ -1,7 +1,7 @@
 ---
 title: Five Key Strategies for Achieving Developer Excellence and Boosting Your Appeal to Employers - Insights From ZDNet
-date: 2024-09-18 16:47:25
-updated: 2024-09-20 11:32:56
+date: 2024-10-17T02:12:22.375Z
+updated: 2024-10-19T09:05:54.441Z
 tags:
   - professional-development
 categories:
@@ -21,6 +21,19 @@ The following five tips will not just help you keep your knowledge current, but 
 
 ### Know what's in demand
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Software development: Emerging trends and changing roles ZDNet takes an in-depth look at key trends in software development and how developers are changing the tech industry.  Read now](https://www.zdnet.com/topic/software-development-emerging-trends-and-changing-roles/)
@@ -31,6 +44,13 @@ Knowing what employers are looking for will give you the best chance of honing y
 
 Besides keeping your technical skills up to date, staying on top of the hiring market is also important for keeping track of the wider trends affecting the software industry, particularly as companies start to rethink their employee propositions and invest in the employee experience. By knowing your worth, and therefore what to ask for, you'll be in a much stronger position to take advantage of remote- and flexible-working options, professional development opportunities, and health and wellbeing support.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Keep your code in ship-shape
 
 This one seems pretty obvious, but given that one of the topmost complaints of developers -- not to mention one of the biggest [sources of developer burnout](https://www.zdnet.com/article/developer-burnout-isnt-going-away-employers-need-to-act-now/) \-- is [hunting for bugs in code](https://content.rollbar.com/hubfs/State-of-Software-Code-Report.pdf), the value of being able to write clean, high-quality code should not be understated.
@@ -39,11 +59,31 @@ The more time you can spend making sure your code is error-free, the less time t
 
 Speed and quality is not an easy combo to crack, particularly given the tight deadlines and limited resources that dev teams typically work with. But having a reputation as a diligent and meticulous coder is something that will always catch the attention of recruiters.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Work on your 'soft' skills
 
 We've already stressed the importance of robust technical skills for a career in coding, but they don't account for everything: your interpersonal skills are also a key facet of your future success. You could be a JavaScript dynamo, but this won't account for much if you're lacking in [the type of 'soft' skills that employers are looking for](https://www.zdnet.com/article/developer-skills-have-changed-but-most-companies-havent-noticed-yet/).
 
 Think about it from the company's perspective: if it came down to the choice between two candidates, the hiring manager is far more likely to go with the person who has a few gaps in their coding ability but is open-minded, adaptable and a great communicator, as opposed to the candidate who thinks they know everything there is to learn about JavaScript and prefers to work as a one-person team. The key is to think about the type of person _you_ would want to work with and emulate those qualities.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Find ways to collaborate
 
@@ -80,11 +120,25 @@ If you're passionate about coding, your education won't stop at the end of the w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-hidden-pathway-how-to-seamlessly-integrate-youtube-content-onto-facebook-for-2024/"><u>[Updated] The Hidden Pathway How to Seamlessly Integrate YouTube Content Onto Facebook for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/44cm44kk44oz44oz44oi44oi44oq44ks44o844gu44oh44o844k5lplusd6k235pa55rov77ya5pya6ygp5yyw44ks44kk44oj44cn/"><u>「イベントトリガーのデータ保護方法：最適化ガイド」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-for-osesentdll-file-not-found-issues/"><u>Comprehensive Fixes for 'OSESENT.DLL' File Not Found Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/conquering-skype-job-talks-top-9-insider-secrets-for-the-year-2024/"><u>Conquering Skype Job Talks: Top 9 Insider Secrets for the Year 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-microsoft-patch-tuesday-securing-your-systems-with-regular-updates/"><u>Decoding Microsoft Patch Tuesday: Securing Your Systems with Regular Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-effortlessly-save-moments-from-your-xbox-one-experience/"><u>How to Effortlessly Save Moments From Your Xbox One Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-p40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instagram-tips-how-to-get-rid-of-the-suggestions-for-you-feature/"><u>Instagram Tips: How To Get Rid Of The 'Suggestions For You' Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-users-faqs-how-to-effectively-hide-youtube-content/"><u>IPad Users' FAQs: How to Effectively Hide YouTube Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/uncovering-if-itop-justifies-its-market-presence/"><u>Uncovering If ITop Justifies Its Market Presence</u></a></li>
+</ul></div>
+

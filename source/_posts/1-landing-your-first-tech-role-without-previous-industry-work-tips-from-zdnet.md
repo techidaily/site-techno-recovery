@@ -1,7 +1,7 @@
 ---
 title: 1. Landing Your First Tech Role Without Previous Industry Work - Tips From ZDNet
-date: 2024-09-19 23:23:53
-updated: 2024-09-20 11:30:15
+date: 2024-10-17T10:53:33.241Z
+updated: 2024-10-19T10:48:10.283Z
 tags:
   - professional-development
 categories:
@@ -23,6 +23,13 @@ This page will help guide you through how you can get a tech job with no experie
 
 ## Entry-level tech jobs you can start without traditional experience
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [The 5 best entry-level coding jobs to start your career Launch a coding career without years of experience with these entry-level coding jobs.  Read now](https://www.zdnet.com/article/best-entry-level-coding-job/)
@@ -38,6 +45,13 @@ Entry-level roles you may qualify for include:
 * Social media strategist
 * Software developer
 * Talent acquisition coordinator
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Landing a tech job with no experience: Our tips on how to do it
 
@@ -64,6 +78,13 @@ Alternatively, try taking online courses. Treehouse, Udemy, and Alison are three
 **SEE: [eLearning platform Udemy's most popular courses — and great alternatives](https://www.zdnet.com/education/udemy-review/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -104,6 +125,19 @@ Freelance work is a quick way to practice your skills while adding experience to
 Use sites like UpWork, Freelancer.com, and Craigslist to find people hiring temporary workers. Practicing skills like technical writing, tech support, website maintenance, UX testing, and STEM tutoring will get you ready to confidently apply for tech roles. 
 
 **Leverage your network.**
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -184,11 +218,29 @@ Increase your value as an employee by continuing to complete online courses and 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles/"><u>[New] The Ultimate List 8 Online Locations for Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-blueprints-for-successful-docu-screenplays/"><u>[Updated] 2024 Approved Blueprints for Successful Docu-Screenplays</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unveil-secrets-how-to-master-video-angles-using-vlc/"><u>[Updated] In 2024, Unveil Secrets How to Master Video Angles Using VLC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/12-must-try-gratis-typing-tutorials-that-cater-to-people-young-and-old/"><u>12 Must-Try Gratis Typing Tutorials That Cater to People Young and Old</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-curating-playlists-in-inshot-bringing-down-beats/"><u>2024 Approved Curating Playlists in InShot Bringing Down Beats</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-create-news-style-outro/"><u>2024 Approved How To Create News Style Outro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-champions-guide-to-martial-arts-gaming/"><u>In 2024, The Champion's Guide to Martial Arts Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-15-sequoia-detailed-overview-of-release-plans-enhancements-and-rumors/"><u>MacOS 15 (Sequoia) – Detailed Overview of Release Plans, Enhancements, and Rumors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063001015-smoothen-windows-11-display-update-your-hdmi-drivers-now/"><u>Smoothen Windows 11 Display: Update Your HDMI Drivers Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-laptop-and-tv-using-an-hdmi-cable/"><u>Step-by-Step Guide: Linking Your Laptop and TV Using an HDMI Cable</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/time-adjustment-for-amazon-kindle-paperwhite-instructions-and-tips/"><u>Time Adjustment for Amazon Kindle Paperwhite - Instructions & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-what-to-do-if-alexa-indicates-your-echo-device-is-not-connected/"><u>Troubleshooting Steps: What to Do If Alexa Indicates Your Echo Device Is Not Connected</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uber-vs-taxi-a-cost-comparison-analysis/"><u>Uber Vs. Taxi: A Cost Comparison Analysis</u></a></li>
+</ul></div>
+

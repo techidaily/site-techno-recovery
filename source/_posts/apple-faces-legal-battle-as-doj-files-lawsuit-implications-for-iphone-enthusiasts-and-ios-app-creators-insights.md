@@ -1,7 +1,7 @@
 ---
 title: "Apple Faces Legal Battle as DOJ Files Lawsuit: Implications for iPhone Enthusiasts & iOS App Creators - Insights"
-date: 2024-10-06T10:12:33.433Z
-updated: 2024-10-13T10:56:17.054Z
+date: 2024-10-14T17:01:16.866Z
+updated: 2024-10-19T14:13:13.103Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -100,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -111,10 +125,16 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -127,13 +147,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -152,19 +165,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -174,10 +174,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,22 +224,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-giggle-geniuses-selecting-superior-memery-apps/"><u>[Updated] Giggle Geniuses Selecting Superior Memery Apps</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-your-phone-companion-iphone-or-android-the-ultimate-comparison/"><u>Choosing Your Phone Companion: IPhone or Android - The Ultimate Comparison</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/connect-easily-to-messaging-apps-enroll-in-chatgpt-telegram-without-using-your-number/"><u>Connect Easily to Messaging Apps: Enroll in ChatGPT, Telegram Without Using Your Number</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-budget-friendly-study-apps-for-students-preparing-for-school/"><u>Discover the Latest Budget-Friendly Study Apps for Students Preparing for School</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-google-pixel-fold-by-fonelab-android-recover-music/"><u>How to restore wiped music on Google Pixel Fold</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-lg-bp350-evaluation-size-resolution-and-connectivity/"><u>In 2024, LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-reach-broader-audiences-link-your-twitch-live-streams-to-facebook/"><u>In 2024, Reach Broader Audiences Link Your Twitch Live Streams to Facebook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leverage-ai-to-improve-teamwork-incorporating-github-copilot-in-your-microsoft-teams-operations/"><u>Leverage AI to Improve Teamwork: Incorporating GitHub Copilot in Your Microsoft Teams Operations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/no-more-buffering-defeat-the-netflix-error-code-nw-1-19-with-these-proven-solutions/"><u>No More Buffering: Defeat the Netflix Error Code NW-1-19 with These Proven Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solve-common-issues-by-learning-how-to-factory-reset-your-samsung-tv-model/"><u>Solve Common Issues by Learning How to Factory Reset Your Samsung TV Model.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-a1-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo A1 5G FRP</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722883827890-troubleshoot-hulus-rununk13-issue-with-these-easy-fixes/"><u>Troubleshoot Hulu's RUNUNK13 Issue with These Easy Fixes!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-efficiency-top-5-tactics-for-maximizing-your-facebook-usage/"><u>Unlocking Efficiency: Top 5 Tactics for Maximizing Your Facebook Usage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/wwdc-2025-sneak-peek-latest-apple-innovations-and-exclusive-updates-revealed/"><u>WWDC 2025 Sneak Peek: Latest Apple Innovations & Exclusive Updates Revealed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-new-age-monetization-cost-effective-channel-options/"><u>[New] In 2024, New Age Monetization Cost-Effective Channel Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-free-online-tools-for-precise-srt-translation/"><u>Best FREE Online Tools for Precise SRT Translation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-non-responsive-microsoft-word-files-tips-and-solutions/"><u>Dealing with Non-Responsive Microsoft Word Files: Tips and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-accessibility-with-captions-in-your-insta-stories-the-ultimate-how-to/"><u>Enhancing Accessibility with Captions in Your Insta Stories - The Ultimate How-To</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-troubleshooting-to-praise-fabios-method-for-exchange-testimonials/"><u>From Troubleshooting to Praise: Fabio's Method for Exchange Testimonials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-internet-ready-televisions-work-and-why-choose-them/"><u>How Do Internet-Ready Televisions Work and Why Choose Them?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ai-powered-podcast-names-the-ultimate-selection-list/"><u>In 2024, AI-Powered Podcast Names The Ultimate Selection List</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-13t-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi 13T Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-odyssey-through-space-the-definitive-way-to-see-all-star-trek-films/"><u>Ordered Odyssey Through Space: The Definitive Way to See All Star Trek Films</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/pioneering-platform-presence-innovative-square-video-methods-for-2024/"><u>Pioneering Platform Presence Innovative Square Video Methods for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-activating-or-deactivating-the-xbox-game-bar-on-your-windows-10-pc/"><u>Step-by-Step Guide: Activating or Deactivating the Xbox Game Bar on Your Windows 10 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-wireless-router-and-cable-modem-bundles/"><u>Top-Rated Wireless Router & Cable Modem Bundles</u></a></li>
 </ul></div>
 

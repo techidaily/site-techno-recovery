@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16 Release: Pros & Cons of Upgrading - Insights Experts"
-date: 2024-10-06T07:19:26.116Z
-updated: 2024-10-13T07:32:21.466Z
+date: 2024-10-12T20:00:56.063Z
+updated: 2024-10-19T07:09:30.658Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -66,10 +59,10 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -109,10 +102,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -124,10 +117,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -135,6 +128,13 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -176,24 +176,19 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-dive-into-ios-downloads-an-experts-guide-to-podcast-acquisition/"><u>[New] 2024 Approved Dive Into iOS Downloads An Expert's Guide to Podcast Acquisition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-make-your-facebook-profile-cover-video-more-attractive-for-2024/"><u>[Updated] How to Make Your Facebook Profile Cover Video More Attractive for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-i-submerge-my-iphone-13-in-water-without-damage/"><u>Can I Submerge My iPhone 13 in Water Without Damage?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722872882720-effective-solutions-for-correcting-openal32dll-not-detected-problems/"><u>Effective Solutions for Correcting 'openal32.dll' Not Detected Problems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-6-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 6</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-10-top-editing-apps-at-no-cost-online/"><u>In 2024, 10 Top Editing Apps at No Cost Online</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-begin-your-clip-and-cut-career-with-xps-editor/"><u>In 2024, Begin Your Clip-and-Cut Career with XP's Editor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-buying-a-playstation-5-worth-your-money-uncovering-four-key-advantages-that-justify-its-price-tag/"><u>Is Buying a PlayStation 5 Worth Your Money? Uncovering Four Key Advantages That Justify Its Price Tag</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-microsoft-teams-or-my-internet-causing-connection-problems/"><u>Is It Microsoft Teams or My Internet Causing Connection Problems?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-fix-ensuring-seamless-playthrough-of-psychonauts-2-on-windowspc-systems/"><u>Master the Fix: Ensuring Seamless Playthrough of 'Psychonauts 2' On Windows/PC Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-apple-support-how-to-set-up-an-appointment-easily/"><u>Navigating Apple Support: How to Set Up an Appointment Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-chaos-a-guide-to-common-twitch-streamer-pitfalls-for-rookies/"><u>Navigating the Chaos: A Guide to Common Twitch Streamer Pitfalls for Rookies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-nvidia-gaming-overlay-problems-expert-strategies-for-a-smooth-experience/"><u>Overcoming NVIDIA Gaming Overlay Problems: Expert Strategies for a Smooth Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-mfc42ddll-file-not-present-a-step-by-step-guide/"><u>Resolving the MFC42D.dll File Not Present: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tesla-robotaxi-anticipated-cost-breakdown-availability-date-and-technical-specifications-industry-rumors-explored/"><u>Tesla Robotaxi: Anticipated Cost Breakdown, Availability Date & Technical Specifications - Industry Rumors Explored</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/top-10-complimentary-applications-for-macos-enhancing-your-experience/"><u>Top 10 Complimentary Applications for macOS: Enhancing Your Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-prompt-crafting-and-assessing-its-viability-as-a-long-term-profession/"><u>Understanding AI Prompt Crafting and Assessing Its Viability as a Long-Term Profession</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unraveling-the-mystery-of-apples-new-ios-camera/"><u>Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722898634923-water-damage-woes-heres-how-to-salvage-and-repair-your-wet-iphone-or-ipod-with-ease/"><u>Water Damage Woes? Here's How to Salvage and Repair Your Wet iPhone or iPod with Ease!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovating-quickly-2-approaches-to-making-snapchat-filters/"><u>[New] Innovating Quickly 2 Approaches to Making Snapchat Filters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-tech-the-most-advanced-5-video-recorders-for-2024/"><u>[New] Innovative Tech The Most Advanced 5 Video Recorders for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-lut-integration-in-obs-for-enhanced-visual-effects/"><u>2024 Approved Mastering LUT Integration in OBS for Enhanced Visual Effects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-anticipated-sony-playstation-5-exclusives/"><u>Discover the Most Anticipated Sony PlayStation 5 Exclusives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dragon-chronicles-unleashed-the-perfect-sequence-for-watching-how-to-train-your-dragon-films/"><u>Dragon Chronicles Unleashed: The Perfect Sequence for Watching How to Train Your Dragon Films</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/magix-video-pro-x-review/"><u>Magix Video Pro X Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-next-innovation-the-galaxy-z-flip-7-anticipated-cost-launch-timeline-and-latest-gossip/"><u>Samsung's Next Innovation: The Galaxy Z Flip 7 - Anticipated Cost, Launch Timeline & Latest Gossip</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-windows-kernel32dll-malfunctions-a-comprehensive-guide/"><u>Solving Windows Kernel32.dll Malfunctions: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-tutorial-on-altering-kindle-regional-settings-for-global-store-accessibility/"><u>Step-by-Step Tutorial on Altering Kindle Regional Settings for Global Store Accessibility</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-keeping-your-tv-remote-germ-free-and-fresh/"><u>Step-by-Step Tutorial: Keeping Your TV Remote Germ-Free and Fresh</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/steps-to-resolve-unusual-self-viewer-mistakes-in-chats/"><u>Steps to Resolve Unusual Self-Viewer Mistakes in Chats</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-contenders-who-will-lead-the-autonomous-vehicle-market/"><u>Top Contenders: Who Will Lead the Autonomous Vehicle Market ?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-coding-your-own-versatile-smartphone-remote/"><u>Ultimate Guide: Mastering the Art of Coding Your Own Versatile Smartphone Remote</u></a></li>
 </ul></div>
 

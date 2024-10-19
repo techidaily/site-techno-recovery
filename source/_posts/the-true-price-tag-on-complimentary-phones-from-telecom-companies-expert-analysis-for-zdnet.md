@@ -1,7 +1,7 @@
 ---
 title: The True Price Tag on Complimentary Phones From Telecom Companies | Expert Analysis for ZDNET
-date: 2024-10-10T09:31:31.992Z
-updated: 2024-10-13T04:41:46.351Z
+date: 2024-10-16T18:49:28.616Z
+updated: 2024-10-18T18:01:07.870Z
 tags:
   - apple
 categories:
@@ -43,10 +43,16 @@ You might be offered a higher-than-expected trade-in value for your current phon
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
@@ -68,10 +74,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
@@ -79,6 +85,13 @@ The most attractive upgrade offers are typically only available if you sign up f
 The carrier is offering that phone at a discount because they want to lock you into a steady stream of monthly service fees. Typically, that means the phone is SIM-locked until it's fully paid off. Consequently, you can't use it with a prepaid SIM card on your overseas trip, nor can you add a second line from a different carrier, even if you have a dual-SIM device.
 
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How many months does the payment agreement last?
 
@@ -92,28 +105,15 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can I get a better deal on the phone somewhere else?
 
 Even if your carrier seems to be offering a good deal, be sure to shop around. Apple occasionally offers meaningful discounts on its iPhones, and the price after a trade-in might be good enough to consider, especially when you factor in the savings you get from sticking with a lower-cost legacy plan. Among the top Android device makers, Samsung and Google regularly offer deep discounts that are worth checking out. And all of those device makers offer 0% financing options.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I get a better deal selling my phone instead of trading it in?
@@ -154,17 +154,22 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-easy-gaming-memories-start-recording-now/"><u>[New] In 2024, Easy Gaming Memories Start Recording Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>2024 Approved Google Collages How to Achieve It in A Blink of an Eye</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-camera-stabilizers-for-youtuber/"><u>Best Camera Stabilizers for YouTuber</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-how-t-mobile-handles-wireless-roaming-at-home/"><u>Decoding How T-Mobile Handles Wireless Roaming at Home</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effizientes-windows-11-cloning-von-ssd-auf-hdd-sichern-professionelle-anwendung/"><u>Effizientes Windows 11 Cloning Von SSD Auf HDD Sichern - Professionelle Anwendung</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-data-protection-set-up-regular-windows-10-auto/"><u>Effortless Data Protection: Set Up Regular Windows 10 Auto</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-methods-to-refuel-your-phone-battery-in-an-emergency-situation/"><u>Innovative Methods to Refuel Your Phone Battery in an Emergency Situation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/journey-through-gadgets-and-genres-master-your-laptop-phone-and-expand-your-reading-universe/"><u>Journey Through Gadgets & Genres: Master Your Laptop, Phone & Expand Your Reading Universe!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-troubleshooting-failed-directx-hardware-initialization-processes/"><u>Solution Found: Troubleshooting Failed DirectX Hardware Initialization Processes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-streaming-zoom-calls-from-pcmac-to-television/"><u>Ultimate Guide: Streaming Zoom Calls From PC/Mac to Television</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/xbox-one-tech-support-solving-the-mystery-of-missing-signal-problems/"><u>Xbox One Tech Support: Solving the Mystery of Missing Signal Problems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-the-economic-value-of-a-million-youtube-followers/"><u>[Updated] In 2024, Exploring the Economic Value of a Million YouTube Followers</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-x-flip-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-get-your-thaumaturge-game-running-again/"><u>Easy Steps to Get Your Thaumaturge Game Running Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/economical-essentials-for-creating-your-ultimate-at-home-movie-experience/"><u>Economical Essentials for Creating Your Ultimate At-Home Movie Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-criteria-what-you-should-know-before-purchasing-a-smart-tv/"><u>Essential Criteria: What You Should Know Before Purchasing a Smart TV</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x-flip-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X Flip to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-a78-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo A78 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unleash-your-ugc-making-memes-and-marks-on-fb/"><u>In 2024, Unleash Your UGC Making Memes and Marks on FB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simplified-process-for-name-change-in-google-meet-laptopmobile/"><u>Simplified Process for Name Change in Google Meet (Laptop/Mobile)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-perfecting-your-photography-skills-using-the-new-cutouts-in-ios-16-for-iphones/"><u>The Complete Guide to Perfecting Your Photography Skills Using the New Cutouts in iOS 16 for iPhones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-safe-way-to-dust-and-wipe-down-your-lcdled-tv-screens/"><u>The Safe Way to Dust and Wipe Down Your LCD/LED TV Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-syncing-time-on-an-amazon-kindle-paperwhite-device/"><u>The Ultimate Guide to Syncing Time on an Amazon Kindle Paperwhite Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-3-technology-innovations-shaping-our-future-a-must-read-guide/"><u>Top 3 Technology Innovations Shaping Our Future: A Must-Read Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014940856-troubleshoot-and-repair-your-runmux-gamers-mic-to-get-back-in-action/"><u>Troubleshoot & Repair Your RunmuX Gamer's Mic to Get Back in Action!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y77t-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y77t</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-distinctions-between-roku-express-and-roku-stick/"><u>Unveiling the Distinctions Between Roku Express and Roku Stick</u></a></li>
 </ul></div>
 

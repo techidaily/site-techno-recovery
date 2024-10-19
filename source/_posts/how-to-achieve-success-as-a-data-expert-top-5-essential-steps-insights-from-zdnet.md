@@ -1,7 +1,7 @@
 ---
 title: "How To Achieve Success as a Data Expert: Top 5 Essential Steps - Insights From ZDNet"
-date: 2024-09-19 19:41:40
-updated: 2024-09-20 12:56:11
+date: 2024-10-18T13:07:59.232Z
+updated: 2024-10-18T17:50:32.894Z
 tags:
   - professional-development
 categories:
@@ -57,6 +57,13 @@ Whitcomb says EDF gives graduates in its program a career manager, who stays wit
 
 "Even now it's still useful to have her around. We catch up and it's useful having somebody who has shared experiences, good advice to give, and who understands where I'm coming from more than somebody who hasn't had that experience."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't be scared
 
 Whitcomb says it's important young professionals don't feel too anxious about moving into a new and fast-moving area.
@@ -72,6 +79,13 @@ Young professionals will quickly learn everyone has gaps in their digital knowle
 Whitcomb says the key to success for new graduates is seeing every obstacle as an opportunity. 
 
 "Going in from square one is quite intimidating," she says. "But if you have that mindset of, 'I want to learn, I'm willing to learn, and I can think logically' then you'll be great. So, don't be put off because you don't know how to code at the start."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Embrace the creativity
 
@@ -93,6 +107,13 @@ Whitcomb wants to help people in the department feel empowered to use the tools 
 
 "If you enjoy the logical side of things, you can bring brilliant, creative solutions together."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Ask questions
 
 If you want to get ahead, don't be afraid to probe people, says Whitcomb: "I know everyone says this the whole time, but asking questions is the best way to learn." 
@@ -108,6 +129,13 @@ Both Bentley and EDF are keen to get their professionals to ask questions about 
 "On the flip side, if somebody asks you a question, be open to that. Sometimes, it's quite difficult to know who to ask questions. If someone asks you something, you learn yourself," she says. 
 
 "So, make sure you're asking questions and be the person other people feel they can ask questions to."
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Grab fresh opportunities
 
@@ -144,11 +172,27 @@ Whitcomb says she enjoys speaking about her work, sharing learnings, and contrib
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-strategies-for-exceptional-live-thumbnail-appeal/"><u>[Updated] 2024 Approved Expert Strategies for Exceptional Live Thumbnail Appeal</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok-for-2024/"><u>[Updated] Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-redirect-mac-images-to-custom-folder-for-2024/"><u>[Updated] Redirect Mac Images to Custom Folder for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smooth-transitions-in-photography-mastering-face-focused-motion-blur-in-picsart/"><u>[Updated] Smooth Transitions in Photography Mastering Face-Focused Motion Blur in Picsart</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-your-netgear-devices-easily-updated-default-passwords-models-july-edition/"><u>Access Your NETGEAR Devices Easily: Updated Default Passwords Models - July Edition</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-guide-to-cloud-migration-and-syncing-for-windows-servers/"><u>Effortless Guide to Cloud Migration and Syncing for Windows Servers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-fresh-surface-book-2-drivers-at-your-fingertips/"><u>Effortless Installation: Fresh Surface Book 2 Drivers at Your Fingertips!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-significance-of-microsofts-monthly-patch-day-patch-tuesday/"><u>Exploring the Significance of Microsoft's Monthly Patch Day - 'Patch Tuesday'</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/mastering-voice-capture-on-a-windows-11-pc/"><u>Mastering Voice Capture on a Windows 11 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-lgbtq-friendly-series-to-binge-on-netflix-in-july-2024/"><u>The Ultimate List of LGBTQ-Friendly Series to Binge on Netflix in July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-resolving-xlivedll-file-not-detected-issues-on-your-pc/"><u>Troubleshooting Guide: Resolving xlive.dll File Not Detected Issues on Your PC 🛠️</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-dts-play-fi-the-basics-explained/"><u>Understanding DTS Play-Fi: The Basics Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-users-handbook-turning-off-the-sticky-key-functionality/"><u>Windows Users' Handbook: Turning Off the Sticky Key Functionality</u></a></li>
+</ul></div>
+

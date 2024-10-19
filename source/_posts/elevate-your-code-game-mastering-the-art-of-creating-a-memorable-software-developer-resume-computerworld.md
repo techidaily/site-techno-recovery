@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Code Game: Mastering the Art of Creating a Memorable Software Developer Resume | ComputerWorld"
-date: 2024-09-17 15:32:31
-updated: 2024-09-20 11:59:10
+date: 2024-10-17T01:47:56.402Z
+updated: 2024-10-18T18:45:03.775Z
 tags:
   - professional-development
 categories:
@@ -47,6 +47,13 @@ A software engineering resume should include the following components:
 * Skills
 * Projects
 * Education
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Header
 
@@ -106,6 +113,19 @@ For our hypothetical Amazon position, the list of your technical skills could in
 
 Avoid listing soft skills. A bulleted list doesn't have space for the context you'll need to prove you have an abstract skill like "self-starter," and an employer is unlikely to trust your self-assessment without that context. Save people skills for your cover letter instead.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Projects
 
 Now that your resume has grabbed the hiring manager's attention, your projects section should showcase your passion for software engineering and include projects most applicable to the position you want. Include one-line descriptions of a few projects and link to your portfolio for more details.
@@ -127,6 +147,13 @@ You can also include internships you completed while in school and any software 
 If you have the space and additional sections will add depth to your resume, consider including the following.
 
 **Certifications**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -180,6 +207,13 @@ Instead of listing 20 different skills that you might have picked up over time, 
 
 VS: I will want to set up an interview with a candidate when they're describing their prior experience and the impact or complexity is absolutely unambiguous. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### This article was reviewed by Sierra Gawlowski, PE
 
 [Sierra Gawlowski](https://www.linkedin.com/in/sierra-gawlowski/), PE, earned her BS in civil engineering and is a licensed professional engineer in the state of Washington. She has worked for a private engineering consulting firm as well as for public agencies. Sierra enjoys mentoring engineering students and junior staff. She also leads a project team for Engineers Without Borders and currently sits on the board of directors for Kilowatts for Humanity.
@@ -212,11 +246,30 @@ _Last reviewed May 23, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/"><u>[Updated] 2024 Approved Navigating Noise-Free Networks Secrets for Silencing Disruptions on GoMeet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unveiling-the-secrets-of-av1-codec-mastery/"><u>[Updated] In 2024, Unveiling the Secrets of AV1 Codec Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-guide-to-online-image-editing-and-cropping/"><u>2024 Approved The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-parents-guide-to-fun-interactive-web-games-perfect-for-children/"><u>A Parent's Guide to Fun, Interactive Web Games Perfect for Children</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-your-macs-dns-history-a-comprehensive-how-to-tutorial/"><u>Clear Your Mac's DNS History: A Comprehensive How-To Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/latest-comprehensive-guide-on-linksys-default-passwords-as-of-july-2024/"><u>Latest Comprehensive Guide on Linksys Default Passwords as of July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-gaming-top-console-contenders-to-watch/"><u>Mastering Gaming: Top Console Contenders to Watch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-integration-of-microsoft-copilot-into-your-mac-workflow/"><u>Mastering the Integration of Microsoft Copilot Into Your Mac Workflow</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/properly-referencing-conversations-with-chatgpt-a-step-by-step-guide/"><u>Properly Referencing Conversations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-obtain-starfields-beta-test-invite/"><u>Strategies to Obtain Starfield's Beta Test Invite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-resolving-408-request-timeouts-on-your-website/"><u>The Complete Guide to Resolving 408 Request Timeouts on Your Website</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-go-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-overcoming-the-nsp4dll-is-absent-error/"><u>The Ultimate Solution for Overcoming the 'nsp4.dll Is Absent' Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi 14 Pro | Dr.fone</u></a></li>
+</ul></div>
+

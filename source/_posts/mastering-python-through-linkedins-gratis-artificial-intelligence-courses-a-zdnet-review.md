@@ -1,7 +1,7 @@
 ---
 title: Mastering Python Through LinkedIn's Gratis Artificial Intelligence Courses - A ZDNet Review
-date: 2024-09-18 23:55:16
-updated: 2024-09-20 10:48:28
+date: 2024-10-15T10:39:17.964Z
+updated: 2024-10-18T19:52:16.538Z
 tags:
   - professional-development
 categories:
@@ -55,6 +55,13 @@ I learned a lot in this course, especially about how to collect and prepare data
 
 There are many other helpful courses. Let's break them down into categories and look at some examples. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  General AI literacy 
 
 These two are courses that any professional can take to improve understanding of AI overall. 
@@ -77,6 +84,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AI courses for recruiting, finance, and support professionals
 
 AI has some very special capabilities that can be applied in a wide range of professional fields. I chose three -- recruiting, support, and finance -- to show you how you can learn AI in the context of your profession. 
@@ -92,6 +106,13 @@ This course provides a comprehensive exploration of generative AI in finance and
 [**ChatGPT Tips for the Help Desk**](https://www.linkedin.com/learning/chatgpt-tips-for-the-help-desk/welcome)   
 **4.5 stars (47 ratings)** 
 In this course, Pam Baker covers everything from using ChatGPT to help with strategic planning, prompt engineering, and agent scripting, to self-help repositories and problem resolution, as well as other topics of high interest to help desk managers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  For tech professionals and power users 
 
@@ -137,6 +158,13 @@ Adam Wilbert shows how to use high-performance Python libraries and the Machine 
 **4.6 stars (219 ratings)** 
 This course by Eduardo Corpeño teaches the inner workings of neural networks in Python, giving learners a chance to tap into the makings of algorithms and the steps needed to build and train their own neural networks from scratch using Python.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More free AI training 
 
 This article is the latest in my ongoing series of free AI training spotlights. Here are four more: 
@@ -175,11 +203,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-extracting-images-from-videos-in-windows-11-photos-for-2024/"><u>[New] Extracting Images From Videos in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photography-toolkit-a-comprehensive-app-analysis/"><u>[Updated] Photography Toolkit A Comprehensive App Analysis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-new-era-of-advertising-embracing-the-metaverse-for-2024/"><u>[Updated] The New Era of Advertising Embracing the Metaverse for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/netflixdvd/"><u>「パソコンからNetflix動画ダウンロードとDVDへの変換ガイド」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grateful-choices-comprehensive-otu-guide/"><u>2024 Approved Grateful Choices Comprehensive OTU Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-academic-performance-with-these-10-outstanding-apps-for-teens-in-high-school/"><u>Boost Academic Performance with These 10 Outstanding Apps for Teens in High School</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722860211264-buying-a-projector-top-5-things-you-should-know-first/"><u>Buying a Projector? Top 5 Things You Should Know First!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chat-with-power-optimizing-chatgpt-functionality-on-mac-computers/"><u>Chat with Power: Optimizing ChatGPT Functionality on Mac Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-professionals-way-of-removing-backgrounds/"><u>In 2024, The Professional's Way of Removing Backgrounds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-moko-travel-bluetooth-keyboard-compact-design-with-full-functionality-anytime-anywhere/"><u>Innovative MoKo Travel Bluetooth Keyboard: Compact Design with Full Functionality Anytime, Anywhere</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sequential-watch-of-the-matrix-films-a-comprehensive-guide/"><u>Sequential Watch of The Matrix Films: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-correcting-error-0x80004005/"><u>Step-by-Step Solutions for Correcting Error 0X80004005</u></a></li>
+</ul></div>
+

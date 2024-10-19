@@ -1,7 +1,7 @@
 ---
 title: "Empower Your Workforce: Unlock the Potential of Generative AI for Enhanced Productivity | Tips by ZDNET Experts"
-date: 2024-09-19 16:41:19
-updated: 2024-09-20 12:15:24
+date: 2024-10-13T10:20:25.466Z
+updated: 2024-10-19T09:06:25.069Z
 tags:
   - professional-development
 categories:
@@ -47,6 +47,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Bonomi explained how the three-stage training process helps people across Rakuten to upskill in AI.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 1: Foundations
 
 While it's easy for people to believe everyone is aware of generative AI, Bonomi says the reality is different. Many people need to be taught the basics.
@@ -63,6 +70,13 @@ Before the program started, 78% of employees felt uncomfortable using AI. Today,
 
 "But with AI, we're inverting that approach. Businesses will be built for growth and sustainability, and we must think about what that shift means and how tasks will change."
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 2: Certifications
 
 With the foundations to help people understand AI, some employees are building on this platform and moving to stage two.
@@ -77,6 +91,13 @@ She then ran one-hour labs with ELB to hone staff knowledge.
 
 The workshops and labs are bolstered through certification: "The second level is about training and developing the skills you need to use AI tools. We're establishing certifications to show people have acquired knowledge."
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 3: Tasks
 
 Bonomi said she expects people to start entering stage three this year. At this final level, the people who have been trained and certified will move on to task-specific use cases.
@@ -90,6 +111,13 @@ Bonomi said she expects people to start entering stage three this year. At this 
 Bonomi said it's at this third level that Rakuten will expose and explore potential role changes due to the introduction of AI.
 
 "This stage is all about saying, 'OK, now you know how to use ChatGPT and leverage it. How will you start embedding the technology into the organization and your role?' At that point, we'll work with HR reps to help us with the process."
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Taking AI to the next level
 
@@ -134,11 +162,33 @@ Her advice for other business leaders who want to boost their company's AI skill
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-undo-macos-sierras-os-x-transition/"><u>[Updated] 2024 Approved How to Undo MacOS Sierra's OS X Transition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-flight-finesse-and-colorful-charm-bebop-2s-parrot-showcase/"><u>[Updated] Flight Finesse and Colorful Charm – Bebop 2’S Parrot Showcase</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1-comprehensive-guide-to-successful-digital-change-free-downloadable-blueprint/"><u>1. Comprehensive Guide to Successful Digital Change: Free Downloadable Blueprint</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/30-groundbre-writers-making-metaverse-memes-thrive/"><u>30 Groundbre Writers Making Metaverse Memes Thrive</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-showcases-artificial-intelligence-insights-at-the-2018-aiim-event/"><u>ABBYY Showcases Artificial Intelligence Insights at the 2018 AIIM Event</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-video-conversion-tools-for-your-blackberry-mac-an-in-depth-guide/"><u>Best Video Conversion Tools for Your BlackBerry MAC: An In-Depth Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-twitter-presence-learn-how-to-schedule-tweets-like-a-pro/"><u>Boost Your Twitter Presence: Learn How to Schedule Tweets Like a Pro!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diving-into-apples-world-ipad-mini-vs-ipad-air-a-comprehensive-review/"><u>Diving Into Apple's World: IPad Mini vs iPad Air - A Comprehensive Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fixes-when-your-surface-pro-wont-connect-to-the-internet-via-wi-fi/"><u>Easy Fixes When Your Surface Pro Won't Connect to the Internet via Wi-Fi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-clean-up-and-remove-apps-on-your-apple-computer/"><u>Easy Ways to Clean Up and Remove Apps on Your Apple Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-tales-leading-academies-for-aspiring-narrators/"><u>In 2024, Mastering Tales Leading Academies for Aspiring Narrators</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-15-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 15 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-considerations-when-buying-a-high-performance-gaming-computer/"><u>Key Considerations When Buying a High-Performance Gaming Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/text-message-tracking-how-to-tell-if-someone-has-seen-what-you-sent/"><u>Text Message Tracking: How to Tell if Someone Has Seen What You Sent</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-most-effective-registry-repair-software-of-2024-unveiling-26-free-solutions-to-keep-your-pc-running-smoothly/"><u>The Most Effective Registry Repair Software of 2024: Unveiling 26 Free Solutions to Keep Your PC Running Smoothly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-12-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 12 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-vpn-error-code-800-on-client-and-server/"><u>Troubleshooting Steps: Resolving VPN Error Code 800 on Client & Server</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-how-to-easily-create-screenshots-on-your-computer/"><u>Ultimate Tutorial: How to Easily Create Screenshots on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-a-superior-data-restoration-program-exhaustive-insights-into-the-power-of-recuva/"><u>Unveiling a Superior Data Restoration Program: Exhaustive Insights Into the Power of Recuva</u></a></li>
+</ul></div>
+

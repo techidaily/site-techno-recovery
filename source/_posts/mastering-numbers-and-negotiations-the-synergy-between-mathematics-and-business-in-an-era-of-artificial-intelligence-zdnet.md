@@ -1,7 +1,7 @@
 ---
 title: "Mastering Numbers and Negotiations: The Synergy Between Mathematics and Business in an Era of Artificial Intelligence | ZDNET"
-date: 2024-09-17 12:23:56
-updated: 2024-09-20 10:24:19
+date: 2024-10-14T17:30:59.971Z
+updated: 2024-10-19T13:13:05.195Z
 tags:
   - professional-development
 categories:
@@ -86,11 +86,42 @@ Still, Wessel emphasizes, "AI is going to be magic. After all, as \[science fict
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-capturing-the-best-visuals-in-vlogs/"><u>[Updated] In 2024, Capturing the Best Visuals in Vlogs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategy-for-wiping-out-all-favorite-tracks-from-your-spotify-profile/"><u>Comprehensive Strategy for Wiping Out All Favorite Tracks From Your Spotify Profile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722872906829-configuring-your-echo-dot-for-first-use-a-quick-start-to-setup-mode/"><u>Configuring Your Echo Dot for First Use – A Quick Start to Setup Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-your-macbooks-serial-and-model-numbers-a-comprehensive-guide/"><u>Discovering Your MacBook's Serial and Model Numbers: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-launch-cmd-from-your-targeted-folders/"><u>Easy Ways to Launch CMD From Your Targeted Folders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-android-system-intelligence-work-exploring-advanced-tech-features/"><u>How Does Android System Intelligence Work? Exploring Advanced Tech Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-light-and-shadow-masterful-edits-that-transform-images/"><u>In 2024, Light & Shadow Masterful Edits That Transform Images</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-steps-for-accessing-google-meet-video-conferencing/"><u>In 2024, Steps for Accessing Google Meet Video Conferencing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wi-fi-hotspot-failures-comprehensive-guide-to-restore-connectivity/"><u>IPhone Wi-Fi Hotspot Failures? Comprehensive Guide to Restore Connectivity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leading-8-affordable-open-source-platforms-for-enterprise-calls-for-2024/"><u>Leading 8 Affordable Open-Source Platforms for Enterprise Calls for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-lameencdll-issues-in-audacity-the-ultimate-guide/"><u>Resolving lame_enc.dll Issues in Audacity: The Ultimate Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-turn-onoff-touch-typing-screen-options-in-microsofts-latest-os/"><u>Steps to Turn On/Off Touch Typing Screen Options in Microsoft's Latest OS</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-guide-to-enhancing-avi-files-with-audio-tracks-for-2024/"><u>The Guide to Enhancing AVI Files with Audio Tracks for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-lego-stop-motion-superstars-the-best-of-the-best/"><u>Updated In 2024, Lego Stop Motion Superstars The Best of the Best</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Build Your Dream Job in DevTech: Writing a Compelling S.E. Resume Guide"
-date: 2024-09-18 10:47:34
-updated: 2024-09-20 12:11:38
+date: 2024-10-18T03:30:41.679Z
+updated: 2024-10-19T01:58:23.376Z
 tags:
   - professional-development
 categories:
@@ -56,6 +56,13 @@ In addition to your name, email address, and phone number, include hyperlinks to
 
 The header doesn't just tell recruiters how to reach you, it emphasizes what you can do.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Summary/objective
 
 The summary/objective section sits just below the header, but consider writing it last. That way, it can capture the spirit of your resume and describe how your experience and skills will bring value to the job you want.
@@ -63,6 +70,13 @@ The summary/objective section sits just below the header, but consider writing i
 This section should consist of just one or two sentences and include a couple of the job description's most important keywords.
 
 Using the Amazon example, a strong summary/objective might say, "Skilled software engineer seeking a position at Amazon Financial Technology where I can grow my 5+ years of software development experience with Java, Python, and C#/C++." 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Work experience
 
@@ -90,6 +104,13 @@ The skills section of your software engineer resume should be concise and easy t
 
 For our hypothetical Amazon position, the list of your technical skills could include:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [Your ultimate guide to landing a job at a big tech company Want to work for a big tech company? Our guide walks through everything you need to know to land a job at the tech giants.  Read now](https://www.zdnet.com/article/big-tech-companies-job-guide/)
@@ -105,6 +126,13 @@ For our hypothetical Amazon position, the list of your technical skills could in
 * Object-oriented programming
 
 Avoid listing soft skills. A bulleted list doesn't have space for the context you'll need to prove you have an abstract skill like "self-starter," and an employer is unlikely to trust your self-assessment without that context. Save people skills for your cover letter instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Projects
 
@@ -212,11 +240,31 @@ _Last reviewed May 23, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-privacy-share-exclusive-youtube-clips-through-gmail-for-2024/"><u>[New] Elevating Privacy Share Exclusive YouTube Clips Through Gmail for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dynamic-font-movement-packs/"><u>[New] In 2024, Dynamic Font Movement Packs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-viral-visibility-vault-our-compreeher-guide-of-15-proven-methods-to-amass-attention-on-instagram-for-2024/"><u>[Updated] Viral Visibility Vault Our Compreeher Guide of 15 Proven Methods to Amass Attention on Instagram for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/movavi-mp4-to-flv/"><u>「Movaviで簡単な無料オンラインビデオコンバート – MP4 to FLV」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-new-era-awakens-with-ai-redefining-progress-in-a-digital-world/"><u>A New Era Awakens with AI: Redefining Progress in a Digital World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-unavailable-here-are-five-steps-to-confirm-its-operational/"><u>ChatGPT Unavailable? Here Are Five Steps to Confirm It's Operational</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-viewing-experience-finding-the-ideal-pixel-configuration-on-a-samsung-qled-tv/"><u>Enhance Your Viewing Experience: Finding the Ideal Pixel Configuration on a Samsung QLED TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-basics-what-does-output-impedance-mean/"><u>Exploring the Basics: What Does Output Impedance Mean?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-spark-20-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Spark 20 Is Unlocked</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-v30-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme V30 To Phone | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-mobile-platforms-how-the-ios-and-google-play-stores-stack-up/"><u>Navigating Mobile Platforms: How the IOS and Google Play Stores Stack Up</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-dell-tapping-functionality-windows-7/"><u>Optimize Dell Tapping Functionality (Windows 7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-reset-failure-on-windows-pc-step-by-step-guide/"><u>Resolving the 'Reset Failure on Windows PC': Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/secret-watchers-how-to-hide-youtube-playback-for-2024/"><u>Secret Watchers How to Hide YouTube Playback for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-a-guide-on-how-to-repair-msvcr71dll-file-not-found-issues/"><u>Solving the Mystery: A Guide on How to Repair 'Msvcr71.dll' File Not Found Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-creating-multi-pin-markers-on-google-maps/"><u>Step-by-Step Tutorial for Creating Multi-Pin Markers on Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-your-gaming-experience-by-merging-various-fortnite-accounts-together/"><u>Streamline Your Gaming Experience by Merging Various Fortnite Accounts Together</u></a></li>
+</ul></div>
+

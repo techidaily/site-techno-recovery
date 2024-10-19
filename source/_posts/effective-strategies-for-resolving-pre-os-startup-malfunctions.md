@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Resolving Pre-OS Startup Malfunctions
-date: 2024-10-07T11:48:49.129Z
-updated: 2024-10-13T10:33:11.464Z
+date: 2024-10-15T04:35:21.054Z
+updated: 2024-10-19T05:41:36.094Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies for Resolving Pre-OS Startup Malfunctions
@@ -27,6 +27,13 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
 
  You have two ways to download and install the WhatsApp desktop app for the Mac. You can get the app from the[Mac App Store](https://www.lifewire.com/using-mac-app-store-4171845) or the WhatsApp website. Both app versions are the same, so you can use whichever method is best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Download WhatsApp From the App Store
 
  To get[WhatsApp from Apple](https://apps.apple.com/us/app/whatsapp-messenger/id310633997) , open the App Store on your Mac and follow these steps.  
@@ -38,13 +45,6 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
 ![The Get button for WhatsApp Messenger highlighted in the Mac App Store.](https://www.lifewire.com/thmb/WVrWpTG5voNDj-v1zufGTUS33go=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-UseWhatsApponaMac-annotated-8e34f1af547643799187d4d030286cf9.jpg)
 4. Enter your password, or use Touch/Face ID, to authorize the download if prompted.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Download WhatsApp From the Website
 
  If you’re browsing the internet or using WhatsApp’s web version, you can download[WhatsApp for the Mac](https://www.whatsapp.com/download) from the website.
@@ -55,15 +55,16 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
 3. Open the**Downloads** folder for the web browser you’re using and select the WhatsApp installer file.  
 ![The downloaded file for WhatsApp highlighted in the Safari Downloads section of Safari.](https://www.lifewire.com/thmb/KGV29Z4y7mXFgXvoecpTGSlFUNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-UseWhatsApponaMac-ANNOTATED-3c52c7f820934c1faf0d7d9c0b900856.jpg)
 4. When the installer opens, drag the**WhatsApp** icon to the**Applications** folder icon.  
-![Window to drag WhatsApp to the Applications folder](https://www.lifewire.com/thmb/4OA6eBJFWdwnRFDtmhBs0jMuQ8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Move-WhatsApp-Applications-Folder-Mac-8424741-09a2410211e74966a44313b49e72582a.jpg)
-5. Close the installer window if necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Window to drag WhatsApp to the Applications folder](https://www.lifewire.com/thmb/4OA6eBJFWdwnRFDtmhBs0jMuQ8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Move-WhatsApp-Applications-Folder-Mac-8424741-09a2410211e74966a44313b49e72582a.jpg)
+5. Close the installer window if necessary.
 
 ## How to Set Up WhatsApp on Mac
 
@@ -76,34 +77,51 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
 4. Open the**Applications** folder on your Mac and select**WhatsApp** to launch the app.  
 ![WhatsApp app highlighted in the Mac's Applications folder.](https://www.lifewire.com/thmb/VhpS9c3Qw6durOje6aLOIqj8LBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C4-UseWhatsApponaMac-annotated-120d4b37bd114436b08d864c2cbaf99a.jpg)
 5. Click**Get Started** on the WhatsApp welcome screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Get Started button in WhatsApp on Mac](https://www.lifewire.com/thmb/AMTQ4PTTb4xVp4vGxV0wT_ESEL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Get-Started-Mac-8424741-7d6071ea62a141789730bb4687e2a878.jpg)
 6. You’ll see a QR code along with instructions to capture the code.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![QR code in WhatsApp on Mac.](https://www.lifewire.com/thmb/jesVFrWj80lQIN9cVQLqLFhquUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C6-UseWhatsApponaMac-4e2a152ae0f64281bff535b781e9c752.jpeg)
 7. Use your mobile device to capture the QR code in the WhatsApp window on your Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. You should see a brief “logging in” message and your Mac display as a linked device on your mobile phone. You can then close WhatsApp on your mobile device.  
 ![The steps of logging into a WhatsApp account on an iPhone.](https://www.lifewire.com/thmb/dZY_CI649d0REHdA9WXRIY4_17w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C8-UseWhatsApponaMac-annotated-a7b98253e694476392cc859e192eb876.jpeg)
 9. Choose how you would like to see notifications for WhatsApp on your Mac by enabling the toggles and selecting**Done** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Toggles to enable WhatsApp notifications on Mac](https://www.lifewire.com/thmb/uGdXRRVovDGesk26M4MQADNoRME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Enable-Notifications-Mac-8424741-8a05e64f8da244a6ae9959dad9251b05.jpg)  
  You’ll then see the main WhatsApp screen where you can start communicating with your contacts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use WhatsApp on Mac
 
  To control communications, perform actions, and navigate[WhatsApp desktop](https://www.lifewire.com/use-whatsapp-on-laptop-computer-4051534) on macOS, you can use the app window, Mac menu bar, or a combination of both.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the WhatsApp Tabs
 
@@ -118,23 +136,9 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
 
 ![WhatsApp tabs and Settings on Mac](https://www.lifewire.com/thmb/ThxEFDgMmx5FOH0YZn1RWm12nIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Tabs-Settings-Mac-8424741-4e241ee7436b49b780ee38a0511cc7a3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use WhatsApp With the Menu Bar
 
  In keeping with other[apps you use on macOS](https://www.lifewire.com/best-mac-apps-4589256) , you can navigate and perform actions in WhatsApp using the Mac menu bar.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Note
 
@@ -151,10 +155,10 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
 ![WhatsApp and the View menu open in the Mac menu bar](https://www.lifewire.com/thmb/32L8TknP583OZZx3SxlO1-bNfuw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-View-Menu-Bar-Mac-8424741-c82eb47bbe7b47178898f985b4711a68.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With WhatsApp desktop for Mac, you can keep up with chats and calls without searching for your mobile phone.  
@@ -188,24 +192,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-live-photos-to-videos-a-cinematic-experience/"><u>[Updated] Live Photos to Videos A Cinematic Experience</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-transforming-standard-tweets-into-hd-spectacles/"><u>[Updated] Transforming Standard Tweets Into HD Spectacles</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-effortless-video-downloads-at-fingertips-select-from-these-top-chrome-plugins/"><u>2024 Approved Effortless Video Downloads at Fingertips Select From These Top Chrome Plugins</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-pova-6-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Pova 6 Pro 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-infinix-hot-30i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Hot 30i Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-pcs-gameplay-in-windows-11-top-tips-and-tricks/"><u>Boost Your PC's Gameplay in Windows 11 – Top Tips and Tricks!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comment-proteger-efficacement-votre-surface-de-stockage-avec-les-deux-meilleurs-moyens-sur-onedrive/"><u>Comment Protéger Efficacement Votre Surface De Stockage Avec Les Deux Meilleurs Moyens Sur OneDrive</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cpu-benchmark-test-your-cpu-performance-quickly-and-easily/"><u>CPU Benchmark – Test Your CPU Performance Quickly & Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-correcting-problems-with-windows-pc-maintenance-application/"><u>Diagnosing and Correcting Problems with Windows PC Maintenance Application</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/download-the-powerful-hevc-codec-at-no-cost-for-ultra-hd-video-support/"><u>Download the Powerful HEVC Codec at No Cost for Ultra HD Video Support</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easily-install-the-latest-asus-drivers-on-your-pc-with-windows-10-or-7/"><u>Easily Install the Latest ASUS Drivers on Your PC with Windows 10 or 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ensuring-device-compatibility-a-how-to-for-backing-up-drivers-in-windows-1110/"><u>Ensuring Device Compatibility: A How-To for Backing Up Drivers in Windows 11/10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ensuring-optimal-performance-a-how-to-for-driver-updates-on-windows-operating-systems/"><u>Ensuring Optimal Performance: A How-To for Driver Updates on Windows Operating Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-and-configure-your-pcs-dashboard-windows-10-instructions/"><u>Find and Configure Your PC's Dashboard - Windows 10 Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/five-fundamental-internet-browsing-security-tips-for-novice-users/"><u>Five Fundamental Internet Browsing Security Tips for Novice Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/for-laminar-flow-in-pipes-the-pressure-drop-can-be-calculated-using-the-hagen-poiseuille-equation-dpl-32mvrd2/"><u>For Laminar Flow in Pipes, the Pressure Drop Can Be Calculated Using the Hagen-Poiseuille Equation: ΔP/L = 32μV/(ρD^2)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/improve-your-homes-digital-television-signal-using-indoor-antennas/"><u>Improve Your Home's Digital Television Signal Using Indoor Antennas</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-instructions-for-activating-high-dynamic-range-in-windows-11/"><u>In 2024, Step-by-Step Instructions for Activating High Dynamic Range in Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-11-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 11 i Do? Get Answers here</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-riseabovemycam-cameras-of-tomorrow-for-2024/"><u>[New] RiseAboveMyCam Cameras of Tomorrow for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-essence-of-intelligence-in-moto-z2-reviewed/"><u>[Updated] The Essence of Intelligence in Moto Z2 Reviewed</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-troubleshooting-with-a-quick-restart-on-any-version-of-ipad/"><u>Easy Troubleshooting with a Quick Restart on Any Version of iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-performance-amd-radeon-driver-update-to-version-2410-explained/"><u>Enhance Performance: AMD Radeon Driver Update to Version 24.10 Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-mobile-editing-techniques-how-to-utilize-iphones-photo-cutout-in-ios-16/"><u>Enhance Your Mobile Editing Techniques: How to Utilize iPhone's Photo Cutout in iOS 16</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-a15-4g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy A15 4G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-sonicarchive-pro-downloads-and-analysis/"><u>In 2024, SonicArchive Pro Downloads & Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-vertical-computer-mice-of-2024-reviewed-for-maximum-productivity/"><u>Leading Vertical Computer Mice of 2024 Reviewed for Maximum Productivity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-uninstalling-check-out-our-picks-for-free-tools-the-first-15/"><u>Master the Art of Uninstalling: Check Out Our Picks for Free Tools – The First 15!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-7-video-software-for-mac/"><u>Prime 7 Video Software for Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roku-tv-tips-and-hacks-for-operating-without-a-physical-remote-control/"><u>Roku TV Tips & Hacks for Operating Without a Physical Remote Control</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/toms-tech-insights-in-depth-hardware-reviews/"><u>Tom's Tech Insights: In-Depth Hardware Reviews</u></a></li>
 </ul></div>
 

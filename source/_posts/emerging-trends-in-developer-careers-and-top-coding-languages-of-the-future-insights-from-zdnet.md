@@ -1,7 +1,7 @@
 ---
 title: Emerging Trends in Developer Careers & Top Coding Languages of the Future - Insights From ZDNet
-date: 2024-09-17 17:22:19
-updated: 2024-09-20 11:36:28
+date: 2024-10-12T23:43:29.435Z
+updated: 2024-10-19T08:26:03.141Z
 tags:
   - professional-development
 categories:
@@ -26,6 +26,13 @@ The role of the software developer is as central to an organization's success no
 Running technology in a business has become a business in itself. As commerce goes digital and consumers spend more time working, shopping and managing their lives from home**,** companies are spending billions of dollars to showcase their technology and maintain a lead on competitors. As a result, software creators find themselves in enormous demand.
 
 This _ZDNet Special Feature_ series is both an examination of the role of developers and the work they do, as well as an exploration into the trends that are shaping the software industry, and with it, the direction of travel for businesses in the coming months and years. Our ambition is to cast a light on the value of software developers in the modern digital workplace, as well as investigate the skills, technologies and programming languages that are driving market demand.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Programming languages 
 
@@ -65,6 +72,13 @@ Yet demand for data scientists currently outstrips supply. [A survey of nearly 1
 
 With demand for data scientists and their unique skillsets rising, it stands to reason that knowledge of highly specialist programming languages used within these fields is associated with higher salaries. The same goes for Rust: this multi-paradigm programming language has become a favourite amongst developers since its conception in 2010, but isn't yet widely used in commercial settings. O'Reilly notes that, despite its lower market demand, "employers interpret knowledge of Rust and Go as a sign of competence and willingness to learn, which increases candidates' value."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Web devs
 
 While data scientists and machine-learning specialists might be the hot new object of recruiters' desires, there can be no understating the ongoing importance of traditional mobile and web app developers.
@@ -90,6 +104,13 @@ Markup and query languages were also high up in the list, with HTML/CSS in secon
 > _"Programming skills such as Ruby, JavaScript and Python might not command quite the same salary numbers as certain cloud- and data-related platforms and tools, but they're equally vital to the operations of businesses large and small, whether it involves maintaining legacy code or building new apps and services. Learning these languages can translate into a stream of steady (and varied) work, although technologists must take care to keep their knowledge of these individual languages (like any skill) as current as possible." – Dice Tech Salary Report 2021_
 
 Businesses' appetite for digital front doors and customer-facing applications has only been increased by accelerated cloud adoption prompted by COVID-19\. With JavaScript still the go-to language for web development, demand for these programming languages won't be going away any time soon. That said, Python is hot on their tails. Python traded places with SQL to become the third most popular language in Stack Overflow's survey, whereas CodinGame/CoderPad's survey suggests that JavaScript, Java and Python will be the top three languages recruiters will look for in 2022.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The rise of DevOps
 
@@ -118,6 +139,13 @@ Developers themselves are wise to the opportunities that DevOps offers: alongsid
 [DevOps: What is it, and how can it help your business? Inspired by the world of just-in-time manufacturing and widely practised in 'greenfield' IT organisations such as web-scale businesses and startups, DevOps is now making inroads into the 'brownfield' enterprise market.  Read now](https://www.zdnet.com/article/devops-what-is-it-and-how-can-it-help-your-business/)
 
 "DevOps encompasses a set of skills and practices (version control, continuous integration, containers/Docker, cloud monitoring and analytics, deployment automation, network protocols), but there is a shortage of developers with this suite of skills to meet the demand, which has exploded in the past 18 months."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What comes next?
 
@@ -152,11 +180,28 @@ Whatever the case, the role of the developer continues to evolve. New business n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-tips-for-designing-and-updating-igtv-thumbnails/"><u>[New] In 2024, Tips for Designing & Updating IGTV Thumbnails</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamline-metadata-ranking-of-7-leading-online-youtube-tag-extractors/"><u>[Updated] Streamline Metadata Ranking of 7 Leading Online Youtube Tag Extractors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-list-makeup-tutorials-who-to-watch/"><u>2024 Approved A-List Makeup Tutorials Who to Watch ?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-20-anime-openers-anthems-in-order/"><u>2024 Approved Best 20 Anime Openers' Anthems in Order</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-on-galaxy-s24-ultra-convert-mts-for-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Galaxy S24 Ultra-convert MTS for Galaxy S24 Ultra</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-best-free-languages-courses-our-picks/"><u>Explore the Best Free Languages Courses: Our Picks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-12-pro-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-tools-needed-step-by-step-guide-to-accessing-your-iphones-sim-tray/"><u>No Tools Needed: Step-by-Step Guide to Accessing Your iPhone's SIM Tray</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/now-and-next-how-todays-drones-shape-tomorrows-world/"><u>Now & Next How Today's Drones Shape Tomorrow's World</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secrecy-online-mastering-incognito-features-in-web-browsers-such-as-chrome-edge-firefox-safari-and-opera/"><u>Secrecy Online: Mastering Incognito Features in Web Browsers Such as Chrome, Edge, FireFox, Safari & Opera</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackling-loud-computer-fans-expert-tips-for-smooth-silent-operation/"><u>Tackling Loud Computer Fans: Expert Tips for Smooth, Silent Operation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-video-editors-for-youtube-on-the-houseno-cost-included-for-2024/"><u>Top Video Editors for YouTube on the House—No Cost Included for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/where-to-catch-live-sports-action-for-zero-cost-top-picks/"><u>Where to Catch Live Sports Action for Zero Cost: Top Picks</u></a></li>
+</ul></div>
+

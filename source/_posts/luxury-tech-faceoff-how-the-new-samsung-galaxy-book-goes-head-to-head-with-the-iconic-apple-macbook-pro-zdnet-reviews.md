@@ -1,7 +1,7 @@
 ---
 title: "Luxury Tech Faceoff: How the New Samsung Galaxy Book Goes Head-to-Head with the Iconic Apple MacBook Pro | ZDNET Reviews"
-date: 2024-10-09T18:01:22.288Z
-updated: 2024-10-12T23:17:33.282Z
+date: 2024-10-15T03:14:40.971Z
+updated: 2024-10-19T02:41:50.208Z
 tags:
   - apple
 categories:
@@ -51,13 +51,6 @@ Samsung
 
 ###  1\. You're committed to Samsung's ecosystem
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Samsung Unpacked
 
 [Meet the new Galaxy S23 and Book 3 Ultra All the latest innovations from Samsung, covered 's product experts.  Read now](https://www.zdnet.com/collection/samsung-unpacked/)
@@ -68,16 +61,16 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You expect to do any gaming
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want maximum software compatibility
 
@@ -100,10 +93,10 @@ Apple
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### See also
@@ -125,6 +118,19 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  3\. You need a ton of RAM or storage
 
 The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra with are 32GB and 1TB, respectively. While these are plenty for the average user, a content creator might fill that storage quickly with 8K video, while the RAM limitation might strain processing times within their workflow. The MacBook Pro, however, can be configured with as much as 96GB of RAM and 8TB of storage. That's triple the memory and eight times the storage of its competitor. Of course, such a maxed-out beast would be expensive, but the option remains for the most demanding laptop users who actually need all of that memory and space. 
@@ -134,10 +140,10 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -193,19 +199,24 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-developing-dynamic-instagram-highlights/"><u>[New] In 2024, Developing Dynamic Instagram Highlights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-rising-stars-guide-essential-hashtags-to-increase-your-insta-presence/"><u>[New] In 2024, Rising Stars Guide Essential Hashtags to Increase Your Insta Presence</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-mobile-live-streaming-on-yt-without-thousands-in-followers/"><u>2024 Approved Mobile Live Streaming on YT Without Thousands in Followers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-passionate-communicator-evaluation-revision-viii/"><u>2024 Approved Passionate Communicator Evaluation - Revision VIII</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-meizu-21-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Meizu 21 Pro Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-itel-a70-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Itel A70</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-6-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 6 Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-itel-p55-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Itel P55 Data? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leading-audiobook-drm-bypass-solutions-for-202n4/"><u>Leading Audiobook DRM Bypass Solutions for 202N4</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leading-pdfepub-converters-reviewed-find-the-perfect-book-formatting-tool-today/"><u>Leading PDF/EPUB Converters Reviewed: Find the Perfect Book Formatting Tool Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-ebook-transformation-a-step-by-step-tutorial-with-calibre-tools/"><u>Mastering eBook Transformation: A Step-by-Step Tutorial with Calibre Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-mobile-kindle-reading-a-comprehensive-tutorial-for-android-users/"><u>Mastering Mobile Kindle Reading: A Comprehensive Tutorial for Android Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-website-visibility-strategies-for-effective-hyperlinking-and-interactive-comment-sections/"><u>Maximizing Website Visibility: Strategies for Effective Hyperlinking and Interactive Comment Sections</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-amassing-audiences-and-assets-launching-a-livestream-business/"><u>[New] 2024 Approved Amassing Audiences and Assets Launching a Livestream Business</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expedited-pitch-modification-tools-repository/"><u>[New] Expedited Pitch Modification Tools Repository</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-civi-3-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Civi 3</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-high-quality-low-speed-video-gear/"><u>2024 Approved Top 5 High-Quality Low-Speed Video Gear</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-lgbtqplus-content-available-on-netflix-in-july-2024/"><u>Discover the Best LGBTQ+ Content Available on Netflix in July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminating-the-error-message-of-coredll-not-detected/"><u>Eliminating the Error Message of 'Core.dll Not Detected'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expertly-curated-selection-of-best-visual-call-logging-apps-what-to-look-for/"><u>Expertly Curated Selection of Best Visual Call Logging Apps - What to Look For</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-d3dx924dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_24.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-downloading-standardized-youtube-images-with-ease-and-precision/"><u>In 2024, Downloading Standardized Youtube Images with Ease & Precision</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-new-m3-macbook-pro-detailed-coverage-of-launch-date-cost-estimates-tech-specs-and-more-exclusive-content/"><u>Inside the New M3 MacBook Pro: Detailed Coverage of Launch Date, Cost Estimates, Tech Specs, and More Exclusive Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lg-tech-assist-how-to-enjoy-espnplus-channels-via-your-smart-tv/"><u>LG Tech Assist: How to Enjoy ESPN+ Channels via Your Smart TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-like-a-pro-mastering-the-invisible-guide-path-tool-on-your-computer-system/"><u>Navigate Like a Pro: Mastering The Invisible Guide Path Tool on Your Computer System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rookie-riches-profitable-sites-for-beginnere-buyouts-for-2024/"><u>Rookie Riches Profitable Sites for Beginner'e Buyouts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-hoe-video-gaming-experiences-mastering-both-online-and-offline-adventures/"><u>Top 10 Hoe Video Gaming Experiences: Mastering Both Online and Offline Adventures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-msstdfmtdll-missing-error-on-your-computer/"><u>Troubleshooting The Msstdfmt.dll Missing Error on Your Computer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-to-advanced-steelseries-drivers-for-optimal-keyboard-functionality/"><u>Update to Advanced SteelSeries Drivers for Optimal Keyboard Functionality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722959625026-updated-drivers-available-now-enhance-performance-of-your-gtx-1ebx-1660super-with-fresh-software/"><u>Updated Drivers Available Now - Enhance Performance of Your GTX 1Ebx-1660SUPER with Fresh Software!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/waterproof-capabilities-of-the-latest-iphone-15-pro-max-revealed/"><u>Waterproof Capabilities of the Latest iPhone 15 Pro Max Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-new-in-macos-15-sequoia-unveiling-the-latest-release-dates-and-innovative-features/"><u>What's New in macOS 15 'Sequoia': Unveiling the Latest Release Dates & Innovative Features!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips & Avoidances in Crafting an Impressive Cybersecurity CV: Insights From ZDNet"
-date: 2024-09-19 19:48:40
-updated: 2024-09-20 11:21:25
+date: 2024-10-16T00:12:30.735Z
+updated: 2024-10-19T11:51:33.323Z
 tags:
   - professional-development
 categories:
@@ -47,6 +47,13 @@ Zoë Morris:With tech being even more competitive than ever, and cybersecurity i
 
 Similarly, certifications can often be the decision-maker for whether many employers offer a candidate an interview or not. They show commitment and a willingness to learn, as well as an industry-standard level of knowledge, so they're certainly worth doing and documenting on your resume. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to format your cybersecurity resume
 
 Format your resume according to industry expectations. Though you can certainly use a little color, don't get flashy with unusual colors, graphics, and fonts. 
@@ -65,6 +72,13 @@ You'll need to include the following components on any cybersecurity resume:
 * Skills
 * Projects
 * Education
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Header
 
@@ -132,6 +146,13 @@ Additionally, naming clients or accidentally disclosing private information when
 
 ## Education
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [Discover the best online cybersecurity degrees Cybersecurity careers can offer six-figure salaries and promising job growth. Online cybersecurity degree programs help professionals launch careers.  Read now](https://www.zdnet.com/article/best-online-cybersecurity-degrees/)
@@ -141,6 +162,19 @@ The education section of your resume should mention every school, degree, and ce
 Once you've graduated college and have a couple of years of professional experience under your belt, you don't need to mention your GPA. The same goes for academic accomplishments of note such as club memberships, honor roll, etc. Those are really only relevant for recent graduates.
 
 Make sure to mention [cybersecurity training](https://www.zdnet.com/education/computers-tech/cybersecurity-training-options/) you've had, such as [coding bootcamps](https://www.zdnet.com/education/bootcamps/best-coding-bootcamps-guide/) and continuing education.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other relevant sections you can include
 
@@ -175,6 +209,13 @@ If there's room, mention any [professional organizations](https://www.zdnet.com/
 **Courses you've taken**
 
 You can also mention any courses you've taken, such as online courses or continuing education courses. An example might be [MOOCs](https://www.zdnet.com/education/moocs-what-are-they-and-why-are-they-so-popular/) that show your dedication to learning but don't award credit or certification.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### About John Boyle
 
@@ -224,11 +265,23 @@ _Last reviewed April 28, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-top-quality-video-uplift-immaculate-resolution/"><u>[Updated] Top Quality Video Uplift Immaculate Resolution</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-why-av1-improving-streams-and-videos-on-youtube/"><u>[Updated] Why AV1? – Improving Streams and Videos on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-silent-calls-a-comprehensive-guide-for-iphones/"><u>Diagnosing and Repairing Silent Calls: A Comprehensive Guide for iPhones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-tech-fixes-for-your-fire-sticks-unresponsive-remote-control-woes/"><u>DIY Tech Fixes for Your Fire Stick's Unresponsive Remote Control Woes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-correct-pixel-damage-causing-image-deformation-on-monitors/"><u>Effective Ways to Correct Pixel Damage Causing Image Deformation on Monitors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-methods-to-update-drivers-in-various-windows/"><u>Efficient Methods to Update Drivers in Various Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-resolve-steam-errors-in-windows-11-quickly/"><u>How to Resolve Steam Errors in Windows 11 Quickly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/trouble-logging-into-playstation-network-system-outage-or-user-setup-woes/"><u>Trouble Logging Into PlayStation Network - System Outage or User Setup Woes?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-11-enhancing-sound-drivers-performance/"><u>Win 11: Enhancing Sound Drivers' Performance</u></a></li>
+</ul></div>
+

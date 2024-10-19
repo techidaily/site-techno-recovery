@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Era of Salary Openness: How It Will Affect You in The Workplace | Expert Advice From ZDNet"
-date: 2024-09-18 15:47:47
-updated: 2024-09-20 12:25:31
+date: 2024-10-13T23:18:37.521Z
+updated: 2024-10-18T23:16:18.172Z
 tags:
   - professional-development
 categories:
@@ -28,6 +28,19 @@ Such legislation and conversations about salary transparency can encourage more 
 According to a study of 2,000 US workers by [Adzuna](https://www.adzuna.com/), 54% of job applicants declined a job offer after learning about the position's salary. The same study says that 33% of job applicants would not attend an interview before knowing how much the job would pay.
 
 So, why do companies keep such vital information to themselves? And how can they be more honest with applicants about their compensational intentions?
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Developer
 
@@ -56,6 +69,13 @@ Salary transparency saves applicants time applying to jobs they won't accept onc
 
 "It's a real problem, where candidates apply, interview, only for them to find out the job isn't financially viable for them," he says. "Transparency helps candidates avoid unnecessary applications, which in turn avoids wasted travel time, childcare, and all other costs attributed to searching for your roles."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Salary transparency as a means to achieving equality
 
 Salary transparency has always been a touchy subject, grouped with politics and religion as off-limits for water cooler conversations. It's something older generations say they wouldn't discuss with their coworkers, but the tide is turning on this narrative.
@@ -81,6 +101,13 @@ But to make real change, companies should broaden their definition of transparen
 Lenaghan suggests a total-rewards perspective includes all perks, values, and cultural aspects a business can offer a potential employee. These rewards include flexible work hours or paid childcare, and they can be helpful to mention for companies that can't compete monetarily with larger firms.
 
 "Small businesses or nonprofits may not be able to compete with Fortune 500 companies in terms of salary, but when you expand total rewards, and you look at all the other unique characteristics and benefits of their organizational culture, in fact, they can compete quite well," she says.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Be crystal clear. Your employees will appreciate it
 
@@ -121,11 +148,33 @@ If a new employee in an entry-level position is making as much as a tenured, mid
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-infusing-your-reels-with-soundscape-elements/"><u>[New] In 2024, Infusing Your Reels with Soundscape Elements</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mooth-transition-of-short-videos-to-youtube-device-guide-for-2024/"><u>[New] Smooth Transition of Short Videos to YouTube - Device Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-aerial-artistry-mastering-the-craft-of-drone-video-editing/"><u>[Updated] Aerial Artistry Mastering the Craft of Drone Video Editing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficient-video-editing-learn-the-ultimate-online-ways-to-shorten-and-slice-on-vimeo-for-2024/"><u>[Updated] Efficient Video Editing Learn the Ultimate Online Ways to Shorten & Slice on Vimeo for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-amplifi-hd-wi-fi-networking-solution-analysis-eliminating-wireless-black-spots/"><u>Comprehensive Amplifi HD Wi-Fi Networking Solution Analysis: Eliminating Wireless Black Spots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-the-process-what-does-it-mean-to-assign-a-tag/"><u>Demystifying the Process: What Does It Mean to Assign a Tag?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diversifying-online-content-creating-and-maintaining-more-than-one-channel-on-youtube/"><u>Diversifying Online Content: Creating And Maintaining More Than One Channel On YouTube.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-on-how-to-hook-up-nintendo-switch-to-your-hdtv-setup/"><u>Easy Instructions on How to Hook Up Nintendo Switch to Your HDTV Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-your-rides-sound-dilemma-top-causes-of-inoperative-car-speaker-issues/"><u>Fixing Your Ride's Sound Dilemma: Top Causes of Inoperative Car Speaker Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-bring-life-back-to-your-dormant-roku-device/"><u>How To Bring Life Back to Your Dormant Roku Device</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-successfully-overcome-windows-11-fails-to-install-issues-a-comprehensive-guide/"><u>How to Successfully Overcome 'Windows 11 Fails to Install' Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-an-examination-of-photoshops-anti-shake-capabilities/"><u>In 2024, An Examination of Photoshop’s Anti-Shake Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-explore-cost-free-cross-platform-virtual-communication-software/"><u>In 2024, Explore Cost-Free, Cross-Platform Virtual Communication Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-insights-crafting-tall-footage-in-final-cut-pro-x/"><u>In 2024, Instagram Insights Crafting Tall Footage in Final Cut Pro X</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-edition-simple-solutions-for-opening-and-reading-rar-documents/"><u>Mac Edition: Simple Solutions for Opening and Reading RAR Documents</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reveal-hidden-opinions-fixes-for-invisible-youtube-comments-problem/"><u>Reveal Hidden Opinions: Fixes for Invisible YouTube Comments Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-repairing-the-stop-0x00000078-error/"><u>Solving the Puzzle: A Step-by-Step Guide to Repairing the STOP 0X00000078 Error</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tubebuddy-the-key-to-youtube-dominance/"><u>TubeBuddy The Key to YouTube Dominance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-method-to-retrieve-deleted-iphone-notifications/"><u>Unveiling the Method to Retrieve Deleted iPhone Notifications</u></a></li>
+</ul></div>
+

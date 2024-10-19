@@ -1,7 +1,7 @@
 ---
 title: Exploring Top 5 Innovations in iOS 18 Showcased at WWDC 2024, with a Spotlight on Emerging AI Capabilities – Insights From ZDNet
-date: 2024-10-09T04:45:38.657Z
-updated: 2024-10-13T07:12:37.971Z
+date: 2024-10-11T23:53:36.653Z
+updated: 2024-10-19T08:36:09.922Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,10 +64,10 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -79,10 +79,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -92,10 +92,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -136,24 +136,24 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-simplified-techniques-for-capturing-vimeo-content/"><u>[New] Simplified Techniques for Capturing Vimeo Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-zero-to-hero-on-instagram-6-strategies-that-lead-to-verified-status/"><u>[Updated] In 2024, From Zero to Hero on Instagram 6 Strategies That Lead to Verified Status</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-masterclass-review-of-androids-adobe-lightroom/"><u>[Updated] Masterclass Review of Android's Adobe Lightroom</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media/"><u>2024 Approved Quick Conversion Tactics Extracting MP3 From Vids on Social Media</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-dota-2s-latest-vac-error-effective-strategies-for-account-revival/"><u>Addressing Dota 2'S Latest VAC Error: Effective Strategies for Account Revival</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-candid-ios-device-gags-entertaining-iphone-and-ipad-mischief-for-good-fun/"><u>Best Candid iOS Device Gags: Entertaining iPhone & iPad Mischief for Good Fun!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-wipeout-removing-all-emails-through-gmail-for-androidios-devices/"><u>Complete Wipeout: Removing All Emails Through Gmail for Android/iOS Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connect-and-control-how-to-use-your-android-phone-as-a-remote-for-firestick/"><u>Connect and Control: How To Use Your Android Phone as a Remote For Firestick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-how-to-connect-and-use-any-logitech-mouse-with-ease/"><u>Expert Advice on How to Connect and Use Any Logitech Mouse with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-determining-the-exact-macbook-model-reference-for-your-device/"><u>Guide to Determining the Exact MacBook Model Reference for Your Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-digital-paintbrushes-at-your-fingertips-explore-11-color-correction-essentials/"><u>In 2024, Digital Paintbrushes at Your Fingertips Explore 11 Color Correction Essentials</u></a></li>
-<li><a href="https://fox-search.techidaily.com/optimizing-service-upkeep-with-template-based-interaction-scripts/"><u>Optimizing Service Upkeep with Template-Based Interaction Scripts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-resolving-the-not-found-ac1st16dll-error-message/"><u>Quick Fixes for Resolving the Not Found Ac1st16.dll Error Message</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quiet-quick-clean-auditory-connections/"><u>Quiet, Quick, Clean Auditory Connections</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-strategies-for-securely-storing-and-safeguarding-your-digital-information/"><u>Top 5 Strategies for Securely Storing and Safeguarding Your Digital Information</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-multi-person-video-chat-software/"><u>Top Rated Multi-Person Video Chat Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restoring-microphone-function-in-zoom-app-on-desktop-pc/"><u>Troubleshooting Guide: Restoring Microphone Function in Zoom App on Desktop PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unsubscribe-from-emergency-alerts-on-android-simple-instructions-for-a-quieter-phone-experience/"><u>Unsubscribe From Emergency Alerts on Android: Simple Instructions for a Quieter Phone Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>[New] 2024 Approved Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-6-unobtrusive-applications-for-android-captures/"><u>[New] 2024 Approved Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-techniques-for-superior-fullscreen-presentation-in-premiere/"><u>[New] Pioneering Techniques for Superior Fullscreen Presentation in Premiere</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-budget-friendly-streaming-options-to-replace-netflix-free/"><u>Best Budget-Friendly Streaming Options to Replace Netflix (Free)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-substitutes-for-netflix-you-can-watch-now/"><u>Best Free Substitutes for Netflix You Can Watch Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-wireless-standards-everything-you-need-to-know-about-80211-be-ax-ac-bgn-and-a/"><u>Decoding Wireless Standards: Everything You Need to Know About 802.11 Be, Ax, Ac, B/G/N & A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/die-3-besten-gratiskinoschneider-fur-windows-11-der-umfassende-vergleich-des-jahres-2023/"><u>Die 3 Besten Gratiskinoschneider Für Windows 11 – Der Umfassende Vergleich Des Jahres 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-11-great-freeware-applications-for-keeping-your-software-updated/"><u>Discover 11 Great Freeware Applications for Keeping Your Software Updated</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-tecno-pop-8-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Tecno Pop 8 Phone? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722856887187-effective-methods-to-recover-mss32dll-no-more-missing-files-issues/"><u>Effective Methods to Recover Mss32.dll - No More Missing Files Issues!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-importance-of-a-dac-in-your-audio-system/"><u>Exploring the Importance of a DAC in Your Audio System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-maximizing-your-social-media-impact-group-photosvideos-on-ig/"><u>In 2024, Maximizing Your Social Media Impact Group Photos/Videos on IG</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-media-migration-how-to-convert-dvd-movies-into-digital-files-for-easy-access-on-pcs-and-macbooks/"><u>Mastering Media Migration: How to Convert DVD Movies Into Digital Files for Easy Access on PCs and Macbooks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/minecraft-magic-crafting-unique-and-uneasy-elixirs-step-by-step/"><u>Minecraft Magic: Crafting Unique and Uneasy Elixirs Step by Step</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-nokia-g22-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia G22? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-approach-to-address-black-screen-problem-even-when-pc-is-powered-on/"><u>Step-by-Step Approach to Address Black Screen Problem Even When PC Is Powered ON</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-6-most-popular-destinations-for-viewing-music-videoclips-on-the-web/"><u>The 6 Most Popular Destinations for Viewing Music Videoclips on the Web</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-are-consumers-embracing-electric-cars-more-than-ever-before/"><u>Why Are Consumers Embracing Electric Cars More Than Ever Before?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/66qo67cu7j287jqpioybjo2esoulvcdsojzqsbdtlzjqulag7jye7zwcioulqoqzhouzhcdqsidsnbtrk5wglsdsoittmzjsnkjsnyqg7jye7zw0/"><u>모바일용 워터를 제거하기 위한 단계별 가이드 - 전환율을 위해</u></a></li>
 </ul></div>
 

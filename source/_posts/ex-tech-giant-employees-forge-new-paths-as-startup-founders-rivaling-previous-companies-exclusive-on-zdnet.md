@@ -1,7 +1,7 @@
 ---
 title: Ex-Tech Giant Employees Forge New Paths as Startup Founders, Rivaling Previous Companies | Exclusive on ZDNET
-date: 2024-09-19 20:47:47
-updated: 2024-09-20 10:59:48
+date: 2024-10-16T16:51:58.240Z
+updated: 2024-10-19T00:26:06.256Z
 tags:
   - professional-development
 categories:
@@ -70,11 +70,31 @@ Whether it's contract gigs or full-fledged startups, many technology professiona
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-iphone-and-ipad-video-powerhouses-the-ultimate-list-of-10/"><u>[Updated] 2024 Approved IPhone & iPad Video Powerhouses The Ultimate List of 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-command-line-and-gui-mastering-windowsmacos-srt-file-handling/"><u>[Updated] In 2024, Command Line & GUI Mastering Windows/MacOS SRT File Handling</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-understanding-dolby-atmos-and-dts-virtualx/"><u>A Comprehensive Guide to Understanding Dolby Atmos and DTS Virtual:X</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone SE (2020) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-apples-macos-updates-your-ultimate-guide-to-different-releases/"><u>Navigating Apple's macOS Updates: Your Ultimate Guide to Different Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-prospects-four-reasons-for-caution/"><u>PS5 Prospects: Four Reasons for Caution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978219960-quick-install-your-guide-to-downloading-samsung-m20n70fw-drivers-today/"><u>Quick Install: Your Guide to Downloading Samsung M20n70fw Drivers Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-top-7-freely-accessible-online-fax-services/"><u>The Ultimate List of Top 7 Freely Accessible Online Fax Services</u></a></li>
+<li><a href="https://win-great.techidaily.com/ultimate-user-manual-mastering-lacie-backup-on-windows-10/"><u>Ultimate User Manual: Mastering Lacie Backup on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/walkthrough-activating-setup-mode-on-echo-dot-devices/"><u>Walkthrough: Activating Setup Mode on Echo Dot Devices</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Bar Manager to Software Developer: Reasons for Embracing a New Career in Tech After Leaving the Hospitality Industry | Wired"
-date: 2024-09-19 17:58:11
-updated: 2024-09-20 11:17:28
+date: 2024-10-18T07:46:59.839Z
+updated: 2024-10-19T05:25:51.347Z
 tags:
   - professional-development
 categories:
@@ -33,6 +33,13 @@ According to a 2021 [study from PwC Global](https://www.pwc.com/gx/en/issues/ups
 
 Olivia Hill was a freelance movie review writer before becoming a software developer at the [Software Institute](https://www.softwareinstitute.com). Her degree was in journalism, but ultimately, there was a lack of opportunity and passion for her in that field, so she started to look for a career change once the pandemic hit and remembered how she enjoyed developing websites. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [The New Rules of Work In the office, hybrid or remote, here's what is changing about where, when and how you do your job.  Read now](https://www.zdnet.com/topic/the-new-rules-of-work/)
@@ -59,6 +66,19 @@ The skills it takes to enter the tech industry are becoming more common as techn
 
 "It's such a huge industry, and we need people to be trained with these skills," Hill said. 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Read more from this special report: Tech skills - Upgrade your job**
 
 * [**Software skills will get you far, but you don't have to be a coder to make it big in tech**](https://www.zdnet.com/education/professional-development/if-you-want-to-make-it-big-in-tech-these-non-tech-skills-are-essential/#link=%7B%22linkText%22:%22Software%20skills%20will%20get%20you%20far,%20but%20you%20don't%20have%20to%20be%20a%20coder%20to%20make%20it%20big%20in%20tech%22,%22target%22:%22%5Fblank%22,%22href%22:%22https://www.zdnet.com/education/professional-development/if-you-want-to-make-it-big-in-tech-these-non-tech-skills-are-essential/%22,%22role%22:%22standard%22,%22absolute%22:%22%22%7D)
@@ -73,11 +93,31 @@ The skills it takes to enter the tech industry are becoming more common as techn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-best-photo-enhancing-apps-for-smartphones-with-overlays-top-10/"><u>[New] 2024 Approved Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>[New] In 2024, A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-real-vs-counterfeit-deciphering-authentic-youtube-supports/"><u>2024 Approved Real Vs. Counterfeit Deciphering Authentic YouTube Supports</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-premier-choices-for-advanced-smart-eyewear/"><u>2024'S Premier Choices for Advanced Smart Eyewear</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-eliminating-the-netflix-error-nw-19-for-seamless-streaming/"><u>A Comprehensive Guide: Eliminating the Netflix Error NW-#-19 for Seamless Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-the-futures-past-digital-conversion-for-timeless-images-for-2024/"><u>Crafting the Future's Past Digital Conversion for Timeless Images for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722869283463-discover-the-hottest-imessage-game-picks-of-2024-you-dont-want-to-miss/"><u>Discover the Hottest iMessage Game Picks of 2024 You Don't Want to Miss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-constant-crashes-of-content-warning-on-your-personal-computer/"><u>Eliminating Constant Crashes of Content Warning on Your Personal Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-halt-government-and-kidnap-alerts-on-iphone-for-a-peaceful-screen-experience/"><u>How to Halt Government and Kidnap Alerts on iPhone for a Peaceful Screen Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-navigating-the-leading-live-church-broadcast-services/"><u>In 2024, Navigating the Leading Live Church Broadcast Services</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instructions-turning-off-text-overlays-on-prime-video-plugin/"><u>Instructions: Turning Off Text Overlays on Prime Video Plugin</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ray-tracing-explained-a-comprehensive-overview-of-the-technique/"><u>Ray Tracing Explained: A Comprehensive Overview of the Technique</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-crafting-voice-messages-on-apple-iphones/"><u>Step-by-Step Instructions for Crafting Voice Messages on Apple iPhones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stream-your-pc-screen-on-the-big-screen-the-complete-guide-to-using-chromecast-with-windows/"><u>Stream Your PC Screen on the Big Screen: The Complete Guide to Using Chromecast with Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-great-debate-is-the-ps5-slim-worth-it-compared-to-the-original-ps5/"><u>The Great Debate: Is the PS5 Slim Worth It Compared to the Original PS5</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-4k-upscaling-techniques-to-enhance-low-res-videos/"><u>Understanding 4K Upscaling: Techniques to Enhance Low-Res Videos</u></a></li>
+</ul></div>
+

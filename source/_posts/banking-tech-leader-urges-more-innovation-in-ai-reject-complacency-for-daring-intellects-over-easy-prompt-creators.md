@@ -1,7 +1,7 @@
 ---
 title: "Banking Tech Leader Urges More Innovation in AI: Reject Complacency for Daring Intellects Over Easy-Prompt Creators"
-date: 2024-09-18 11:15:51
-updated: 2024-09-20 10:37:52
+date: 2024-10-15T00:22:41.602Z
+updated: 2024-10-18T22:17:03.491Z
 tags:
   - professional-development
 categories:
@@ -98,11 +98,31 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-youtube-titulos-con-algoritmos-for-2024/"><u>[Updated] Mastering YouTube Títulos Con Algoritmos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-free-alternatives-to-paid-dns-providers-your-options-explored/"><u>Best Free Alternatives to Paid DNS Providers: Your Options Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-tools-for-inserting-text-into-pictures/"><u>Cutting-Edge Tools for Inserting Text Into Pictures</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-14-pro-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 14 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-champion-firefox-capture-extensions/"><u>In 2024, Champion FireFox Capture Extensions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-your-iphones-autofocus-issues-top-troubleshooting-tips/"><u>Solve Your iPhone's Autofocus Issues: Top Troubleshooting Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/spotting-false-profiles-how-to-recognize-phony-friend-requests/"><u>Spotting False Profiles: How to Recognize Phony Friend Requests</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-checklist-to-successful-video-marketing-with-tags-for-2024/"><u>The Ultimate Checklist to Successful Video Marketing with Tags for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-acing-a-skype-interview/"><u>The Ultimate Guide to Acing a Skype Interview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-wi-fi-signal-boosters-a-comprehensive-guide/"><u>Top Wi-Fi Signal Boosters : A Comprehensive Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

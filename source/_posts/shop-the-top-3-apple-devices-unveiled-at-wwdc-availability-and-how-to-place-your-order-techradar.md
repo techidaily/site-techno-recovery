@@ -1,7 +1,7 @@
 ---
 title: "Shop The Top 3 Apple Devices Unveiled at WWDC: Availability & How to Place Your Order | TechRadar"
-date: 2024-10-11T06:54:09.080Z
-updated: 2024-10-13T03:21:32.547Z
+date: 2024-10-12T09:47:48.468Z
+updated: 2024-10-19T08:35:35.158Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +66,10 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,18 +116,21 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-live-stream-xbox-to-facebook-live/"><u>[New] How to Live Stream Xbox to Facebook Live</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-to-avoid-copyright-strikes-on-youtube-videos/"><u>2024 Approved Strategies to Avoid Copyright Strikes on YouTube Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/echoing-giggles-ultimate-ringtone-vaults/"><u>Echoing Giggles Ultimate Ringtone Vaults</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-download-hp-drivers-for-windows-7/"><u>How to Download HP Drivers for Windows 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-enter-bios-on-windows-11-and-windows-7/"><u>How to Enter BIOS on Windows 11 & Windows 7?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-a-non-detectable-external-hard-drive-on-windows-10-solutions-inside/"><u>How to Fix a Non-Detectable External Hard Drive on Windows 10 - Solutions Inside</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-ps4-out-of-safe-mode/"><u>How to Get PS4 Out of Safe Mode</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-install-inf-drivers-windows-1078xpvista/"><u>How to Install Inf Drivers (Windows 10/7/8/XP/Vista)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-discover-instagrams-free-filter-options-with-smart-searching-techniques/"><u>In 2024, Discover Instagram's FREE Filter Options with Smart Searching Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/install-windows-11-from-usb-with-pictures/"><u>Install Windows 11 From USB (With Pictures)</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-resolving-active-directory-printer-failures/"><u>Navigating and Resolving Active Directory Printer Failures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-elevate-your-screen-captures-visual-fidelity/"><u>Step-by-Step Guide to Elevate Your Screen Capture's Visual Fidelity</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/twin-screens-archive-capture/"><u>Twin Screens Archive Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-drive-traffic-and-growth-with-youtube-analytic-insights/"><u>[New] In 2024, Drive Traffic and Growth with YouTube Analytic Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gourmet-guide-producing-culinary-content/"><u>[Updated] 2024 Approved Gourmet Guide Producing Culinary Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-engaging-ways-to-use-time-with-podcast-tracks/"><u>[Updated] Engaging Ways to Use Time with Podcast Tracks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-contents-appeal-professional-bg-techniques-for-youtube-thumbnails/"><u>[Updated] In 2024, Elevate Your Content's Appeal Professional BG Techniques for YouTube Thumbnails</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-16-no-cost-tools-for-learning-sign-language-easily/"><u>Discover These 16 No-Cost Tools for Learning Sign Language Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-pixel-watch-release-specs-price-forecast-and-rumored-updates/"><u>Inside Scoop on The Pixel Watch - Release Specs, Price Forecast & Rumored Updates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-sound-design-in-your-daw-with-the-power-of-chatgpt/"><u>Mastering Sound Design in Your DAW with the Power of ChatGPT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/post-with-a-podcast-highlight-moment-for-2024/"><u>Post with a Podcast Highlight Moment for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-easy-way-to-take-photos-of-your-desktop-using-an-hp-computer/"><u>The Easy Way to Take Photos of Your Desktop Using an HP Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-big-thing-in-smartphones-release-info-and-price-breakdown-for-samsung-galaxy-z-flip-6/"><u>The Next Big Thing in Smartphones: Release Info and Price Breakdown for Samsung Galaxy Z Flip 6</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-resolving-printer-visibility-issues-on-your-ipad-device/"><u>The Ultimate Guide to Resolving Printer Visibility Issues on Your iPad Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-cable-modem-and-router-bundles-a-buyers-guide/"><u>Top Rated Cable Modem and Router Bundles – A Buyer's Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wi-fi-woes-a-guide-to-fixing-connectivity-problems-with-your-vizio-set/"><u>Wi-Fi Woes? A Guide to Fixing Connectivity Problems with Your Vizio Set</u></a></li>
 </ul></div>
 

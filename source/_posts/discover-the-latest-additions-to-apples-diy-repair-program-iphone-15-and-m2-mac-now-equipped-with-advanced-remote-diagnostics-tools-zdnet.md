@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Additions to Apple's DIY Repair Program: IPhone 15 and M2 Mac Now Equipped with Advanced Remote Diagnostics Tools | ZDNET"
-date: 2024-10-08T21:40:05.379Z
-updated: 2024-10-13T11:35:12.277Z
+date: 2024-10-15T04:03:52.528Z
+updated: 2024-10-18T17:55:56.301Z
 tags:
   - apple
 categories:
@@ -69,25 +69,31 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-journey-to-optimal-health-the-top-10-online-yoga-masters/"><u>[New] Journey to Optimal Health - The Top 10 Online Yoga Masters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-scrutinizing-the-most-accessible-affordable-lut-collections/"><u>[New] Scrutinizing the Most Accessible, Affordable LUT Collections</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enhancing-your-gopro-footage-with-iosandroid-apps/"><u>[Updated] Enhancing Your GoPro Footage with iOS/Android Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-the-art-of-recording-youtube-videos-without-spending/"><u>2024 Approved Master the Art of Recording YouTube Videos Without Spending</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808050594-cant-launch-your-pc-into-windows-10-mode-here-are-quick-repair-tips/"><u>Can't Launch Your PC Into Windows 10 Mode? Here Are Quick Repair Tips!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-your-chromebooks-zoom-experience/"><u>Elevating Your Chromebook's Zoom Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/selecting-the-right-top-15-tripods-for-gopro-cameras/"><u>Selecting the Right Top 15 Tripods for GoPro Cameras</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-making-your-logitech-g-hub-functional-again-on-windows/"><u>Step-by-Step Guide: Making Your Logitech G Hub Functional Again on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-aftermath-in-depth-insights-into-windows-cufflinks-7-end-of-support-and-lifecycle-conclusion/"><u>Understanding the Aftermath: In-Depth Insights Into Windows Cufflinks 7 End of Support and Lifecycle Conclusion</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/wi-fi-calling-setup-instructions-for-smartphones-and-desktop-pcs/"><u>Wi-Fi Calling Setup Instructions for Smartphones and Desktop PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/wifi-tethering-on-android-and-ios-device-solved/"><u>WiFi Tethering on Android and iOS Device [SOLVED]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/windows-update-0x80070422-error-on-windows-11-solved/"><u>Windows Update 0X80070422 Error on Windows 11 [Solved]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-overcoming-fullscreen-malfunctions-in-obs/"><u>[New] 2024 Approved Overcoming Fullscreen Malfunctions in OBS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-social-media-mp3-compiler/"><u>[Updated] 2024 Approved Social Media Mp3 Compiler</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-spotifys-1-hitlist-rankings/"><u>[Updated] In 2024, Spotify's #1 Hitlist Rankings</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-choices-our-picks-for-gratis-worldwide-phone-communication-tools/"><u>Discover the Leading Choices: Our Picks for Gratis Worldwide Phone Communication Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/eliminating-blur-taming-shutter-vibration/"><u>Eliminating Blur Taming Shutter Vibration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-furry-friends-photos-fixing-eye-aberrations-with-ease/"><u>Enhance Your Furry Friends' Photos: Fixing Eye Aberrations with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-the-superior-wi-fi-signal-enhancers-of-the-year-2024/"><u>Expert Picks: The Superior Wi-Fi Signal Enhancers of the Year 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-easy-free-the-top-choices-for-onsite-gif-to-video-changes-for-2024/"><u>Fast, Easy, Free The Top Choices for Onsite GIF to Video Changes for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-6s-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 6s Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-x8b-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor X8b FRP Bypass</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-s24-ultra-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy S24 Ultra Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-fix-of-ac1st16dll-mistaken-absence-a-detailed-instructional-guide/"><u>Master the Fix of ac1st16.dll Mistaken Absence - A Detailed Instructional Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-missing-mfc42ddll-file-a-step-by-step-guide/"><u>Resolving the 'Missing mfc42d.dll' File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-macbook-air-unresponsiveness-top-tips-for-quick-recovery/"><u>Solving MacBook Air Unresponsiveness – Top Tips for Quick Recovery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-to-overcome-missing-ntldr-fault-in-windows-operating-system/"><u>Step-by-Step Tutorial to Overcome 'Missing NTLDR' Fault in Windows Operating System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-repairing-disk-errors-with-the-chkdsk-tool-in-windows/"><u>Step-by-Step Tutorial: Repairing Disk Errors with the Chkdsk Tool in Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch-for-2024/"><u>Top 5 Cloud Voice Editors for Chrome OS Transforming Your Tone and Pitch for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-youtube-functionality-failures-possible-causes-and-solutions/"><u>Unraveling the Mystery Behind YouTube Functionality Failures: Possible Causes and Solutions</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

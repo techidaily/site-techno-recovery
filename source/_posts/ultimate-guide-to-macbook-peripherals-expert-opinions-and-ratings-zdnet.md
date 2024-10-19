@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to MacBook Peripherals : Expert Opinions and Ratings | ZDNet"
-date: 2024-10-12T12:15:10.124Z
-updated: 2024-10-12T16:38:10.656Z
+date: 2024-10-14T16:49:44.636Z
+updated: 2024-10-19T01:02:19.423Z
 tags:
   - apple
 categories:
@@ -46,10 +46,16 @@ Cons
 ## Apple Watch Ultra 2
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best smartwatch overall
@@ -111,20 +117,14 @@ Pros
 Cons 
 * Not built for rugged adventures
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel Watch 3
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best Google smartwatch
 
@@ -157,13 +157,6 @@ Cons
 * Blood pressure certification taking much longer than advertised
 
 ## Samsung Galaxy Watch Ultra
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best Samsung smartwatch for outdoor adventurers
 
@@ -198,6 +191,13 @@ Cons
 
 ## Samsung Galaxy Watch 7
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best Samsung smartwatch for smaller wrists
 
 Samsung's latest smartwatch for the masses, the Galaxy Watch 7, was unveiled along with the Galaxy Watch Ultra at its 2024 Unpacked event in Paris in July. The Watch 7 is available in two smaller sizes compared to the [Watch 6 series](https://www.zdnet.com/article/3-surprising-features-that-sold-me-on-the-samsung-galaxy-watch-6-classic/), 44 and 40 mm, so it is likely to appeal to most Galaxy phone owners with smaller wrists. The Watch Ultra is a large 47mm watch designed for those with larger wrists. 
@@ -226,14 +226,20 @@ Cons
 * Less than two days of battery life
 * Limited sleep details
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch SE
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best value Apple Watch
 
@@ -268,16 +274,10 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Garmin Venu 3S
@@ -358,19 +358,6 @@ With a hybrid design, the Withings ScanWatch 2 has standard analog watch hands o
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best smartwatch?
 
 My pick for the best smartwatch is the Apple Watch Ultra 2\. It may be debatable if an iPhone is the best smartphone or not, but it is clear the Apple Watch is the wearable to beat -- especially for Apple users. The Ultra 2 is lauded by athletes and product reviewers as the best Apple Watch ever made. 
@@ -411,13 +398,6 @@ However, finding the best smartwatch for you can be more complicated, especially
 | Amazfit Balance               | An affordable smartwatch that punches far above its price. Its powerful smartphone application provides access to a wealth of health/fitness data while supporting calls and Amazon Alexa.                                                       |
 | Withings ScanWatch 2          | A hybrid watch that looks like a standard watch with analog hands, but underneath this elegant exterior is the power of the Withings health and wellness ecosystem.                                                                              |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -438,6 +418,13 @@ All of the smartwatches included in this list were chosen based on how they perf
 
 For a deeper look into our testing process, check out our comprehensive [smartwatch testing methodology](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ## Are there any smartwatches I should avoid?
@@ -448,6 +435,13 @@ Fossil has been offering smartwatches for a long time, and I still have a workin
 
 There was a great promise with a luxury Wear OS watch in 2022 when Montblanc released the [Summit 3 smartwatch](https://www.zdnet.com/article/montblanc-summit-3-review/). While we provided a preliminary review as we looked for a future update that was supposed to add some core functionality, that update never came, and the watch sits idly by running the same older version of Wear OS on a processor that is now a couple of generations old. It's a lovely luxury watch so if you want a basic smartwatch with those good looks, maybe you can find one on sale. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I set up my smartwatch?
 
 Watches in our list, other than Google Wear OS or Apple Watch models, are typically set up by downloading and installing the associated companion smartphone application and then pairing the watch with that application. Some Google Wear OS watches also use this method since those models have additional applications beyond what Google provides on Pixel Watch.
@@ -455,13 +449,6 @@ Watches in our list, other than Google Wear OS or Apple Watch models, are typica
 If you own a Google Wear OS smartwatch, primarily from Google or Samsung, then the Google Watch or Samsung Wearable application must first be installed on your Android smartphone. Google Pixel Watch models also now have Fitbit integrated into the watch, but to take advantage of this vast health/fitness ecosystem the Fitbit smartphone application is also required. Samsung also has its Samsung Health application so pairing and setting up a Google Wear OS watch is a bit of a process that generally requires two or more smartphone applications.
 
 Apple Watch users turn on the watch and then follow the prompts to pair it to an iPhone, often with the iPhone camera scanning an image that appears on the Apple Watch face. Apple has the Watch smartphone application preloaded on the iPhone so set up is quick and easy. If you had a previous Apple Watch then you can also have all of that data synced over to a new model, which makes upgrading Apple Watch models one of the experiences that keep people upgrading on a regular basis.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can you use a Samsung or Google watch with an iPhone?
 
@@ -494,6 +481,13 @@ We will likely continue to see expansion of the health and wellness features in 
 People also regularly have video calls with family and friends, not just coworkers, so future smartwatches may integrate tiny cameras so that users can communicate in this same manner while out and about.
 
 In addition, as AI continues to integrate into our lives, having this technology available in our watches should help provide data faster and more accurately than simple web search queries that we may carry out with Siri or Google Assistant.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's the best smartwatch for health monitoring?
 
@@ -577,16 +571,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-guide-sharing-youtube-videos-on-fb/"><u>[New] The Ultimate Guide Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-fcp-potential-with-these-10-plugs/"><u>[New] Unlock Your FCP Potential with These 10 Plugs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-animate-and-make-your-own-effects/"><u>[Updated] 2024 Approved How to Animate and Make Your Own Effects</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-tutorial-launching-the-disk-utility-panel-in-windows-11/"><u>Easy Tutorial: Launching the Disk Utility Panel in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-freeing-up-storage-on-your-windows-11-pc/"><u>Effective Techniques for Freeing Up Storage on Your Windows 11 PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-connection-pair-your-bluetooth-speaker-with-your-laptop-today/"><u>Effortless Connection: Pair Your Bluetooth Speaker with Your Laptop Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fix-bluetooth-speakers-and-display-devices-connection-issues-on-windows/"><u>Fix Bluetooth Speakers and Display Devices Connection Issues on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-display-and-audio-device-connectivity-a-step-by-nstep-solution-on-your-windows-system/"><u>Fixing Display & Audio Device Connectivity: A Step-by-nStep Solution on Your Windows System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-multi-tasking-enable-pip-functionality-on-android-phones-and-tablets/"><u>Mastering Multi-Tasking: Enable PIP Functionality on Android Phones & Tablets</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tp-link-archer-c9-analysis-top-choice-for-cost-effective-routers/"><u>TP-Link Archer C9 Analysis: Top Choice for Cost-Effective Routers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-fullscreen-capture-programs-for-2024/"><u>[New] Cutting-Edge Fullscreen Capture Programs for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-harness-the-power-of-insights-a-curated-list-of-instagram-performance-trackers/"><u>[Updated] 2024 Approved Harness the Power of Insights A Curated List of Instagram Performance Trackers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-more-than-clicks-what-determines-youtubes-view-numbers/"><u>[Updated] 2024 Approved More than Clicks What Determines YouTube's View Numbers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-5-screen-selections-for-ps5-enthusiasts/"><u>[Updated] Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-lava-blaze-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lava Blaze Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-correcting-missing-d3dx9nine-dll-problems/"><u>Comprehensive Guide: Correcting Missing D3dx9_nine DLL Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customize-your-samsung-smart-tv-browser-settings-easy-installation-guide/"><u>Customize Your Samsung Smart TV Browser Settings – Easy Installation Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-magic-6-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor Magic 6 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exceptional-environments-the-best-screen-snapshots/"><u>Exceptional Environments The Best Screen Snapshots</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-xiaomi-civi-3-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Civi 3 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-steams-refund-policy-a-comprehensive-tutorial/"><u>Navigating Steam's Refund Policy - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-when-netflix-stops-playing-nice-on-your-roku-box/"><u>Quick Fixes for When Netflix Stops Playing Nice on Your Roku Box</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resolving-d3dx927dll-file-issues/"><u>Step-by-Step Guide: Resolving 'd3dx9_27.dll' File Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-8-key-points-to-think-about-prior-to-investing-in-a-desktop-pc/"><u>The Ultimate Checklist: 8 Key Points to Think About Prior to Investing in a Desktop PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-leveraging-google-gemini-effectively/"><u>The Ultimate Guide to Leveraging Google Gemini Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-crafting-clear-voice-messages-with-your-iphones-built-in-features/"><u>The Ultimate Tutorial: Crafting Clear Voice Messages with Your iPhone's Built-In Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-s23plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy S23+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

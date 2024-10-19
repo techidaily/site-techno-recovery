@@ -1,7 +1,7 @@
 ---
 title: "1. Kickstart Your AI Professional Journey: The 5 Essential Steps | TechRepublic"
-date: 2024-09-18 13:24:53
-updated: 2024-09-20 12:53:11
+date: 2024-10-15T16:09:01.323Z
+updated: 2024-10-18T20:46:39.743Z
 tags:
   - professional-development
 categories:
@@ -39,6 +39,13 @@ Back when I taught entry-level programming, about half my students wanted to pro
 
 My point here is that you have to be willing to do the work, and you also have to be able to bring something to the job. Rick seems willing to do the work, and he has skills he can bring to the job. Below are the five steps I'd recommend Rick -- and anyone interested in pivoting to AI work -- take. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Identify your current skills 
 
 This is important if you want to switch careers. What skills do you already have? 
@@ -52,6 +59,13 @@ He probably has some serious writing skills. Writing a product requirements spec
 Depending on what kind of product manager he is, he might also have marketing communications skills. By this, I mean the ability to write promotional copy describing his products for prospects, not just the implementation teams. 
 
 As an experienced product manager, he probably also has strong project management skills, strong organization skills, and some level of product knowledge (in his case, for life science-related offerings). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Identify skills that might transfer
 
@@ -119,6 +133,19 @@ Then, get yourself a [ChatGPT Plus](https://www.zdnet.com/article/gpt-3-5-vs-gpt
 
 My point here is simple: make yourself knowledgeable. If you want to get a job in a field where you don't possess the experience, expertise, or credentials, you won't get anywhere without any of them. Fortunately, AI is a field that doesn't require board certification or a specific terminal degree. But it does require knowing stuff. 
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Build yourself some AI resume points 
 
 By the time you're ready to ask for a job interview, make yourself into someone who can answer those interview questions with confidence and competence. When asked, "Show me what you've built with AI," have something you're proud to show off. When asked about the future of AI, have enough knowledge to clearly articulate all the issues, opportunities, and concerns. When asked about the strengths and weaknesses of offerings by Amazon, Google, Microsoft, OpenAI, and others, know enough to be able to answer. 
@@ -154,6 +181,13 @@ Put in an hour each day. Make sure you read relevant articles every day. Do some
 The point here is that by the end of six months, make it so that AI isn't this new thing you want to move into, it's this thing that you're already very familiar with and use as a matter of your daily activities. 
 
 That way, by the end of the six months, you're not asking to "move into AI," but to "use your AI skills and knowledge in the AI field." That'll come across as much more powerful to hiring managers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to consider when working in AI 
 
@@ -194,11 +228,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-remove-default-podcast-listings-from-spotify-playlists/"><u>[New] 2024 Approved Remove Default Podcast Listings From Spotify Playlists</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-fast-footsteps-simple-recording-for-dell-pcs-for-2024/"><u>[New] Fast Footsteps Simple Recording for Dell PCs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-flash-and-fly-gaming-top-10-speedy-apps-on-desktopmobile-for-2024/"><u>[Updated] Flash & Fly Gaming Top 10 Speedy Apps on Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>[Updated] From Amateurs to Experts Shooting Spectacentic Photos & Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twittickle-your-personalized-toolkit-for-cutest-tweets-for-2024/"><u>[Updated] TwitTickle Your Personalized Toolkit for Cutest Tweets for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/android-video-playback-turning-ends-into-beginnings-for-2024/"><u>Android Video Playback Turning Ends Into Beginnings for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bring-the-cinema-home-hitachis-smart-4k-uhd-tvs-comes-packed-with-roku-streaming-technology/"><u>Bring the Cinema Home: Hitachi's Smart 4K UHD TVs Comes Packed with Roku Streaming Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-an-amazon-fire-stick-using-your-smartphone-as-a-hotspot-a-comprehensive-how-to/"><u>Connecting an Amazon Fire Stick Using Your Smartphone as a Hotspot – A Comprehensive How-To</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-memes-to-cultural-phenomenon/"><u>Elevating Memes to Cultural Phenomenon</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/engaging-audiences-triad-of-effective-storytelling-for-2024/"><u>Engaging Audiences Triad of Effective Storytelling for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-automate-inbox-management-with-advanced-gmail-rules/"><u>How to Automate Inbox Management with Advanced Gmail Rules</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ideal-frequency-for-mobile-device-upgrades-when-is-it-time/"><u>Ideal Frequency for Mobile Device Upgrades: When Is It Time?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/swiftly-restore-working-airdrop-between-apple-gadgets-and-macs/"><u>Swiftly Restore Working AirDrop Between Apple Gadgets & Macs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-deactivated-snapchats-reactivation-tips-and-tricks/"><u>The Ultimate Fix for Deactivated Snapchats – Reactivation Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-viewing-james-bond-films-sequentially/"><u>The Ultimate Guide to Viewing James Bond Films Sequentially</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-status-quo-of-fifth-generation-connectivity-through-a-verizon-perspective/"><u>Understanding the Status Quo of Fifth-Generation Connectivity Through a Verizon Perspective</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722871576940-unexpectedly-missing-helperdll-heres-how-to-restore-it/"><u>Unexpectedly Missing Helper.dll? Here's How to Restore It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-guide-to-the-micromobility-scene-calendar-highlights-latest-gossip-and-more/"><u>Your Guide to the Micromobility Scene: Calendar Highlights, Latest Gossip & More</u></a></li>
+</ul></div>
+

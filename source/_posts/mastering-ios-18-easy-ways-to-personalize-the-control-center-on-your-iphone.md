@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: Easy Ways to Personalize the Control Center on Your iPhone"
-date: 2024-10-11T09:57:59.846Z
-updated: 2024-10-13T12:03:40.919Z
+date: 2024-10-18T02:36:15.471Z
+updated: 2024-10-18T18:54:05.098Z
 tags:
   - apple
 categories:
@@ -37,16 +37,16 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -64,10 +64,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -75,6 +75,13 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -96,13 +103,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,20 +140,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-effortlessly-blur-your-conference-backgrounds-on-teams-for-2024/"><u>[New] Effortlessly Blur Your Conference Backgrounds on Teams for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exploring-the-best-free-youtube-video-editors-for-ios/"><u>[Updated] 2024 Approved Exploring the Best Free YouTube Video Editors for iOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-professional-video-setup-ideal-stabilizers-for-youtubers/"><u>2024 Approved Professional Video Setup Ideal Stabilizers for YouTubers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-proven-techniques-for-locating-luxe-pexel-pictures/"><u>2024 Approved Proven Techniques for Locating Luxe Pexel Pictures</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728484129037-win11/"><u>掌握復原 Win11 分割表時出現的錯誤及其修复技巧</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/excel-mastery-a-step-by-step-guide-to-merging-two-spreadsheets/"><u>Excel Mastery: A Step-by-Step Guide to Merging Two Spreadsheets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-reset-another-users-password-securely-on-a-windows-computer/"><u>How to Reset Another User's Password Securely on a Windows Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-restore-mscorwksdll-and-solve-system-compatibility-issues/"><u>How to Restore 'Mscorwks.dll' And Solve System Compatibility Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-battle-tactics-against-lynels-in-breath-of-the-wild/"><u>Mastering Battle Tactics Against Lynels in Breath of the Wild</u></a></li>
-<li><a href="https://win-answers.techidaily.com/re7-village-follow-up-solutions-to-overcome-black-screen-hiccups-on-pc/"><u>RE7 Village Follow-Up: Solutions to Overcome Black Screen Hiccups on PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-tv-troubleshooting-guide-changing-from-default-browser-to-an-alternative-one/"><u>Samsung TV Troubleshooting Guide: Changing From Default Browser to an Alternative One</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-components-at-toms-tech-universe/"><u>The Ultimate Guide to Computer Components at Tom's Tech Universe</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-duckduckgo-exploring-its-features-and-security/"><u>Understanding DuckDuckGo: Exploring Its Features & Security</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-launch-of-google-pixel-tablet-detailed-timeline-features-and-specifications/"><u>Upcoming Launch of Google Pixel Tablet: Detailed Timeline, Features & Specifications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gamers-top-picks-1-ranked-4k-laptops/"><u>[New] Gamers' Top Picks #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-asserting-ownership-on-social-platforms-instagrams-watermarking-secrets-for-2024/"><u>[Updated] Asserting Ownership on Social Platforms Instagram's Watermarking Secrets for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-best-photo-background-blur-apps-for-iphone-and-android-for-2024/"><u>[Updated] Best Photo Background Blur Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-direct-from-spotify-to-youtube-best-apps-for-streaming-conversions/"><u>[Updated] Direct From Spotify to YouTube Best Apps for Streaming Conversions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-thorough-appraisal-gopro-silver-hero4-specimen/"><u>[Updated] Thorough Appraisal GoPro Silver HERO4 Specimen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-practices-for-distance-dialogue-capture/"><u>Best Practices for Distance Dialogue Capture</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-instructions-to-purge-dns-cache-on-your-mac-computer/"><u>Comprehensive Instructions to Purge DNS Cache on Your Mac Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-drive-with-evs-gain-unmatched-privileges-in-parking-and-high-occupancy-vehicle-lanes/"><u>Elevate Your Drive with EVs: Gain Unmatched Privileges in Parking and High Occupancy Vehicle Lanes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fortnite-multi-account-consolidation-a-detailed-walkthrough/"><u>Fortnite Multi-Account Consolidation: A Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/james-bond-series-viewing-guide-the-complete-film-sequence/"><u>James Bond Series Viewing Guide: The Complete Film Sequence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-domain-safelisting-on-the-macos-mail-application-a-step-by-step-guide/"><u>Mastering Domain Safelisting on the MacOS Mail Application: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-web-browsing-how-to-turn-on-cookies-easily/"><u>Mastering Web Browsing: How to Turn On Cookies Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-new-release-amds-latest-video-card-drivers-version-241/"><u>The New Release: AMD's Latest Video Card Drivers, Version 24.1</u></a></li>
 </ul></div>
 

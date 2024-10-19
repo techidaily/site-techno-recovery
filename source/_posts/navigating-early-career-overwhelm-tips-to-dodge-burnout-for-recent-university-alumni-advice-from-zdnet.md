@@ -1,7 +1,7 @@
 ---
 title: "Navigating Early Career Overwhelm: Tips to Dodge Burnout for Recent University Alumni - Advice From ZDNET"
-date: 2024-09-17 20:29:52
-updated: 2024-09-20 12:38:50
+date: 2024-10-15T23:36:09.870Z
+updated: 2024-10-18T17:07:21.870Z
 tags:
   - professional-development
 categories:
@@ -40,6 +40,13 @@ People experience burnout in all jobs, but particularly those involving many ext
 * Social workers and therapists
 * Teachers
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What causes burnout?
 
 Burnout is brought about by factors that originate either[internally or externally](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230825/). Because the causes of burnout vary by person, they are not always straightforward to understand.
@@ -61,6 +68,13 @@ External factors contributing to burnout relate to your environment. Some exampl
 * High levels of stress and responsibility
 * Low autonomy
 * Tight deadlines
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 ways to prevent burnout
 
@@ -117,6 +131,13 @@ If you are able to access one, consider seeing a therapist. Mental health profes
 
 **7\. Recognize when it's time to leave.** 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 * [These are the least stressful jobs in tech](https://www.zdnet.com/article/least-stressful-jobs-in-tech/)
@@ -129,6 +150,13 @@ Use the downtime between jobs to recuperate and create an action plan for the ne
 * If your old job gave you little autonomy, your future job needs a more collaborative workplace culture.
 
 Not ready to leave yet, or just need a brief break? Make sure you're using your vacation time. You've earned it!
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## In conclusion 
 
@@ -167,11 +195,27 @@ _Last reviewed March 24, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-wont-sync-here-are-6-effective-fixes-to-try/"><u>Apple Watch Won't Sync? Here Are 6 Effective Fixes to Try</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/common-iphone-autofocus-problems-and-easy-fixes-for-better-photography/"><u>Common iPhone Autofocus Problems & Easy Fixes for Better Photography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-eliminating-windows-error-message-code-19-for-smooth-operation/"><u>Comprehensive Guide: Eliminating Windows Error Message Code 19 for Smooth Operation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-drivers-brother-hl-l2n80dw-compatible-windows-software/"><u>Download Drivers: Brother HL-L2n80DW Compatible Windows Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-tutorial-how-to-enable-offline-playback-of-youtube-videos-without-cost/"><u>Easy Tutorial - How to Enable Offline Playback of YouTube Videos Without Cost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-determine-whos-keeping-a-permanent-copy-of-your-posts-on-instagram/"><u>How to Determine Who's Keeping a Permanent Copy of Your Posts on Instagram</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-and-optimize-win10-touchscreen/"><u>Install & Optimize Win10 Touchscreen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/masterclass-controlling-and-stopping-app-background-functionality-on-android-systems/"><u>Masterclass: Controlling and Stopping App Background Functionality on Android Systems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-slideshow-mastery-unlocking-the-power-of-final-cut-pro/"><u>New Slideshow Mastery Unlocking the Power of Final Cut Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-for-dealing-with-non-responsive-ms-office-documents/"><u>Strategies for Dealing with Non-Responsive MS Office Documents</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-reality-of-now-vrs-evolution-and-challenges-for-2024/"><u>The Reality of Now VR's Evolution and Challenges for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-y17s-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo Y17s FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-ntdlldll-issues-on-your-pc-windows-1087/"><u>Ultimate Guide: Resolving ntdll.dll Issues on Your PC (Windows 10/8/7)</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Survey Highlights: A Quarter of IT Workers Considering Career Change | ZDNet Insights"
-date: 2024-09-17 20:53:50
-updated: 2024-09-20 10:11:50
+date: 2024-10-16T12:10:22.082Z
+updated: 2024-10-18T19:16:20.584Z
 tags:
   - professional-development
 categories:
@@ -47,15 +47,36 @@ Industry leaders across the spectrum share their concerns and advice about worki
 
 "Keep learning is my best advice," says [Andrew Duncan](https://www.linkedin.com/in/andrewdun/?originalSubdomain=uk), CEO and managing partner at Infosys Consulting. "New experiences, new skills development, and new project opportunities are always the best path to keep advancing. Find a mentor that can help you through coaching and advisory -- these types of more seasoned business veterans are often a great ticket to opening new doors within a company, especially for younger professionals. Keep yourself visible and market yourself -- show people your successes and achievements and the value you have created in a project." 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Be a team player** 
 
 "Become critically important for the success of your team," says [Zaven Nahapetyan](https://www.linkedin.com/in/zavn/), co-founder of Niche.club, and a former engineering manager at Facebook. "As you get more senior, think about your team in broader terms: First, your immediate coworkers, then your organization. Understand what results you, your team, and your organization are supposed to be driving. Don't think of your job as a list of responsibilities, but rather as an investment by the company in order to achieve some goal. Try to understand what that goal is, and do everything in your power to help achieve it." 
 
 **Also:** [**5 ways to boost your skills and increase your career opportunities**](https://www.zdnet.com/education/professional-development/5-ways-to-boost-your-skills-and-increase-your-career-opportunities/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Focus on the big picture**
 
 "Today's technology professionals should look beyond their current role in their organization, to think more broadly about the current challenges of the industry as a whole," says [Ben Smith](https://www.linkedin.com/in/bnsmth/), CTO of NetWitness. "Internally, they should seek out educational opportunities and tools available to expand their skills and succeed in their roles. Managers should know the top two or three goals of each of their employees, particularly those goals which may cross over from the professional world into the personal. The sooner a manager realizes that they cannot succeed by managing every employee identically, the stronger that manager's retention metric will be, whether in cybersecurity or any other industry." 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Shift thinking from heads-down tech to heads-up business concerns** 
 
@@ -82,11 +103,33 @@ Industry leaders across the spectrum share their concerns and advice about worki
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-resolution-of-macs-green-screen-problem-for-youtubers/"><u>[New] 2024 Approved Effortless Resolution of Mac's Green Screen Problem for YouTubers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-adventure-aces-ranking-games-that-make-you-want-to-explore/"><u>[New] In 2024, Adventure Aces Ranking Games That Make You Want to Explore</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-cutting-edge-features-in-the-latest-magix-video-pro-x/"><u>[Updated] 2024 Approved Cutting-Edge Features in the Latest Magix Video Pro X</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-marvelous-mac-display-selection-the-best-4k-offerings/"><u>[Updated] 2024 Approved Marvelous Mac Display Selection - The Best 4K Offerings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-strategies-for-effective-360-video-broadcasts-on-fb/"><u>2024 Approved Strategies for Effective 360 Video Broadcasts on FB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722892744794-bridging-the-gap-between-ios-and-android-messaging-incorporating-imessage-on-your-android-phone/"><u>Bridging the Gap Between iOS & Android Messaging: Incorporating iMessage on Your Android Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-unveiled-the-quintet-of-reasons-for-its-record-breaking-speed-to-fame/"><u>ChatGPT Unveiled: The Quintet of Reasons for Its Record-Breaking Speed to Fame</u></a></li>
+<li><a href="https://games-able.techidaily.com/chdman-technique-optimizing-old-game-isos-size-and-performance/"><u>ChDMan Technique: Optimizing Old Game ISOs Size & Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/do-you-need-a-blu-ray-player-in-the-era-of-digital-media-a-comprehensive-guide/"><u>Do You Need a Blu-Ray Player in the Era of Digital Media? A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-the-dsounddll-not-detected-issue-on-your-pc/"><u>Effective Fixes for the ‘Dsound.dll’ Not Detected Issue on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-methods-for-crediting-openais-chatgpt-in-your-writing/"><u>Effective Methods for Crediting OpenAI's ChatGPT in Your Writing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/framed-fantasies-expert-recommendations-on-software-and-sites-for-2024/"><u>Framed Fantasies Expert Recommendations on Software & Sites for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-extreme-sports-gopro-vs-star-sj7-comparison/"><u>In 2024, Extreme Sports GoPro Vs Star SJ7 Comparison</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-t2x-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo T2x 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-story-the-history-and-closure-of-yahoo-messenger-explained/"><u>Inside Story: The History & Closure of Yahoo! Messenger Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-present-obstacles-in-streaming-netflix-titles-smoothly/"><u>Overcoming Present Obstacles in Streaming Netflix Titles Smoothly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-recording-and-sharing-your-voice-on-iphone/"><u>Step-by-Step Instructions to Recording & Sharing Your Voice On iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-7-proven-methods-to-accelerate-your-computer/"><u>Ultimate Guide: 7 Proven Methods to Accelerate Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-reboot-process-on-any-ipad-model/"><u>Ultimate Guide: Mastering the Reboot Process on Any iPad Model</u></a></li>
+</ul></div>
+

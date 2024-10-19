@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech Careers: Discovering 5 Key Non-Technical Skills Highlighted by ZDNet"
-date: 2024-09-18 13:43:12
-updated: 2024-09-20 10:20:53
+date: 2024-10-16T18:03:31.311Z
+updated: 2024-10-18T22:33:55.744Z
 tags:
   - professional-development
 categories:
@@ -28,6 +28,13 @@ Soft skills are an invaluable part of any tech career.
 Good data and quality work in tech workplaces arise from team members possessing soft skills such as leadership, communication, and[emotional intelligence](https://www.zdnet.com/education/professional-development/emotional-intelligence-at-work-guide/) that bring out each other's best.
 
 Other more abstract soft skills, such as adaptability, self-motivation, and critical thinking, help tech workers stay on top of their blind spots as human beings and use the available tools effectively.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 people skills for tech jobs  
 
@@ -57,6 +64,13 @@ You can improve your collaboration skills by challenging yourself to work togeth
 
 Remember the importance of listening to and respecting other people's contributions. Your teammates can help create something more than the sum of its parts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Communication
 
 Strong written and verbal communication skills are essential in tech. 
@@ -77,7 +91,21 @@ Try developing your leadership skills by speaking up more frequently in meetings
 
 Challenge yourself to try difficult projects that require flexing your creative muscles. You can also take business classes in leadership at your local college or earn a certificate or [master's in organizational leadership](https://www.zdnet.com/education/business-management/best-online-organizational-leadership-masters/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Self-motivation
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -112,11 +140,30 @@ Check out our favorite [productivity apps](https://www.zdnet.com/education/profe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expedited-guide-to-effective-double-take-technique/"><u>[New] 2024 Approved Expedited Guide to Effective Double-Take Technique</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-five-steps-to-enhance-your-screenplay-narration/"><u>[Updated] 2024 Approved Five Steps to Enhance Your Screenplay Narration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-powerhouse-guide-to-screen-recording-with-tunefab/"><u>2024 Approved The Powerhouse Guide to Screen Recording with Tunefab</u></a></li>
+<li><a href="https://win-able.techidaily.com/gif-windows/"><u>素早くワザとGIF化! Windows画面キャプチャ術</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-computers-seamlessly-to-bluetooth-sound-systems-a-how-to/"><u>Connecting Computers Seamlessly to Bluetooth Sound Systems - A How-To</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/correcting-launchdll-not-found-issues-on-your-computer/"><u>Correcting Launch.dll Not Found Issues on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-our-favorite-gratis-linguistic-learning-applications-top-picks/"><u>Explore Our Favorite Gratis Linguistic Learning Applications - Top Picks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/fine-tuning-frequency-flux-innovative-approaches-to-minimize-noise-in-audacity/"><u>Fine-Tuning Frequency Flux Innovative Approaches to Minimize Noise in Audacity</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-the-full-scoop-on-meta-quest-3-exclusive-insights-into-release-timing-pricing-structure-and-hardware-features/"><u>Get the Full Scoop on Meta Quest 3 - Exclusive Insights Into Release Timing, Pricing Structure & Hardware Features</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-smart-7-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 7 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maintain-macbook-usage-despite-a-closed-lid-expert-hacks-and-tricks/"><u>Maintain MacBook Usage Despite a Closed Lid: Expert Hacks and Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-connectivity-issues-with-live-config-servers/"><u>Step-by-Step Solutions: Connectivity Issues with Live Config Servers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-to-correct-clientserver-vpn-issue-code-800/"><u>Step-by-Step Strategies to Correct Client/Server VPN Issue Code 800</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-superior-productivity-choose-from-these-7-amazing-notes-apps-for-ipad-and-ipad-pro/"><u>Unlock Superior Productivity: Choose From These 7 Amazing Notes Apps for iPad & iPad Pro</u></a></li>
+</ul></div>
+

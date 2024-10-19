@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Career Potential: Discover the Key Communication and Emotional Intelligence Skills Needed for Tech Roles as Performed by ZDNet"
-date: 2024-09-17 18:35:56
-updated: 2024-09-20 12:20:11
+date: 2024-10-16T22:38:38.244Z
+updated: 2024-10-18T20:54:53.170Z
 tags:
   - professional-development
 categories:
@@ -29,11 +29,31 @@ Good data and quality work in tech workplaces arise from team members possessing
 
 Other more abstract soft skills, such as adaptability, self-motivation, and critical thinking, help tech workers stay on top of their blind spots as human beings and use the available tools effectively.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 people skills for tech jobs  
 
 The following are among the most important soft skills for tech careers. Each skill can help you better work collaboratively, use your intellectual and creative strengths, and maintain mental discipline.
 
 [Computer science degrees](https://www.zdnet.com/education/computers-tech/best-online-computer-science-degree/) and other tech-related college programs teach these skills alongside hard skills. But you don't have to go back to college — you can cultivate these soft skills on your own time.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Adaptability
 
@@ -67,6 +87,13 @@ Though tech professionals work with computer systems and software, they still ne
 
 You can work on your written and verbal communication skills by attending workshops or night classes. Some agencies in your city may even offer classes for improving communication skills. Read more often and brush up on your grammar. Self-edit to avoid typos and improve your confidence.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Leadership
 
 Leadership is a crucial soft skill for tech career advancement. Senior engineers, developers, and managers need to be good leaders. 
@@ -76,6 +103,13 @@ Large-scale tech projects, such as game development, need a guiding force to suc
 Try developing your leadership skills by speaking up more frequently in meetings — when appropriate, of course — and trying to see the big picture behind your company's decisions. 
 
 Challenge yourself to try difficult projects that require flexing your creative muscles. You can also take business classes in leadership at your local college or earn a certificate or [master's in organizational leadership](https://www.zdnet.com/education/business-management/best-online-organizational-leadership-masters/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Self-motivation
 
@@ -112,11 +146,30 @@ Check out our favorite [productivity apps](https://www.zdnet.com/education/profe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfecting-time-lapse-videos-on-a-gopro-hero5-black/"><u>[Updated] Perfecting Time-Lapse Videos on a GoPro Hero5 Black</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-step-by-step-inserting-music-in-your-ppt-masterpieces-for-2024/"><u>[Updated] Step-by-Step Inserting Music in Your PPT Masterpieces for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-black-battery-compatibility-with-gopro-hero5-for-2024/"><u>[Updated] Ultimate Black Battery Compatibility with GoPro Hero5 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722878307800-code-39-problem-on-pc-heres-how-to-fix-it-in-windows/"><u>Code 39 Problem on PC? Here's How to Fix It in Windows!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/debunking-walmarts-value-a-deep-dive-into-4-membership-advantages/"><u>Debunking Walmart's Value: A Deep Dive Into 4 Membership Advantages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-for-taking-computer-screen-shots-across-all-platforms/"><u>Easy Methods for Taking Computer Screen Shots Across All Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-fixes-for-physxloaderdll-missing-or-lost-errors-in-windows/"><u>Effective Fixes for 'PhysXLoader.dll Missing or Lost Errors' In Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78+ Phone with Broken Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insight-into-google-pixel-fold-version-2-projected-cost-and-launch-window-alongside-speculated-features/"><u>Insight Into Google Pixel Fold (Version 2): Projected Cost and Launch Window Alongside Speculated Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-social-media-with-ai-powered-assistance-from-chatgpt/"><u>Mastering the Art of Social Media with AI-Powered Assistance From ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mending-dolby-digital-sound-on-your-pc-quick-fixes-revealed/"><u>Mending Dolby Digital Sound on Your PC – Quick Fixes Revealed!✅</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/professional-methods-to-remove-dust-and-grime-from-personal-stereo-speaker-systems/"><u>Professional Methods to Remove Dust and Grime From Personal Stereo Speaker Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-installing-new-fonts-on-your-iphone/"><u>Step-by-Step Guide: Installing New Fonts on Your iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ng-music-and-media-with-precision-using-youtube-video-editor/"><u>Uniting Music & Media with Precision Using YouTube Video Editor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watching-james-bond-films-chronologically-a-step-by-step-tutorial/"><u>Watching James Bond Films Chronologically: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728492625430-windows/"><u>Windows电脑上如何找回永久删除的文件：全面指南</u></a></li>
+</ul></div>
+

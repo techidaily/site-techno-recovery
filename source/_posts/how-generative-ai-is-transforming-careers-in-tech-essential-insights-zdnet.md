@@ -1,7 +1,7 @@
 ---
 title: "How Generative AI Is Transforming Careers in Tech: Essential Insights | ZDNet"
-date: 2024-09-19 23:25:17
-updated: 2024-09-20 12:58:53
+date: 2024-10-18T04:22:27.618Z
+updated: 2024-10-19T11:17:13.064Z
 tags:
   - professional-development
 categories:
@@ -100,11 +100,40 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-dual-dimensions-in-display-the-instagram-guide-to-effortless-image-turns/"><u>[New] 2024 Approved Dual Dimensions in Display The Instagram Guide to Effortless Image Turns</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insta-spin-wonders-expert-techniques-to-enthrall-your-followers-with-flipped-photos-for-2024/"><u>[Updated] Insta Spin Wonders Expert Techniques to Enthrall Your Followers with Flipped Photos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erate-mac-youtube-video-matching-aspect-ratio/"><u>Accelerate Mac Youtube Video Matching Aspect Ratio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-share-apple-tvplus-streams-with-chromecast-technology/"><u>Comprehensive Guide to Share Apple TV+ Streams with Chromecast Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-nintendo-switch-to-tv-a-comprehensive-tutorial-for-gamers/"><u>Connecting Nintendo Switch to TV: A Comprehensive Tutorial for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-twitter-personalities-in-travel-offers-wisdom-and-excursions-for-66-profiles/"><u>Discover the Best Twitter Personalities in Travel: Offers, Wisdom & Excursions for 66 Profiles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-of-exercise-record-apps-dominating-2024s-fitness-world/"><u>Discover the Ultimate Selection of Exercise Record Apps Dominating 2024'S Fitness World</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/electrifying-benefits-how-owning-an-ev-gets-you-fast-passes-in-hov-lanes-and-prime-parking-places/"><u>Electrifying Benefits: How Owning an EV Gets You Fast Passes in HOV Lanes & Prime Parking Places!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-itel-p55t-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Itel P55T Unlock Without Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-bios-steps-to-correct-boot-errors-and-complete-system-initialization/"><u>Mastering the BIOS: Steps to Correct Boot Errors and Complete System Initialization</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/overwatch-game-review-where-fun-meets-tactical-team-shooting-skill/"><u>Overwatch Game Review: Where Fun Meets Tactical Team Shooting Skill</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolve-no-sound-problems-on-your-chromecast-with-these-tips/"><u>Resolve No-Sound Problems on Your Chromecast with These Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionizing-healthcare-cyber-therapies/"><u>Revolutionizing Healthcare Cyber-Therapies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-gamewatching-unlock-nba-livestream-top-15-hacks/"><u>Seamless Gamewatching Unlock NBA Livestream (Top 15 Hacks)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-savvy-viewers-manual-live-streaming-the-2024-olympic-games-successfully/"><u>Tech-Savvy Viewers' Manual: Live Streaming the 2024 Olympic Games Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-sequence-viewing-the-conjuring-series-properly/"><u>The Ultimate Sequence: Viewing 'The Conjuring' Series Properly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-purchasing-oculus-quest-2-games-via-meta-platform/"><u>Ultimate Guide: Purchasing Oculus Quest ^2 Games via Meta Platform</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-removing-tiktok-watermarks-for-free/"><u>Updated The Ultimate Guide to Removing TikTok Watermarks for Free</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

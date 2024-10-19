@@ -1,7 +1,7 @@
 ---
 title: Phone Testing Processes Unveiled
-date: 2024-10-08T16:39:45.841Z
-updated: 2024-10-13T09:05:36.313Z
+date: 2024-10-15T08:18:45.042Z
+updated: 2024-10-18T19:28:28.205Z
 tags:
   - apple
 categories:
@@ -38,25 +38,11 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What makes a phone ZDNET recommended?
 
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
 
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Design and ergonomics
 
@@ -68,6 +54,13 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance
 
 Kerry Wan/ZDNET
@@ -77,6 +70,13 @@ Several factors affect a phone's performance, including LTE/5G signal, battery l
 Performance testing also includes putting phones through varying levels of graphic-intensive tasks, including importing and exporting spreadsheets, photo-editing in Adobe Lightroom, and playing mobile games like _Genshin Impact_ and _Asphalt 9\._ I'll oftentimes have a music player app running in the background or YouTube Picture-in-Picture just to push the mobile processor a little more.
 
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cameras
 
@@ -89,10 +89,10 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -104,16 +104,10 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Special features
@@ -162,18 +156,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-avatar-makeover-building-your-cartoon-personality/"><u>[New] In 2024, Avatar Makeover Building Your Cartoon Personality</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>[Updated] The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/cambia-tus-archivos-pgm-a-formato-tiff-sin-costo-alguno-con-conversion-en-linea-de-imagenes-freepgm2tiff/"><u>Cambia Tus Archivos PGM a Formato TIFF Sin Costo Alguno Con Conversión en Línea De Imágenes - FreePGM2TIFF</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/detailed-look-at-the-meta-quest-anticipated-launch-pricing-strategy-and-cutting-edge-specifications-explained/"><u>Detailed Look at the Meta Quest 지: Anticipated Launch, Pricing Strategy & Cutting-Edge Specifications Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/engage-with-ease-mastering-the-rtx-conversational-bot/"><u>Engage With Ease: Mastering the RTX Conversational Bot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-n-vs-llama-version-3-an-in-depth-showdown-of-ai-giants/"><u>GPT-N Vs. Llama Version 3: An In-Depth Showdown of AI Giants</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-refresh-or-power-cycle-your-ipad-of-any-make-and-model/"><u>How to Successfully Refresh or Power Cycle Your iPad of Any Make and Model</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Pro Max Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-lag-in-your-chromecast-audio-streaming-a-step-by-step-guide/"><u>Resolving Lag in Your Chromecast Audio Streaming: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-missing-comctl32dll-file-a-step-by-step-guide/"><u>Resolving the Missing Comctl32.dll File: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-resolving-code-800-on-clientserver-vpns/"><u>Troubleshooting Tips: Resolving Code 800 on Client/Server VPNs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-a-guide-by-toms-hardware-experts/"><u>Unveiling the Latest in Computing: A Guide by Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-documentaries-about-historic-events-space-or-any-other-topic-that-is-impossible-to-stage-rely-on-the-videos-that-entered-the-public-domain-for-one-r/"><u>Updated Documentaries About Historic Events, Space or Any Other Topic that Is Impossible to Stage Rely on the Videos that Entered the Public Domain for One Reason or the Other. Thats Why in This Article, We for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-mobile-photography-boosters-iphone-vs-android-for-2024/"><u>[Updated] Essential Mobile Photography Boosters IPhone vs Android for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-election-excursions-best-gamified-democracy-sites/"><u>[Updated] In 2024, Election Excursions Best Gamified Democracy Sites</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elite-selection-advanced-vehicle-monitoring-systems/"><u>[Updated] In 2024, Elite Selection Advanced Vehicle Monitoring Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-balancing-cost-and-performance-on-the-hp-stream-14-laptop/"><u>Comprehensive Review: Balancing Cost & Performance on the HP Stream 14 Laptop</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo A2 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-images-in-your-instagram-profile/"><u>In 2024, Mastering Images in Your Instagram Profile</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://win-studio.techidaily.com/is-microsoft-planning-fees-for-future-windows-10-updates-expected-cost-breakdown-revealed-techinsights/"><u>Is Microsoft Planning Fees for Future Windows 10 Updates? Expected Cost Breakdown Revealed | TechInsights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-pros-and-cons-of-having-multiple-youtube-presence-a-guide/"><u>Navigating the Pros and Cons of Having Multiple YouTube Presence: A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/our-selection-of-the-cream-of-the-crop-in-iphone-gps-software/"><u>Our Selection of the Cream of the Crop in iPhone GPS Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/psn-access-issues-identifying-if-its-a-widespve-problem-or-individual-connectivity/"><u>PSN Access Issues: Identifying if It's a Widespve Problem or Individual Connectivity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-user-friendly-guide-to-integrating-airpods-with-your-macbook-air-system/"><u>The User-Friendly Guide to Integrating AirPods with Your MacBook Air System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tips-to-optimize-and-decrease-discord-cpu-usage/"><u>Top Tips to Optimize and Decrease Discord CPU Usage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-solving-libexec32dll-errors-efficiently/"><u>Troubleshooting and Solving libexec32.dll Errors Efficiently</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Conquering First-Day Fears: Strategies for Mastering New Workplace Jitters"
-date: 2024-09-18 16:23:28
-updated: 2024-09-20 10:15:15
+date: 2024-10-14T13:32:59.603Z
+updated: 2024-10-18T17:07:01.411Z
 tags:
   - professional-development
 categories:
@@ -25,6 +25,13 @@ Anxiety is an emotional defense mechanism that puts us on alert in threatening s
 
 These emotions trigger a stress response in our bodies, which can cause physical, emotional, and mental symptoms.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Physical symptoms
 
 New job anxiety can cause many physical symptoms, such as headaches, nausea, changes in appetite, muscle pain, and restlessness. You may find it difficult to fall asleep or stay awake. 
@@ -34,6 +41,13 @@ If the anxiety escalates to a panic attack, you might also encounter shortness o
 ### Mental symptoms
 
 The mental symptoms of new job anxiety may include constant worry, racing thoughts, negativity, and feelings of impending doom or danger. You may be irritable, on edge, and struggling to concentrate. You might also lose confidence or feel out of control of your situation. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Therapist insights on new job anxiety
 
@@ -70,6 +84,13 @@ PYP: The anxiety alarm goes off when we think we're facing danger (even if we're
 These are great and will actually reduce some of your anxiety, as you are listening to the alarm and responding with appropriate actions.
 
 However, if your anxiety is so elevated that you feel paralyzed and cannot take action or are self-sabotaging, it could be harmful. Anxiety is the opposite mental state to learning. Some anxiety will help you stay attuned and careful. Too much, and you will be so flooded you can't take anything in.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to do when you're feeling new job anxiety
 
@@ -138,6 +159,13 @@ During a [magnetic resonance imaging study](https://pubmed.ncbi.nlm.nih.gov/1757
 
 So talk it out with your family, friends, counselor, or mentor. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Personalize your workspace so that it feels familiar and comforting.
 
 ### **ZDNET** Recommends
@@ -158,11 +186,25 @@ Consider prioritizing tasks by their importance and completing a full assignment
 
 You may want to break down large projects into smaller steps to save yourself from getting flustered and procrastinating. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10\. Have a self-care routine each day.
 
 Self-care is important for your mental health and quelling new job anxiety, but it can also help improve your productivity. If you take the time to rest, relax, and recharge throughout the day, you can reset your mind and body.
 
 This might be as simple as taking a 15-minute break and going for a walk, listening to some music, or having a coffee or tea. The activity you choose is up to you. It can be physical, social, or intellectual.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 11\. Consider therapy.
 
@@ -203,11 +245,30 @@ _Last reviewed March 16, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-captivating-igtv-cover-photos-thumbnails/"><u>[New] 2024 Approved Crafting Captivating IGTV Cover Photos (Thumbnails)</u></a></li>
+<li><a href="https://facebook.techidaily.com/assessing-metas-status-symbol-a-financial-decision/"><u>Assessing Meta's Status Symbol - A Financial Decision?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enabling-dual-security-a-step-by-step-guide-to-activating-gmails-two-factor-authentication/"><u>Enabling Dual Security: A Step-by-Step Guide to Activating Gmail's Two-Factor Authentication</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211569109-fixing-the-dota-2-changing-rendering-api-error-error-id-2024-in-minutes/"><u>Fixing the Dota 2 Changing Rendering API Error (Error ID: 2024) in Minutes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-activatingdeactivating-network-discovery-on-a-windows-10-computer/"><u>Guide to Activating/Deactivating Network Discovery on a Windows 10 Computer</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/guide-to-moving-videos-effortlessly-from-ios-to-android-galaxy-smartphones/"><u>Guide to Moving Videos Effortlessly From iOS to Android Galaxy Smartphones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-se-2020-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone SE (2020) using itunes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-curating-best-tiktok-scenes-as-pixel-art/"><u>In 2024, Curating Best TikTok Scenes as Pixel Art</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-launch-free-portable-dvd-software-today/"><u>In 2024, Launch Free, Portable DVD Software Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-outages-understanding-the-causes-of-microsoft-teams-downtime/"><u>Navigating Outages: Understanding the Causes of Microsoft Teams Downtime</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-connectivity-hurdles-answering-phone-calls-with-a-samsung-galaxy-watch/"><u>Overcoming Connectivity Hurdles: Answering Phone Calls with a Samsung Galaxy Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-hurdles-in-the-ipad-to-printer-linkage-process/"><u>Overcoming Hurdles in the iPad to Printer Linkage Process</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-paramount-plus-connection-problems-on-your-roku-device/"><u>Step-by-Step Solutions for Paramount Plus Connection Problems on Your Roku Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-hottest-movies-on-disneyplus-today/"><u>The Ultimate Guide to the Hottest Movies on Disney+ Today</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlock-the-power-of-spotifys-advertising-potential-for-2024/"><u>Unlock the Power of Spotify’s Advertising Potential for 2024</u></a></li>
+</ul></div>
+

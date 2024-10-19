@@ -1,7 +1,7 @@
 ---
 title: "Master New Talents: Unlocking 5 Key Methods to Improve Abilities and Career Growth Inspired by ZDNet"
-date: 2024-09-17 10:33:34
-updated: 2024-09-20 10:35:28
+date: 2024-10-14T02:05:42.193Z
+updated: 2024-10-18T20:02:06.364Z
 tags:
   - professional-development
 categories:
@@ -45,6 +45,13 @@ Yet even with all these opportunities in place, Luna suggests there's nothing qu
 
 "I truly think that the most important part of development is to take a risk," Luna says. "Really jump and learn from your experience."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Take time to learn for yourself  
 
 While internal courses play a key role in training and development, Mayank Goswami, assistant vice president at Travelex, says the onus for personal improvement often rests with the individual.
@@ -60,6 +67,13 @@ Goswami says the requirement to take charge of your own professional development
 He says continual advances in IT -- such as the introduction of artificial intelligence (AI) and automation -- mean professionals must stay ahead of the curve.
 
 "During my career, I've seen some major changes. Now, with the introduction of AI, a lot of vendors are adding tools to automate tasks that used to be completed manually. The key message is that things are changing -- and everything's changing fast. You will have to adopt; you must learn and then you will be successful," Goswami says. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Spend time with external experts
 
@@ -77,6 +91,19 @@ Hibbitt says one-to-one guidance from business experts can also boost your skill
 
 "I've been lucky in the past to have mentors, externally as well, and they've been instrumental in helping me understand how I can grow and where I should be focusing my learning," he says. "I think there's a certain element of education on the job as well. If you can get into an organization that's going through change, there are always opportunities to learn."
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Stay open to new opportunities
 
 Adam Warne, CIO at retailer River Island, says every professional -- no matter how far up the career ladder they climb -- should always feel like a work in progress. 
@@ -92,6 +119,13 @@ For people who are looking to hone their skills, Warne says the sources of inspi
 What's more, not all those methods are online. Warne advises professionals to look for innovative ways to train and develop, especially if they're looking to boost their digital smarts.
 
 "I could decide, as a non-technical professional, to go to several organizations and say, 'I want to get into tech'. And the opportunities that exist can range from a 12 to 18-week boot camp through to a two-year apprenticeship. So, I think there are lots of positive ways now for people to develop their skills."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Work for someone who develops talent
 
@@ -126,11 +160,29 @@ White says the lesson for managers who might lose talent is simple -- invest tim
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-quest-1000plus-game-adventures-unfolded/"><u>[New] In 2024, Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-insiders-guide-to-recording-slideshows-for-2024/"><u>[Updated] The Insider's Guide to Recording Slideshows for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-8-released-full-timeline-in-depth-features-overview-and-expected-retail-pricing-details/"><u>Apple Watch Series 8 Released: Full Timeline, In-Depth Features Overview & Expected Retail Pricing Details</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ev-types-battery-electric-bev-plug-in-hybrid-phev-hydrogen-fuel-cell-fcev-and-conventional-hybrids-explained/"><u>Comparing EV Types: Battery-Electric (BEV), Plug-In Hybrid (PHEV), Hydrogen Fuel Cell (FCEV) & Conventional Hybrids Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-how-to-choose-the-best-laptop-or-desktop-for-your-academic-needs/"><u>Essential Tips: How to Choose the Best Laptop or Desktop for Your Academic Needs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-eradicating-vertical-interruptions-from-your-samsung-screen/"><u>Expert Advice: Eradicating Vertical Interruptions From Your Samsung Screen</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-madden-19-excellent-game-mechanics-marred-by-older-elements/"><u>Exploring Madden 19: Excellent Game Mechanics Marred by Older Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-addressing-unresponsive-device-camera-in-win11/"><u>Guide to Addressing Unresponsive Device: Camera in Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-preventing-yourself-from-watching-youtube-on-an-ipad/"><u>Guide: Preventing Yourself From Watching YouTube on an iPad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-mobile-devices-secure-your-adb-drivers-from-samsungs-website-today/"><u>Samsung Mobile Devices: Secure Your ADB Drivers From Samsung’s Website Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-10-hang-issues-a-comprehensive-guide-to-get-it-running-smoothly-again/"><u>Solving Windows 10 Hang Issues: A Comprehensive Guide to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://win11.techidaily.com/the-comprehensive-analysis-of-windows-group-policies-through-a-threefold-lens/"><u>The Comprehensive Analysis of Windows Group Policies Through a Threefold Lens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-fix-you-need-getting-your-playstation-5-gamepad-charging-again/"><u>The Fix You Need: Getting Your PlayStation 5 Gamepad Charging Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-blue-screen-computing-issues/"><u>Unraveling the Mystery Behind 'Blue Screen' Computing Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-innovation-a-look-into-the-new-apple-iphone-release/"><u>Unveiling Innovation: A Look Into the New Apple iPhone Release</u></a></li>
+</ul></div>
+

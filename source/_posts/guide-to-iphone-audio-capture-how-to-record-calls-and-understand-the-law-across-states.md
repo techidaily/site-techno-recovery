@@ -1,7 +1,7 @@
 ---
 title: Guide to iPhone Audio Capture - How to Record Calls and Understand the Law Across States
-date: 2024-10-07T00:27:17.325Z
-updated: 2024-10-12T19:25:08.185Z
+date: 2024-10-17T21:39:58.761Z
+updated: 2024-10-19T10:12:02.418Z
 tags:
   - apple
 categories:
@@ -44,6 +44,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to your iPhone Settings
 
 To find the Journal app setting, open your Settings app on your iPhone.
@@ -51,10 +64,10 @@ To find the Journal app setting, open your Settings app on your iPhone.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find Privacy & Security
@@ -62,6 +75,13 @@ Maria Diaz/ZDNET
 Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
 
@@ -78,10 +98,10 @@ Maria Diaz/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **FAQ**
@@ -89,13 +109,6 @@ Maria Diaz/ZDNET
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -110,13 +123,6 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -156,16 +162,16 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-from-snapshots-to-delights-viral-eats-you-need-in-your-life/"><u>[New] 2024 Approved From Snapshots to Delights Viral Eats You Need in Your Life</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-guide-linking-your-laptop-to-your-television-using-an-hdmi-cable/"><u>Easy Guide: Linking Your Laptop to Your Television Using an HDMI Cable</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eliminate-unwanted-bass-noise-a-guide-to-resolving-subwoofer-hum-issues/"><u>Eliminate Unwanted Bass Noise: A Guide to Resolving Subwoofer Hum Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-snapshots-effective-ways-to-restore-focus-on-your-iphones-camera/"><u>Enhance Your Snapshots: Effective Ways To Restore Focus On Your iPhone's Camera</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/immersive-windows-music-mastery/"><u>Immersive Windows Music Mastery</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-the-challenge-solutions-to-metro-exodus-stability-problems-on-computer-systems/"><u>Overcoming the Challenge: Solutions to Metro Exodus Stability Problems on Computer Systems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-sql-systems-with-mvp-insights/"><u>Restoring SQL Systems with MVP Insights</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-no-spin-lock-available-error-stop-code-0x00000001d-fixes-and-tips/"><u>Troubleshooting the No Spin Lock Available Error: Stop Code 0X00000^001D Fixes and Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-task-alerts-on-slack/"><u>Ultimate Guide: Mastering Task Alerts on Slack</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/zoomview-partition-inspection-for-2024/"><u>ZoomView Partition Inspection for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-8-free-videography-programs-perfect-for-indie-filmmakers/"><u>[New] 2024 Approved Top 8 Free Videography Programs Perfect For Indie Filmmakers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-culinary-connoisseurs-must-watch-food-content/"><u>[New] Culinary Connoisseurs Must-Watch Food Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-balanced-narrative-with-b-roll-content-for-2024/"><u>Crafting a Balanced Narrative with B-Roll Content for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-unresponsive-tracking-on-the-magic-mouse-with-minimal-hassle/"><u>How to Repair Unresponsive Tracking on the Magic Mouse with Minimal Hassle</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-5-lite-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 5 Lite by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-best-online-no-download-gif-conversion-services-reviewed/"><u>In 2024, Best Online No-Download GIF Conversion Services Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-best-places-to-explore-vector-artwork-at-no-cost/"><u>In 2024, Unlock the Best Places to Explore Vector Artwork at No Cost</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-showdown-obs-vs-wirecast-faceoff-for-2024/"><u>Live Streaming Showdown OBS vs Wirecast Faceoff for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-web-archiving-a-step-by-step-guide-to-the-wayback-machine/"><u>Mastering Web Archiving: A Step-by-Step Guide to the Wayback Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-d3dx92edll-file-not-found-issue/"><u>Resolving the d3dx9_2e.dll File Not Found Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/safeguard-data-transfer-overcoming-ssl-certificate-issues-and-hidden-errors/"><u>Safeguard Data Transfer: Overcoming SSL Certificate Issues and Hidden Errors</u></a></li>
 </ul></div>
 

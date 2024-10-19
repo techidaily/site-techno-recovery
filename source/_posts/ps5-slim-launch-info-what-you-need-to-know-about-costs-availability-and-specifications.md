@@ -1,7 +1,7 @@
 ---
 title: "PS5 Slim Launch Info: What You Need To Know About Costs, Availability & Specifications"
-date: 2024-10-07T03:47:46.952Z
-updated: 2024-10-13T11:22:00.630Z
+date: 2024-10-14T13:35:01.610Z
+updated: 2024-10-18T23:57:44.331Z
 categories:
   - BestProducts
 description: "This Article Describes PS5 Slim Launch Info: What You Need To Know About Costs, Availability & Specifications"
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
  Sony revealed the PS5 Slim officially on October 10, 2023\. It launched in November 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## PS5 Slim Price
 
  The PlayStation 5 Slim comes in two versions, just like the original. One has a disc drive, and the other is digital-only. We thought it would see a price cut over the original MSRP, but that doesn't seem to be the case.
@@ -39,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 ![The vertical stand for the PS5 Slim](https://www.lifewire.com/thmb/I89FBnF0oUfSqfSpcHdX3A8Vv3c=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-Vertical-Stand-7ab6640af9a94338978badf7bbe2c816.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sony
 
  Additionally, if you get the Digital Edition and want to add a disc drive later, you can. It will be available for $79.99\. In this case, you're better off getting the one that comes with the drive already.
 
 [  Here's what we think the PS5 Pro will cost ](https://www.lifewire.com/playstation-5-pro-7966359) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  PlayStation 5 Slim Features & Specs
 
@@ -64,21 +71,7 @@ Sony
 
 ![The new PS5 with the side panel removed](https://www.lifewire.com/thmb/LcAwBA_R8RGMc2UJ9cPM-tGd-LI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-side-panel-27489245d8f94d12a9aa30ca3077ecd1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sony
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Latest News About the PS5 Slim
 
@@ -91,15 +84,22 @@ Sony
 [ The Best Gaming Consoles of 2024 ](https://www.lifewire.com/best-gaming-consoles-4154610) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### PS5 Slim w/ Disc Drive
 
  Orig.$500 [ $450 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fplaystation-5%2Fps5-consoles%2Fpcmcat1587395025973.c%3Fid%3Dpcmcat1587395025973) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### PS5 Slim Digital Edition
 
@@ -120,18 +120,18 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/20-off-driver-easy-coupon-2024-official-coupon-code/"><u>20% Off Driver Easy Coupon | 2024 Official Coupon Code</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/achieve-lightning-fast-battlenet-downloads-the-ultimate-guide-for-optimal-internet-speed/"><u>Achieve Lightning-Fast Battlenet Downloads: The Ultimate Guide for Optimal Internet Speed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-radeon-hd-7870-driver-downloads-and-latest-update-information-for-windows-11/"><u>AMD Radeon HD 7870 Driver Downloads & Latest Update Information for Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beats-wireless-headphones-connection-guide-how-to-pair-with-windows-11-step-by-step-tutorial/"><u>Beats Wireless Headphones Connection Guide: How to Pair with Windows 11 - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-guide-to-effortless-wireless-printer-connection/"><u>Beginner's Guide to Effortless Wireless Printer Connection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-gaming-or-work-efficiency-by-optimizing-mouse-sensitivity-dpi-configuration/"><u>Boost Your Gaming or Work Efficiency by Optimizing Mouse Sensitivity (DPI) Configuration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808110465-desktop-icon-disappearance-in-windows-10-heres-how-to-get-them-back/"><u>Desktop Icon Disappearance in Windows 10? Here's How to Get Them Back!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-activate-your-realtek-asio-sound-controller-for-optimal-pc-performance-in-windows-navigator4/"><u>Download and Activate Your Realtek Asio Sound Controller for Optimal PC Performance in Windows Navigator_4</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimize-your-pc-new-nvidia-geforce-210-drivers-for-the-latest-windows-11-systems/"><u>Optimize Your PC: New NVIDIA GeForce 210 Drivers for the Latest Windows 11 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stream-your-computers-desktop-onto-any-screen-with-easy-chromecast-integration/"><u>Stream Your Computer's Desktop Onto Any Screen with Easy Chromecast Integration</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/toms-hardware-review-the-ultimate-guide/"><u>Tom's Hardware Review: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/trouble-with-a-wet-lightning-connector-on-your-iphone-discover-the-top-2-fixes-for-damage-control/"><u>Trouble with a Wet Lightning Connector on Your iPhone? Discover the Top 2 Fixes for Damage Control</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-8-criteria-when-expanding-your-4k-setup/"><u>[New] 2024 Approved Top 8 Criteria When Expanding Your 4K Setup</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-sound-excellence-for-podcasters-ultimate-audio-interface-guide/"><u>[New] Sound Excellence for Podcasters Ultimate Audio Interface Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-alias-update-on-google-meet-devices/"><u>[Updated] 2024 Approved Mastering Alias Update on Google Meet Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-your-smartphone-experience-mastering-androids-quick-access-features/"><u>Ace Your Smartphone Experience: Mastering Android's Quick Access Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-mastering-the-art-of-posting-full-size-images-on-instagram/"><u>Complete Guide: Mastering the Art of Posting Full-Size Images on Instagram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-ahead-with-rumors-projecting-the-price-tag-probable-launch-date-and-tech-insights-of-the-incoming-nothing-phone-nfold/"><u>Getting Ahead with Rumors: Projecting the Price Tag, Probable Launch Date & Tech Insights of the Incoming Nothing Phone nFold</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m34-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M34 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/liberating-your-account-beyond-the-shadowban/"><u>Liberating Your Account Beyond the Shadowban</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-dive-into-the-latest-hardware-reviews/"><u>Tom's Tech Insights: Dive Into the Latest Hardware Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tutorial-for-handling-the-absence-of-d3dx933dll-in-your-computer/"><u>Tutorial for Handling the Absence of d3dx9_33.dll in Your Computer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-4k-showcase-must-see-video-clips-for-any-enthusiast/"><u>Updated In 2024, The Ultimate 4K Showcase Must-See Video Clips for Any Enthusiast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/virtual-attendance-to-samsung-unpacked-2021-how-to-tune-in-remotely/"><u>Virtual Attendance to Samsung Unpacked 2021: How to Tune In Remotely</u></a></li>
 </ul></div>
 

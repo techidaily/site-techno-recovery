@@ -1,7 +1,7 @@
 ---
 title: "Tips for Fresh Grads: How to Avoid Workplace Burnout, According to ZDNet Expertise"
-date: 2024-09-18 22:53:55
-updated: 2024-09-20 12:32:22
+date: 2024-10-11T22:33:09.521Z
+updated: 2024-10-18T16:21:59.484Z
 tags:
   - professional-development
 categories:
@@ -40,6 +40,19 @@ People experience burnout in all jobs, but particularly those involving many ext
 * Social workers and therapists
 * Teachers
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What causes burnout?
 
 Burnout is brought about by factors that originate either[internally or externally](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230825/). Because the causes of burnout vary by person, they are not always straightforward to understand.
@@ -61,6 +74,13 @@ External factors contributing to burnout relate to your environment. Some exampl
 * High levels of stress and responsibility
 * Low autonomy
 * Tight deadlines
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 ways to prevent burnout
 
@@ -117,6 +137,19 @@ If you are able to access one, consider seeing a therapist. Mental health profes
 
 **7\. Recognize when it's time to leave.** 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 * [These are the least stressful jobs in tech](https://www.zdnet.com/article/least-stressful-jobs-in-tech/)
@@ -129,6 +162,13 @@ Use the downtime between jobs to recuperate and create an action plan for the ne
 * If your old job gave you little autonomy, your future job needs a more collaborative workplace culture.
 
 Not ready to leave yet, or just need a brief break? Make sure you're using your vacation time. You've earned it!
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## In conclusion 
 
@@ -167,11 +207,31 @@ _Last reviewed March 24, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-10-iphone-and-android-video-editing-apps-for-gopro/"><u>[New] In 2024, Top 10 iPhone & Android Video Editing Apps for GoPro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-thorough-scrutiny-bublcams-panoramic-innovation-for-2024/"><u>[Updated] Thorough Scrutiny Bublcam's Panoramic Innovation for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-face-off-is-it-chatgpt-plus-or-perplexity-that-outperforms-in-ai-conversations/"><u>Chatbot Face-Off: Is It ChatGPT Plus or Perplexity that Outperforms in AI Conversations?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-troubleshooting-of-kernels-inplace-data-failures/"><u>Comprehensive Troubleshooting of Kernel's Inplace Data Failures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/dive-into-camtasias-ken-burns-feature-rich-tutorial-for-2024/"><u>Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-strategies-for-protected-email-registration-in-server-environments/"><u>Expert Strategies for Protected Email Registration in Server Environments</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-the-best-value-for-an-amplified-tv-signal-the-1byone-digital-indoor-antenna/"><u>Experts Weigh In on the Best Value for an Amplified TV Signal: The 1byOne Digital Indoor Antenna</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guarding-against-unintended-data-leakage-in-custom-gpts/"><u>Guarding Against Unintended Data Leakage in Custom GPTs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hassle-free-steps-for-installing-the-keyspan-usa-19hs-keyboard-driver-on-windows-operating-systems/"><u>Hassle-Free Steps for Installing the Keyspan USA-19HS Keyboard Driver on Windows Operating Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-90-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-title-design-made-easy-a-final-cut-pro-x-tutorial/"><u>In 2024, Title Design Made Easy A Final Cut Pro X Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-the-next-gen-samsung-galaxy-z-flip-7-projected-costs-and-expected-market-launch-info/"><u>Inside Look at the Next-Gen Samsung Galaxy Z Flip 7 - Projected Costs & Expected Market Launch Info</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-data-monitoring-insights-into-controlling-internet-and-phone-use/"><u>Mastering Data Monitoring: Insights Into Controlling Internet and Phone Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-free-streaming-services-like-netflix/"><u>Top 10 Free Streaming Services Like Netflix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unified-playlist-creation-mastering-the-art-of-combining-lists-on-spotify/"><u>Unified Playlist Creation: Mastering the Art of Combining Lists on Spotify</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-10-network-adjustments-how-to-switch-your-computers-discoverability-options/"><u>Windows 10 Network Adjustments: How to Switch Your Computer's Discoverability Options</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Rethink Your Strategy: Understanding 'Quiet Firing' - The Emerging Concern in Today's Workforce | ZDNet"
-date: 2024-09-17 19:28:51
-updated: 2024-09-20 11:53:37
+date: 2024-10-12T05:11:23.278Z
+updated: 2024-10-19T07:06:44.871Z
 tags:
   - professional-development
 categories:
@@ -76,11 +76,33 @@ The consequences of quiet quitting and quiet firing impact both employees and em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-unlock-youtubes-enigmentic-video-cache/"><u>[New] 2024 Approved How to Unlock YouTube’s Enigmentic Video Cache</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-daily-dough-pewdiepies-earnings-breakdown/"><u>[Updated] 2024 Approved Daily Dough PewDiePie's Earnings Breakdown</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-6s-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 6s</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-easily-resolve-error-messages-on-wireless-adapters-and-access-points-aps/"><u>How To Easily Resolve Error Messages on Wireless Adapters and Access Points (APs)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-stream-spotify-simultaneously-with-a-friend/"><u>Is It Possible to Stream Spotify Simultaneously with a Friend?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-play-40c-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor Play 40C Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/social-media-slang-decoded-the-meaning-behind-a-retweet-or-re-tweet/"><u>Social Media Slang Decoded: The Meaning Behind a 'Retweet' Or 'Re-Tweet'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strengthening-icloud-email-defenses-through-biometric-authentication-plus-password/"><u>Strengthening iCloud Email Defenses Through Biometric Authentication Plus Password</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mart-youtubers-playbook-fixing-short-snafus/"><u>The Smart Youtuber's Playbook Fixing Short Snafus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-leading-compact-projection-units-of-2024-revealed/"><u>Ultimate Selection: Leading Compact Projection Units of 2024 Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-digital-identity-identifying-your-personal-email-address/"><u>Unlocking Your Digital Identity: Identifying Your Personal Email Address</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

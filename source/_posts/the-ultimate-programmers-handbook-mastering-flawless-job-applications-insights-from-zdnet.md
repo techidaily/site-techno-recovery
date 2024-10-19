@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Programmer's Handbook: Mastering Flawless Job Applications - Insights From ZDNet"
-date: 2024-09-19 16:58:58
-updated: 2024-09-20 10:50:29
+date: 2024-10-12T20:34:34.707Z
+updated: 2024-10-18T21:14:21.492Z
 tags:
   - professional-development
 categories:
@@ -55,6 +55,13 @@ If you emphasize interesting products you helped create, you may seem like a goo
 
 Tailor your application materials to fit the kind of company culture you'd like to join.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Are you a fit for the role?
 
 When an employer looks at your application, they'll judge if you fit the role by comparing your professional history to the requirements listed in the job description. They'll consider: 
@@ -69,6 +76,19 @@ Even if you aren't a 100% match, applying may still be worthwhile! If most of th
 ## How to craft a stand-out job application
 
 Once you've found an attractive job on a job search site, it's time to craft the perfect application. This step needs to be handled methodically and takes good critical thinking and written communication skills.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Before doing anything else, study the job description.
 
@@ -96,6 +116,19 @@ Don't spend too much time talking about job duties. Rather, focus on your work's
 Finally, make sure to proofread for spelling and grammar. Employers may zero in on errors and dismiss your good qualities.
 
 Consider making a master resume including all your previous positions and accomplishments. You can use that resume as a basic template and customize it by swapping out different keywords and emphasizing certain skills and credentials.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Writing a cover letter
 
@@ -157,6 +190,13 @@ References in higher job positions may be more impressive. However, your referen
 
 Etiquette dictates asking permission to use someone as a reference before listing them. Notify possible references one to two weeks before you begin applying for jobs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Answering salary expectations
 
 If you need to give your expected salary on a job application, you should, whenever possible, answer "open to negotiation." 
@@ -168,6 +208,13 @@ Additionally, be aware that employers are forbidden by law in some states and mu
 Check if such laws exist where you live before answering salary history questions.
 
 ## Bonus tips: Professionalizing yourself online
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use a professional-sounding email address.
 
@@ -214,6 +261,13 @@ If you've followed our [networking tips](https://www.zdnet.com/education/compute
 
 Otherwise, continue applying to jobs. Trust that your efforts in crafting great job applications will help the right employer find you.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **This article was reviewed by Sarah Holliday, MS** 
 
 Sarah Holliday has years of experience working with nontraditional and traditional-aged students in various areas related to career coaching and training and development. Holliday holds a BA in English from the University of Maryland, Baltimore County, and an MS in instructional design and technology (training and performance improvement) from Walden University. Holliday is currently working on her doctorate and looks forward to dissertating in the near future. 
@@ -246,11 +300,33 @@ _Last reviewed March 12, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unlocking-screen-capturing-techniques-on-ipad/"><u>[New] 2024 Approved Unlocking Screen Capturing Techniques on iPad</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-to-emoji-stickers-a-complete-tutorial-for-telegram-and-beyond/"><u>[New] Step-by-Step to Emoji Stickers A Complete Tutorial for Telegram and Beyond</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-streamline-your-videography-insta-to-mp4-made-simple-for-2024/"><u>[New] Streamline Your Videography Insta-to-MP4 Made Simple for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-websites-for-youtube-preview-creation-tools/"><u>[Updated] Essential Websites for YouTube Preview Creation Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pciphone-and-androiddvd/"><u>「PC有無でも、スマートフォン(iPhone & Android)へのライブDVDコピー手順」</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-skypes-leading-audio-devices-ranked-and-reviewed/"><u>2024 Approved Skype's Leading Audio Devices Ranked & Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-with-snapchat-help-desk-step-by-step-instructions/"><u>Connecting with Snapchat Help Desk: Step-by-Step Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-osetupdll-file-not-found-issues-effectively/"><u>Diagnosing and Repairing osetup.dll File Not Found Issues Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-your-favorite-instagram-reels-a-step-by-step-guide/"><u>Discovering Your Favorite Instagram Reels: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fixes-for-your-facetime-nightmares-getting-rid-of-the-black-screen-problems/"><u>Easy Fixes for Your FaceTime Nightmares – Getting Rid of the Black Screen Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-computer-performance-with-these-26-best-no-cost-registry-cleaner-apps-of-2024/"><u>Enhance Your Computer Performance with These 26 Best No-Cost Registry Cleaner Apps of 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fiscal-summary-producing-a-music-video-for-2024/"><u>Fiscal Summary Producing a Music Video for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-galaxy-f14-5g-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Galaxy F14 5G and stops randomly</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719575254325-mondly-champion-of-language-learning-germany-resonates/"><u>Mondly: Champion of Language Learning - Germany Resonates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimal-image-configurations-enhancing-your-samsung-4k-viewing-experience/"><u>Optimal Image Configurations: Enhancing Your Samsung 4K Viewing Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-repairing-volume-glitches-in-powerpoint/"><u>Step-by-Step Guide: Repairing Volume Glitches in Powerpoint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-strategies-for-achieving-viral-success-on-tiktok/"><u>Top 10 Strategies for Achieving Viral Success on TikTok</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-the-d3dx924dll-not-found-issue-on-your-pc/"><u>Troubleshooting Steps for the 'd3dx9_24.dll Not Found' Issue on Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubia-red-magic-8s-propluss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nubia Red Magic 8S Pro+s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
+

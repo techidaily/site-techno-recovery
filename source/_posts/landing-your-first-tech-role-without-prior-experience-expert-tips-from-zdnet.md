@@ -1,7 +1,7 @@
 ---
 title: "Landing Your First Tech Role Without Prior Experience: Expert Tips From ZDNet"
-date: 2024-09-17 12:50:21
-updated: 2024-09-20 11:44:51
+date: 2024-10-17T09:14:35.282Z
+updated: 2024-10-19T07:13:21.716Z
 tags:
   - professional-development
 categories:
@@ -23,6 +23,13 @@ This page will help guide you through how you can get a tech job with no experie
 
 ## Entry-level tech jobs you can start without traditional experience
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [The 5 best entry-level coding jobs to start your career Launch a coding career without years of experience with these entry-level coding jobs.  Read now](https://www.zdnet.com/article/best-entry-level-coding-job/)
@@ -38,6 +45,13 @@ Entry-level roles you may qualify for include:
 * Social media strategist
 * Software developer
 * Talent acquisition coordinator
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Landing a tech job with no experience: Our tips on how to do it
 
@@ -105,6 +119,13 @@ Use sites like UpWork, Freelancer.com, and Craigslist to find people hiring temp
 
 **Leverage your network.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [Your step-by-step guide on networking your way into a tech company Check out these networking tips and discover the value networking can add to your professional life.  Read now](https://www.zdnet.com/article/tech-company-networking-tips/)
@@ -135,6 +156,19 @@ Sticking to a position similar to the one you're familiar with means you already
 ---
 
 **Identify transferable skills and put them in your application.**
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -184,11 +218,24 @@ Increase your value as an employee by continuing to complete online courses and 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-tiktok-mastery-a-2023-elements-compendium/"><u>2024 Approved TikTok Mastery A 2023 Elements Compendium</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-8t-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-to-restore-missing-winhttpdll-components-and-stop-error-alerts/"><u>Effective Fixes to Restore Missing Winhttp.dll Components and Stop Error Alerts</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-realme-narzo-60x-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Realme Narzo 60x 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-score-perfect-apartments-using-top-real-estate-websites/"><u>How to Score Perfect Apartments Using Top Real Estate Websites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-setting-up-and-using-whatsapp-on-a-mac/"><u>The Ultimate Guide to Setting Up and Using WhatsApp on a Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-repair-guide-for-advapi32dll-could-not-be-found-errors/"><u>The Ultimate Repair Guide for 'Advapi32.dll Could Not Be Found' Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-immersive-visuals-understanding-nvidias-g-sync-tech/"><u>Unlocking Immersive Visuals: Understanding Nvidia's G-Sync Tech</u></a></li>
+</ul></div>
+

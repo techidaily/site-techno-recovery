@@ -1,7 +1,7 @@
 ---
 title: "How to Combat the Threat of Silent Resignation: Proactive Strategies for Employers and Managers | ZDNet"
-date: 2024-09-19 16:26:48
-updated: 2024-09-20 12:27:34
+date: 2024-10-14T18:50:34.632Z
+updated: 2024-10-19T11:32:56.046Z
 tags:
   - professional-development
 categories:
@@ -35,6 +35,13 @@ Uncontrollable life factors often affect our workday, like sick children or car 
 
 "You know what, that's life," Deal says. "So, leaders \[need\] to model: 'I'm taking my child to soccer practice, I'll be back later. That gives people permission to say, 'This is okay.'"
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **DO: Allow your employees to create boundaries around communication at work**
 
 The lines between work and personal life have always blurred, even before remote and hybrid work became the norm. Being able to take work everywhere – and having colleagues that can contact you at any hour – can add to the stresses of work.
@@ -53,6 +60,13 @@ Encourage direct messaging platforms for informal but essential messages, and em
 
 "One thing, a very simple thing, people put in their email, 'I may send things during this time, it doesn't mean I expect a response,'" Deal says. "Be really clear with people. Because quiet quitting is not about quitting; it's about doing a reasonable amount of work. Help people to find what reasonable is."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **DON'T: Lose contact with former employees**
 
 To understand the risk of quiet quitting in current employees, keep in touch with former employees and find out what made them leave the company. Their insight can help you improve culture for current employees and reduce further resignations. Deal suggests conducting thorough exit interviews with employees who leave the company and reaching out six months later to assess their experience at their new job if they have one.
@@ -63,6 +77,13 @@ Employees who left your company on good terms, and later want to return to their
 
 But beware: some employees may hesitate to ask for their old jobs back. They might fear a response from former colleagues who were unhappy at their departure, or they might be concerned about an employee they didn't like who is still in the business. But if you're lucky, this is an opportunity to have excellent talent return to your company.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **DO: Offer flexible work schedules**
 
 Of course, there are hours in the workday when employees are expected to attend meetings or collaborate with other employees, and employees should respect those working hours. But if employees don't need to work specific hours, let them focus on getting the work done and not putting excessive hours in. Deal suggests focusing on the work employees are putting out instead of the hours they're putting in. 
@@ -70,6 +91,13 @@ Of course, there are hours in the workday when employees are expected to attend 
 **SEE:** [Hybrid workers don't want to return to the office. But soon, the might have to](https://www.zdnet.com/article/hybrid-workers-dont-want-to-return-to-the-office-but-soon-they-might-have-to/)
 
 [Flexible working attracts talent, boosts employee morale, raises productivity, and increases employee retention](https://www.roberthalf.com.sg/blog/employers/flexible-working-arrangements-7-benefits-your-business-missing-out#toc4). These factors will decrease the probability of quiet quitting and make employees more engaged if handled well.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **DON'T: Place the burden of quiet quitting on managers**
 
@@ -108,11 +136,33 @@ Deal suggests investing in opportunities for employees to connect outside the of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-srt-breakdown-for-professionals/"><u>[New] Comprehensive SRT Breakdown for Professionals</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-a-whole-new-world-of-animated-emojis-top-7-free-online-destinations/"><u>[Updated] A Whole New World of Animated Emojis Top 7 FREE Online Destinations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-make-your-own-meme-now/"><u>[Updated] Make Your Own Meme Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-sound-collection-adding-itunes-podcasts-with-ease/"><u>2024 Approved Streamlined Sound Collection Adding iTunes Podcasts with Ease</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-transform-your-snapchat-sound-wave-in-less-than-15-minutes/"><u>2024 Approved Transform Your Snapchat Sound Wave in Less Than 15 Minutes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aerial-angle-appraisal-overlook/"><u>Aerial Angle Appraisal Overlook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-expert-guides-navigating-your-apartment-hunt-successfully/"><u>Discover Expert Guides: Navigating Your Apartment Hunt Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-mobile-connectivity-how-to-enable-calls-on-your-android/"><u>Fixing Mobile Connectivity: How to Enable Calls on Your Android</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-f5-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco F5 5G Phones with/without a PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-motorola-edge-40-neo-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Motorola Edge 40 Neo? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-increase-video-volume-and-make-video-sounds-louder-video-volume-booster/"><u>New Increase Video Volume & Make Video Sounds Louder -Video Volume Booster</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ocidll-error-solutions-locate-and-fix-the-problematic-files/"><u>Oci.dll Error Solutions: Locate & Fix the Problematic Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/picking-your-ai-sidekick-alexa-or-google-assistant-which-suits-you-best/"><u>Picking Your AI Sidekick: Alexa or Google Assistant, Which Suits You Best?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-repair-x3daudiodll-error-messages-on-your-pc/"><u>Steps to Repair 'x3daudio.dll' Error Messages on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/successfully-linking-your-airpods-to-an-hp-notebook-easy-instructions-inside/"><u>Successfully Linking Your AirPods to an HP Notebook - Easy Instructions Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-made-simple-restarting-and-optimizing-your-iphone-15/"><u>Troubleshooting Made Simple: Restarting and Optimizing Your iPhone 15</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-fixing-a-locked-up-macbook-air-step-by-step/"><u>Troubleshooting Tips: Fixing a Locked-Up MacBook Air - Step by Step</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-a-non-functional-logitech-scroll-wheel/"><u>Troubleshooting Tips: Resolving Issues with a Non-Functional Logitech Scroll Wheel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-bass-management-and-its-working-principles/"><u>Unveiling the Secrets of Bass Management and Its Working Principles</u></a></li>
+</ul></div>
+

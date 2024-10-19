@@ -1,7 +1,7 @@
 ---
 title: "Embark on an AI Career Pathway: Discover the 5 Crucial First Steps for Successful Entry | ZDNET Insights"
-date: 2024-09-18 17:22:17
-updated: 2024-09-20 12:38:36
+date: 2024-10-18T03:54:12.626Z
+updated: 2024-10-19T10:06:48.817Z
 tags:
   - professional-development
 categories:
@@ -53,6 +53,13 @@ Depending on what kind of product manager he is, he might also have marketing co
 
 As an experienced product manager, he probably also has strong project management skills, strong organization skills, and some level of product knowledge (in his case, for life science-related offerings). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Identify skills that might transfer
 
 Rick might not be aware of this, but he has skills that are particularly well-suited to the world of AI. Prompt engineering (the writing of instructions for generative AI tools) is much more about structuring requests in natural language than it is about writing code. 
@@ -97,6 +104,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Train yourself
 
 But, Rick says he doesn't know the AI field. He doesn't know the business of AI (all the players, how they relate, their competitive landscape). He doesn't really know how it all works. And he's never done any actual AI work. 
@@ -118,6 +132,13 @@ Then, get yourself a [ChatGPT Plus](https://www.zdnet.com/article/gpt-3-5-vs-gpt
 **Also: [You can build your own AI chatbot with this drag-and-drop tool](https://www.zdnet.com/article/you-can-build-your-own-ai-chatbot-with-this-drag-and-drop-tool/)**
 
 My point here is simple: make yourself knowledgeable. If you want to get a job in a field where you don't possess the experience, expertise, or credentials, you won't get anywhere without any of them. Fortunately, AI is a field that doesn't require board certification or a specific terminal degree. But it does require knowing stuff. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Build yourself some AI resume points 
 
@@ -154,6 +175,13 @@ Put in an hour each day. Make sure you read relevant articles every day. Do some
 The point here is that by the end of six months, make it so that AI isn't this new thing you want to move into, it's this thing that you're already very familiar with and use as a matter of your daily activities. 
 
 That way, by the end of the six months, you're not asking to "move into AI," but to "use your AI skills and knowledge in the AI field." That'll come across as much more powerful to hiring managers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to consider when working in AI 
 
@@ -194,11 +222,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-adv-screen-recorder-full-review/"><u>[Updated] 2024 Approved ADV Screen Recorder Full Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-tips-for-efficiently-editing-videos-for-social-media-engagement/"><u>[Updated] 2024 Approved Tips for Efficiently Editing Videos for Social Media Engagement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elite-screenscape-high-quality-4k-panels-for-editors/"><u>[Updated] In 2024, Elite Screenscape High-Quality 4K Panels for Editors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/12-best-places-to-watch-free-movies-online/"><u>12 Best Places to Watch Free Movies Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-offline-speech-recognition-software/"><u>2024 Approved Excellence in Offline Speech Recognition Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-how-to-put-echo-dot-in-its-initial-configuration-phase/"><u>Comprehensive Guide: How to Put Echo Dot in Its Initial Configuration Phase</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ethical-ways-to-discover-contact-information-finding-a-persons-phone-number/"><u>Ethical Ways to Discover Contact Information: Finding a Person's Phone Number</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-infinix-zero-30-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Infinix Zero 30 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-official-focusrite-scarlett-2i4-drivers-on-windows-download-instantly/"><u>Install Official Focusrite Scarlett 2I4 Drivers on Windows: [Download Instantly]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/overcoming-absence-of-color-in-game-recordings/"><u>Overcoming Absence of Color in Game Recordings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-building-a-projector-screen-at-home/"><u>Step-by-Step Tutorial on Building a Projector Screen at Home</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-runtime-brokers-their-role-in-systems/"><u>Understanding Runtime Brokers: Their Role in Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-creativity-using-our-top-5-video-editing-solutions/"><u>Unleash Creativity Using Our Top 5 Video Editing Solutions</u></a></li>
+</ul></div>
+

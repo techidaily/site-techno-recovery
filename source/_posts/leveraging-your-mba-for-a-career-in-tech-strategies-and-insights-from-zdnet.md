@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Your MBA for a Career in Tech: Strategies and Insights From ZDNet"
-date: 2024-09-17 17:31:46
-updated: 2024-09-20 12:50:44
+date: 2024-10-18T03:06:54.226Z
+updated: 2024-10-19T02:05:32.989Z
 tags:
   - professional-development
 categories:
@@ -22,6 +22,13 @@ In 2020, approximately 83% of tech employers expressed confidence that MBA gradu
 While certain [MBA concentrations](https://www.zdnet.com/education/business-management/mba-concentrations/) lend themselves better to tech, such as an [information systems MBA](https://www.zdnet.com/education/mba/mba-information-systems/), most MBA graduates possess useful skills for a tech career. MBA students receive leadership training, data-driven technology expertise, and extensive business operations knowledge.
 
 Graduates also develop and hone applicable people skills, such as communication, problem-solving, and critical thinking skills. The [GMAC survey](https://www.gmac.com/-/media/files/gmac/research/employment-outlook/gmac%5Fcorporate%5Frecruiters%5Fsurvey%5Fsept%5F2020.pdf) found that employers value MBA graduates' communication skills, versatile skillsets, and strategic thinking most highly. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Technical roles available to MBA graduates in tech
 
@@ -82,6 +89,13 @@ MBA graduates can also enter the tech world through more traditional business pa
 
 Human resources managers handle administrative tasks and connect an organization's management with employees. They may manage labor relations, health and safety protocols, and staffing. These managers may also apply mediation and conflict resolution techniques from their [human resources MBA](https://www.zdnet.com/article/online-mba-human-resources).
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Project manager
 
 **Minimum degree required:** Bachelor's   
@@ -94,6 +108,13 @@ Human resources managers handle administrative tasks and connect an organization
 
 Project managers handle large teams and assignments, including design, development, and implementation. They oversee budgeting, monitor progress and performances, and provide solutions to emerging issues. Project managers may work closely with staff, management, and stakeholders. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Accounting
 
 **Minimum degree required:** Bachelor's  
@@ -105,6 +126,13 @@ Project managers handle large teams and assignments, including design, developme
 * Analytical with excellent math skills
 
 Accountants manage an organization's financial records, ensuring accuracy and adherence to laws and regulations. They handle taxes, produce reports based on their financial analysis, and assist with budgeting. Accountants may look for financial irregularities, inefficiencies, and opportunities.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for how to get into tech after an MBA
 
@@ -121,6 +149,13 @@ You might also settle on a preferred company by considering what industry you wa
 Even after you get into a [top MBA program](https://www.zdnet.com/article/how-to-get-into-top-mba-programs/) and graduate, [information technology careers](https://www.zdnet.com/article/top-careers-in-information-technology/) may require you to build specific technology skills. Expand your skillset by pursuing professional experience via internships or practicums. You can also continue your training in a specialized tech program, such as a [coding bootcamp](https://www.zdnet.com/article/best-coding-bootcamps-guide/). Demonstrate your skills by earning [information technology certifications](https://www.zdnet.com/article/best-tech-certifications/).
 
 In certain organizations and high-level positions, such as C-level management consultant roles, candidates may need a DBA or an advanced technology degree to qualify.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Maximize the quality of your application and portfolio.
 
@@ -147,6 +182,13 @@ If these jobs aren't quite right for you, continue exploring [top-paying MBA job
 ### **This article was reviewed by Sarah Holliday, MS** 
 
 ![Sarah Holliday, a Black woman wearing a purple top, smiles.](https://www.zdnet.com/a/img/resize/b328a53f5e89b8b7095782cd49e5f69cce7b7de9/2021/10/28/26c4d2fb-c7e7-4e02-8c0c-c81e4fa8b2d6/sarah-holiday.jpg?auto=webp&precrop=545,545,x0,y18&width=540)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sarah Holliday has years of experience working with nontraditional and traditional-aged students in various areas related to career coaching and training and development. Holliday holds a BA in English from the University of Maryland, Baltimore County, and an MS in instructional design and technology (training and performance improvement) from Walden University. Holliday is currently working on her doctorate and looks forward to dissertating in the near future. 
 
@@ -181,11 +223,25 @@ _Last reviewed March 12, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-unique-content-to-differentiate-your-channel/"><u>2024 Approved Crafting Unique Content to Differentiate Your Channel</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-push-boundaries-expert-advice-on-snapchat-zooms/"><u>2024 Approved Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2360dw-user-manual-and-downloadable-drivers-now/"><u>Brother L2360DW User Manual and Downloadable Drivers Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-to-resolving-asus-pce-ac56-driver-challenges-in-different-windows-editions/"><u>Comprehensive Guide to Resolving ASUS PCE-AC56 Driver Challenges in Different Windows Editions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customizing-windows-11-a-simple-method-to-deactivate-the-news-widget-display/"><u>Customizing Windows 11: A Simple Method to Deactivate the News Widget Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-entertainment-experience-by-viewing-tiktok-on-a-television-screen/"><u>Elevate Your Entertainment Experience by Viewing TikTok on a Television Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-legacy-of-netflixs-discontinued-mail-based-dvd-plan/"><u>Exploring the Legacy of Netflix's Discontinued Mail-Based DVD Plan</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-air-and-airpods-sync-tutorial-easy-connection-methods-revealed/"><u>MacBook Air and AirPods Sync Tutorial: Easy Connection Methods Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-correcting-bios-checksum-mismatches/"><u>Step-by-Step Solution: Correcting BIOS Checksum Mismatches</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-smooth-audio-crossfade-for-2024/"><u>The Ultimate Guide to Smooth Audio Crossfade for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Oratory Expertise: 15 Key Techniques Featured by ZDNet"
-date: 2024-09-19 17:42:22
-updated: 2024-09-20 12:13:40
+date: 2024-10-18T06:13:55.727Z
+updated: 2024-10-18T18:36:10.697Z
 tags:
   - professional-development
 categories:
@@ -77,6 +77,13 @@ During your conclusion, pull together the story you've told or point you've argu
 * Describing the possibilities you can envision
 * Quoting a public figure who inspires you
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Practice by yourself — and record yourself practicing.
 
 You can start perfecting your presentation by practicing on your own. 
@@ -120,6 +127,13 @@ As you get more comfortable with your material, you may find yourself adlibbing 
 
 You can iron out issues in your presentation by running through it in front of a live audience of friends, families, or even colleagues who also need to present. Ask for constructive criticism. Colleagues both know your audience and will not soften their feedback to save your feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Minimize your notes; maximize their effectiveness.
 
 To maximize your presentation's effectiveness, try minimizing your reliance on notes. Your notes should cue you to stay on track and hit every main point. Over-reliance on them looks bad and will hurt your confidence. Try structuring them as tiered bullet points to create a hierarchy.
@@ -162,6 +176,19 @@ You need a non-adversarial picture of your audience to give a successful present
 
 Direct your eye contact towards familiar faces, whether you are in a virtual or in-person setting. It can help to imagine addressing them directly.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 13\. Overcome the adrenaline rush.
 
 According to Cormier, presenters' nerves are at their worst when they first begin to speak.
@@ -171,6 +198,13 @@ According to Cormier, presenters' nerves are at their worst when they first begi
 Cormier suggested starting with an ice-breaker to engage the audience and give your mind and body time to settle. You could ask audience members to raise a hand if the situation you're addressing has affected them or turn to a neighbor and rate how helpful a certain process is.
 
 "Any question related to your topic will do," Cormier added.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 14\. Don't fear pauses.
 
@@ -182,11 +216,25 @@ Try adding a pause whenever you need to allow the emotional impact or deeper imp
 
 Q&A time allows you to share your knowledge — but don't feel the need to know it all. If someone asks a question that you cannot answer, own it. You don't need a [public relations degree](https://www.zdnet.com/education/business-management/best-online-public-relations-degree/) to know that a statement like "Let me get back to you on that" is better than accidentally misleading your audience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## In conclusion
 
 Even the [least stressful tech jobs](https://www.zdnet.com/education/computers-tech/least-stressful-jobs-in-tech) may occasionally call upon you to give virtual or in-person presentations. The key to public speaking is to practice, be aware of the impression you give, and trust yourself to succeed.
 
 Learning public speaking skills can increase [emotional intelligence](https://www.zdnet.com/education/), confidence, and professional pride in one's work. The good news is, anyone can do it!
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More about Marla Cormier
 
@@ -217,11 +265,33 @@ With over 20 years of experience in learning and development, Marla has develope
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-top-5-best-live-stream-video-conference-recorders/"><u>[New] In 2024, Top 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-audios-essential-guide-to-top-10-free-luts/"><u>[New] Pro Audio's Essential Guide to Top 10 Free LUTs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-assessing-the-apex-of-video-recording-is-it-splitcam/"><u>[Updated] Assessing the Apex of Video Recording Is It SplitCam?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-official-drivers-for-msi-b350-motherboard-windows-11-and-7-supported/"><u>Download Official Drivers for MSI B350 Motherboard - Windows 11 & 7 Supported</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-permanently-remove-pictures-from-facebook/"><u>Expert Advice: How to Permanently Remove Pictures From Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-pc-the-ultimate-solution-to-shell32dll-errors/"><u>Fix Your PC: The Ultimate Solution to Shell32.dll Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-a15-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy A15 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-free-space-clearing-out-applications-from-your-samsung-4k-tv-setup/"><u>How to Free Space: Clearing Out Applications From Your Samsung 4K TV Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-listen-to-spotify-with-friends/"><u>How to Listen to Spotify With Friends</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-design-review-and-rankings-of-top-17-graphic-software-choices/"><u>Mastering Design: Review & Rankings of Top 17 Graphic Software Choices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-through-top-8-preferred-dual-number-applications/"><u>Navigate Through Top 8 Preferred Dual Number Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-your-next-move-should-you-embrace-ios-17/"><u>Navigating Your Next Move: Should You Embrace iOS 17?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-tech-experience-the-right-handling-of-iphone-and-airpods-as-revealed-by-zdnet/"><u>Revolutionize Your Tech Experience: The Right Handling of iPhone and AirPods as Revealed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-tips-how-to-switch-off-sticky-keys-in-windows-operating-system/"><u>Simple Tips: How To Switch Off Sticky Keys in Windows Operating System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-streaming-videos-from-a-usb-on-your-toshiba-television/"><u>Step-by-Step Guide: Streaming Videos From a USB on Your Toshiba Television</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/taking-flight-with-creativity-a-comprehensive-review-of-the/"><u>Taking Flight with Creativity: A Comprehensive Review of The</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-download-royalty-free-videos-from-these-top-websites-for-2024/"><u>Updated Download Royalty-Free Videos From These Top Websites for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-does-my-car-battery-keep-losing-charge-uncover-6-main-factors/"><u>Why Does My Car Battery Keep Losing Charge? Uncover 6 Main Factors</u></a></li>
+</ul></div>
+

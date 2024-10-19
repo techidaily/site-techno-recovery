@@ -1,7 +1,7 @@
 ---
 title: The Best #Th of July Phone Deals | ZDNET.
-date: 2024-10-11T02:14:05.579Z
-updated: 2024-10-13T07:36:30.643Z
+date: 2024-10-13T21:07:45.979Z
+updated: 2024-10-18T23:57:32.219Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +66,10 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,19 +116,19 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-instagram-influence-5-strategies-with-examples/"><u>[New] 2024 Approved The Ultimate Guide to Instagram Influence 5 Strategies with Examples</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-innovating-visual-stories-through-hyperlapse/"><u>[New] In 2024, Innovating Visual Stories Through Hyperlapse</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-google-hangouts-recording-guide/"><u>[Updated] Google Hangouts Recording Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-home-filmmaking-mastery-with-5-easy-diy-hacks/"><u>2024 Approved Home Filmmaking Mastery with 5 Easy DIY Hacks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/curated-list-the-best-lgbt-films-to-binge-on-netflix-during-july/"><u>Curated List: The Best LGBT Films to Binge on Netflix During July</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/eye-of-excellence-a-comprehensive-list-of-8k-cameras-for-2024/"><u>Eye of Excellence A Comprehensive List of 8K Cameras for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-can-you-relocate-your-digital-photograph-collection-google-photos-to-icloud/"><u>How Can You Relocate Your Digital Photograph Collection: Google Photos to iCloud?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-meizu-21-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Meizu 21 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-real-time-reality-rally-does-digital-dethrone-device-dominance/"><u>In 2024, Real-Time Reality Rally Does Digital Dethrone Device Dominance?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/kompetente-umwandlung-von-videodateien-mit-digiarty-software-fur-dvds/"><u>Kompetente Umwandlung Von Videodateien Mit Digiarty Software Für DVDs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-taming-your-inbox-mastering-gmail-labels/"><u>Step-by-Step Guide to Taming Your Inbox: Mastering Gmail Labels</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-for-syncing-a-subwoofer-and-enhancing-soundscape-on-samsungs-soundbar/"><u>The Complete Walkthrough for Syncing a Subwoofer and Enhancing Soundscape on Samsung's Soundbar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-nintendo-switch-online-disruptions-identifying-if-the-problem-lies-with-the-service-or-your-connection/"><u>Understanding Nintendo Switch Online Disruptions: Identifying if the Problem Lies with the Service or Your Connection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-world-of-streaming-devices-what-are-they/"><u>Unveiling the World of Streaming Devices: What Are They?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-gopro-skills-with-this-tutorial/"><u>[New] Elevate Your GoPro Skills with This Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-easy-guide-online-tools-to-save-your-youtube-videos/"><u>[New] In 2024, Easy Guide Online Tools to Save Your YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-most-reliable-voice-recorders-suited-for-macos-users/"><u>2024 Approved The Most Reliable Voice Recorders Suited for MacOS Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726226942134-2024-win11/"><u>2024 Win11上選的影片編輯器: 最新比較分析報告</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-transfer-how-to-view-your-icloud-photos-on-windows-and-android/"><u>Easy Transfer: How to View Your iCloud Photos on Windows & Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-and-plan-like-a-pro-our-picks-for-the-best-travel-organizer-apps/"><u>Explore and Plan Like a Pro: Our Picks for the Best Travel Organizer Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-missing-or-lost-physxloaderdll-errors-on-your-pc-easy-methods-unveiled/"><u>Fixing Missing or Lost PhysXLoader.dll Errors on Your PC - Easy Methods Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/goodbye-to-apples-pay-later-service-embracing-the-change-with-gratitude/"><u>Goodbye to Apple's Pay Later Service – Embracing the Change with Gratitude</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-chromatic-chameleons-playbook-for-masters/"><u>In 2024, The Chromatic Chameleon's Playbook for Masters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-tips-enabling-easy-access-with-windows-auto-login-feature/"><u>Quick Tips: Enabling Easy Access with Windows Auto Login Feature</u></a></li>
+<li><a href="https://fox-access.techidaily.com/seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-ideas-into-laughter-generate-text-memes-for-2024/"><u>Transform Ideas Into Laughter Generate Text Memes for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-6-superior-alternatives-to-photoshop-that-wont-cost-you-a-penny/"><u>Unveiling 6 Superior Alternatives to Photoshop That Won't Cost You a Penny</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-the-newest-amd-radeon-rx-vega-series-drivers-on-your-windows-pc/"><u>Upgrade to the Newest AMD Radeon RX Vega Series Drivers on Your Windows PC</u></a></li>
 </ul></div>
 

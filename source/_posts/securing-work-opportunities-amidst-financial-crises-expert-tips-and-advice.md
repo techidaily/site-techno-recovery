@@ -1,7 +1,7 @@
 ---
 title: Securing Work Opportunities Amidst Financial Crises - Expert Tips and Advice
-date: 2024-09-17 16:47:13
-updated: 2024-09-20 11:40:35
+date: 2024-10-14T03:00:50.399Z
+updated: 2024-10-19T05:25:20.027Z
 tags:
   - professional-development
 categories:
@@ -29,7 +29,21 @@ Write down what you want in a job and prioritize your list. Refer back to the li
 
 Next, set achievable goals. Instead of telling yourself to find a job by a certain date, set goals for networking, like attending a certain number of events each month or reaching out to a certain number of contacts each week. You can also set goals for the number of job applications you want to submit each week. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your resume and LinkedIn.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -67,6 +81,13 @@ Learning new skills can help boost your chances on the job market. It also shows
 
 You can pursue professional certification, take online classes, or go back to school in a recession to learn new skills. You might consider taking [business courses](https://www.zdnet.com/education/business-management/business-courses-overview/) or enrolling in a [coding bootcamp](https://www.zdnet.com/education/bootcamps/best-coding-bootcamp/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Look into recession-proof industries.
 
 Certain industries weather recessions better than others. Healthcare and consumer staples tend to be more stable during a recession. When researching companies, consider industries as well. 
@@ -74,6 +95,13 @@ Certain industries weather recessions better than others. Healthcare and consume
 And even within industries, look for [recession-proof jobs](https://www.zdnet.com/education/recession-proof-jobs/). Accountants and nurses tend to weather recessions well, for example. 
 
 In addition, you can add transferable skills that give you greater flexibility on the job market. Make sure to highlight those skills on your resume.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Consider freelancing as an option.
 
@@ -123,11 +151,29 @@ Focus on what you can control. Stand up to [imposter syndrome](https://www.zdnet
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-15-creative-strategies-for-free-capture-of-online-workshops/"><u>[New] 2024 Approved 15 Creative Strategies for Free Capture of Online Workshops</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-tiktok-how-to-set-and-modify-your-profile-age-for-2024/"><u>[New] Mastering TikTok How to Set & Modify Your Profile Age for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/apping-into-trending-topics-for-videography-ideas-via-google-for-2024/"><u>[New] Tapping Into Trending Topics for Videography Ideas via Google for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-mp4webm-clip-conversion/"><u>[Updated] 2024 Approved Twitter MP4/WebM Clip Conversion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-lava-blaze-curve-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Lava Blaze Curve 5G.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-msi-b350-tomahawk-chip-set-drivers-compatible-with-windows-11-and-windows-7/"><u>Free MSI B350 Tomahawk Chip Set Drivers: Compatible with Windows 11 and Windows 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-narzo-n53-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme Narzo N53 online without jailbreak</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-and-secure-firmware-update-guide-for-surface-systems/"><u>Rapid & Secure Firmware Update Guide for Surface Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-device-wont-charge-despite-being-plugged-into-a-windows-710-system/"><u>Solving the Issue: Device Won't Charge Despite Being Plugged Into a Windows 7/10 System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-erasing-browsing-data-on-the-oculus-quest-2-headset/"><u>Step-by-Step Guide: Erasing Browsing Data on the Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-potential-of-microsofts-bing-imagination-engine-a-step-by-step-guide-to-crafting-ideal-pictures/"><u>Unlock the Potential of Microsoft's Bing Imagination Engine: A Step-by-Step Guide to Crafting Ideal Pictures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-hidden-opportunities-top-6-unexplored-careers-in-artificial-intelligence/"><u>Unveiling Hidden Opportunities: Top 6 Unexplored Careers in Artificial Intelligence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-persistence-in-augmented-reality-the-gateway-to-a-thriving-metaverse/"><u>Unveiling Persistence in Augmented Reality: The Gateway to a Thriving Metaverse</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-smart-communication-how-ai-enhances-sms-on-android-devices/"><u>Unveiling Smart Communication: How AI Enhances SMS on Android Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-dynamics-of-inside-out-motion-tracking-technology-in-virtual-reality/"><u>Unveiling the Dynamics of Inside-Out Motion Tracking Technology in Virtual Reality</u></a></li>
+</ul></div>
+

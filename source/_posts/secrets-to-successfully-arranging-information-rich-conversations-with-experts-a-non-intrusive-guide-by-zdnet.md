@@ -1,7 +1,7 @@
 ---
 title: Secrets to Successfully Arranging Information-Rich Conversations With Experts - A Non-Intrusive Guide by ZDNet
-date: 2024-09-17 20:15:36
-updated: 2024-09-20 10:25:58
+date: 2024-10-13T04:45:20.943Z
+updated: 2024-10-19T13:45:41.574Z
 tags:
   - professional-development
 categories:
@@ -42,6 +42,13 @@ Here's what you might get out of an informational interview.
 
 So, you want to set up an informational interview. But how do you get started? Our walkthrough will help you schedule interviews without seeming pushy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Decide that you're not going to let fear get in your way.
 
 Reaching out to a stranger to set up an interview can be awkward. Your instincts might warn you to avoid contacting people at all. But don't let fear stop you.
@@ -50,6 +57,13 @@ Read up on how to [network as an introvert](https://www.zdnet.com/education/prof
 
 Reach out to your current network for connections so you can build a foundation for an informational interview. And allow yourself to make mistakes. Instead of worrying over the "perfect message," just be confident and polite.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Decide who you'd like to speak with.
 
 An informational interview is all about getting information. So think carefully about who you'd like to interview. Which people will help you reach your professional goals?
@@ -57,6 +71,13 @@ An informational interview is all about getting information. So think carefully 
 Then reach out to friends and family to see whether they can put you in touch with someone in a target role. You can also lean on your alumni network, LinkedIn connections, or [professional networking sites](https://www.zdnet.com/education/professional-development/best-networking-sites-for-tech-professionals/). 
 
 Tools like LinkedIn allow you to filter employees at a company who went to your school.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Reach out.
 
@@ -87,6 +108,13 @@ If you do hear back, prepare before your meeting. Make sure you come across as w
 Look into their professional and educational background to find commonalities you can bring up during the informational interview.
 
  Before your meeting, prepare a list of questions. Ask how they got into their current role and what responsibilities they take on daily and long-term. Allow for spontaneity in the interview, but make sure you hit your main points.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Conduct your informational interview.
 
@@ -122,11 +150,25 @@ After an informational interview, send a quick [thank-you email](https://www.zdn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-professional-editors-guide-fcps-top-10-plugins/"><u>[New] Professional Editor’s Guide FCP's Top 10 Plugins</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-beat-of-branding-mixing-music-into-your-instareel/"><u>[New] The Beat of Branding Mixing Music Into Your InstaReel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-overview-of-cost-free-livestream-apps-and-solutions-for-everyone/"><u>[Updated] Comprehensive Overview of Cost-Free Livestream Apps & Solutions for Everyone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-meizu-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Meizu Face Lock?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/nvidia-introduces-new-unified-application-the-evolution-from-control-panel-and-geforce-experience/"><u>Nvidia Introduces New Unified Application: The Evolution From Control Panel & GeForce Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precise-remedies-for-chatgpt-plugin-communication-fails/"><u>Precise Remedies for ChatGPT-Plugin Communication Fails</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/speedy-techniques-to-reveal-desktop-space-on-windows-11/"><u>Speedy Techniques to Reveal Desktop Space on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-your-favorite-site-to-windows-10s-quick-access/"><u>Step-by-Step Guide: Adding Your Favorite Site to Windows 10'S Quick Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-easy-steps-to-install-windows-11-on-your-computer/"><u>Step-by-Step Guide: Easy Steps to Install Windows 11 on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-erasing-clipboard-records-in-windows-10/"><u>Step-by-Step Guide: Erasing Clipboard Records in Windows 10</u></a></li>
+</ul></div>
+

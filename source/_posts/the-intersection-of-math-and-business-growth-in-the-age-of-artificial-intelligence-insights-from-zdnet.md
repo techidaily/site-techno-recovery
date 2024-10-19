@@ -1,7 +1,7 @@
 ---
 title: The Intersection of Math & Business Growth in the Age of Artificial Intelligence - Insights From ZDNet
-date: 2024-09-18 15:30:14
-updated: 2024-09-20 12:30:47
+date: 2024-10-14T19:14:35.124Z
+updated: 2024-10-19T04:25:03.407Z
 tags:
   - professional-development
 categories:
@@ -86,11 +86,38 @@ Still, Wessel emphasizes, "AI is going to be magic. After all, as \[science fict
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-high-speed-action-analysis-hero5-vs-star/"><u>[New] 2024 Approved High-Speed Action Analysis Hero5 Vs Star</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-become-a-successful-smm-in-10-steps/"><u>[Updated] Become a Successful SMM in 10 Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-income-impact-of-sharing-on-youtube-shorts/"><u>[Updated] The Income Impact of Sharing on YouTube Shorts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-directly-embedding-google-meet-in-youtubes-video-library/"><u>2024 Approved Directly Embedding Google Meet in YouTube's Video Library</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypass-the-blockade-resetting-your-facebook-password-without-standard-recovery-options/"><u>Bypass the Blockade: Resetting Your Facebook Password without Standard Recovery Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-your-digital-sidekick-alexa-vs-google-assistant-find-the-ideal-match/"><u>Choosing Your Digital Sidekick: Alexa Vs. Google Assistant - Find the Ideal Match</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-on-performing-a-biosuefi-system-fresh-start/"><u>Comprehensive Tutorial on Performing a BIOS/UEFI System Fresh Start</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-update-on-apple-car-key-information-on-costs-official-debut-technical-specs-and-emerging-theories/"><u>Comprehensive Update on Apple Car: Key Information on Costs, Official Debut, Technical Specs & Emerging Theories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-12-no-cost-defrag-software-solutions-in-junejuly-2024/"><u>Discover the Latest 12 No-Cost Defrag Software Solutions in June/July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-the-8-leading-kids-safety-apps-of-2024/"><u>Discover the Ultimate List: The 8 Leading Kids' Safety Apps of 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y100-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y100 5G Device</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-video-hosting-for-all-10-platforms-for-personal-business-and-everything-in-between/"><u>New In 2024, Free Video Hosting for All 10 Platforms for Personal, Business, and Everything in Between</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-connection-issues-with-your-stadia-gaming-headset-a-step-by-step-guide/"><u>Solving Connection Issues with Your Stadia Gaming Headset: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-your-elgato-hd60-driver-problems-in-minutes/"><u>Solving Your Elgato HD60 Driver Problems in Minutes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlining-soundtracks-a-comprehensive-tutorial-on-how-to-blend-and-unite-spotify-playlists/"><u>Streamlining Soundtracks: A Comprehensive Tutorial on How to Blend and Unite Spotify Playlists</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/timecode-made-easy-9-essential-calculators-for-online-iphone-and-android-for-2024/"><u>Timecode Made Easy 9 Essential Calculators for Online, iPhone, and Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-pro-latest-update-features-and-enhancements-unveiled/"><u>WinX DVD Ripper Pro Latest Update - Features and Enhancements Unveiled</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

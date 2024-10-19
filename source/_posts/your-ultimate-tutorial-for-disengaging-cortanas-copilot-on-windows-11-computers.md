@@ -1,7 +1,7 @@
 ---
 title: Your Ultimate Tutorial for Disengaging Cortana's Copilot on Windows 11 Computers
-date: 2024-10-09T23:39:49.241Z
-updated: 2024-10-13T07:51:08.738Z
+date: 2024-10-14T11:31:13.270Z
+updated: 2024-10-19T12:03:52.157Z
 categories:
   - BestProducts
 description: This Article Describes Your Ultimate Tutorial for Disengaging Cortana's Copilot on Windows 11 Computers
@@ -21,6 +21,13 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 * To control your phone from Windows 10, install**AirDroid** and turn on**Screen Mirroring** and**Remote Control** .
 
  This article describes two ways to use Android apps on a Windows 10 PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install BlueStacks to Run Android Apps on a PC
 
@@ -42,13 +49,6 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 ![Install, Open, and Sign in buttons highlighted in the AirDroid app.](https://www.lifewire.com/thmb/-xB18efOoQrY5DNsDIQvVPm8Z7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-RunAndroidAppsonWindows10-annotated-96a94d6e72974efe9758ee2bc466187c.jpg)
 6. Tap**Continue** on the permission request to access your phone's files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Tap the toggle next to**Allow access to manage all files** .
 8. Tap**Allow** on the prompt for AirDroid to run in the background.  
 ![Continue, Allow access toggle, and Allow button highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/CbexqTWDoZy3jmF_-4qqKdbIQzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-RunAndroidAppsonWindows10-annotated-29aacbf2e127466f85d7a7c443b512e2.jpg)
@@ -57,23 +57,16 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 ![Screen Mirroring, Grant permission, and Still enable highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/tsy2xem1mP28NPMcPJucG_xT-s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B7-RunAndroidAppsonWindows10-annotated-34d27e18c6ec4ff7acdb6db8f668606c.jpg)
 11. Select**Continue** on the prompt to allow display over other apps.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 12. Tap**AirDroid** from your list of apps.
 13. Tap the toggle next to**Allow display over other apps** .  
 ![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
 14. Return to AirDroid and go to**Remote Control** \>**Enable remote control** \>**Still enable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
@@ -83,6 +76,14 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 19. Tap the**Transfer** tab at the bottom of AirDroid, followed by**AirDroid Web** .
 20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
 ![Done, Transfer, AirDroid Web, and Option 2 paragraph highlighted in AirDroid.](https://www.lifewire.com/thmb/8yoCK74talFlTYj-YCYm5lIzqdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B17-RunAndroidAppsonWindows10-annotated-093199afced14217a49962e06818d393.jpg)
@@ -90,26 +91,39 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
 22. Select your Android device from the**Choose a device** prompt.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -151,22 +165,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-protecting-and-preserving-your-musical-legacy-three-ways/"><u>[New] 2024 Approved Protecting and Preserving Your Musical Legacy Three Ways</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-starting-points-for-motion-visual-creation/"><u>[New] In 2024, Starting Points for Motion Visual Creation</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-interlinked-upload-sharing-content-via-twt-plus-tumble-for-2024/"><u>[New] Interlinked Upload Sharing Content via Twt + Tumble for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-productivity-with-copilot-advanced-techniques-in-microsoft-teams/"><u>Boost Productivity with Copilot: Advanced Techniques in Microsoft Teams</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dissecting-why-hackers-target-gpt-accounts/"><u>Dissecting Why Hackers Target GPT Accounts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enabling-the-text-to-speech-functionality-in-siri-across-ios-and-macos-platforms/"><u>Enabling the Text-to-Speech Functionality in Siri Across iOS and macOS Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-viewing-pleasure-professional-guidance-on-preparing-your-tv-and-audio-equipment-for-the-big-football-match/"><u>Enhance Your Viewing Pleasure: Professional Guidance on Preparing Your TV and Audio Equipment for the Big Football Match</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-steps-to-download-netflix-films-onto-your-laptop/"><u>Guide: Steps to Download Netflix Films Onto Your Laptop</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-download-fonts-for-all-languages-on-windows/"><u>How to Download Fonts for All Languages on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-play-pokemon-unite-on-pc/"><u>How to Play ‘Pokémon Unite’ on PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-xr-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone XR with/without SIM Card</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/multilingual-melting-pot-how-other-languages-shape-english/"><u>Multilingual Melting Pot: How Other Languages Shape English</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/step-by-step-guide-performing-a-system-restore-on-unbootable-pcs/"><u>Step-by-Step Guide: Performing a System Restore on Unbootable PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-pdhdll-not-found-issues/"><u>Step-by-Step Solutions for 'pdh.dll Not Found' Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-on-activatingdeactivating-iphone-recovery-mode/"><u>The Ultimate Walkthrough on Activating/Deactivating iPhone Recovery Mode</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-realme-note-50-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Realme Note 50 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722882514235-unlock-new-horizons-with-our-top-5-favorite-free-language-apps-of-the-year/"><u>Unlock New Horizons with Our Top 5 Favorite Free Language Apps of the Year</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-getting-started-with-iphone-speech-recordings/"><u>[New] 2024 Approved Getting Started with iPhone Speech Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-mac-screen-capturing-tips-unveiling-5-efficient-techniques/"><u>[New] 2024 Approved Ultimate Mac Screen Capturing Tips Unveiling 5 Efficient Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-extract-hd-pics-from-facebook-profile-for-2024/"><u>[New] Extract HD Pics From Facebook Profile for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-simplifying-social-media-your-guide-to-facebook-youtube-syncing/"><u>2024 Approved Simplifying Social Media Your Guide to Facebook-YouTube Syncing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fix-for-adobe-error-code-0xc0000022-ensuring-smooth-application-start/"><u>Comprehensive Fix for Adobe Error Code 0xC0000022: Ensuring Smooth Application Start</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-engage-in-cooperative-play-with-your-buddy-using-pokemon-go/"><u>How To Engage In Cooperative Play With Your Buddy Using Pokémon GO</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-past-c1900101-hurdle-in-installing-windows-10/"><u>How to Get Past C1900101 Hurdle in Installing Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-keyboard-woes-heres-how-to-get-your-keys-working-again-in-no-time/"><u>HP Laptop Keyboard Woes? Here's How to Get Your Keys Working Again in No Time</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-x50i-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor X50i?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/perfecting-instagram-story-soundtracks-tips-and-tricks/"><u>Perfecting Instagram Story Soundtracks: Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reactivating-closed-captions-on-your-roku-device-a-comprehensive-guide/"><u>Reactivating Closed Captions on Your Roku Device - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reverse-your-snaps-like-a-pro-a-comprehensive-tutorial/"><u>Reverse Your Snaps Like a Pro: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamlessly-pair-apple-airpods-to-your-macbook-air-a-step-by-step-guide/"><u>Seamlessly Pair Apple AirPods to Your MacBook Air - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/xbox-one-display-problems-solved-a-step-by-step-guide-to-restoring-the-connection/"><u>Xbox One Display Problems Solved - A Step-by-Step Guide to Restoring The Connection</u></a></li>
 </ul></div>
 

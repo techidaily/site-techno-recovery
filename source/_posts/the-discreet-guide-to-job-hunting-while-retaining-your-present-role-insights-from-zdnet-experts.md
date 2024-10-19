@@ -1,7 +1,7 @@
 ---
 title: The Discreet Guide to Job Hunting While Retaining Your Present Role - Insights From ZDNet Experts
-date: 2024-09-18 17:51:48
-updated: 2024-09-20 12:26:32
+date: 2024-10-17T17:18:06.271Z
+updated: 2024-10-18T18:42:28.236Z
 tags:
   - professional-development
 categories:
@@ -41,6 +41,13 @@ You may feel tempted to hint to your coworkers about your dissatisfaction with t
 
 This means you should also not post to your social media accounts or LinkedIn about your job search. Being discreet will allow you to find the right replacement job without rushing.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Update your resume and LinkedIn.
 
 Take a moment to update your resume and LinkedIn, if you have not already. You'll want to put your best face forward with this new opportunity, so make sure your professional image is looking its best for new employers.
@@ -53,6 +60,13 @@ Considerations when updating your LinkedIn include:
 * Leaving out any mention of looking for new work
 * Only listing skills that match your current position
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Use your personal devices to job search.
 
 Do not use company computers to look up job opportunities. 
@@ -60,6 +74,19 @@ Do not use company computers to look up job opportunities.
 For one, it is unprofessional to do this on your current company's time. More importantly, you could raise eyebrows in your workplace if someone sees a search engine autocomplete option relating to your job search or a worker from IT mentions unusual activity on company computers.
 
 Only use personal devices to visit [job search sites](https://www.zdnet.com/education/professional-development/job-search-sites-for-tech/) and wait until you are home to look for work. This way you will maintain professionalism and avoid your company's scrutiny.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Prioritize networking, rather than just applying on job boards.
 
@@ -129,6 +156,13 @@ Send your letter of resignation at least two weeks before your intended final da
 
 A good resignation letter is not only a courtesy but will allow you to leave your current employer without burning any bridges.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Start your new job with confidence.
 
 Now that you are about to embark on your[new job](https://www.zdnet.com/education/professional-development/starting-a-new-job-guide/), start off with the right attitude. While it's true that your last working experience was not great, that does not mean that this one can't be different! 
@@ -158,11 +192,31 @@ A positive, proactive attitude can help you overcome[new job anxiety](https://ww
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-stop-motion-cinema-ranking-the-best-15/"><u>2024 Approved Innovative Stop-Motion Cinema Ranking the Best 15</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combine-audio-and-video-web-space-for-2024/"><u>Combine Audio and Video Web Space for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-and-greatest-the-most-recent-macbook-release/"><u>Discover the Latest and Greatest: The Most Recent MacBook Release</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-your-solo-photo-game-a-comprehensive-look-at-selfie-light-techniques/"><u>Enhancing Your Solo Photo Game: A Comprehensive Look at Selfie Light Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-no-wi-fi-signal-on-your-ipad-a-step-by-step-tutorial/"><u>Fixing No Wi-Fi Signal on Your iPad – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-successfully-overcome-windows-nixs-persistent-black-and-white-display-problem-a-comprehensive-guide-with-7-proven-strategies/"><u>How to Successfully Overcome Windows Nix's Persistent Black and White Display Problem: A Comprehensive Guide with 7 Proven Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-detaching-accessories-from-google-home-a-comprehensive-guide/"><u>How-To: Detaching Accessories From Google Home – A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-infinix-note-30-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Infinix Note 30 Pro Is Unlocked</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-art-of-amplifying-popularity-on-youtube/"><u>In 2024, The Art of Amplifying Popularity on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insightful-overview-of-teslas-latest-robotic-innovation-speculations-on-launch-date-and-pricing/"><u>Insightful Overview of Tesla's Latest Robotic Innovation - Speculations on Launch Date & Pricing</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapid-recreation-for-everyone-select-the-best-20-fast-playing-apps/"><u>Rapid Recreation for Everyone: Select the Best 20 Fast-Playing Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-policy-update-ai-games-reimagined-for-players/"><u>Steam's Policy Update: AI Games Reimagined for Players</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/teleport-mastery-enhancing-navigation-with-advanced-commands-in-minecraft/"><u>Teleport Mastery: Enhancing Navigation with Advanced Commands in Minecraft</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-must-watch-series-on-max-network/"><u>Top Picks: Must-Watch Series on MAX Network</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-function-of-electric-bikes-a-comprehensive-guide/"><u>Understanding the Function of Electric Bikes: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-approved-audio-editing-software-for-high-quality-productions/"><u>Updated Expert-Approved Audio Editing Software for High-Quality Productions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-slow-motion-video-editing-solutions/"><u>Updated The Ultimate List Slow Motion Video Editing Solutions</u></a></li>
+</ul></div>
+

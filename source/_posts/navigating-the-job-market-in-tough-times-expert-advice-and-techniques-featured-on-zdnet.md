@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Job Market in Tough Times: Expert Advice and Techniques Featured on ZDNet"
-date: 2024-09-17 22:59:26
-updated: 2024-09-20 10:14:27
+date: 2024-10-15T18:00:55.634Z
+updated: 2024-10-18T18:28:36.169Z
 tags:
   - professional-development
 categories:
@@ -31,6 +31,13 @@ Next, set achievable goals. Instead of telling yourself to find a job by a certa
 
 ## 2\. Update your resume and LinkedIn.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [How to write a standout software engineering resume Whether you're looking for your first or 21st position, a targeted, concise, and standout software engineer resume can help you land it.  Read now](https://www.zdnet.com/article/how-to-write-a-software-engineer-resume/)
@@ -50,6 +57,13 @@ Make sure you send brief but collegial emails and LinkedIn messages. Even a dist
 **SEE:** [**How to set up informational interviews without seeming pushy**](https://www.zdnet.com/education/professional-development/how-to-set-up-informational-interviews/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Find companies that are clearly looking to hire.
 
@@ -75,6 +89,19 @@ And even within industries, look for [recession-proof jobs](https://www.zdnet.co
 
 In addition, you can add transferable skills that give you greater flexibility on the job market. Make sure to highlight those skills on your resume.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Consider freelancing as an option.
 
 ### Explore
@@ -84,6 +111,13 @@ In addition, you can add transferable skills that give you greater flexibility o
 Freelancing can be a great way to gain experience and boost your job prospects in the future, especially if you're changing fields. Taking on freelance jobs on the side of your current work or investing in freelancing while between jobs can pay off.
 
 If you're getting started, reach out to your network to offer your services. Research freelancing websites and look into the tax and savings implications of working freelance jobs. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Consider temporary work.
 
@@ -123,11 +157,33 @@ Focus on what you can control. Stand up to [imposter syndrome](https://www.zdnet
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-to-vector-graphics-using-the-best-software/"><u>[New] Innovative Approaches to Vector Graphics Using the Best Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[Updated] 2024 Approved Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-aspect-ratio-rules-for-twitter-content/"><u>[Updated] 2024 Approved Mastering Aspect Ratio Rules for Twitter Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-soundstage-viewing/"><u>[Updated] Leading Soundstage Viewing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/blurring-your-background-for-virtual-calls-expert-advice-for-optimizing-your-appearance-on-google-meet/"><u>Blurring Your Background for Virtual Calls: Expert Advice For Optimizing Your Appearance on Google Meet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/checking-email-engagement-finding-out-whos-reading-your-gmail-messages/"><u>Checking Email Engagement: Finding Out Who's Reading Your Gmail Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customizing-your-email-experience-with-gmail-rules-for-any-scenario/"><u>Customizing Your Email Experience with Gmail Rules for Any Scenario</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722891682335-digital-gadgets-meet-classic-reads-unveiling-the-world-of-laptops-mobile-tech-and-books/"><u>Digital Gadgets Meet Classic Reads: Unveiling the World of Laptops, Mobile Tech & Books!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/eac3-sound-unavailable-comprehensive-fixes-and-advice-on-resolving-audio-not-supported-issues/"><u>EAC3 Sound Unavailable? Comprehensive Fixes & Advice on Resolving 'Audio Not Supported' Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-effective-dual-screen-workflow-on-macbook-air-devices/"><u>Expert Tips for Effective Dual-Screen Workflow on MacBook Air Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-our-top-5-preferred-video-editing-programs-for-creatives/"><u>Explore Our Top 5 Preferred Video Editing Programs for Creatives</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-narzo-60-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Narzo 60 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-xcover-7-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy XCover 7 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/perfect-pair-5-sleek-webcams-with-built-in-microphones/"><u>Perfect Pair 5 Sleek Webcams with Built-In Microphones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/remote-less-operation-guide-for-your-roku-smart-tv/"><u>Remote-Less Operation Guide for Your Roku Smart TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-enabling-automatic-user-login-on-your-windows-pc/"><u>Step-by-Step Guide: Enabling Automatic User Login on Your Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-unsubscribe-from-paramountplus-service/"><u>Steps to Unsubscribe From Paramount+ Service</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ted-comments-made-easy-an-overview-for-2024/"><u>Unwanted Comments Made Easy An Overview for 2024</u></a></li>
+</ul></div>
+

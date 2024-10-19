@@ -1,7 +1,7 @@
 ---
 title: "Tailor Your iPhone Experience on iOS 18: Mastering the Art of Customizing the Control Center, Featuring Expert Tips From ZDNET"
-date: 2024-10-11T06:06:25.996Z
-updated: 2024-10-13T01:34:37.794Z
+date: 2024-10-13T12:25:47.677Z
+updated: 2024-10-18T16:46:57.683Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,6 +42,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,31 +58,24 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,21 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-posting-vimeo-video-masterclass-for-instagramers/"><u>[New] 2024 Approved Posting Vimeo Video Masterclass for Instagramers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-companion-for-high-fps-filming-yi-hero/"><u>[Updated] In 2024, The Ultimate Companion for High FPS Filming Yi Hero</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-deep-dive-into-the-rtx-gpu-lineup-insights-and-advancements-by-nvidia-explained/"><u>A Deep Dive Into the RTX GPU Lineup: Insights and Advancements by Nvidia Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-gpio-driver-download-get-your-free-drivers-now/"><u>AMD GPIO Driver Download - Get Your Free Drivers Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/busting-the-code-28-glitch-a-detailed-walkthrough-for-windows-users/"><u>Busting the Code 28 Glitch: A Detailed Walkthrough for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-zero-5g-2023-turbo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Zero 5G 2023 Turbo Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-erasing-personal-information-from-your-dell-machine/"><u>Comprehensive Tutorial: Erasing Personal Information From Your Dell Machine</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-troubleshooting-repairing-black-ops-cold-wars-frustrating-ui-error-27711/"><u>DIY Troubleshooting: Repairing Black Ops Cold War's Frustrating UI Error 27711</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-place-10-essential-websites-to-aid-in-apartment-searches/"><u>Find Your Perfect Place: 10 Essential Websites to Aid in Apartment Searches</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-selfie-companion-a-guide-to-picking-the-ideal-selfie-stick-using-our-pro-tips/"><u>Find Your Perfect Selfie Companion - A Guide to Picking The Ideal Selfie Stick Using Our Pro Tips!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-g54-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola G54 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapidly-refresh-windows-drivers-win-11817/"><u>Rapidly Refresh Windows Drivers (Win 11/8.1/7)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-diy-endeavors-with-advanced-ai-discover-whats-new-with-gpt-4/"><u>Transform Your DIY Endeavors with Advanced AI: Discover What's New with GPT-4</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-connection-issues-is-blizzards-battlenet-currently-unavailable/"><u>Troubleshooting Connection Issues: Is Blizzard's Battle.net Currently Unavailable?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-disabling-youtube-access-on-your-ipad/"><u>Ultimate Guide: Disabling YouTube Access on Your iPad</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/why-does-your-facebook-message-feature-a-blue-emoji-uncovering-its-relevance/"><u>Why Does Your FaceBook Message Feature a Blue Emoji? Uncovering Its Relevance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigate-new-horizons-with-these-10-travel-vids/"><u>[Updated] Navigate New Horizons with These 10 Travel Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-steady-yourself-against-oculus-nausea/"><u>[Updated] Steady Yourself Against Oculus Nausea</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-officejet-pro-8715-printer-drivers-for-windows-11-10-and-8/"><u>Download the Latest HP OfficeJet Pro 8715 Printer Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-brilliance-behind-android-os-intelligence/"><u>Exploring the Brilliance Behind Android OS Intelligence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-dnssddll-absent-or-undetected-problems-on-your-computer-easily/"><u>Fix dnssd.dll Absent or Undetected Problems on Your Computer Easily</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/highest-hits-facebooks-favorite-videos-for-2024/"><u>Highest Hits Facebook's Favorite Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/optimal-voice-processing-software-solutions/"><u>Optimal Voice Processing Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-setup-linking-ps-move-controllers-to-a-windows-or-mac-pc/"><u>Seamless Setup: Linking PS Move Controllers to a Windows or Mac PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-repair-solving-issues-with-a-nonfunctioning-firestick-remote-control/"><u>Step-by-Step Repair: Solving Issues with a Nonfunctioning Firestick Remote Control</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-for-removing-a-twitch-profile-a-comprehensive-guide/"><u>Steps for Removing a Twitch Profile: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successfully-update-your-epson-printers-drivers-in-windows-11-a-comprehensive-guide/"><u>Successfully Update Your Epson Printer's Drivers in Windows 11 – A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-loss-of-dark-mode-functionality-in-facebook-effective-strategies-for-users/"><u>Troubleshooting Loss of Dark Mode Functionality in Facebook - Effective Strategies for Users</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-expert-picks-best-voice-isolation-technologies-for-music-creators/"><u>Updated 2024 Approved Expert Picks Best Voice Isolation Technologies for Music Creators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/44ox44ot44ov44kn44od44k344on44ok44or44gr6kal6ycd44gx44op44kk44ow6ywn5lplush44ks5lplusd5a2y44gz44kl44gf44kb44gu5bcc6zaa55qe44ki44ox44ot44o844ob/"><u>プロフェッショナルに見逃しライブ配信を保存するための専門的アプローチ</u></a></li>
 </ul></div>
 

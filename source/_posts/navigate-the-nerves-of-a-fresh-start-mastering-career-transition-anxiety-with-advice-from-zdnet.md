@@ -1,7 +1,7 @@
 ---
 title: "Navigate the Nerves of a Fresh Start: Mastering Career Transition Anxiety with Advice From ZDNet"
-date: 2024-09-17 20:39:24
-updated: 2024-09-20 10:53:28
+date: 2024-10-18T08:37:08.160Z
+updated: 2024-10-18T21:31:18.378Z
 tags:
   - professional-development
 categories:
@@ -34,6 +34,13 @@ If the anxiety escalates to a panic attack, you might also encounter shortness o
 ### Mental symptoms
 
 The mental symptoms of new job anxiety may include constant worry, racing thoughts, negativity, and feelings of impending doom or danger. You may be irritable, on edge, and struggling to concentrate. You might also lose confidence or feel out of control of your situation. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Therapist insights on new job anxiety
 
@@ -71,6 +78,13 @@ These are great and will actually reduce some of your anxiety, as you are listen
 
 However, if your anxiety is so elevated that you feel paralyzed and cannot take action or are self-sabotaging, it could be harmful. Anxiety is the opposite mental state to learning. Some anxiety will help you stay attuned and careful. Too much, and you will be so flooded you can't take anything in.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to do when you're feeling new job anxiety
 
 The following tips might provide some relief from new job anxiety. Some might be more effective than others depending on the individual and the situation.
@@ -101,6 +115,13 @@ Think of this as challenging your thoughts with reason rather than forced positi
 
 Tori Rubloff/ZDNet
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Become aware of your physiology and practice self-regulating.
 
 One of the best methods for managing anxiety and its negative effects is to self-regulate. When you feel anxiety coming on and start noticing symptoms, such as increased heart rate or racing thoughts, take action. You can try:
@@ -122,6 +143,13 @@ New job anxiety creates feelings of doubt and insecurity, but you have to rememb
 
 Face these feelings by looking over your resume and thinking positively about your accomplishments and what you have to offer moving forward.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Ask yourself: Is there anything I can do to remedy my worries?
 
 After you've collected your thoughts in a journal, take some time to analyze them and figure out if there might be a solution. 
@@ -129,6 +157,13 @@ After you've collected your thoughts in a journal, take some time to analyze the
 You might calm your new job anxiety by reading up on the organization and your specific role. Do some research on the organization's culture to get an idea of what to expect moving forward. 
 
 Visualization exercises can help when starting a [new job](https://www.zdnet.com/education/professional-development/starting-a-new-job-guide/). Go through your morning routine in your mind, plus your commute and any questions you want to ask. Figure out your schedule and make sure you get a good night's sleep and have time to eat without feeling rushed. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Talk with someone you trust.
 
@@ -157,6 +192,13 @@ Try downloading one of the many note-taking productivity apps, such as Evernote,
 Consider prioritizing tasks by their importance and completing a full assignment rather than switching between them. 
 
 You may want to break down large projects into smaller steps to save yourself from getting flustered and procrastinating. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. Have a self-care routine each day.
 
@@ -203,11 +245,29 @@ _Last reviewed March 16, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-endless-viewing-with-iphone-writes-of-video/"><u>[Updated] Endless Viewing with iPhone' Writes of Video</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-design-channels-get-free-visuals-now/"><u>[Updated] In 2024, Design Channels - Get Free Visuals Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-authors-draft-platform/"><u>[Updated] Prime Author's Draft Platform</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/build-a-stronger-twitter-network-insider-tips-and-tricks-for-growing-your-following-fast/"><u>Build a Stronger Twitter Network: Insider Tips and Tricks for Growing Your Following Fast!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/crafting-memes-in-the-virtual-frontier/"><u>Crafting Memes in the Virtual Frontier</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-mystery-how-to-successfully-reconnect-with-unidentified-callers/"><u>Decoding the Mystery: How To Successfully Reconnect with Unidentified Callers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-unique-gaming-world-of-playstation-5-exclusives/"><u>Discover the Unique Gaming World of PlayStation 5 Exclusives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exciting-childrens-movie-selection-on-disneyplus-for-july-2024-our-curated-list/"><u>Exciting Children’s Movie Selection on Disney+ for July 2024 – Our Curated List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-best-news-curators-of-2024-the-ultimate-list/"><u>Exploring the Best News Curators of 2024 – The Ultimate List!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-8-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 8 without Password?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-solution-to-restore-ocidll-errors-and-ensure-smooth-system-performance/"><u>Master the Solution to Restore oci.dll Errors and Ensure Smooth System Performance</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/perfecting-your-tiktok-content-utilizing-templates-to-enhance-videos-for-2024/"><u>Perfecting Your TikTok Content Utilizing Templates to Enhance Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tesla-smartphone-unveiled-latest-updates-on-cost-launch-timeline-and-features-full-rumor-rundown/"><u>Tesla Smartphone Unveiled: Latest Updates on Cost, Launch Timeline & Features – Full Rumor Rundown</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/une-solution-simple-pour-retrouver-vos-documents-supprimes-en-utilisant-le-logiciel-de-restauration-de-fichier-de-windows/"><u>Une Solution Simple Pour Retrouver Vos Documents Supprimés en Utilisant Le Logiciel De Restauration De Fichier De Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive: How the Vision Pro Gamepad Mirrors Apple's Iconic Stylus, According to Latest USPTO Filings | Tech Analysis"
-date: 2024-10-08T19:21:17.767Z
-updated: 2024-10-12T20:47:19.570Z
+date: 2024-10-12T01:24:32.701Z
+updated: 2024-10-18T17:48:20.983Z
 tags:
   - apple
 categories:
@@ -44,15 +44,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -63,13 +70,6 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,17 +130,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-maximizing-video-impact-with-youtube-cards/"><u>[Updated] 2024 Approved Maximizing Video Impact with YouTube Cards</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-magic-6-lite-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor Magic 6 Lite 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-razr-40-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Razr 40 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-stability-on-iphones-three-key-methods-explored-for-2024/"><u>Ideal Stability on iPhones Three Key Methods Explored for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-parse-error-recovery-techniques-for-android-applications-8-methods/"><u>Mastering Parse Error Recovery Techniques for Android Applications (8 Methods)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/meta-marketplace-mastery-top-tips-for-adding-new-adventures-to-your-oculus-quest-2-library/"><u>Meta Marketplace Mastery: Top Tips for Adding New Adventures to Your Oculus Quest ^2 Library</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/minecraft-opengl-problems-demystified-how-to-restore-smooth-gameplay/"><u>Minecraft OpenGL Problems Demystified: How to Restore Smooth Gameplay</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revamping-file-management-how-to-alter-folder-colors-on-a-mac-computer/"><u>Revamping File Management: How to Alter Folder Colors on a Mac Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-for-racing-enthusiasts-5-favorite-free-offline-games/"><u>Top Picks for Racing Enthusiasts: 5 Favorite Free Offline Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722898619084-troubleshoot-helperdll-file-not-found-issues-with-these-simple-fixes/"><u>Troubleshoot Helper.dll File Not Found Issues with These Simple Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-solutions-for-not-found-mfc42ddll-error-messages/"><u>Troubleshooting and Solutions for 'Not Found' mfc42d.dll Error Messages</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-essential-android-update-for-vr-video-watchers/"><u>[New] The Essential Android Update for VR Video Watchers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-pioneering-the-future-workplace-through-virtual-tech/"><u>[Updated] Pioneering the Future Workplace Through Virtual Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-declutter-your-tiktok-drafters-efficient-edit-strategies/"><u>2024 Approved Declutter Your TikTok Drafters Efficient Edit Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-instructions-for-getting-into-and-out-of-iphones-device-firmware-update-dfu-mode/"><u>Complete Instructions for Getting Into & Out of iPhone's Device Firmware Update (DFU) Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-internet-setup-getting-online-without-cables-or-telephone-connections/"><u>DIY Internet Setup: Getting Online without Cables or Telephone Connections</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-solutions-correcting-the-ntldr-is-missing-issue-on-your-pc/"><u>Easy Solutions: Correcting the 'NTLDR Is Missing' Issue on Your PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-novice-necessities-for-superior-gopro-photography/"><u>In 2024, Novice Necessities for Superior GoPro Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rhythm-reconstructor-bundle/"><u>In 2024, Rhythm Reconstructor Bundle</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-edge-stability-issues-in-windows-10-fixes-and-preventative-measures/"><u>Microsoft Edge Stability Issues in Windows 10 – Fixes and Preventative Measures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-netflixs-origins-a-detailed-look-at-the-dvd-rentals-era/"><u>Unveiling Netflix's Origins: A Detailed Look at the DVD Rentals Era</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-when-your-computer-wont-start-step-by-step-power-restoration-tips/"><u>What to Do When Your Computer Won't Start – Step-by-Step Power Restoration Tips</u></a></li>
 </ul></div>
 

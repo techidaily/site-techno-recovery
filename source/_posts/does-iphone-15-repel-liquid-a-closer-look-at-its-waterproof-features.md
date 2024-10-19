@@ -1,7 +1,7 @@
 ---
 title: "Does iPhone 15 Repel Liquid?: A Closer Look at Its Waterproof Features"
-date: 2024-10-12T00:10:11.431Z
-updated: 2024-10-12T22:58:08.406Z
+date: 2024-10-13T18:50:42.351Z
+updated: 2024-10-19T12:11:47.408Z
 categories:
   - BestProducts
 description: "This Article Describes Does iPhone 15 Repel Liquid?: A Closer Look at Its Waterproof Features"
@@ -91,13 +91,6 @@ PHOTO: Amazon
 
  The sturdy four-post design ensures that everything will stay in place, with an 881-pound weight capacity, and you can either floor-mount it in your server room or use the included four casters to keep it more mobile, although the 82-inch height means that you likely won’t be able to move it from room to room.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Wall Mount
 
 [Navepoint 12U](https://www.amazon.com/dp/B00JZVUDLQ/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00JZVUDLQ)
@@ -124,6 +117,13 @@ PHOTO: Amazon
  The removable side panels allow IT administrators or anyone working on managing[network servers](https://www.lifewire.com/servers-in-computer-networking-817380) to gain easy access before and after installation. The top and bottom offer open brackets for easy cable and wire access, while the locking glass door protects the equipment from physical intrusion.
 
  There are also venting slots and dual built-in fans for maintaining equipment cooling on the removable side panels.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best for Adjustability
 
@@ -153,10 +153,10 @@ PHOTO: Amazon
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Cabinet Enclosure
@@ -269,16 +269,10 @@ PHOTO: Amazon
  Fortunately, all the cables that result from 4.5 feet of floor-standing server space are managed well with attachable cable mounts that can easily organize and keep your[network cables](https://www.lifewire.com/introduction-to-network-cables-817868) out of the way while servers are in use. You can use it with castors or bolted to the floor.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to Look For in Network Server Racks and Enclosures
@@ -293,14 +287,20 @@ PHOTO: Amazon
 
 ![Laptop and server panels in dark server room](https://www.lifewire.com/thmb/KHYZadtoYJXXQRAqJJ2eK-vARbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-and-server-panels-in-dark-server-room-719877853-593c59005f9b58d58a307499.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hero Images / Getty Images
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Why Buy a Network Server Rack?**
 
@@ -322,6 +322,13 @@ PHOTO: Amazon
 
  Lastly, rack_width_ is standard, with almost all server and network equipment racks at 19 inches wide. Whether you're mounting larger servers or network switches, if they're rack-mountable, they'll all come in the same width.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Rails**
 
  Many rack-mountable servers offer the option to be mounted using rails. In this configuration, a pair of standard rails are mounted to the rack, screwed into all four posts, and then the server, which has the corresponding rails mounted on the sides, slides into the rack, just like a drawer going into a cabinet.
@@ -333,26 +340,13 @@ PHOTO: Amazon
 ![Cables connected to an internet server](https://www.lifewire.com/thmb/6x-gscBbM80wErSJGlLp98lz_Ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1082815270-5a4cd9fb94c04dfd96fadbb026d84463.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alextov via Getty Images
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Installation Location**
 
@@ -392,13 +386,6 @@ PHOTO: Amazon
 
  © Maciej Frolow / Photographer's Choice RF / Getty Images
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Mounting Parts**
 
  Not all racks are created equally regarding what comes in the box, so you'll want to read the fine print. Some of the more inexpensive racks give you threaded holes and expect you to come up with the mounting screws yourself.
@@ -406,6 +393,13 @@ PHOTO: Amazon
  Racks with unthreaded holes will usually include a collection of at least a few cage nuts, but you'll almost always have to purchase rails separately from the rack; depending on the vendors involved, you may get rails when buying a rack-mountable server, but this isn't always the case either.
 
  The good news is that threaded racks use standard-sized screws, so it's not too hard to find more screws should you need them down the road, but make sure you know what you're getting with the rack itself so that you know what else you'll need to have everything ready to install once it arrives.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Top Brands**
 
@@ -469,16 +463,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-storyline-secret-to-youtube-triumph/"><u>[Updated] In 2024, The Storyline Secret to YouTube Triumph</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-poco-f5-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Poco F5 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-ai-implementation-in-hardware-realm/"><u>Exploring AI Implementation in Hardware Realm</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-gmail-a-step-by-step-guide-to-setting-up-your-email-alias/"><u>Mastering Gmail: A Step-by-Step Guide to Setting Up Your Email Alias</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/migrating-your-memories-a-step-by-step-guide-to-moving-google-photos-to-icloud/"><u>Migrating Your Memories: A Step-by-Step Guide to Moving Google Photos to iCloud</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-fixes-and-procedures-for-hooking-your-dualshock-4-to-playstation-4/"><u>Quick Fixes and Procedures for Hooking Your DualShock 4 to PlayStation 4</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/recycle-and-relish-continuous-playback-of-youtube-on-tv-for-2024/"><u>Recycle and Relish Continuous Playback of YouTube on TV for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revise-your-insta-messages-with-these-essential-tips-and-tricks/"><u>Revise Your Insta Messages with These Essential Tips and Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/staying-ahead-of-innovation-details-on-forthcoming-revelations-from-googles-upcoming-event/"><u>Staying Ahead of Innovation: Details on Forthcoming Revelations From Google's Upcoming Event</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-applying-professional-special-effects-via-movavi-software/"><u>Step-by-Step Tutorial on Applying Professional Special Effects via Movavi Software</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-excellence-in-tiktok-making-leveraging-templates-to-stand-out/"><u>[New] 2024 Approved Excellence in TikTok Making Leveraging Templates to Stand Out</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-enable-grid-view-on-google-meet-to-see-every-participant-in-2024/"><u>[Updated] How to Enable Grid View on Google Meet to See Every Participant, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-top-8-techniques-for-grabbing-attention-in-yt-thumbnails-for-2024/"><u>[Updated] Top 8 Techniques for Grabbing Attention in YT Thumbnails for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-10-best-inspirational-movies-that-will-bring-you-hope-and-power/"><u>2024 Approved 10 Best Inspirational Movies That Will Bring You Hope and Power</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/eight-in-one-recorders-free-fast-and-flexible-for-android-users/"><u>Eight-in-One Recorders Free, Fast, and Flexible for Android Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-magic-v2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor Magic V2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revoking-sent-messages-learn-how-to-retrieve-sent-emails-in-ms-outlook-easily/"><u>Revoking Sent Messages? Learn How to Retrieve Sent Emails in MS Outlook Easily!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-combining-your-fortnite-profiles-seamlessly/"><u>Step-by-Step Guide: Combining Your Fortnite Profiles Seamlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-matrix-movie-marathon-watching-them-in-correct-order-explained/"><u>The Ultimate Matrix Movie Marathon – Watching Them in Correct Order Explained!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-your-mobiles-potential-using-native-fm-radio-apps-on-ios-and-android/"><u>Unlock Your Mobile's Potential: Using Native FM Radio Apps on iOS & Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/untangling-netflix-issues-effective-ways-to-fix-error-code-ui-800-3/"><u>Untangling Netflix Issues: Effective Ways to Fix Error Code UI-800-3</u></a></li>
 </ul></div>
 

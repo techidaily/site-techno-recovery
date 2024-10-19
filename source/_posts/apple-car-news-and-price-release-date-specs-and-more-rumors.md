@@ -1,7 +1,7 @@
 ---
 title: "Apple Car: News and Price, Release Date, Specs; and More Rumors"
-date: 2024-10-10T05:56:23.871Z
-updated: 2024-10-13T05:06:30.162Z
+date: 2024-10-17T16:41:10.565Z
+updated: 2024-10-19T03:04:44.800Z
 categories:
   - BestProducts
 description: "This Article Describes Apple Car: News and Price, Release Date, Specs; and More Rumors"
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 * In 2023,[ Ming-Chi Kuo surmised](https://twitter.com/mingchikuo/status/1707091228528201754) that "the development of the Apple Car seems to have lost all visibility" and doubts that the car will enter mass production even within the next few years.
 * In 2024, Bloomberg reported on Apple's plans to[ delay the car's launch until at least 2028](https://www.bloomberg.com/tosv2.html?vid=&uuid=5fcc037a-db73-11ee-bb95-8a0d88c2ae76&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wMS0yMy9hcHBsZS1jYXItZXYtc2V0LXRvLWRlYnV0LWluLTIwMjgtd2l0aC1saW1pdGVkLWF1dG9ub21vdXMtZHJpdmluZw==) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Lifewire's Release Date Estimate
 
  If Apple wants to make their car idea happen, we could see a revival by 2028 or 2029\. But it'll only happen if they can strike a deal with Rivian or another car company.
@@ -73,16 +66,16 @@ Vanarama
 
 [  9 Questions to Ask Yourself Before You Buy an EV ](https://www.lifewire.com/questions-to-ask-before-buying-an-ev-5202902) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How the Apple Car Might Have Worked
 
  Exploring the Apple car features isn't something anyone can do because nothing was ever officially announced. But since smart cars are already on the roads today, we're not totally in the dark when we guess what could have been included in Apple's car.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Self-Driving
 
@@ -111,6 +104,13 @@ Vanarama
  Think about how powerful the Apple car could have been if it were using the same hardware that runs several Mac Pros, one of Apple's most powerful desktops to date. It's a no-brainer that AI would be used for everything, including smarter routes, text summarization while you're behind the wheel, safer driving overall, etc.
 
  With the Apple car dead in its tracks, we're left wondering where Apple might put this powerful chip if not in a car. Mark Gurman says the development of the chip was almost finished before the car project ended, so instead of scrapping this (likely very expensive) feat of engineering, we could see Apple incorporate it in future products like the next Vision Pro or Mac Studio.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Interior
 
@@ -143,10 +143,10 @@ Vanarama
 ![Tesla Model S interior](https://www.lifewire.com/thmb/NPVBJ4YfqwxOgEUAKGACGcEjaGI=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/tesla-model-s-interior-b6b6f02203a341b99b65090f8fe733a0.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tesla Model S interior. 
@@ -154,6 +154,13 @@ Tesla Model S interior.
 Tesla
 
  There was even talk that the Apple car would include a detachable infotainment device so the driver can still access climate control, music, etc. when they swivel the chair around.[ Incorporating a headset](https://www.patentlyapple.com/2024/02/8-hmd-patents-were-published-this-week-including-one-for-using-vision-pro-when-driving-a-vehicle-that-supports-in-air-gesture.html) like the[ Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) into the driving experience would have been interesting as well.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Range
 
@@ -178,13 +185,6 @@ Vanarama
 
  Vanarama's concept is only one take on how the car might have looked. Of course, nobody knows for sure, but[ Erick Martinez's designs](https://www.erick-martinez.com/icar) show a much smoother exterior. For an interesting, but unrealistic and honestly silly take, check out[ Devanga Borah's pod-style microcar design](https://www.instagram.com/p/CT9-0jaJvam/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Safety
 
  Automated driving carries several prerequisites that make the car safer than one not as smart. Features like[ lane centering](https://www.lifewire.com/how-does-lane-centering-work-5188779) , automatic braking, and blind-spot alerts are a given, so what unique features might Apple have done to make its car safer than other vehicles on the road?
@@ -196,10 +196,10 @@ Vanarama
  With passengers potentially facing each other while in motion, collision risks sound even more dangerous than they do in a traditional vehicle where everyone faces the same direction. Apple had a solution to that problem—a[ patent uncovered by Patently Apple](https://www.patentlyapple.com/2020/05/apple-wins-a-project-titan-patent-illustrating-next-gen-seat-belt-systems-that-includes-roof-and-lapbelt-airbags.html) in 2020 describes ample airbags and rail-mounted seats that can move in response to a collision to create distance between the occupants. Another[ patent for reinforced windows](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11,446,986.PN.&OS=PN/11,446,986&RS=PN/11,446,986) was reported in 2022.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Charging
@@ -233,16 +233,10 @@ Vanarama
 ![vehicle's external display that says waiting for you to cross](https://www.lifewire.com/thmb/O65adpyjUraRfkZdBski5i1WVoU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/waiting-for-you-to-cross-external-display-776df2ff6f8246b4a252208f7380009b.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest News About the Apple Car
@@ -276,18 +270,20 @@ Vanarama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>[New] In 2024, The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-analyzing-online-video-discussions/"><u>[Updated] In 2024, Analyzing Online Video Discussions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-directly-engage-with-facebooks-video-offerings-via-your-apple-device/"><u>2024 Approved Directly Engage with Facebook's Video Offerings via Your Apple Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accessing-instagram-content-as-a-non-member-tips-and-tricks/"><u>Accessing Instagram Content as a Non-Member – Tips & Tricks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/clear-up-full-black-screens-in-rainbow-six-siege-with-these-simple-steps-pc/"><u>Clear Up Full Black Screens in Rainbow Six Siege with These Simple Steps (PC)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/current-top-tv-show-recommendations-for-your-max-viewing-pleasure/"><u>Current Top TV Show Recommendations for Your Max Viewing Pleasure</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-these-10-outstanding-substitutes-for-chatgpt/"><u>Discover These 10 Outstanding Substitutes for ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-how-to-thoroughly-cleanse-your-mechanical-keypad/"><u>Expert Tips on How to Thoroughly Cleanse Your Mechanical Keypad</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-stream-content-from-mac-to-television-with-airplay-technology/"><u>Step-by-Step Guide to Stream Content From Mac to Television with AirPlay Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-curing-your-facetime-black-display-problem/"><u>Step-by-Step Troubleshooting: Curing Your FaceTime Black Display Problem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-tips-for-resolving-your-wi-fi-adapteraccess-point-issue/"><u>Top 10 Tips for Resolving Your Wi-Fi Adapter/Access Point Issue</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformer-facilement-un-fichier-mxf-en-format-mov-gratuitement-sur-la-plateforme-movavi/"><u>Transformer Facilement Un Fichier MXF en Format MOV Gratuitement Sur La Plateforme Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-of-facebook-from-inception-to-current-success/"><u>Unraveling the Mystery of Facebook: From Inception to Current Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instantaneously-crafting-creative-collage-imagery-for-fb/"><u>2024 Approved Instantaneously Crafting Creative Collage Imagery for FB</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamless-youtube-editing-the-ultimate-finalcut-pro-guidebook/"><u>2024 Approved Seamless YouTube Editing The Ultimate FinalCut Pro Guidebook</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dells-top-secret-scholarly-savings-strategies-unveiled-here/"><u>Dell's Top-Secret Scholarly Savings Strategies Unveiled Here!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-methods-for-permanently-wiping-out-your-tiktok-user-identity/"><u>Effortless Methods for Permanently Wiping Out Your TikTok User Identity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-ps5-performance-by-installing-an-ssd-a-comprehensive-tutorial/"><u>Enhance PS5 Performance by Installing an SSD – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dvd-playback-problems-with-vlc-on-microsoft-windows-11-a-step-by-step-guide/"><u>Fixing DVD Playback Problems with VLC on Microsoft Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harness-the-power-of-color-grading-a-guide-to-luts-in-photoshop-cs6/"><u>Harness the Power of Color Grading A Guide to LUTs in Photoshop CS6</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-clear-up-discord-sound-echo-a-comprehensive-202n4-strategy/"><u>How to Clear Up Discord Sound Echo: A Comprehensive 202N4 Strategy</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instructions-for-disabling-talkback-or-voice-controls-in-samsung-smart-tvs/"><u>Instructions for Disabling Talkback or Voice Controls in Samsung Smart TVs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/meme-madness-the-iphone-edition-for-2024/"><u>Meme Madness The iPhone Edition for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-connecting-your-bose-soundlink-devices/"><u>Step-by-Step Instructions on Connecting Your Bose Soundlink Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-windows-11-solutions-when-your-search-function-fails/"><u>Troubleshooting Windows 11: Solutions When Your Search Function Fails</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-choose-dxvk-a-game-changer-on-your-windows-system/"><u>Why Choose DXVK: A Game Changer on Your Windows System?</u></a></li>
 </ul></div>
 

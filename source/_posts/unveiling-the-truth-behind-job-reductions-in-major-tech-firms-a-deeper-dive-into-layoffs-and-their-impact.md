@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Truth Behind Job Reductions in Major Tech Firms - A Deeper Dive Into Layoffs and Their Impact
-date: 2024-09-19 17:45:58
-updated: 2024-09-20 11:33:20
+date: 2024-10-17T04:23:01.278Z
+updated: 2024-10-18T17:28:16.100Z
 tags:
   - professional-development
 categories:
@@ -57,7 +57,21 @@ Contrary to recent moves by some tech companies to reduce their headcount, Rhona
 
 Carmichael told ZDNET: "Our report shows that many are planning additional technology investment next year as the number one board priority is to be operationally more efficient to help 'recession-proof' their business. In short, technology is still seen by many as a way of reducing operating costs even in the face of rising inflation."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remote work hiring trends upward
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** In Depth
 
@@ -83,9 +97,23 @@ Nash Squared's White also offered caution to tech leaders in the year ahead, tho
 
 Job cuts at big tech companies are understandably worrying for anyone working in tech, and job cuts are a terrible ordeal for those that have to go through it especially if the process is not handled with sensitivity and compassion. But big tech is not the whole tech industry, which is still a source of opportunity for many.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET'S MONDAY OPENER** 
 
 _ZDNet's Monday Opener is our opening take on the week in tech, written by members of our editorial team._ 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **PREVIOUSLY ON ZDNET'S MONDAY OPENER:**
 
@@ -119,11 +147,33 @@ _ZDNet's Monday Opener is our opening take on the week in tech, written by membe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-the-compre-habits-of-top-reddit-posters-explained/"><u>[New] The Compre Habits of Top Reddit Posters Explained</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-to-exceptional-e-learning-sites-excluding-udemy-for-2024/"><u>[New] Ultimate Guide to Exceptional E-Learning Sites Excluding Udemy for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-effortless-link-upload-on-instagrams-social-sphere/"><u>[Updated] 2024 Approved Effortless Link Upload on Instagram's Social Sphere</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-free-template-libraries-for-aspiring-ae-artists/"><u>[Updated] 2024 Approved Top FREE Template Libraries for Aspiring AE Artists</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos/"><u>[Updated] Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-12r-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus 12R</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ddr5-7200-corsair-dominator-titanium-xl-premium-2x24gb-memory-kit-assessment-and-exceeding-specs/"><u>DDR5-7200 Corsair Dominator Titanium XL - Premium 2X24GB Memory Kit Assessment & Exceeding Specs!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/digital-disguise-tactics-hiding-or-faking-location-data-on-smartphones/"><u>Digital Disguise Tactics: Hiding or Faking Location Data on Smartphones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-repairing-broken-email-functionality-on-your-iphone/"><u>Expert Advice on Repairing Broken Email Functionality on Your iPhone.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-motorola-edge-2023-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Edge 2023 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/layering-youtube-songs-onto-video-plays-for-2024/"><u>Layering YouTube Songs Onto Video Plays for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-stereo-speakers-key-considerations-for-savvy-shoppers/"><u>Navigating the World of Stereo Speakers: Key Considerations for Savvy Shoppers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pairing-disney-plus-with-chromecast-a-comprehensive-tutorial-on-smart-view-casting/"><u>Pairing Disney Plus with Chromecast – A Comprehensive Tutorial on Smart View Casting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-windows-error-code-19-issues/"><u>Step-by-Step Guide: Correcting Windows Error Code 19 Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-hp-laptop-screen-capture-techniques/"><u>The Ultimate Tutorial: HP Laptop Screen Capture Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transforming-life-experiences-into-engaging-yt-videos/"><u>Transforming Life Experiences Into Engaging YT Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-full-potential-of-your-lg-television-by-watching-espn-plus/"><u>Unlocking the Full Potential of Your LG Television by Watching ESPN Plus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-new-m4-mac-mini-release-timeline-cost-estimates-and-tech-specs/"><u>Unveiling the New M4 Mac Mini - Release Timeline, Cost Estimates, and Tech Specs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-does-my-car-battery-keep-going-dead-explore-these-6-reasons/"><u>Why Does My Car Battery Keep Going Dead? Explore These 6 Reasons</u></a></li>
+</ul></div>
+

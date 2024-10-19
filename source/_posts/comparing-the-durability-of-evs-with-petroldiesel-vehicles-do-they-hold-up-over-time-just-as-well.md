@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Durability of EVs with Petrol/Diesel Vehicles: Do They Hold Up Over Time Just as Well?"
-date: 2024-10-10T01:07:02.137Z
-updated: 2024-10-12T16:02:03.767Z
+date: 2024-10-18T03:31:25.185Z
+updated: 2024-10-19T14:15:50.204Z
 categories:
   - BestProducts
 description: "This Article Describes Comparing the Durability of EVs with Petrol/Diesel Vehicles: Do They Hold Up Over Time Just as Well?"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  This article explains how to[restart an iPhone](https://www.lifewire.com/how-to-restart-iphone-2000288) 15\. The instructions include how to do a soft restart for a simple shut down of the device and a force restart if the first methods don't work. The steps are the same for all iPhone 15 models.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Soft Restart an iPhone 15
 
  To do a soft restart means to turn off your iPhone using the device’s options and then turn it back on. Follow these steps to restart your iPhone 15.
@@ -32,13 +39,21 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 2. Drag the**Slide to Power Off** option to the right.  
 ![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Settings to Restart iPhone 15
@@ -51,27 +66,7 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 ![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
 4. To turn your iPhone back on, press and hold the**Side** button on the right.  
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Turn Off an iPhone 15 With Siri
 
@@ -84,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
  Siri will confirm that you want to power down your phone; select**Power Off** to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Force Restart an iPhone 15
@@ -129,21 +124,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pro-tools-for-pc-gamers-screen-record-windows-10/"><u>[New] In 2024, Pro Tools for PC Gamers Screen Record Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-boost-your-broadcast-game-mastering-obs-plus-streamlabs-mac/"><u>[Updated] Boost Your Broadcast Game Mastering OBS + Streamlabs, Mac</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-mastering-the-use-of-tags-for-maximum-reach/"><u>2024 Approved YouTube Mastering the Use of Tags for Maximum Reach</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-techniques-for-ethically-identifying-an-individuals-email-address/"><u>Best Techniques for Ethically Identifying an Individual's Email Address</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-video-editing-software-selection-a-comprehensive-list-and-insights/"><u>Best Video Editing Software Selection - A Comprehensive List & Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-mini-m4-with-macbook-air-m3-key-differences-explored/"><u>Comparing iPad Pro Mini (M4) with MacBook Air (M3): Key Differences Explored</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-methods-to-fix-error-code-0x80041015/"><u>Effective Methods to Fix Error Code 0X80041015</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-ps5-wireless-performance/"><u>Enhancing PS5 Wireless Performance</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-9-stealthy-pro-tools-tricks-for-novice-designers/"><u>In 2024, 9 Stealthy Pro Tools Tricks for Novice Designers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-linking-and-sharing-chatgpt-dialogues/"><u>Mastering the Art of Linking and Sharing ChatGPT Dialogues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/starting-a-podcast-financial-planning-essentials/"><u>Starting a Podcast Financial Planning Essentials</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-gossip-delving-into-the-details-of-the-hyped-tesla-phone-projected-costs-and-potential-specs-uncovered/"><u>Tech Gossip: Delving Into the Details of the Hyped Tesla Phone – Projected Costs and Potential Specs Uncovered</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-elusive-no-signal-problem-on-your-xbox-one/"><u>Troubleshooting the Elusive 'No Signal' Problem on Your Xbox One</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-missing-rockaldlldll-file-not-found-error/"><u>Ultimate Guide: Resolving 'Missing rockaldll.dll' File Not Found Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-family-movies-on-netflix-for-kids-to-watch/"><u>Ultimate Selection of Family Movies on Netflix for Kids to Watch</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-reviewing-vn-video-editor-the-ultimate-video-editing-app/"><u>Updated In 2024, Reviewing VN Video Editor The Ultimate Video Editing App?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-beyond-capture-understanding-mycams-advanced-features/"><u>[New] 2024 Approved Beyond Capture – Understanding MyCam's Advanced Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illustrate-with-precision-prime-ipados-design-apps/"><u>[Updated] Illustrate with Precision Prime iPadOS Design Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-troubleshooting-stop-live-streaming-lags-in-obs/"><u>[Updated] Troubleshooting Stop Live Streaming Lags in OBS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/behind-the-scenes-the-dji-phantom-3-pro-tech/"><u>Behind-the-Scenes The DJI Phantom 3 Pro Tech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-productivity-on-macbook-air-by-mastering-splitting-the-screen-how-to-guide/"><u>Boost Productivity on MacBook Air by Mastering Splitting the Screen - How to Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-solution-for-the-not-found-error-in-fm20dll-files/"><u>Comprehensive Solution for the Not Found Error in fm20.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-every-detail-about-the-apple-watch-series-8-release-timeline-specifications-and-more/"><u>Discover Every Detail About the Apple Watch Series 8 - Release Timeline, Specifications & More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-hottest-series-on-discovery-plus-your-july-2024-recommendations/"><u>Explore the Hottest Series on Discovery Plus - Your July 2024 Recommendations!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-worth-upgrading-to-ios-11-unveiling-the-new-features-compared-to-ios-10/"><u>Is It Worth Upgrading to iOS 11? Unveiling the New Features Compared to iOS 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-samsung-apps-for-enhanced-viewing-experience-on-tv/"><u>Mastering Samsung Apps for Enhanced Viewing Experience on TV</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-adobe-premiere-rush-alternatives-for-video-editing/"><u>New Best Adobe Premiere Rush Alternatives for Video Editing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-motorola-moto-g84-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-zooming-in-from-your-living-room-tv/"><u>The Ultimate Walkthrough: Zooming In From Your Living Room TV</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/this-video-will-get-you-100000-views-on-youtube/"><u>This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-lifespan-of-your-mailcom-email-service/"><u>Understanding the Lifespan of Your Mail.com Email Service</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/x-essentials-first-time-users-quick-10-tips-and-tricks/"><u>X Essentials - First-Time User's Quick 10 Tips & Tricks!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stealthy Strategies: Landing Your Next Career Move Without Risking Current Position"
-date: 2024-09-19 18:59:12
-updated: 2024-09-20 10:35:24
+date: 2024-10-18T11:26:49.964Z
+updated: 2024-10-19T00:07:59.812Z
 tags:
   - professional-development
 categories:
@@ -35,11 +35,31 @@ Try organizing your thoughts in a list or diary entry to better understand your 
 
 Once you know what you want, you can zero in on opportunities that seem to fit your needs as a professional and human being.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Be discreet about looking for a new job.
 
 You may feel tempted to hint to your coworkers about your dissatisfaction with the current situation or excitement at a promising lead. Don't do it. If word gets around your workplace that you are looking for a new job, this could create a tense situation or even get you fired.
 
 This means you should also not post to your social media accounts or LinkedIn about your job search. Being discreet will allow you to find the right replacement job without rushing.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your resume and LinkedIn.
 
@@ -62,6 +82,19 @@ For one, it is unprofessional to do this on your current company's time. More im
 Only use personal devices to visit [job search sites](https://www.zdnet.com/education/professional-development/job-search-sites-for-tech/) and wait until you are home to look for work. This way you will maintain professionalism and avoid your company's scrutiny.
 
 ## 5\. Prioritize networking, rather than just applying on job boards.
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -121,6 +154,13 @@ Remind yourself that you're better off than if you were finding a new job while 
 
 Don't rush and don't be hard on yourself. Remind yourself that with persistence you'll find a good fit in time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Once you've accepted a job offer, send a resignation letter to your current employer.
 
 Now that you're fully on board to start working at a better job, your next step is to send a[resignation letter](https://www.zdnet.com/education/professional-development/how-to-write-a-resignation-letter/) to your current employer. 
@@ -158,11 +198,30 @@ A positive, proactive attitude can help you overcome[new job anxiety](https://ww
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-browsing-bygone-tales-in-the-facebook-universe-with-devices-for-2024/"><u>[New] Browsing Bygone Tales in the Facebook Universe with Devices for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-fine-tuning-your-frames-with-videoleap/"><u>[New] In 2024, Fine-Tuning Your Frames with Videoleap</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-foundations-of-facebook-video-marketing/"><u>[Updated] In 2024, The Foundations of Facebook Video Marketing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-best-online-science-vloggers-for-curious-minds/"><u>[Updated] Navigating the Best Online Science Vloggers for Curious Minds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users-for-2024/"><u>[Updated] Secrets of Saving Screenshots Tips & Tricks for Dell Users for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-sketches-essential-free-drawing-software-on-mac/"><u>2024 Approved Elevate Your Sketches - Essential Free Drawing Software on Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-walkthrough-deactivating-sticky-keys-in-microsoft-windows/"><u>A Comprehensive Walkthrough: Deactivating Sticky Keys in Microsoft Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/critical-aspects-to-think-about-prior-to-investing-in-a-dash-cam-a-comprehensive-guide/"><u>Critical Aspects to Think About Prior to Investing in a Dash Cam: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-unresponsive-keyboard-shortcuts-fn-on-an-asus-laptop/"><u>Effective Solutions for Fixing Unresponsive Keyboard Shortcuts (Fn) on an ASUS Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-overcome-msvcr71dll-errors-on-your-computer/"><u>Effective Techniques to Overcome Msvcr71.dll Errors on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-resolve-osetupdll-error-not-found-or-missing/"><u>Effective Ways to Resolve osetup.dll Error: Not Found or Missing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fotografia-digital-no-computador-abordagem-em-5-passos-pelo-guia-do-movavi/"><u>Fotografia Digital No Computador: Abordagem Em 5 Passos Pelo Guia Do Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-your-surface-pros-wi-fi-back-online-expert-advice/"><u>Getting Your Surface Pro's Wi-Fi Back Online - Expert Advice</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-ps5s-exclusive-gaming-masterpieces/"><u>The Complete Guide to PS5’s Exclusive Gaming Masterpieces</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-cycle-strategy-understanding-how-often-to-change-phones/"><u>Upgrade Cycle Strategy: Understanding How Often to Change Phones</u></a></li>
+</ul></div>
+

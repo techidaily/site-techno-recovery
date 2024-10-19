@@ -1,7 +1,7 @@
 ---
 title: ZDNet’s Expert Tips on Developing Your Own Coding Portfolio Successfully
-date: 2024-09-19 23:47:12
-updated: 2024-09-20 10:34:14
+date: 2024-10-18T06:38:43.945Z
+updated: 2024-10-18T17:13:19.402Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Increasingly, employers look for applicants with portfolios and consider portfol
 
 Busy hiring managers may only skim your portfolio, so it's important to make it as attention-grabbing as possible through design and targeted, concise project descriptions. You want your coding portfolio to compel potential employers to take a closer look. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What your coding portfolio needs
 
 This section walks you through the essential coding portfolio components**.** Projects are the most important element in your coding portfolio, and we offer details on highlighting them.
@@ -50,6 +57,13 @@ Check whether a domain name is already taken through a web search or[lookup tool
 ### Host
 
 Your coding portfolio host can be a website, blog, or networking site like LinkedIn. You can find free options out there or build your own, but many programmers choose to pay for a quality hosting platform like those described below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -82,6 +96,13 @@ The "About me" section should have a more personal tone than your resume to let 
 * Relevant [tech certifications](https://www.zdnet.com/education/computers-tech/best-tech-certifications/) you've earned
 
 Be sure to add contact information. An email address usually suffices, but you can also list your Github and Linkedin profiles and Twitter handle. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Projects
 
@@ -121,6 +142,13 @@ Write explanations for each project detailing how you approached it and anything
 
 Ensure you have permission to display projects completed for clients or former employers to avoid legal issues. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## In conclusion
 
 Creating your portfolio is a necessary but time-consuming step in the [job-search](https://www.zdnet.com/education/professional-development/job-search-sites-for-tech/) process. Our guide on how to build a coding portfolio can offer the tips, suggestions, and tools you need to get it done relatively quickly and painlessly. Explore platforms like GitHub to get started. 
@@ -146,11 +174,23 @@ Creating your portfolio is a necessary but time-consuming step in the [job-searc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-share-videos-to-instagram-in-2024/"><u>[New] How to Share Videos to Instagram, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamsavvy-beyond-the-dacast-boundary/"><u>[Updated] 2024 Approved StreamSavvy Beyond the DaCast Boundary</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-leading-console-platforms-for-gamers/"><u>2024'S Leading Console Platforms for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-managing-setup-host-cpu-use/"><u>Efficiently Managing Setup Host CPU Use</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/questband-meta-series-latest-updates-on-features-pricing-and-launch-timeline/"><u>QuestBand Meta Series - Latest Updates on Features, Pricing & Launch Timeline</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-samsung-galaxy-s20-fe-5g-the-top-picks-for-tech-enthusiasts/"><u>Ultimate Guide to the Samsung Galaxy S20 FE 5G: The Top Picks for Tech Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-cost-savings-find-the-top-7-free-internet-fax-services/"><u>Unlocking Cost Savings: Find the Top 7 Free Internet Fax Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-magic-behind-internet-ready-television-sets/"><u>Unveiling the Magic Behind Internet-Ready Television Sets</u></a></li>
+</ul></div>
+

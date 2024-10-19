@@ -1,7 +1,7 @@
 ---
 title: Emerging Skills in Artifice Intelligence & Internet of Things Get the Spotlight in Singapore's Strategic Workforce Planning - ZDNET Exclusive
-date: 2024-09-17 22:24:39
-updated: 2024-09-20 12:55:40
+date: 2024-10-17T17:33:34.471Z
+updated: 2024-10-19T06:35:32.281Z
 tags:
   - professional-development
 categories:
@@ -55,11 +55,38 @@ Professionals within the information and communications sector also needed to up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-guide-to-share-igtv-with-minimal-hassle/"><u>[New] In 2024, Guide to Share IGTV with Minimal Hassle</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unveil-windows-xp-professional-for-video-production/"><u>[Updated] In 2024, Unveil Windows XP Professional for Video Production</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-priorities-to-keep-in-mind-while-picking-out-the-perfect-stereo-speakers-for-you/"><u>5 Priorities to Keep in Mind While Picking Out the Perfect Stereo Speakers for You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/combine-power-techniques-for-joining-two-excel-columns-effectively/"><u>Combine Power: Techniques for Joining Two Excel Columns Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tips-to-improve-your-lagging-online-connection/"><u>Comprehensive Tips to Improve Your Lagging Online Connection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defending-your-microsoft-profile-from-hacking-risks-expert-tips-for-enhanced-security-digitalguardianblog/"><u>Defending Your Microsoft Profile From Hacking Risks: Expert Tips for Enhanced Security - DigitalGuardianBlog</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/detailed-steps-to-resolve-missing-dnssddll-file-error-messages/"><u>Detailed Steps to Resolve Missing dnssd.dll File Error Messages</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-online-presence-secrets-of-youtube-live-with-wirecast-for-2024/"><u>Elevate Your Online Presence Secrets of Youtube Live with WireCast for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enablingdisabling-network-discovery-on-windows-11-a-step-by-step-guide/"><u>Enabling/Disabling Network Discovery on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-fixes-for-when-you-cant-find-msvcr70dll-on-your-pc/"><u>Error Fixes for When You Can’t Find MSVCR70.dll on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-divide-between-traditional-cable-and-modern-streaming-services/"><u>Exploring the Divide Between Traditional Cable and Modern Streaming Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-refund-a-game-on-steam/"><u>How to Refund a Game on Steam</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-x-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone X Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-guide-integrating-titles-into-videos-within-windows-photos-for-2024/"><u>Quick Guide Integrating Titles Into Videos Within Windows Photos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-faulty-resource-monitors-on-windows-11/"><u>Resetting Techniques for Faulty Resource Monitors on Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/shining-up-your-videos-on-android/"><u>Shining Up Your Videos on Android</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-alcatel-joy-tab-2-lte-a-cost-effective-tablet-reviewed/"><u>The Ultimate Guide to the Alcatel Joy Tab 2 LTE - A Cost-Effective Tablet Reviewed</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

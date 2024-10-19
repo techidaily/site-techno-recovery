@@ -1,7 +1,7 @@
 ---
 title: "Achieve Expertise in Data Management: Top 5 Strategies From ZDNet"
-date: 2024-09-19 23:28:58
-updated: 2024-09-20 12:18:24
+date: 2024-10-14T02:56:45.862Z
+updated: 2024-10-19T08:52:19.477Z
 tags:
   - professional-development
 categories:
@@ -57,6 +57,13 @@ Whitcomb says EDF gives graduates in its program a career manager, who stays wit
 
 "Even now it's still useful to have her around. We catch up and it's useful having somebody who has shared experiences, good advice to give, and who understands where I'm coming from more than somebody who hasn't had that experience."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't be scared
 
 Whitcomb says it's important young professionals don't feel too anxious about moving into a new and fast-moving area.
@@ -72,6 +79,13 @@ Young professionals will quickly learn everyone has gaps in their digital knowle
 Whitcomb says the key to success for new graduates is seeing every obstacle as an opportunity. 
 
 "Going in from square one is quite intimidating," she says. "But if you have that mindset of, 'I want to learn, I'm willing to learn, and I can think logically' then you'll be great. So, don't be put off because you don't know how to code at the start."
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Embrace the creativity
 
@@ -93,6 +107,13 @@ Whitcomb wants to help people in the department feel empowered to use the tools 
 
 "If you enjoy the logical side of things, you can bring brilliant, creative solutions together."
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Ask questions
 
 If you want to get ahead, don't be afraid to probe people, says Whitcomb: "I know everyone says this the whole time, but asking questions is the best way to learn." 
@@ -108,6 +129,13 @@ Both Bentley and EDF are keen to get their professionals to ask questions about 
 "On the flip side, if somebody asks you a question, be open to that. Sometimes, it's quite difficult to know who to ask questions. If someone asks you something, you learn yourself," she says. 
 
 "So, make sure you're asking questions and be the person other people feel they can ask questions to."
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Grab fresh opportunities
 
@@ -144,11 +172,26 @@ Whitcomb says she enjoys speaking about her work, sharing learnings, and contrib
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-spotting-social-scene-shifters-videos-shared-across-platforms/"><u>2024 Approved Spotting Social Scene-Shifters Videos Shared Across Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unveiling-costless-creativity-a-deep-dive-into-best-luts/"><u>2024 Approved Unveiling Costless Creativity A Deep Dive Into Best LUTs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-comprehensive-examination-of-simple-hdr-methods-for-2024/"><u>A Comprehensive Examination of Simple HDR Methods for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-game-availability-tips-for-steams-sync/"><u>Boosting Game Availability: Tips for Steam's Sync</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-solutions-how-to-perform-a-cmos-or-bios-factory-reset-successfully/"><u>DIY Solutions: How To Perform a CMOS or BIOS Factory Reset Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-adjusting-folder-display-settings-in-the-macos-finder/"><u>Guide: Adjusting Folder Display Settings in the MacOS Finder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-xiaomi-redmi-12-5g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Xiaomi Redmi 12 5G with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-12r-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For OnePlus 12R</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-vital-tips-to-preserve-lol-competitions/"><u>In 2024, Vital Tips to Preserve LOL Competitions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-live-view-a-comprehensive-guide-to-navigating-with-google-maps/"><u>Mastering Live View: A Comprehensive Guide to Navigating with Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-cream-of-the-crop-your-guide-to-free-cinema-on-youtube-summer-edition-2024/"><u>The Cream of the Crop: Your Guide to Free Cinema on YouTube, Summer Edition 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-dreaded-code-ebo-or-why-your-printer-isnt-printing/"><u>Troubleshooting the Dreaded Code Ebo, or Why Your Printer Isn't Printing</u></a></li>
+</ul></div>
+

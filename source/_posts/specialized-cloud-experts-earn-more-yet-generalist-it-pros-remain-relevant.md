@@ -1,7 +1,7 @@
 ---
 title: Specialized Cloud Experts Earn More - Yet Generalist IT Pros Remain Relevant
-date: 2024-09-18 17:42:36
-updated: 2024-09-20 11:22:19
+date: 2024-10-14T18:54:20.250Z
+updated: 2024-10-18T19:25:27.665Z
 tags:
   - professional-development
 categories:
@@ -80,11 +80,34 @@ Crucially, Linthicum says the unintended consequence of specialization is that I
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-energize-with-these-10-inspiring-movies/"><u>[Updated] 2024 Approved Energize with These 10 Inspiring Movies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-avi-visionary-player-compatible-with-pcmobile/"><u>[Updated] Avi Visionary Player Compatible with PC/Mobile</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-gamers-sound-selection-top-5-noise-canceling-earbuds/"><u>[Updated] Gamers’ Sound Selection Top 5 Noise-Canceling Earbuds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-rapid-rise-to-instagram-riches-15-innovative-techniques-for-quick-popularity-boost-for-2024/"><u>[Updated] Rapid Rise to Instagram Riches 15 Innovative Techniques for Quick Popularity Boost for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-6-best-4k-full-frame-camera-for-2024/"><u>[Updated] Top 6 Best 4K Full Frame Camera for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-compiling-the-best-12-cost-free-video-apps-for-all-platforms/"><u>2024 Approved Compiling the Best 12 Cost-Free Video Apps for All Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-conversations-proven-techniques-for-telegram-engagement/"><u>2024 Approved Crafting Conversations Proven Techniques for Telegram Engagement</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/calculating-youtubes-adsense-gains-per-thousand-viewer-income-for-2024/"><u>Calculating Youtube's AdSense Gains Per Thousand Viewer Income for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cracking-the-code-on-discounts-for-students-save-big-with-lenovo-tech-offers/"><u>Cracking the Code on Discounts for Students: Save Big with Lenovo Tech Offers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-facebooks-photo-database-with-ease-the-ultimate-search-strategy/"><u>Navigating Facebook's Photo Database with Ease: The Ultimate Search Strategy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-claim-your-eligibility-for-spotifys-student-pricing/"><u>Step-by-Step Guide: Claim Your Eligibility for Spotify's Student Pricing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-tutorial-on-navigating-facebook-picture-queries/"><u>The Complete Tutorial on Navigating Facebook Picture Queries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-fine-line-at-work-analyzing-10-scenarios-where-chatgpt-might-cost-you-your-job/"><u>The Fine Line at Work: Analyzing 10 Scenarios Where ChatGPT Might Cost You Your Job</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

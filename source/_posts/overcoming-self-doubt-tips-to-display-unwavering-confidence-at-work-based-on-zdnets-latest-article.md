@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Self-Doubt: Tips to Display Unwavering Confidence at Work, Based on ZDNet's Latest Article"
-date: 2024-09-17 15:11:25
-updated: 2024-09-20 10:31:30
+date: 2024-10-14T16:18:58.369Z
+updated: 2024-10-19T04:10:01.828Z
 tags:
   - professional-development
 categories:
@@ -45,6 +45,19 @@ Additionally, since imposter syndrome is an internal experience, there's no thre
 
 We know from research that those feelings do not subside after reaching a new goal because we acclimate and quickly pick a new goal as the next threshold, continuing the cycle.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Am I experiencing imposter syndrome at work?
 
 Recognizing imposter syndrome is the first step toward healing. Feeling like you aren't good enough for your job can lead to overwhelming stress, a [sense of burnout](https://www.zdnet.com/education/professional-development/how-to-avoid-burnout/), and even resigning from your position. 
@@ -73,6 +86,13 @@ Additionally, if you are going to talk to your manager, think about some actiona
 If you don't have a transparent and vulnerable relationship with your manager, I would also suggest seeking the support of peers. Ultimately, you want to go to the well that has water for you. 
 
 Tori Rubloff/ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to cope with imposter syndrome in your career
 
@@ -144,6 +164,13 @@ Keep your list somewhere you can access it when you need a boost. Include anythi
 
 If you led a successful meeting, note what worked and some [public speaking tips](https://www.zdnet.com/education/professional-development/public-speaking-tips/) for future you. Don't forget to add any kind Slack messages you've received or positive comments on a performance review. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [How to overcome new job anxiety New job anxiety can hinder your productivity and hurt your professional experience. Find out what anxiety is and what you can do to manage it.  Read now](https://www.zdnet.com/article/overcome-new-job-anxiety/)
@@ -161,6 +188,13 @@ These methods to overcome imposter syndrome can be helpful, but sometimes you ne
 Cognitive-behavioral therapy can help explore negative emotions and create personalized methods to manage them. 
 
 Your primary care provider may be able to connect you with a therapist. If that's not possible for you, try an online service like Betterhelp or Talkspace. These sites offer quick appointment availability.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More about Dr. Pauline Yeghnazar Peck, MA, MMFT, Ph.D.
 
@@ -187,11 +221,27 @@ Your primary care provider may be able to connect you with a therapist. If that'
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-lenovo-laptop-screen-logging-made-easy-for-2024/"><u>[Updated] Lenovo Laptop Screen Logging Made Easy for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-bots-collide-who-will-outshine-gpt-plus-or-perplexity/"><u>AI Bots Collide: Who Will Outshine, GPT Plus Or Perplexity?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/begin-your-journey-on-x-a-comprehensive-walkthrough-of-signing-up/"><u>Begin Your Journey on X - A Comprehensive Walkthrough of Signing Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/brighten-up-your-screen-effective-techniques-to-fix-image-discoloration-on-pcs/"><u>Brighten up Your Screen: Effective Techniques to Fix Image Discoloration on PCs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-guide-for-macbook-webcam-capture/"><u>Essential Guide for MacBook Webcam Capture</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-the-not-found-error-for-msvcr80dll-on-your-pc-easily/"><u>Fix the 'Not Found' Error for msvcr80.dll on Your PC Easily!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/guides-to-quick-webinar-recording-with-macos-and-windows-for-2024/"><u>Guides to Quick Webinar Recording with macOS and Windows for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-handbooks-downloading-made-easy-access-documentation-for-every-version/"><u>IPhone Handbooks Downloading Made Easy: Access Documentation for Every Version</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-missing-jvmdll-solutions-and-tricks/"><u>Navigating Through Missing JVM.dll: Solutions and Tricks</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-text-generator/"><u>New 2024 Approved What Is an AI Text Generator?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-pc-intro-makers-free-and-paid-tools-online-and-offline-for-2024/"><u>New Top-Rated PC Intro Makers Free and Paid Tools Online & Offline for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-most-effective-notetaking-apps/"><u>Top 10 Most Effective Notetaking Apps</u></a></li>
+</ul></div>
+

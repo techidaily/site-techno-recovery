@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Guide to Scooping Up Hot Deals: Top 18 Laptops at Great Prices During Prime Day | Featuring HP, Apple, and Razer !"
-date: 2024-10-10T01:12:10.306Z
-updated: 2024-10-13T06:47:53.744Z
+date: 2024-10-17T13:27:39.286Z
+updated: 2024-10-18T21:00:20.827Z
 tags:
   - apple
 categories:
@@ -91,6 +91,13 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://www.amazon.com/Apple-2024-MacBook-13-inch-Laptop/dp/B0CX23V2ZK?tag=zdnet-buy-button-20): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://www.amazon.com/Apple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core/dp/B0CM5JV268?tag=zdnet-buy-button-20): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -98,6 +105,19 @@ HPZDNET
 * [HP Envy x360 2-in-1 for $845 (save $50)](https://www.amazon.com/HP-2-1-Touch-Screen-i7-16GB/dp/B0CZ37N6DL/ref=sr%5F1%5F3?tag=zdnet-buy-button-20): We recently had a chance to go [hands-on with HP's newest version of the Envy x360 2-in-1](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), and praised the laptop for its gorgeous display and all-around optimization. If that laptop looked interesting to you, but you want to save some money, the previous version is on sale on Amazon for just $845 for the 16GB, 2TB version.
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://www.amazon.com/HP-Display-i5-12450H-Dedicated-15-fa1029nr/dp/B0CVNJ7LLN?tag=zdnet-buy-button-20): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://www.amazon.com/HP-Generation-i3-1215U-Graphics-14-dq5009nr/dp/B0CS3XPZNH?tag=zdnet-buy-button-20): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
 
@@ -123,36 +143,22 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://www.amazon.com/Microsoft-Surface-Tablet-High-Performance-Pre-Installed/dp/B0C5MW8R35/?tag=zdnet-buy-button-20): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://www.amazon.com/ASUS-VivoBook-Laptop-WUXGA-1920/dp/B0BT6NKLQR/?tag=zdnet-buy-button-20): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://www.amazon.com/Razer-Blade-Gaming-Laptop-4090-13th/dp/B0BQP1WCP4?tag=zdnet-buy-button-20) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
@@ -165,10 +171,10 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
@@ -176,10 +182,10 @@ We also looked over customer reviews to find out what matters to real people who
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
@@ -245,19 +251,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dynamic-viewership-statistics-platforms/"><u>[New] 2024 Approved Dynamic Viewership Statistics Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solved-windows-modules-installer-worker-windows-10-high-cpu/"><u>[Solved] Windows Modules Installer Worker Windows 10 High CPU</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-framework-for-seamless-video-storytelling/"><u>[Updated] 2024 Approved The Framework for Seamless Video Storytelling</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-pop-sync-streamlining-song-placement-on-instagram-stories-for-2024/"><u>[Updated] Pop Sync Streamlining Song Placement on Instagram Stories for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-motorola-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Motorola</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-effective-picture-call-applications-available-today/"><u>Discover the Most Effective Picture Call Applications Available Today</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-motorola-moto-g04-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Moto G04 Phone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-science-of-scheduling-your-best-view-days/"><u>In 2024, The Science of Scheduling Your Best-View Days</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-steps-to-reach-windows-7s-control-panel-interface/"><u>Simple Steps to Reach Windows 7'S Control Panel Interface</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-steps-setting-up-a-vpn-on-your-xbox-one-enhance-privacy-instantly/"><u>Simple Steps: Setting Up a VPN on Your Xbox One - Enhance Privacy Instantly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-of-wuauserv-consuming-excessive-processor-power-a-comprehensive-guide/"><u>Solving the Issue of Wuauserv Consuming Excessive Processor Power: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-strategies-to-successfully-remove-an-icloud-email-account/"><u>Step-by-Step Strategies to Successfully Remove an iCloud Email Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-dvd-collection-to-digital-files-on-windows-11-in-minutes/"><u>Transform Your DVD Collection to Digital Files on Windows 11 in Minutes!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-skryim-adventure-discover-the-game-changer-with-the-special-editions-fps-upgrade/"><u>Transform Your Skryim Adventure: Discover the Game Changer with the Special Edition's FPS Upgrade !</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-picks-for-best-timelapse-tools/"><u>2024 Approved Expert Picks for Best Timelapse Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-master-the-art-of-uploading-vimeo-to-instagram/"><u>2024 Approved Master the Art of Uploading Vimeo to Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-x-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone X & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-lg-channels-the-crucial-facts-you-cant-miss/"><u>Demystifying LG Channels – The Crucial Facts You Can't Miss</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-fix-missing-osetupdll-files-on-your-pc/"><u>How to Address and Fix Missing 'oSetup.dll' Files on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-your-computers-malfunctioning-optical-drive/"><u>How To Repair Your Computer's Malfunctioning Optical Drive</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c02-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C02 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-for-selecting-and-syncing-music-with-visuals/"><u>In 2024, Strategies for Selecting and Syncing Music with Visuals</u></a></li>
+<li><a href="https://facebook.techidaily.com/increasing-visibility-of-jobs-with-facebook-posts/"><u>Increasing Visibility of Jobs with Facebook Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-voice-commands-a-guide-to-enable-siris-text-to-speech-on-iphone-and-mac/"><u>Mastering Voice Commands: A Guide to Enable Siri's Text-to-Speech on iPhone & Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-your-samsung-tv-experience-with-integrated-apps/"><u>Mastering Your Samsung TV Experience with Integrated Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/official-breakdown-of-the-next-gen-psvr-2-price-specs-and-arrival-predictions/"><u>Official Breakdown of the Next-Gen PSVR 2 – Price, Specs, and Arrival Predictions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-connecting-and-setting-up-an-external-display-for-your-mac-computer/"><u>Step-by-Step Solution: Connecting and Setting Up an External Display for Your Mac Computer</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-xiaomi-14-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Xiaomi 14 Pro without backup.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-titles-exclusive-to-playstation-5-gaming-on-next-gen/"><u>Top Titles Exclusive to PlayStation 5: Gaming on Next-Gen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-nokia-c32-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Nokia C32 IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crafting an Unforgettable Tech Resume: Expert Tips From ZDNet"
-date: 2024-09-19 21:40:30
-updated: 2024-09-20 12:43:40
+date: 2024-10-14T07:51:51.014Z
+updated: 2024-10-19T11:42:59.108Z
 tags:
   - professional-development
 categories:
@@ -64,6 +64,13 @@ This section should consist of just one or two sentences and include a couple of
 
 Using the Amazon example, a strong summary/objective might say, "Skilled software engineer seeking a position at Amazon Financial Technology where I can grow my 5+ years of software development experience with Java, Python, and C#/C++." 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Work experience
 
 The work and employment experience section of your resume is where you can demonstrate the impacts and outcomes of your work. The goal is to show, not tell, recruiters what you can do for the company.
@@ -114,6 +121,19 @@ In addition to work projects, you can use projects completed for classes or boot
 
 Commonly used portfolio formats include a website, blog, LinkedIn page, or GitHub Pages. For inspiration, explore [How to build a coding portfolio](https://www.zdnet.com/education/professional-development/how-to-build-a-coding-portfolio/).
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Education
 
 The education section should list the schools you've attended, where they're located, the date you graduated, and the degrees/certificates earned. Even if you earned something other than a [software engineering degree](https://www.zdnet.com/education/computers-tech/best-online-software-engineering-degree/), completing higher education demonstrates dedication and critical thinking skills to employers.
@@ -121,6 +141,19 @@ The education section should list the schools you've attended, where they're loc
 Don't have to include your GPA unless the job description specifically calls for it. The exception: If you're a recent graduate with little work experience and your GPA was high, listing it may demonstrate your studiousness.
 
 You can also include internships you completed while in school and any software engineering or [coding bootcamps](https://www.zdnet.com/education/bootcamps/best-coding-bootcamp/) you've attended. 
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Additional sections
 
@@ -180,6 +213,13 @@ Instead of listing 20 different skills that you might have picked up over time, 
 
 VS: I will want to set up an interview with a candidate when they're describing their prior experience and the impact or complexity is absolutely unambiguous. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### This article was reviewed by Sierra Gawlowski, PE
 
 [Sierra Gawlowski](https://www.linkedin.com/in/sierra-gawlowski/), PE, earned her BS in civil engineering and is a licensed professional engineer in the state of Washington. She has worked for a private engineering consulting firm as well as for public agencies. Sierra enjoys mentoring engineering students and junior staff. She also leads a project team for Engineers Without Borders and currently sits on the board of directors for Kilowatts for Humanity.
@@ -212,11 +252,29 @@ _Last reviewed May 23, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-new-era-of-videography-aspect-ratios-mandatory-for-2024/"><u>[New] Twitter's New Era of Videography Aspect Ratios Mandatory for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-upcoming-pixel-buds-pro-2-specs-expected-cost-launch-date/"><u>All You Need to Know About the Upcoming Pixel Buds Pro 2 - Specs, Expected Cost, Launch Date</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-digital-gestures-understanding-what-swipe-left-and-swipe-right-really-signify/"><u>Decoding Digital Gestures: Understanding What 'Swipe Left' And 'Swipe Right' Really Signify</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-master-this-mornings-nyt-connections-challenge-answer-for-july-31-416/"><u>Discover How to Master This Morning’s NYT Connections Challenge - Answer for July 31 (#416)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-steps-overcoming-facebook-video-freeze/"><u>Essential Steps Overcoming Facebook Video Freeze</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/federal-support-for-affordable-online-access-ceased-by-us-authorities/"><u>Federal Support for Affordable Online Access Ceased by U.S. Authorities</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guia-facil-y-paso-a-paso-para-realizar-backups-automaticos-en-microsoft-outlook-201-cuidadosamente/"><u>Guía Fácil Y Paso a Paso Para Realizar Backups Automáticos en Microsoft Outlook 201 Cuidadosamente</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-google-dominates-the-market-a-violation-of-us-antitrust-regulations/"><u>How Google Dominates the Market: A Violation of U.S. Antitrust Regulations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 12 Pro Max Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-14th-new-york-times-quiz-insightful-tips-and-solutions-399-edition/"><u>July 14Th New York Times Quiz: Insightful Tips & Solutions - #399 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-5th-insights-from-the-new-york-times-unlocking-connection-390/"><u>July 5Th Insights From the New York Times - Unlocking Connection #390</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/may-19-new-york-times-crosswords-exposed-tips-and-answers-for-brain-teasing-challenges-343/"><u>May 19 New York Times Crosswords Exposed: Tips and Answers for Brain-Teasing Challenges #343</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-issues-with-your-wii-console-difficulties-in-reading-game-cds/"><u>Resolving Issues with Your Wii Console: Difficulties in Reading Game CDs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-damaged-iphone-a-step-by-step-guide-to-starting-it-up-without-using-buttons/"><u>Revive Your Damaged iPhone: A Step-by-Step Guide to Starting It Up Without Using Buttons</u></a></li>
+</ul></div>
+
