@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Android's Battery Performance with These Essential Settings Adjustments, According to ZDNet
-date: 2024-09-17 10:15:18
-updated: 2024-09-20 11:56:22
+date: 2024-10-21T01:03:54.011Z
+updated: 2024-10-25T05:00:01.099Z
 tags:
   - google
 categories:
@@ -55,6 +55,13 @@ It's common knowledge that cranking down your display's brightness can help save
 
 **How to**: Swipe down once or twice from the top of your phone's display to visit the quick settings menu. You'll see a slider with a picture of a sun or other source of light next to it. Drag the slider to the left to decrease your brightness. To reduce the time it takes for your phone to sleep, go to Settings > Display and change "Screen timeout" to anything below a minute.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Remove unused accounts
 
 Kerry Wan/ZDNET
@@ -64,6 +71,13 @@ We've all done this at some point in our lives: you set up a new account for a s
 **Also: [How to clear the cache on your Android phone or tablet (and why you should)](https://www.zdnet.com/article/how-to-clear-the-cache-on-your-android-phone-or-tablet-and-why-you-should/)**
 
 **How to**: Go to the Settings app and find the accounts section (on Samsung phones it's called "Accounts and backup", while Pixel phones use "Passwords & accounts"). You'll find a list of all the accounts synced to your phone. Tap on one of them and scroll down to the "Remove account" button. Tap it and the account will disappear.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn off keyboard sounds and haptics
 
@@ -80,6 +94,13 @@ You might not realize it, but notifications can be one of the biggest drainers o
 **Also:** [**How to turn on Private DNS Mode on Android (and why you should)**](https://www.zdnet.com/article/how-to-turn-on-private-dns-mode-on-android-and-why-you-should/)
 
 **How to**: Go to Settings > Notifications > "App notifications" to see a list of all the apps installed on your phone. There are toggles next to each of them that, when flipped, will disable all notifications for that particular app.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Turn off "Hey Google" detection
 
@@ -102,6 +123,13 @@ Kerry Wan/ZDNET
 I've never been a proponent of turning off wireless features, such as Wi-Fi, Bluetooth, or location services, to save a phone's battery life. So many apps and services rely on those connections that your Android experience can diminish quickly. If, however, you don't use anything that needs Bluetooth or don't use your phone for GPS, it might be worth disabling some of these features to extend your battery life.
 
 **How to**: On basically every Android phone ever made, you can swipe down once or twice from the top to access quick settings, where you'll find icons for Wi-Fi, Bluetooth, location, airplane mode, and more. Touch them once to turn them off, and touch them again to turn them back on. You can also control all these settings through the Settings app, although quick settings is the easiest way to access them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Use low-power mode
 
@@ -138,11 +166,25 @@ I didn't include this feature in the primary list because, well, it's an obvious
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-of-the-best-15-4k-video-capture-units/"><u>[New] 2024 Approved Best of the Best #15 4K Video Capture Units</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024wav8/"><u>2024年に最高の無料WAV変換プログラムを発表！トップ8秒読み</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-snapchat-expressions-your-complete-emoji-cheat-sheet/"><u>Deciphering Snapchat Expressions: Your Complete Emoji Cheat Sheet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-restoring-functionality-to-your-broken-macbook-pro-keyboard/"><u>Expert Tips for Restoring Functionality to Your Broken MacBook Pro Keyboard</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmony-in-hd-crafting-melodic-instagram-videos-for-2024/"><u>Harmony in HD Crafting Melodic Instagram Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-repair-a-504-gateway-timeout-problem-a-comprehensive-guide/"><u>How To Successfully Repair a 504 Gateway Timeout Problem - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f04-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F04 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-secure-to-use-third-party-chatgpt-addons-and-plugins/"><u>Is It Secure to Use Third-Party ChatGPT Addons & Plugins?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-privacy-in-video-calls-how-to-blur-your-surroundings-in-google-meet/"><u>Mastering Privacy in Video Calls: How to Blur Your Surroundings in Google Meet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-james-bond-movie-marathon-plan-for-fans/"><u>The Ultimate James Bond Movie Marathon Plan for Fans</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/uncharted-territory-6-secrets-to-documenting-your-minecraft-journey-for-2024/"><u>Uncharted Territory 6 Secrets to Documenting Your Minecraft Journey for 2024</u></a></li>
+</ul></div>
+

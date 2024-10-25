@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Blueprint for a Thriving Career as a Data Expert: Key Actions You Need to Take Now"
-date: 2024-09-17 20:59:34
-updated: 2024-09-20 10:44:20
+date: 2024-10-23T22:48:42.586Z
+updated: 2024-10-24T19:26:32.285Z
 tags:
   - professional-development
 categories:
@@ -57,6 +57,13 @@ Whitcomb says EDF gives graduates in its program a career manager, who stays wit
 
 "Even now it's still useful to have her around. We catch up and it's useful having somebody who has shared experiences, good advice to give, and who understands where I'm coming from more than somebody who hasn't had that experience."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't be scared
 
 Whitcomb says it's important young professionals don't feel too anxious about moving into a new and fast-moving area.
@@ -72,6 +79,13 @@ Young professionals will quickly learn everyone has gaps in their digital knowle
 Whitcomb says the key to success for new graduates is seeing every obstacle as an opportunity. 
 
 "Going in from square one is quite intimidating," she says. "But if you have that mindset of, 'I want to learn, I'm willing to learn, and I can think logically' then you'll be great. So, don't be put off because you don't know how to code at the start."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Embrace the creativity
 
@@ -93,6 +107,13 @@ Whitcomb wants to help people in the department feel empowered to use the tools 
 
 "If you enjoy the logical side of things, you can bring brilliant, creative solutions together."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Ask questions
 
 If you want to get ahead, don't be afraid to probe people, says Whitcomb: "I know everyone says this the whole time, but asking questions is the best way to learn." 
@@ -108,6 +129,13 @@ Both Bentley and EDF are keen to get their professionals to ask questions about 
 "On the flip side, if somebody asks you a question, be open to that. Sometimes, it's quite difficult to know who to ask questions. If someone asks you something, you learn yourself," she says. 
 
 "So, make sure you're asking questions and be the person other people feel they can ask questions to."
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Grab fresh opportunities
 
@@ -144,11 +172,29 @@ Whitcomb says she enjoys speaking about her work, sharing learnings, and contrib
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-convert-talk-to-text-the-costless-alternative/"><u>[New] 2024 Approved Convert Talk to Text The Costless Alternative</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-what-memes-really-mean/"><u>A Comprehensive Guide to What Memes Really Mean</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-the-concept-of-wi-fi-calling-technology/"><u>Demystifying the Concept of Wi-Fi Calling Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-epson-xp-430-printer-drivers-on-windows-a-simple-walkthrough/"><u>Find & Install Epson XP-430 Printer Drivers on Windows: A Simple Walkthrough</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-v27-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo V27 for Free? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/i-tried-both-nintendo-switch-lite-vs-nintendo-switch-oled/"><u>I Tried Both: Nintendo Switch Lite vs Nintendo Switch OLED</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-15-plus-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 15 Plus Smoothly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-motorola-moto-g04-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola Moto G04 Phone that is Locked?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instagram-growth-hacks-how-to-gain-a-massive-follower-base/"><u>Instagram Growth Hacks: How to Gain a Massive Follower Base</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-the-ultimate-guide-to-international-in-depth-mouse-control/"><u>PowerToys: The Ultimate Guide to International, In-Depth Mouse Control</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailored-treasure-troves-the-ultimate-list-of-online-box-sellers-for-2024/"><u>Tailored Treasure Troves The Ultimate List of Online Box Sellers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-truth-behind-the-blue-screen-of-death-bsod-everything-you-need-to-know/"><u>The Truth Behind the Blue Screen of Death (BSOD) - Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-zero-cost-offline-car-racing-games-for-mobile-gamers/"><u>Top 5 Zero Cost Offline Car Racing Games for Mobile Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-your-steam-installation-fixing-disk-write-errors-easily/"><u>Troubleshooting Your Steam Installation: Fixing Disk Write Errors Easily</u></a></li>
+</ul></div>
+

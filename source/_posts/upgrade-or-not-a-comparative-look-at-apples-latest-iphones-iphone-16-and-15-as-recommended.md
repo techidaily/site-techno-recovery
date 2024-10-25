@@ -1,7 +1,7 @@
 ---
 title: Upgrade or Not? A Comparative Look at Apple's Latest iPhones (iPhone 16 & 15) as Recommended
-date: 2024-10-13T08:25:57.429Z
-updated: 2024-10-19T05:03:32.942Z
+date: 2024-10-22T17:43:40.934Z
+updated: 2024-10-25T02:29:20.855Z
 tags:
   - apple
 categories:
@@ -50,10 +50,10 @@ To help you make this decision, we've broken down all of the most important deta
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -64,13 +64,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -78,13 +71,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -108,6 +94,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You don't require the generative AI capabilities
 
 All of the bells and whistles on the iPhone 16 are certainly nice, but are they must-haves? To many people, probably not. Generative AI still has its' issues despite advancing rapidly in the past couple of years. Apple Intelligence and the new Siri may be great, but we wouldn't be surprised to see users encounter performance problems or hallucinations.
@@ -117,10 +110,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -130,6 +123,13 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417990%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417990.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -165,21 +165,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-crafting-immersive-experiences-with-captions-on-stories-and-reels-for-2024/"><u>[New] Crafting Immersive Experiences with Captions on Stories & Reels for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-saving-gifs-from-twitter-ios-and-android-guide/"><u>[Updated] 2024 Approved Saving GIFs From Twitter IOS & Android Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-new-realms-todays-vr-tomorrows-trials/"><u>[Updated] Navigating New Realms Today's VR, Tomorrow's Trials</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-bridging-photos-and-video-in-pixiz-a-comprehensive-guide/"><u>2024 Approved Bridging Photos & Video in Pixiz A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-dive-into-youtube-tv-tips-and-tricks-for-optimal-viewing/"><u>2024 Approved Dive Into YouTube TV Tips & Tricks for Optimal Viewing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/avoiding-autoplay-features-on-apple-music-for-a-better-listening-experience/"><u>Avoiding Autoplay Features on Apple Music for a Better Listening Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/capturing-screen-with-your-logitech-keyboard-a-step-by-step-guide/"><u>Capturing Screen with Your Logitech Keyboard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/concealed-identities-quick-tips-for-face-obscuration-in-images/"><u>Concealed Identities Quick Tips for Face-Obscuration in Images</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-crystal-clear-photos-overcoming-auto-focus-challenges-on-an-iphone/"><u>Get Crystal Clear Photos: Overcoming Auto-Focus Challenges on an iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/getting-started-with-x-previously-known-as-twitter-user-registration-tips/"><u>Getting Started with X (Previously Known as Twitter): User Registration Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/premium-jokester-visualizer/"><u>Premium Jokester Visualizer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-normalizdll-file-missing-step-by-step-guide/"><u>Resolving 'Normaliz.dll' File Missing: Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-10-ai-subtitle-translators-for-content-creators-for-2024/"><u>Top 10 AI Subtitle Translators for Content Creators for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-kid-friendly-films-streaming-on-netflix-right-now/"><u>Top Kid-Friendly Films Streaming on Netflix Right Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-ups-battery-solutions/"><u>Top-Ranking UPS Battery Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-inside-the-high-definition-world-of-nikon-j5/"><u>[Updated] 2024 Approved Inside the High-Definition World of Nikon J5</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-pioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors/"><u>[Updated] Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-beginners-guide-to-chatgpt-and-its-capabilities/"><u>A Beginner's Guide to ChatGPT and Its Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chronicle-of-change-tracing-the-history-and-upgrades-from-ios-10-to-ios-et80/"><u>Chronicle of Change: Tracing the History and Upgrades From iOS 1.0 to iOS ˈeɪtʃ8.0</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-differences-roku-express-vs-roku-stick-for-optimal-viewing-experience/"><u>Decoding the Differences: Roku Express vs Roku Stick for Optimal Viewing Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-fixes-for-windows-11-not-shutting-down-correctly/"><u>Essential Fixes for Windows 11 Not Shutting Down Correctly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-xp-workspace-your-next-creative-filmmaker/"><u>In 2024, XP Workspace Your Next Creative Filmmaker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-the-next-big-thing-in-gaming-the-xbox-vr-headset-specs-release-info-and-pricing-revealed/"><u>Inside Look at the Next Big Thing in Gaming: The Xbox VR Headset – Specs, Release Info & Pricing Revealed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-potential-twitch-downtime-identifying-global-outages-vs-personal-connectivity-challenges/"><u>Navigating Potential Twitch Downtime: Identifying Global Outages vs Personal Connectivity Challenges</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-hd-video-editing-made-easy-top-5-software-recommendations/"><u>New In 2024, HD Video Editing Made Easy Top 5 Software Recommendations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/picsart-app-deep-dive-full-review-analysis-and-instructions-for-the-new-year-for-2024/"><u>PicsArt App Deep Dive Full Review, Analysis & Instructions for the New Year for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-msxml4dll-file-doesnt-exist-a-comprehensive-guide/"><u>Resolving the 'msxml4.dll File Doesn't Exist': A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-how-to-address-and-fix-coredll-not-found-problems/"><u>Step-by-Step Guide: How to Address and Fix Core.dll Not Found Problems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-blueprint-for-capturing-compelling-powerpoint-presentations/"><u>The Blueprint for Capturing Compelling PowerPoint Presentations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-garmin-vivosmart-4s-body-battery-and-stress-management-capabilities/"><u>The Ultimate Guide to Garmin Vivosmart 4'S Body Battery and Stress Management Capabilities</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/understanding-http-headers-and-their-impact-on-seo-strategies/"><u>Understanding HTTP Headers & Their Impact on SEO Strategies</u></a></li>
 </ul></div>
 

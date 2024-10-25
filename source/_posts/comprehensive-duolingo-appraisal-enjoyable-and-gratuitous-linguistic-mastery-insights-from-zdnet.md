@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Duolingo Appraisal: Enjoyable & Gratuitous Linguistic Mastery - Insights From ZDNet"
-date: 2024-09-18 22:23:24
-updated: 2024-09-20 10:32:59
+date: 2024-10-22T05:34:27.231Z
+updated: 2024-10-24T23:28:49.872Z
 tags:
   - professional-development
 categories:
@@ -54,6 +54,13 @@ Still, Duolingo's gamification is not for everyone. Serious learners may find th
 | Requirements         | Do not need to create an account right away to start learning                                                                                                                                                                                                                                                                                                                               |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How language learning works
 
@@ -111,6 +118,13 @@ Duolingo
 
 By downloading the app and completing a lesson, I understood how Duolingo keeps students interested in the language: There are streaks, there are awards -- it's fun. It's language learning that keeps the big picture in mind without getting bogged down by the details, especially at first.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Duolingo actually effective?
 
 Not on its own. If you supplement Duolingo lessons with Duolingo stories or [even a Duolingo event](https://events.duolingo.com/), you'll maximize the free resources offered by the company and maybe even still not have a complete grasp of the language. Self-study is key here, meaning you should acquire workbooks and practice on your own time in addition to using Duolingo. I also think it's important to speak as you go through questions on Duolingo; for example, I tried saying 好 or hǎo out loud when a question popped up that mentioned it. 
@@ -126,6 +140,13 @@ Duolingo's message of learning a language in 10 or 20 minutes per day seems unre
 ## Is Duolingo still worth your time?
 
 If you want to achieve fluency within a couple of years, Duolingo should not be your only platform of learning, but it is a good supplement. As I used the app, I felt more like I was having fun and less like I was cramming conjugations in my brain. The slow pace might not be for everyone, though, and I've seen it used best as a practice tool to keep up in regular classes. I was impressed with Duolingo overall. It's a solid tool to start learning a language, but not one for total mastery. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Two years of Duolingo
 
@@ -156,6 +177,13 @@ He's also listened to 64 sets of stories in French, some of which require him to
 By bringing languages from all over the world onto one platform, Duolingo creates more than just a way to broaden your linguistic capabilities -- it's also about broadening your horizons. The upbeat way that the company does this, with bright colors and interesting graphics, draws the eye. The encouragement makes Duolingo users feel as though they're making progress. 
 
 In the United States, nearly 231 million Americans only speak English: That's about 80% of the population. Becoming fluent in another language doesn't just make you more worldly. It can be a huge advantage in the workplace. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider 
 
@@ -192,11 +220,27 @@ Another trusted method with instant feedback on pronunciation.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-dimming-curtain-call-fade-techniques-for-pro/"><u>[Updated] 2024 Approved The Dimming Curtain Call Fade Techniques for Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-next-gen-apple-watch-ultra-model-2-comprehensive-guide-to-specs-estimated-prices-and-launch-rumors/"><u>Discover the Next-Gen Apple Watch Ultra Model 2 – Comprehensive Guide to Specs, Estimated Prices & Launch Rumors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-surprising-origins-of-the-worlds-best-loved-emoji-icons/"><u>Explore Surprising Origins of the World's Best-Loved Emoji Icons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-frustrating-408-error-steps-and-tips-for-successful-resolution/"><u>Fixing the Frustrating 408 Error: Steps & Tips for Successful Resolution</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-sound-to-sight-choosing-between-audio-and-video-media-for-2024/"><u>From Sound to Sight Choosing Between Audio and Video Media for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-expert-methods-for-weaving-in-live-streaming-content-online/"><u>In 2024, Expert Methods for Weaving in Live Streaming Content Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-speed-windows-photoviewer/"><u>In 2024, High-Speed Windows Photoviewer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 12 Pro Max</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-internet-archives-wayback-machine-a-step-by-step-guide/"><u>Mastering Internet Archive's Wayback Machine: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-guide-capturing-a-screen-image-effortlessly-in-windows/"><u>Quick Guide: Capturing a Screen Image Effortlessly in Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/red-eye-vanquished-swiftly-enhance-your-iphone-images-without-spending/"><u>Red Eye Vanquished Swiftly Enhance Your iPhone Images Without Spending</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-painting-task-with-these-4-handy-painting-apps/"><u>Revolutionize Your Painting Task with These 4 Handy Painting Apps!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/zoom-meeting-organization-tips-for-professionals-for-2024/"><u>Zoom Meeting Organization Tips for Professionals for 2024</u></a></li>
+</ul></div>
+

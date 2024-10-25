@@ -1,7 +1,7 @@
 ---
 title: Leviton Unveils Latest Collection of Smart Home Gadgets with Groundbreaking First Matter Outdoor Plug Feature - ZDNet Review
-date: 2024-09-17 14:58:47
-updated: 2024-09-20 10:36:12
+date: 2024-10-24T08:12:25.718Z
+updated: 2024-10-25T03:47:10.091Z
 tags:
   - energy
 categories:
@@ -43,11 +43,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-alternatives-spotlighted-by-az-screen-recorder/"><u>[New] In 2024, Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
+<li><a href="https://win11.techidaily.com/access-amazon-prime-video-content-for-free-on-any-device-with-a-secure-authorized-solution-using-kodi-no-need-for-premium-subscription/"><u>Access Amazon Prime Video Content for Free on Any Device with a Secure, Authorized Solution Using Kodi - No Need for Premium Subscription</u></a></li>
+<li><a href="https://article-files.techidaily.com/ace-your-workflow-fast-signature-backdrop-elimination/"><u>Ace Your Workflow Fast Signature Backdrop Elimination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-affordable-led-ram-modules-for-gamers/"><u>Best Affordable LED RAM Modules for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-of-the-best-premium-free-driver-refresher-software-options-july-2024-edition/"><u>Best of the Best: Premium-Free Driver Refresher Software Options - July 2024 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-an-engaging-and-insightful-interview-experience-for-2024/"><u>Crafting an Engaging and Insightful Interview Experience for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-the-meaning-of-error-0xc0000185-and-easy-steps-to-resolve-it/"><u>Decode the Meaning of Error 0xC0000185 & Easy Steps to Resolve It</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v27-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V27 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-ce-3-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord CE 3 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/showcase-of-inclusive-films-premier-lesbian-gay-bisexual-and-transgender-titles-on-netflix-this-july/"><u>Showcase of Inclusive Films: Premier Lesbian, Gay, Bisexual & Transgender Titles on Netflix This July</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailoring-your-choice-comprehensive-insights-on-the-true-variances-of-mac-vs-pc-systems/"><u>Tailoring Your Choice: Comprehensive Insights on the True Variances of Mac Vs. PC Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-and-tricks-for-blocking-video-sites-like-youtube-on-your-ipad/"><u>Top Tips and Tricks for Blocking Video Sites Like YouTube on Your iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmasking-impostors-effective-strategies-for-recognizing-bogus-friend-invitations-online/"><u>Unmasking Impostors: Effective Strategies for Recognizing Bogus Friend Invitations Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-5-premier-slumber-assistance-applications-for-your-apple-watch/"><u>Unveiling 5 Premier Slumber Assistance Applications for Your Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/when-should-you-consider-an-rtx-graphic-card-upgrade/"><u>When Should You Consider an RTX Graphic Card Upgrade?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

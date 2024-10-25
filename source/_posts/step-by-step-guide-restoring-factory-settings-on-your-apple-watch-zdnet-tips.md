@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Factory Settings on Your Apple Watch (ZDNet Tips)"
-date: 2024-10-11T19:27:51.836Z
-updated: 2024-10-18T17:28:40.094Z
+date: 2024-10-22T05:51:23.178Z
+updated: 2024-10-25T00:03:01.911Z
 tags:
   - apple
 categories:
@@ -27,16 +27,10 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 ## How to swap faces on your Apple Watch
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
@@ -46,10 +40,10 @@ If you're still running watchOS 9 or earlier, the older method of switching watc
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
@@ -68,13 +62,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Update to watchOS 10.2
 
 Apple must have realized that it ticked off Watch owners by making the new face changing process so clumsy. That's why it fixed the issue with the latest 10.2 update. For this, open the Watch app on your iPhone, head to General, select Software Update, and then install the latest version.
@@ -84,10 +71,10 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change the method for switching faces
@@ -97,6 +84,13 @@ The newer method for swapping watch faces is still the default in watchOS 10.2\.
 screenshot by Lance Whitney/ZDNET
 
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
 
@@ -134,17 +128,21 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-insiders-look-at-facebook-sharing-for-youtube-creators/"><u>[New] 2024 Approved The Insider's Look at Facebook Sharing for YouTube Creators</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-shortcut-to-shorter-vids-on-youtube/"><u>[New] 2024 Approved The Shortcut to Shorter Vids on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-premium-free-power-players-ranking-the-top-10-free-luts/"><u>[Updated] 2024 Approved Premium-Free Power Players Ranking the Top 10 Free LUTs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029569074-top5/"><u>最も優れた無料ビデオ編集アプリケーションTOP5推薦ランキング</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-practices-for-saving-screen-and-webcam-chats-for-2024/"><u>Best Practices for Saving Screen and Webcam Chats for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-solutions-to-rectify-mscorwksdll-missing-on-your-computer/"><u>Comprehensive Solutions to Rectify mscorwks.dll Missing on Your Computer</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone SE (2022)?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-breakdown-of-every-ipados-update-cycle/"><u>Step-by-Step Breakdown of Every iPadOS Update Cycle</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-how-to-access-and-utilize-the-wayback-machine-for-historical-web-data/"><u>Step-by-Step Instructions on How to Access and Utilize the Wayback Machine for Historical Web Data</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-must-watch-80s-films-perfect-for-your-next-movie-night/"><u>Top 10 Must-Watch '80S Films Perfect for Your Next Movie Night</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-18-essential-shortcuts-every-iphone-user-should-know-in-the-ios-shortcuts-app/"><u>Top 18 Essential Shortcuts Every iPhone User Should Know in the iOS Shortcuts App</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-repairing-steams-troublesome-error-130-issue/"><u>Troubleshooting and Repairing Steam's Troublesome Error 130 Issue</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-easing-out-the-melodies-advanced-techniques-in-adobe-premiere/"><u>[New] 2024 Approved Easing Out the Melodies Advanced Techniques In Adobe Premiere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ffortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube/"><u>[New] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-behind-the-scenes-with-slow-motion-in-reels/"><u>[Updated] In 2024, Behind the Scenes with Slow Motion in Reels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pro-tips-for-streaming-and-screening-netflix-on-mac-for-2024/"><u>[Updated] Pro-Tips for Streaming & Screening Netflix on Mac for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-techniques-for-capturing-high-quality-movies-on-all-os/"><u>[Updated] Techniques for Capturing High-Quality Movies on All OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-secrets-to-effective-time-control-a-4-step-guide/"><u>ChatGPT Secrets to Effective Time Control: A 4-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-t2-pro-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo T2 Pro 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-edition-simple-solutions-for-opening-and-reading-rar-documents/"><u>Mac Edition: Simple Solutions for Opening and Reading RAR Documents</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-the-ultimate-guide-to-using-split-screen-on-macbook-air-devices/"><u>Maximizing Productivity: The Ultimate Guide to Using Split Screen on MacBook Air Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reveal-hidden-opinions-fixes-for-invisible-youtube-comments-problem/"><u>Reveal Hidden Opinions: Fixes for Invisible YouTube Comments Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-ahead-of-the-curve-leading-exercise-apps-to-optimize-your-workouts/"><u>Stay Ahead of the Curve: Leading Exercise Apps to Optimize Your Workouts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-no-8-visionary-photomontage-creator-app-for-2024/"><u>The No. 8 Visionary Photomontage Creator App for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722877048883-the-ultimate-fix-for-msvcr100dll-not-found-tips-and-tricks-inside/"><u>The Ultimate Fix for 'MSVCR100.DLL' Not Found – Tips and Tricks Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-deleting-several-contacts-simultaneously-in-snapchat/"><u>The Ultimate Guide: Deleting Several Contacts Simultaneously in Snapchat</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/verizons-premier-upgrade-bargains-hot-monthly-discounts-unveiled/"><u>Verizon’s Premier Upgrade Bargains: Hot Monthly Discounts Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watching-the-matrix-series-correctly-a-step-by-step-guide-for-fans/"><u>Watching The Matrix Series Correctly: A Step-by-Step Guide for Fans</u></a></li>
 </ul></div>
 

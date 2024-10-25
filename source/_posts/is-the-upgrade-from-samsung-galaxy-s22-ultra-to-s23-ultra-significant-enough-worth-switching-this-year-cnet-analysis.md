@@ -1,7 +1,7 @@
 ---
 title: Is the Upgrade From Samsung Galaxy S22 Ultra to S23 Ultra Significant Enough Worth Switching This Year? | CNET Analysis
-date: 2024-09-18 13:54:53
-updated: 2024-09-20 11:22:44
+date: 2024-10-17T20:06:51.445Z
+updated: 2024-10-25T05:24:50.006Z
 tags:
   - google
 categories:
@@ -48,6 +48,19 @@ Below I'll break down the major differences and what they are, as well as highli
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You want all the megapixels for your photos 
 
 Arguably, the highlight feature of the Galaxy S23 Ultra is its new [200-megapixel main camera sensor](https://www.zdnet.com/article/samsung-just-showed-off-this-200-megapixel-smartphone-image-sensor/). That's an improvement over the 108-megapixel main camera sensor on the Galaxy S22 Ultra. 
@@ -68,9 +81,23 @@ In addition to getting a more modern "Note" experience, you're gaining performan
 
 [Buy the Samsung Galaxy S23 Ultra $1,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s23-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the Galaxy S22 Ultra if… 
 
 Samsung
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You don't need the latest and greatest
 
@@ -91,6 +118,13 @@ And for most, it's a camera that's going to be good enough well into the future.
 **More:** [**Now is a great time to trade in your smartphone. Here's why**](https://www.zdnet.com/article/now-could-be-a-great-time-to-trade-in-your-smartphone-heres-why/)
 
 Don't get me wrong, the fact there's a flagship phone with a main camera of 200 megapixels is impressive and exciting, but unless you make a living off of the photos you take on your phone, the S22 Ultra's camera is going to be more than good enough for photos of your kids, pets and other random items. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You take a lot of selfies or front-camera videos
 
@@ -141,11 +175,31 @@ Not sold on the Galaxy S23 Ultra or S22 Ultra? Here are some more ZDNET-recommen
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-achieve-profitability-with-powerful-facebook-video-marketing-tips/"><u>[New] 2024 Approved Achieve Profitability with Powerful Facebook Video Marketing Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-end-live-recording-mode-immediately-in-qt-app/"><u>[New] 2024 Approved End Live Recording Mode Immediately in QT App</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition/"><u>[New] Unlock High-End Visuals A Practical Guide for SDR to HDR Transition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>[Updated] In 2024, Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-precision-screening-advanced-tips-for-hp-laptop-recording-for-2024/"><u>[Updated] Precision Screening Advanced Tips for HP Laptop Recording for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-smiles-and-snickers-7-hilarious-video-concepts-for-content-creators/"><u>2024 Approved Smiles & Snickers 7 Hilarious Video Concepts for Content Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-beginners-journey-into-the-art-of-awkward-potion-creation-in-minecraft/"><u>A Beginner's Journey Into the Art of Awkward Potion Creation in Minecraft</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-look-at-metaquest-3-anticipated-release-dates-cost-analysis-and-hardware-specs-revealed/"><u>In-Depth Look at MetaQuest 3: Anticipated Release Dates, Cost Analysis, and Hardware Specs Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-color-change-pro-methods-uncovered/"><u>Navigating Color Change Pro Methods Uncovered</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/powerless-to-start-a-guide-to-repairing-computers-with-no-electrical-response/"><u>Powerless to Start? A Guide to Repairing Computers With No Electrical Response</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/taking-a-ride-into-the-future-with-teslas-robotaxi-inside-news-price-estimates-and-launch-date-secrets/"><u>Taking a Ride Into the Future with Tesla's Robotaxi - Inside News, Price Estimates & Launch Date Secrets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-syncing-controllers-with-playstation-4/"><u>The Ultimate Guide to Syncing Controllers with PlayStation 4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-9-essential-considerations-when-shopping-for-an-electric-vehicle/"><u>Top 9 Essential Considerations When Shopping for an Electric Vehicle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-a-world-of-knowledge-17-prime-locations-for-free-books-online/"><u>Unlock a World of Knowledge: 17 Prime Locations for Free Books Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/viewing-someones-insta-without-an-account-what-you-need-to-know/"><u>Viewing Someone's Insta Without An Account: What You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-ultimate-guide-to-accessing-fun-kids-movies-at-no-cost-online/"><u>Your Ultimate Guide to Accessing Fun Kids Movies at No Cost Online</u></a></li>
+</ul></div>
+

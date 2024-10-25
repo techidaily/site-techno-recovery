@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals Top-Tier Tech Talents: The Soaring Need for Expertise in Cybersecurity, Cloud Services, and Coding Skills"
-date: 2024-09-19 20:32:14
-updated: 2024-09-20 11:11:50
+date: 2024-10-23T02:17:00.431Z
+updated: 2024-10-24T18:46:10.222Z
 tags:
   - professional-development
 categories:
@@ -63,6 +63,13 @@ In conjunction with cloud-related skills, developers can recession-proof themsel
 
 "By mastering modern software delivery processes, developers will be able to demonstrate how they can add value and directly address business challenges."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### A new type of software developer?
 
 As the scale and growth of software development accelerates, and with ongoing AI developments in programming and engineering, the role requirements of software development also look set to change.
@@ -79,6 +86,13 @@ Indeed, Sander van't Noordende, CEO of Randstad, says the rapid growth of AI and
 
 "The human traits that set us apart from machines -- like empathy and creativity -- remain crucial in labor markets and talent and employers should prioritize them alongside technical skills."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The challenge for leadership
 
 Leadership will also be key to maintaining growth stability over the next 12 months, particularly hiring, retention and upskilling challenges continue to impact the business.
@@ -88,6 +102,13 @@ Melina Masnatta, Learning & DEI global director at Globant, believes that invest
 Specifically, Masnatta says leaders will be responsible for providing the structure and resources to develop skillsets among teams, and effectively managing upskilling across the organization. "It will be the leader's responsibility to engage and empower their teams, often remotely," Masnatta tells ZDNET. 
 
 "High-performing working environments are driven by high psychological safety within teams. Future and present leaders face the challenge of fostering that psychological safety from a distance."
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **More on the tech trends to watch in 2023:**
 
@@ -105,11 +126,27 @@ Specifically, Masnatta says leaders will be responsible for providing the struct
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elite-picks-gpus-optimized-for-4k-gaming/"><u>[New] 2024 Approved Elite Picks GPUs Optimized for 4K Gaming</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-overcome-clonezilla-error-successfully-retriaging-missing-partition-issue/"><u>1. Overcome Clonezilla Error: Successfully Retriaging Missing Partition Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-gratis-online-video-clip-tools-of-2024-ranked-and-reviewed-for-your-convenience/"><u>Best Gratis Online Video Clip Tools of 2024 - Ranked and Reviewed for Your Convenience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-infinix-zero-5g-2023-turbo-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Zero 5G 2023 Turbo Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-smart-color-settings-in-windows-11-programs/"><u>Enable Smart Color Settings in Windows 11 Programs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-20-discount-on-drivecare-app-save-now-with-our-promo-codes/"><u>Exclusive 20% Discount on Drivecare App - Save Now with Our Promo Codes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-repair-steps-for-a-defective-windows-1111-snipping-application/"><u>Expert Advice: Repair Steps for a Defective Windows 11/11 Snipping Application</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/firefox-optimization-made-easy-10-steps-towards-getting-5-times-faster-surfing/"><u>Firefox Optimization Made Easy: 10 Steps Towards Getting 5 Times Faster Surfing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-camera-issue-resolve-error-code-0xa00f4244-on-windows-11/"><u>Fixing Camera Issue: Resolve 'Error Code 0xA00F4244' On Windows 11</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/how-munich-enhances-efficiency-by-partnering-with-abbyy-for-automated-documentation/"><u>How Munich Enhances Efficiency by Partnering with ABBYY for Automated Documentation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y27-4g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y27 4G to PC? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-ripping-audio-tracks-from-a-cd-with-windows-11s-built-in-media-software/"><u>Step-by-Step Guide: Ripping Audio Tracks From a CD with Windows 11'S Built-In Media Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/water-conservation/"><u>Water Conservation</u></a></li>
+</ul></div>
+

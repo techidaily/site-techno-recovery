@@ -1,7 +1,7 @@
 ---
 title: Why Data Science Is America's Most Alluring Career and Why People Aren't Heeding Its Call | ZDNet
-date: 2024-09-17 20:27:56
-updated: 2024-09-20 11:31:50
+date: 2024-10-18T07:54:26.050Z
+updated: 2024-10-24T21:26:27.889Z
 tags:
   - professional-development
 categories:
@@ -88,11 +88,37 @@ The appetite for data science skills is still growing as well. Data scientists c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/fixed-how-to-set-up-wifi-calling-on-phones-and-laptop/"><u>[Fixed] How to Set Up WiFi Calling on Phones & Laptop?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023/"><u>[Updated] Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-deciphering-youtubes-featured-comment-selection-for-2024/"><u>[Updated] Deciphering YouTube's Featured Comment Selection for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[Updated] In 2024, Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-vivo-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Vivo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-how-to-resolve-unresponsive-usb-ports-in-your-laptop/"><u>Expert Advice on How to Resolve Unresponsive USB Ports in Your Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-enhancements-of-windows-10-creators-update-insider-preview-build-1503/"><u>Exploring the Latest Enhancements of Windows 10 Creator's Update (Insider Preview Build 1503)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-and-restore-vanished-desktop-icons-in-windows-10-with-easy-tricks/"><u>Fix and Restore Vanished Desktop Icons in Windows 10 with Easy Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-frozen-pc-overcoming-windows-11-safe-mode-challenges-with-non-responsive-f8-solutions/"><u>Fix Your Frozen PC: Overcoming Windows 11 Safe Mode Challenges with Non-Responsive F8 Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-download-compatible-google-usb-drivers/"><u>Free Download: Compatible Google USB Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-disconnecting-wireless-networks-using-windows-11-settings/"><u>Guide: Disconnecting Wireless Networks Using Windows 11 Settings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-the-art-of-viral-videos-for-higher-youtube-popularity-for-2024/"><u>Mastering The Art of Viral Videos for Higher YouTube Popularity for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tips-to-fix-steam-cannot-write-to-disc-error-swiftly/"><u>Step-by-Step Tips to Fix Steam Cannot Write to Disc Error Swiftly</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

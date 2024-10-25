@@ -1,7 +1,7 @@
 ---
 title: Strengthen Cybersecurity with Google Chrome's New Trilogy of Features to Elevate Your Internet Safety and Confidentiality | CyberNews
-date: 2024-09-19 10:47:52
-updated: 2024-09-20 12:13:55
+date: 2024-10-23T01:53:44.982Z
+updated: 2024-10-25T00:42:58.180Z
 tags:
   - google
 categories:
@@ -31,9 +31,29 @@ Safety Check will be able to revoke permissions from sites you no longer use, al
 
 Further, Safety Check will try to protect you against abusive notifications by automatically revoking permissions from sites considered deceptive by [Google's Safe Browsing service](https://www.zdnet.com/article/google-chrome-now-better-protects-you-against-risky-websites-and-weak-passwords/). With Chrome on a computer, Safety Check will also alert you to any extensions that might be a security risk and take you to the extensions page where you can remove them.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove website notifications
 
 Unwanted website notifications can not only be annoying but potentially hazardous, and Chrome will now make it easier to opt out of them. Now on Pixel phones and coming soon to other Android devices, a new "Unsubscribe" button will appear in the notifications drawer so you can quickly turn off notifications for a particular site.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Grant one-time website permissions
 
@@ -82,11 +102,33 @@ On an iPhone or iPad, open the App Store app and select your profile icon at the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-financial-flourishing-in-youtube-content-markets/"><u>[Updated] Financial Flourishing in YouTube Content Markets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-gourmet-guides-leading-food-vloggers-online/"><u>[Updated] Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-thrifty-pc-frame-buffer-tools/"><u>[Updated] In 2024, Thrifty PC Frame Buffer Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-phone-no-call-functionality-follow-these-steps-to-fix-it/"><u>Android Phone No Call Functionality? Follow These Steps to Fix It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-true-crime-series-in-podcasting-top-13-selections/"><u>Discover the Best True Crime Series in Podcasting: Top 13 Selections!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-10-outstanding-substitutes-for-chatgpt/"><u>Discover These 10 Outstanding Substitutes for ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-resolve-missing-user32dll-error-messages/"><u>Effective Strategies to Resolve Missing User32.dll Error Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-to-resolve-missing-pdhdll-error-messages/"><u>Essential Steps to Resolve Missing pdh.dll Error Messages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-elite-collection-of-inflatable-jacuzzis-for-2er-2022-indulge-in-comfort-zdnet/"><u>Exploring the Elite Collection of Inflatable Jacuzzis for 2Er 2022: Indulge in Comfort | ZDNET</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977833375-get-the-newest-msi-sound-card-software-on-your-pc-with-ease-for-windows-users/"><u>Get the Newest MSI Sound Card Software on Your PC with Ease - For Windows Users!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/high-quality-low-cost-venture-into-luxurious-gadgets-on-a-budget/"><u>High Quality, Low Cost: Venture Into Luxurious Gadgets on a Budget</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20c-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark 20C Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-utilize-online-resources-efficiently-for-business-growth/"><u>How to Utilize Online Resources Efficiently for Business Growth</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-12-mini-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 12 mini Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x7b-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor X7b Bootloader Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-instagrams-features-tutorial-on-posting-and-pinning-messages/"><u>Mastering Instagram's Features - Tutorial on Posting and Pinning Messages</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-the-archive-how-to-save-and-transform-wayback-machine-videos-as-mp4-mov-avi-files/"><u>Mastering the Archive: How to Save and Transform Wayback Machine Videos as MP4, MOV, AVI Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-microsoft-edge-issues-on-your-pc/"><u>Troubleshooting Guide: Solving Microsoft Edge Issues on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watching-x-men-movies-properly-correct-order-and-timeline-explained/"><u>Watching X-Men Movies Properly: Correct Order & Timeline Explained</u></a></li>
+</ul></div>
+

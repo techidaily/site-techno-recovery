@@ -1,7 +1,7 @@
 ---
 title: Pioneering AI Chip Firm Cerebras Wins Major Deal with TotalEnergies in Oil & Gas Sector; Detailed Analysis on ZDNET
-date: 2024-09-17 20:24:54
-updated: 2024-09-20 10:22:23
+date: 2024-10-17T20:25:03.619Z
+updated: 2024-10-24T20:27:04.337Z
 tags:
   - energy
 categories:
@@ -43,11 +43,37 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-god-of-war-ragnarok-release-date/"><u>[New] 2024 Approved God of War Ragnarok Release Date</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-vlc-users-guide-to-screen-capturing/"><u>[New] In 2024, VLC User's Guide to Screen Capturing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-revolutionize-mobile-broadcasting-integrating-obs-studio-into-android/"><u>2024 Approved Revolutionize Mobile Broadcasting Integrating OBS Studio Into Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-top-6-super-mario-bros-adventures-on-pc-ultimate-selection/"><u>Best Top 6 Super Mario Bros Adventures on PC: Ultimate Selection</u></a></li>
+<li><a href="https://fox-http.techidaily.com/blueprint-for-a-viral-solitary-audio-experience/"><u>Blueprint for a Viral Solitary Audio Experience</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/bundle-up-for-ultimate-entertainment-get-netflix-peacock-and-apple-tvplus-with-xfinitys-exclusive-offering-now/"><u>Bundle Up for Ultimate Entertainment - Get Netflix, Peacock & Apple TV+ With Xfinity's Exclusive Offering Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-restoring-windows-7-microphone-functionality/"><u>Comprehensive Guide: Restoring Windows 7 Microphone Functionality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Phone without Google Account?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-up-to-date-nvidia-geforce-mx150-driver-software-on-windows-devices/"><u>Install Up-to-Date Nvidia GeForce MX150 Driver Software on Windows Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-line-placement-in-documents-with-word/"><u>Mastering the Art of Line Placement in Documents with Word</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/retrieve-past-alerts-a-step-by-step-guide-for-your-iphone/"><u>Retrieve Past Alerts: A Step-by-Step Guide for Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-screen-colour-issues-tips-to-correct-display-aberrations/"><u>Solving Screen Colour Issues: Tips to Correct Display Aberrations</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/strategic-steps-to-determine-a-unique-tiktok-hashtag-for-2024/"><u>Strategic Steps to Determine a Unique TikTok Hashtag for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-walkthrough-for-using-the-battery-report-on-your-windows-10-device/"><u>The Definitive Walkthrough for Using the Battery Report on Your Windows 10 Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-efficient-techniques-for-sanitizing-household-audio-speakers/"><u>Ultimate Guide: Efficient Techniques for Sanitizing Household Audio Speakers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/x-social-media-mastery-10-must-know-hacks-for-startup-accounts/"><u>X Social Media Mastery: 10 Must-Know Hacks for Startup Accounts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

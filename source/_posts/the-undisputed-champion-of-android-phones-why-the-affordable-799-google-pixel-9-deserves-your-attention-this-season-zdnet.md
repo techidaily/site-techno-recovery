@@ -1,7 +1,7 @@
 ---
 title: "The Undisputed Champion of Android Phones: Why the Affordable $799 Google Pixel 9 Deserves Your Attention This Season | ZDNet"
-date: 2024-09-19 22:34:12
-updated: 2024-09-20 10:57:16
+date: 2024-10-18T07:55:58.565Z
+updated: 2024-10-25T00:08:07.059Z
 tags:
   - google
 categories:
@@ -67,6 +67,13 @@ Meanwhile, the latter lets you generate images on the fly and customize them wit
 
 I found battery life to be quite good. There's a 4,700mAh cell inside that can last all day on a charge and then some, which means you won't need to worry about this phone's battery after a long day. Google includes 45W charging support on the Pixel 9 series, which is awesome, but you'll need to buy a separate wall adapter to take advantage of it. In addition, there's 15W wireless charging (not Qi2, notably) and 5W reverse wireless charging called "Battery Share."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If your budget is $800, it's hard not to recommend [Google's Pixel 9](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/pixel%5F9). Sure, the Samsung Galaxy S24 is a tough competitor, but I actually think this is the better buy. It gives you access to some useful new AI features, and you get all the perks of the Pixel experience, like excellent software, display quality, and cameras. 
@@ -94,11 +101,28 @@ The Pixel 9's Pro and Pro XL versions might be flashier, but the baseline versio
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elevate-your-obs-experience-the-role-of-custom-luts/"><u>[New] 2024 Approved Elevate Your OBS Experience The Role of Custom LUTs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guiding-adding-songs-to-your-yt-channel/"><u>[New] In 2024, Guiding Adding Songs to Your YT Channel</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-make-and-upload-360-video-to-facebook-for-2024/"><u>[Updated] How to Make and Upload 360 Video to Facebook for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-streamlining-sound-systems-uploads-for-your-youtube-hub/"><u>2024 Approved Streamlining Sound Systems Uploads for Your Youtube Hub</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-brief-subscribe-boost-your-content-viewing-for-2024/"><u>Can a Brief Subscribe Boost Your Content Viewing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enigmatic-adventures-for-idevices-the-best-brain-teasing-apps-like-the-room-and-myst/"><u>Enigmatic Adventures for iDevices: The Best Brain-Teasing Apps Like 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/exclusive-insights-into-making-memorable-instagram-movies-for-2024/"><u>Exclusive Insights Into Making Memorable Instagram Movies for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-handling-and-repairing-bios-level-faults-whea-error/"><u>Expert Advice on Handling and Repairing BIOS-Level Faults (WHEA Error)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-troubleshooting-and-fixing-device-managers-code-41-errors/"><u>Expert Tips on Troubleshooting and Fixing Device Manager's Code #41 Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/find-and-install-the-latest-logitech-g403-pc-mouse-drivers-and-firmware-updates/"><u>Find and Install the Latest Logitech G403 PC Mouse Drivers & Firmware Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-touchpad-settings-on-windows-11/"><u>Fine-Tuning Touchpad Settings on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-d3dx928dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_28.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-mfc42dll-file-missing-or-unavailable-issue/"><u>Solutions for Resolving mfc42.dll File Missing or Unavailable Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-to-easier-driving-with-evs-free-parking-spots-and-faster-commutes-via-hov-lanes/"><u>Unlock the Secrets to Easier Driving with EVs: Free Parking Spots & Faster Commutes via HOV Lanes</u></a></li>
+</ul></div>
+

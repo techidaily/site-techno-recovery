@@ -1,7 +1,7 @@
 ---
 title: "$799 Google Pixel 9: Our Top Pick for Best Smartphone | Tech Review by ZDNet"
-date: 2024-09-18 15:52:45
-updated: 2024-09-20 11:24:27
+date: 2024-10-24T02:46:35.524Z
+updated: 2024-10-24T22:44:36.863Z
 tags:
   - google
 categories:
@@ -67,6 +67,13 @@ Meanwhile, the latter lets you generate images on the fly and customize them wit
 
 I found battery life to be quite good. There's a 4,700mAh cell inside that can last all day on a charge and then some, which means you won't need to worry about this phone's battery after a long day. Google includes 45W charging support on the Pixel 9 series, which is awesome, but you'll need to buy a separate wall adapter to take advantage of it. In addition, there's 15W wireless charging (not Qi2, notably) and 5W reverse wireless charging called "Battery Share."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If your budget is $800, it's hard not to recommend [Google's Pixel 9](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/pixel%5F9). Sure, the Samsung Galaxy S24 is a tough competitor, but I actually think this is the better buy. It gives you access to some useful new AI features, and you get all the perks of the Pixel experience, like excellent software, display quality, and cameras. 
@@ -94,11 +101,27 @@ The Pixel 9's Pro and Pro XL versions might be flashier, but the baseline versio
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-value-online-image-editors-leading-15-at-zero-cost/"><u>[New] 2024 Approved Best Value Online Image Editors - Leading 15 at Zero Cost</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-complete-razer-kiyo-webcam-review/"><u>[New] Complete Razer Kiyo Webcam Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-why-you-adore-filmora-the-10-key-edits-that-matter/"><u>[New] Why You Adore Filmora The 10 Key Edits That Matter</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-boost-engagement-stream-live-from-twitch-embed-on-fb/"><u>[Updated] In 2024, Boost Engagement Stream Live From Twitch, Embed on FB</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-find-x6-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Find X6 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-defy-2-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola Defy 2 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-work-with-outdated-usb-composite-devices-a-step-by-step-guide/"><u>How to Work with Outdated USB Composite Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolve-gpu-related-problems-in-windows-systems-a-step-by-step-guide/"><u>Resolve GPU-Related Problems in Windows Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-of-non-installing-windows-update-packages/"><u>Solving the Issue of Non-Installing Windows Update Packages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-persistent-problem-of-sticky-keys-in-windows-computers/"><u>Solving the Persistent Problem of Sticky Keys in Windows Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-booting-your-computer-using-usb-dvd-or-cd/"><u>Step-by-Step Guide: Booting Your Computer Using USB, DVD, or CD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-erasing-android-viruses-without-the-need-for-factory-resetting/"><u>Step-by-Step Guide: Erasing Android Viruses without the Need for Factory Resetting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-professional-email-writing-with-ai-discover-5-free-tools-powered-by-chatgpt-to-streamline-your-messaging/"><u>Unlock Professional Email Writing with AI: Discover 5 Free Tools Powered by ChatGPT to Streamline Your Messaging</u></a></li>
+</ul></div>
+

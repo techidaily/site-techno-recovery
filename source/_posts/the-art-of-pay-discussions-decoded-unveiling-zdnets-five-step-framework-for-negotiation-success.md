@@ -1,7 +1,7 @@
 ---
 title: "The Art of Pay Discussions Decoded: Unveiling ZDNet's Five-Step Framework for Negotiation Success"
-date: 2024-09-18 14:15:51
-updated: 2024-09-20 11:22:31
+date: 2024-10-23T01:56:34.737Z
+updated: 2024-10-24T17:47:13.248Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Here's an example: Negotiating a $40,000 salary up to $45,000 could allow you to
 
 Now that you know why you need to negotiate your salary to avoid leaving money on the table, it is important to explain your worth. Why should the company offer you more money? Why is your experience and perspective worth more? Having a compelling case –– supported with evidence and examples –– is the key to making a confident request.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Who**
 
 You will likely negotiate with a recruiter, a hiring manager, or your current manager. If you have not already, learning more about the company and who you will talk with will give you an advantage.
@@ -47,6 +54,13 @@ For example, in 2020, health insurance premiums cost an [average four-person fam
 
 Want to know what is a good base salary? Check out the Bureau of Labor Statistics [Occupational Outlook Handbook](https://www.bls.gov/ooh/). This free federal government resource has extensive salary data and information for about 800 jobs. Many other websites, including LinkedIn and GlassDoor, also offer salary information for free.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **When**
 
 Timing is everything. When you're actively negotiating, try to wait for the employer to bring up a number first. The reason? It means the company wants to hire you, and you will have an advantage. Also, negotiating after you have an offer gives you more leverage. You will also have time to research and refine your negotiation strategy.
@@ -58,6 +72,13 @@ For people seeking a raise or promotion within their current company, [experts s
 * At annual performance reviews, when employers expect to be making changes to compensation packages.
 * After a big win, like completing a significant project, landing a new client, or launching a product.
 * After earning a new degree or certification, as you can demonstrate you are keeping your knowledge and skills fresh.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Where**
 
@@ -72,6 +93,13 @@ If you cannot or do not want to do a video call, [one expert](https://www.rewire
 Keep in mind that negotiation is part of the process of choosing job candidates, so you want to continue to bring your professional, hire-able self to the conversations. Asking and answering the five W's is a practical way to be sure you're bringing your best self to these negotiations and feeling confident in your request. 
 
 By understanding the value of negotiating your salary and benefits, who you will be engaging with, what to focus on, when to start the conversation, and the best way to communicate, you'll have the knowledge and power to push your career to the next level.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **This article was reviewed by Sarah Holliday, MS, GCDF** 
 
@@ -102,11 +130,27 @@ Sarah Holliday is a paid member of the Red Ventures Education freelance review n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-advanced-steps-a-compre-point-of-view-on-screen-record-with-adobe-captivate/"><u>[New] Advanced Steps A Compre Point of View on Screen Record with Adobe Captivate</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-signature-creating-iconic-banners-with-templates/"><u>[New] In 2024, Gamers' Signature Creating Iconic Banners with Templates</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-breaking-barriers-making-your-post-a-sensation-on-fb/"><u>2024 Approved Breaking Barriers Making Your Post a Sensation on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-review-unpacking-the-sonic-impact-of-the-jbl-partybox-stage-320-large-scale-speaker/"><u>Comprehensive Review: Unpacking the Sonic Impact of the JBL PartyBox Stage 320 Large-Scale Speaker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/first-steps-in-the-world-of-x-comprehensive-instructions-for-new-users/"><u>First Steps in the World of X: Comprehensive Instructions for New Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-realtek-microphone-up-and-running-again/"><u>How to Get Your Realtek Microphone Up and Running Again</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-best-apps-for-3d-video-intros-on-social-platforms/"><u>In 2024, Best Apps for 3D Video Intros on Social Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-permissions-in-windows-10-how-to-get-full-access-from-trustedinstaller/"><u>Navigating Permissions in Windows 10: How to Get Full Access From TrustedInstaller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resetting-passwords-for-other-users-in-windows-a-comprehensive-tutorial/"><u>Resetting Passwords for Other Users in Windows - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-your-twitch-presence-how-to-enable-and-utilize-dual-authentication-for-added-protection/"><u>Securing Your Twitch Presence: How to Enable and Utilize Dual Authentication for Added Protection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-laptop-and-television-with-an-hdmi-cable/"><u>Step-by-Step Guide: Linking Your Laptop and Television with an HDMI Cable</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-secret-techniques-for-seamless-background-blur-while-using-google-meet/"><u>The Secret Techniques for Seamless Background Blur While Using Google Meet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-affordable-drones-under-500/"><u>Top 5 Affordable Drones Under $500</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'Circle' App: Compatible Android Models and Optimal Usage Tips"
-date: 2024-09-19 12:20:27
-updated: 2024-09-20 11:25:41
+date: 2024-10-23T03:51:40.858Z
+updated: 2024-10-25T01:03:05.890Z
 tags:
   - google
 categories:
@@ -44,17 +44,38 @@ Here's a guide for how to use the feature and what phones support it now.
 
 No matter what device, the search feature requires an internet connection to work, whether that's through mobile data or Wi-Fi. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Turn on Circle to Search
 
 When you first set up your device, a long press of the home button (whether you're using buttons or swipe gestures) will prompt you with two options: Circle to Search or the standard Google Assistant. Select the former to set it as the default application.
 
 If you have Google Assistant already set up, you can turn on Circle to Search by opening **Settings** \> **Display** \> **Navigation bar** \> and toggling on Circle to Search. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using Circle to Search
 
 With the subject that you'd like to search on screen, long press the home button to activate Circle to Search. An opaque, blue-tinted overlay should appear with a Google Search bar on the bottom. At this point, tap, draw, or circle a subject and Google will present relevant text and image-based search results. If you're not satisfied what your selection (or Google's search results), you can always re-circle what's on screen.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Adding to searches
 
@@ -69,6 +90,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Exiting out of Circle to Search
 
@@ -95,11 +123,31 @@ When you're done, tapping on the back button of the navigation bar or swiping in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-top-tips-acquiring-high-quality-backdrop-visuals/"><u>[New] In 2024, Top Tips Acquiring High-Quality Backdrop Visuals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-eastern-mini-homes-top-6-creative-concepts-in-mc/"><u>[Updated] Eastern Mini-Homes Top 6 Creative Concepts in MC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-acid-pro-revisited-exploring-equivalent-tools/"><u>2024 Approved ACID Pro Revisited Exploring Equivalent Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-fixing-non-operational-srt-exports/"><u>2024 Approved Step-by-Step Guide Fixing Non-Operational SRT Exports</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-instructions-to-erase-browser-cache-in-most-used-browsers-today/"><u>Complete Instructions to Erase Browser Cache in Most Used Browsers Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-secured-email-platforms-a-guide-to-staying-protected-online/"><u>Discover the Leading Secured Email Platforms: A Guide to Staying Protected Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-non-functioning-windows-11-search-functionality/"><u>How to Fix Non-Functioning Windows 11 Search Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-lava-storm-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Lava Storm 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-controller-compatibility-steams-essential-guide/"><u>Master Controller Compatibility: Steam's Essential Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-stadia-headset-connect-errors-expert-fixes-and-tips/"><u>Overcoming Stadia Headset Connect Errors - Expert Fixes and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-duplicate-posts-on-tiktok/"><u>Step-by-Step Guide: Removing Duplicate Posts on TikTok</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-phablets-insights-on-samsungs-latest-creation-the-galaxy-z-fold-7-with-potential-specs-and-info/"><u>The Future of Phablets: Insights on Samsung's Latest Creation - The Galaxy Z Fold 7 with Potential Specs & Info</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-6-plus-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-five-indispensable-twitch-tools-to-elevate-your-broadcasting-game/"><u>Top Five Indispensable Twitch Tools to Elevate Your Broadcasting Game</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-strategies-for-free-texting-save-on-data-and-stay-connected/"><u>Top Strategies for Free Texting: Save on Data & Stay Connected</u></a></li>
+</ul></div>
+

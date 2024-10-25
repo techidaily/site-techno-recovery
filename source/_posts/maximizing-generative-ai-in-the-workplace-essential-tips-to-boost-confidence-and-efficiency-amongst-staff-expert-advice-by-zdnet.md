@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Generative AI in the Workplace: Essential Tips to Boost Confidence and Efficiency Amongst Staff | Expert Advice by ZDNET"
-date: 2024-09-19 22:19:34
-updated: 2024-09-20 12:54:48
+date: 2024-10-22T20:27:38.803Z
+updated: 2024-10-25T03:00:44.156Z
 tags:
   - professional-development
 categories:
@@ -47,6 +47,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Bonomi explained how the three-stage training process helps people across Rakuten to upskill in AI.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 1: Foundations
 
 While it's easy for people to believe everyone is aware of generative AI, Bonomi says the reality is different. Many people need to be taught the basics.
@@ -63,6 +70,13 @@ Before the program started, 78% of employees felt uncomfortable using AI. Today,
 
 "But with AI, we're inverting that approach. Businesses will be built for growth and sustainability, and we must think about what that shift means and how tasks will change."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 2: Certifications
 
 With the foundations to help people understand AI, some employees are building on this platform and moving to stage two.
@@ -77,6 +91,19 @@ She then ran one-hour labs with ELB to hone staff knowledge.
 
 The workshops and labs are bolstered through certification: "The second level is about training and developing the skills you need to use AI tools. We're establishing certifications to show people have acquired knowledge."
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 3: Tasks
 
 Bonomi said she expects people to start entering stage three this year. At this final level, the people who have been trained and certified will move on to task-specific use cases.
@@ -90,6 +117,13 @@ Bonomi said she expects people to start entering stage three this year. At this 
 Bonomi said it's at this third level that Rakuten will expose and explore potential role changes due to the introduction of AI.
 
 "This stage is all about saying, 'OK, now you know how to use ChatGPT and leverage it. How will you start embedding the technology into the organization and your role?' At that point, we'll work with HR reps to help us with the process."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Taking AI to the next level
 
@@ -134,11 +168,29 @@ Her advice for other business leaders who want to boost their company's AI skill
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-todays-drones-tomorrows-landscapes-an-overview/"><u>[New] Today’s Drones, Tomorrow's Landscapes An Overview</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-total-capture-trio-setup/"><u>[New] Total Capture Trio Setup</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevating-your-watch-experience-youtube-list-shuffle/"><u>[Updated] Elevating Your Watch Experience YouTube List Shuffle</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/a-detailed-walkthrough-for-crafting-and-changing-your-videos-covers-on-facebook/"><u>A Detailed Walkthrough for Crafting and Changing Your Videos' Covers on Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/audiophiles-pathway-starting-with-the-fade-in-functionality-for-2024/"><u>Audiophile's Pathway Starting with the Fade-In Functionality for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-top-tier-language-mastery-with-mondly/"><u>Discovering Top-Tier Language Mastery with Mondly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-listening-experience-with-edifier-neobuds-pro-2-budget-friendly-and-android-compatible/"><u>Elevate Your Listening Experience with Edifier NeoBuds Pro 2 – Budget-Friendly and Android Compatible</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/excel-mastery-a-step-by-step-guide-to-merging-two-spreadsheets/"><u>Excel Mastery: A Step-by-Step Guide to Merging Two Spreadsheets</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-github-desktop-in-windows-11-and-11/"><u>How to Use GitHub Desktop in Windows 11 and 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-battle-tactics-against-lynels-in-breath-of-the-wild/"><u>Mastering Battle Tactics Against Lynels in Breath of the Wild</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/matrix-series-viewing-guide-the-correct-sequential-order/"><u>Matrix Series Viewing Guide: The Correct Sequential Order</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-road-ahead-key-questions-before-going-electric/"><u>Navigating the Road Ahead: Key Questions Before Going Electric</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-tv-troubleshooting-guide-changing-from-default-browser-to-an-alternative-one/"><u>Samsung TV Troubleshooting Guide: Changing From Default Browser to an Alternative One</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-to-stop-subwoofer-feedback/"><u>Step-by-Step Solutions to Stop Subwoofer Feedback</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-duckduckgo-exploring-its-features-and-security/"><u>Understanding DuckDuckGo: Exploring Its Features & Security</u></a></li>
+</ul></div>
+

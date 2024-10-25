@@ -1,7 +1,7 @@
 ---
 title: CAT S22 Flip Assessment - The Perfect Blend of Classic Style & Advanced Connectivity in Rugged Conditions | GadgetFlow
-date: 2024-09-17 13:28:25
-updated: 2024-09-20 12:39:14
+date: 2024-10-19T20:26:07.526Z
+updated: 2024-10-24T20:41:43.907Z
 tags:
   - google
 categories:
@@ -59,6 +59,13 @@ To browse more phones that Android OS has to offer, check out our extensive rese
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Hardware 
 
 ### **ZDNET** Recommends
@@ -109,6 +116,13 @@ The touchscreen display is quite usable and the touch sensitivity works well. Fo
 
 ◀ 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best foldable phones Samsung leads the pack with a number of models and variations.  Read now](https://www.zdnet.com/article/best-foldable-phone/)
@@ -138,6 +152,13 @@ The phone is pretty chunky and heavy so I expected long battery life. It has gon
 The [CAT S22 Flip](https://tmobile.prf.hn/click/camref:1100lpFx3/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Fwww.t-mobile.com%2Fcell-phone%2Fcat-s22-flip) is not designed to take on the Apple iPhone or Samsung Galaxy world, but it provides a good option for the intended market segment. It has been reliable, has good battery life, performed well with calls, and provided access to all the information I needed outside in inclement weather conditions. At $234 it is a good second phone for fieldwork or even a primary phone for those who want a simple large keypad for basic and essential communications. 
 
 ![](https://www.zdnet.com/a/img/resize/d253b6247e93f12647a45967d36c26d2635813bf/2021/11/08/32a86aec-0a2b-444b-a700-31c417abfb90/20211105-matt-beth-cat.jpg?auto=webp&fit=cover&height=482&width=856)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 CAT S22 Flip review: Old school flip design meets modern Android durability
 
@@ -223,6 +244,13 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcat-s22-flip-review-old-school-flip-design-meets-modern-android-durability%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcat-s22-flip-review-old-school-flip-design-meets-modern-android-durability%2F "Twitter") 
@@ -252,11 +280,30 @@ Close Modal Dialog
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tech-gurus-rate-them-all-unveiling-apeaksofts-screen-recording-capabilities/"><u>[Updated] Tech Gurus Rate Them All Unveiling Apeaksoft’s Screen Recording Capabilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-your-path-to-engaging-content-dive-into-our-free-youtube-ad-gallery/"><u>[Updated] Your Path to Engaging Content – Dive Into Our Free YouTube Ad Gallery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/craft-an-unique-chrome-dino-challenge-using-the-power-of-gendino/"><u>Craft an Unique Chrome Dino Challenge Using the Power of GenDino</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-amazon-prime-day-2024-insights-and-tips-for-savvy-shoppers/"><u>Decoding Amazon Prime Day 2024: Insights & Tips for Savvy Shoppers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-digital-archives-essential-techniques-for-leveraging-the-wayback-machine/"><u>Discover Digital Archives: Essential Techniques for Leveraging the Wayback Machine</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gaming-at-its-peak-platform-9-insights/"><u>In 2024, Gaming at Its Peak Platform #9 Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-tecno-pop-7-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Tecno Pop 7 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-smart-color-controls-to-windows-11-apps/"><u>Introducing Smart Color Controls to Windows 11 Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/migrating-your-memories-a-step-by-step-guide-to-moving-google-photos-to-icloud/"><u>Migrating Your Memories: A Step-by-Step Guide to Moving Google Photos to iCloud</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-and-procedures-for-hooking-your-dualshock-4-to-playstation-4/"><u>Quick Fixes and Procedures for Hooking Your DualShock 4 to PlayStation 4</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagine-windows-task-execution-via-enhanced-run-toolkit-implementation/"><u>Reimagine Windows Task Execution via Enhanced Run Toolkit Implementation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revise-your-insta-messages-with-these-essential-tips-and-tricks/"><u>Revise Your Insta Messages with These Essential Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/staying-ahead-of-innovation-details-on-forthcoming-revelations-from-googles-upcoming-event/"><u>Staying Ahead of Innovation: Details on Forthcoming Revelations From Google's Upcoming Event</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tips-for-fixing-chromecast-sound-issues/"><u>Step-by-Step Tips for Fixing Chromecast Sound Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-comprehensive-guide-to-best-trivia-shows-for-2024/"><u>The Comprehensive Guide to Best Trivia Shows for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/time-saving-tips-for-japanese-number-mastery/"><u>Time-Saving Tips for Japanese Number Mastery</u></a></li>
+</ul></div>
+

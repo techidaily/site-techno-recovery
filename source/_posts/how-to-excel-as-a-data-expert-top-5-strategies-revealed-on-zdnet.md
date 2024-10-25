@@ -1,7 +1,7 @@
 ---
 title: "How To Excel as a Data Expert: Top 5 Strategies Revealed on ZDNet"
-date: 2024-09-19 23:59:19
-updated: 2024-09-20 12:44:50
+date: 2024-10-22T07:09:32.665Z
+updated: 2024-10-24T18:39:47.084Z
 tags:
   - professional-development
 categories:
@@ -57,6 +57,13 @@ Whitcomb says EDF gives graduates in its program a career manager, who stays wit
 
 "Even now it's still useful to have her around. We catch up and it's useful having somebody who has shared experiences, good advice to give, and who understands where I'm coming from more than somebody who hasn't had that experience."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't be scared
 
 Whitcomb says it's important young professionals don't feel too anxious about moving into a new and fast-moving area.
@@ -72,6 +79,13 @@ Young professionals will quickly learn everyone has gaps in their digital knowle
 Whitcomb says the key to success for new graduates is seeing every obstacle as an opportunity. 
 
 "Going in from square one is quite intimidating," she says. "But if you have that mindset of, 'I want to learn, I'm willing to learn, and I can think logically' then you'll be great. So, don't be put off because you don't know how to code at the start."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Embrace the creativity
 
@@ -93,6 +107,19 @@ Whitcomb wants to help people in the department feel empowered to use the tools 
 
 "If you enjoy the logical side of things, you can bring brilliant, creative solutions together."
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Ask questions
 
 If you want to get ahead, don't be afraid to probe people, says Whitcomb: "I know everyone says this the whole time, but asking questions is the best way to learn." 
@@ -108,6 +135,13 @@ Both Bentley and EDF are keen to get their professionals to ask questions about 
 "On the flip side, if somebody asks you a question, be open to that. Sometimes, it's quite difficult to know who to ask questions. If someone asks you something, you learn yourself," she says. 
 
 "So, make sure you're asking questions and be the person other people feel they can ask questions to."
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Grab fresh opportunities
 
@@ -144,11 +178,33 @@ Whitcomb says she enjoys speaking about her work, sharing learnings, and contrib
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-seamless-communication-the-best-5-webcams-with-inbuilt-microphones/"><u>[New] In 2024, Seamless Communication The Best 5 Webcams with Inbuilt Microphones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>[Updated] Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-connected-televisions-a-guide-to-internet-ready-viewing-devices/"><u>Demystifying Connected Televisions: A Guide to Internet-Ready Viewing Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/detailed-steps-to-rectify-missing-d3dx940dll-file-on-your-windows-machine/"><u>Detailed Steps to Rectify: Missing d3dx9_40.dll File on Your Windows Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-our-selection-of-top-6-editable-journal-apps-for-creative-writing-and-planning/"><u>Explore Our Selection of Top 6 Editable Journal Apps for Creative Writing & Planning</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-notorious-lameencdll-error-for-enhanced-mp3-encoding-with-audacity/"><u>Fixing the Notorious lame_enc.dll Error for Enhanced MP3 Encoding with Audacity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/from-sheetless-anxiety-to-confident-printing/"><u>From Sheetless Anxiety to Confident Printing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/groundbreaking-technological-developments-since-1844-the-ultimate-top-ten-guide/"><u>Groundbreaking Technological Developments Since 1844: The Ultimate Top-Ten Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installation-guide-steelseries-drivers-for-enhanced-gaming-on-windows-machines/"><u>Installation Guide: SteelSeries Drivers for Enhanced Gaming on Windows Machines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-airpod-maintenance-what-to-do-when-you-cant-perform-a-normal-reset/"><u>Mastering AirPod Maintenance: What To Do When You Can't Perform a Normal Reset</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mobile-mastery-deciding-between-iphone-and-android-devices-for-you/"><u>Mobile Mastery: Deciding Between iPhone and Android Devices for You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/play-together-mastering-the-art-of-sharing-games-on-sonys-next-gen-console/"><u>Play Together: Mastering the Art of Sharing Games on Sony's Next-Gen Console</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/professionelle-anleitung-fur-das-integrieren-von-usmt-in-windows-11-beste-alternativlosungen-enthullt/"><u>Professionelle Anleitung Für Das Integrieren Von USMT in Windows 11 – Beste Alternativlösungen Enthüllt</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-how-to-eliminate-stuttering-problems-in-csgo/"><u>Smooth Gaming: How to Eliminate Stuttering Problems in CS:GO</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-d3dx92/"><u>Solutions for Resolving D3dx9_2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-broadcasting-zoom-calls-to-a-tv-screen/"><u>Step-by-Step Tutorial for Broadcasting Zoom Calls to a TV Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-chatgpt-uncovering-the-5-most-prevalent-scams/"><u>The Dark Side of ChatGPT: Uncovering the 5 Most Prevalent Scams</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-6-favorite-apps-for-your-writing-journey/"><u>The Ultimate List of 6 Favorite Apps for Your Writing Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-no-matches-issues-on-bumble/"><u>Ultimate Guide: Resolving 'No Matches' Issues on Bumble</u></a></li>
+</ul></div>
+

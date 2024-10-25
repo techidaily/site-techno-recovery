@@ -1,7 +1,7 @@
 ---
 title: "Boost Academic Success in University: How Gemini AI Can Support Students, Featured by ZDNET"
-date: 2024-09-18 16:20:18
-updated: 2024-09-20 11:55:14
+date: 2024-10-22T21:44:35.025Z
+updated: 2024-10-24T18:13:26.216Z
 tags:
   - google
 categories:
@@ -27,6 +27,13 @@ In partnership with [OpenStax](https://www.zdnet.com/article/meet-gemini-educati
 
 To activate OpenStax within Gemini, users can type in a prompt such as "@OpenStax explain \[insert subject here\]?"Then, the responses will reference OpenStax's content library, including concise explanations with links referencing the textbook content. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Create engaging quizzes to test your knowledge**
 
 Gemini can help you test your knowledge of various subject matters by providing you with practice quizzes. Gemini can walk you through each question and provide feedback and hints to help you get through the quiz. 
@@ -34,6 +41,13 @@ Gemini can help you test your knowledge of various subject matters by providing 
 **Also: [4 ways my favorite study app Quizlet just got even better (and it's still free)](https://www.zdnet.com/article/4-ways-my-favorite-study-app-quizlet-just-got-even-better-and-its-still-free/)**
 
 All you have to do is type, "quiz me on \[insert subject here\]," and Gemini will deliver interactive quizzes and collaborative responses on topics ranging from the biological sciences to history and even pop culture.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Upload educational content and materials to prep for exams**
 
@@ -53,6 +67,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Use the Learning Coach Gem for study help**
 
 Gemini Advanced subscribers also have access to [Gems](https://www.zdnet.com/article/googles-gemini-just-got-two-popular-chatgpt-plus-features-and-one-is-free-to-use/), which are customized versions of Gemini for tackling particular tasks. In addition to creating their own custom Gems, users can access the premade [Gem Learning coach](https://blog.google/products/gemini/google-gemini-update-august-2024/#link={) to help them create a tailored learning plan for their specific academic needs.
@@ -64,6 +85,13 @@ For example, if you want to prepare for upcoming exams, you can use the Learning
 ## **5\. Gain a better understanding of a topic** 
 
 Gemini can simplify any topic in a digestible way by using videos, images, and real-life examples that demonstrate what you're learning. All you have to do is ask Gemini to provide you with an explanation or more resources on a specific topic. For example, you can ask Gemini for follow-up questions, video recommendations, and more. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who can access it?
 
@@ -90,11 +118,26 @@ These Gemini features are only available for students 18 and older. School admin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-top-8-zero-cost-3d-plugins-the-ideal-pick-for-pcmac-users/"><u>[Updated] 2024 Approved Top 8 Zero-Cost 3D Plugins The Ideal Pick for PC/Mac Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fade-to-black-in-premiere-pro/"><u>[Updated] Fade To Black In Premiere Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-art-of-online-podcast-filming/"><u>[Updated] The Art of Online Podcast Filming</u></a></li>
+<li><a href="https://games-able.techidaily.com/combating-crashing-fixes-for-steams-widescreen-issue/"><u>Combating Crashing: Fixes for Steam's Widescreen Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/debugging-tips-for-handling-parse-errors-in-android-development-a-guide-to-8-fixes/"><u>Debugging Tips for Handling Parse Errors in Android Development – A Guide to 8 Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-picks-6-best-free-editors-that-can-match-photoshop/"><u>Essential Picks: 6 Best Free Editors That Can Match Photoshop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tips-for-navigating-and-utilizing-google-gemini-effectively/"><u>Essential Tips for Navigating and Utilizing Google Gemini Effectively</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevating-snaps-to-animation-the-cartoonists-playbook/"><u>In 2024, Elevating Snaps to Animation The Cartoonist’s Playbook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-look-at-the-new-samsung-z-fold-4-when-its-out-and-what-it-offers/"><u>In-Depth Look at the New Samsung Z Fold 4 - When It's Out & What It Offers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-11/"><u>Resolving Svchost.exe's Excessive CPU Consumption in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-in-your-podcasts-xml-structure/"><u>Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725290478908-winx-mediatrans/"><u>WinX MediaTrans 使用ガイド - 完全な解説付き ユーザーマニュアル</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Office Drama Evolves with Quiet Firing Taking Center Stage Over Traditional Resignations - Learn More on ZDNET
-date: 2024-09-19 19:41:50
-updated: 2024-09-20 11:10:50
+date: 2024-10-19T22:30:31.129Z
+updated: 2024-10-24T19:37:15.548Z
 tags:
   - professional-development
 categories:
@@ -76,11 +76,36 @@ The consequences of quiet quitting and quiet firing impact both employees and em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-enhancing-your-photos-effective-use-of-luts-in-photoshop-cs6/"><u>[New] In 2024, Enhancing Your Photos Effective Use of LUTs in Photoshop CS6</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-prime-20-anime-openers-soundscape/"><u>[New] In 2024, Prime 20 Anime Openers' Soundscape</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solved-how-to-install-epson-printer-step-by-step/"><u>[Solved] How To Install Epson Printer Step-by-Step</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-google-pixel-8-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Google Pixel 8</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2+ Phone with Broken Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-platform-picks-for-prominent-content-creators/"><u>In 2024, Platform Picks for Prominent Content Creators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-a38-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo A38 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-tips-to-record-videos-in-silence-for-2024/"><u>Leading Tips to Record Videos in Silence for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-and-easy-guide-mastering-the-clean-installation-of-windows-11-in-no-time/"><u>Quick & Easy Guide: Mastering the Clean Installation of Windows 11 in No Time</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-your-pcs-speakers-a-complete-tutorial-to-reinstall-realtek-hd-audio-driver-in-windows-11/"><u>Revive Your PC's Speakers: A Complete Tutorial to Reinstall Realtek HD Audio Driver in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-ad-blocking-in-firefox-unlock-a-cleaner-faster-web-experience-today/"><u>Seamless Ad Blocking in Firefox: Unlock a Cleaner, Faster Web Experience Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-successfully-uninstalling-a-printer-from-your-windows-pc/"><u>Step-by-Step Guide: Successfully Uninstalling a Printer From Your Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-updating-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Drivers in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-installing-a-racing-steering-wheel-into-your-computer-setup/"><u>Step-by-Step Instructions for Installing a Racing Steering Wheel Into Your Computer Setup</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

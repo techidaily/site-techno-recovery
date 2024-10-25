@@ -1,7 +1,7 @@
 ---
 title: "Singapore Launches Solar Panel Installation at Airports: A Sustainable Initiative"
-date: 2024-09-19 15:48:56
-updated: 2024-09-20 10:29:11
+date: 2024-10-21T02:17:29.886Z
+updated: 2024-10-25T04:52:07.811Z
 tags:
   - energy
 categories:
@@ -43,11 +43,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/raf-movavi/"><u>「オンラインで自由にRAFファイル変換! Movaviの手軽なツール」</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-breakthroughs-in-non-fbx-gameplay-documentation/"><u>2024 Approved Breakthroughs in Non-FBX Gameplay Documentation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimal-yt-video-cover-images/"><u>2024 Approved Optimal YT Video Cover Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/4-handy-house-painting-apps/"><u>4 Handy House Painting Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enlarging-images-preserving-pixel-perfection/"><u>Enlarging Images Preserving Pixel Perfection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-connection-woes-on-your-samsung-galaxy-overcoming-the-not-registered-network-hurdle/"><u>Fixing Connection Woes on Your Samsung Galaxy – Overcoming the ‘Not Registered’ Network Hurdle</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-of-sticky-keyboard-buttons-in-windows-a-comprehensive-guide/"><u>Fixing the Issue of Sticky Keyboard Buttons in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/long-term-stability-of-syma-x8c/"><u>Long-Term Stability of Syma X8C</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-apple-support-how-to-schedule-an-appointment-at-the-genius-bar/"><u>Navigating Apple Support: How to Schedule an Appointment at the Genius Bar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-unpaired-airpods-effective-techniques-to-reestablish-connection/"><u>Reviving Unpaired AirPods: Effective Techniques to Reestablish Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbelievable-phone-gags-and-tricks-for-iphones-and-ipads-that-will-crack-you-up/"><u>Unbelievable Phone Gags & Tricks for iPhones and iPads That Will Crack You Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-tipping-game-devs-would-be-a-bad-idea/"><u>Why Tipping Game Devs Would Be a Bad Idea</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

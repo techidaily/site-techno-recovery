@@ -1,7 +1,7 @@
 ---
 title: Confronting Imposter Thoughts to Excel Professionally – A Guide to Building Unshakable Confidence at Work
-date: 2024-09-18 18:50:56
-updated: 2024-09-20 12:50:11
+date: 2024-10-18T17:53:36.525Z
+updated: 2024-10-24T20:47:21.717Z
 tags:
   - professional-development
 categories:
@@ -45,6 +45,13 @@ Additionally, since imposter syndrome is an internal experience, there's no thre
 
 We know from research that those feelings do not subside after reaching a new goal because we acclimate and quickly pick a new goal as the next threshold, continuing the cycle.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Am I experiencing imposter syndrome at work?
 
 Recognizing imposter syndrome is the first step toward healing. Feeling like you aren't good enough for your job can lead to overwhelming stress, a [sense of burnout](https://www.zdnet.com/education/professional-development/how-to-avoid-burnout/), and even resigning from your position. 
@@ -73,6 +80,13 @@ Additionally, if you are going to talk to your manager, think about some actiona
 If you don't have a transparent and vulnerable relationship with your manager, I would also suggest seeking the support of peers. Ultimately, you want to go to the well that has water for you. 
 
 Tori Rubloff/ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to cope with imposter syndrome in your career
 
@@ -144,6 +158,13 @@ Keep your list somewhere you can access it when you need a boost. Include anythi
 
 If you led a successful meeting, note what worked and some [public speaking tips](https://www.zdnet.com/education/professional-development/public-speaking-tips/) for future you. Don't forget to add any kind Slack messages you've received or positive comments on a performance review. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [How to overcome new job anxiety New job anxiety can hinder your productivity and hurt your professional experience. Find out what anxiety is and what you can do to manage it.  Read now](https://www.zdnet.com/article/overcome-new-job-anxiety/)
@@ -161,6 +182,13 @@ These methods to overcome imposter syndrome can be helpful, but sometimes you ne
 Cognitive-behavioral therapy can help explore negative emotions and create personalized methods to manage them. 
 
 Your primary care provider may be able to connect you with a therapist. If that's not possible for you, try an online service like Betterhelp or Talkspace. These sites offer quick appointment availability.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More about Dr. Pauline Yeghnazar Peck, MA, MMFT, Ph.D.
 
@@ -187,11 +215,30 @@ Your primary care provider may be able to connect you with a therapist. If that'
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/nsider-guide-decoding-youtube-live-image-codes-for-2024/"><u>[New] Insider Guide Decoding YouTube Live Image Codes for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-incorporating-vimeo-videos-seamlessly-in-microsoft-slides/"><u>[Updated] In 2024, Incorporating Vimeo Videos Seamlessly in Microsoft Slides</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-t-mobiles-national-connectivity-plan/"><u>A Comprehensive Guide to T-Mobile's National Connectivity Plan</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-job-searches-on-skype-9-expert-techniques-for-successful-interviews/"><u>Ace Job Searches on Skype: 9 Expert Techniques for Successful Interviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-the-ps5-slim-and-standard-ps5-which-console-is-right-for-you/"><u>Comparing the PS5 Slim and Standard PS5: Which Console Is Right For You?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-project-apple-tv-plus-shows-onto-a-chromecast-screen/"><u>Easy Ways to Project Apple TV + Shows Onto a Chromecast Screen</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/explore-other-free-solutions-after-the-phasing-out-of-google-drive-backup-and-sync-feature/"><u>Explore Other Free Solutions After the Phasing Out of Google Drive Backup & Sync Feature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-digital-artistry-the-meme-generator/"><u>Free Digital Artistry The Meme Generator</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/going-cable-free-innovative-ways-to-get-online-without-a-phone-connection/"><u>Going Cable-Free: Innovative Ways to Get Online Without a Phone Connection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-calculating-20mb-video-length-in-secs/"><u>In 2024, Calculating 20MB Video Length in Secs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-smart-8-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Smart 8 Pro Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-battery-status-enabling-full-charge-alerts-in-windows-11/"><u>Proactive Battery Status: Enabling Full Charge Alerts in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722866964482-troubleshooting-missing-oleaut32dll-files-on-your-computer-easily/"><u>Troubleshooting Missing oleAut32.dll Files on Your Computer Easily!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-visual-upgrade-mastery-of-video-enhancer-version-22/"><u>Ultimate Visual Upgrade Mastery of Video Enhancer Version 2.2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-dac-should-it-be-part-of-your-audio-setup/"><u>Understanding DAC: Should It Be Part of Your Audio Setup?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-lord-of-the-rings-like-a-true-hobbit-unveiling-the-perfect-movie-marathon-sequence/"><u>Watch 'Lord of the Rings' Like a True Hobbit: Unveiling the Perfect Movie Marathon Sequence</u></a></li>
+</ul></div>
+

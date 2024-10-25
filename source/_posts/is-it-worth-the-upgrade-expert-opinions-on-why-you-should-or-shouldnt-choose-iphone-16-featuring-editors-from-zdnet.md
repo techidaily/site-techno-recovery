@@ -1,7 +1,7 @@
 ---
 title: "Is It Worth the Upgrade?: Expert Opinions on Why You Should or Shouldn't Choose iPhone 16 - Featuring Editors From ZDNET"
-date: 2024-10-13T10:28:45.566Z
-updated: 2024-10-18T16:32:24.264Z
+date: 2024-10-23T19:54:29.233Z
+updated: 2024-10-25T05:07:29.842Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -65,13 +65,6 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. For work
 
 Okay, this one comes as no surprise. There was bound to be some of us upgrading because well, we do work in tech after all, and what better way to cover Apple's iPhones than actually owning the new model yourself? So while this may not be an applicable reason for some, for those in tech it is sometimes justifiable. 
@@ -94,16 +87,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -116,10 +109,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -129,6 +122,13 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -176,18 +176,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-making-every-penny-count-in-youtube-webinars/"><u>[Updated] In 2024, Making Every Penny Count in Youtube Webinars</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-insider-guide-to-regular-broadcast-etiquette-for-2024/"><u>[Updated] The Insider Guide to Regular Broadcast Etiquette for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtube-live-potential-a-step-by-step-guide-for-2024/"><u>[Updated] Unlocking YouTube Live Potential A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-video-creation-for-all-ages-crafting-your-first-10-youtube-videos/"><u>[Updated] Video Creation for All Ages Crafting Your First 10 YouTube Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-of-the-best-ups-devices-to-secure-your-power/"><u>Best-of-the-Best UPS Devices to Secure Your Power</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connect-and-control-the-best-methods-to-pair-a-chromecast-remote-with-ease/"><u>Connect and Control: The Best Methods to Pair a Chromecast Remote with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-mscorwksdll-not-found-issues-in-windows-expert-advice/"><u>Fixing MSCORWKS.DLL Not Found Issues in Windows - Expert Advice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-snapchat-expressions-understanding-emoji-meanings-inside-out/"><u>Mastering Snapchat Expressions: Understanding Emoji Meanings Inside Out</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-lava-agni-2-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Lava Agni 2 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-entry-into-the-world-of-facebook-marketplace/"><u>Navigating Entry Into the World of Facebook Marketplace</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unearth-new-perspectives-on-common-emojis-with-these-10-mind-blowing-discoveries/"><u>Unearth New Perspectives on Common Emojis With These 10 Mind-Blowing Discoveries</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-potential-of-todays-drones-for-tomorrow-for-2024/"><u>Unveiling the Potential of Today's Drones for Tomorrow for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-create-captivating-photos-adding-motion-blur-in-photoshop/"><u>[New] In 2024, Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-most-effective-web-subtitle-editors/"><u>[New] Unveiling the Most Effective Web Subtitle Editors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-oculus-illness-prevention-guide/"><u>[Updated] 2024 Approved Oculus Illness Prevention Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/architectural-vulnerability-in-risc-v-cpus-exposed-the-perilous-path-to-root-access-via-ghostwrite-exploit/"><u>Architectural Vulnerability in RISC-V CPUs Exposed: The Perilous Path to Root Access via GhostWrite Exploit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-steps-to-permanently-remove-your-tiktok-profile/"><u>Complete Guide: Steps to Permanently Remove Your TikTok Profile</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-lava-blaze-2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Lava Blaze 2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-classroom-electronics-a-students-guide-to-necessary-tech-accessories/"><u>Essential Classroom Electronics: A Student's Guide to Necessary Tech Accessories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-new-world-connection-error/"><u>How to Fix 'New World Connection Error'</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-wondering-how-to-edit-a-video-to-slow-motion-on-iphone-and-android-devices-find-out-how-to-use-wondershare-filmora-to-create-and-edit-slo-/"><u>New 2024 Approved Wondering How to Edit a Video to Slow Motion on iPhone and Android Devices? Find Out How to Use Wondershare Filmora to Create and Edit Slo Mo Videos in a Few Clicks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streaming-gadgets-explained-what-are-media-players/"><u>Streaming Gadgets Explained: What Are Media Players?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-insightful-guide-to-facebook-origins-user-fascination-and-vital-functionality/"><u>The Insightful Guide to Facebook: Origins, User Fascination, and Vital Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-when-you-cant-find-msvcr100dll/"><u>Troubleshooting Steps for When You Can't Find Msvcr100.dll</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win10-effortless-interactive-screen-update/"><u>Win10: Effortless Interactive Screen Update</u></a></li>
 </ul></div>
 

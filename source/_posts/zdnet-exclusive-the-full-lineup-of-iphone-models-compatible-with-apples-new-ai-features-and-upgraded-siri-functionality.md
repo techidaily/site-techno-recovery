@@ -1,0 +1,113 @@
+---
+title: "ZDNet Exclusive: The Full Lineup of iPhone Models Compatible with Apple's New AI Features and Upgraded Siri Functionality"
+date: 2024-10-20T21:53:14.820Z
+updated: 2024-10-25T07:43:38.089Z
+tags:
+  - apple
+categories:
+  - tech
+thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29fa552917e2c2599c84130202.jpg
+---
+
+## Anticipating the Arrival: My Insightful Encounter with Early Orders for Apple Vision Pro - Indications of Improved Future Releases
+
+![Apple Vision Pro demo at WWDC 2023](https://www.zdnet.com/a/img/resize/6e1823b3f4232f9dc19914cfe5074bcd19b8b1b9/2023/06/05/fc180fd2-3010-4889-a328-137e0f3e2f4a/img-8843.jpg?auto=webp&precrop=4032,2266,x0,y346&width=1280)
+
+Jason Hiner/ZDNET
+
+I did the thing. I woke up yesterday morning to _the "_Apple alarm," flipped open my laptop, went on Apple.com, and spammed Refresh until a little ["Pre-order" button](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision%2Fapple-vision-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) appeared in front of me. The rest was history, including $4,000 from my bank account that, I'd like to believe, was well spent. But something felt different.
+
+**Also: [Pre-ordering Apple Vision Pro? These 5 questions can help you decide](https://www.zdnet.com/article/pre-ordering-apple-vision-pro-these-5-questions-can-help-you-decide/)**
+
+See, if there's one thing I've learned from pre-ordering Apple products over the past decade, it's that they _never_ go as planned. Whether it's a color or storage option running out of stock, the website being down, or a fault of my own, buying the latest iPhone or MacBook has always felt more like a journey than, well, buying something online.
+
+But with pre-ordering the Vision Pro that morning, everything just came and went, from the Light Seal fitting process to configuring the storage size to setting an appointment time for picking up the headset. Here's the full timeline.
+
+#### Newsletters
+
+ZDNET Tech Today
+
+ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked about stories, five days a week.
+
+ Subscribe
+
+[See all](https://www.zdnet.com/newsletters/)
+
+**7:55 am ET** \- It was previously reported that an Apple device with [Face ID would be required](https://www.zdnet.com/article/preordering-the-apple-vision-pro-youll-have-these-hoops-to-jump-through/) to order the Vision Pro, so I had my iPhone charged and ready.
+
+**8:00 am** \- The "Pre-order" button didn't appear on the dot, but a few refreshes later, and I was in the buying portal for the Vision Pro. First step: Measuring my face for the Light Seal and headbands. A QR code appeared on the screen, prompting me to scan it with my Face ID-supported device. I wasn't required to use an iPhone or iPad that was linked to my iCloud, so it's safe to assume that if one were to buy the Vision Pro in person from the Apple Store, an associate would have a device in hand for this step.
+
+**Also: [Apple Vision Pro's $199 Travel Case revealed - and it looks weirdly cozy](https://www.zdnet.com/article/apple-vision-pros-199-travel-case-revealed-and-it-looks-weirdly-cozy/)**
+
+**8:02 am** \- Like setting a Face ID lock on your iPhone or iPad, I moved my head in a circular motion -- right, up, left, down -- until all sides were marked as properly scanned. I did this twice.
+
+**8:03 am** \- Next up, selecting my [Zeiss Optical Inserts](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FZEISS%5FLENSES&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). I've used a [similar (if not the same) pair with my Meta Quest 3](https://www.zdnet.com/article/the-50-meta-quest-3-accessory-that-i-cant-live-without-and-how-to-get-it-for-free/) and the headset experience became much more comfortable, so I was glad to see it available for the Vision Pro. If you don't wear glasses or contacts and haven't had surgery that resulted in monovision, you won't be required to purchase the additional accessory. For those like me who wear glasses or contacts, a questionnaire will appear to help decide if you need readers or prescription lenses. Note that you don't have to upload your prescriptions at this point. That's done after you make the purchase, which saved me a lot of time.
+
+**8:05 am** \- For [storage size](https://www.zdnet.com/article/you-can-pre-order-apple-vision-pro-now-in-512gb-and-1tb-storage-options/), I went with the 512GB option ($200 extra), knowing how much memory [spatial videos](https://www.zdnet.com/article/the-iphone-15-pro-can-officially-capture-spatial-video-for-the-apple-vision-pro/) and [immersive applications](https://www.zdnet.com/article/apple-is-now-marketing-vision-pro-as-the-ultimate-entertainment-device/) can take -- and not knowing what other use cases I'd have for the headset.
+
+**8:06 am** \- As someone who lives their consumer life dangerously, I chose not to opt into the $499 AppleCare+ plan.
+
+**8:07 am** \- I typically have my Apple products delivered to avoid the long pick-up lines, but for something as valuable and potentially fragile as the Vision Pro, I decided to retrieve the device by hand this time. Surprisingly, my nearest Apple Stores had plenty of flexibility with appointments, so I picked the earliest time available on Friday, February 2nd, and made the purchase.
+
+**Also: [The most expensive Apple Vision Pro configuration is not as crazy as I thought](https://www.zdnet.com/article/the-most-expensive-apple-vision-pro-configuration-is-not-as-crazy-as-i-thought/)**
+
+So, was it a lack of demand, or did Apple gird its web servers for days like this? I'd say it was the latter because, at the time of this writing, Vision Pro [delivery estimates continue to be pushed back, and back, and back](https://www.zdnet.com/article/shipping-estimates-for-apple-vision-pro-slip-to-march-within-first-hour-of-pre-orders/). The big takeaway was that for the first time in a long time, pre-ordering an Apple product -- one as complicated as the Vision Pro -- felt less cumbersome than it should've been, and I'm sure it'll get even better with time, with this product and many others from the Cupertino company.
+
+#### Apple
+
+[iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get](https://www.zdnet.com/article/iphone-16-pro-and-pro-max-hands-on/ "iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get")
+
+[My biggest regret with upgrading my iPhone to iOS 18 (and I'm not alone)](https://www.zdnet.com/article/my-biggest-regret-with-upgrading-my-iphone-to-ios-18-and-im-not-alone/ "My biggest regret with upgrading my iPhone to iOS 18 (and I'm not alone)")
+
+[We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/ "We've used every iPhone 16 model and here's our best buying advice for 2024")
+
+[6 iOS 18 settings I changed immediately - and why you should too](https://www.zdnet.com/article/6-ios-18-settings-i-changed-immediately-and-why-you-should-too/ "6 iOS 18 settings I changed immediately - and why you should too")
+
+* [iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get](https://www.zdnet.com/article/iphone-16-pro-and-pro-max-hands-on/ "iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get")
+* [My biggest regret with upgrading my iPhone to iOS 18 (and I'm not alone)](https://www.zdnet.com/article/my-biggest-regret-with-upgrading-my-iphone-to-ios-18-and-im-not-alone/ "My biggest regret with upgrading my iPhone to iOS 18 (and I'm not alone)")
+* [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/ "We've used every iPhone 16 model and here's our best buying advice for 2024")
+* [6 iOS 18 settings I changed immediately - and why you should too](https://www.zdnet.com/article/6-ios-18-settings-i-changed-immediately-and-why-you-should-too/ "6 iOS 18 settings I changed immediately - and why you should too")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-blueprint-to-perpetual-snapstreaks/"><u>[New] 2024 Approved The Blueprint to Perpetual Snapstreaks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-blending-calendar-coordination-with-mobile-and-computing-zoom-times-for-2024/"><u>[New] Blending Calendar Coordination with Mobile & Computing Zoom Times for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamline-your-audio-experience-install-vrecorder/"><u>[Updated] Streamline Your Audio Experience - Install VRecorder</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/macpc/"><u>步驟式指南：迅速有效地在Mac或PC上從光碟進行直接複製</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audience-favorite-the-7-premier-websites-featuring-latest-movie-clips/"><u>Audience Favorite: The 7 Premier Websites Featuring Latest Movie Clips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-7-online-playful-experiences-perfect-for-kids/"><u>Discover 7 Online Playful Experiences Perfect for Kids</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722884488657-elevate-your-ipod-touch-experience-with-these-8-fantastic-no-cost-music-apps/"><u>Elevate Your iPod Touch Experience with These 8 Fantastic No-Cost Music Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tips-for-measuring-the-internal-climate-of-your-macbook-pro-or-air/"><u>Essential Tips for Measuring the Internal Climate of Your MacBook Pro or Air</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-no-ring-tone-problem-on-your-ios-device-easily/"><u>Fixing the 'No Ring Tone' Problem on Your iOS Device Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lenovo-laptop-basics-mastering-the-hardware-factory-reset-process/"><u>Lenovo Laptop Basics: Mastering the Hardware Factory Reset Process</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-digital-safety-ranking-the-8-most-effective-parent-control-systems-of-2024/"><u>Navigating Digital Safety: Ranking the 8 Most Effective Parent Control Systems of 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/perfect-iphone-silhouette-captures-101/"><u>Perfect iPhone Silhouette Captures 101</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/silicon-sourced-smiles-the-potential-of-programmed-punchlines/"><u>Silicon-Sourced Smiles: The Potential of Programmed Punchlines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-audio-problems-on-your-xbox-series-x-or-s-console-headset-fixes/"><u>Solve Audio Problems on Your Xbox Series X or S Console - Headset Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-5-pinnable-planner-tools-to-boost-engagement/"><u>The Ultimate List of 5 Pinnable Planner Tools to Boost Engagement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-error-0xc0000185-causes-and-solutions/"><u>Understanding Error 0xC0000185: Causes & Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-the-power-of-seo-skyrocketing-through-youtube-rankings-for-2024/"><u>Unleash the Power of SEO Skyrocketing Through YouTube Rankings for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

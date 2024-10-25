@@ -1,7 +1,7 @@
 ---
 title: "Unlock Creative Freedom with Extra Fonts: A Step-by-Step Tutorial for Google Docs Users (ZDNet Insights)"
-date: 2024-09-18 21:53:23
-updated: 2024-09-20 10:20:11
+date: 2024-10-22T21:19:16.681Z
+updated: 2024-10-25T02:52:39.920Z
 tags:
   - google
 categories:
@@ -34,15 +34,49 @@ Let me show you how it's done.
 
 **Also:** [Organize your Google Drive with these 5 tips](https://www.zdnet.com/article/5-google-drive-tips-you-didnt-know-you-needed/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only thing you'll need to make this work is a Google account. That's it. Let's get to the fonts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adding new fonts to Google Docs
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Log into Google
 
 The first thing you'll need to do is log into your Google account. You can do this from any web browser that supports Google Docs (which is most of them).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Create a new document
 
@@ -95,11 +129,29 @@ And that's all there is to add some very nice fonts to Google docs. Although the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-live-screen-archive-aggregators-for-2024/"><u>[New] Live Screen Archive Aggregators for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-personal-aerial-companions-gps-drones-that-never-stray/"><u>2024 Approved Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-best-spots-engaging-with-free-preschool-games-at-local-sites/"><u>Explore the Best Spots: Engaging with Free Preschool Games at Local Sites</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-reno-10-proplus-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-age-of-empires-4-from-continuously-freezing-and-closing/"><u>How to Stop Age of Empires 4 From Continuously Freezing and Closing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-5-best-free-3gp-video-rotators-for-2024/"><u>New Top 5 Best Free 3GP Video Rotators for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-veilig-konverteren-van-mod-tot-avi-efficient-en-kostenloos-met-movavi/"><u>Online Veilig Konverteren Van MOD Tot Avi: Efficiënt en Kostenloos Met Movavi</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-audit-vll-application-review-for-2024/"><u>Precision Audit VLL Application Review for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-steps-for-restoring-factory-settings-on-your-samsung-smart-tv/"><u>Simple Steps for Restoring Factory Settings on Your Samsung Smart TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-missing-binkw32dll-error-a-step-by-step-guide/"><u>Solving 'Missing binkw32.dll' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-microsoft-edge-not-opening-correctly/"><u>Step-by-Step Solution for Microsoft Edge Not Opening Correctly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722899506539-the-buzz-surrounding-google-pixel-9-specs-expected-price-and-launch-date-uncovered/"><u>The Buzz Surrounding Google Pixel 9: Specs, Expected Price & Launch Date Uncovered</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-maxed-out-photoshop-scratch-disk-errors/"><u>Troubleshooting Maxed-Out Photoshop Scratch Disk Errors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-exchange-revival-repair-and-insights/"><u>Ultimate Exchange Revival: Repair & Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unveiling-ideal-techniques-for-obs-facebook-transition-for-2024/"><u>Unveiling Ideal Techniques for OBS-Facebook Transition for 2024</u></a></li>
+</ul></div>
+

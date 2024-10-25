@@ -1,7 +1,7 @@
 ---
 title: "Dropping Dual or More Pins on Google Maps: A Comprehensive Tutorial for Spatial Planning"
-date: 2024-10-17T18:13:31.333Z
-updated: 2024-10-19T05:48:15.297Z
+date: 2024-10-18T22:58:12.557Z
+updated: 2024-10-25T03:54:24.393Z
 categories:
   - BestProducts
 description: "This Article Describes Dropping Dual or More Pins on Google Maps: A Comprehensive Tutorial for Spatial Planning"
@@ -27,10 +27,10 @@ Close
  In this article, you'll learn how to drop multiple pins on Google Maps so you can create a multi-destination itinerary.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Drop Multiple Google Maps Pins
@@ -40,16 +40,30 @@ Close
 1. [ Open Google My Maps](https://www.google.com/maps/d/u/0/) and then[ follow these directions to create a custom map](https://www.lifewire.com/create-custom-route-on-google-maps-5199091) .  
 ![The edit name box when creating a custom map from Google Maps.](https://www.lifewire.com/thmb/8Hfzr1aIpiuu9TpsYKfbdwmOhqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_drop-multiple-pins-on-google-maps-5197232-cf8267308fa04184b2ff90fe66175f9c.jpg)
 2. Type a location into the search bar above the map. As you type, you can choose the correct location from the dropdown list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Searching for a location when creating a custom Google Maps app.](https://www.lifewire.com/thmb/KFWtrnz6_YUwfzJjym69gGZN6Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_drop-multiple-pins-on-google-maps-5197232-085d308e25424ddb90c1b37ab624029d.jpg)
 3. Once you select a location, it'll[ drop your first pin](https://www.lifewire.com/how-to-drop-a-pin-google-maps-4171835) onto your custom map. Select**Add to map** .  
 ![A dropped pin highlighted from a custom Google Maps map.](https://www.lifewire.com/thmb/W33Xwb3-ftGFb-O4dDmnqXh5YT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_drop-multiple-pins-on-google-maps-5197232-986a7f20a0bb4bb982f067d5d0f4f6f2.jpg)  
  Select a pin for formatting options that let you change the icon and color. You can even select the camera icon to add a custom photo or video for that location.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Another method to drop a pin on your map is to select the location icon under the search field. This will change your cursor to crosshairs. Select any location on the map and a new pin will appear there.  
@@ -60,19 +74,6 @@ Close
 ![Adding an existing location as a pin to a custom Google Maps map.](https://www.lifewire.com/thmb/ie8R1SS6jVYHHGkgGPmLwwsIuRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_drop-multiple-pins-on-google-maps-5197232-7132e521df6041fc90dd568906107aa6.jpg)
 7. To reorder your itinerary list, select a location from the list on the left and drag it up or down.  
 ![Ordering locations in a custom Google Maps map.](https://www.lifewire.com/thmb/7c-xvhAvrrAQW5n9cwrjxHM6Ud8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_drop-multiple-pins-on-google-maps-5197232-0f8fbd8ac3e74be6955bd15ed0dced0f.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your custom map with all your pinned locations is useful when traveling because you can access it anywhere, including in the Google Maps mobile app.
 
@@ -87,23 +88,24 @@ Close
 3. In the route location field, type the name of the next destination. You'll see the location listed under the name of your locations layer. Choose the location and it'll appear as the next stop in your driving route.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Searching for the next location in Google Maps when creating a custom driving route.](https://www.lifewire.com/thmb/V6vZ9XOBPX1c69QCCAM04BhMIxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0013_drop-multiple-pins-on-google-maps-5197232-214b0da124f04be0b8947eb6df00a6f7.jpg)
 4. Once you're finished adding all stops, you'll see your route outlined on the map with a blue line.  
-![A completed driving route in a customized Google Maps map.](https://www.lifewire.com/thmb/10TqcvMIEdqrLZZq-_wfKvTDRMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0014_drop-multiple-pins-on-google-maps-5197232-5a2bfb207b85409888a91746beb4b5a7.jpg)
-5. To use your driving route while traveling, select the three dots to the right of the layer name and choose**Step-by-step directions** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![A completed driving route in a customized Google Maps map.](https://www.lifewire.com/thmb/10TqcvMIEdqrLZZq-_wfKvTDRMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0014_drop-multiple-pins-on-google-maps-5197232-5a2bfb207b85409888a91746beb4b5a7.jpg)
+5. To use your driving route while traveling, select the three dots to the right of the layer name and choose**Step-by-step directions** .  
 
 ![The Step-by-Step directions button in Google My Maps](https://www.lifewire.com/thmb/9FDQ_MmhTyWai_1PqQKutBnA5ZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-my-maps-step-by-step-directions-0e33d4aa9c0644f298ed117ff13a5553.png)
 
@@ -145,17 +147,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-how-to-live-stream-over-the-network-with-vlc-media-player-for-2024/"><u>[Updated] How to Live Stream Over the Network with VLC Media Player for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-add-emojis-to-discord-on-desktop-computer-and-mobile/"><u>2024 Approved How to Add Emojis To Discord on Desktop Computer and Mobile</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/audiophiles-guide-to-fixing-soundless-stereo-receivers/"><u>Audiophile's Guide to Fixing Soundless Stereo Receivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-productivity-on-microsoft-teams-with-the-power-of-github-copilot/"><u>Boost Productivity on Microsoft Teams with the Power of GitHub Copilot</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic-6-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic 6</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-permissions-how-to-obtain-trust-from-trustedinstaller-in-windows-10/"><u>Navigating Permissions: How to Obtain Trust From TrustedInstaller in Windows 10</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/optimal-mp4-transporter-to-fb-hub-for-2024/"><u>Optimal MP4 Transporter to FB Hub for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sound-showdown-chronicles-apple-airpods-pro-vs-galaxy-buds-pro-edition-samsung/"><u>Sound Showdown Chronicles: Apple AirPods Pro Vs. Galaxy Buds Pro Edition (Samsung)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-fixing-the-missing-msvcr70dll-error-message/"><u>Step-by-Step Guide: Fixing the 'Missing MSVCR70.dll' Error Message</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-to-combat-full-scratch-disk-errors-in-photoshop/"><u>Troubleshooting Techniques to Combat 'Full Scratch Disk' Errors in Photoshop</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/whos-been-reading-my-google-files-finding-out-with-ease/"><u>Who's Been Reading My Google Files? Finding Out with Ease</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-minecraft-masterpieces-creative-buildings-guide-for-2024/"><u>[Updated] Minecraft Masterpieces Creative Buildings Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-power-of-zoom-with-these-tips/"><u>2024 Approved Unleash the Power of Zoom with These Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/content-catchment-area-2024/"><u>Content Catchment Area 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-get-your-thaumaturge-game-running-again/"><u>Easy Steps to Get Your Thaumaturge Game Running Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/economical-essentials-for-creating-your-ultimate-at-home-movie-experience/"><u>Economical Essentials for Creating Your Ultimate At-Home Movie Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-intellectual-horizons-inside-meta-ai-technology/"><u>Exploring Intellectual Horizons: Inside Meta AI Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-or-non-existent-dll-in-windows-7810/"><u>Fixing Missing or Non-Existent DLL in Windows 7/8/10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2020-how-to-fix-the-game-crash-issue/"><u>Football Manager 2020: How to Fix the Game Crash Issue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-fix-printing-issues-with-the-hp-envy-asterisk-4520-on-a-windows-pc/"><u>How to Fix Printing Issues with the HP Envy Asterisk 4520 on a Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-overcome-connectivity-and-functionality-issues-with-tiktok/"><u>How to Overcome Connectivity and Functionality Issues with TikTok</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-windows-10-keeps-restarting-issue-easily/"><u>How To Solve Windows 10 Keeps Restarting Issue Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/os-melhores-softwares-gratuitos-para-retoque-de-fotos-em-2024-classificacao-do-movavi/"><u>Os Melhores Softwares Gratuitos Para Retoque De Fotos Em 2024 – Classificação Do Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-selection-top-8-webcams-to-upgrade-streaming/"><u>Prime Selection Top 8 Webcams to Upgrade Streaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-msstdfmtdll-file-missing-problem-a-step-by-step-guide/"><u>Solving the 'Msstdfmt.dll File Missing' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ins-and-outs-of-ussd-unstructured-supplementary-service-data/"><u>The Ins and Outs of USSD (Unstructured Supplementary Service Data)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-syncing-time-on-an-amazon-kindle-paperwhite-device/"><u>The Ultimate Guide to Syncing Time on an Amazon Kindle Paperwhite Device</u></a></li>
 </ul></div>
 

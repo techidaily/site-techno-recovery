@@ -1,7 +1,7 @@
 ---
 title: "Combine Columns with Ease in Excel: Expert Advice on Merging Your Spreadsheet Information"
-date: 2024-10-13T20:32:23.283Z
-updated: 2024-10-19T14:33:39.146Z
+date: 2024-10-18T04:50:52.746Z
+updated: 2024-10-25T04:02:32.272Z
 categories:
   - BestProducts
 description: "This Article Describes Combine Columns with Ease in Excel: Expert Advice on Merging Your Spreadsheet Information"
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f97
 
 Dean Pugh / Unsplash
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Combine Columns in Excel Without Losing Data
 
  If you just want to merge two empty columns in Excel, that's easy enough to do using the Merge option, but if those columns contain data, you'll lose all the data except what's in the uppermost left cell. If what you're actually trying to do is merge the data from two columns into a single column, the merge command won't work. Instead, you need to use the**CONCATENATE** formula to combine that data.
@@ -50,34 +43,48 @@ Dean Pugh / Unsplash
 4. Once you've completed the formula, press**Enter** on your keyboard to activate it. The new data combination should appear in the cell.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The results of the CONCATENATE formula in Microsoft Excel.](https://www.lifewire.com/thmb/lrpZXUMOgKEYWsx163xnNjDFz6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_02-8b69ebb739dd4721a90babcd0465d135.jpg)
 5. Now, you can copy the formula down the length of the column to combine all the desired entries. To do that, place your cursor bac in the previous cell (C2 in the example), grab the green dot (called the**Fill Handle** ) in the lower right corner of the screen and drag down the length of the column you want to use.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will apply the formula to all selected rows.  
 ![An illustration of how to use the Fill Handle in Microsoft Excel.](https://www.lifewire.com/thmb/jRYAhCFQTgZj888CujHR4w9QvUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_03-674a233d08ec4ea0bcf80e3bec90d68b.jpg)
 6. Now, the data in the new column is part of a formula, and as such, if you delete any of the data used in the formula (in this example, any data in columns A or B) it will cause the combined data in column C to disappear.  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To prevent this, you need to save all the new entries as a value so they won't disappear. So first, highlight all the combined data you just created and use the keyboard shortcut**Ctrl + C** on Windows or**Command + C** on Mac to copy it.  
 ![Data selection in Microsoft Excel.](https://www.lifewire.com/thmb/dJvhnrsFHFqq9jYyuvPDvP6vD_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_04-0f81b1dc8ff5485cb2adf07a5f4262e3.jpg)
 7. Then, in the first corresponding cell of the column you copied the data from, right click and select**Paste Value** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Past Value option in Microsoft Excel.](https://www.lifewire.com/thmb/PZ3_xakgfZ_JtN1mmM00mCW8m7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_05-054201d683a14effbdab321008554e88.jpg)
@@ -112,18 +119,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-is-aurora-hdr-a-step-forward-in-quality-viewing/"><u>[Updated] In 2024, Is Aurora HDR a Step Forward in Quality Viewing?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-panoramic-precision-battle-gear-vs-lgcam-showdown/"><u>2024 Approved Panoramic Precision Battle Gear Vs LGCam Showdown</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-prime-collection-no-cost-video-players-for-pc-mac/"><u>2024 Approved Prime Collection No-Cost Video Players for PC, Mac</u></a></li>
-<li><a href="https://discover-data.techidaily.com/ssdwindows-11108/"><u>无需升级：将SSD顺利集成到Windows 11/10/8系统中</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-to-address-the-missing-propsysdll-message-in-windows/"><u>Effective Fixes to Address the Missing PropSys.dll Message in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fix-the-libgdk-win32-2n-dll-not-found-error-a-comprehensive-guide-for-windows-users/"><u>Fix the 'libgdk-win32-2.n DLL Not Found' Error: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-blurry-photos-on-your-iphone-essential-tricks-for-perfect-camera-focus/"><u>Fixing Blurry Photos on Your iPhone: Essential Tricks for Perfect Camera Focus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-p55plus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel P55+</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-troubleshooting-non-opening-ms-word-files/"><u>Step-by-Step Guide: Troubleshooting Non-Opening MS Word Files</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-best-starter-accessories-to-elevate-your-gopro-capture/"><u>The Best Starter Accessories to Elevate Your GoPro Capture</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-7-solutions-for-resolving-steams-dark-interface-issue/"><u>Top 7 Solutions for Resolving Steam's Dark Interface Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-stop-error-0x0000005c-expert-tips-for-resolving-hardware-abstraction-layer-issues/"><u>Troubleshooting Stop Error 0X0000005C - Expert Tips for Resolving Hardware Abstraction Layer Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-oculus-quest-2-headset-with-mobile-devices/"><u>Ultimate Guide: Connecting Your Oculus Quest 2 Headset with Mobile Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-no-cost-digital-revenue-prognosticator/"><u>[New] 2024 Approved No-Cost Digital Revenue Prognosticator</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-essentials-for-flawless-instagram-unboxing-content/"><u>[Updated] 10 Essentials for Flawless Instagram Unboxing Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-your-first-steps-in-high-quality-youtubing/"><u>[Updated] 2024 Approved Your First Steps in High-Quality YouTubing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-5-tips-for-enhancing-roblox-gaming-recordings-mac-for-2024/"><u>[Updated] 5 Tips for Enhancing Roblox Gaming Recordings (Mac) for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-harmonyhub-combining-ios-and-macos-photo-videos-for-2024/"><u>[Updated] HarmonyHub Combining iOS & macOS Photo-Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-dailymovement-vs-youtube-income-comparison/"><u>2024 Approved DailyMovement vs Youtube Income Comparison</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/educational-perks-how-students-can-score-a-tidal-subscription-deal/"><u>Educational Perks: How Students Can Score a Tidal Subscription Deal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722858827188-exploring-the-growth-and-impact-of-electric-car-adoption/"><u>Exploring the Growth and Impact of Electric Car Adoption</u></a></li>
+<li><a href="https://article-posts.techidaily.com/find-your-perfect-match-the-top-10-online-converters-list-for-2024/"><u>Find Your Perfect Match The Top 10 Online Converters List for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-note-30-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Note 30 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722900256798-journey-through-gadgets-and-genres-master-your-laptop-phone-and-expand-your-reading-universe/"><u>Journey Through Gadgets & Genres: Master Your Laptop, Phone & Expand Your Reading Universe</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-technique-for-adding-straight-lines-in-your-documents-on-word/"><u>The Ultimate Technique for Adding Straight Lines in Your Documents on Word</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-a-hushed-receiver-steps-to-bring-back-audio-life/"><u>Troubleshooting a Hushed Receiver: Steps to Bring Back Audio Life</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-patch-tuesday-a-comprehensive-guide/"><u>Understanding Patch Tuesday: A Comprehensive Guide</u></a></li>
 </ul></div>
 

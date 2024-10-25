@@ -1,7 +1,7 @@
 ---
 title: "Effortless Spreadsheets Made Easy: Master the Art of Utilizing Built-In Table Templates in Google Sheets | ZDNET Insights"
-date: 2024-09-19 18:29:39
-updated: 2024-09-20 10:32:46
+date: 2024-10-19T05:18:47.448Z
+updated: 2024-10-24T22:00:38.382Z
 tags:
   - google
 categories:
@@ -27,9 +27,23 @@ Pre-built tables are easy to use -- here's how to get started.
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser. One thing to keep in mind: the pre-built tables feature cannot be used on the mobile version of Google Sheets, so the only way to access it is via a desktop web browser. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Create a new spreadsheet
 
 To start, log into either Google Drive or Google Docs and create a new spreadsheet. The pre-built tables feature only appears in new spreadsheets, so if you open a previously existing document, you won't see the pre-built tables sidebar.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Find the type of pre-built table you want
 
@@ -43,6 +57,13 @@ There are several pre-built tables to choose from.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Insert the desired table
 
 Once you've found the type of table you want to use, hover your cursor over the entry again and click Insert. If the table you've added doesn't work, you can go back to the sidebar and select a different pre-built table to replace it. 
@@ -54,6 +75,13 @@ If you've already closed the sidebar, you can re-open it by clicking the Insert 
 You'll see both the Insert button on a cursor hover and a demonstration of how the table will look.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Customize the table
 
@@ -86,11 +114,31 @@ That's all there is to using the Google Sheets pre-built tables feature. This ha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-tips-for-youtube-thumbnail-design/"><u>[New] Essential Tips for YouTube Thumbnail Design</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-best-compact-audio-capturers-for-ipads-and-macs/"><u>[New] The Best Compact Audio Capturers for iPads and Macs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-comparing-the-costs-and-advantages-of-various-youtube-plans-for-2024/"><u>[Updated] Comparing the Costs and Advantages of Various YouTube Plans for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-virtualblender-for-all-operating-systems/"><u>2024 Approved VirtualBlender for All Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vehicle-on-the-horizon-unveiling-price-points-introduction-date-tech-specs-and-ongoing-rumors/"><u>Apple Vehicle on the Horizon - Unveiling Price Points, Introduction Date, Tech Specs, and Ongoing Rumors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-the-tracks-expert-advice-on-subway-surfers-gameplay/"><u>Beat the Tracks: Expert Advice on Subway Surfers Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-6-organizers-leading-journal-apps-reviewed/"><u>Discover the Ultimate 6 Organizers: Leading Journal Apps Reviewed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/effortless-facebook-live-four-strategies-to-record-successfully-for-2024/"><u>Effortless Facebook Live Four Strategies to Record Successfully for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-troubleshooting-repairing-the-rockalldlldll-cannot-be-found-snafu/"><u>Error Troubleshooting: Repairing the 'Rockalldll.dll' Cannot Be Found Snafu</u></a></li>
+<li><a href="https://solve-help.techidaily.com/ffmpeg-vs-handbrake-showdown-optimal-video-converter-for-your-needs-revealed/"><u>FFmpeg Vs. HandBrake Showdown: Optimal Video Converter for Your Needs Revealed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-watch-the-transformers-movies-in-order/"><u>How to Watch the Transformers Movies in Order</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-find-n3-flip-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo Find N3 Flip Through Google Earth?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-streamline-sound-transfer-top-10-youtube-audio-converters/"><u>In 2024, Streamline Sound Transfer Top 10 YouTube Audio Converters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-techniques-to-photograph-your-display-on-an-hp-computer-system/"><u>Seamless Techniques to Photograph Your Display on an HP Computer System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-employing-tracert-utility-in-windows-environments/"><u>Step-by-Step Instructions for Employing Tracert Utility in Windows Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/trouble-logging-in-to-psn-global-outage-or-user-error/"><u>Trouble Logging In to PSN - Global Outage or User Error?</u></a></li>
+</ul></div>
+

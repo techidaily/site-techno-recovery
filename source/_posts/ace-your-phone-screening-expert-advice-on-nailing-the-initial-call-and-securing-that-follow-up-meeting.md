@@ -1,7 +1,7 @@
 ---
 title: Ace Your Phone Screening! Expert Advice on Nailing the Initial Call & Securing That Follow-Up Meeting
-date: 2024-09-19 17:19:28
-updated: 2024-09-20 10:35:19
+date: 2024-10-23T07:42:57.716Z
+updated: 2024-10-24T23:39:53.651Z
 tags:
   - professional-development
 categories:
@@ -34,13 +34,34 @@ Salary might come up during a phone interview, particularly when speaking with a
 
 It's important to start preparing for a phone interview as early as possible. When scheduling the interview, consider blocking off time to prepare. Use that time to learn more about the company, practice your answers to common phone interview questions, and prepare questions for the interviewer.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Get the details down
 
 You've scheduled a phone interview for 1:00 p.m. on Wednesday. But what time zone? Is it a true phone interview or a video call? Who should place the call, you or the interviewer? Make sure you know the details or reach out to the company for clarification. While getting the details down, make sure they have both your phone number and email. If the call is on Zoom, make sure you have the link and test it 10 minutes before your call.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Research the company
 
 During the phone interview, you'll want to demonstrate your enthusiasm for the position. Researching the company — and determining why you want to work for them — will go a long way toward landing a second interview. Learn about the company, its values, and its goals. Reach out to anyone in your network who's worked for the company to get an insider perspective.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Make an accomplishments cheat sheet
 
@@ -53,6 +74,13 @@ Many phone interviews start with an open-ended question like "tell me about your
 ### Plan out your salary answer
 
 Salary expectations might come up during a phone interview. Research the salary range for the role in your area to avoid undervaluing yourself. In fact, you might want to ask about the salary range to make sure the company's pay matches what you're looking for. Plan out how to answer the salary question without selling yourself short. For example, you can avoid saying an exact number but give a range. Or, you can ask the interviewer what the company's salary range is and base your answer off of their range.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prep three questions for the interviewer
 
@@ -76,6 +104,13 @@ Make a plan to get in the right mindset for your interview. Decide where to take
 
 Your first impression goes a long way and approaching a phone interview professionally can help you make it to the second round of interviews. Take the phone interview seriously and make sure to use professional language while remaining conversational. If it is a video interview, you should show up five minutes ahead of time, as you would with an in-person interview.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Act professional and collegial
 
 During a phone interview, the hiring manager evaluates how you would fit in with the team and the company. They want to know what you'd be like as a member of the team. So act professional and friendly. Show that you're an active listener and let small talk happen. Give off the energy of a great coworker and colleague.
@@ -87,6 +122,13 @@ It's natural to feel nervous during a phone interview, and we tend to speak fast
 ### Keep water (or coffee) nearby
 
 Don't let a dry throat or cough interrupt your interview. Make sure to start the call with a glass of water close at hand. Or if you prefer, bring a cup of coffee or tea for a little caffeine boost. Similarly, make sure you're not hungry (or overly full) when you start the interview.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ask follow-up questions
 
@@ -114,6 +156,13 @@ Once you hang up the phone, what's next? While it's fresh in your mind, jot down
 
 After the interview, make sure to send a thank-you email to the interviewer. The email can be brief. Consider something like "I appreciate the opportunity to learn more about the role and company." Take the opportunity to express your enthusiasm for the next steps in the interview process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Wait to reach out again
 
 You've sent a thank you email and waited several days. When should you reach out again? Wait at least a week before contacting the interviewer again, particularly if they gave you an idea of their timeline. For example, if they said you'd hear back in a week, wait at least a few days after that date to contact them again.
@@ -121,6 +170,13 @@ You've sent a thank you email and waited several days. When should you reach out
 ### Keep busy
 
 You might feel tempted to replay the interview in your mind and come up with better answers to every question. But keep yourself occupied to avoid dwelling. Write your thoughts in a journal and then go for a walk or get some fresh air. Let a friend or family member know how the interview went, and then focus on your other responsibilities as you wait to hear about a second interview.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## In conclusion
 
@@ -162,11 +218,26 @@ _Last reviewed Jan. 27, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>[New] 2024 Approved Crafting Chorus in a Click Essential Insights Into Shortform Song Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-elevate-visual-storytelling-with-snapchat-zooming-skills/"><u>[New] 2024 Approved Elevate Visual Storytelling with Snapchat Zooming Skills</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unveiling-the-secrets-of-iphones-video-loops/"><u>[Updated] In 2024, Unveiling the Secrets of iPhone's Video Loops</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-gain-traction-with-effective-video-descriptions-and-tagging/"><u>2024 Approved Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridging-the-gap-detailed-instructions-on-attaching-playstation-vr-to-your-computer-system/"><u>Bridging the Gap: Detailed Instructions on Attaching PlayStation VR to Your Computer System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-completely-disable-and-delete-your-twitch-gaming-account/"><u>How To Completely Disable and Delete Your Twitch Gaming Account</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oppo-k11x-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo K11x Phone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweeting-visual-content-from-video-to-gif-transformation/"><u>In 2024, Tweeting Visual Content From Video to GIF Transformation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-full-image-display-on-instagram-a-step-by-step-guide/"><u>Mastering the Art of Full Image Display on Instagram: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-samsung-galaxy-s25-decoded-what-to-expect-in-terms-of-cost-release-date-and-advanced-features/"><u>The Samsung Galaxy S25 Decoded: What to Expect in Terms of Cost, Release Date & Advanced Features!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-roblox-memory-warnings-a-step-by-step-guide/"><u>Troubleshooting iPhone's Roblox Memory Warnings: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-503-service-unavailable-issue-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Issue: Causes and Solutions</u></a></li>
+</ul></div>
+

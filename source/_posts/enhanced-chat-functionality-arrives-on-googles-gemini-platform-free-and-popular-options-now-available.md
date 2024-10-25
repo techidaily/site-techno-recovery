@@ -1,7 +1,7 @@
 ---
 title: Enhanced Chat Functionality Arrives on Google's Gemini Platform - Free and Popular Options Now Available
-date: 2024-09-18 12:36:20
-updated: 2024-09-20 11:36:36
+date: 2024-10-24T00:57:00.031Z
+updated: 2024-10-25T01:37:19.982Z
 tags:
   - google
 categories:
@@ -41,6 +41,13 @@ Google also shared that the integration of Imagen 3 into Gemini has built-in saf
 
 In the coming days, Google will also roll out the ability to generate images of people. However, early access versions will be available first to Gemini Advanced, Business, and Enterprise users in English. This feature has some limitations, including the generation of identifiable individuals and minors and violent, gory, or sexual scenes. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gems
 
 At Google I/O, Google announced [Gems](https://www.zdnet.com/article/3-ways-gemini-advanced-beats-other-ai-assistants-according-to-google/), which are customized versions of Gemini for tackling particular tasks. To set up a Gem, a user simply has to give it an instruction, name it, and use it when needed to perform a specific function. 
@@ -74,11 +81,29 @@ Creating custom assistants is a paid feature on both ChatGPT and Gemini. However
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premium-terraria-enhancements-guide-for-2024/"><u>[New] Premium Terraria Enhancements Guide for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>2024 Approved Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024-ultimate-guide-boost-your-games-frame-rate-with-these-proven-strategies/"><u>2024 Ultimate Guide: Boost Your Game's Frame Rate with These Proven Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accelerate-your-pc-performance-on-windows-11-or-10-fixes-inside/"><u>Accelerate Your PC Performance on Windows 11 or 10 [Fixes Inside]</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adapt-to-remote-and-office-work-with-microsofts-latest-device-lineup-as-featured-by-zdnet/"><u>Adapt to Remote and Office Work with Microsoft's Latest Device Lineup, as Featured by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-go-2024-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark Go (2024) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-productivity-easily-connect-second-monitor-for-windows-users-windows-7810/"><u>Boost Productivity: Easily Connect Second Monitor for Windows Users (Windows 7/8/10)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-mastering-fallout-3-gaming-on-your-new-windows-11-pc/"><u>Complete Guide: Mastering Fallout 3 Gaming on Your New Windows 11 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-step-by-step-tutorial-adding-the-netflix-addon-to-your-kodi-media-center/"><u>Comprehensive Step-by-Step Tutorial: Adding the Netflix Addon to Your Kodi Media Center</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquering-silence-expert-tips-for-fixing-connexant-smartaudio-hds-audio-malfunction-in-windows-10-computers/"><u>Conquering Silence: Expert Tips for Fixing Connexant SmartAudio HD's Audio Malfunction in Windows 10 Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808330638-easy-and-fast-learn-how-to-set-up-bluetooth-speaker-with-laptop-today/"><u>Easy & Fast: Learn How To Set Up Bluetooth Speaker With Laptop Today!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/holistic-locomotion-examination-2023/"><u>Holistic Locomotion Examination 2023</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-mac-streaming-with-our-top-5-software-picks/"><u>Master Mac Streaming with Our Top 5 Software Picks</u></a></li>
+</ul></div>
+

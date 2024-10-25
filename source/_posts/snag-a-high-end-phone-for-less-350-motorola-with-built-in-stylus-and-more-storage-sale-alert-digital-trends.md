@@ -1,7 +1,7 @@
 ---
 title: "Snag a High-End Phone for Less: $350 Motorola with Built-In Stylus & More Storage, Sale Alert | Digital Trends"
-date: 2024-09-19 16:34:53
-updated: 2024-09-20 11:15:32
+date: 2024-10-18T17:57:22.050Z
+updated: 2024-10-24T19:18:35.465Z
 tags:
   - google
 categories:
@@ -18,6 +18,13 @@ Matthew Miller/ZDNET
 ### What's the deal?
 
 The [Moto G Stylus 5G (2024)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-moto-g-stylus-5g-2024-256gb-unlocked-caramel-latte%2F6578951.p%3FskuId%3D6578951&publisher_slug=itechdaily19598&exclusive=1) is down to $349 during Labor Day week, a $50 discount on an already affordable handset.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -75,6 +82,13 @@ A 50MP main and 13MP ultra-wide camera are positioned on the back of the phone. 
 
 While the camera hardware is not as powerful as [flagship phones](https://www.zdnet.com/article/best-phone/), Motorola provides excellent software tools that help you capture great photos and be creative with little effort. Still, I've enjoyed using the Motorola camera, especially when capturing quick shots during the daytime. The 50MP camera system should serve most people just fine. At this price point, you really can't complain.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 I started using personal digital assistant (PDA) devices that all had a stylus in 1997, and I am still a fan of using such an accessory that provides precision inputs and on-device handwriting. The [Moto G Stylus 5G](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-moto-g-stylus-5g-2024-256gb-unlocked-caramel-latte%2F6578951.p%3FskuId%3D6578951&publisher_slug=itechdaily19598&exclusive=1) is an affordable option for stylus lovers while also serving as a very capable Android phone. The Motorola user interface remains one of my favorites since it is optimized for efficient use and doesn't rely as heavily on AI to help you get things done.
@@ -100,11 +114,27 @@ I started using personal digital assistant (PDA) devices that all had a stylus i
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-step-by-step-uploading-to-instagrams-feed/"><u>[Updated] Step-By-Step Uploading to Instagram's Feed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-taking-solo-shots-from-videos-in-windows-10-photos-interface/"><u>[Updated] Taking Solo Shots From Videos in Windows 10 Photos Interface</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-proven-techniques-for-captivating-viewers-with-live-video-graphics/"><u>2024 Approved Proven Techniques for Captivating Viewers with Live Video Graphics</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-off-switch-on-network-sight-windows/"><u>Overhauling Off Switch on Network Sight Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-steps-to-play-ps3-controllers-on-your-ps4-system/"><u>Simple Steps to Play PS3 Controllers on Your PS4 System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-steps-update-device-drivers-in-windows-7-8-and-10/"><u>Simple Steps: Update Device Drivers in Windows 7, 8 & 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simply-capture-your-screen-a-comprehensive-guide-to-windows-11s-image-taking-tools/"><u>Simply Capture Your Screen: A Comprehensive Guide to Windows 11'S Image Taking Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-secure-online-top-strategies-to-identify-and-dodge-phishing-attempts-updated/"><u>Stay Secure Online: Top Strategies to Identify and Dodge Phishing Attempts (Updated )</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-entering-the-advanced-startup-settings-on-windows-10/"><u>Step-by-Step Guide: Entering the Advanced Startup Settings on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-completing-disk-formatting-where-windows-stopped/"><u>Step-by-Step Solution for Completing Disk Formatting Where Windows Stopped</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steam-cloud-inconsistency-and-error-messages/"><u>Troubleshooting Steam Cloud Inconsistency and Error Messages</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-leading-gps-trackers-for-runners-2024-edition/"><u>Ultimate Guide: Leading GPS Trackers for Runners - 2024 Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlocking-high-quality-audio-interpretation-via-google-for-2024/"><u>Unlocking High-Quality Audio Interpretation via Google for 2024</u></a></li>
+</ul></div>
+

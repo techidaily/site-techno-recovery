@@ -1,7 +1,7 @@
 ---
 title: "Syncing iCloud Notes with Linux: A Comprehensive Guide | ZDNet"
-date: 2024-10-13T23:56:01.141Z
-updated: 2024-10-18T23:29:44.709Z
+date: 2024-10-24T01:54:51.027Z
+updated: 2024-10-25T04:11:54.421Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ Apple released iOS 16 on Sept. 12, and you can [download and install it right no
 Of course, the new lock screen is getting plenty of attention after users update, and for good reason. It's just too much fun to use. Below I'll walk you through everything you need to know about picking your own interactive wallpaper, customizing the clock, and then adding widgets. 
 
 **Also:** [iPhone 14 Pro scorecard: The hits and misses](https://www.zdnet.com/article/iphone-14-innovation-scorecard/)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to set a custom interactive wallpaper
 
@@ -75,10 +68,10 @@ Don't worry, we'll go back and customize the clock and widgets for that specific
 Screenshots by Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to customize the clock on your iPhone's lock screen
@@ -93,15 +86,22 @@ Now for the fun part -- adding widgets.
 
 Screenshots by Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to add lock screen widgets on your iPhone's lock screen
 
 Apple along with third-party developers can create widgets that you can place on your lock screen as a way to provide access to glanceable information without having to do anything more than wake your iPhone -- or if you have either of the new iPhone 14 Pro models, you can quickly look at the always-on display. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -127,10 +127,10 @@ You can drag and drop widgets within the box to rearrange them, or if you decide
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to edit what information a widget shows
@@ -169,22 +169,18 @@ Not all widgets offer extra customization, but the easiest way to find out is to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-unveiling-pro-slow-motion-filming-techniques-for-stellar-tiktok-videos/"><u>[New] In 2024, Unveiling Pro Slow Motion Filming Techniques for Stellar TikTok Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-screenplay-basics-penning-dynamic-characters-speeches/"><u>[New] Screenplay Basics Penning Dynamic Characters' Speeches</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-fiscal-picture-for-content-makers-on-youtube-shorts-platform/"><u>[New] The Fiscal Picture for Content Makers on YouTube Shorts Platform</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-archive-your-online-dialogues-essential-steps-for-fb-chat-recordings/"><u>[Updated] Archive Your Online Dialogues Essential Steps for FB Chat Recordings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/android-phone-settings-how-to-deactivate-amber-and-other-emergency-alerts/"><u>Android Phone Settings: How to Deactivate AMBER and Other Emergency Alerts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-resolving-issues-with-non-ejectable-dvd-bd-and-cd-drives/"><u>Expert Advice: Resolving Issues with Non-Ejectable DVD, BD & CD Drives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-contrast-understanding-ht-amps-versus-stereo-systems-for-your-living-space/"><u>Exploring the Contrast: Understanding HT Amps Versus Stereo Systems for Your Living Space</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/most-popular-apps-for-your-samsung-smart-tv/"><u>Most Popular Apps for Your Samsung Smart TV</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/proven-strategies-for-wiping-out-your-pcs-recovery-volume-on-a-windows-operating-system/"><u>Proven Strategies for Wiping Out Your PC’s Recovery Volume on a Windows Operating System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-discover-how-to-turn-on-the-invisible-file-explorer-path/"><u>Step-by-Step Tutorial: Discover How to Turn On the Invisible File Explorer Path</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-is-here-apple-watch-ultra-teaser-analysis-with-price-estimates-release-windows-and-leaked-specs/"><u>The Future Is Here: Apple Watch Ultra Teaser Analysis with Price Estimates, Release Windows and Leaked Specs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-8-favorite-ebook-reader-apps/"><u>The Ultimate List: 8 Favorite eBook Reader Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transferring-photos-and-videos-from-one-idevice-to-another-for-2024/"><u>Transferring Photos & Videos From One iDevice to Another for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-ai-potential-chrome-helps-you-chatgpt-masterfully/"><u>Unlock AI Potential: Chrome Helps You ChatGPT Masterfully</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-rapid-techniques-to-separate-genuine-from-fake-on-insta/"><u>[New] 2024 Approved Rapid Techniques to Separate Genuine From Fake on Insta</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/accelerating-instagram-videos-quick-tips-for-2024/"><u>Accelerating Instagram Videos Quick Tips for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augmenting-creativity-with-the-best-ai-for-podcast-names-for-2024/"><u>Augmenting Creativity with the Best AI for Podcast Names for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-atandt-mobile-network-roaming-agreements-for-seamless-travel/"><u>Deciphering AT&T Mobile Network Roaming Agreements for Seamless Travel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficient-file-restoration-guide-unveiling-the-powerful-functions-of-recuva-for-data-rescue/"><u>Efficient File Restoration Guide: Unveiling the Powerful Functions of Recuva for Data Rescue</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-your-optical-disc-drive-to-eject-properly-again/"><u>How to Get Your Optical Disc Drive to Eject Properly Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-score-perfect-apartments-using-top-real-estate-websites/"><u>How to Score Perfect Apartments Using Top Real Estate Websites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-to-perfect-close-up-cinematic-shots/"><u>In 2024, Step-by-Step Guide to Perfect Close-Up Cinematic Shots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-samsungs-newest-smartwatch-the-galaxy-watch-7-insights-on-pricing-release-schedule-and-capabilities/"><u>Inside Samsung's Newest Smartwatch - The Galaxy Watch ^7: Insights on Pricing, Release Schedule & Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-setting-up-and-using-whatsapp-on-a-mac/"><u>The Ultimate Guide to Setting Up and Using WhatsApp on a Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722515960605-top-ranked-artist-tablets-a-comprehensive-guide/"><u>Top Ranked Artist Tablets : A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

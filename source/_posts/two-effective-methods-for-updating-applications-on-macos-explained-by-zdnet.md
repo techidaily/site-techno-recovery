@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained by ZDNet
-date: 2024-10-16T00:35:02.707Z
-updated: 2024-10-19T13:59:26.532Z
+date: 2024-10-18T04:33:37.630Z
+updated: 2024-10-24T18:19:19.301Z
 tags:
   - apple
 categories:
@@ -35,16 +35,10 @@ Let me show you both approaches.
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open the App Store
@@ -66,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update your apps
@@ -82,27 +76,20 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open the Terminal app
 
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Check for available updates
 
@@ -115,6 +102,13 @@ You will be prompted for your sudo password (which is your MacOS user password).
 **Also: [How to update every Apple device (iPhone, iPad, Apple Watch, Mac, more)](https://www.zdnet.com/article/how-to-update-every-apple-device/)**
 
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update the apps
 
@@ -158,16 +152,22 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-professional-gopro-filming/"><u>[New] 2024 Approved The Ultimate Guide to Professional GoPro Filming</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-the-perfect-close-youtubes-free-end-screen-tools/"><u>[New] In 2024, Crafting the Perfect Close YouTube's Free End Screen Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-from-unconfident-to-impactful-embracing-youtube-blogging/"><u>[Updated] From Unconfident to Impactful Embracing YouTube Blogging</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unlocking-hidden-potential-how-to-use-video-filters-on-zoom-for-2024/"><u>[Updated] Unlocking Hidden Potential How To Use Video Filters on Zoom for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-tips-effective-screenrec-usage-on-laptops/"><u>2024 Approved Essential Tips Effective ScreenRec Usage on Laptops</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-finest-8-websites-3d-and-luxurious-text/"><u>2024 Approved Explore the Finest 8 Websites 3D & Luxurious Text</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-decide-between-assembling-and-purchasing-your-personal-computer/"><u>How to Decide Between Assembling and Purchasing Your Personal Computer</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s23-tactical-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S23 Tactical Edition Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insights-into-the-future-apple-vehicle-news-price-details-release-calendar-features-and-rumored-updates/"><u>Insights Into the Future Apple Vehicle - News, Price Details, Release Calendar, Features, and Rumored Updates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/next-big-thing-alert-the-3-emerging-tech-trends-dominating-headlines/"><u>Next Big Thing Alert! - The 3 Emerging Tech Trends Dominating Headlines</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/playstation-5s-lineup-a-showcase-of-unparalleled-gaming-experiences/"><u>PlayStation 5’S Lineup: A Showcase of Unparalleled Gaming Experiences</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audiovisual-harmony-incorporating-audio-into-powerpoint-presentations/"><u>[New] Audiovisual Harmony Incorporating Audio Into PowerPoint Presentations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/oundational-codes-for-youtube-enthusiasts/"><u>[New] Foundational Codes for YouTube Enthusiasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-when-should-you-share-your-insta-story/"><u>[New] In 2024, When Should You Share Your Insta Story?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-comprehensive-review-of-lg-bp350-display-technology-and-capabilities/"><u>2024 Approved Comprehensive Review of LG BP350 Display Technology and Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-best-free-sms-applications-for-apple-iphone-users/"><u>5 Best Free SMS Applications for Apple iPhone Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/assessing-the-moisture-resistance-of-the-new-iphone-15/"><u>Assessing the Moisture Resistance of the New iPhone 15</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/correcting-problems-in-microsoft-edge-browser-functionality/"><u>Correcting Problems in Microsoft Edge Browser Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-gaming-excellence-ifa-2023s-must-try-tech/"><u>Discover Gaming Excellence: IFA 2023'S Must-Try Tech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-troubleshooting-and-resolving-windows-code-39-error/"><u>Effective Solutions: Troubleshooting and Resolving Windows Code #39 Error</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-8-tools-transforming-digital-images/"><u>Elite 8 Tools Transforming Digital Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-differences-cat5-vs-cat6-network-wires/"><u>Exploring the Differences: Cat5 vs Cat6 Network Wires</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-snag-screenshots-like-a-pro-on-windows-11-a-step-by-step-tutorial/"><u>How to Snag Screenshots Like a Pro on Windows 11 – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-play-40cmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor Play 40CMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-ev-charging-explaining-the-nuances-between-level-1-2-and/"><u>Navigating the World of EV Charging: Explaining the Nuances Between Level 1, 2, And</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/small-scale-success-with-the-safest-online-meeting-tools-for-2024/"><u>Small-Scale Success with the Safest Online Meeting Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-screen-distortion-in-pc-gaming-monitors/"><u>Unraveling Screen Distortion in PC Gaming Monitors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-ps5-is-a-game-changer-4-convincing-arguments-for-acquisition/"><u>Why the PS5 Is a Game-Changer: 4 Convincing Arguments for Acquisition</u></a></li>
 </ul></div>
 

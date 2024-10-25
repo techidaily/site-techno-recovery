@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Connection: A Step-by-Step Guide to Connecting Your External Hard Drive to Xbox One"
-date: 2024-10-14T06:07:56.152Z
-updated: 2024-10-18T18:35:49.346Z
+date: 2024-10-18T08:27:53.345Z
+updated: 2024-10-25T05:28:10.059Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Connection: A Step-by-Step Guide to Connecting Your External Hard Drive to Xbox One"
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0
 
  Reply to the message with the suggested option—if there isn't one, Stop is the best thing to try—and you should be unsubscribed.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Block Text Messages on iPhone
 
  No matter how many unwanted texts you're getting, we've got good news: it's easy to[block text messages on iPhone](https://www.lifewire.com/block-text-messages-every-phone-and-carrier-4172380) . Here's how to use the free, simple built-in feature:
@@ -42,16 +55,23 @@ thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0
 4. Tap**Block Caller** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. In the confirmation pop up, tap**Block Contact** .  
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
 
@@ -65,29 +85,8 @@ thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Stop Unwanted Group Texts on an iPhone
 
@@ -99,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0
  If there is a mix of iPhones and Android phones in that chat (you'll know because the message bubbles will be green), tap**Delete and Block this Conversation,** and then tap the confirmation pop-up.  
  If everyone has an iPhone (blue message bubbles) and the chat has more than three other people in it, tap**Leave This Conversation** and then tap the confirmation pop-up.  
 ![A group chat on an iPhone with the name of the chat, the "Hide Alerts" option, and the "Leave this Conversation" commands highlighted](https://www.lifewire.com/thmb/HQ28TmHbL1M_I1yxXgoej2uiqFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Group-Text-options-1eb1d9e175f1471ea3a04ef674873699.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
@@ -141,24 +147,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/best-techniques-for-ethically-identifying-an-individuals-email-address/"><u>Best Techniques for Ethically Identifying an Individual's Email Address</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-video-editing-software-selection-a-comprehensive-list-and-insights/"><u>Best Video Editing Software Selection - A Comprehensive List & Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-mini-m4-with-macbook-air-m3-key-differences-explored/"><u>Comparing iPad Pro Mini (M4) with MacBook Air (M3): Key Differences Explored</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/descubre-alternativas-ilimitadas-para-el-freemake-video-converter-incluidos-tanto-versiones-sin-coste-como-con-pago/"><u>Descubre Alternativas Ilimitadas Para El Freemake Video Converter, Incluidos Tanto Versiones Sin Coste Como Con Pago!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-insights-the-6-leading-causes-of-persistent-car-battery-problems/"><u>Expert Insights: The 6 Leading Causes of Persistent Car Battery Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improving-instagram-speed-effective-techniques-to-boost-performance-on-ios-and-android-phones/"><u>Improving Instagram Speed: Effective Techniques to Boost Performance on iOS & Android Phones</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/logitech-mouse-compatibility-switching-receivers-for-seamless-use/"><u>Logitech Mouse Compatibility: Switching Receivers for Seamless Use</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/macbook-webcam-filming-made-simple/"><u>MacBook Webcam Filming Made Simple</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/seamless-guide-capturing-your-stream-of-the-day-on-steam/"><u>Seamless Guide: Capturing Your Stream of the Day on Steam</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-information-management-the-best-6-artificial-intelligence-apps-for-note-taking/"><u>Streamline Your Information Management: The Best 6 Artificial Intelligence Apps for Note Taking</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-gossip-delving-into-the-details-of-the-hyped-tesla-phone-projected-costs-and-potential-specs-uncovered/"><u>Tech Gossip: Delving Into the Details of the Hyped Tesla Phone – Projected Costs and Potential Specs Uncovered</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-iphone-usb-connectivity-overcoming-mtp-device-driver-challenges/"><u>Troubleshooting and Solving iPhone USB Connectivity: Overcoming MTP Device Driver Challenges</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-elusive-no-signal-problem-on-your-xbox-one/"><u>Troubleshooting the Elusive 'No Signal' Problem on Your Xbox One</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-why-cant-my-iphone-pair-with-my-pc/"><u>Troubleshooting: Why Can't My iPhone Pair With My PC?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-missing-rockaldlldll-file-not-found-error/"><u>Ultimate Guide: Resolving 'Missing rockaldll.dll' File Not Found Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-family-movies-on-netflix-for-kids-to-watch/"><u>Ultimate Selection of Family Movies on Netflix for Kids to Watch</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uninterrupted-experience-update-to-model-1659aoc/"><u>Uninterrupted Experience - Update to Model 1659AOC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-functionality-your-ticket-into-chatgpts-plugin-ecosystem/"><u>Unlocking Advanced Functionality - Your Ticket Into ChatGPT's Plugin Ecosystem</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-from-good-to-great-videos-the-20-essential-shortcuts-for-success/"><u>[New] 2024 Approved From Good to Great Videos The 20 Essential Shortcuts for Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-professional-strategies-for-embedding-timestamps-on-your-channel/"><u>[New] In 2024, Professional Strategies for Embedding Timestamps on Your Channel</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-laughing-legacy-laborer/"><u>2024 Approved Laughing Legacy Laborer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-twitter-presence-learn-how-to-schedule-tweets-like-a-pro/"><u>Boost Your Twitter Presence: Learn How to Schedule Tweets Like a Pro!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diving-into-apples-world-ipad-mini-vs-ipad-air-a-comprehensive-review/"><u>Diving Into Apple's World: IPad Mini vs iPad Air - A Comprehensive Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-clean-up-and-remove-apps-on-your-apple-computer/"><u>Easy Ways to Clean Up and Remove Apps on Your Apple Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-compatible-hp-deskjet-ink-advantage-2652-drivers-for-windows-users-win111087/"><u>Find & Install Compatible HP Deskjet Ink Advantage 2652 Drivers for Windows Users (Win11/10/8/7)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-c32-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia C32 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-gt-10-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix GT 10 Pro Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-fastest-in-town-speedy-bed-slinger-by-bambu-lab-set-to-debut-december-14th/"><u>Introducing the Fastest in Town: Speedy 'Bed Slinger' By Bambu Lab Set to Debut December 14Th</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-uninstall-pre-installed-ios-applications-on-your-iphone/"><u>Is It Possible to Uninstall Pre-Installed iOS Applications on Your iPhone?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-considerations-when-buying-a-high-performance-gaming-computer/"><u>Key Considerations When Buying a High-Performance Gaming Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-agni-2-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Lava Agni 2 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resolving-cmos-battery-failure-issues/"><u>Step-by-Step Guide: Resolving CMOS Battery Failure Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-most-effective-registry-repair-software-of-2024-unveiling-26-free-solutions-to-keep-your-pc-running-smoothly/"><u>The Most Effective Registry Repair Software of 2024: Unveiling 26 Free Solutions to Keep Your PC Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-link-crashes-in-granblue-fantasy-for-windows-users/"><u>Troubleshooting Link Crashes in Granblue Fantasy for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-vpn-error-code-800-on-client-and-server/"><u>Troubleshooting Steps: Resolving VPN Error Code 800 on Client & Server</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-how-to-easily-create-screenshots-on-your-computer/"><u>Ultimate Tutorial: How to Easily Create Screenshots on Your Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-of-computer-components-with-tom-your-ultimate-hardware-guide/"><u>Unveiling the Secrets of Computer Components with Tom - Your Ultimate Hardware Guide</u></a></li>
 </ul></div>
 

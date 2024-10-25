@@ -1,7 +1,7 @@
 ---
 title: "1. Discover the Latest Upgrades: ChatGPT+ Integration with Google's Gemini, Offering New AI-Powered Conversations for Enhanced User Experience"
-date: 2024-09-19 10:14:32
-updated: 2024-09-20 10:12:49
+date: 2024-10-22T21:26:45.930Z
+updated: 2024-10-25T00:30:41.575Z
 tags:
   - google
 categories:
@@ -41,6 +41,13 @@ Google also shared that the integration of Imagen 3 into Gemini has built-in saf
 
 In the coming days, Google will also roll out the ability to generate images of people. However, early access versions will be available first to Gemini Advanced, Business, and Enterprise users in English. This feature has some limitations, including the generation of identifiable individuals and minors and violent, gory, or sexual scenes. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gems
 
 At Google I/O, Google announced [Gems](https://www.zdnet.com/article/3-ways-gemini-advanced-beats-other-ai-assistants-according-to-google/), which are customized versions of Gemini for tackling particular tasks. To set up a Gem, a user simply has to give it an instruction, name it, and use it when needed to perform a specific function. 
@@ -74,11 +81,29 @@ Creating custom assistants is a paid feature on both ChatGPT and Gemini. However
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-examining-youtubers-monthly-revenue-strategies-for-2024/"><u>[New] Examining YouTubers' Monthly Revenue Strategies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>[New] Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-ranked-ios-tools-to-experience-real-psp-games/"><u>[Updated] In 2024, Top-Ranked iOS Tools to Experience Real PSP Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-revolutionary-gaming-documentation-beyond-fbx-norms/"><u>2024 Approved Revolutionary Gaming Documentation Beyond FBX Norms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/4-ways-to-reset-your-password-in-windows-10/"><u>4 Ways to Reset Your Password in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accelerating-your-pc-a-comprehensive-guide-to-boosting-computer-speed/"><u>Accelerating Your PC: A Comprehensive Guide to Boosting Computer Speed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/backward-compatibility-techniques-running-older-apps-on-windows-1/"><u>Backward Compatibility Techniques: Running Older Apps on Windows 1</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-blueprint-learning-the-ropes-of-playing-fortnite-on-your-computer/"><u>Beginner's Blueprint: Learning the Ropes of Playing Fortnite on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-browsing-make-firefox-zoom-at-lightning-speed-with-these-easy-fixes/"><u>Boost Your Browsing: Make Firefox Zoom at Lightning Speed with These Easy Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-windows-1110-computers-speed-proven-solutions/"><u>Boost Your Windows 11/10 Computer's Speed: Proven Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-5-most-effective-vpn-applications-for-netflix-access-worldwide/"><u>Discover the 5 Most Effective VPN Applications for Netflix Access Worldwide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How do i add my signature to JPG</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-the-sims-4-wont-open-problem/"><u>Troubleshooting Steps: Resolving the 'Sims 4 Won't Open' Problem</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1725284635789-winx-dvd-digiarty/"><u>WinX DVDを活用するための包括的なガイド - Digiartyソフトウェア</u></a></li>
+</ul></div>
+

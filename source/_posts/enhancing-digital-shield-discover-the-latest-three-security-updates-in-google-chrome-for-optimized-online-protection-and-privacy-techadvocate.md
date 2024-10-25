@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Digital Shield: Discover the Latest Three Security Updates in Google Chrome for Optimized Online Protection & Privacy | TechAdvocate"
-date: 2024-09-17 17:47:14
-updated: 2024-09-20 11:46:18
+date: 2024-10-20T22:09:47.323Z
+updated: 2024-10-24T22:11:17.852Z
 tags:
   - google
 categories:
@@ -31,9 +31,35 @@ Safety Check will be able to revoke permissions from sites you no longer use, al
 
 Further, Safety Check will try to protect you against abusive notifications by automatically revoking permissions from sites considered deceptive by [Google's Safe Browsing service](https://www.zdnet.com/article/google-chrome-now-better-protects-you-against-risky-websites-and-weak-passwords/). With Chrome on a computer, Safety Check will also alert you to any extensions that might be a security risk and take you to the extensions page where you can remove them.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove website notifications
 
 Unwanted website notifications can not only be annoying but potentially hazardous, and Chrome will now make it easier to opt out of them. Now on Pixel phones and coming soon to other Android devices, a new "Unsubscribe" button will appear in the notifications drawer so you can quickly turn off notifications for a particular site.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Grant one-time website permissions
 
@@ -82,11 +108,31 @@ On an iPhone or iPad, open the App Store app and select your profile icon at the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-videogame-experience-record-on-steam/"><u>[Updated] Elevate Your Videogame Experience - Record on Steam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pixelpathway-pioneer-review/"><u>[Updated] PixelPathway Pioneer Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-step-by-step-creating-your-own-chat-signal-ios-and-android-edition/"><u>[Updated] Step-by-Step Creating Your Own Chat Signal - iOS & Android Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/boosting-your-gaming-footage-on-latest-windows-11-for-2024/"><u>Boosting Your Gaming Footage on Latest Windows 11 for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/die-besten-techniken-fur-das-transferieren-ihrer-daten-zur-raspberry-pi-eine-anleitung-mit-schritt-fur-schritt-anleitung/"><u>Die Besten Techniken Für Das Transferieren Ihrer Daten Zur Raspberry Pi: Eine Anleitung Mit Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a25-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A25 5G Phones with/without a PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-time-management-with-windows-11-alarm-features-a-simple-guide/"><u>Mastering Time Management with Windows 11 Alarm Features - A Simple Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/msvcr100dll-missing-or-not-found-on-windows-solved/"><u>MSVCR100.dll Missing or Not Found on Windows [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimize-sound-quality-on-windows-11-expert-tips-for-using-an-equalizer/"><u>Optimize Sound Quality on Windows 11: Expert Tips for Using an Equalizer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fix-total-refresh-of-your-acer-system-using-a-step-by-step-factory-reset/"><u>Quick Fix: Total Refresh of Your Acer System Using a Step-by-Step Factory Reset</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-bluetooth-speaker-and-display-connection-errors-in-windows-environments/"><u>Resolving Bluetooth Speaker and Display Connection Errors in Windows Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/run-apps-in-compatibility-mode-in-windows-11/"><u>Run Apps in Compatibility Mode in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-internet-with-top-us-based-vpns-offering-a-complimentary-trial-for-privacy-enthusiasts/"><u>Secure Your Internet with Top US-Based VPNs Offering a Complimentary Trial for Privacy Enthusiasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solution-for-when-windows-11-applets-fail-to-load-step-by-step-fixes/"><u>Solution for When Windows 11 Applets Fail to Load: Step-by-Step Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-eliminating-the-0xc0000098-error-in-windows-systems/"><u>Step-by-Step Guide: Eliminating the 0xC0000098 Error in Windows Systems</u></a></li>
+</ul></div>
+

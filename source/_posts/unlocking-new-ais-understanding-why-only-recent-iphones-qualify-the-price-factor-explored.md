@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New AIs: Understanding Why Only Recent iPhones Qualify - The Price Factor Explored"
-date: 2024-10-17T23:44:27.470Z
-updated: 2024-10-18T23:33:56.741Z
+date: 2024-10-23T08:04:39.683Z
+updated: 2024-10-25T03:22:10.595Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,16 +60,16 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -83,10 +83,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -131,18 +131,20 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-sharpen-your-vision-in-the-world-of-roblox/"><u>[New] 2024 Approved How to Sharpen Your Vision in the World of Roblox</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-distinguishing-between-youtube-content-control-and-creative-commons-flexibility/"><u>[Updated] Distinguishing Between YouTube Content Control and Creative Commons Flexibility</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-premier-top-youtube-views-monitor-for-content-success/"><u>[Updated] Premier Top YouTube Views Monitor for Content Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pc-playback-protocol-for-consoles-an-instructive-path/"><u>2024 Approved PC Playback Protocol for Consoles An Instructive Path</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-selection-the-top-15plus-vr-games-on-google-cardboard/"><u>2024 Approved Ultimate Selection The Top 15+ VR Games on Google Cardboard</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-livestream-audiovideo-creators-hub/"><u>In 2024, LiveStream Audio/Video Creators Hub</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tigating-the-financial-benefits-of-each-youtube-watcher/"><u>Investigating the Financial Benefits of Each YouTube Watcher</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pc-gaming-guide-mastering-the-pokemon-unite-experience/"><u>PC Gaming Guide: Mastering the Pokémon Unite Experience</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/savoring-a-year-of-learning-without-price/"><u>Savoring a Year of Learning without Price</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-8-superior-people-locator-websites-and-apps/"><u>The Ultimate List of 8 Superior People Locator Websites & Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-features-to-consider-when-buying-your-ideal-gaming-computer/"><u>Top Features to Consider When Buying Your Ideal Gaming Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tutorial-eliminating-mouse-acceleration-for-a-steady-pixel-response-on-your-mac/"><u>Tutorial: Eliminating Mouse Acceleration for a Steady Pixel Response on Your Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-cheapest-cloud-storage-service-for-mass-file-for-2024/"><u>[New] The Cheapest Cloud Storage Service for Mass File for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-guide-premium-free-video-conferencing-tools-for-phones/"><u>2024 Approved Ultimate Guide Premium-Free Video Conferencing Tools for Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/before-you-invest-in-a-used-laptop-keep-these-5-tips-in-mind/"><u>Before You Invest in a Used Laptop, Keep These 5 Tips in Mind</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-an-individual-own-and-operate-several-youtube-accounts-at-once/"><u>Can an Individual Own and Operate Several YouTube Accounts at Once?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722847515794-can-you-submerge-an-iphone-13-in-water-without-damage/"><u>Can You Submerge an iPhone 13 in Water Without Damage?</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dive-into-dialogue-chatgpt-joins-the-android-family/"><u>Dive Into Dialogue: ChatGPT Joins the Android Family</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-smartphone-photography-with-expert-advice-on-selfie-lights/"><u>Elevate Your Smartphone Photography with Expert Advice on Selfie Lights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-of-transport-the-elite-list-of-autonomous-vehicle-creators/"><u>Future of Transport: The Elite List of Autonomous Vehicle Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-activatingdeactivating-network-discovery-on-a-windows-10-computer/"><u>Guide to Activating/Deactivating Network Discovery on a Windows 10 Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-connectivity-hurdles-answering-phone-calls-with-a-samsung-galaxy-watch/"><u>Overcoming Connectivity Hurdles: Answering Phone Calls with a Samsung Galaxy Watch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-of-ai-assistance-from-chatgpt-for-attaining-your-career-aspirations/"><u>The Power of AI Assistance From ChatGPT for Attaining Your Career Aspirations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-90-by-drfone-android/"><u>Universal Unlock Pattern for Honor 90</u></a></li>
 </ul></div>
 

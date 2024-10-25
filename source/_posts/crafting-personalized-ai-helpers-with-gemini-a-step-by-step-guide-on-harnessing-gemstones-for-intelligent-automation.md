@@ -1,7 +1,7 @@
 ---
 title: "Crafting Personalized AI Helpers with Gemini: A Step-by-Step Guide on Harnessing Gemstones for Intelligent Automation"
-date: 2024-09-19 22:20:30
-updated: 2024-09-20 12:12:52
+date: 2024-10-17T17:42:00.081Z
+updated: 2024-10-24T18:51:50.541Z
 tags:
   - google
 categories:
@@ -23,6 +23,13 @@ Don't know how to code? No worries, you won't need to. You can start with either
 
 ## How to create custom AI assistants with Gemini Gems
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Sign up for a paid account
 
 To take advantage of Gems, you'll need one of the paid Gemini tiers -- [Gemini Advanced](https://gemini.google/advanced/), [Business](https://workspace.google.com/solutions/ai/), or [Enterprise](https://workspace.google.com/solutions/ai/). For one person, the Advanced option makes the most sense and is the least expensive. Otherwise, large organizations can check out the Business or Enterprise options.
@@ -33,11 +40,25 @@ To access Gemini Advanced, you need a [Google One AI Premium plan](https://one.g
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in with your paid account
 
 Once you have a paid subscription, sign in with your account at the [Google Gemini page](https://gemini.google.com/?utm%5Fsource=google&utm%5Fmedium=cpc&utm%5Fcampaign=2024enUS%5Fgemfeb&gad%5Fsource=1&gclid=CjwKCAjw%5F4S3BhAAEiwA%5F64YhvfuFfVDerLlJJ2NFgi10jLLsZgbcLI7rprffKrmohrMlqKiHMzzlxoCcW4QAvD%5FBwE). Here, you can switch between regular [Google Gemini](https://www.zdnet.com/article/how-to-use-gemini-formerly-google-bard-everything-you-should-know/) and [Gemini Advanced](https://www.zdnet.com/article/3-ways-gemini-advanced-beats-other-ai-assistants-according-to-google/).
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Access premade Gems through Gem manager
 
@@ -64,6 +85,13 @@ After selecting one of the premade Gems, you can choose one of the sample prompt
 When you are ready, you can also submit your own question or prompt and see how the Gem fares. Carry on the back-and-forth conversation until you are satisfied with the Gemini response. 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Create your own Gem
 
@@ -124,11 +152,29 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-savvy-instagram-usage-how-to-retrieve-free-filters-via-search/"><u>[New] 2024 Approved Savvy Instagram Usage How to Retrieve Free Filters via Search</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-discovering-the-advantages-of-multi-angle-recording-for-2024/"><u>[New] Discovering the Advantages of Multi-Angle Recording for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-the-magic-of-time-lapse-photography-on-samsung-gear/"><u>[New] Unleash the Magic of Time-Lapse Photography on Samsung Gear</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-enhance-tweet-management-the-most-effective-apps-for-tweets/"><u>[Updated] 2024 Approved Enhance Tweet Management The Most Effective Apps for Tweets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-startups-secret-weapon-kit-must-have-items-that-set-you-apart/"><u>[Updated] 2024 Approved The Startup's Secret Weapon Kit Must-Have Items That Set You Apart</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-the-official-samsung-unpacked-presentation-online-how/"><u>Accessing the Official Samsung Unpacked Presentation Online – How?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-cancel-and-retrieve-funds-for-steam-games-bought/"><u>How To Successfully Cancel and Retrieve Funds for Steam Games Bought</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leveraging-meta-ai-features-for-enhanced-instagram-presence/"><u>Leveraging Meta AI Features for Enhanced Instagram Presence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-ntldr-not-found-and-related-bugs-in-windows-systems/"><u>Overcoming NTLDR Not Found and Related Bugs in Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-to-downloading-your-samsung-m20-070fw-drivers/"><u>Quick & Easy Guide to Downloading Your Samsung M20 070FW Drivers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/resolved-how-to-fix-being-trapped-in-the-minecraft-launching-screen/"><u>Resolved: How to Fix Being Trapped in the Minecraft Launching Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-watch-7-revealed-find-out-your-costs-release-schedule-detailed-features-and-latest-developments/"><u>Samsung Galaxy Watch 7 Revealed: Find Out Your Costs, Release Schedule, Detailed Features, and Latest Developments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-when-windows-cant-find-d3dx925dll/"><u>The Ultimate Fix for When Windows Can't Find d3dx9_25.dll</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-no-cost-internet-fax-solutions/"><u>Top 7 No-Cost Internet Fax Solutions</u></a></li>
+</ul></div>
+

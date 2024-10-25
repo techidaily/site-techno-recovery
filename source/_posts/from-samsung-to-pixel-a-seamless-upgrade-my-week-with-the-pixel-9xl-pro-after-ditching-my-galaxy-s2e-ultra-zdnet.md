@@ -1,7 +1,7 @@
 ---
 title: "From Samsung to Pixel - A Seamless Upgrade: My Week with the Pixel 9XL Pro After Ditching My Galaxy S2e Ultra | ZDNet"
-date: 2024-09-18 15:40:23
-updated: 2024-09-20 10:53:47
+date: 2024-10-20T20:46:42.918Z
+updated: 2024-10-24T22:28:44.051Z
 tags:
   - google
 categories:
@@ -87,11 +87,25 @@ While I'm still testing every [new Pixel 9 AI feature](https://www.zdnet.com/art
 * **[Gemini Live](https://www.zdnet.com/article/you-can-access-googles-gemini-live-for-free-right-now-heres-how-and-why-youll-want-to/) (3/5)**: Like ChatGPT's voice feature, you can chat and ask questions to Gemini Live while it's running in the background. The AI will trip up at times and pause the session, but haptic feedback does help guide the flow of the conversation. Multimodality and synchronization with the [Pixel Buds Pro 2](https://www.zdnet.com/article/google-unveils-pixel-buds-pro-2-here-are-the-3-features-im-most-excited-about/) should improve the experience tremendously.
 * **[Call Notes](https://www.zdnet.com/article/this-simple-and-actually-useful-ai-tool-is-my-favorite-new-pixel-feature-its-in-ios-18-too/) (2/5)**: The reliability of the summarization feature is greatly affected by call quality, speaking pace, and whether there are any unique words in the conversation, such as foreign names and objects. In most cases, Gemini transcribed dates, places, and bits of important information inaccurately.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It's still too early to call the [Google Pixel 9 Pro XL](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HWL5WN%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf1c481a3-fb55-4b5e-a80b-6af904de42b9%7Cdtp&dtb=1) the [best Android phone](https://www.zdnet.com/article/best-android-phone/) this year, but it's certainly up there for consideration -- even with its AI blunders. While the new model is Google's most expensive non-foldable phone yet, the price bump is justified by improvements in aspects that traditionally held the Pixel line back, such as charging speed, performance, and build quality.
 
 With the reintroduction of an XL model this year, the smaller [Pixel 9 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HVLTYV%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf1c481a3-fb55-4b5e-a80b-6af904de42b9%7Cdtp&dtb=1) should appeal to users who want a more comfortable device without compromising on specs and camera hardware. And if both phones are out of your budget, but you want the core features, consider the cheaper [Pixel 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0D7HWJDQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf1c481a3-fb55-4b5e-a80b-6af904de42b9%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test phones
 
@@ -127,11 +141,25 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-the-art-of-transforming-social-media-videos-to-gifs/"><u>[New] In 2024, Mastering the Art of Transforming Social Media Videos to GIFs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-visionary-screens-leading-4k-monitors-for-media-professionals/"><u>[Updated] Visionary Screens Leading 4K Monitors for Media Professionals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-a-step-further-in-animation-innovative-techniques-using-movie-maker/"><u>2024 Approved A Step Further in Animation Innovative Techniques Using Movie Maker</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-optic-oasis-discover-the-top-10-lenses/"><u>2024 Approved Optic Oasis Discover the Top 10 Lenses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-of-our-favorite-free-language-learning-apps-of-2024/"><u>5 of Our Favorite Free Language Learning Apps of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722865466096-a-step-by-step-guide-to-configuring-parent-controls-on-discord/"><u>A Step-by-Step Guide to Configuring Parent Controls on Discord</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-g24-power-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola G24 Power Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immerse-yourself-in-sound-the-ultimate-selection-of-best-dolby-atmos-movies-at-home/"><u>Immerse Yourself in Sound: The Ultimate Selection of Best Dolby Atmos Movies at Home</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-8-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-to-dry-and-restore-your-wet-apple-mobile-device/"><u>Step-by-Step Process to Dry and Restore Your Wet Apple Mobile Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-face-forward-influential-beauty-guides-for-2024/"><u>The Face Forward Influential Beauty Guides for 2024</u></a></li>
+</ul></div>
+

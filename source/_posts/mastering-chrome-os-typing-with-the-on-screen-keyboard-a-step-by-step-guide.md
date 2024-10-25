@@ -1,7 +1,7 @@
 ---
 title: Mastering Chrome OS Typing with the On-Screen Keyboard - A Step-by-Step Guide
-date: 2024-09-19 13:10:38
-updated: 2024-09-20 11:59:13
+date: 2024-10-22T03:42:25.100Z
+updated: 2024-10-25T00:33:26.903Z
 tags:
   - google
 categories:
@@ -31,6 +31,13 @@ Let me show you how to not only enable the physical keyboard but also make it fl
 
 I'll be demonstrating on ChromeOS 106.0.5239.0, but this should work on older instances of the operating system.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enabling the virtual keyboard
 
 ### 1\. Open Settings
@@ -51,6 +58,13 @@ With Advanced expanded, click Accessibility and then click "Manage accessibility
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Enable the Virtual Keyboard
 
 Scroll down until you see "On-screen keyboard" (**Figure 3**). 
@@ -61,6 +75,13 @@ Image: Jack Wallen
 
 Click the on-off slider until it's in the on position and then close out the Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Opening the Virtual Keyboard
 
 With the Virtual Keyboard enabled, you should now see a keyboard icon on your shelf. Click that icon to open the virtual keyboard (**Figure 4**).
@@ -68,6 +89,13 @@ With the Virtual Keyboard enabled, you should now see a keyboard icon on your sh
 **Figure 4**: The Virtual Keyboard is open and ready to be used.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enabling the floating keyboard
 
@@ -108,11 +136,29 @@ And that's all there is to enabling and using the ChromeOS Virtual Keyboard. For
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[Updated] How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-free-easy-hd-download-of-fb-media-library/"><u>[Updated] In 2024, Free, Easy HD Download of FB Media Library</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-xs-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone XS Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beating-the-blues-with-hulu-a-user-friendly-guide-to-overcoming-rununk13-error/"><u>Beating the Blues with Hulu: A User-Friendly Guide to Overcoming RUNUNK13 Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-for-restoring-fn-key-functionality-on-dell-laptops/"><u>Comprehensive Solutions for Restoring Fn Key Functionality on Dell Laptops</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-12-pro-max-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 12 Pro Max without a computer?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chortle-chamber-free-funny-template-vaults/"><u>In 2024, Chortle Chamber Free Funny Template Vaults</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-cleaning-your-mechanical-keyboard-a-comprehensive-how-to/"><u>Mastering the Art of Cleaning Your Mechanical Keyboard - A Comprehensive How-To</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/minimizing-live-stream-delays-fixing-obs-studio-drops-for-2024/"><u>Minimizing Live Stream Delays - Fixing OBS Studio Drops for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-access-guide-linksys-default-passwords-revealed-s-summer-update/"><u>Secure Access Guide: Linksys Default Passwords Revealed 'S Summer Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-correcting-ntfs-boot-files-missing-issues-on-windows-pcs/"><u>Step-by-Step Tutorial: Correcting NTFS Boot Files Missing Issues on Windows PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-iphone-gps-navigation-apps/"><u>Top 5 Essential iPhone GPS Navigation Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-must-have-gps-navigation-apps-for-your-iphone/"><u>Top 5 Must-Have GPS Navigation Apps for Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/track-and-measure-methods-for-finding-sharers-of-your-facebook-posts/"><u>Track and Measure: Methods for Finding Sharers of Your Facebook Posts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-secret-to-captivating-videos-freeze-frames-made-easy/"><u>Updated 2024 Approved The Secret to Captivating Videos Freeze Frames Made Easy</u></a></li>
+</ul></div>
+

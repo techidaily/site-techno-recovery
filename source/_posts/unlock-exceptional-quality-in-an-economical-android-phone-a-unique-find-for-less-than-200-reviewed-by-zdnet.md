@@ -1,7 +1,7 @@
 ---
 title: Unlock Exceptional Quality in an Economical Android Phone - A Unique Find for Less Than $200 Reviewed by ZDNET
-date: 2024-09-19 20:24:41
-updated: 2024-09-20 11:40:26
+date: 2024-10-18T04:28:11.649Z
+updated: 2024-10-25T08:02:13.099Z
 tags:
   - google
 categories:
@@ -63,6 +63,13 @@ Matthew Miller/ZDNET
 
 I was very pleased to see AGM implement the fingerprint sensor in the right-side power button, as my thumb naturally rests there while holding the phone in my right hand. There is an additional button on the left side that you can customize to launch the temperature utility, turn on the flashlight, or launch the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are looking for an affordable rugged phone that has the latest version of Android and a big display, the [AGM X6 Phantom](https://www.aliexpress.com/item/1005007354515299.html) is a good option. The display isn't as brilliant as [the newest smartphones](https://www.zdnet.com/article/best-phone/) and the camera is limited, but battery life is great and it provides a basic Android experience.
@@ -90,11 +97,29 @@ It is not easy to stand out in a world of glass slabs, but the AGM X6 Phantom le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-rhythmic-reflections-in-photo-cinema-for-2024/"><u>[New] Rhythmic Reflections in Photo Cinema for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-transforming-your-living-space-into-a-podcast-studio-for-2024/"><u>[New] Transforming Your Living Space Into a Podcast Studio for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-guide-to-compositing-using-blending-modes/"><u>[Updated] 2024 Approved Essential Guide to Compositing Using Blending Modes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-instant-podcast-live-simple-strategies/"><u>2024 Approved Instant Podcast Live Simple Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-showdown-in-depth-analysis-of-chatgpt-and-microsofts-bing-bot-side-by-side/"><u>Decoding the Showdown: In-Depth Analysis of ChatGPT and Microsoft's Bing Bot, Side by Side</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-dolby-atmos-movies-perfect-for-your-living-room-cinema/"><u>Discover the Ultimate List of Dolby Atmos Movies Perfect for Your Living Room Cinema</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-newest-drivers-for-nvidias-mx150-card-under-windows/"><u>Download & Install the Newest Drivers for Nvidia's MX150 Card Under Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-70-lite-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor 70 Lite 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/kernel-data-paging-issues-diagnosis-and-repair-techniques/"><u>Kernel Data Paging Issues – Diagnosis and Repair Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/masterclass-in-data-migration-installing-a-pristine-copy-of-windows-10-onto-your-latest-drive/"><u>Masterclass in Data Migration: Installing a Pristine Copy of Windows 10 Onto Your Latest Drive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/migrating-chatgpt-dialogues-secure-methods-for-moving-conversation-history/"><u>Migrating ChatGPT Dialogues: Secure Methods for Moving Conversation History</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-troubleshooting-steps-for-fixing-skype-connection-issues/"><u>Top 10 Troubleshooting Steps for Fixing Skype Connection Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-hashtag-conversations/"><u>Top 4 Twitter Apps for Easily Tracking and Engaging in #Hashtag Conversations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-effective-steps-for-sanitizing-your-television-remote/"><u>Ultimate Guide: Effective Steps for Sanitizing Your Television Remote</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-t-mobiles-nationwide-roaming-strategy/"><u>Unveiling the Secrets of T-Mobile's Nationwide Roaming Strategy</u></a></li>
+</ul></div>
+

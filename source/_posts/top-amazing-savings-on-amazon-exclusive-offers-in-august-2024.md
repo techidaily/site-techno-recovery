@@ -1,7 +1,7 @@
 ---
 title: Top Amazing Savings on Amazon - Exclusive Offers in August 2024
-date: 2024-10-16T03:27:22.068Z
-updated: 2024-10-19T04:42:58.487Z
+date: 2024-10-18T01:26:15.177Z
+updated: 2024-10-25T01:42:12.454Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ Jason Hiner/ZDNET
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc529e53-5fd1-4380-b5f7-3af12670f703%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc529e53-5fd1-4380-b5f7-3af12670f703%7Cdtp&dtb=1) for $1,300 (save $500)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Amazon tech deals
 
 Jason Hiner/ZDNET
@@ -49,6 +56,19 @@ Jason Hiner/ZDNET
 * [Beats Studio Pro Headphones + AppleCare+ (2 Years)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CMZD8688%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc529e53-5fd1-4380-b5f7-3af12670f703%7Cdtp&dtb=1) for $204 (save $175)
 * [Bose QuietComfort Wireless Headphones](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-QuietComfort-Cancelling-Headphones-Bluetooth%2Fdp%2FB0D4Z9BZV2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc529e53-5fd1-4380-b5f7-3af12670f703%7Cdtp&dtb=1) for $249 (save $100)
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc529e53-5fd1-4380-b5f7-3af12670f703%7Cdtp&dtb=1) for $50 (save $50)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Amazon TV deals
 
@@ -73,13 +93,6 @@ Maria Diaz/ZDNET
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc529e53-5fd1-4380-b5f7-3af12670f703%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc529e53-5fd1-4380-b5f7-3af12670f703%7Cdtp&dtb=1) for $320 (save $280)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon home deals
 
 Maria Diaz/ZDNET
@@ -93,13 +106,26 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc529e53-5fd1-4380-b5f7-3af12670f703%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc529e53-5fd1-4380-b5f7-3af12670f703%7Cdtp&dtb=1) for $198 (save $102)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
@@ -108,29 +134,9 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -180,20 +186,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-enhance-the-listener-experience-advanced-techniques-for-audio-editing/"><u>[New] Enhance the Listener Experience Advanced Techniques for Audio Editing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-quintessential-7-first-person-shooters-for-2024/"><u>[Updated] Quintessential 7 First-Person Shooters for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-business-communication-essentials-free-slide-show-tools/"><u>2024 Approved Business Communication Essentials – Free Slide Show Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmakers-choice-for-steady-videos/"><u>2024 Approved Filmmaker's Choice for Steady Videos</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-lgbtq-entertainment-offerings-on-netflix-in-june-july-2024/"><u>Discover the Best LGBTQ Entertainment Offerings on Netflix in June-July 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-instructions-accessing-live-fm-broadcasts-from-your-iphone-or-android/"><u>Easy Instructions: Accessing Live FM Broadcasts From Your iPhone or Android</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-optimal-gaming-experience-with-updated-geforce-rtx-1660-super-graphics-card-drivers-download-now/"><u>Get Optimal Gaming Experience with Updated GeForce RTX 1660 SUPER Graphics Card Drivers – Download Now</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/learn-how-to-activate-and-use-espnplus-features-on-lgs-smart-tv-platform/"><u>Learn How to Activate and Use ESPN+ Features on LG's Smart TV Platform</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-asus-rog-phone-7-ultimate-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Asus ROG Phone 7 Ultimate? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-virality-the-ultimate-10-techniques-for-instagram-success/"><u>Mastering the Art of Virality: The Ultimate 10 Techniques for Instagram Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-mingwm10dll-not-detected-issues-effective-solutions/"><u>Overcoming 'mingwm10.dll Not Detected' Issues: Effective Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/professional-tech-resume-design-ideas-and-resources-curated-selections-from-zdnet/"><u>Professional Tech Resume Design Ideas and Resources - Curated Selections From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-to-the-dbghelpdll-not-found-message/"><u>Step-by-Step Solution to the 'dbghelp.dll Not Found' Message</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-iphone-camera-mastery-x8-series-essential-tools/"><u>[New] 2024 Approved IPhone Camera Mastery X/8 Series Essential Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-climbing-the-popularity-ladder-with-staff-chosen-videos-at-vimeo-for-2024/"><u>[New] Climbing the Popularity Ladder with Staff-Chosen Videos at Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-optimize-instagram-posts-with-smart-hashtag-selection-tactics/"><u>[New] Optimize Instagram Posts with Smart Hashtag Selection Tactics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-landscapes-designing-visuals-that-dazzle-viewers/"><u>2024 Approved Luminous Landscapes Designing Visuals that Dazzle Viewers</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-pro-at-mobile-gaming-learn-button-controls/"><u>Become a Pro at Mobile Gaming: Learn Button Controls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-the-best-of-wearables-apple-watch-series-9-and-fitbit-charge-6/"><u>Comparing the Best of Wearables: Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-cinema-from-home-stream-blockbusters-and-originals-on-crackle-free-of-cost/"><u>Enjoy Cinema From Home: Stream Blockbusters and Originals on Crackle - Free of Cost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphones-and-androids-face-off-determining-the-perfect-fit-for-your-needs/"><u>IPhones and Androids Face-Off: Determining the Perfect Fit for Your Needs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-lightroom-crafting-breathtaking-hdr-photos-for-2024/"><u>Mastering Lightroom Crafting Breathtaking HDR Photos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-error-code-0x80004005-expert-tips-on-finding-a-solution/"><u>Navigating Through Error Code 0X80004005: Expert Tips on Finding a Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-overcoming-audio-glitches-in-powerpoint-slideshows/"><u>Quick Fixes: Overcoming Audio Glitches in PowerPoint Slideshows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722874158338-the-future-of-technology-samsungs-2er-2025-launch-insider-news-rumored-gadgets-and-reveals/"><u>The Future of Technology: Samsung's 2Er 2025 Launch - Insider News, Rumored Gadgets, and Reveals!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722855687556-the-ultimate-tech-guide-smartphones-computers-and-ebooks-unveiled/"><u>The Ultimate Tech Guide: Smartphones, Computers and eBooks Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-choice-of-small-form-factor-gaming-pcs/"><u>Top Choice of Small Form Factor Gaming PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-infamous-google-chrome-black-screen-tips-and-solutions/"><u>Troubleshooting the Infamous Google Chrome Black Screen: Tips & Solutions</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-7-best-real-time-video-translation-apps/"><u>Updated 7 Best Real Time Video Translation Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-when-you-cant-find-d3dx92n26dll-error-solutions-unveiled/"><u>What to Do When You Can't Find d3dx9_2n_26.dll: Error Solutions Unveiled</u></a></li>
 </ul></div>
 

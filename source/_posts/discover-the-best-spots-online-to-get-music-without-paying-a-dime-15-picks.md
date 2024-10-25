@@ -1,7 +1,7 @@
 ---
 title: "Discover the Best Spots Online to Get Music Without Paying a Dime: 15 Picks"
-date: 2024-10-15T17:48:19.078Z
-updated: 2024-10-18T16:54:09.872Z
+date: 2024-10-18T19:37:53.016Z
+updated: 2024-10-24T16:25:34.669Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the Best Spots Online to Get Music Without Paying a Dime: 15 Picks"
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -63,18 +56,18 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -87,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -96,19 +96,6 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -133,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -146,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,17 +170,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-streaming-and-saving-games-on-xbox-one/"><u>[New] 2024 Approved Streaming and Saving Games on Xbox One</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1-troubleshooting-xavc-s-footage-a-guide-to-successful-import-into-davinci-resolve/"><u>1. Troubleshooting XAVC-S Footage: A Guide to Successful Import Into Davinci Resolve</u></a></li>
-<li><a href="https://fox-http.techidaily.com/capturing-essence-photos-meet-music-videos-for-2024/"><u>Capturing Essence Photos Meet Music Videos for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-install-razer-mouse-drivers-on-your-pc/"><u>Efficiently Install Razer Mouse Drivers on Your PC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-convert-big-sized-edb-data-sets-from-various-sources-including-sql-nosql-etc-for-use-in-pst-format-seamlessly/"><u>How to Convert Big Sized EDB Data Sets From Various Sources Including SQL, NoSQL, Etc., For Use in PST Format Seamlessly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-your-way-through-social-media-networks-with-easy-expandcollapse-options-for-facebook-linkedin-and-youtube/"><u>Navigate Your Way Through Social Media Networks with Easy Expand/Collapse Options for Facebook, LinkedIn & YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/plan-your-harry-potter-film-journey-from-start-to-finish/"><u>Plan Your Harry Potter Film Journey From Start to Finish</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solution-guide-what-to-do-when-you-encounter-a-bootmgr-error-on-your-pc/"><u>Solution Guide: What To Do When You Encounter a BOOTMGR Error on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-latency-issue-a-step-by-step-guide-to-eliminating-chromecast-audio-lag/"><u>Solving the Latency Issue: A Step-by-Step Guide to Eliminating Chromecast Audio Lag</u></a></li>
-<li><a href="https://driver-download.techidaily.com/spect-imaging-assesses-cerebral-blood-flow-and-is-valuable-for-diagnosing-strokes-and-other-vascular-disorders/"><u>SPECT Imaging Assesses Cerebral Blood Flow and Is Valuable for Diagnosing Strokes and Other Vascular Disorders.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-for-stadia-connection-issues-with-your-headset/"><u>Step-by-Step Fixes for Stadia Connection Issues with Your Headset</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-and-correcting-the-dark-screen-glitch-on-windows-11-systems/"><u>Understanding & Correcting the Dark Screen Glitch on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exciting-vlog-subjects-daily-selection/"><u>[New] 2024 Approved Exciting Vlog Subjects Daily Selection</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-inside-the-earnings-loop-how-you-benefit-from-your-channel/"><u>[New] In 2024, Inside the Earnings Loop How You Benefit From Your Channel</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-pristine-story-conception-in-eight-genre-divisions/"><u>[New] In 2024, Pristine Story Conception in Eight Genre Divisions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-players-pick-of-terraria-extensions-for-2024/"><u>[New] Premium Player's Pick of Terraria Extensions for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-optimizing-final-viewers-interactions-on-yt/"><u>[Updated] 2024 Approved Optimizing Final Viewers' Interactions on YT</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-make-your-solitary-voice-resonate-for-2024/"><u>[Updated] How To Make Your Solitary Voice Resonate for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-subscription-options-exploring-the-key-differences-of-hulu-and-huluplus/"><u>Comparing Subscription Options: Exploring the Key Differences of Hulu and Hulu+</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-for-disabling-governmental-alert-systems-on-iphones-effectively/"><u>Guide for Disabling Governmental Alert Systems on iPhones Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-captivating-unboxing-on-ig/"><u>In 2024, The Insider's Guide to Captivating Unboxing on IG</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-method-acquiring-trustedinstaller-authorization-on-windows-10-pcs/"><u>Master the Method: Acquiring TrustedInstaller Authorization on Windows 10 PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-present-obstacles-in-streaming-netflix-titles-smoothly/"><u>Overcoming Present Obstacles in Streaming Netflix Titles Smoothly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionizing-energy-companies-finance-with-abbyys-advanced-invoice-processing-technology-for-improved-profitability-and-management/"><u>Revolutionizing Energy Companies’ Finance With ABBYY’s Advanced Invoice Processing Technology for Improved Profitability and Management</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-restarting-your-samsung-soundbar-easy-steps/"><u>Ultimate Guide to Restarting Your Samsung Soundbar – Easy Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-7-proven-methods-to-accelerate-your-computer/"><u>Ultimate Guide: 7 Proven Methods to Accelerate Your Computer</u></a></li>
 </ul></div>
 

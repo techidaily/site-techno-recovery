@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Photography: Discover How the Latest AI Editing Tools in Google Pixel 9 Enhance Images Like Never Before - Insights From ZDNet"
-date: 2024-09-19 21:54:44
-updated: 2024-09-20 10:49:51
+date: 2024-10-21T05:34:32.803Z
+updated: 2024-10-24T23:57:57.310Z
 tags:
   - google
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reimagine
 
 Kerry Wan/ZDNET
@@ -51,6 +58,13 @@ In the era of [generative AI](https://www.zdnet.com/article/what-is-generative-a
 
 All you have to do is tap the area you want to change and type what you want to see. Some sample prompts could include "add sunset" or "make the grass greener."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Updated Magic Editor 
 
 Magic Editor has new capabilities powered by AI. Now, it can reframe your photo automatically, suggest the best crop, and even expand your image to get more out of your shot. This particular feature is useful when a picture you took has potential, but the framing was less than ideal. 
@@ -58,6 +72,13 @@ Magic Editor has new capabilities powered by AI. Now, it can reframe your photo 
 **Also:** [**Google just announced the new Pixel Buds. Here are the 3 features I'm most excited about**](https://www.zdnet.com/article/google-just-announced-the-new-pixel-buds-here-are-the-3-features-im-most-excited-about/)
 
 This adds to the already extensive suite of editing tools available in Magic Editor, such as the ability to remove and move objects, edit backgrounds, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Pixel 9 Pro updated Video Boost
 
@@ -84,11 +105,27 @@ The Pixel 9 Pro has an updated Video Boost feature, allowing you to upgrade your
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-solved-muted-youtube-shorts-appearance/"><u>[New] In 2024, Solved Muted YouTube Shorts Appearance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-art-of-shooting-and-editing-slow-motion-content-for-instagram/"><u>2024 Approved The Art of Shooting and Editing Slow Motion Content for Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-create-awesome-instagram-videos-for-2024/"><u>How to Create Awesome Instagram Videos for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-5-prime-gif-to-video-conversion-services-no-download-required/"><u>In 2024, 5 Prime GIF to Video Conversion Services, No Download Required</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inside-scoop-on-apples-new-lineup-the-exclusive-look-at-iphone-16-series-launch-rumors-and-specs/"><u>Inside Scoop on Apple's New Lineup: The Exclusive Look at iPhone 16 Series Launch Rumors and Specs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-the-challenge-fixing-errors-when-d3dx927dll-is-missing-or-unavailable/"><u>Overcoming the Challenge: Fixing Errors When d3dx9_27.dll Is Missing or Unavailable</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-msodll-file-not-located-issues-on-your-computer/"><u>Resolving 'Mso.dll File Not Located' Issues on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-mfc42dll-file-not-foundmissing-issue/"><u>Resolving the mfc42.dll File Not Found/Missing Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-classroom-gadgets-discover-the-nine-key-tech-products-students-cant-live-without/"><u>Smart Classroom Gadgets: Discover the Nine Key Tech Products Students Can't Live Without</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-11-websites-for-price-conscious-gamers-to-buy-games/"><u>Top 11 Websites for Price-Conscious Gamers to Buy Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-visual-content-on-facebook-the-ultimate-search-technique/"><u>Unlocking Visual Content on Facebook: The Ultimate Search Technique</u></a></li>
+</ul></div>
+

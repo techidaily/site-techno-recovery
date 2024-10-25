@@ -1,7 +1,7 @@
 ---
 title: "The Battle of Smartphone Cameras: Pixel N Pro XL versus iPhone N Pro Surprises with Stunning Victory"
-date: 2024-09-18 23:52:18
-updated: 2024-09-20 10:51:52
+date: 2024-10-19T17:10:22.253Z
+updated: 2024-10-25T05:55:20.864Z
 tags:
   - google
 categories:
@@ -71,6 +71,13 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 
 I would prefer the iPhone shot for this particular image but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A clear winner in night time
 
 1x indoor with artificial lights
@@ -97,6 +104,13 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pixel 9 Pro XL gets good at selfies
 
 Zoomed out selfies
@@ -106,6 +120,13 @@ Prakhar Khanna/ZDNET
 I like the selfie shooter on the iPhone 15 Pro and have found it better than Android phones. But it tends to blow out highlights sometimes. I didn't find that to be an issue on the Pixel 9 Pro. The above two selfies were taken in zoomed-out mode to check for the edge distortion (none) and FoV. 
 
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
 
@@ -140,11 +161,31 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-crafty-impostors-exposed-spotting-fabricated-followers-for-2024/"><u>[New] Crafty Impostors Exposed Spotting Fabricated Followers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-future-unfolds-analyzing-the-shift-from-m1-pro-to-m1-max/"><u>[New] In 2024, The Future Unfolds Analyzing The Shift From M1 Pro To M1 Max</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-inside-look-top-picks-for-live-webcam-capture-for-2024/"><u>[New] Inside Look Top Picks for Live WebCam Capture for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-ray-tracing-in-computer-graphics-and-rendering/"><u>Demystifying Ray Tracing in Computer Graphics and Rendering</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-resolve-computer-display-coloring-issues/"><u>Effective Techniques to Resolve Computer Display Coloring Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/electric-cars-and-extreme-weather-a-functional-analysis/"><u>Electric Cars and Extreme Weather - A Functional Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-v30-lite-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo V30 Lite 5G FRP Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-tricking-your-smartphones-gps-tracker-a-step-by-step-approach/"><u>Guide: Tricking Your Smartphone's GPS Tracker – A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/home-cinematic-excellence-with-5-quick-tips/"><u>Home Cinematic Excellence with 5 Quick Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-train-your-dragon-series-the-perfect-movie-watching-order-revealed/"><u>How to Train Your Dragon Series: The Perfect Movie-Watching Order Revealed!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-blaze-2-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Blaze 2 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/livegaze-app-reviews-and-ratings/"><u>LiveGaze App Reviews & Ratings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-productivity-the-essential-trick-of-running-two-windows-simultaneously-on-macbook-air/"><u>Maximize Productivity: The Essential Trick of Running Two Windows Simultaneously on MacBook Air</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-speaker-levels-in-windows-11-essential-tips-and-tricks/"><u>Maximizing Speaker Levels in Windows 11: Essential Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-common-keyboard-problems-a-comprehensive-guide-to-fixing-unresponsive-keys/"><u>Overcoming Common Keyboard Problems: A Comprehensive Guide to Fixing Unresponsive Keys</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-big-on-your-school-budget-the-ultimate-tips-for-landing-dells-student-discount-rates/"><u>Score Big on Your School Budget: The Ultimate Tips for Landing Dell's Student Discount Rates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-unresponsive-headset-mics-step-by-step-repair/"><u>Solving Common Issues with Unresponsive Headset Mics – Step by Step Repair</u></a></li>
+</ul></div>
+

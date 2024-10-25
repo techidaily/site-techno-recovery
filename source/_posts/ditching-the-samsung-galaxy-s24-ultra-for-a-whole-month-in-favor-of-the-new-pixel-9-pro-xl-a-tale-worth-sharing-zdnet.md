@@ -1,7 +1,7 @@
 ---
 title: Ditching the Samsung Galaxy S24 Ultra for a Whole Month in Favor of the New Pixel 지대 9 Pro XL - A Tale Worth Sharing | ZDNET
-date: 2024-09-19 21:24:15
-updated: 2024-09-20 11:29:20
+date: 2024-10-22T06:55:32.765Z
+updated: 2024-10-25T00:28:35.860Z
 tags:
   - google
 categories:
@@ -89,11 +89,25 @@ While I'm still testing every [new Pixel 9 AI feature](https://www.zdnet.com/art
 * **[Gemini Live](https://www.zdnet.com/article/you-can-access-googles-gemini-live-for-free-right-now-heres-how-and-why-youll-want-to/) (4/5)**: Like ChatGPT's voice feature, you can chat and ask questions to Gemini Live while it's running in the background. Since its first release, Gemini Live has worked much more naturally, with fewer hiccups and dropped voice inputs. It helps to have haptic feedback that guides the flow of the conversation. Multimodality and synchronization with the [Pixel Buds Pro 2](https://www.zdnet.com/article/google-unveils-pixel-buds-pro-2-here-are-the-3-features-im-most-excited-about/) should improve the experience even more.
 * **[Call Notes](https://www.zdnet.com/article/this-simple-and-actually-useful-ai-tool-is-my-favorite-new-pixel-feature-its-in-ios-18-too/) (2/5)**: The reliability of the summarization feature is greatly affected by call quality, speaking pace, and whether there are any unique words in the conversation, such as foreign names and objects. In most cases, Gemini transcribed dates, places, and bits of important information inaccurately.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Google Pixel 9 Pro XL](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HWL5WN%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf0d0d770-dff3-443e-af95-c4df95680f32%7Cdtp&dtb=1) is a contender for [best Android phone](https://www.zdnet.com/article/best-android-phone/) this year, even if you don't plan to use its on-device AI features. While the new model is Google's most expensive phone (barring foldables) yet, the price bump is justified by improvements in aspects that traditionally held the Pixel line back, such as charging speed, performance, and build quality.
 
 With the reintroduction of an XL model this year, the smaller [Pixel 9 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HVLTYV%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf0d0d770-dff3-443e-af95-c4df95680f32%7Cdtp&dtb=1) should appeal to users who want a more comfortable device without compromising on specs and camera hardware. And if both phones are out of your budget, but you want the core features, consider the cheaper [Pixel 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0D7HWJDQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf0d0d770-dff3-443e-af95-c4df95680f32%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test phones
 
@@ -129,11 +143,30 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-sparkle-and-shine-tips-to-preserve-your-snapstreak-for-2024/"><u>[New] Sparkle and Shine Tips to Preserve Your Snapstreak for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-this-years-breakthrough-in-vr-gaming-technology-for-2024/"><u>[New] This Year's Breakthrough in VR Gaming Technology for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-screen-capture-mastery-on-mac-top-10-apps-reviewed-and-rated/"><u>[Updated] In 2024, Screen Capture Mastery on Mac Top 10 Apps Reviewed & Rated</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/adapting-to-the-elements-do-electric-vehicles-thrive-in-intense-heat-or-frigid-conditions/"><u>Adapting to the Elements: Do Electric Vehicles Thrive in Intense Heat or Frigid Conditions?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-sonys-virtual-reality-offering-projected-launch-schedule-price-predictions-and-comprehve-specifications/"><u>Exploring Sony's Virtual Reality Offering: Projected Launch Schedule, Price Predictions & Comprehve Specifications</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-speaker-driver-software-downloads-compatible-with-windows-10-7-and-8/"><u>Free Logitech Speaker Driver Software Downloads Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/green-settings-in-cinematic-production-for-2024/"><u>Green Settings in Cinematic Production for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-optimize-your-windows-11-pc-for-maximum-efficiency/"><u>How to Optimize Your Windows 11 PC for Maximum Efficiency</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-power-of-pip-on-modern-edge-browser/"><u>In 2024, Explore the Power of PIP on Modern Edge Browser</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insightful-strategies-for-monitoring-an-individuals-place-on-iphone-devices/"><u>Insightful Strategies for Monitoring an Individual's Place on iPhone Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instructions-for-disabling-the-ai-writing-assistant-on-your-windows-11-pc/"><u>Instructions for Disabling the AI Writing Assistant on Your Windows 11 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-changing-locale-preferences-on-your-iphone/"><u>Step-by-Step Tutorial: Changing Locale Preferences on Your iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-iphone-virtual-reality-games-for-next-level-play/"><u>Top 10 IPhone Virtual Reality Games for Next Level Play</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-methods-for-capturing-screenshots-on-windows-11/"><u>Top 4 Methods for Capturing Screenshots on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/vsx-screen-grabber-insight-detailed-overview/"><u>VSX Screen Grabber Insight Detailed Overview</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity with Gmail's Quick Text Expansion: Avoid Errors and Spare Yourself Hours of Writing | TechRadar"
-date: 2024-09-19 15:20:30
-updated: 2024-09-20 11:23:18
+date: 2024-10-23T04:13:43.689Z
+updated: 2024-10-25T06:30:32.320Z
 tags:
   - google
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **What you'll need:** The only things you'll need are a valid Gmail account and the Vault addon. You can access your Vault (and the Snippets contained within) from either the browser or mobile version of Gmail. I will demonstrate with the web version (as that's what I use the most).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Installing the Vault add-on
 
 The first thing to do is install the Vault add-on for Gmail. To do this, open your web browser, point it to the [Vault addon page](https://workspace.google.com/marketplace/app/vault/740264277609), and click Install. Follow the prompts to complete the installation. Once the installation is complete, point your web browser to [Gmail](https://mail.google.com/mail/u/0/). Once Vault is installed (and Gmail is open), you're ready to go.
@@ -53,6 +60,19 @@ The Gmail compose window should now include the Vault icon.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Snippet editor
 
 In the resulting window, click New Snippet at the bottom left corner.
@@ -60,6 +80,13 @@ In the resulting window, click New Snippet at the bottom left corner.
 You can add as many Snippets as needed.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Create your first Snippet
 
@@ -78,6 +105,13 @@ When you need to use the new Snippet, all you have to do is open the Gmail Compo
 A quick click of Insert and your Snippet is added to your email.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A possible word of warning
 
@@ -110,11 +144,26 @@ If used wisely, Vault and Snippets can really save you time and typing in Gmail.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ideal-mac-video-logic-tool/"><u>[New] 2024 Approved Ideal Mac Video Logic Tool</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-identifying-the-most-fitting-vimeo-membership-level/"><u>[New] 2024 Approved Identifying the Most Fitting Vimeo Membership Level</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-revolutionizing-operations-with-virtual-engineering/"><u>[New] Revolutionizing Operations with Virtual Engineering</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-harnessing-skills-a-tailored-approach-to-graphic-careers/"><u>[Updated] In 2024, Harnessing Skills A Tailored Approach to Graphic Careers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-right-ipad-for-your-child-heres-our-picks-for-best-of-2022-zdnet/"><u>Choosing the Right iPad for Your Child? Here's Our Picks for Best of 2022! (ZDNET)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-rich-communication-services-rcs-in-texting-technology/"><u>Demystifying Rich Communication Services (RCS) in Texting Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-configure-your-apple-watch-with-gmail-access/"><u>Easy Steps to Configure Your Apple Watch with Gmail Access</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebooks-2023-video-strategy-emphasizing-conciseness-and-engagement-for-2024/"><u>Facebook's 2023 Video Strategy Emphasizing Conciseness and Engagement for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-silicon-to-paper-trails-the-intriguing-mix-of-smartphones-laptops-and-books-awaits-you/"><u>From Silicon to Paper Trails: The Intriguing Mix of Smartphones, Laptops & Books Awaits You</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-13-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 13 in the Best Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>In 2024, The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-platformers-top-six-unmissable-super-mario-games-on-computers/"><u>Mastering Platformers: Top Six Unmissable Super Mario Games on Computers</u></a></li>
+</ul></div>
+

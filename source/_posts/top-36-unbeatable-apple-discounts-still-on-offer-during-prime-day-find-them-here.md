@@ -1,7 +1,7 @@
 ---
 title: Top 36 Unbeatable Apple Discounts Still on Offer During Prime Day - Find Them Here!
-date: 2024-10-13T11:03:08.624Z
-updated: 2024-10-18T19:48:31.912Z
+date: 2024-10-20T23:25:04.462Z
+updated: 2024-10-24T23:37:58.860Z
 tags:
   - apple
 categories:
@@ -76,10 +76,16 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day Chromebook deals
@@ -98,13 +104,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -114,10 +113,10 @@ HPZDNET
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
@@ -126,13 +125,6 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -143,13 +135,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -157,6 +142,13 @@ Kyle Kucharski/ZDNET
 * [ASUS ROG Strix G16 for $1,289 (save $110)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-ROG-Strix-Gaming-Laptop%2Fdp%2FB0CRDCXRK2%2Fref%3Dsr%5F1%5F16%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): If you're looking for a deal on a high-tier gaming laptop, 2024's 16-inch ROG model is a beast with an NVIDIA GeForce RTX 4060 graphics card and Intel Core i7 processor for just $1,099.
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -178,9 +170,23 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -245,22 +251,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-guide-screen-capture-on-windows-8-devices/"><u>[New] 2024 Approved Expert Guide Screen Capture on Windows 8 Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-innovation-in-motion-youtube-angle-changes/"><u>[New] Innovation in Motion Youtube Angle Changes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-no-cost-endless-chuckles-the-meme-makers-manual/"><u>[New] No Cost, Endless Chuckles The Meme Makers' Manual</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-master-quick-red-eye-correction-in-iphone-photos-for-free/"><u>[Updated] In 2024, Master Quick Red-Eye Correction in iPhone Photos for FREE</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-voiceover-vitality-energizing-your-powerpoint-presentations/"><u>[Updated] Voiceover Vitality Energizing Your PowerPoint Presentations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-stuttering-solution-a-comprehensive-troubleshooter-guide/"><u>Call of Duty: Vanguard Stuttering Solution – A Comprehensive Troubleshooter Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/does-poor-video-quality-mean-its-time-to-upgrade-from-zoom-exploring-causes/"><u>Does Poor Video Quality Mean It's Time To Upgrade From Zoom? Exploring Causes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-setup-tutorial-broadcasting-apple-tv-plus-programs-via-google-chromecast/"><u>Easy Setup Tutorial: Broadcasting Apple TV Plus Programs via Google Chromecast</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-insights-streamlining-your-searches-with-google-gemini/"><u>Expert Insights: Streamlining Your Searches with Google Gemini</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-showdown-exploring-the-advantages-of-chatgpt-over-bing-chat/"><u>Generative AI Showdown: Exploring the Advantages of ChatGPT over Bing Chat</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-macos-efficiency-a-step-by-step-tutorial-on-setting-up-and-leveraging-hot-corners-zdnet/"><u>Mastering macOS Efficiency: A Step-by-Step Tutorial on Setting Up and Leveraging Hot Corners | ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-fix-installing-and-keeping-your-intel-hd-graphics-5500-driver-current/"><u>Quick Fix: Installing and Keeping Your Intel HD Graphics 5500 Driver Current</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-repairing-lameencdll-dll-errors-in-audacitys-lame-mp3-converter/"><u>Step-by-Step Strategies for Repairing lame_enc.dll DLL Errors in Audacity’s Lame MP3 Converter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-missing-d3dx9-30dll-steps-to-success/"><u>The Ultimate Fix for Missing D3dx9_ 30.dll: Steps to Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-fixing-common-issues-with-wireless-network-adapters-and-access-points/"><u>Ultimate Guide: Fixing Common Issues with Wireless Network Adapters and Access Points</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-to-enhance-camera-functions-on-ios-devices/"><u>Ultimate Tips to Enhance Camera Functions on iOS Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-is-output-impedance/"><u>What Is Output Impedance?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-godslayer-chronicles-ragnarok-dawn-for-2024/"><u>[New] Godslayer Chronicles Ragnarok Dawn for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-art-of-video-blending-using-modes-mastery/"><u>[Updated] In 2024, The Art of Video Blending Using Modes Mastery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/are-wi-fi-mesh-networks-worth-the-investment/"><u>Are Wi-Fi Mesh Networks Worth the Investment?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-finest-selection-of-mobile-offline-translation-apps/"><u>Discover the Finest Selection of Mobile Offline Translation Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-new-era-of-entertainment-19-exciting-additions-to-tcls-q-and-s-series-of-high-tech-smart-tvs/"><u>Discover the New Era of Entertainment - 19 Exciting Additions to TCL's Q and S Series of High-Tech Smart TVs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-for-changing-the-color-of-your-folders-in-macos/"><u>Easy Methods for Changing the Color of Your Folders in macOS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-v30t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme V30T Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-se-2020-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone SE (2020) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722892514236-how-to-turn-off-emergency-and-amber-alerts-on-iphone/"><u>How to Turn Off Emergency and Amber Alerts on iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-of-the-web-the-10-leading-sites-for-purchasing-mystery-boxes/"><u>In 2024, Best of the Web The 10 Leading Sites for Purchasing Mystery Boxes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-subtracting-text-srt-to-sub-transformation-tips/"><u>In 2024, Subtracting Text SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-wet-resistant-smartphone-cases-of-the-year-2024/"><u>Leading Wet Resistant Smartphone Cases of the Year 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lowest-cpu-failure-rates-in-intel-chips-outperforming-amd-ryzen-according-to-puget-and-system-builder-data-reveal/"><u>Lowest CPU Failure Rates in Intel Chips, Outperforming AMD Ryzen According to Puget and System Builder Data Reveal</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-infinix-hot-40-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-lava-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Lava</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-14-pro-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 14 Pro Activation Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-30-essential-gmail-shortcut-keys-you-need-to-know/"><u>Top 30 Essential Gmail Shortcut Keys You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-ietfamedll-issues-a-comprehensive-guide/"><u>Troubleshooting ietfame.dll Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-meanings-and-uses-of-tagging-in-digital-platforms/"><u>Unveiling the Meanings and Uses of 'Tagging' In Digital Platforms</u></a></li>
 </ul></div>
 

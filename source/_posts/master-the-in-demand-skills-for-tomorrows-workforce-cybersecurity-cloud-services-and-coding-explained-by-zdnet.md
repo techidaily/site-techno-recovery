@@ -1,7 +1,7 @@
 ---
 title: "Master the In-Demand Skills for Tomorrow's Workforce: Cybersecurity, Cloud Services & Coding Explained by ZDNet"
-date: 2024-09-19 11:33:52
-updated: 2024-09-20 10:27:51
+date: 2024-10-23T07:42:16.797Z
+updated: 2024-10-25T07:06:41.771Z
 tags:
   - professional-development
 categories:
@@ -63,6 +63,13 @@ In conjunction with cloud-related skills, developers can recession-proof themsel
 
 "By mastering modern software delivery processes, developers will be able to demonstrate how they can add value and directly address business challenges."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### A new type of software developer?
 
 As the scale and growth of software development accelerates, and with ongoing AI developments in programming and engineering, the role requirements of software development also look set to change.
@@ -79,6 +86,13 @@ Indeed, Sander van't Noordende, CEO of Randstad, says the rapid growth of AI and
 
 "The human traits that set us apart from machines -- like empathy and creativity -- remain crucial in labor markets and talent and employers should prioritize them alongside technical skills."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The challenge for leadership
 
 Leadership will also be key to maintaining growth stability over the next 12 months, particularly hiring, retention and upskilling challenges continue to impact the business.
@@ -88,6 +102,13 @@ Melina Masnatta, Learning & DEI global director at Globant, believes that invest
 Specifically, Masnatta says leaders will be responsible for providing the structure and resources to develop skillsets among teams, and effectively managing upskilling across the organization. "It will be the leader's responsibility to engage and empower their teams, often remotely," Masnatta tells ZDNET. 
 
 "High-performing working environments are driven by high psychological safety within teams. Future and present leaders face the challenge of fostering that psychological safety from a distance."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **More on the tech trends to watch in 2023:**
 
@@ -105,11 +126,27 @@ Specifically, Masnatta says leaders will be responsible for providing the struct
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>[New] Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-time-is-money-the-best-facebook-schedulers-reviewed/"><u>[New] Time Is Money The Best Facebook Schedulers Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-how-to-take-long-exposure-shots-with-iphone/"><u>[Updated] How to Take Long Exposure Shots with iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/create-your-google-account-step-by-step/"><u>Create Your Google Account | Step by Step</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-to-follow-steps-to-separate-sound-from-your-favorite-youtube-clips/"><u>Easy-to-Follow Steps to Separate Sound From Your Favorite YouTube Clips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-productivity-ultimate-techniques-for-dividing-your-display-in-windows-10/"><u>Effortless Productivity: Ultimate Techniques for Dividing Your Display in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-ways-to-refresh-your-icon-cache-on-windows-7-8-and-vista/"><u>Effortless Ways to Refresh Your Icon Cache on Windows 7, 8, and Vista</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-sneak-peek-new-features-of-windows-11-creators-version-insider-preview-build-1503/"><u>Exclusive Sneak Peek: New Features of Windows 11 Creator’s Version, Insider Preview Build 1503</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 2 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-6-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unveiling-secrets-for-instagram-chat-success/"><u>In 2024, Unveiling Secrets for Instagram Chat Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/stay-ahead-of-the-game-top-task-filled-ideas-for-maximizing-your-podcast-experience-for-2024/"><u>Stay Ahead of the Game Top Task-Filled Ideas for Maximizing Your Podcast Experience for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/top-2-methods-fur-den-schutz-von-imap-mails-in-microsoft-outlook-201/"><u>Top 2 Methods Für Den Schutz Von IMAP-Mails in Microsoft Outlook 201</u></a></li>
+</ul></div>
+

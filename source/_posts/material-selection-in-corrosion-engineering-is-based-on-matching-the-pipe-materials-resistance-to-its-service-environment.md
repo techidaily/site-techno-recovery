@@ -1,7 +1,7 @@
 ---
 title: Material Selection in Corrosion Engineering Is Based on Matching the Pipe Material's Resistance to Its Service Environment.
-date: 2024-10-12T03:26:04.507Z
-updated: 2024-10-19T08:56:38.291Z
+date: 2024-10-19T19:43:26.624Z
+updated: 2024-10-24T18:51:44.923Z
 tags:
   - apple
 categories:
@@ -67,10 +67,10 @@ Yet the world around you -- and inside your head -- is fundamentally altered. Yo
 An initial couple of questions emerged: When was the last time a product made me utter "Whoa?" And: Will the world ever look the same again?
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Yes, it just works
@@ -122,10 +122,16 @@ Which led me to a digression about AI. If the Vision Pro was the future, wasn't 
 Another couple of questions emerged: Has the tech industry now constructed all the pillars of life for the next, perhaps, 50 years? And: Have we been seduced, step by step, into separating ourselves from the physical world? 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much do I love my _what_?
@@ -199,22 +205,22 @@ But perhaps the biggest question I ended up asking myself was: What will I becom
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-essential-tips-for-advanced-editing-in-gopro-studio/"><u>[New] Essential Tips for Advanced Editing in GoPro Studio</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-from-novice-to-pro-navigating-streamlabs-obs/"><u>[New] In 2024, From Novice to Pro Navigating Streamlabs OBS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-snaptwit-sucker-snatch-social-media-vids-with-ease/"><u>[Updated] 2024 Approved SnapTwit Sucker Snatch Social Media Vids with Ease</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-5-live-stream-video-recorders-for-remote-sessions/"><u>[Updated] Essential 5 Live Stream Video Recorders for Remote Sessions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-methods-for-android-video-preservation-for-2024/"><u>[Updated] Ultimate Methods for Android Video Preservation for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/"><u>2024 Approved Essential Guide Video Recording with VLC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-proven-methods-for-skyrocketing-viewership-on-youtube-shorts/"><u>2024 Approved Proven Methods for Skyrocketing Viewership on YouTube Shorts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-pathway-to-popular-youtube-thumbnails-mac-edition/"><u>2024 Approved The Pathway to Popular Youtube Thumbnails Mac Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ensuring-safety-of-your-data-5-effective-preservation-techniques/"><u>Ensuring Safety of Your Data: 5 Effective Preservation Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-leading-samsung-smart-tv-apps-to-enhance-your-viewing/"><u>Expert Picks: Leading Samsung Smart TV Apps to Enhance Your Viewing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-our-curated-selection-of-freeware-movie-download-hubs-11-picks/"><u>Explore Our Curated Selection of Freeware Movie Download Hubs (11 Picks)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-ready-for-inspiration-top-sport-themed-films-available-on-demand/"><u>Get Ready for Inspiration – Top Sport-Themed Films Available on Demand</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-error-handling-8-techniques-to-overcome-parsing-errors-in-android/"><u>Mastering Error Handling: 8 Techniques to Overcome Parsing Errors in Android</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-powerpoint-updates-a-comprehensive-guide-for-professionals/"><u>Mastering PowerPoint Updates: A Comprehensive Guide for Professionals</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/proven-solutions-to-correct-the-propsysdll-file-not-found-issue/"><u>Proven Solutions to Correct the 'PropSys.dll' File Not Found Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-landing-a-dell-university-user-reduced-rate/"><u>Step-by-Step Strategies for Landing a Dell University User Reduced Rate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994132990-the-need-for-careful-design-considerations-to-optimize-esp-performance-while-avoiding-problems-like-back-corona-discharge-or-dust-re-entrainment/"><u>The Need for Careful Design Considerations to Optimize ESP Performance While Avoiding Problems Like Back Corona Discharge or Dust Re-Entrainment.</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-audio-amplified-todays-hits-backdropping-yt-shorts/"><u>[New] In 2024, Audio Amplified Today's Hits Backdropping YT Shorts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-hdmi-21-master-list-in-depth-screen-comparisons/"><u>[Updated] HDMI 2.1 Master List In-Depth Screen Comparisons</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-dive-into-the-world-of-customized-ringtones-with-tiktok-beats/"><u>[Updated] In 2024, Dive Into the World of Customized Ringtones with TikTok Beats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/11-of-our-favorite-free-software-updater-programs/"><u>11 of Our Favorite Free Software Updater Programs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-leading-lights-youtubes-biggest-brands/"><u>2024 Approved Leading Lights YouTube's Biggest Brands</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cartooncanvas-comprehensive-review-and-guidebook-24/"><u>CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-the-unresponsive-spacebar-problem-on-your-windows-10-device/"><u>Diagnosing and Correcting the Unresponsive Spacebar Problem on Your Windows 10 Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-music-download-resources-a-guide-of-15-options/"><u>Discover the Best Free Music Download Resources: A Guide of 15 Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-fixing-missing-or-corrupted-xinput13dll-files-on-pcs/"><u>Guide to Fixing Missing or Corrupted xinput1_3.dll Files on PCs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-plus-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Plus Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mobile-ecosystem-face-off-contrasting-features-and-opportunities-in-apples-vs-androids-stores/"><u>Mobile Ecosystem Face-Off: Contrasting Features and Opportunities in Apple's Vs. Android's Stores</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/olympic-ice-racers-moments-from-the-short-track-games/"><u>Olympic Ice Racers Moments From the Short Track Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-the-challenge-of-lost-or-absent-helperdll-files-step-by-step-strategies-for-victory/"><u>Overcoming the Challenge of Lost or Absent Helper.dll Files: Step-by-Step Strategies for Victory</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-tech-examination-by-tom-a-deep-dive-into-modern-hardware/"><u>Pioneering Tech Examination by Tom: A Deep Dive Into Modern Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stream-without-spending-10-alternatives-to-netflixs-services/"><u>Stream Without Spending: 10 Alternatives To Netflix's Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-fantastic-no-cost-web-based-calendar-apps/"><u>Top 4 Fantastic No-Cost Web-Based Calendar Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-mfc42dll-file-not-found-or-missing-issues/"><u>Ultimate Guide: Resolving 'MFC42.dll' File Not Found or Missing Issues</u></a></li>
 </ul></div>
 

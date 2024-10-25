@@ -1,7 +1,7 @@
 ---
 title: "Evolving Tech Landscape: The Expanding Low/No-Code Arena & Its Impact on IT Job Dynamics - Insights From ZDNet"
-date: 2024-09-19 13:39:41
-updated: 2024-09-20 12:34:31
+date: 2024-10-24T02:42:59.329Z
+updated: 2024-10-25T06:27:50.138Z
 tags:
   - professional-development
 categories:
@@ -40,6 +40,13 @@ The main concern about low-code and no-code is its potential to exacerbate the s
 
 Shakhnovich agrees that shadow IT is a risk, especially since there's a possibility of "one or very few users knowing how the system works, and a proliferation of governance issues." This opens up a new role for IT professionals as well -- "establishing appropriate oversight, so citizen developers can have the freedom to improve their work," he says. "While low-code and no-code solutions tend to be both efficient and cost-effective, there are instances where security concerns or need for complex functionality might limit their effectiveness."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Developer
 
 * [It's the end of programming as we know it -- again](https://www.zdnet.com/article/its-the-end-of-programming-as-we-know-it-again/)
@@ -73,11 +80,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-enhancing-viewer-interest-with-accurate-time-stamping/"><u>[New] 2024 Approved Enhancing Viewer Interest with Accurate Time Stamping</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-decoding-popular-themes-in-youtube-commentary/"><u>[New] Decoding Popular Themes in YouTube Commentary</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-expert-a-complete-guide-to-srt-creation/"><u>[New] From Novice to Expert A Complete Guide to SRT Creation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069442456-new-in-2024-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platforms/"><u>[New] In 2024, Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/ig-spotlight-superheroes-top-tier-covers-on-the-go-for-2024/"><u>IG Spotlight Superheroes Top-Tier Covers on the Go for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-review-of-the-amazonbasics-7-port-usb-hub-power-speed-and-usability/"><u>The Definitive Review of the AmazonBasics 7-Port USB Hub: Power, Speed & Usability</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-solution-eliminate-problems-by-deleting-your-pcs-amd-drivers-windows/"><u>The Definitive Solution: Eliminate Problems by Deleting Your PC's AMD Drivers (Windows)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-players-guide-to-overcoming-game-delays-advanced-tips-for-low-latency/"><u>The Player's Guide to Overcoming Game Delays: Advanced Tips for Low Latency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/this-app-cant-run-on-your-pc-solved/"><u>This App Can’t Run on Your PC [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-snip-and-sketch-issue-solutions-for-snipping-tool-malfunction-on-windows-10-and-11/"><u>Troubleshooting the Snip & Sketch Issue: Solutions for Snipping Tool Malfunction on Windows 10 and 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808032293-windows-10-wont-boot-or-start-try-easy-fixes/"><u>Windows 10 Won’t Boot or Start? Try Easy Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808160474-winsxs-folder-clean-up-and-save-space-on-windows-10-easily/"><u>WinSxS Folder: Clean Up and Save Space on Windows 10 Easily!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Building an Oculus Quest/Quest 2 Profile From Scratch"
-date: 2024-10-18T02:56:31.135Z
-updated: 2024-10-18T18:28:57.187Z
+date: 2024-10-22T16:49:41.584Z
+updated: 2024-10-24T17:11:03.380Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Tutorial: Building an Oculus Quest/Quest 2 Profile From Scratch"
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -64,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -75,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -93,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -141,6 +134,19 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -170,24 +176,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-android-screenshots-made-simple-top-8-free-applications-revealed/"><u>[New] 2024 Approved Android Screenshots Made Simple – Top 8 Free Applications Revealed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-step-by-step-full-ps4-game-recording-in-obs-studio/"><u>[Updated] 2024 Approved Step-by-Step Full PS4 Game Recording in OBS Studio</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-easy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone-for-2024/"><u>[Updated] Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-music-infused-content-sharing-strategies-for-facebook/"><u>[Updated] In 2024, Music-Infused Content Sharing Strategies for Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/1717298245185-updated-valorant-portraits-professional-thumbnails-made-in-a-flash/"><u>[Updated] Valorant Portraits - Professional Thumbnails Made in a Flash!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-hidden-gems-top-tips-for-savvy-users/"><u>2024 Approved Instagram Hidden Gems Top Tips for Savvy Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-apps-for-watching-films-online-here-are-12-picks/"><u>Discover the Best Free Apps for Watching Films Online, Here Are 12 Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-your-audience-unveiling-the-identities-behind-document-viewer-activity-in-google-docs/"><u>Discovering Your Audience: Unveiling the Identities Behind Document Viewer Activity in Google Docs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-cooler-performance-with-grizzlys-latest-heatspreader-15c-drop-in-cpu-temps-achieved/"><u>Experience Cooler Performance with Grizzly's Latest Heatspreader: 15°C Drop in CPU Temps Achieved!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-troubleshoot-your-netflix-connection-with-error-message-nw-21-7-a-complete-fixers-checklist/"><u>How to Troubleshoot Your Netflix Connection with Error Message NW-21-7: A Complete Fixer's Checklist</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-saving-and-exchanging-nintendo-switch-scenes-online/"><u>Master the Art of Saving and Exchanging Nintendo Switch Scenes Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-flight-control-best-motor-selections-unveiled-for-2024/"><u>Mastering Flight Control Best Motor Selections Unveiled for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-unfriend-multiple-users-at-once-on-snapchat/"><u>Step-by-Step Tutorial: How to Unfriend Multiple Users at Once on Snapchat</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-secure-sticky-notes-on-modern-oses/"><u>Steps to Secure Sticky Notes on Modern OSes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/testing-the-fugetek-ft-568-a-top-of-the-line-rigid-selfie-accessory-reviewed/"><u>Testing the Fugetek FT-568: A Top-of-the-Line, Rigid Selfie Accessory Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-6-must-visit-destinations-for-free-movies-your-kids-will-love/"><u>Top 6 Must-Visit Destinations for FREE Movies Your Kids Will Love</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-no-cost-languages-online-the-ultimate-list-of-free-speaking-resources/"><u>Top 9 No-Cost Languages Online: The Ultimate List of Free Speaking Resources</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-low-fps-in-rainbow-six-extraction/"><u>Troubleshooting Steps to Resolve Low FPS in Rainbow Six Extraction</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/yahoo-messengers-legacy-explored-uncovering-its-history-and-closure/"><u>Yahoo! Messenger's Legacy Explored: Uncovering Its History and Closure</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-download-instagram-vids-effortlessly-on-your-desktop-system-pcmac-for-2024/"><u>[New] Download Instagram Vids Effortlessly on Your Desktop System (PC/Mac) for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-entry-level-expenditure-cost-effective-platforms-for-youtube-purchases/"><u>[Updated] Entry-Level Expenditure Cost-Effective Platforms for YouTube Purchases</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-tips-for-capturing-online-video-conversations/"><u>2024 Approved Quick Tips for Capturing Online Video Conversations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/advrcntr2dll-missing-on-your-computer-fixes-for-neros-critical-component-issue/"><u>Advrcntr2.dll Missing on Your Computer? Fixes for Nero's Critical Component Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-activatedeactivate-on-screen-keyboard-functionality-on-windows-11-pcs/"><u>Guide to Activate/Deactivate On-Screen Keyboard Functionality on Windows 11 PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-diagnose-and-repair-stop-0x0000007b-blue-screen-errors-effectively/"><u>How to Diagnose & Repair STOP 0X0000007B Blue Screen Errors Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-equip-students-with-the-right-gear-top-7-complimentary-back-to-school-apps/"><u>How to Equip Students with the Right Gear: Top 7 Complimentary Back-to-School Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-utilize-split-view-feature-for-seamless-workflows-on-macbook-air/"><u>How to Utilize Split View Feature for Seamless Workflows on MacBook Air</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing-for-2024/"><u>Influence Unleashed 5 Crucial Steps to Thriving on Instagram Marketing for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-multiplayer-malfunctions-in-eldn-ring-with-these-simple-fixes/"><u>Overcome Multiplayer Malfunctions in Eldn Ring with These Simple Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-your-mp4-videos-with-the-power-of-srt-2024-guidebook/"><u>Perfecting Your MP4 Videos with the Power of SRT (2024 Guidebook)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-into-stardom-with-these-10-essential-channel-banner-makers-for-2024/"><u>Step Into Stardom with These 10 Essential Channel Banner Makers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-story-of-facebook-origins-unraveled-insights-on-its-global-appeal-and-fundamental-elements/"><u>The Story of Facebook: Origins Unraveled, Insights on Its Global Appeal, and Fundamental Elements</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Integrating Google Drive with Slack: A Step-by-Step Guide"
-date: 2024-09-19 19:35:44
-updated: 2024-09-20 10:45:10
+date: 2024-10-23T21:37:35.685Z
+updated: 2024-10-24T20:50:07.025Z
 tags:
   - google
 categories:
@@ -31,7 +31,27 @@ And, thankfully, the integration of Google Drive into Slack is incredibly simple
 
 Let me show you how it's done. I'll be demonstrating it on the Slack desktop app. However, you can also handle this process through the Slack web interface in the same way.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Integrating Google Drive and Slack
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open Slack
 
@@ -40,6 +60,13 @@ The first thing you must do is open Slack and then navigate to a workspace in wh
 **Figure 1**: The Apps section of the Slack left sidebar is where it all starts.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Add the Google Drive app
 
@@ -58,6 +85,13 @@ Click the Google Drive button and then click App Homepage. This will take you to
 Image: Jack Wallen
 
 Upon clicking to authenticate your Google Drive account, you'll be prompted to select the Google account to be used and to allow the required permissions for the app. As soon as you've authenticated your account, you'll receive an alert from Slack that you've added Google Drive to the workspace.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using Google Drive in Slack
 
@@ -98,11 +132,27 @@ And that's all there is to adding Google Drive integration to Slack. If you depe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-free-video-conferencing-software-showcase-best-10-picks-for-commercial-use-and-learning-environments/"><u>[New] 2024 Approved Free Video Conferencing Software Showcase Best 10 Picks for Commercial Use & Learning Environments</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-rapid-retreival-of-trendiest-tiktok-vids-for-2024/"><u>[New] Rapid Retreival of Trendiest TikTok Vids for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-no-fee-online-and-app-photo-refining-software-for-2024/"><u>[Updated] Best No-Fee, Online & App Photo Refining Software for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-beginners-path-to-a-unique-youtube-url/"><u>[Updated] In 2024, The Beginner's Path to a Unique YouTube URL</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-legal-trials-understanding-the-judicial-process/"><u>Exploring Legal Trials: Understanding the Judicial Process</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-msvcr100dll-not-found-error-on-windows-computers/"><u>Fixing the MSVCR100.dll Not Found Error on Windows Computers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-tiktok-problems-on-your-mobile-device-top-solutions-for-android-and-ios-platforms/"><u>Fixing TikTok Problems on Your Mobile Device: Top Solutions for Android and iOS Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-conversion-transforming-epub-files-into-pdfs-online-instantly/"><u>Free Conversion: Transforming EPUB Files Into PDFs Online Instantly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/get-hd-quality-facebook-videos-on-pcmobile/"><u>Get HD Quality Facebook Videos on PC/Mobile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-converting-your-nook-library-into-a-compatible-kindle-collection/"><u>Guide: Converting Your Nook Library Into a Compatible Kindle Collection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-sync-your-kindles-farthest-reading-marker-across-pc-iphone-and-android/"><u>How to Sync Your Kindle's Farthest Reading Marker Across PC, iPhone & Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-effective-methods-for-capturing-youtube-live-broadcasts/"><u>In 2024, Effective Methods for Capturing YouTube Live Broadcasts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-storytelling-made-easy-a-final-cut-pro-slideshow-tutorial-for-all-levels/"><u>Updated In 2024, Video Storytelling Made Easy A Final Cut Pro Slideshow Tutorial for All Levels</u></a></li>
+</ul></div>
+

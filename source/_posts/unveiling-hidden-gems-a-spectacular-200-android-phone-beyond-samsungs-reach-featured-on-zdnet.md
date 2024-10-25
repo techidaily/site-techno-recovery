@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden Gems: A Spectacular $200 Android Phone Beyond Samsung's Reach, Featured on ZDNET"
-date: 2024-09-18 18:29:15
-updated: 2024-09-20 10:48:19
+date: 2024-10-24T05:47:45.840Z
+updated: 2024-10-24T22:27:07.628Z
 tags:
   - google
 categories:
@@ -63,6 +63,13 @@ Matthew Miller/ZDNET
 
 I was very pleased to see AGM implement the fingerprint sensor in the right-side power button, as my thumb naturally rests there while holding the phone in my right hand. There is an additional button on the left side that you can customize to launch the temperature utility, turn on the flashlight, or launch the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are looking for an affordable rugged phone that has the latest version of Android and a big display, the [AGM X6 Phantom](https://www.aliexpress.com/item/1005007354515299.html) is a good option. The display isn't as brilliant as [the newest smartphones](https://www.zdnet.com/article/best-phone/) and the camera is limited, but battery life is great and it provides a basic Android experience.
@@ -90,11 +97,33 @@ It is not easy to stand out in a world of glass slabs, but the AGM X6 Phantom le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-preferred-screen-capture-tools-outside-gaming-world-for-2024/"><u>[New] Preferred Screen Capture Tools Outside Gaming World for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-insiders-guide-to-instagram-video-success/"><u>2024 Approved The Insider’s Guide to Instagram Video Success</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diving-deep-into-the-features-of-the-dell-p2715q-monitor/"><u>Diving Deep Into the Features of the Dell P2715Q Monitor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-addressing-msidll-errors-in-windows-operating-system/"><u>Effective Solutions for Addressing MSI.DLL Errors in Windows Operating System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-errors-when-windows-cant-find-mfc42dll-file/"><u>How to Address Errors When Windows Can’t Find mfc42.dll File</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-s23-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy S23 Easily?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-apples-upcoming-m3-macbook-pro-release-schedule-price-listing-and-performance-specs-explained/"><u>Inside Look at Apple's Upcoming M3 MacBook Pro – Release Schedule, Price Listing, and Performance Specs Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mobile-hotspot-magic-hooking-up-your-firestick-for-seamless-entertainment/"><u>Mobile Hotspot Magic: Hooking up Your Firestick for Seamless Entertainment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/our-5-favorite-sleep-apps-for-apple-watch/"><u>Our 5 Favorite Sleep Apps for Apple Watch</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/red-trends-the-pathway-to-a-specialized-youtube-niche/"><u>Tailored Trends The Pathway to a Specialized Youtube Niche</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essential-playbook-for-newcomers-to-pokemon-unite/"><u>The Essential Playbook for Newcomers to Pokémon Unite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-correcting-issues-with-a-missing-xlivedll-file-on-your-pc/"><u>The Ultimate Guide: Correcting Issues with a Missing Xlive.dll File on Your PC</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-civi-3-disney-100th-anniversary-edition-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Civi 3 Disney 100th Anniversary Edition Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tech-bargains-during-amazons-prime-day-event/"><u>Top Tech Bargains During Amazon's Prime Day Event</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ceiling-audio-systems/"><u>Top-Rated Ceiling Audio Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tutorial-simultaneously-pairing-and-playing-on-more-than-one-bluetooth-speaker-with-a-single-unit/"><u>Tutorial: Simultaneously Pairing and Playing on More Than One Bluetooth Speaker with a Single Unit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Android's Lifespan: Top 10 Tweak Settings for Extended Battery Performance - ZDNet Guide"
-date: 2024-09-17 10:20:13
-updated: 2024-09-20 10:55:55
+date: 2024-10-18T22:45:25.042Z
+updated: 2024-10-24T23:29:05.858Z
 tags:
   - google
 categories:
@@ -55,6 +55,13 @@ It's common knowledge that cranking down your display's brightness can help save
 
 **How to**: Swipe down once or twice from the top of your phone's display to visit the quick settings menu. You'll see a slider with a picture of a sun or other source of light next to it. Drag the slider to the left to decrease your brightness. To reduce the time it takes for your phone to sleep, go to Settings > Display and change "Screen timeout" to anything below a minute.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Remove unused accounts
 
 Max Buondonno/ZDNET
@@ -65,11 +72,25 @@ We've all done this at some point in our lives: you set up a new account for a s
 
 **How to**: Go to the Settings app and find the accounts section (on Samsung phones it's called "Accounts and backup", while Pixel phones use "Passwords & accounts"). You'll find a list of all the accounts synced to your phone. Tap on one of them and scroll down to the "Remove account" button. Tap it and the account will disappear.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Turn off keyboard sounds and haptics
 
 If you're using your phone, chances are you're typing on the keyboard pretty often, whether to post to social media or respond to your friend's messages. If you have sound and haptic feedback enabled, your battery may suffer because your phone needs to make a series of vibrations and noises every time you tap a letter. Hearing and feeling the keyboard as you type is a nice experience, but it's not ideal if you want to eke out some extra juice from a full charge.
 
 **How to**: Open the Settings app and locate "Language and input." This section is where your keyboard settings live. Find the section where you get to choose your default keyboard, then tap the gear icon next to it to manage settings. If you're a Gboard user (like most people), you'll then go to Preferences > Key press and disable "Sound on keypress" and "Haptic feedback on keypress."
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reduce your notifications
 
@@ -80,6 +101,19 @@ You might not realize it, but notifications can be one of the biggest drainers o
 **Also:** [**How to turn on Private DNS Mode on Android (and why you should)**](https://www.zdnet.com/article/how-to-turn-on-private-dns-mode-on-android-and-why-you-should/)
 
 **How to**: Go to Settings > Notifications > "App notifications" to see a list of all the apps installed on your phone. There are toggles next to each of them that, when flipped, will disable all notifications for that particular app.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Turn off "Hey Google" detection
 
@@ -130,11 +164,33 @@ I didn't include this feature in the primary list because, well, it's an obvious
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-chromatic-coherence-helper/"><u>[New] 2024 Approved Chromatic Coherence Helper</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-switching-up-your-chromecasts-backdrop-images/"><u>A Comprehensive Guide to Switching Up Your Chromecast's Backdrop Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auroras-dynamic-range-feature-a-detailed-perspective-for-2024/"><u>Aurora's Dynamic Range Feature A Detailed Perspective for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/daily-earnings-for-top-podcasters/"><u>Daily Earnings for Top Podcasters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722884485536-decoding-the-mystery-of-emojis-10-shocking-facts-revealed/"><u>Decoding the Mystery of Emojis: 10 Shocking Facts Revealed!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-20-premier-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 20 Premier 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-gt-10-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix GT 10 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-photo-editing-via-vsco-a-compreeved-guide/"><u>In-Depth Photo Editing via VSCO A Compreeved Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/professional-grade-glitch-video-editors-top-paid-and-free-tools-for-windows-mac-and-online/"><u>Professional-Grade Glitch Video Editors Top Paid and Free Tools for Windows, Mac, and Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailored-inbox-solutions-enhancing-gmail-experience-through-smart-filters-and-add-ons/"><u>Tailored Inbox Solutions: Enhancing Gmail Experience Through Smart Filters and Add-Ons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-differences-between-ar-vr-mr-and-xr-a-comprehveinsion-for-tech-enthusiasts/"><u>The Differences Between AR, VR, MR & XR: A Comprehveinsion for Tech Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-compendium-of-macos-versions-identifying-the-most-recent-update/"><u>The Ultimate Compendium of macOS Versions: Identifying the Most Recent Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-design-with-the-affordable-elegoo-neptune-x4-pro-for-only-284/"><u>Transform Your Design with the Affordable Elegoo Neptune X4 Pro for Only $284!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-selecting-the-perfect-surge-protector-for-your-gadgets/"><u>Ultimate Guide: Selecting the Perfect Surge Protector for Your Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-twitch-downtime-how-to-identify-a-network-issue-vs-user-error/"><u>Understanding Twitch Downtime: How to Identify a Network Issue vs User Error.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-potential-of-google-gemini-with-these-simple-steps/"><u>Unlock the Potential of Google Gemini with These Simple Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-secrets-of-your-mac-display-hidden-files-with-terminal-commands/"><u>Unlocking Secrets of Your Mac: Display Hidden Files with Terminal Commands</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/44oh44kj44k544kv44kv44ot44o844ol44oz44kw44go5ywo5l2t57o744kz44ou44o877ya5b655bqv5qplusu6lyd5yig5p6q/"><u>ディスククローニングと全体系コピー：徹底比較分析</u></a></li>
+</ul></div>
+

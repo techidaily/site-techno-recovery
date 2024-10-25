@@ -1,7 +1,7 @@
 ---
 title: "Mastering Google Workspace: Optimize and Organize Your Cloud Storage with Simple Steps"
-date: 2024-09-19 11:51:50
-updated: 2024-09-20 11:30:27
+date: 2024-10-20T22:31:48.706Z
+updated: 2024-10-24T21:53:31.632Z
 tags:
   - google
 categories:
@@ -43,9 +43,23 @@ Let me show you how easy it is.
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser. This of course can also be done on an Android device with Google One, but I'm going to show you how to take care of the task from within a web browser. You can use any browser that supports Google Workspace (which includes nearly all popular browsers).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open the Storage Manager
 
 The first thing to do is open your default web browser and point it to the [Google Storage Manager](https://one.google.com/storage/management). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by suggested items
 
@@ -64,6 +78,13 @@ Do the same for the other options under Clean up suggested items.
 The fastest way to delete all of your trashed emails is to click Delete All.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by service
 
@@ -100,11 +121,29 @@ And that's how you can easily manage your Google Workspace storage. Keep on top 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-check-if-your-youtube-channel-is-monetized-correctly/"><u>[New] How to Check If Your YouTube Channel Is Monetized Correctly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-iphone-guide-to-slow-motion-magic/"><u>[Updated] 2024 Approved The Ultimate iPhone Guide to Slow-Motion Magic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-relevance-of-authenticity-in-insta-video-selfies-for-2024/"><u>[Updated] The Relevance of Authenticity in Insta Video Selfies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-top-12-tycoons-your-gateway-to-game-dominance-for-2024/"><u>[Updated] The Ultimate Top 12 Tycoons - Your Gateway to Game Dominance for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/bitrecorder-analysis-with-other-solutions/"><u>BitRecorder Analysis with Other Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-pairing-techniques-for-logitech-mice-using-unique-rechargeable-transmitters/"><u>Easy Pairing Techniques for Logitech Mice Using Unique Rechargeable Transmitters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-correct-the-code-41-problems-in-device-manager/"><u>Expert Tips to Correct the Code 41 Problems in Device Manager</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-skyrocketing-fun-with-ps5-tips/"><u>Game On: Skyrocketing Fun with PS5 Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-find-n3-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Find N3 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lg-tv-and-netflix-woes-discover-effective-fixes-to-resume-streaming/"><u>LG TV and Netflix Woes? Discover Effective Fixes to Resume Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/macx-dvd-ripperconverter-pro-macx-dvd/"><u>MacX DVD Ripper/Converter Pro 特集 - MacX DVD用品のお得価格を見つけるチャンス!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-apple-watch-notifications-with-your-gmail-account-setup/"><u>Mastering Apple Watch Notifications with Your Gmail Account Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-selecting-all-conversations-in-your-gmail-inbox/"><u>Mastering the Art of Selecting All Conversations in Your Gmail Inbox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repair-steps-for-d3dx927dll-errors-in-windows/"><u>Troubleshooting and Repair Steps for d3dx9_27.dll Errors in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-of-retrieving-deleted-notifications-from-your-iphone/"><u>Unlock the Secrets of Retrieving Deleted Notifications From Your iPhone</u></a></li>
+</ul></div>
+

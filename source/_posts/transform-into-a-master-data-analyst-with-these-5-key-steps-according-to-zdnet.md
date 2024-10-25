@@ -1,7 +1,7 @@
 ---
 title: Transform Into a Master Data Analyst with These 5 Key Steps, According to ZDNet
-date: 2024-09-17 14:46:35
-updated: 2024-09-20 11:16:53
+date: 2024-10-19T17:06:53.113Z
+updated: 2024-10-25T08:01:45.370Z
 tags:
   - professional-development
 categories:
@@ -57,6 +57,13 @@ Whitcomb says EDF gives graduates in its program a career manager, who stays wit
 
 "Even now it's still useful to have her around. We catch up and it's useful having somebody who has shared experiences, good advice to give, and who understands where I'm coming from more than somebody who hasn't had that experience."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't be scared
 
 Whitcomb says it's important young professionals don't feel too anxious about moving into a new and fast-moving area.
@@ -72,6 +79,19 @@ Young professionals will quickly learn everyone has gaps in their digital knowle
 Whitcomb says the key to success for new graduates is seeing every obstacle as an opportunity. 
 
 "Going in from square one is quite intimidating," she says. "But if you have that mindset of, 'I want to learn, I'm willing to learn, and I can think logically' then you'll be great. So, don't be put off because you don't know how to code at the start."
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Embrace the creativity
 
@@ -93,6 +113,13 @@ Whitcomb wants to help people in the department feel empowered to use the tools 
 
 "If you enjoy the logical side of things, you can bring brilliant, creative solutions together."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Ask questions
 
 If you want to get ahead, don't be afraid to probe people, says Whitcomb: "I know everyone says this the whole time, but asking questions is the best way to learn." 
@@ -108,6 +135,19 @@ Both Bentley and EDF are keen to get their professionals to ask questions about 
 "On the flip side, if somebody asks you a question, be open to that. Sometimes, it's quite difficult to know who to ask questions. If someone asks you something, you learn yourself," she says. 
 
 "So, make sure you're asking questions and be the person other people feel they can ask questions to."
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Grab fresh opportunities
 
@@ -144,11 +184,33 @@ Whitcomb says she enjoys speaking about her work, sharing learnings, and contrib
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-social-media-savvy-top-trending-hashtags-for-youtubers/"><u>[Updated] Social Media Savvy Top Trending Hashtags for Youtubers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/13-best-free-hard-drive-testing-tools-july-2024/"><u>13 Best Free Hard Drive Testing Tools (July 2024)</u></a></li>
+<li><a href="https://win-hot.techidaily.com/iuwkueaenoeahoobquodkoodgplusocrplusocouodgplusodlplusaipuevptog44km44kn44ow55so5luu5ooz44oe44k344oz5lplusd6k2344gr5pya6ygppyi/"><u>効果的なバックアップ戦略: ウェブ用仮想マシン保護に最適?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-your-photoshop-cache-solutions-for-scratch-disk-full-alerts/"><u>Clear Your Photoshop Cache: Solutions for 'Scratch Disk Full' Alerts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-the-newly-free-gpt-4-era-dont-overlook-these-6-persuasive-benefits-for-upgrading-to-chatgpt-plus/"><u>Embrace the Newly Free GPT-4 Era - Don't Overlook These 6 Persuasive Benefits for Upgrading to ChatGPT Plus!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/entertainment-galore-kinemaster-the-android-game-guide-2023-for-2024/"><u>Entertainment Galore KineMaster - The Android Game Guide 2023 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expand-your-aural-horizon-how-to-connect-different-bluetooth-speakers-to-a-single-device/"><u>Expand Your Aural Horizon: How to Connect Different Bluetooth Speakers to a Single Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-chat-applications-compatible-with-iphone-and-ipod-touch-devices/"><u>Free Chat Applications Compatible with iPhone and iPod Touch Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-c51-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-ultimate-collection-of-top-ranked-cost-free-youtube-short-video-downloader-apps/"><u>In 2024, The Ultimate Collection of Top-Ranked, Cost-Free YouTube Short Video Downloader Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/integrating-ai-in-video-production-game-streaming-edition/"><u>Integrating AI in Video Production Game Streaming Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-pro-video-editor-convert-casual-clips-into-cinematic-masterpieces/"><u>New 2024 Approved Pro Video Editor Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/plants-vs-zombies-battle-for-neighborville-review/"><u>Plants Vs. Zombies: Battle for Neighborville Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reveal-your-influence-track-who-saves-and-cherishes-your-ig-posts/"><u>Reveal Your Influence: Track Who Saves and Cherishes Your IG Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-repair-tips-for-line-artifacts-on-your-flat-screen-tv/"><u>Step-by-Step Repair Tips for Line Artifacts on Your Flat-Screen TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-innovative-visual-voicemail-solutions-for-enhanced-messaging/"><u>Top 5 Innovative Visual Voicemail Solutions for Enhanced Messaging</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-pro-how-it-stands-against-chatgpt-plus-in-features-and-performance/"><u>Understanding Claude Pro - How It Stands Against ChatGPT Plus in Features and Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-ultimate-bargains-6-premier-coupons-and-deals-galore/"><u>Unlock Ultimate Bargains: 6 Premier Coupons & Deals Galore</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-10-and-network-visibility-controls-turn-on-off-guide-for-beginners/"><u>Windows 10 and Network Visibility Controls: Turn On / Off Guide for Beginners</u></a></li>
+</ul></div>
+

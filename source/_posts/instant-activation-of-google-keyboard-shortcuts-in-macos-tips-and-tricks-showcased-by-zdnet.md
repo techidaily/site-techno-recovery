@@ -1,7 +1,7 @@
 ---
 title: "Instant Activation of Google Keyboard Shortcuts in macOS: Tips and Tricks Showcased by ZDNet"
-date: 2024-09-17 21:45:26
-updated: 2024-09-20 10:27:50
+date: 2024-10-19T20:04:55.863Z
+updated: 2024-10-24T21:38:20.118Z
 tags:
   - google
 categories:
@@ -43,6 +43,13 @@ Even so, I find the app pretty useful because I don't tend to use bookmarks thes
 
 So, how do you add this handy app to MacOS? Let me show you.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Installing the Shortcut For Google Apps app  
 
 ### 1\. Open the App Store
@@ -57,7 +64,21 @@ When prompted, type your password, or (if you have the touch bar or a fingerprin
 
 The installation of the app shouldn't take but a few seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using the Shortcut For Google app
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open the app
 
@@ -72,6 +93,19 @@ Click the entry to launch the app. When Shortcut For Google appears on your desk
 The Shortcut For Google app in action.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Adding a shortcut to the Dock
 
@@ -106,11 +140,28 @@ This one-trick-pony app might not be a deal maker or breaker for most, but for a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pairing-powerhouses-easy-steps-to-join-obs-zoom/"><u>[New] Pairing Powerhouses Easy Steps to Join OBS, Zoom</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comparing-video-storage-in-64128gb-drives-for-2024/"><u>Comparing Video Storage in 64/128GB Drives for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-hashtag-monitoring-solutions-on-twitter-a-list-of-4-key-platforms/"><u>Discover the Best Hashtag Monitoring Solutions on Twitter: A List of 4 Key Platforms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-world-cultures-with-an-easy-affordable-language-course/"><u>Embrace World Cultures with an Easy, Affordable Language Course</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-savings-alert-the-most-attractive-apple-watch-offers-for-this-month/"><u>Exclusive Savings Alert: The Most Attractive Apple Watch Offers for This Month</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-the-missing-d3dx9e41dll-error-on-your-pc/"><u>How To Resolve The Missing d3dx9_e41.dll Error On Your PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-faces-of-technology-analyzing-face-detection-in-phones/"><u>In 2024, Faces of Technology Analyzing Face Detection in Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/key-questions-to-ask-yourself-when-shopping-for-an-activity-tracker-discover-now/"><u>Key Questions to Ask Yourself When Shopping for an Activity Tracker - Discover Now!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mosaicmaker-elite-designing-with-digital-threads/"><u>MosaicMaker Elite Designing with Digital Threads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-windows-10-features-for-seamless-video-editing-for-2024/"><u>Navigating Windows 10 Features for Seamless Video Editing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-steps-to-correct-missing-advapi32dll-file/"><u>Resolving the Issue: Steps to Correct Missing Advapi32.dll File</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-the-swagtron-swagboard-t1-a-fast-glide-with-a-high-price-tag/"><u>Review of the Swagtron Swagboard T1: A Fast Glide with a High Price Tag</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sony-virtual-reality-gear-unveiling-the-latest-news-on-pricing-and-launch-details/"><u>Sony Virtual Reality Gear: Unveiling the Latest News on Pricing & Launch Details</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlock-creative-possibilities-top-text-animation-apps-for-mobile-devices-for-2024/"><u>Updated Unlock Creative Possibilities Top Text Animation Apps for Mobile Devices for 2024</u></a></li>
+</ul></div>
+

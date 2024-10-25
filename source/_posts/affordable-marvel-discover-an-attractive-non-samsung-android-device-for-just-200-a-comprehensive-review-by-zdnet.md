@@ -1,7 +1,7 @@
 ---
 title: "Affordable Marvel: Discover an Attractive Non-Samsung Android Device for Just $200 - A Comprehensive Review by ZDNet"
-date: 2024-09-17 16:53:32
-updated: 2024-09-20 11:22:44
+date: 2024-10-18T20:19:42.265Z
+updated: 2024-10-25T05:11:44.506Z
 tags:
   - google
 categories:
@@ -63,6 +63,13 @@ Matthew Miller/ZDNET
 
 I was very pleased to see AGM implement the fingerprint sensor in the right-side power button, as my thumb naturally rests there while holding the phone in my right hand. There is an additional button on the left side that you can customize to launch the temperature utility, turn on the flashlight, or launch the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are looking for an affordable rugged phone that has the latest version of Android and a big display, the [AGM X6 Phantom](https://www.aliexpress.com/item/1005007354515299.html) is a good option. The display isn't as brilliant as [the newest smartphones](https://www.zdnet.com/article/best-phone/) and the camera is limited, but battery life is great and it provides a basic Android experience.
@@ -90,11 +97,31 @@ It is not easy to stand out in a world of glass slabs, but the AGM X6 Phantom le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/recision-poetry-the-news-outro-art/"><u>[New] Precision Poetry The News Outro Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-prime-images-storage-centers/"><u>[Updated] Prime Images Storage Centers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>2024 Approved Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-tiktok-with-your-television-a-step-by-step-guide/"><u>Connecting TikTok with Your Television: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/does-my-mailcom-email-have-an-expiration-heres-the-facts/"><u>Does My Mail.com Email Have an Expiration? Here's the Facts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/entertaining-apple-tech-jokes-top-iphone-and-ipad-pranks-for-a-good-time/"><u>Entertaining Apple Tech Jokes: Top iPhone & iPad Pranks for a Good Time</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/halt-autoplay-youtube-recommendations-for-2024/"><u>Halt Autoplay YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-content-game-studio-aptitude-essentials/"><u>In 2024, Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-essentials-of-webcam-capture-with-free2x-app/"><u>In 2024, The Essentials of WebCam Capture with Free2X App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-microsoft-teams-or-my-internet-causing-connection-problems/"><u>Is It Microsoft Teams or My Internet Causing Connection Problems?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ic-mockery-best-laugh-inspired-songs/"><u>Melodic Mockery Best Laugh-Inspired Songs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-apple-support-how-to-set-up-an-appointment-easily/"><u>Navigating Apple Support: How to Set Up an Appointment Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-chaos-a-guide-to-common-twitch-streamer-pitfalls-for-rookies/"><u>Navigating the Chaos: A Guide to Common Twitch Streamer Pitfalls for Rookies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-conquering-complex-audioscapes-a-no-nonsense-guide-to-effective-track-combination-in-premiere-pro/"><u>New 2024 Approved Conquering Complex Audioscapes A No-Nonsense Guide to Effective Track Combination in Premiere Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rapidly-growing-your-twitter-audience-proven-tips-and-techniques/"><u>Rapidly Growing Your Twitter Audience: Proven Tips & Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-top-6-dangers-of-over-reliance-on-ai-why-caution-matters/"><u>The Top 6 Dangers of Over-Reliance on AI: Why Caution Matters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898634923-water-damage-woes-heres-how-to-salvage-and-repair-your-wet-iphone-or-ipod-with-ease/"><u>Water Damage Woes? Here's How to Salvage and Repair Your Wet iPhone or iPod with Ease!</u></a></li>
+</ul></div>
+

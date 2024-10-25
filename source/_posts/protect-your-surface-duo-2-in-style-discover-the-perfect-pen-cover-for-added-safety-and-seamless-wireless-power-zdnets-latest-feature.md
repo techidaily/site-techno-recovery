@@ -1,7 +1,7 @@
 ---
 title: Protect Your Surface Duo 2 in Style! Discover the Perfect Pen Cover for Added Safety and Seamless Wireless Power | ZDNET's Latest Feature
-date: 2024-09-18 21:20:53
-updated: 2024-09-20 11:16:46
+date: 2024-10-20T00:16:26.086Z
+updated: 2024-10-24T19:53:49.599Z
 tags:
   - google
 categories:
@@ -42,6 +42,13 @@ The front of the Duo 2 Pen Cover completely covers the glass, and it looks great
 
 Jason Cipriani/ZDNet
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What about wireless charging? 
 
 In addition to adding a layer of protection to your Duo 2, the Duo 2 Pen Cover adds wireless charging for either Slim Pen model to the phone. It's an odd feature, considering the fact that the Duo 2 can't be wirelessly charged itself. At the same time, it's one that makes sense; the phone should be able to quickly and easily charge the Surface Slim Pen without the need for an extra charging accessory (save for the cover). 
@@ -81,11 +88,30 @@ That said, the case does offer a layer of protection that its glass housing clea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-becoming-an-instagrammable-replica-a-comprehensive-guide-to-duplicating-oneself-on-tiktok-for-2024/"><u>[Updated] Becoming an Instagrammable Replica A Comprehensive Guide to Duplicating Oneself on TikTok for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-microphone-recordings-list-9-reviews-of-choice/"><u>[Updated] The Ultimate Microphone Recordings List 9 Reviews of Choice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-deep-dive-into-the-rtx-gpu-lineup-insights-and-advancements-by-nvidia-explained/"><u>A Deep Dive Into the RTX GPU Lineup: Insights and Advancements by Nvidia Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-erasing-personal-information-from-your-dell-machine/"><u>Comprehensive Tutorial: Erasing Personal Information From Your Dell Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-how-t-mobile-handles-wireless-roaming-at-home/"><u>Decoding How T-Mobile Handles Wireless Roaming at Home</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-toms-hardware-experts-ultimate-guide/"><u>Exploring the Latest Gadgets with Tom's Hardware Experts | Ultimate Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-selfie-companion-a-guide-to-picking-the-ideal-selfie-stick-using-our-pro-tips/"><u>Find Your Perfect Selfie Companion - A Guide to Picking The Ideal Selfie Stick Using Our Pro Tips!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-c55-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco C55 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-waht-is-ai-pixel-art-generator/"><u>In 2024, Waht Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-methods-to-refuel-your-phone-battery-in-an-emergency-situation/"><u>Innovative Methods to Refuel Your Phone Battery in an Emergency Situation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/journey-through-gadgets-and-genres-master-your-laptop-phone-and-expand-your-reading-universe/"><u>Journey Through Gadgets & Genres: Master Your Laptop, Phone & Expand Your Reading Universe!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-world-through-toms-hardware-insights/"><u>Mastering the Digital World Through Tom's Hardware Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-gpu-driver-updates-on-the-latest-windows-11/"><u>Navigating GPU Driver Updates on the Latest Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-say-cheese-16-best-apps-to-convert-your-photos-into-cartoons/"><u>New 2024 Approved Say Cheese! 16 Best Apps to Convert Your Photos Into Cartoons</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pacific-drive-stability-fixes-how-to-prevent-your-pc-game-from-suddenly-freezing/"><u>Pacific Drive Stability Fixes: How to Prevent Your PC Game From Suddenly Freezing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/xbox-one-tech-support-solving-the-mystery-of-missing-signal-problems/"><u>Xbox One Tech Support: Solving the Mystery of Missing Signal Problems</u></a></li>
+</ul></div>
+

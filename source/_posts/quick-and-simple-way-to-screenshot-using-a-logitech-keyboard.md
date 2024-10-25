@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Way to Screenshot Using a Logitech Keyboard
-date: 2024-10-13T23:02:04.600Z
-updated: 2024-10-19T00:01:44.649Z
+date: 2024-10-18T22:43:43.491Z
+updated: 2024-10-24T18:25:28.280Z
 categories:
   - BestProducts
 description: This Article Describes Quick and Simple Way to Screenshot Using a Logitech Keyboard
@@ -36,10 +36,10 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 7. RAM (memory)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Should a Motherboard Cost?
@@ -54,13 +54,6 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 
 [Motherboard Chipset: What It Is and What to Look For](https://www.lifewire.com/what-is-a-chipset-on-a-motherboard-5185658)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What CPU Should a Motherboard Have?
 
  A CPU is a critical PC element that interprets and executes your hardware and software commands. If you're replacing or upgrading a motherboard, you can choose one that works with your existing CPU. But if you're buying a new CPU or building a PC, you'll also need a processor.
@@ -68,13 +61,6 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
  A mid-tier CPU will be powerful enough for multitasking and smooth operations to ensure maximum productivity for your PC for business use. If you're a gamer, you'll want a CPU with higher clock speeds and extensive RAM support. If you're a content creator, you'll want a CPU with enough RAM to support 4K video.  
 
  Check your CPU specs carefully to determine if they suit your intended uses.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What CPU Socket Should a Motherboard Have?
 
@@ -93,6 +79,13 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
  Close up of a CPU socket and motherboard.
 
 Narumon Bowonkitwanchai/Getty Images
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Form Factor and Case Should a Motherboard Have?
 
@@ -114,13 +107,6 @@ Narumon Bowonkitwanchai/Getty Images
 
  The form factor of the motherboard doesn't affect the type of CPU you need to use. If the motherboard has the correct socket, you can use the same CPU with an ATX, Micro-ATX, or Mini-ITX motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Expansion Ports Should a Motherboard Have?
 
  After the CPU socket and form factor, the next most important factor is how many expansion ports, usually[PCIe ports](https://www.lifewire.com/pci-express-pcie-2625962) , the motherboard has and how many you think you'll need.
@@ -134,6 +120,13 @@ Narumon Bowonkitwanchai/Getty Images
  It’s also worth looking at the ports built into the motherboard. Motherboards will include a mix of[USB-A](https://www.lifewire.com/usb-type-a-connector-2626032) ,[USB-C](https://www.lifewire.com/usb-c-4149490) , audio ports,[HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) , and even legacy ports like VGA, PS/2, parallel, and serial ports. Motherboards can also include Ethernet ports and other connectivity like built-in Wi-Fi and Bluetooth.
 
  Consider which ports you’re most likely to need, and select a motherboard that fits your requirements so you won’t have to add an expansion card or USB hub immediately.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Much RAM Does a Motherboard Need?
 
@@ -155,6 +148,13 @@ Narumon Bowonkitwanchai/Getty Images
 
 [How to Replace a Motherboard](https://www.lifewire.com/replace-a-motherboard-5189494)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More Tips for Choosing a Motherboard
 
  Before purchasing your motherboard, consider these additional tips.
@@ -168,10 +168,10 @@ Narumon Bowonkitwanchai/Getty Images
 * If you want to overclock your CPU, ensure your motherboard can handle the job concerning CPU multipliers and voltages.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is a Motherboard?
@@ -220,20 +220,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-transform-hidden-facebook-videos-with-these-12-must-try-steps/"><u>[New] 2024 Approved Transform Hidden Facebook Videos with These 12 Must-Try Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-whats-new-in-thunderbird-version-52-by-mozilla/"><u>Discover What's New in Thunderbird Version 52 by Mozilla</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-removing-a-device-from-your-google-assistant-ecosystem/"><u>Expert Advice: Removing a Device From Your Google Assistant Ecosystem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-error-messages-a-guide-for-problematic-ms-word-file-opens/"><u>Fixing Error Messages: A Guide for Problematic MS Word File Opens</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-issues-with-persistent-drm-problems/"><u>How to Fix Issues with Persistent DRM Problems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unlocking-organic-growth-your-afb-playbook/"><u>In 2024, Unlocking Organic Growth Your AFB Playbook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-creativity-with-these-top-17-graphic-design-applications/"><u>Mastering Creativity with These Top 17 Graphic Design Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/riperais-dvds-oficialmente-com-o-winx-dvd-ripper-platino-conversao-simples-e-rapida-de-cd-para-mp4-em-segundos/"><u>Riperáis DVDs Oficialmente Com O WinX DVD Ripper Platino - Conversão Simples E Rápida De CD Para MP4 Em Segundos!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-video-sync-connect-your-devices-and-watch-anythe-video-on-apple-tv-using-vlc/"><u>Seamless Video Sync: Connect Your Devices and Watch Anythe Video on Apple TV Using VLC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-within-the-limits-key-youtube-policies-for-2024/"><u>Staying Within the Limits Key YouTube Policies for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-trending-hashtags-on-instagram-for-boosting-your-posts-visibility/"><u>Top Trending Hashtags on Instagram for Boosting Your Posts' Visibility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-resolving-straight-line-errors-in-your-samsung-tv-display/"><u>Troubleshooting and Resolving Straight Line Errors in Your Samsung TV Display</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/vertical-vs-horizontal-deciding-facebook-video-orientation/"><u>Vertical vs Horizontal Deciding Facebook Video Orientation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mod-mp3-moveavi/"><u>모바일 장치를 사용한 편리한 원격 MOD MP3 전환 - MoveAVI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-post-a-picture-on-youtube/"><u>[New] How to Post a Picture on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-friendships-unlocked-leading-free-and-safe-follower-finding-tools-iosandroid/"><u>[New] In 2024, Instagram Friendships Unlocked Leading Free & Safe Follower-Finding Tools (iOS/Android)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pinnacle-of-image-capture-highlighting-the-best-10-4k-phone-cameras-for-2024/"><u>[New] Pinnacle of Image Capture Highlighting the Best 10 4K Phone Cameras for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-dissecting-video-ranking-algorithms-on-youtube-for-2024/"><u>[Updated] Dissecting Video Ranking Algorithms on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-transform-storytelling-crafting-ig-questions-for-impact/"><u>2024 Approved Transform Storytelling Crafting IG Questions for Impact</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-breakdown-of-t-mobiles-local-network-roaming-rules-for-household-use/"><u>A Breakdown of T-Mobile's Local Network Roaming Rules for Household Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-issues-understanding-why-youtube-may-fail-to-load/"><u>Diagnosing Issues – Understanding Why YouTube May Fail to Load</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-5-innovative-pinterest-schedulers-to-enhance-your-marketing-strategy/"><u>Explore These 5 Innovative Pinterest Schedulers to Enhance Your Marketing Strategy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-in-terminal-how-to-engage-via-shellgpt-bash-commands/"><u>GPT in Terminal: How to Engage via ShellGPT Bash Commands</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-secret-unlock-your-hidden-files-using-simple-terminal-tricks/"><u>MacOS Secret: Unlock Your Hidden Files Using Simple Terminal Tricks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x6-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-bypassing-failed-onedrive-cloud-synchronizations/"><u>Quick Fix: Bypassing Failed OneDrive Cloud Synchronizations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-x3daudiodll-file-not-found-or-missing-issues/"><u>Solutions for Resolving 'x3daudio.dll' File Not Found or Missing Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-pairing-a-samsung-soundbar-to-your-set-top-box-or-tv/"><u>Step-by-Step Instructions for Pairing a Samsung Soundbar to Your Set-Top Box or TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-dislike-all-your-favorites-on-spotify/"><u>Step-by-Step Tutorial: How to Dislike All Your Favorites on Spotify</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-take-when-you-cant-see-your-wi-fi-network/"><u>Steps to Take When You Can't See Your Wi-Fi Network</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unterstutzt-adobe-premiere-pro-den-import-und-export-von-videos-im-av1-format/"><u>Unterstützt Adobe Premiere Pro Den Import Und Export Von Videos Im AV1-Format?</u></a></li>
 </ul></div>
 

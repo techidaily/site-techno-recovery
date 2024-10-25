@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Digital Assistance: Apple Unveils a Smart AI-Powered Siri, Transforming Home Screens with Predictive Intelligence"
-date: 2024-10-14T13:01:42.522Z
-updated: 2024-10-18T23:09:34.169Z
+date: 2024-10-21T22:08:03.562Z
+updated: 2024-10-25T04:07:37.362Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ Ever since, those attributes have defined all smartphones, save for one common s
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-modern smartphones
 
 Identifying the first anything is always a tricky undertaking. The very first device labeled as a smartphone (they called it a "Smart Phone") was the [Ericsson 88](https://www.mobilephonemuseum.com/phone-detail/gs-88) from 1997\. Only 200 were made, and it was mostly a personal digital assistant. It most definitely did not have a camera.
@@ -56,13 +63,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -84,10 +84,10 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -110,6 +110,13 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -121,10 +128,16 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
@@ -199,19 +212,6 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Looking to the future
 
 We've been doing a tremendous amount of coverage of [generative AI](https://www.zdnet.com/topic/artificial-intelligence/) this past year. And every year, phone vendors introduce even more smartphone capabilities. So what does the future hold?
@@ -268,22 +268,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[New] In 2024, How to Harness YouTube's Creative Commons in Video Making</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-professional-text-design-in-10-minutes-or-less-ae-style-for-2024/"><u>[New] Professional Text Design in 10 Minutes or Less (AE Style) for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-discreetly-streaming-top-8-video-tools-of-the-year-2023-for-2024/"><u>[Updated] Discreetly Streaming Top 8 Video Tools of the Year, 2023 for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-foodie-fables-enthralling-channel-names-for-epicureans/"><u>2024 Approved Foodie Fables Enthralling Channel Names for Epicureans</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-epic-journey-through-memory-lane-advanced-methods-for-capturing-your-sims-digital-adventures/"><u>2024 Approved The Epic Journey Through Memory Lane Advanced Methods for Capturing Your Sims' Digital Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/4-premium-game-boy-advance-emulators-for-your-idevice/"><u>4 Premium Game Boy Advance Emulators for Your iDevice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-tutorial-creating-an-oculus-questquest-2-metaverse-account/"><u>Beginner's Tutorial: Creating an Oculus Quest/Quest 2 Metaverse Account</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/comprehensive-tutorial-on-designing-and-implementing-successful-training-initiatives-with-movavi/"><u>Comprehensive Tutorial on Designing & Implementing Successful Training Initiatives with Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/customize-your-iphone-text-with-new-fonts-a-simple-downloading-guide/"><u>Customize Your iPhone Text with New Fonts: A Simple Downloading Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-innovations-at-samsungs-fresh-phone-debut-ceremony/"><u>Exploring Innovations at Samsung's Fresh Phone Debut Ceremony</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-deep-clean-a-tv-clicker-for-healthier-living-at-home/"><u>How to Deep Clean a TV Clicker for Healthier Living at Home</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-understanding-changes-across-multiple-ipados-versions/"><u>Step by Step: Understanding Changes Across Multiple iPadOS Versions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-using-siri-for-reading-out-text-content-on-your-apple-devices/"><u>Step-by-Step Guide: Using Siri for Reading Out Text Content on Your Apple Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-defenses-choose-just-one-antivirus-on-windows/"><u>Streamline Your Defenses: Choose Just One Antivirus on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-call-of-duty-vanguard-code-1338-pc-fixed/"><u>Troubleshooting Steps for Resolving Call of Duty Vanguard Code 1338 (PC) [FIXED]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-code-10-issue-solutions-for-when-your-gadget-wont-boot/"><u>Troubleshooting the Code 10 Issue: Solutions for When Your Gadget Won't Boot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-nvidias-rtx-technology-in-modern-gpus/"><u>Unveiling Nvidia's RTX Technology in Modern GPUs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-cutting-edge-tactics-for-polishing-your-social-media-vids-on-instagram/"><u>[New] Cutting-Edge Tactics for Polishing Your Social Media Vids on Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubers-with-a-glamour-touch-top-names/"><u>[New] YouTubers with a Glamour Touch Top Names</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-navigating-social-media-streams-iphone-and-android-best-practices/"><u>[Updated] 2024 Approved Navigating Social Media Streams IPhone & Android Best Practices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras/"><u>[Updated] 2024 Approved Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-achieving-excellence-in-android-video-production-using-obs/"><u>[Updated] In 2024, Achieving Excellence in Android Video Production Using OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-equipment-for-cutting-edge-livestreams/"><u>2024 Approved Premier Equipment for Cutting-Edge Livestreams</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/effortless-fusion-of-youtube-videos-with-flv-format-for-2024/"><u>Effortless Fusion of YouTube Videos with FlV Format for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elite-psd-text-flourishes/"><u>Elite PSD Text Flourishes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expanding-your-digital-workspace-step-by-step-instructions-for-3-screen-computer-setup/"><u>Expanding Your Digital Workspace: Step-by-Step Instructions for 3 Screen Computer Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-clean-a-flat-screen-tv/"><u>How to Clean a Flat Screen TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-and-samsung-s24-ultra-face-off-which-smartphone-reigns-supreme/"><u>IPhone 15 Pro Max and Samsung S24 Ultra Face-Off: Which Smartphone Reigns Supreme?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/microsoft-announces-integration-of-bing-chat-with-swiftkey-interface-for-enhanced-communication/"><u>Microsoft Announces Integration of Bing Chat with SwiftKey Interface for Enhanced Communication</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-snapchat-an-expert-guide-to-interpreting-smiley-icons-and-gestures/"><u>Navigating Through Snapchat: An Expert Guide to Interpreting Smiley Icons and Gestures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-lost-sms-a-guide-to-retrieving-deleted-texts-across-all-phones/"><u>Reviving Lost SMS: A Guide to Retrieving Deleted Texts Across All Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-your-macbook-air-airpods-link-issues-effective-strategies-and-tips/"><u>Troubleshooting Your MacBook Air AirPods Link Issues: Effective Strategies and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-if-you-cant-see-the-dark-mode-on-facebook-anymore/"><u>What to Do If You Can't See the Dark Mode on Facebook Anymore?</u></a></li>
 </ul></div>
 

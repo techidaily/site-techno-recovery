@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Plus Integration Boosts Gemini with Top New Capabilities, Including a Complimentary Feature
-date: 2024-09-17 12:33:53
-updated: 2024-09-20 11:37:43
+date: 2024-10-22T21:50:30.370Z
+updated: 2024-10-25T03:47:02.280Z
 tags:
   - google
 categories:
@@ -41,6 +41,13 @@ Google also shared that the integration of Imagen 3 into Gemini has built-in saf
 
 In the coming days, Google will also roll out the ability to generate images of people. However, early access versions will be available first to Gemini Advanced, Business, and Enterprise users in English. This feature has some limitations, including the generation of identifiable individuals and minors and violent, gory, or sexual scenes. 
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gems
 
 At Google I/O, Google announced [Gems](https://www.zdnet.com/article/3-ways-gemini-advanced-beats-other-ai-assistants-according-to-google/), which are customized versions of Gemini for tackling particular tasks. To set up a Gem, a user simply has to give it an instruction, name it, and use it when needed to perform a specific function. 
@@ -74,11 +81,29 @@ Creating custom assistants is a paid feature on both ChatGPT and Gemini. However
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-the-360-streaming-landscape-with-ease-on-youtube/"><u>[New] 2024 Approved Navigating the 360° Streaming Landscape with Ease on Youtube</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-enhancing-content-discovery-via-thumbnails/"><u>[Updated] Enhancing Content Discovery via Thumbnails</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-spark-20-proplus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-your-running-windows-os-quick-guide-in-a-single-step/"><u>Discover Your Running Windows OS: Quick Guide in a Single Step</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-poco-f5-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco F5 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-resetting-a-forgotten-skype-password-in-minutes/"><u>Easy Guide: Resetting a Forgotten Skype Password in Minutes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-swap-video-games-with-peers-via-steam-network/"><u>Easy Ways to Swap Video Games with Peers via Steam Network</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortlessly-connect-to-wi-fi-with-windows-7-expert-strategies-and-solutions/"><u>Effortlessly Connect to Wi-Fi with Windows 7: Expert Strategies and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-gaming-on-windows-10-install-the-latest-nvidia-graphics-card-drivers/"><u>Enhance Gaming on Windows 10: Install the Latest Nvidia Graphics Card Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-airpods-audio-experience-when-connected-to-a-desktop-or-laptop/"><u>Enhancing AirPods Audio Experience When Connected to a Desktop or Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-bluetooth-experience-tips-for-longer-range-and-better-connection-quality-on-windows-11/"><u>Enhancing Bluetooth Experience: Tips for Longer Range and Better Connection Quality on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-portables-to-televisions-embracing-playnites-fullscreen/"><u>From Portables to Televisions: Embracing Playnite's Fullscreen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-s17e-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo S17e FRP</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-5-xbox-external-hard-drive-you-can-find/"><u>Top 5 Xbox External Hard Drive You Can Find</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-final-cut-pro-time-lapse-tutorial-create-stunning-videos-in-minutes/"><u>Updated 2024 Approved Final Cut Pro Time Lapse Tutorial Create Stunning Videos in Minutes</u></a></li>
+</ul></div>
+

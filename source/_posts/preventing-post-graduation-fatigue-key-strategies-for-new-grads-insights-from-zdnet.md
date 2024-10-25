@@ -1,7 +1,7 @@
 ---
 title: "Preventing Post-Graduation Fatigue: Key Strategies for New Grads - Insights From ZDNet"
-date: 2024-09-19 18:13:55
-updated: 2024-09-20 11:31:45
+date: 2024-10-20T21:56:13.780Z
+updated: 2024-10-24T20:05:54.773Z
 tags:
   - professional-development
 categories:
@@ -21,6 +21,19 @@ Read on to learn about how you can change your thoughts and behavior to help pre
 
 ## What is burnout? 
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [How to overcome new job anxiety New job anxiety can hinder your productivity and hurt your professional experience. Find out what anxiety is and what you can do to manage it.  Read now](https://www.zdnet.com/article/overcome-new-job-anxiety/)
@@ -39,6 +52,13 @@ People experience burnout in all jobs, but particularly those involving many ext
 * Doctors and nurses
 * Social workers and therapists
 * Teachers
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What causes burnout?
 
@@ -61,6 +81,13 @@ External factors contributing to burnout relate to your environment. Some exampl
 * High levels of stress and responsibility
 * Low autonomy
 * Tight deadlines
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 ways to prevent burnout
 
@@ -117,6 +144,13 @@ If you are able to access one, consider seeing a therapist. Mental health profes
 
 **7\. Recognize when it's time to leave.** 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 * [These are the least stressful jobs in tech](https://www.zdnet.com/article/least-stressful-jobs-in-tech/)
@@ -167,11 +201,33 @@ _Last reviewed March 24, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/est-livestream-capturing-solutions-for-content-makers-for-2024/"><u>[New] Best Livestream Capturing Solutions for Content Makers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unleash-potential-the-best-instagram-hashtags-of-the-day/"><u>[Updated] In 2024, Unleash Potential The Best Instagram Hashtags of the Day</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-integrating-yt-music-into-video-editing-suites/"><u>[Updated] Integrating YT Music Into Video Editing Suites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-podcast-experience-for-iphone-users/"><u>2024 Approved Seamless Podcast Experience for iPhone Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-poco-f5-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Poco F5 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bridging-the-gap-seamless-integration-of-android-apps-with-windows-11/"><u>Bridging the Gap: Seamless Integration of Android Apps with Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-make-pubg-run-better-the-top-7-tips/"><u>How to Make PUBG Run Better [the Top 7 Tips]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-remove-microsoft-account-from-windows-11-easily-solved/"><u>How to Remove Microsoft Account From Windows 11 Easily [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-speed-up-your-windows-10-or-11-boot-process-expert-advice-here/"><u>How to Speed Up Your Windows 10 or 11 Boot Process – Expert Advice Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-start-windows-11-in-safe-mode-4-different-methods-with-screenshots/"><u>How to Start Windows 11 in Safe Mode - 4 Different Methods (with Screenshots)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-take-screenshots-on-windows-11/"><u>How to Take Screenshots on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-windows-11-update/"><u>How to Uninstall Windows 11 Update</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v29-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V29 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-window-11-screen-captures-a-beginners-guide/"><u>Mastering the Art of Window 11 Screen Captures - A Beginner’s Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-performance-boosted-eliminating-the-pc-versions-unwanted-freezing-glitches/"><u>Modern Warfare Performance Boosted: Eliminating the PC Version's Unwanted Freezing Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimize-your-pc-or-console-essential-hardware-needs-for-overwatch-gameplay/"><u>Optimize Your PC or Console: Essential Hardware Needs for Overwatch Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-tutorial-on-building-an-effective-outlook-signature-mastering-ms-outlook-2013-and-2016/"><u>Quick Tutorial on Building an Effective Outlook Signature - Mastering MS Outlook 2013 & 2016</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tactics-for-pinpointing-ideal-podcast-debut-days/"><u>Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y200-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y200 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>
+

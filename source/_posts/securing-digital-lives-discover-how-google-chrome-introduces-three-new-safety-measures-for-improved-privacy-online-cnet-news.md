@@ -1,7 +1,7 @@
 ---
 title: "Securing Digital Lives: Discover How Google Chrome Introduces Three New Safety Measures for Improved Privacy Online | CNET News"
-date: 2024-09-17 11:27:48
-updated: 2024-09-20 10:23:27
+date: 2024-10-24T02:34:21.302Z
+updated: 2024-10-24T23:00:29.296Z
 tags:
   - google
 categories:
@@ -31,9 +31,23 @@ Safety Check will be able to revoke permissions from sites you no longer use, al
 
 Further, Safety Check will try to protect you against abusive notifications by automatically revoking permissions from sites considered deceptive by [Google's Safe Browsing service](https://www.zdnet.com/article/google-chrome-now-better-protects-you-against-risky-websites-and-weak-passwords/). With Chrome on a computer, Safety Check will also alert you to any extensions that might be a security risk and take you to the extensions page where you can remove them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove website notifications
 
 Unwanted website notifications can not only be annoying but potentially hazardous, and Chrome will now make it easier to opt out of them. Now on Pixel phones and coming soon to other Android devices, a new "Unsubscribe" button will appear in the notifications drawer so you can quickly turn off notifications for a particular site.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Grant one-time website permissions
 
@@ -82,11 +96,31 @@ On an iPhone or iPad, open the App Store app and select your profile icon at the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/aximizing-vids-for-cash-comparing-dm-and-yo-strategies/"><u>[New] Maximizing Vids for Cash Comparing Dm & Yo Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-miniature-drones-unveiled-top-10-list-ready/"><u>[New] Miniature Drones Unveiled Top 10 List Ready</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solved-mouse-lagging-and-stuttering-on-windows-11/"><u>[SOLVED] Mouse Lagging and Stuttering on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-breaking-down-the-animation-process-a-movie-maker-approach-for-2024/"><u>[Updated] Breaking Down the Animation Process A Movie Maker Approach for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-laughter-loops-in-musical-landscape/"><u>[Updated] Laughter Loops in Musical Landscape</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-scaling-your-influence-with-youtube-shorts-strategy-for-2024/"><u>[Updated] Scaling Your Influence with YouTube Shorts Strategy for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a56s-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A56s 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-2023-how-to-fix-live-video-interrupted-on-facebook/"><u>In 2024, 2023 | How to Fix Live Video Interrupted on Facebook?</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solution-for-sluggish-windows-1011-launch-times-a-step-by-step-fix/"><u>Solution for Sluggish Windows 10/11 Launch Times - A Step-by-Step Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steams-hidden-feature-easily-switching-to-offline-gameplay-on-any-device/"><u>Steam's Hidden Feature: Easily Switching to Offline Gameplay on Any Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-disabling-safe-mode-in-windows-10/"><u>Step-by-Step Guide: Disabling Safe Mode in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-mastering-the-multitasking-with-splitting-your-screen-on-windows-10/"><u>Step-by-Step Guide: Mastering the Multitasking with Splitting Your Screen on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-a-printer-driver-in-windows-os/"><u>Step-by-Step Guide: Removing a Printer Driver in Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-the-lock-screen-in-windows-10-without-hassle/"><u>Step-by-Step Guide: Removing the Lock Screen in Windows 10 Without Hassle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-defective-usb-port-issues-on-laptops/"><u>Step-by-Step Solution for Defective USB Port Issues on Laptops</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-portability-and-power-in-depth-razer-book/"><u>Unleashing Portability and Power: In-Depth Razer Book</u></a></li>
+</ul></div>
+

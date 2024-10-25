@@ -1,7 +1,7 @@
 ---
 title: "Comparing the M1 and M3 MacBook Pro Models: Is It Time for an Upgrade? - Insights From ZDNet"
-date: 2024-10-13T09:34:15.933Z
-updated: 2024-10-19T10:53:32.976Z
+date: 2024-10-17T21:48:10.781Z
+updated: 2024-10-25T03:11:46.285Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -54,6 +61,13 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
@@ -64,13 +78,6 @@ The saying you can't teach an old dog new tricks doesn't really apply to the iPa
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You want a better front camera and FaceTime experience
 
 Camera performance isn't typically the key selling point for tablets, let alone iPads. But with the iPad Air 5, Apple does emphasize its new and improved front-facing camera.
@@ -79,13 +86,6 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. You thrive on 5G
 
 Apple didn't leave the possibility of 5G up in the air with the latest iPad model. Though not mmWave 5G, the sub-6 GHz bands on the iPad Air 5 allow you to dial into the 5th-generation network and access faster download speeds than the 4G LTE of the iPad Air 4\. 
@@ -93,6 +93,13 @@ Apple didn't leave the possibility of 5G up in the air with the latest iPad mode
 You will, of course, need to be under a 5G data plan, have the appropriate nano-SIM card (or [eSIM](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)), and purchase the more expensive, cellular version of the iPad, to reap the benefits of the faster network. If you meet the prerequisites and frequently work from outside, then the 5G-enabled iPad is the one to buy. 
 
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726743600000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You should buy the iPad Air 4 (2020) if...
 
@@ -103,13 +110,6 @@ Image: Apple
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
 
 [Apple iPad Air (2020) $421.79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J66ZMY7%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -124,10 +124,10 @@ The 1st-gen Apple Pencil is not compatible with either of the two iPad Air model
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
@@ -170,22 +170,22 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-video-anonymity-tips-for-blurring-private-data/"><u>[New] In 2024, Video Anonymity Tips for Blurring Private Data</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-iphone-night-pics-101-enhancing-dark-images-for-2024/"><u>[New] IPhone Night Pics 101 Enhancing Dark Images for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-transforming-android-devices-into-broadcast-powerhouses-with-obs/"><u>2024 Approved Transforming Android Devices Into Broadcast Powerhouses with OBS</u></a></li>
-<li><a href="https://facebook.techidaily.com/avoid-privacy-changes-no-effect-on-whatsapps-full-access/"><u>Avoid Privacy Changes: No Effect on WhatsApp's Full Access</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722902161820-choosing-your-digital-sidekick-alexa-vs-google-assistant-find-the-ideal-match/"><u>Choosing Your Digital Sidekick: Alexa Vs. Google Assistant - Find the Ideal Match!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-samsungs-big-event-of-2025-timings-product-news-and-insider-info/"><u>Decoding Samsung's Big Event of 2025: Timings, Product News & Insider Info</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ensure-email-security-a-comprehensive-tutorial-on-safelisting-domains-in-mac-os-x-mail/"><u>Ensure Email Security: A Comprehensive Tutorial on Safelisting Domains in Mac OS X Mail</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-samsungs-roadmap-at-unpacked-2025-breaking-down-the-hottest-tech-and-speculations/"><u>Explore Samsung's Roadmap at Unpacked 2025 – Breaking Down the Hottest Tech & Speculations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-properly-install-the-nexiq-usb-link-driver-download-guide/"><u>How to Properly Install the Nexiq USB Link Driver [Download Guide]</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus 11 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-15-pro-max-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 15 Pro Max Display? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intuitive-bavarder-installation-on-linux-distros/"><u>Intuitive Bavarder Installation on Linux Distros</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-desktop-control-a-guide-to-managing-your-google-home-from-pc/"><u>Mastering Desktop Control: A Guide to Managing Your Google Home From PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maxs-most-popular-content-what-we-love-and-why-you-should-too/"><u>Max's Most Popular Content - What We Love and Why You Should, Too!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-new-era-with-meta-quest-ter-latest-announcements-cost-analysis-product-launch-and-detailed-tech-specs-compared/"><u>The New Era with Meta Quest Ter : Latest Announcements, Cost Analysis, Product Launch & Detailed Tech Specs Compared</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/tinyframe-videotaker-assessment-with-alternatives-for-2024/"><u>TinyFrame Videotaker Assessment with Alternatives for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unforgettable-young-adult-stories-on-netflix-to-binge-watch/"><u>Unforgettable Young Adult Stories on Netflix to Binge Watch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-audio-capture-top-9-mic-recorders-showcase-for-2024/"><u>[New] Elite Audio Capture Top 9 Mic Recorders Showcase for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-filmoras-route-to-convert-avi-to-eye-catching-gifs-for-2024/"><u>[New] Filmora’s Route to Convert AVI to Eye-Catching GIFs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-budget-conscious-broadcayers-guide-to-cheap-mics/"><u>[Updated] Budget-Conscious Broadcayer's Guide to Cheap Mics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/co-creating-content-brands-team-up-for-youtube-success/"><u>Co-Creating Content Brands Team Up for YouTube Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expand-your-viewing-area-on-mac-easy-dual-display-installation-tips/"><u>Expand Your Viewing Area on Mac: Easy Dual Display Installation Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-12-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 12 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-format-gaps-with-srt-transformations/"><u>In 2024, Bridging Format Gaps with SRT Transformations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722895859982-inside-the-world-of-small-wheels-milestones-media-buzz-hearsay-and-all-you-need-to-know/"><u>Inside the World of Small Wheels: Milestones, Media Buzz, Hearsay & All You Need to Know!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reinstating-the-dark-feature-on-facebook-a-comprehensive-solution-guide/"><u>Reinstating the Dark Feature on Facebook: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-smart-tv-app-malfunctions-diagnosis-and-repair-strategies/"><u>Samsung Smart TV App Malfunctions: Diagnosis and Repair Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-the-device-unregistered-from-network-problem-on-samsung-devices/"><u>Solve the 'Device Unregistered From Network' Problem on Samsung Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-get-new-fonts-on-your-iphone/"><u>Step-by-Step Tutorial: How To Get New Fonts On Your iPhone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopped-the-continuous-blank-pages-on-laptop-screen/"><u>Stopped the Continuous Blank Pages on Laptop Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-fixes-for-unresponsive-zoom-cameras-during-meetings/"><u>Ultimate Fixes for Unresponsive Zoom Cameras During Meetings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-performance-top-13-freeware-hdd-test-applications-july-2024/"><u>Unlocking Performance: Top 13 Freeware HDD Test Applications (July 2024)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-the-full-potential-a-guide-to-enjoying-every-penny-spent-on-netflix-with-7-strategies/"><u>Unlocking the Full Potential: A Guide to Enjoying Every Penny Spent on Netflix with 7 Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
 

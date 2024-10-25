@@ -1,7 +1,7 @@
 ---
 title: "Mastering Interpersonal Skills: A Must-Read for Elevating Emotional Intelligence Among Co-Workers, According to Experts at ZDNET"
-date: 2024-09-19 21:27:57
-updated: 2024-09-20 11:45:22
+date: 2024-10-22T07:58:47.064Z
+updated: 2024-10-25T06:48:29.734Z
 tags:
   - professional-development
 categories:
@@ -25,6 +25,13 @@ Emotional intelligence is awareness of both one's own emotions and those of othe
 
 Emotional intelligence is useful in everyday situations where emotional management and awareness are at play, such as helping a friend mourn personal loss, listening to your partner talk about a frustrating work conflict, or communicating your emotional needs to a family member.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### You might want to improve your emotional intelligence skills if …
 
 [Low emotional intelligence](https://www.healthline.com/health/mental-health/low-emotional-intelligence) can create problems in your life and relationships with others. Some indicators that you may have low emotional intelligence might include:
@@ -33,6 +40,13 @@ Emotional intelligence is useful in everyday situations where emotional manageme
 * Difficulty accepting or receiving feedback that may be meant to be helpful
 * Struggling to move forward due to feeling down on yourself
 * Frequently becoming agitated by unimportant or petty matters
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why does emotional intelligence matter at work?
 
@@ -65,6 +79,13 @@ Conversely, low emotional intelligence skills can unnecessarily complicate your 
 * Difficulty getting those working under you to complete important tasks
 * Missed opportunities for advancement or high-profile projects
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to practice emotional intelligence during your workday
 
 The important thing about emotional intelligence skills is that they represent a constant process rather than attaining perfection. It is through practice in real life rather than detached understanding that you can refine your emotional intelligence skills.
@@ -78,6 +99,13 @@ The present moment is the best time to practice emotional intelligence skills be
 * Social skills
 
 ![5 components of emotional intelligence: self-awareness, self-regulation, intrinsic motivation, empathy, and social skills](https://www.zdnet.com/a/img/resize/73cfff9012ebeb03b7114931d67a8789db193294/2022/02/24/c0356e01-f212-4869-a1cf-6f94d996af66/5-components.png?auto=webp&width=1280)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tori Rubloff/ZDNet
 
@@ -164,6 +192,13 @@ Good social skills can encompass some of the following positive acts you can pra
 
 It can feel difficult to discuss emotional intelligence. No one has perfect emotional intelligence. Emotional intelligence is and of itself a humbling concept. Practicing it well means recognizing that you are never truly "done". But remember: emotional intelligence is just as much the art of checking in on yourself as it is of showing consideration for others.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Divya Robin, MHC-LP
 
 Divya Robin, MHC-LP, is a psychotherapist, media contributor, mental health advocate, and educator in New York City who holds two master's degrees from Columbia University. She specializes in working with adults who are feeling stuck — dealing with anxiety, depression, self-esteem, relationship issues, and life transitions. Her mission is to talk about mental health in an applicable and real way to encourage others to prioritize their mental well-being. She is the founder of @mindmatterswithdiv, an Instagram platform with 40k+ followers where she posts daily about emotions, relationships, and transitions in a real and digestible way.
@@ -199,11 +234,31 @@ Divya Robin, MHC-LP, is a psychotherapist, media contributor, mental health advo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-angle-adjustments-the-instagram-guide-for-perfecting-photo-flips-for-2024/"><u>[Updated] Angle Adjustments The Instagram Guide for Perfecting Photo Flips for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-dive-into-instagram-live-without-hesitation/"><u>2024 Approved Dive Into Instagram Live Without Hesitation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-instant-subscriber-growth-trackers/"><u>2024 Approved Instant Subscriber Growth Trackers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/fixing-muted-sound-on-youtube-based-twitter-clips-for-2024/"><u>Fixing Muted Sound on YouTube-Based Twitter Clips for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/global-vpn-options-for-secure-speed-enhanced-torrenting-experience/"><u>Global VPN Options for Secure, Speed-Enhanced Torrenting Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-change-icon-size-on-windows-10/"><u>How to Change Icon Size on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-the-missing-device-warning-windows-versions-11-8-and-7/"><u>How to Correctly Address the Missing Device Warning - Windows Versions 11, 8 and 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-safely-remove-hiberfilsys-file-on-windows-11-step-by-step-solution/"><u>How To Safely Remove Hiberfil.sys File on Windows 11 - Step-by-Step Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-use-vpn-on-ps4-2-easy-ways/"><u>How to Use VPN on PS4 | 2 Easy Ways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-windows-10-redirects-traditional-desktop-applications-to-the-microsoft-store/"><u>How Windows 10 Redirects Traditional Desktop Applications to the Microsoft Store</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/level-up-your-looting-speed-proven-techniques-for-a-swift-fortnite-victory-and-enhanced-fps-the-future-of-gaming-begins-now/"><u>Level Up Your Looting Speed: Proven Techniques for a Swift Fortnite Victory and Enhanced FPS - The Future of Gaming Begins Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-windows-11-unlocking-access-to-your-file-sharing-and-backup-options/"><u>Mastering Windows 11: Unlocking Access to Your File Sharing and Backup Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mouse-acceleration-on-windows-11-turn-it-off-to-improve-gaming-experience/"><u>Mouse Acceleration on Windows 11: Turn It Off to Improve Gaming Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/no-watermark-no-problem-top-video-merger-tools-for-2024/"><u>No Watermark, No Problem Top Video Merger Tools for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-your-microsoft-edge-problems-expert-tips-to-get-it-working-again/"><u>Solve Your Microsoft Edge Problems: Expert Tips to Get It Working Again</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tech-savvy-tips-updating-win-11-driver-effortlessly/"><u>Tech Savvy Tips: Updating Win 11 Driver Effortlessly</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Apple MacBook Showdown: M3 Vs. M2 - Choosing the Right Powerhouse for Your Needs Comprehensive Review"
-date: 2024-10-15T14:27:11.174Z
-updated: 2024-10-18T20:56:37.889Z
+date: 2024-10-19T06:00:26.811Z
+updated: 2024-10-24T17:24:53.264Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -70,6 +70,13 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -95,13 +102,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -113,10 +113,10 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -130,10 +130,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -170,20 +170,24 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-followers-and-posts-10-instagram-essentials-to-watch/"><u>[New] Followers & Posts 10 Instagram Essentials to Watch</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-leading-tips-to-record-videos-in-silence/"><u>[Updated] Leading Tips to Record Videos in Silence</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-master-your-rhythm-top-free-beat-detectors-ready-to-test-for-2024/"><u>[Updated] Master Your Rhythm – Top Free Beat Detectors Ready to Test for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/battery-rejuvenation-tricks-to-keep-your-mobile-operational-without-standard-charging-tools/"><u>Battery Rejuvenation: Tricks to Keep Your Mobile Operational without Standard Charging Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-the-dots-bridging-apples-homepod-with-your-flat-screen-display/"><u>Connecting the Dots: Bridging Apple's HomePod with Your Flat Screen Display</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-nvidia-drivers-for-geforce-rtx-t3090-on-windows-7-8-and-10-systems/"><u>Download Updated NVIDIA Drivers for GeForce RTX T3090 on Windows 7, 8 & 10 Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-12-pro-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 12 Pro? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-view-apples-pages-files-on-your-desktop-machine/"><u>How to View Apple's Pages Files on Your Desktop Machine</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-virtual-presence-discreetly-mask-your-backdrop-on-webex-meetings/"><u>Mastering Virtual Presence: Discreetly Mask Your Backdrop on Webex Meetings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-missing-mfc42ddll-files-a-comprehensive-guide/"><u>Solutions for Resolving Missing mfc42d.dll Files: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-savvy-mac-users-learn-how-to-locate-and-link-to-shared-storage-in-one-easy-guide/"><u>Tech Savvy Mac Users! Learn How to Locate and Link to Shared Storage in One Easy Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/thawing-your-macbook-air-a-step-by-step-guide/"><u>Thawing Your MacBook Air: A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-smart-8-hd-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Smart 8 HD Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-your-access-a-step-by-step-guide-to-securing-spotifys-educational-price-cut/"><u>Unlocking Your Access: A Step-by-Step Guide to Securing Spotify's Educational Price Cut</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-x-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone X?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-enhance-your-tv-experience-mastering-fb-live-and-roku/"><u>[New] In 2024, Enhance Your TV Experience Mastering FB Live and Roku</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cultivate-creativity-youtubes-top-inspirational-videos/"><u>[Updated] 2024 Approved Cultivate Creativity YouTube's Top Inspirational Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-4k-video-gear-the-definitive-lens-selection/"><u>[Updated] Top 4K Video Gear The Definitive Lens Selection</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/audiofromtwitsounds-instant-audio-download/"><u>AudioFromTwitSounds Instant Audio Download</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-trust-duckduckgo-for-safe-web-browsing-insights-on-its-privacy-protections/"><u>Can You Trust DuckDuckGo for Safe Web Browsing? Insights on Its Privacy Protections</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-apple-4k-streaming-box-assessment-the-third-gen-unveiled/"><u>Comprehensive Apple 4K Streaming Box Assessment: The Third Gen Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-finest-security-focused-email-solutions-online/"><u>Discover the Finest Security-Focused Email Solutions Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/essential-tools-in-transforming-digital-performers-vocal-identity/"><u>Essential Tools in Transforming Digital Performers' Vocal Identity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-switch-off-sticky-keys-for-a-better-windows-experience-quick-and-easy-steps/"><u>Guide to Switch Off Sticky Keys for a Better Windows Experience: Quick and Easy Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-retreat-from-macos-sierras-latest-upgrade-for-2024/"><u>How to Retreat From MacOS Sierra's Latest Upgrade for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-dramatic-lighting-in-hdr-portraits-techniques-and-tips/"><u>In 2024, Dramatic Lighting in HDR Portraits Techniques and Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-zte-nubia-z60-ultra-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your ZTE Nubia Z60 Ultra Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-file-management-enabling-and-using-your-computers-secret-sidebar/"><u>Mastering File Management: Enabling & Using Your Computer's Secret Sidebar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-overcome-trustedinstaller-restrictions-for-system-modification-on-windows-10/"><u>Steps to Overcome TrustedInstaller Restrictions for System Modification on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-trio-of-emerging-tech-innovations/"><u>The Essential Trio of Emerging Tech Innovations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essentials-preparing-yourself-before-investing-in-a-new-gaming-console/"><u>Top 5 Essentials: Preparing Yourself Before Investing in a New Gaming Console</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unite-through-melody-the-ultimate-guide-for-group-listening-on-spotify/"><u>Unite Through Melody: The Ultimate Guide for Group Listening on Spotify</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-of-the-best-top-vlog-editor-apps-for-iphone-and-android/"><u>Updated In 2024, Best of the Best Top Vlog Editor Apps for iPhone and Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-usb-20/"><u>What Is USB 2.0?</u></a></li>
 </ul></div>
 

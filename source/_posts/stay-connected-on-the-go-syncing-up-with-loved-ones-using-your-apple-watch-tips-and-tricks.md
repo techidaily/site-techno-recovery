@@ -1,7 +1,7 @@
 ---
 title: "Stay Connected on the Go: Syncing Up With Loved Ones Using Your Apple Watch - Tips & Tricks"
-date: 2024-10-15T21:14:04.486Z
-updated: 2024-10-18T16:29:08.849Z
+date: 2024-10-21T17:03:34.355Z
+updated: 2024-10-24T22:35:38.809Z
 tags:
   - apple
 categories:
@@ -40,11 +40,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -63,10 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -86,10 +100,10 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -106,25 +120,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,18 +162,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-adding-videos-to-written-work-a-budget-friendly-way/"><u>[New] 2024 Approved Adding Videos to Written Work A Budget-Friendly Way</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-inside-look-free2xs-camera-recording-capabilities-for-2024/"><u>[Updated] Inside Look Free2X's Camera Recording Capabilities for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-guide-to-economical-cloud-options/"><u>2024 Approved The Ultimate Guide to Economical Cloud Options</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-efficient-file-searching-how-to-turn-on-and-utilize-hidden-finder-sidebar/"><u>Discover Efficient File Searching: How to Turn On and Utilize Hidden Finder Sidebar</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-canon-ip110-printer-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Canon IP110 Printer Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y78plus-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y78+</u></a></li>
-<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-vivo-y200-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y200 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722876692137-resolving-chatgpt-moderation-error-a-step-by-step-guide/"><u>Resolving ChatGPT 'Moderation Error': A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-to-the-missing-rockaldlldll-file-issue/"><u>Step-by-Step Solution to the Missing Rockaldll.dll File Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/switching-time-zones-and-languages-adjusting-region-preferences-on-your-ios-device/"><u>Switching Time Zones and Languages: Adjusting Region Preferences on Your iOS Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-portable-gaming-devices-in-2-of/"><u>Top-Rated Portable Gaming Devices in 2# of #</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-samsung-tvs-horizontal-line-issues/"><u>Ultimate Guide: Resolving Samsung TV's Horizontal Line Issues</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/your-personal-playlist-on-the-go-for-2024/"><u>Your Personal Playlist On-the-Go for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-f5-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-10-best-webcams-a-buyers-guide/"><u>2024 Approved 10 Best Webcams | A Buyer’s Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-spreading-online-jokes-fast/"><u>2024 Approved The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-missing-component-dll-errors-how-to-get-your-applications-running-smoothly-again/"><u>Addressing Missing Component (DLL) Errors: How to Get Your Applications Running Smoothly Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-16-amazing-free-online-platforms-for-sign-language-study/"><u>Discover These 16 Amazing Free Online Platforms for Sign Language Study</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-your-windows-11-wi-fi-network-key-a-step-by-step-guide/"><u>Discovering Your Windows 11 Wi-Fi Network Key: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/edgeai-optimized-coolers-unveiling-frores-aircell-pak-series-ideal-up-to-25-watt-systems/"><u>EdgeAI Optimized Coolers - Unveiling Frore's Aircell PAK Series, Ideal Up To 25 Watt Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-inauthentic-connection-bids-a-guide-to-discerning-genuine-from-phony-friends/"><u>Identifying Inauthentic Connection Bids: A Guide to Discerning Genuine From Phony Friends</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-stream-controls-netflix-edition/"><u>In 2024, Mastering the Art of Stream Controls - Netflix Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-navigating-to-command-prompt-within-any-windows-directory/"><u>Step-by-Step Guide: Navigating to Command Prompt Within Any Windows Directory</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-fugetek-ft-568-selfie-extender-unveiling-its-robust-design-and-functionalities/"><u>The Ultimate Guide to the Fugetek FT-568 Selfie Extender - Unveiling Its Robust Design and Functionalities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-msodll-not-found-message-efficiently/"><u>Troubleshooting the 'mso.dll Not Found' Message Efficiently</u></a></li>
 </ul></div>
 

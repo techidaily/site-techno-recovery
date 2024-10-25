@@ -1,7 +1,7 @@
 ---
 title: "Affordable Marvel: Discover the Most Stunning Non-Samsung Android Device for Just $200 - Exclusive Review by ZDNet"
-date: 2024-09-18 12:41:31
-updated: 2024-09-20 12:19:13
+date: 2024-10-21T05:35:26.653Z
+updated: 2024-10-25T06:53:06.229Z
 tags:
   - google
 categories:
@@ -63,6 +63,13 @@ Matthew Miller/ZDNET
 
 I was very pleased to see AGM implement the fingerprint sensor in the right-side power button, as my thumb naturally rests there while holding the phone in my right hand. There is an additional button on the left side that you can customize to launch the temperature utility, turn on the flashlight, or launch the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are looking for an affordable rugged phone that has the latest version of Android and a big display, the [AGM X6 Phantom](https://www.aliexpress.com/item/1005007354515299.html) is a good option. The display isn't as brilliant as [the newest smartphones](https://www.zdnet.com/article/best-phone/) and the camera is limited, but battery life is great and it provides a basic Android experience.
@@ -90,11 +97,25 @@ It is not easy to stand out in a world of glass slabs, but the AGM X6 Phantom le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-screenshot-savvy-free-high-quality-capturing-tools-for-both-oses/"><u>[New] Screenshot Savvy Free, High-Quality Capturing Tools for Both OSes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-conversion-tips-using-vlc-for-mpeg-4-and-beyond/"><u>2024 Approved Quick Conversion Tips Using VLC for MPEG-4 and Beyond</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-alexa-connectivity-issues-tips-for-restoring-responsiveness/"><u>Addressing Alexa Connectivity Issues: Tips for Restoring Responsiveness</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-free-pdf-software-the-best-picks-for-july-2/"><u>Discover the Ultimate List of Free PDF Software: The Best Picks for July 2</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/no-budget-big-fun-youtube-vids-as-tweets-gifs/"><u>No Budget, Big Fun YouTube Vids as Tweets' GIFs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-steps-for-sata-achi-driver-software-updates/"><u>Quick and Easy Steps for SATA ACHI Driver Software Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-eliminating-the-critical-process-died-stop-0x0000003d-issue/"><u>Step-by-Step Guide: Eliminating the Critical Process Died (STOP) 0X0000003D Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-playlist-watching-all-of-taylor-swifts-movies-together/"><u>The Ultimate Playlist: Watching All of Taylor Swift's Movies Together</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-wav-sound-files-into-high-quality-m4a-with-these-5-effective-strategies/"><u>Transforming WAV Sound Files Into High-Quality M4A with These 5 Effective Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-mic-on-skype-for-windows-10-users/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 10 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-17-places-where-you-can-get-free-e-books-online/"><u>Ultimate List: 17 Places Where You Can Get Free E-Books Online</u></a></li>
+</ul></div>
+

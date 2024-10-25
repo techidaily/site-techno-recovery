@@ -1,7 +1,7 @@
 ---
 title: "Exceptional Value in Mobile Tech: Rising Star Android Device Beats the Competition for Under $200 (Excluding Samsung)"
-date: 2024-09-19 21:52:18
-updated: 2024-09-20 12:26:25
+date: 2024-10-17T23:05:46.878Z
+updated: 2024-10-25T00:58:53.089Z
 tags:
   - google
 categories:
@@ -63,6 +63,13 @@ Matthew Miller/ZDNET
 
 I was very pleased to see AGM implement the fingerprint sensor in the right-side power button, as my thumb naturally rests there while holding the phone in my right hand. There is an additional button on the left side that you can customize to launch the temperature utility, turn on the flashlight, or launch the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are looking for an affordable rugged phone that has the latest version of Android and a big display, the [AGM X6 Phantom](https://www.aliexpress.com/item/1005007354515299.html) is a good option. The display isn't as brilliant as [the newest smartphones](https://www.zdnet.com/article/best-phone/) and the camera is limited, but battery life is great and it provides a basic Android experience.
@@ -90,11 +97,29 @@ It is not easy to stand out in a world of glass slabs, but the AGM X6 Phantom le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-everything-you-need-to-know-about-youtube-shorts-templates/"><u>[New] 2024 Approved Everything You Need To Know About YouTube Shorts Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-photos-canons-cost-effective-color-tools/"><u>[New] Transform Your Photos Canon's Cost-Effective Color Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-your-custom-tiktok-identifier-key-for-2024/"><u>[New] Unlocking Your Custom TikTok Identifier Key for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-superior-image-quality-the-power-of-youtubes-av1-settings/"><u>[Updated] In 2024, Superior Image Quality The Power of YouTube's AV1 Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/7-free-back-to-school-apps-for-students/"><u>7 Free Back-to-School Apps for Students</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-system-intelligence-explained-the-future-of-smart-operating-systems/"><u>Android System Intelligence Explained: The Future of Smart Operating Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/beyond-limits-a-critical-look-at-panasonics-hx-a1-actionrecorder-for-2024/"><u>Beyond Limits - A Critical Look at Panasonic’s HX-A1 ActionRecorder for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-to-psvr-2-titles-revealed-comprehensive-list-of-all-announced-games/"><u>Complete Guide to PSVR 2 Titles Revealed: Comprehensive List of All Announced Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-solution-for-fixing-avcodecdll-not-detected-or-lost-errors-in-windows/"><u>Complete Solution for Fixing Avcodec.dll Not Detected or Lost Errors in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-or-restore-the-missing-jscriptdll-library-in-windows/"><u>How To Recover or Restore the Missing jscript.dll Library in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-coredll-not-detected-dilemma-a-comprehensive-guide/"><u>Solving the 'core.dll Not Detected' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-effective-ways-to-silence-your-pc-cooling-system/"><u>Solving the Issue: Effective Ways to Silence Your PC Cooling System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essence-of-mixed-reality-explored-for-2024/"><u>The Essence of Mixed Reality Explored for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-of-free-video-cutter-and-joiner-software-for-beginners/"><u>Updated In 2024, The Ultimate List of Free Video Cutter and Joiner Software for Beginners</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-gamers-crave-the-ps5-pro-discover-the-4-must-know-reasons-to-level-up-your-console-experience/"><u>Why Gamers Crave the PS5 Pro? Discover the 4 Must-Know Reasons to Level Up Your Console Experience</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Camera Showdown: Pixel #9ProXL Outshines iPhone #15Pro in Latest Review with Surprising Results | Exclusive ZDNet Coverage"
-date: 2024-09-18 17:37:55
-updated: 2024-09-20 12:20:14
+date: 2024-10-23T06:17:46.048Z
+updated: 2024-10-24T23:14:33.797Z
 tags:
   - google
 categories:
@@ -71,6 +71,13 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 
 I would prefer the iPhone shot for this particular image but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A clear winner in night time
 
 1x indoor with artificial lights
@@ -97,6 +104,13 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pixel 9 Pro XL gets good at selfies
 
 Zoomed out selfies
@@ -106,6 +120,13 @@ Prakhar Khanna/ZDNET
 I like the selfie shooter on the iPhone 15 Pro and have found it better than Android phones. But it tends to blow out highlights sometimes. I didn't find that to be an issue on the Pixel 9 Pro. The above two selfies were taken in zoomed-out mode to check for the edge distortion (none) and FoV. 
 
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
 
@@ -140,11 +161,25 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-earths-highest-paid-online-video-personality/"><u>[New] 2024 Approved Earth's Highest-Paid Online Video Personality</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728484760985-windows-7/"><u>「システムリカバリ」をWindows 7で設定する詳細なチュートリアル</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-make-your-own-youtube-closures-without-spending/"><u>2024 Approved How to Make Your Own YouTube Closures Without Spending</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-diagnosing-and-fixing-problems-with-your-xbox-series-s-or-x-headset/"><u>Expert Advice on Diagnosing & Fixing Problems with Your Xbox Series S or X Headset</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx926dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_26.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-turn-the-key-on-a-locked-snapchat-account-expert-advice-for-activation/"><u>How To Turn The Key On A Locked Snapchat Account: Expert Advice for Activation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/implementing-meta-ai-techniques-effectively-on-instagram/"><u>Implementing Meta AI Techniques Effectively on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-undead-humor-engine/"><u>In 2024, Undead Humor Engine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-complimentary-driver-update-software-of-july-2024/"><u>Top 8 Complimentary Driver Update Software of July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-high-speed-potential-with-these-7-pc-optimization-tricks/"><u>Unleash High-Speed Potential with These 7 PC Optimization Tricks</u></a></li>
+</ul></div>
+

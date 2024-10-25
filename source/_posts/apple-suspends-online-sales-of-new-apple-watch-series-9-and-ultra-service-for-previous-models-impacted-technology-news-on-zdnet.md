@@ -1,7 +1,7 @@
 ---
 title: Apple Suspends Online Sales of New Apple Watch Series 9 & Ultra; Service for Previous Models Impacted | Technology News on ZDNet
-date: 2024-10-15T06:21:11.031Z
-updated: 2024-10-19T01:22:34.209Z
+date: 2024-10-21T19:45:44.518Z
+updated: 2024-10-24T23:44:05.631Z
 tags:
   - apple
 categories:
@@ -30,14 +30,14 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K37CV3C%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0c5e960d-163b-4dac-9c42-d1e37a39c37d%7Cdtp&dtb=1)
 
-## Catalyst Protective Waterproof Case
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Catalyst Protective Waterproof Case
 
 ### Best Apple Watch screen protector
 
@@ -95,13 +95,6 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB089ZRVKC4%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0c5e960d-163b-4dac-9c42-d1e37a39c37d%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Smiling Case Overall Protective Hard PC Case Ultra-Thin Cover
 
 ### Best almost invisible option
@@ -131,21 +124,7 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07RLZP5XX%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0c5e960d-163b-4dac-9c42-d1e37a39c37d%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## LK Screen Protector
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best screen-only film
 
@@ -173,13 +152,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J2C53CC%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0c5e960d-163b-4dac-9c42-d1e37a39c37d%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## IQ Shield Matte Screen Protector
 
@@ -210,28 +182,62 @@ Show Expert Take Show less
 
 The range of abuses an Apple Watch could see in its life is as varied and diverse as the user base it serves. Because of these, we've chosen a range of products for an assorted clientele. We feel each of these offerings is the best of the best in their particular slot of this product category. That said, it would be silly to compare a ruggedized, complete enclosure to a simple screen film. Obviously the former offers the most protection, but the latter may be preferable for users unwilling to accept any aesthetic sacrifices in the name of safety and protection for their Apple Watch. This is why each of these options includes a note or two about their ideal user, and where that user's priorities may lie on the spectrums of form over function and protection versus visibility. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best Apple Watch screen protector?
 
 The best Apple Watch screen protector is the Catalyst Protective Waterproof Case, because it is waterproof, extremely durable, and well designed.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I really need a screen protector?
 
  This is, of course, a personal decision. For some, even the most inexpensive Apple Watch can be a major investment, well worth protecting. For others, the idea of damaging their watch's hardy Ion-X glass may be unlikely enough, or inconsequential enough that they would prefer to just take the risk and pay for repairs, if needed. Ultimately, it's a matter of budgeting for the cost of potential future repairs versus the definite cost and possible aesthetic blow resulting from adding some form of screen protector.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What if I have AppleCare+ for my Apple Watch?
 
 Apple's well-known AppleCare+ program has saved many a device from an early grave. However, it's important to understand the AppleCare+ policy on "accidental damage," which any cracking or chipping of the display would fall under. According to Apple, each Watch owner qualifies for up to 2 accidental repairs per year. While this seems generous enough for all but the clumsiest owners, it also comes with a $69 fee for each of these repairs. That's in addition to the initial $79 cost of the extended warranty. Any repeat offender maxing out their yearly repair allowance is going to very quickly rack up quite a bill for screen replacements, and may want to consider just adding a screen protector instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will a screen protector void my warranty?
 
 The short answer: no. Most screen protectors of any decent quality can easily be removed without leaving any sign that they were ever present. Since it's always a good idea to remove any aftermarket accessories from any electronic device before bringing it in for service, Apple will likely never know the screen protector existed, and wouldn't much care, even if it did. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which screen protector is right for you?
 
@@ -269,21 +275,20 @@ The selections here were chosen to represent the full spectrum of options availa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-professional-soundwaves-a-critical-analysis-of-the-top-6-mics-for-livestreaming/"><u>[New] Professional Soundwaves A Critical Analysis of the Top 6 Mics for Livestreaming</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-clearer-connections-a-comprehensive-guide-to-crop-and-share-on-instagram/"><u>[Updated] In 2024, Clearer Connections A Comprehensive Guide to Crop and Share on Instagram</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-metaverse-memetic-guide-sparkle-with-satire-and-smiles-for-2024/"><u>[Updated] The Metaverse Memetic Guide - Sparkle with Satire and Smiles for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-resetting-your-macbook-pro-for-optimal-performance/"><u>Complete Guide: Resetting Your MacBook Pro for Optimal Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixes-for-android-not-delivering-incoming-text-messages-a-step-by-step-guide/"><u>Fixes for Android Not Delivering Incoming Text Messages: A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-smart-7-hd-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Smart 7 HD</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-google-maps-a-step-by-step-guide-to-using-live-view-feature/"><u>Mastering Google Maps: A Step-by-Step Guide to Using Live View Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ps5-face-off-discovering-what-sets-the-slim-model-apart/"><u>PS5 Face-Off: Discovering What Sets the Slim Model Apart</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/secure-your-information-top-5-techniques-for-windows-11-file-backups-explained/"><u>Secure Your Information: Top 5 Techniques for Windows 11 File Backups Explained</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/software-service-contract/"><u>Software Service Contract</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-successfully-starting-saints-row-on-your-computer/"><u>Step-by-Step Guide: Successfully Starting Saints Row on Your Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-creators-pick-top-5-video-editing-programs-for-stunning-visual-content/"><u>The Creator's Pick: Top 5 Video Editing Programs for Stunning Visual Content</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-for-recording-and-sharing-voice-messages-using-an-iphone/"><u>The Ultimate Walkthrough for Recording and Sharing Voice Messages Using an iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-six-amazing-websites-with-complimentary-kids-cinema-selections/"><u>Uncover Six Amazing Websites with Complimentary Kids' Cinema Selections</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-learn-how-to-mute-instagram-recommendations/"><u>[Updated] 2024 Approved Learn How to Mute Instagram Recommendations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-battle-of-the-lenses-sj6-vs-yi-4k-prodigy/"><u>2024 Approved Battle of the Lenses SJ6 Vs. Yi 4K Prodigy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-saving-on-cameras-the-best-value-of-cheap-action-choices/"><u>2024 Approved Saving on Cameras The Best Value of Cheap ACTION Choices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-music-continuous-streaming-heres-how-you-can-stop-it/"><u>Apple Music Continuous Streaming? Here's How You Can Stop It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-modify-the-appearance-of-your-windows-10-taskbar-with-a-new-color-scheme/"><u>Easy Ways to Modify the Appearance of Your Windows 10 Taskbar with a New Color Scheme</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-to-understand-guide-for-extracting-ipmac-addresses/"><u>Easy-to-Understand Guide for Extracting IP/MAC Addresses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-prevent-accessing-youtube-on-your-ipad/"><u>Effective Techniques to Prevent Accessing YouTube on Your iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-immersive-audio-experiences-with-dts-virtualx-technology-explained/"><u>Exploring Immersive Audio Experiences with DTS Virtual:X Technology Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-vanished-icon-issue-a-guide-to-getting-your-windows-11-desktop-back/"><u>Fixing Vanished Icon Issue: A Guide to Getting Your Windows 11 Desktop Back</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Phantom V Fold</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y55s-5g-2023-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y55s 5G (2023) to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-asus-rog-phone-7-ultimate-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Asus ROG Phone 7 Ultimate? Fixed | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/makeover-your-windows-11-desktop-a-comprehensive-guide-to-taskbar-customization/"><u>Makeover Your Windows 11 Desktop: A Comprehensive Guide to Taskbar Customization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/multi-photo-sharing-tips-mastering-the-art-of-batch-uploads-on-facebook/"><u>Multi-Photo Sharing Tips: Mastering the Art of Batch Uploads on Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-small-scale-transportation-significant-dates-breaking-news-and-undercover-trends/"><u>Navigating the World of Small Scale Transportation: Significant Dates, Breaking News & Undercover Trends</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Dynamic Duo-Weekend Adventure in a Polestar 2: Insights From ZDNet"
-date: 2024-09-18 20:35:30
-updated: 2024-09-20 11:55:37
+date: 2024-10-20T16:39:40.983Z
+updated: 2024-10-24T22:14:31.120Z
 tags:
   - google
 categories:
@@ -79,6 +79,13 @@ Because I am not a seasoned EV or even automotive reviewer, my objective was not
 
 One of the things that takes a bit of getting used to is there is no "energizing" or "turning on" the car. You carry the keyfob, which has Bluetooth Low Energy capabilities, and you unlock the door and get in -- that is it. When you sit down in the driver's seat, the car wakes up, as it has a weight sensor. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### CNET
 
 [Welcome to Roadshow New cars, car reviews and pricing.  Read now](http://www.cnet.com/roadshow/?ftag=CMG-01-10aaa1b)
@@ -101,6 +108,13 @@ While the car we had had collision avoidance features and lane assist, the vehic
 
 The audio system, which included a SiriusXM radio, was excellent, in at least overall audio quality. One of the exciting perks or outcomes of designing an electric car is that the electronic and mechanical components behind the dash do not have to be designed around a combustion engine, as all of that space is freed up. So Polestar was able to put a subwoofer behind the dash, where engine components would typically be -- so you get that nice deep bass where you otherwise would not in a typical, original manufacturer audio system. No need to stuff that sub in the rear trunk. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Android Automotive is not what you think it is 
 
 The Polestar 2 is the first vehicle to use [Android Automotive](https://source.android.com/devices/automotive) \-- which is **_not_** the same thing as [Android Auto](https://www.android.com/auto/), which is a smartphone connectivity and remote display interface for Android phones, similar to [Apple's CarPlay](https://www.apple.com/ios/carplay/). Android Automotive is [a full IVI stack](https://source.android.com/devices/automotive/start/what%5Fautomotive), which means all of the necessary built-in apps to control the non-essential vehicle subsystems as well as the 3rd-party apps that you might need for content consumption and other purposes run off this system. The exception is the low-level powertrain and steering systems -- should Android Automotive reboot or abend and the dash and central displays become inoperative, your vehicle still drives -- this is something we noticed happen once. 
@@ -121,6 +135,13 @@ So you can forget major apps like Facebook, never mind Chrome. This is all done,
 
 While I understand the need to reduce driver distractions and disable certain functions when the vehicle is in motion, I don't see why certain classes of apps should not be used when the vehicle is parked. What's wrong with Chrome, Gmail, Slack, Zoom, or RadarScope when the car is pulled over, or you are sitting in a parking space, let alone something like Yelp or a weather app? 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Smartphones are a second class citizen 
 
 But... connect your phone using Android Auto or CarPlay, right? Not now, you can't. Whether for Wi-Fi tethering or Bluetooth, phone connectivity is strictly for media control or contacts updates. If you want to use Spotify, Tidal, or Amazon Music, you'll need to use the Android Automotive apps in the console. While [Apple Music for Android](https://play.google.com/store/apps/details?id=com.apple.android.music&hl=en%5FUS&gl=US) exists for smartphones in the Google Play Store, it doesn't exist (yet) in Android Automotive. 
@@ -136,6 +157,13 @@ You can USB-C charge your phone using one of the four connectors in the car (two
 As if the lack of full-blown smartphone connectivity was bad enough, there is the issue that the official Polestar app is… well, not very good. In fact, I would classify it as awful and pretty much useless. While I was able to establish connectivity to the vehicle using my iPhone with its pairing procedure and able to lock and unlock the vehicle and activate the climate control system remotely, I was never able to get the synchronization features to work, particularly the ability for the car to report its charge level to the app. That, we ended up using apps like Electrify America or EVGO during the charging process. 
 
 I understand that this is a known issue with the app, that Polestar's cloud servers that support it are frequently non-responsive, and others have needed to unpair their phones and juggle admin accounts to work around the problem. Regardless, I never tried any of these workarounds as I only had three days to use the vehicle, so I never knew what the charge level the car was at remotely unless I was using a 3rd-party app like Electrify America that was able to report the current status while the vehicle was being charged. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Even with these issues, I loved this car 
 
@@ -166,11 +194,26 @@ In summary, the Polestar 2 is quite a technical achievement, and it is a very fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-bringing-out-the-best-advanced-color-correction-in-gopro/"><u>[Updated] Bringing Out the Best Advanced Color Correction in GoPro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-problems-for-non-functional-sennheiser-game-one-headset-microphone/"><u>Diagnosing & Fixing Problems for Non-Functional Sennheiser Game One Headset Microphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-fubotv-on-amazon-firestick/"><u>Guide: Setting Up FuboTV on Amazon Firestick</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-comparing-the-best-of-both-worlds-obs-vs-bandicam/"><u>In 2024, Comparing the Best of Both Worlds OBS vs Bandicam</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-stop-motion-creations-15-greatest-of-all-time/"><u>In 2024, Iconic Stop-Motion Creations - #15 Greatest of All Time</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-c67-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme C67 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-windows-8-video-editing-software-edit-mp4-files-like-a-pro/"><u>In 2024, Windows 8 Video Editing Software Edit MP4 Files Like a Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-your-way-to-the-nearest-ev-charging-station-using-google-maps/"><u>Navigate Your Way to the Nearest EV Charging Station Using Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/restore-your-iphone-call-alert-sounds-expert-advice-and-solutions/"><u>Restore Your iPhone Call Alert Sounds: Expert Advice and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-on-personal-residential-charging-stations-for-electric-vehicles/"><u>The Ultimate How-To on Personal Residential Charging Stations for Electric Vehicles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-steps-after-unboxing-your-latest-laptop/"><u>Top 5 Essential Steps After Unboxing Your Latest Laptop</u></a></li>
+</ul></div>
+

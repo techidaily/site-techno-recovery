@@ -1,7 +1,7 @@
 ---
 title: "Choosing Your Champion: The Battle of AI Assistants – ChatGPT Vs. Microsoft Copilot Vs. Gemini"
-date: 2024-09-18 11:57:22
-updated: 2024-09-20 11:37:31
+date: 2024-10-22T21:57:39.557Z
+updated: 2024-10-25T01:15:02.310Z
 tags:
   - google
 categories:
@@ -46,6 +46,13 @@ First, let's explore why you could choose ChatGPT over Microsoft Copilot and Goo
 ##  You should use ChatGPT if...  
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You want the most advanced AI chatbot for free
 
@@ -93,6 +100,19 @@ The GPT-4o model answered the math question correctly, having understood the ful
 
 Next, let's consider [Microsoft Copilot](https://www.zdnet.com/article/what-is-copilot-formerly-bing-chat-heres-everything-you-need-to-know/), a great way to access GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should use Microsoft Copilot if... 
 
 Maria Diaz/ZDNET
@@ -115,6 +135,13 @@ There are other benefits, too. [Copilot](https://www.zdnet.com/article/what-is-t
 
 Copilot's user interface is a bit more cluttered than ChatGPT's, but it's still easy to navigate. While Copilot can access the internet to give you more up-to-date results compared to ChatGPT powered by GPT-3.5, I've found it is more prone to stalling before replying and will miss more prompts than its competitor.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. You prefer more visual features
 
 Microsoft has upgraded its platform several times to add visual features to Copilot. At this point, you can ask Copilot questions like, "What is a Tasmanian devil?" and get a response complete with photos, lifespan, diet, and more, for a more scannable result that is easier to digest than a wall of text. 
@@ -130,6 +157,13 @@ The Balanced and Precise conversation styles in Microsoft Copilot answered my qu
 Maria Diaz/ZDNET
 
 Finally, let's turn to Google's Gemini, formerly known as Bard. It uses Google's LLM, also named Gemini, and has received considerable upgrades over the past few months.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You should use Gemini if...
 
@@ -186,11 +220,27 @@ Gemini is slowly becoming a full Google experience thanks to extensions that add
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-demystifying-screen-record-snapchat-a-beginners-handbook-for-2024/"><u>[New] Demystifying Screen Record Snapchat A Beginner's Handbook for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-love-in-action-top-9-premium-wedding-films-on-youtube-and-vimeo/"><u>[New] Love in Action Top 9 Premium Wedding Films on YouTube and Vimeo</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-marker-techniques-for-efficient-video-cutting/"><u>[New] Mastering Marker Techniques for Efficient Video Cutting</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-structuring-stimulating-podcast-segments-for-2024/"><u>[New] Structuring Stimulating Podcast Segments for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-surveying-with-style-instagrams-polling-protocols-explained-for-2024/"><u>[New] Surveying with Style Instagram's Polling Protocols Explained for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamlining-video-conferencing-with-efficient-use-of-snap-features-on-google-meet/"><u>[Updated] In 2024, Streamlining Video Conferencing with Efficient Use of Snap Features on Google Meet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-guide-to-rectify-failed-hardware-format-on-windows-devices/"><u>DIY Guide to Rectify Failed Hardware Format on Windows Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easily-leaving-safe-mode-on-your-pc-a-comprehensive-walkthrough-for-windows-natives/"><u>Easily Leaving Safe Mode on Your PC: A Comprehensive Walkthrough for Windows Natives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-and-fast-how-to-get-high-quality-mp3s-from-soundcloud-today/"><u>Easy & Fast: How To Get High-Quality MP3s From SoundCloud Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fix-for-the-windows-11-installation-failed-with-error-code-80240020-your-guide/"><u>Easy Fix for the Windows 11 Installation Failed with Error Code 80240020 - Your Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-ultime-telecharger-en-mp4-des-videos-de-jeuxvideo/"><u>Guide Ultime : Télécharger en MP4 Des Vidéos De Jeuxvidéo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y200-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y200 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/metaphorical-realities-30plus-inspirational-vr-expressions-for-2024/"><u>Metaphorical Realities 30+ Inspirational VR Expressions for 2024</u></a></li>
+</ul></div>
+

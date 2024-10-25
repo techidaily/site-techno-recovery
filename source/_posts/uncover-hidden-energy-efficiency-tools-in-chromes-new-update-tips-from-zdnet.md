@@ -1,7 +1,7 @@
 ---
 title: Uncover Hidden Energy Efficiency Tools in Chrome's New Update – Tips From ZDNet.
-date: 2024-09-19 23:54:18
-updated: 2024-09-20 12:28:43
+date: 2024-10-22T22:45:45.628Z
+updated: 2024-10-24T16:36:20.939Z
 tags:
   - google
 categories:
@@ -29,6 +29,13 @@ Don't worry, here's how to switch them on.
 
 ## How to find Google Chrome's new battery and memory saver features
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Make sure you're running Chrome 110
 
 You can check which version you are on by going to the browser's settings and choosing About Chrome, or by typing the following into the address bar and pressing Enter:
@@ -43,6 +50,13 @@ This version of Chrome -- Chrome 110 -- is up to date.
 
 Screenshot by Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check your Settings for Performance
 
 Click on the three dots, then **Settings**, and look for **Performance** in the left-hand column. 
@@ -54,6 +68,13 @@ If it's there, you're good.
 Note that the **Battery Saver** feature only shows up on laptops.
 
 If it's not there, read on.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. No Performance? Do this
 
@@ -71,6 +92,13 @@ After making these changes, you'll need to relaunch the browser (you can click o
 These are the settings that need to be changed to Enabled.
 
 Screenshot by Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check your settings again
 
@@ -105,11 +133,31 @@ Screenshot by Adrian Kingsley-Hughes/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-adjusting-youtube-video-scale-effectively/"><u>[Updated] Adjusting YouTube Video Scale Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cheap-and-effective-action-cam-picks-top-6-list-for-2024/"><u>Cheap and Effective ACTION Cam Picks – Top 6 List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descargar-y-convertir-archivos-aac-a-formato-mp3-gratuito-con-el-mejor-servicio-online/"><u>Descargar Y Convertir Archivos AAC a Formato MP3 Gratuito Con El Mejor Servicio Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-windows-11-and-downgrade-to-windows-7-or-windows-81-quickly-and-easily/"><u>How to Uninstall Windows 11 and Downgrade to Windows 7 or Windows 8.1, Quickly and Easily!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-hope-on-the-big-screen-top-10-cinematic-power-ups/"><u>In 2024, Hope on the Big Screen Top 10 Cinematic Power-Ups</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-itel-a60-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Itel A60 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-compatibility-official-guide-for-downloading-googles-usb-driver-software/"><u>Mastering Compatibility: Official Guide for Downloading Google's USB Driver Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-display-settings-in-windows-11-easy-fix-for-changing-screen-resolution/"><u>Mastering Display Settings in Windows 11: Easy Fix for Changing Screen Resolution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-high-frame-rates-in-escape-from-tarkov-a-professionals-insightful-guide/"><u>Mastering High Frame Rates in Escape From Tarkov: A Professional's Insightful Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-image-dimension-changes-for-pcs-and-macbooks/"><u>Mastering Image Dimension Changes for PCs and MacBooks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-process-get-your-directx-12-for-windows-10-up-and-running/"><u>Mastering the Process: Get Your DirectX 12 for Windows 10 up and Running</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-wsus-the-ultimate-resource-for-essential-information-and-tips/"><u>Mastering WSUS: The Ultimate Resource for Essential Information and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-gaming-experience-ultimate-guide-to-boosting-game-performance-on-windows-10/"><u>Maximizing Your Gaming Experience: Ultimate Guide to Boosting Game Performance on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimizing-performance-with-reset-in-windows-11-tips-for-timing-and-execution-strategies/"><u>Optimizing Performance with Reset in Windows 11: Tips for Timing and Execution Strategies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professional-audio-connectivity-by-sennheiser/"><u>Professional Audio Connectivity by Sennheiser</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728491117968-windows-11usb/"><u>Windows 11下如何有效地从USB清空数据: 四种不同方法</u></a></li>
+</ul></div>
+

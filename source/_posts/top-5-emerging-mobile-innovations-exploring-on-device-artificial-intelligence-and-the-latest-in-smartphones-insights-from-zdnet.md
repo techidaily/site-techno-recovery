@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Emerging Mobile Innovations: Exploring On-Device Artificial Intelligence & The Latest in Smartphones - Insights From ZDNet"
-date: 2024-10-16T14:07:46.922Z
-updated: 2024-10-19T03:03:09.712Z
+date: 2024-10-22T22:52:52.497Z
+updated: 2024-10-24T22:36:08.578Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -50,6 +50,13 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -68,10 +75,10 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -89,13 +96,6 @@ The Wireless Power Consortium (WPC), a committee that consists of Apple, Samsung
 The adoption of such technology bridges a longstanding gap between MagSafe-compatible devices (iPhone 12 and up) and ones without the feature, allowing Android users to also reap the benefits of [magnet-based charging accessories](https://www.zdnet.com/article/the-12-best-mobile-accessories-at-ces-2024-so-far-iphone-call-recorder-qi2-chargers-and-more/). Accessory makers like [Anker](https://www.zdnet.com/article/ankers-latest-wireless-charging-accessories-are-all-in-on-qi2-heres-why-that-matters/) and Satechi have already begun rolling out Qi2-compatible docks and charging pads. Now, it's on phone manufacturers to foot the second half of the bill by integrating the proper coils on the back of their devices. Expect those to arrive very soon.
 
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
 
@@ -176,24 +176,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-world-of-montage-image-magic/"><u>[Updated] Exploring the World of Montage Image Magic</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-crop-companions-best-farming-games-to-gather-with-buddies/"><u>2024 Approved Crop Companions Best Farming Games to Gather with Buddies</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-get-a-cleaner-look-in-your-videos-quickly-and-easily/"><u>2024 Approved Get a Cleaner Look in Your Videos Quickly and Easily</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-zoom-optimization-coordinating-remote-gatherings/"><u>2024 Approved Zoom Optimization Coordinating Remote Gatherings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/automotive-acoustic-woes-identifying-causes-of-speaker-breakdown-in-your-car/"><u>Automotive Acoustic Woes: Identifying Causes of Speaker Breakdown in Your Car</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-youtube-trailers-using-filmora-tools/"><u>In 2024, The Art of YouTube Trailers Using Filmora Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oneplus-nord-ce-3-lite-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends OnePlus Nord CE 3 Lite 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/managing-a-single-phone-number-across-different-gadgets-a-comprehensive-guide/"><u>Managing a Single Phone Number Across Different Gadgets: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-android-maintenve-a-complete-cache-clearing-tutorial/"><u>Mastering Android Maintenve: A Complete Cache Clearing Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-fix-effective-strategies-when-your-user32dll-is-missing/"><u>Mastering the Fix: Effective Strategies When Your User32.dll Is Missing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/rising-to-new-heights-in-aerial-tech-an-expert-analysis-on/"><u>Rising to New Heights in Aerial Tech: An Expert Analysis On</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simplifying-digital-payments-a-complete-walkthrough-of-apple-pay-features-on-the-apple-watch/"><u>Simplifying Digital Payments: A Complete Walkthrough of Apple Pay Features on the Apple Watch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshoot-your-iphones-autofocus-issues-with-simple-solutions/"><u>Troubleshoot Your iPhone's Autofocus Issues with Simple Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-poe-crashes-ultimate-guide-to-unfreeze-path-of-exile/"><u>Troubleshooting POE Crashes: Ultimate Guide to Unfreeze Path of Exile</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-missing-d3dx924dll-error-expert-tips-and-solutions/"><u>Troubleshooting the Missing d3dx9_2‌​4.dll Error: Expert Tips and Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-ps4-controller-with-ease/"><u>Ultimate Guide: Connecting Your PS4 Controller with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-what-net-neutrality-really-means-and-its-impact/"><u>Unveiling What Net Neutrality Really Means and Its Impact</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-zte-axon-40-lite-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My ZTE Axon 40 Lite Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enhance-your-shots-top-paid-and-free-iphone-photography-apps/"><u>[New] Enhance Your Shots Top Paid and Free iPhone Photography Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-thrifty-flyers-guide-5-drones-for-under-100-for-2024/"><u>[New] Thrifty Flyers' Guide 5 Drones for Under $100 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-photo-perfection-on-snapchat-for-2024/"><u>[Updated] The Ultimate Guide to Photo Perfection on Snapchat for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-13t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi 13T Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-thorough-overview-of-all-macos-iterations-whats-the-newest-release/"><u>A Thorough Overview of All macOS Iterations - What's the Newest Release?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-valheim-performance-tips-to-fix-high-ping-times-on-windows-devices/"><u>Enhance Your Valheim Performance: Tips to Fix High Ping Times on Windows Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-lenovo-y570-driver-issues-for-windows-11/"><u>Fix Lenovo Y570 Driver Issues for Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-find-and-update-your-hp-deskjet-ink-advantage-e-all-in-one-printer-drivers-for-windows-10/"><u>How to Find and Update Your HP Deskjet Ink Advantage E-All-in-One Printer Drivers for Windows 10</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insider-tips-seven-crucial-elements-to-consider-before-investing-in-a-smart-television/"><u>Insider Tips: Seven Crucial Elements to Consider Before Investing in a Smart Television</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/invisible-online-a-step-by-step-tutorial-for-private-browsing-on-chrome-edge-firefox-safari-and-opera/"><u>Invisible Online: A Step-by-Step Tutorial for Private Browsing on Chrome, Edge, Firefox, Safari, and Opera</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-slow-motion-capture-apps-androidios-devices/"><u>Premier Slow Motion Capture Apps Android/iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-integrating-dual-or-more-bluetooth-speakers-with-your-device/"><u>Step-by-Step Process: Integrating Dual or More Bluetooth Speakers with Your Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-capturing-your-screen-in-windows-11-with-these-4-handy-tricks/"><u>The Complete Guide to Capturing Your Screen in Windows 11 with These 4 Handy Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-restoring-bios-settings-by-clearing-the-complementary-metal-oxide-semiconductor-cmos/"><u>The Ultimate Guide to Restoring BIOS Settings by Clearing the Complementary Metal-Oxide Semiconductor (CMOS)</u></a></li>
 </ul></div>
 

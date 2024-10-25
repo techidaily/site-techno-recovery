@@ -1,7 +1,7 @@
 ---
 title: "Effortless Emailing Made Simple: Discover How Gmail Snippets Reduce Typing Time & Improve Accuracy | CNET News"
-date: 2024-09-19 13:29:26
-updated: 2024-09-20 11:18:45
+date: 2024-10-18T17:26:07.186Z
+updated: 2024-10-25T02:09:50.300Z
 tags:
   - google
 categories:
@@ -41,9 +41,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **What you'll need:** The only things you'll need are a valid Gmail account and the Vault addon. You can access your Vault (and the Snippets contained within) from either the browser or mobile version of Gmail. I will demonstrate with the web version (as that's what I use the most).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Installing the Vault add-on
 
 The first thing to do is install the Vault add-on for Gmail. To do this, open your web browser, point it to the [Vault addon page](https://workspace.google.com/marketplace/app/vault/740264277609), and click Install. Follow the prompts to complete the installation. Once the installation is complete, point your web browser to [Gmail](https://mail.google.com/mail/u/0/). Once Vault is installed (and Gmail is open), you're ready to go.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open Vault
 
@@ -52,6 +66,13 @@ With Gmail open, click the Compose button. you should see a new icon in the Comp
 The Gmail compose window should now include the Vault icon.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Launch the Snippet editor
 
@@ -78,6 +99,13 @@ When you need to use the new Snippet, all you have to do is open the Gmail Compo
 A quick click of Insert and your Snippet is added to your email.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A possible word of warning
 
@@ -110,11 +138,27 @@ If used wisely, Vault and Snippets can really save you time and typing in Gmail.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-flawless-ppt-transitions-adding-voice-over-effectively/"><u>[New] 2024 Approved Flawless PPT Transitions Adding Voice Over Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-educators-roadmap-to-effective-multimedia-use/"><u>[Updated] The Educator's Roadmap to Effective Multimedia Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exclusive-review-best-free-videocall-platforms-w-screen-view/"><u>2024 Approved Exclusive Review Best Free Videocall Platforms W/ Screen View</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-these-top-10-sport-movies-that-are-a-perfect-fit-for-movie-buffs-right-now/"><u>Catch These Top 10 Sport Movies That Are a Perfect Fit for Movie Buffs Right Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-steps-to-unstick-your-iphone-from-the-endless-cycle-of-the-apple-insignia/"><u>Comprehensive Steps to Unstick Your iPhone From the Endless Cycle of the Apple Insignia</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-airpods-for-effortless-sound-on-a-windows-hp-computer-a-users-manual/"><u>Connecting AirPods for Effortless Sound on a Windows HP Computer - A User's Manual</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-changing-the-battery-in-your-ipad-easily/"><u>Expert Tips for Changing the Battery in Your iPad Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-handling-missing-mscorwksdll-files-on-your-pc-fixes-and-prevention/"><u>Expert Tips for Handling Missing mscorwks.dll Files on Your PC – Fixes & Prevention</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-lava-yuva-3-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Lava Yuva 3 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-itel-p40-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Itel P40 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-must-watch-family-films-on-amazon-prime-video-this-july-2024/"><u>Top Picks: Must-Watch Family Films on Amazon Prime Video This July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-10-anticipated-cost-and-launch-timeline-latest-rumored-specs-revealed/"><u>Upcoming Google Pixel 10: Anticipated Cost & Launch Timeline - Latest Rumored Specs Revealed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-meizu-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Meizu Phone Network-Ready</u></a></li>
+</ul></div>
+

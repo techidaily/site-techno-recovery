@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Workflow with Pre-Made Excel Tables: A Guide on Enhancing Productivity via Google Sheets Tools"
-date: 2024-09-17 16:10:41
-updated: 2024-09-20 10:47:51
+date: 2024-10-23T21:22:46.372Z
+updated: 2024-10-24T21:06:27.552Z
 tags:
   - google
 categories:
@@ -27,9 +27,23 @@ Pre-built tables are easy to use -- here's how to get started.
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser. One thing to keep in mind: the pre-built tables feature cannot be used on the mobile version of Google Sheets, so the only way to access it is via a desktop web browser. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Create a new spreadsheet
 
 To start, log into either Google Drive or Google Docs and create a new spreadsheet. The pre-built tables feature only appears in new spreadsheets, so if you open a previously existing document, you won't see the pre-built tables sidebar.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Find the type of pre-built table you want
 
@@ -43,6 +57,13 @@ There are several pre-built tables to choose from.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Insert the desired table
 
 Once you've found the type of table you want to use, hover your cursor over the entry again and click Insert. If the table you've added doesn't work, you can go back to the sidebar and select a different pre-built table to replace it. 
@@ -54,6 +75,13 @@ If you've already closed the sidebar, you can re-open it by clicking the Insert 
 You'll see both the Insert button on a cursor hover and a demonstration of how the table will look.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Customize the table
 
@@ -86,11 +114,28 @@ That's all there is to using the Google Sheets pre-built tables feature. This ha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-apex-design-suite-assessment/"><u>[New] 2024 Approved Apex Design Suite Assessment</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-chart-converters-for-video/"><u>[New] 2024 Approved Ultimate Chart Converters for Video</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-understanding-the-evolution-of-facebook-videos-for-2024/"><u>[New] Understanding the Evolution of Facebook Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-football-inscriptions-premier-fifa-youtube-insights-for-2024/"><u>[Updated] Football Inscriptions Premier FIFA YouTube Insights for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/full-scoop-unveiling-googles-podcast-application-for-2024/"><u>Full Scoop Unveiling Google's Podcast Application for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-crucial-aspects-of-a-powerful-gamers-desktop-computer/"><u>Identifying Crucial Aspects of a Powerful Gamer's Desktop Computer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-explore-the-best-webcams-on-your-windows-10-pc/"><u>In 2024, Explore the Best Webcams on Your Windows 10 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-a2plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi A2+ to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-8-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 8 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-walkthrough-how-to-save-memorable-moments-by-snapping-pictures-from-xbox-one-games/"><u>In-Depth Walkthrough: How to Save Memorable Moments by Snapping Pictures From Xbox One Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/recognizing-indicators-of-read-receipts-on-text-messages/"><u>Recognizing Indicators of Read Receipts on Text Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-trending-hashtags-on-instagram-boosting-your-visibility/"><u>Top Trending Hashtags on Instagram Boosting Your Visibility</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-steps-to-remove-windows-boot-recovery-partition/"><u>Ultimate Guide: Steps to Remove Windows Boot Recovery Partition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-extra-convenience-with-your-electric-vehicle-hov-lane-use-and-preferred-parking-options/"><u>Unlocking Extra Convenience with Your Electric Vehicle: HOV Lane Use and Preferred Parking Options</u></a></li>
+</ul></div>
+

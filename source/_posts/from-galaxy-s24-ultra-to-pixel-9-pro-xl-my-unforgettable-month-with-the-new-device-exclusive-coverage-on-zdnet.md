@@ -1,7 +1,7 @@
 ---
 title: "From Galaxy S24 Ultra to Pixel 9 Pro XL: My Unforgettable Month with the New Device | Exclusive Coverage on ZDNet"
-date: 2024-09-18 15:52:23
-updated: 2024-09-20 11:11:15
+date: 2024-10-20T03:32:59.613Z
+updated: 2024-10-24T18:42:34.363Z
 tags:
   - google
 categories:
@@ -89,11 +89,31 @@ While I'm still testing every [new Pixel 9 AI feature](https://www.zdnet.com/art
 * **[Gemini Live](https://www.zdnet.com/article/you-can-access-googles-gemini-live-for-free-right-now-heres-how-and-why-youll-want-to/) (4/5)**: Like ChatGPT's voice feature, you can chat and ask questions to Gemini Live while it's running in the background. Since its first release, Gemini Live has worked much more naturally, with fewer hiccups and dropped voice inputs. It helps to have haptic feedback that guides the flow of the conversation. Multimodality and synchronization with the [Pixel Buds Pro 2](https://www.zdnet.com/article/google-unveils-pixel-buds-pro-2-here-are-the-3-features-im-most-excited-about/) should improve the experience even more.
 * **[Call Notes](https://www.zdnet.com/article/this-simple-and-actually-useful-ai-tool-is-my-favorite-new-pixel-feature-its-in-ios-18-too/) (2/5)**: The reliability of the summarization feature is greatly affected by call quality, speaking pace, and whether there are any unique words in the conversation, such as foreign names and objects. In most cases, Gemini transcribed dates, places, and bits of important information inaccurately.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Google Pixel 9 Pro XL](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HWL5WN%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39dec18e-dd16-4dc2-b042-42a2921ee93d%7Cdtp&dtb=1) is a contender for [best Android phone](https://www.zdnet.com/article/best-android-phone/) this year, even if you don't plan to use its on-device AI features. While the new model is Google's most expensive phone (barring foldables) yet, the price bump is justified by improvements in aspects that traditionally held the Pixel line back, such as charging speed, performance, and build quality.
 
 With the reintroduction of an XL model this year, the smaller [Pixel 9 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HVLTYV%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39dec18e-dd16-4dc2-b042-42a2921ee93d%7Cdtp&dtb=1) should appeal to users who want a more comfortable device without compromising on specs and camera hardware. And if both phones are out of your budget, but you want the core features, consider the cheaper [Pixel 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0D7HWJDQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39dec18e-dd16-4dc2-b042-42a2921ee93d%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test phones
 
@@ -129,11 +149,33 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-behind-the-scenes-top-storytelling-channels-on-yt-2023-for-2024/"><u>[New] Behind-the-Scenes Top Storytelling Channels on YT, 2023 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-on-turning-on-and-utilizing-your-oss-concealed-pathfinder-feature/"><u>A Step-by-Step Guide on Turning On & Utilizing Your OS's Concealed Pathfinder Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catching-every-gadget-reveal-viewing-samsungs-unpacked-ceremony-on-the-web/"><u>Catching Every Gadget Reveal: Viewing Samsung's Unpacked Ceremony on the Web</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/differences-between-signal-and-whatsapp-which-is-more-secure-for-your-chats/"><u>Differences Between Signal and WhatsApp – Which Is More Secure for Your Chats?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/experience-faster-speeds-with-the-latest-free-killer-network-driver-update-for-win-1087/"><u>Experience Faster Speeds with the Latest Free Killer Network Driver Update for Win 10/8/7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facebook-multi-photo-upload-tutorial-streamline-posting-several-pictures-simultaneeously/"><u>Facebook Multi-Photo Upload Tutorial: Streamline Posting Several Pictures Simultaneeously.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-to-the-current-hp-deskjet-270n-series-printer-drivers-step-by-step-guide/"><u>Find and Update to the Current HP DeskJet 270N Series Printer Drivers - Step by Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-the-world-from-anywhere-9-must-follow-steps/"><u>In 2024, Capturing the World From Anywhere 9 Must-Follow Steps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 12 Pro?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/projection-vs-television-best-device-for-immersive-4k-content/"><u>Projection vs Television Best Device for Immersive 4K Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-dilemma-effective-solutions-for-steam-update-wont-download-problem/"><u>Resolving the Dilemma: Effective Solutions for 'Steam Update Won't Download' Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-upcoming-oxygenos-device-estimated-prices-arrival-dates-and-potential-features-discussed/"><u>Sneak Peek at Upcoming OxygenOS Device: Estimated Prices, Arrival Dates & Potential Features Discussed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-steps-to-successfully-restart-your-non-responsive-airpods/"><u>Solving the Issue: Steps to Successfully Restart Your Non-Responsive AirPods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instrucuions-leveraging-slack-for-time-management-with-custom-reminders/"><u>Step-by-Step Instrucuions: Leveraging Slack for Time Management with Custom Reminders</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-6-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 6 You Should Try Out</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-trick-to-effortlessly-sync-up-your-bose-soundlink-system/"><u>The Definitive Trick to Effortlessly Sync Up Your Bose Soundlink System</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-fundamentals-of-compelling-documentary-screenplay-for-2024/"><u>The Fundamentals of Compelling Documentary Screenplay for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-latest-windows-enhancements-service-pack-details-for-july-2024/"><u>Unveiling the Latest Windows Enhancements - Service Pack Details for July 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unwrapping-the-4k-delight-sony-xperia-xz-premium-examined/"><u>Unwrapping the 4K Delight Sony Xperia XZ Premium Examined</u></a></li>
+</ul></div>
+

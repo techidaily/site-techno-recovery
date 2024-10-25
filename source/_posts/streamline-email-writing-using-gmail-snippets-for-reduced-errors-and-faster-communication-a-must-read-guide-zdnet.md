@@ -1,7 +1,7 @@
 ---
 title: "Streamline Email Writing Using Gmail Snippets for Reduced Errors & Faster Communication: A Must-Read Guide | ZDNET."
-date: 2024-09-18 23:49:58
-updated: 2024-09-20 11:23:57
+date: 2024-10-18T05:02:56.759Z
+updated: 2024-10-25T03:47:58.370Z
 tags:
   - google
 categories:
@@ -41,9 +41,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **What you'll need:** The only things you'll need are a valid Gmail account and the Vault addon. You can access your Vault (and the Snippets contained within) from either the browser or mobile version of Gmail. I will demonstrate with the web version (as that's what I use the most).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Installing the Vault add-on
 
 The first thing to do is install the Vault add-on for Gmail. To do this, open your web browser, point it to the [Vault addon page](https://workspace.google.com/marketplace/app/vault/740264277609), and click Install. Follow the prompts to complete the installation. Once the installation is complete, point your web browser to [Gmail](https://mail.google.com/mail/u/0/). Once Vault is installed (and Gmail is open), you're ready to go.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open Vault
 
@@ -52,6 +66,13 @@ With Gmail open, click the Compose button. you should see a new icon in the Comp
 The Gmail compose window should now include the Vault icon.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Launch the Snippet editor
 
@@ -78,6 +99,13 @@ When you need to use the new Snippet, all you have to do is open the Gmail Compo
 A quick click of Insert and your Snippet is added to your email.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A possible word of warning
 
@@ -110,11 +138,30 @@ If used wisely, Vault and Snippets can really save you time and typing in Gmail.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-perfectpic-pro-high-quality-windowsmac-images/"><u>[New] In 2024, PerfectPic Pro High-Quality Windows/Mac Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-simplicity-in-video-creation-a-guide-to-10-easy-to-make-youtube-videos/"><u>[Updated] Simplicity in Video Creation A Guide to 10 Easy-to-Make YouTube Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-mystery-behind-ussd-learn-everything-there-is-to-know-about-unstructured-supplementary-service-data-services/"><u>Decoding the Mystery Behind USSD - Learn Everything There Is to Know About Unstructured Supplementary Service Data Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-address-and-correct-missing-launchdll-errors-on-your-computer/"><u>Effective Strategies to Address and Correct Missing Launch.dll Errors on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-prominent-positioning-of-sticky-notes-in-win-11/"><u>Ensuring Prominent Positioning of Sticky Notes in Win 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-helperdll-errors-a-step-by-step-solution-for-users/"><u>Fixing 'Helper.dll' Errors - A Step-by-Step Solution for Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 12 mini</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-into-tomorrow-secure-these-7-devices-for-metaverse-life/"><u>In 2024, Step Into Tomorrow Secure These 7 Devices for Metaverse Life</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/psvr-integration-with-pc-a-step-by-step-walkthrough-for-enthusiasts/"><u>PSVR Integration with PC: A Step-by-Step Walkthrough for Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-wii-unable-to-read-disc-errors-top-strategies-for-gamers/"><u>Resolving 'Wii Unable to Read Disc' Errors: Top Strategies for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-common-issues-with-unresponsive-corsair-headsets-a-step-by-step-guide/"><u>Resolving Common Issues with Unresponsive Corsair Headsets - A Step by Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-5-best-video-editing-software-picks/"><u>The Ultimate List: 5 Best Video Editing Software Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-safe-methods-for-identifying-iphone-user-location-sharing/"><u>Understanding Safe Methods for Identifying iPhone User Location Sharing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/unveiling-top-10-trending-tweets-of-2023/"><u>Unveiling Top 10 Trending Tweets of 2023</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated 2024 Approved The Guide to Learning All the Details About Voice Cloning</u></a></li>
+</ul></div>
+

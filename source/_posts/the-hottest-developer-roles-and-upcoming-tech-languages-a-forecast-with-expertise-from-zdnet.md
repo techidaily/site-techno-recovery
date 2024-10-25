@@ -1,7 +1,7 @@
 ---
 title: "The Hottest Developer Roles & Upcoming Tech Languages: A Forecast with Expertise From ZDNet"
-date: 2024-09-19 21:51:43
-updated: 2024-09-20 10:57:26
+date: 2024-10-22T01:10:58.594Z
+updated: 2024-10-25T03:26:38.400Z
 tags:
   - professional-development
 categories:
@@ -26,6 +26,19 @@ The role of the software developer is as central to an organization's success no
 Running technology in a business has become a business in itself. As commerce goes digital and consumers spend more time working, shopping and managing their lives from home**,** companies are spending billions of dollars to showcase their technology and maintain a lead on competitors. As a result, software creators find themselves in enormous demand.
 
 This _ZDNet Special Feature_ series is both an examination of the role of developers and the work they do, as well as an exploration into the trends that are shaping the software industry, and with it, the direction of travel for businesses in the coming months and years. Our ambition is to cast a light on the value of software developers in the modern digital workplace, as well as investigate the skills, technologies and programming languages that are driving market demand.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Programming languages 
 
@@ -64,6 +77,13 @@ Take DevSkiller's 2021 IT Skills Report, for instance, which recorded a 295% yea
 Yet demand for data scientists currently outstrips supply. [A survey of nearly 14,000 developers and recruiters](https://www.codingame.com/work/codingame-coderpad-tech-hiring-survey-2022/) by CodinGame and CoderPad in January found that data scientists and machine-learning specialists were amongst the roles companies struggled to hire the most, owing to the small pool of experienced developers with the necessary skillsets. A [report by the UK's Royal Society in 2019](https://royalsociety.org/news/2019/05/data-science-skills-shortages/) warned that demand for data scientists and data engineers had more than tripled over five years.
 
 With demand for data scientists and their unique skillsets rising, it stands to reason that knowledge of highly specialist programming languages used within these fields is associated with higher salaries. The same goes for Rust: this multi-paradigm programming language has become a favourite amongst developers since its conception in 2010, but isn't yet widely used in commercial settings. O'Reilly notes that, despite its lower market demand, "employers interpret knowledge of Rust and Go as a sign of competence and willingness to learn, which increases candidates' value."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Web devs
 
@@ -113,11 +133,25 @@ Image: HackerRank
 
 Developers themselves are wise to the opportunities that DevOps offers: alongside machine learning, DevOps was among the top skills developers want to learn in 2022, CodinGame/CoderPad found. "DevOps enables remote business activities to be maintained without compromising speed or operational efficiency," said Frederic Desmoulins, co-founder and CEO of CodinGame.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [DevOps: What is it, and how can it help your business? Inspired by the world of just-in-time manufacturing and widely practised in 'greenfield' IT organisations such as web-scale businesses and startups, DevOps is now making inroads into the 'brownfield' enterprise market.  Read now](https://www.zdnet.com/article/devops-what-is-it-and-how-can-it-help-your-business/)
 
 "DevOps encompasses a set of skills and practices (version control, continuous integration, containers/Docker, cloud monitoring and analytics, deployment automation, network protocols), but there is a shortage of developers with this suite of skills to meet the demand, which has exploded in the past 18 months."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What comes next?
 
@@ -152,11 +186,27 @@ Whatever the case, the role of the developer continues to evolve. New business n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-through-video-editing-landscape-with-movies-maker-on-windows-8/"><u>[Updated] Navigating Through Video Editing Landscape with Movies Maker on Windows 8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722902038600-anticipating-the-future-of-tech-at-googles-forthcoming-showcase-stay-updated/"><u>Anticipating the Future of Tech at Google's Forthcoming Showcase - Stay Updated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-vg248qe-driver-update-step-by-step-guide-to-enhance-your-windows-experience/"><u>Asus VG248QE Driver Update: Step-by-Step Guide to Enhance Your Windows Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-premier-complimentary-voice-transform-for-valorant/"><u>Discover the Premier, Complimentary Voice Transform for Valorant</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-verbeterde-konvertor-van-bmp-naar-jpeg-online-veilig-en-efficient-met-movavi/"><u>Gratuit Verbeterde Konvertor Van BMP Naar JPEG: Online Veilig en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-handle-msvcr70dll-missing-or-undetected-problems/"><u>How to Correctly Handle MSVCR70.dll Missing or Undetected Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-edge-40-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Edge 40 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-web-how-to-access-and-enjoy-the-samsung-unpacked-presentation-from-home/"><u>Navigating the Web: How to Access and Enjoy the Samsung Unpacked Presentation From Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-missing-comctl32dll-file-a-step-by-step-guide/"><u>Resolving the Missing Comctl32.dll File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionize-your-image-editing-game-with-darktable-the-best-free-raw-photo-processor-for-mac-linux-and-more/"><u>Revolutionize Your Image Editing Game with Darktable - The Best Free RAW Photo Processor for Mac, Linux, and More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-correct-sequence-to-experience-the-the-conjuring-series-a-step-by-step-guide/"><u>The Correct Sequence to Experience the 'The Conjuring' Series: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-future-of-virtual-spaces-comparing-meta-and-omniverse-for-2024/"><u>The Future of Virtual Spaces Comparing Meta and Omniverse for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-resolving-code-800-on-clientserver-vpns/"><u>Troubleshooting Tips: Resolving Code 800 on Client/Server VPNs</u></a></li>
+</ul></div>
+

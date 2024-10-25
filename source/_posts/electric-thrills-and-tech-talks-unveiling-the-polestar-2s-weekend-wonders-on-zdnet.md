@@ -1,7 +1,7 @@
 ---
 title: "Electric Thrills & Tech Talks: Unveiling the Polestar 2'S Weekend Wonders on ZDNET"
-date: 2024-09-19 16:34:55
-updated: 2024-09-20 12:44:19
+date: 2024-10-19T22:56:45.777Z
+updated: 2024-10-24T19:25:56.753Z
 tags:
   - google
 categories:
@@ -28,6 +28,13 @@ My interest in EVs is more than just a desire to better understand the industry 
 My experience with EVs as a driver is somewhat limited -- ten years ago, I was given a [similar opportunity with the Chevy Volt](https://cms.zdnet.com/content/preview/article/an-electrifying-weekend-with-the-chevy-volt/us/ae9be1e5-5d93-11e4-b6a0-d4ae52e95e57), a plug-in hybrid. That GM vehicle has since been replaced with the [Chevy Bolt](https://www.chevrolet.com/electric/bolt-ev), a true EV. I've also recently test driven a [Tesla Model 3 Sport](https://www.tesla.com/model3?redirect=no), a 2019 model, and I have on occasion driven a [Tesla Model S](https://www.tesla.com/models) owned by one of my friends. So while it is not "zero," I don't claim to have a huge amount of EV expertise. 
 
 Polestar is an automotive brand that Chinese automotive manufacturer Geely owns through its acquisition of Volvo in 2010\. While the company is headquartered in Gothenburg, Sweden, all the production takes place in Luqiao, China. The company started delivering left-side drive US variants in December 2020 into the New York market and recently expanded its ["Spaces"](https://www.polestar.com/us/spaces/?gclid=CjwKCAiAhreNBhAYEiwAFGGKPNo%5FAFrG3qF4qjKgXGe9OnLLN44XCXWiFHX%5FidxnS2p0HG7v4NJIdBoCSn0QAvD%5FBwE) (showrooms) to 24 locations across the US. The company established a presence in Florida at its Tampa location and will soon have Spaces in Naples, Miami, and Palm Beach. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  First impressions 
 
@@ -75,9 +82,23 @@ The charge connectors that the US variant supports are [CCSI Type 1](https://wal
 
 Because I am not a seasoned EV or even automotive reviewer, my objective was not to performance test the vehicle. My main interest was understanding the underlying technology stack and seeing how it compares to its competitors in the space. So much has been written about this car by the automotive trades such as [Car & Driver](https://www.caranddriver.com/polestar/polestar-2) and the UK's [Car Magazine](https://www.carmagazine.co.uk/car-reviews/polestar/2-electric-car/) that I would not be able to give that type of evaluation justice, anyway. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  In the cockpit 
 
 One of the things that takes a bit of getting used to is there is no "energizing" or "turning on" the car. You carry the keyfob, which has Bluetooth Low Energy capabilities, and you unlock the door and get in -- that is it. When you sit down in the driver's seat, the car wakes up, as it has a weight sensor. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### CNET
 
@@ -137,6 +158,13 @@ As if the lack of full-blown smartphone connectivity was bad enough, there is th
 
 I understand that this is a known issue with the app, that Polestar's cloud servers that support it are frequently non-responsive, and others have needed to unpair their phones and juggle admin accounts to work around the problem. Regardless, I never tried any of these workarounds as I only had three days to use the vehicle, so I never knew what the charge level the car was at remotely unless I was using a 3rd-party app like Electrify America that was able to report the current status while the vehicle was being charged. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Even with these issues, I loved this car 
 
 Overall, my feeling is I liked the Polestar 2 better as a "car" than the Tesla Model 3\. Why? From a user interface perspective, while it has its issues (and these issues are not trivial), I liked the simplicity of the Android Automotive central console. The car has an actual dashboard showing navigational information and automobile performance data, and informatics. However, I would like to have seen more detailed on-the-fly performance information, such as from the various sensors on the car and electric motor data -- an "expert" mode or something. 
@@ -166,11 +194,30 @@ In summary, the Polestar 2 is quite a technical achievement, and it is a very fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-directly-viewing-facebook-videos-on-your-apple-tv-setup/"><u>[New] Directly Viewing Facebook Videos on Your Apple TV Setup</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-leading-websites-for-seamless-integration-of-text-overlays-for-2024/"><u>[New] Leading Websites for Seamless Integration of Text Overlays for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-blend-audio-and-visuals-editing-music-in-canva-videos/"><u>2024 Approved Blend Audio & Visuals Editing Music in Canva Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-your-phone-companion-iphone-or-android-the-ultimate-comparison/"><u>Choosing Your Phone Companion: IPhone or Android - The Ultimate Comparison</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dark-souls-iii-stability-issues-heres-how-to-fix-them-permanently/"><u>Dark Souls III Stability Issues? Here's How to Fix Them Permanently</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leverage-ai-to-improve-teamwork-incorporating-github-copilot-in-your-microsoft-teams-operations/"><u>Leverage AI to Improve Teamwork: Incorporating GitHub Copilot in Your Microsoft Teams Operations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reactivate-the-shadows-steps-to-recover-facebooks-dimmed-display-settings/"><u>Reactivate the Shadows: Steps to Recover Facebook's Dimmed Display Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-common-issues-by-learning-how-to-factory-reset-your-samsung-tv-model/"><u>Solve Common Issues by Learning How to Factory Reset Your Samsung TV Model.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-mastering-bluetooth-connectivity-with-your-iphone/"><u>Step-by-Step Tutorial: Mastering Bluetooth Connectivity with Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722883827890-troubleshoot-hulus-rununk13-issue-with-these-easy-fixes/"><u>Troubleshoot Hulu's RUNUNK13 Issue with These Easy Fixes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-efficiency-top-5-tactics-for-maximizing-your-facebook-usage/"><u>Unlocking Efficiency: Top 5 Tactics for Maximizing Your Facebook Usage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wwdc-2025-sneak-peek-latest-apple-innovations-and-exclusive-updates-revealed/"><u>WWDC 2025 Sneak Peek: Latest Apple Innovations & Exclusive Updates Revealed</u></a></li>
+<li><a href="https://discover-help.techidaily.com/nvidia-geforce-experience/"><u>ゲーム音専用動画作成: NVIDIA GeForce Experienceでの設定ガイド</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Discovering the World's Slimmest iPads at Apple Store - Does a Fractional Reduction in Size Matter? | Gizmodo
-date: 2024-10-16T09:53:31.630Z
-updated: 2024-10-19T05:10:02.970Z
+date: 2024-10-20T19:02:12.029Z
+updated: 2024-10-25T08:03:47.244Z
 tags:
   - apple
 categories:
@@ -75,13 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B0C3P346B4/ref=asc%5Fdf%5FB0C3P346B41727002800000?tag=cnet-pc-20&creative=395261&creativeASIN=B0C3P346B4&linkCode=asn) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -98,13 +91,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://www.amazon.com/Apple-2024-MacBook-13-inch-Laptop/dp/B0CX23V2ZK?tag=zdnet-buy-button-20): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://www.amazon.com/Apple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core/dp/B0CM5JV268?tag=zdnet-buy-button-20): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -112,13 +98,6 @@ HPZDNET
 * [HP Envy x360 2-in-1 for $845 (save $50)](https://www.amazon.com/HP-2-1-Touch-Screen-i7-16GB/dp/B0CZ37N6DL/ref=sr%5F1%5F3?tag=zdnet-buy-button-20): We recently had a chance to go [hands-on with HP's newest version of the Envy x360 2-in-1](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), and praised the laptop for its gorgeous display and all-around optimization. If that laptop looked interesting to you, but you want to save some money, the previous version is on sale on Amazon for just $845 for the 16GB, 2TB version.
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://www.amazon.com/HP-Display-i5-12450H-Dedicated-15-fa1029nr/dp/B0CVNJ7LLN?tag=zdnet-buy-button-20): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://www.amazon.com/HP-Generation-i3-1215U-Graphics-14-dq5009nr/dp/B0CS3XPZNH?tag=zdnet-buy-button-20): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
 
@@ -136,13 +115,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -151,13 +123,20 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://www.amazon.com/Microsoft-Surface-Tablet-High-Performance-Pre-Installed/dp/B0C5MW8R35/?tag=zdnet-buy-button-20): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://www.amazon.com/ASUS-VivoBook-Laptop-WUXGA-1920/dp/B0BT6NKLQR/?tag=zdnet-buy-button-20): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -172,15 +151,36 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -245,24 +245,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-budget-friendly-obs-optimization-techniques-for-2024/"><u>[New] Budget-Friendly OBS Optimization Techniques for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-30-pro-windows-10-secrets-revealed/"><u>[New] Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-top-quality-hero5-black-battery-packs-legit-and-third-party-options/"><u>2024 Approved Top-Quality Hero5 Black Battery Packs - Legit & Third-Party Options</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-evaluation-unveiling-why-recuva-leads-as-premier-data-recovery-software/"><u>Comprehensive Evaluation: Unveiling Why Recuva Leads as Premier Data Recovery Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-the-spoken-word-writing-compelling-narratives/"><u>Crafting the Spoken Word Writing Compelling Narratives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cross-platform-access-to-your-icloud-images-for-apple-windows-and-android-users/"><u>Cross-Platform Access to Your iCloud Images for Apple, Windows & Android Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-repair-handling-the-stop-error-labeled-as-0x0000003d-successfully/"><u>DIY Repair: Handling the STOP Error Labeled as 0X0000003D Successfully</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-variances-between-home-theater-systems-and-stereo-receivers-what-you-need-to-know/"><u>Exploring the Variances Between Home Theater Systems and Stereo Receivers: What You Need To Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-basics-to-pro-establishing-a-unique-email-closure-with-godaddys-online-mail-platform/"><u>From Basics to Pro: Establishing a Unique Email Closure with Godaddy's Online Mail Platform</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-shield-your-valuable-data-5-key-steps-for-reliable-storage-solutions/"><u>How to Shield Your Valuable Data: 5 Key Steps for Reliable Storage Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-reno-8t-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo Reno 8T 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/in-depth-analysis-why-were-thousands-of-users-disconnected-from-microsoft-groove-exclusive-report-on-zdnet/"><u>In-Depth Analysis: Why Were Thousands of Users Disconnected From Microsoft Groove? | Exclusive Report on ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-creating-duets-on-tiktok-a-step-by-step-guide/"><u>Mastering the Art of Creating Duets on TikTok: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-cd-dvd-and-blu-ray-drives-stuck-on-windowsmac/"><u>Step-by-Step Solution for CD, DVD, and Blu-Ray Drives Stuck on Windows/Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-best-current-british-tv-programs-available-on-netflix/"><u>The Best Current British TV Programs Available on Netflix</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-cinematic-magic-enhance-your-everyday-videos/"><u>Updated In 2024, Unleash Cinematic Magic Enhance Your Everyday Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-echoes-of-everyday-events/"><u>[New] Echoes of Everyday Events</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unleashing-the-power-of-tales-complimentary-apps-galore/"><u>[Updated] Unleashing the Power of Tales Complimentary Apps Galore</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-lenovo-thinkphone-unlock-without-password-by-drfone-android/"><u>5 Solutions For Lenovo ThinkPhone Unlock Without Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-restoring-your-microsoft-surface-pros-ability-to-connect-to-wireless-networks/"><u>DIY Fixes: Restoring Your Microsoft Surface Pro's Ability to Connect to Wireless Networks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exhilarating-stories-from-the-field-and-court-top-sporting-motion-pictures-to-enjoy-now/"><u>Exhilarating Stories From the Field and Court: Top Sporting Motion Pictures to Enjoy Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-fixing-the-corrupted-bios-checksum-quickly/"><u>Expert Advice: Fixing the Corrupted BIOS Checksum Quickly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-amd-radeon-graphic-card-software-for-windows-8-systems/"><u>Free AMD Radeon Graphic Card Software for Windows 8 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-d3dx933dll-could-not-be-loaded-issue-effectively/"><u>How to Resolve d3dx9_33.dll Could Not Be Loaded Issue Effectively</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-14-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi 14 FRP</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-deciphering-the-art-of-personalized-playlist-curation-for-youtube/"><u>In 2024, Deciphering the Art of Personalized Playlist Curation for YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/network-your-printer-efficiently-a-comprehhemical-guide-for-cross-device-sharing/"><u>Network Your Printer Efficiently: A Comprehhemical Guide for Cross-Device Sharing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-display-despite-power-on-troubleshoot-steps-for-restoring-visibility-on-your-computer/"><u>No Display Despite Power On - Troubleshoot Steps for Restoring Visibility on Your Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/saiyan-chronicles-unveiled-how-to-experience-dragons-and-heroes-sequentially-from-start-to-finish/"><u>Saiyan Chronicles Unveiled: How to Experience Dragons and Heroes Sequentially From Start to Finish</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-leveraging-googles-gemini-features/"><u>The Ultimate Tutorial on Leveraging Google's Gemini Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-13-complimentary-hdd-assessment-utilities-july-2024-edition/"><u>Top 13 Complimentary HDD Assessment Utilities - July 2024 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-13c-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi 13C 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-blockbusters-and-classic-shows-for-free-discover-crackle-streaming-service/"><u>Watch Blockbusters & Classic Shows for Free - Discover 'Crackle' Streaming Service</u></a></li>
 </ul></div>
 

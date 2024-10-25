@@ -1,7 +1,7 @@
 ---
 title: "Ditching Samsung, Switching to Pixel 9 Pro XL: A Tale of Two Tech Giants Over Two Weeks | ZDNet"
-date: 2024-09-18 20:26:22
-updated: 2024-09-20 12:55:48
+date: 2024-10-24T03:01:30.632Z
+updated: 2024-10-25T05:25:58.246Z
 tags:
   - google
 categories:
@@ -87,11 +87,25 @@ While I'm still testing every [new Pixel 9 AI feature](https://www.zdnet.com/art
 * **[Gemini Live](https://www.zdnet.com/article/you-can-access-googles-gemini-live-for-free-right-now-heres-how-and-why-youll-want-to/) (3/5)**: Like ChatGPT's voice feature, you can chat and ask questions to Gemini Live while it's running in the background. The AI will trip up at times and pause the session, but haptic feedback does help guide the flow of the conversation. Multimodality and synchronization with the [Pixel Buds Pro 2](https://www.zdnet.com/article/google-unveils-pixel-buds-pro-2-here-are-the-3-features-im-most-excited-about/) should improve the experience tremendously.
 * **[Call Notes](https://www.zdnet.com/article/this-simple-and-actually-useful-ai-tool-is-my-favorite-new-pixel-feature-its-in-ios-18-too/) (2/5)**: The reliability of the summarization feature is greatly affected by call quality, speaking pace, and whether there are any unique words in the conversation, such as foreign names and objects. In most cases, Gemini transcribed dates, places, and bits of important information inaccurately.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It's still too early to call the [Google Pixel 9 Pro XL](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HWL5WN%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ca622f3-bf4d-4bdf-87eb-98a9d106a52c%7Cdtp&dtb=1) the [best Android phone](https://www.zdnet.com/article/best-android-phone/) this year, but it's certainly up there for consideration -- even with its AI blunders. While the new model is Google's most expensive non-foldable phone yet, the price bump is justified by improvements in aspects that traditionally held the Pixel line back, such as charging speed, performance, and build quality.
 
 With the reintroduction of an XL model this year, the smaller [Pixel 9 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HVLTYV%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ca622f3-bf4d-4bdf-87eb-98a9d106a52c%7Cdtp&dtb=1) should appeal to users who want a more comfortable device without compromising on specs and camera hardware. And if both phones are out of your budget, but you want the core features, consider the cheaper [Pixel 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0D7HWJDQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ca622f3-bf4d-4bdf-87eb-98a9d106a52c%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test phones
 
@@ -127,11 +141,29 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/fixed-windows-pc-health-check-app-not-working/"><u>[Fixed] Windows PC Health Check App Not Working</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-steps-for-capturing-hd-content-on-fb/"><u>[New] In 2024, Steps for Capturing HD Content on FB</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-restoring-your-obs-cameras-integrated-functionality/"><u>[Updated] 2024 Approved Restoring Your OBS Camera’s Integrated Functionality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-expertise-in-easel-alterations-color-command-for-2024/"><u>[Updated] Expertise in Easel Alterations - Color Command for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-modern-vr-equipment-overview/"><u>[Updated] Modern VR Equipment Overview</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-10-websites-dominating-internet-traffic-today/"><u>Discover the Leading 10 Websites Dominating Internet Traffic Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-downgrading-your-nvidia-drivers-in-windows-10/"><u>Effective Techniques for Downgrading Your Nvidia Drivers in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-techniques-for-optimizing-cpu-performance-and-reducing-load-on-windows-devices/"><u>Essential Techniques for Optimizing CPU Performance and Reducing Load on Windows Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-strategies-resetting-your-lost-snapchat-account-key/"><u>Expert Strategies: Resetting Your Lost Snapchat Account Key</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fast-track-changing-your-facebook-password-made-effortless/"><u>Fast Track: Changing Your Facebook Password Made Effortless</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/freedom-online-how-to-remove-content-filters-and-unblock-sites-on-chrome/"><u>Freedom Online: How to Remove Content Filters and Unblock Sites on Chrome</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-easy-steps-to-set-up-wi-fi-connection-on-your-windows-11-pc/"><u>Guide: Easy Steps to Set Up Wi-Fi Connection on Your Windows 11 PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instant-image-perfection-advanced-cropping-guide-for-2024/"><u>Instant Image Perfection - Advanced Cropping Guide for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+</ul></div>
+

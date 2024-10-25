@@ -1,7 +1,7 @@
 ---
 title: Google Enhances Gemini with Exclusive ChatGPT Features, Including a Complimentary Option to Elevate Your Experience | Tech Digest Insights
-date: 2024-09-17 20:24:26
-updated: 2024-09-20 12:45:58
+date: 2024-10-23T02:12:17.552Z
+updated: 2024-10-24T22:31:01.217Z
 tags:
   - google
 categories:
@@ -41,6 +41,13 @@ Google also shared that the integration of Imagen 3 into Gemini has built-in saf
 
 In the coming days, Google will also roll out the ability to generate images of people. However, early access versions will be available first to Gemini Advanced, Business, and Enterprise users in English. This feature has some limitations, including the generation of identifiable individuals and minors and violent, gory, or sexual scenes. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gems
 
 At Google I/O, Google announced [Gems](https://www.zdnet.com/article/3-ways-gemini-advanced-beats-other-ai-assistants-according-to-google/), which are customized versions of Gemini for tackling particular tasks. To set up a Gem, a user simply has to give it an instruction, name it, and use it when needed to perform a specific function. 
@@ -74,11 +81,29 @@ Creating custom assistants is a paid feature on both ChatGPT and Gemini. However
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-crop-chronicles-the-ultimate-farm-farewell-fest-for-2024/"><u>[New] Crop Chronicles The Ultimate Farm Farewell Fest for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-youtube-collaboration-partners-in-2024/"><u>[New] How to Find YouTube Collaboration Partners, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-flashback-screen-recorder-review-in-depth-for-2024/"><u>[Updated] FlashBack Screen Recorder Review in Depth for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-why-highlighted-content-flourishes-on-instagram-stories/"><u>2024 Approved Why Highlighted Content Flourishes on Instagram Stories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c110-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C110 is off? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/everything-you-need-to-know-about-samsung-galaxy-ring-price-points-specs-release-schedule-and-current-headlines/"><u>Everything You Need to Know About Samsung Galaxy Ring - Price Points, Specs, Release Schedule & Current Headlines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/imessage-fortress-strengthening-apples-cloud-service-with-2fa/"><u>IMessage Fortress: Strengthening Apple's Cloud Service with 2FA</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-2023-play-facebook-videos-on-tv/"><u>In 2024, 2023 | Play Facebook Videos on TV?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/professional-recommendations-superior-voice-modification-tools/"><u>Professional Recommendations Superior Voice Modification Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/referral-programs/"><u>Referral Programs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-transition-moving-your-memories-from-google-photos-to-icloud/"><u>Seamless Transition: Moving Your Memories From Google Photos to iCloud</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-for-sending-emojis-from-an-iphone-device/"><u>The Ultimate How-To for Sending Emojis From an iPhone Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-capturing-your-gaming-moments-with-ps4/"><u>Ultimate Guide: Capturing Your Gaming Moments with PS4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-wirelessly-linking-your-nintendo-switch-console-to-the-television/"><u>Ultimate Guide: Wirelessly Linking Your Nintendo Switch Console to the Television</u></a></li>
+</ul></div>
+

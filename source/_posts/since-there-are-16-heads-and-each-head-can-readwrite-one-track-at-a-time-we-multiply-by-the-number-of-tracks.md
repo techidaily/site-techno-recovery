@@ -1,7 +1,7 @@
 ---
 title: Since There Are 16 Heads and Each Head Can Read/Write One Track at a Time, We Multiply by the Number of Tracks.
-date: 2024-09-18 15:39:13
-updated: 2024-09-20 12:25:16
+date: 2024-10-18T01:36:54.862Z
+updated: 2024-10-24T16:37:40.020Z
 tags:
   - energy
 categories:
@@ -43,11 +43,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhance-every-viewing-moment-with-these-top-6-free-platforms-for-youtube-short-downloads/"><u>[New] 2024 Approved Enhance Every Viewing Moment with These Top 6 Free Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-beginners-blueprint-for-youtube-income-growth/"><u>[New] In 2024, Beginner's Blueprint for YouTube Income Growth</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-guide-how-to-automate-recording-of-your-google-gatherings/"><u>[New] In 2024, Effortless Guide How to Automate Recording of Your Google Gatherings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-seamless-screen-effects-3-simple-shifting-methods/"><u>[New] In 2024, Seamless Screen Effects 3 Simple Shifting Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-google-pixel-fold-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Google Pixel Fold Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-authentically-enjoy-immersive-dolby-atmos-surround-sound/"><u>Can You Authentically Enjoy Immersive Dolby Atmos Surround Sound?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-how-to-correct-msvcr71dll-error-on-windows-systems/"><u>Comprehensive Guide: How to Correct MSVCR71.DLL Error on Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-instagram-insights-into-how-it-works-and-why-people-love-it/"><u>Decoding Instagram: Insights Into How It Works and Why People Love It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dive-into-safety-expertly-reviewed-best-water-resistant-smartphone-covers/"><u>Dive Into Safety: Expertly Reviewed Best Water-Resistant Smartphone Covers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-critical-system-failsures-a-deep-dive-into-ntldr-error-troubleshooting/"><u>Fixing Critical System Failsures: A Deep Dive Into NTLDR Error Troubleshooting</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-f25-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo F25 Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a2-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A2 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-cross-service-playlist-migration-step-by-step-guide-for-2024/"><u>Mastering Cross-Service Playlist Migration Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-quick-fixes-for-malfunctioning-computer-keyboards-tips-and-techniques/"><u>Mastering Quick Fixes for Malfunctioning Computer Keyboards: Tips & Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/playstation-networks-stability-worldwide-crash-or-just-you-guys/"><u>PlayStation Network's Stability: Worldwide Crash or Just You, Guys?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resetting-your-samsung-tv-essential-steps-and-tips-for-success/"><u>Resetting Your Samsung TV: Essential Steps and Tips for Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-9gag-pathway-to-piling-up-popular-memes-for-2024/"><u>The 9GAG Pathway to Piling Up Popular Memes for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-guide-navigating-comments-and-outlining-issues-in-emeditor/"><u>Troubleshooting Guide: Navigating Comments & Outlining Issues in EmEditor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-17-exceptional-tools-for-graphic-design-professionals/"><u>Unveiling 17 Exceptional Tools for Graphic Design Professionals</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

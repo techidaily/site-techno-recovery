@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on Unihertz Titan Slim by ZDNET – In-Depth Product Reveal
-date: 2024-09-18 15:37:18
-updated: 2024-09-20 10:50:48
+date: 2024-10-22T21:55:19.085Z
+updated: 2024-10-25T02:51:07.603Z
 tags:
   - google
 categories:
@@ -47,6 +47,13 @@ For the past couple of weeks, I have been testing an early prototype of the [Uni
 
 The Titan Pocket is the sixth phone launched on Kickstarter by Unihertz and I've had the opportunity to test out the last five. The phones are affordably priced, even outside of the Kickstarter special offers, and target niche segments of the smartphone market. Each one has far exceeded the modest Kickstarter goals and with the Titan Slim we see there are already more than 2,000 backers with pledges almost reaching $535,000 (at the time of publishing this article).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Hardware
 
 When Unihertz first reached out to me about the chance to try out a Titan Slim, I was excited because I thought it would be an updated version of something like a [BlackBerry Key2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBlackBerry-Unlocked-Android-Smartphone-T-Mobile%2Fdp%2FB07D7TJQ83%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbf9035df-c0f9-4b9c-8bc3-8cf7623bc7cc%7Cdtp&dtb=1). I quickly opened up the plain package and almost fell out of my chair laughing at the thickness of a phone with slim in the title. The Key2 measures 8.5mm in thickness, 4mm less than the Titan Slim. Needless to say, this is not a slim or sleek phone.
@@ -74,6 +81,13 @@ The volume buttons are positioned on the upper right side with the power button 
 **Also:** [**Unihertz Titan first impressions: Big, rugged, long-lasting, QWERTY Android phone**](https://www.zdnet.com/article/unihertz-titan-first-impressions-big-rugged-long-lasting-qwerty-android-phone/)
 
 The 48-megapixel camera is found in the upper left corner with a flash to the right of the camera. The back is cheap, glossy black plastic, and combined with the glossy black sides gives the phone a rather terrible feel. I guess at the estimated $250 price, we can't ask for too much.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -111,11 +125,25 @@ The home screen supports common app widgets too so you can customize your Androi
 
 **Also:** [**Unihertz Atom XL hands-on: Four-inch display, 48MP camera, and DMR support for less than $330**](https://www.zdnet.com/article/unihertz-atom-xl-hands-on-four-inch-display-48mp-camera-and-dmr-support-for-less-than-330/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Initial usage experiences 
 
 Unihertz appeals to a niche market and it appears there are a few thousand people around the world who are interested in cheap phones with a QWERTY keyboard.
 
 While I did not enjoy using the keyboard, I did like that a BlackBerry-esque interface exists to set up custom shortcuts. It's also nice to have the keyboard function as a trackpad for scrolling without touching the display.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -148,11 +176,24 @@ Battery life seemed fine, but I honestly couldn't keep my SIM in too long to tes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-excellent-pc-screen-grabbers-the-most-useful-1-5-for-2024/"><u>[New] Excellent PC Screen Grabbers The Most Useful #1-#5 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-rated-5-web-videography-editing-suites/"><u>2024 Approved Top-Rated 5 Web Videography Editing Suites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-iphone-15-pro-max-with-samsung-galaxy-s24-ultra-key-distinctions-revealed/"><u>Comparing iPhone 15 Pro Max with Samsung Galaxy S24 Ultra: Key Distinctions Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-common-errors-with-microsoft-outlooks-spell-check-utility/"><u>Diagnosing and Repairing Common Errors with Microsoft Outlook's Spell Check Utility</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-razr-40-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Razr 40 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-monitoring-your-data-plans-utilization-online/"><u>Mastering the Art of Monitoring Your Data Plan's Utilization Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-your-journey-with-these-top-8-travel-planner-tools/"><u>Navigate Your Journey with These Top 8 Travel Planner Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/pursuit-for-full-viewable-content-from-friends-on-direct-chat-platforms/"><u>Pursuit for Full Viewable Content From Friends on Direct Chat Platforms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-tecno-spark-10-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Tecno Spark 10 5G FRP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-marketers-best-friend-20-words-that-work-wonders/"><u>The Marketer's Best Friend - 20 Words That Work Wonders</u></a></li>
+</ul></div>
+

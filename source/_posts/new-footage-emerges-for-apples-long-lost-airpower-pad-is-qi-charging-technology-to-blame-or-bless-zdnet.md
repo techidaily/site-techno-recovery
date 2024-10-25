@@ -1,7 +1,7 @@
 ---
 title: New Footage Emerges for Apple's Long-Lost AirPower Pad - Is Qi Charging Technology to Blame or Bless? | ZDNET
-date: 2024-10-11T18:45:31.814Z
-updated: 2024-10-18T19:36:33.824Z
+date: 2024-10-22T16:43:37.114Z
+updated: 2024-10-25T02:45:26.063Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,22 +115,21 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-clandestine-call-collectors-a-stealthy-apps-review-androidios/"><u>[New] 2024 Approved Clandestine Call Collectors A Stealthy Apps Review (Android/iOS)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-20-country-anthems-from-tiktoks-chillest-stations-for-2024/"><u>[New] Top 20 Country Anthems From TikTok's Chillest Stations for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-high-end-methods-for-monitoring-and-recording-pc-sounds/"><u>[Updated] 2024 Approved High-End Methods for Monitoring and Recording PC Sounds</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-capturing-horizon-views-for-successful-drone-livestreams/"><u>[Updated] Capturing Horizon Views for Successful Drone Livestreams</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-evasive-moves-for-a-shadowbanned-tiktoker-for-2024/"><u>[Updated] Evasive Moves for a Shadowbanned TikToker for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fix-steam-dll-problems-a-step-by-step-tutorial-for-error-free-gaming/"><u>Fix Steam DLL Problems: A Step-by-Step Tutorial for Error Free Gaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-effortlessly-buy-and-read-ebooks-using-the-apple-books-app-on-iphones-or-ipads/"><u>How to Effortlessly Buy and Read eBooks Using the Apple Books App on iPhones or iPads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ideal-top-ten-video-calls-applications-for-alltech-for-2024/"><u>Ideal Top-Ten Video Calls Applications for Alltech for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-s-best-mobile-video-editors-with-audio-tracks/"><u>In 2024, S Best Mobile Video Editors with Audio Tracks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722866247935-macbook-pro-keyboard-malfunction-heres-how-to-fix-it/"><u>MacBook Pro Keyboard Malfunction? Here's How to Fix It!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/maximize-instagram-network-best-free-safe-androidios-followers-for-2024/"><u>Maximize Instagram Network - Best Free, Safe Android/iOS Followers for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/neo-qled-vs-oled-tvs-decoding-the-differences-for-a-savvy-shopper/"><u>Neo QLED Vs. OLED TVs: Decoding the Differences for a Savvy Shopper</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-technical-glitches-paramountplus-working-flawlessly-on-a-fire-tv-stick/"><u>Overcoming Technical Glitches: Paramount+ Working Flawlessly on a Fire TV Stick</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-ace-3-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your OnePlus Ace 3 Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-cable-modem-and-router-bundles-for-optimal-home-internet/"><u>Top-Rated Cable Modem and Router Bundles for Optimal Home Internet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-how-to-resolve-blue-screen-of-death-stop-0x00000078/"><u>Troubleshooting Guide: How to Resolve Blue Screen of Death (Stop 0X00000078)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-your-internet-data-usage-tips-and-tricks/"><u>Understanding Your Internet Data Usage - Tips & Tricks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-leveraging-unwanted-scenes-for-creative-outcomes/"><u>[New] Leveraging Unwanted Scenes for Creative Outcomes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pickup-or-something-else-unveiling-best-android-photo-editor/"><u>[Updated] PickUp or Something Else? Unveiling Best Android Photo Editor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-stepwise-guide-integrating-subtitles-into-your-vimeo-content/"><u>[Updated] Stepwise Guide Integrating Subtitles Into Your Vimeo Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategy-for-wiping-out-all-favorite-tracks-from-your-spotify-profile/"><u>Comprehensive Strategy for Wiping Out All Favorite Tracks From Your Spotify Profile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-highlights-from-apple-wwdc-202-3-cutting-edge-tech-revealed-at-the-global-developer-summit/"><u>Discover the Highlights From Apple WWDC 202 #3: Cutting-Edge Tech Revealed at the Global Developer Summit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-resetting-your-stubborn-airpods-easily/"><u>Effective Solutions for Resetting Your Stubborn AirPods Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-android-system-intelligence-work-exploring-advanced-tech-features/"><u>How Does Android System Intelligence Work? Exploring Advanced Tech Features</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-excel-2016-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in Excel 2016 files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-lib4eay32dll-is-absent-or-unavailable-glitches/"><u>How To Repair 'lib4eay32.dll Is Absent or Unavailable' Glitches</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/kostenloses-top-videoschnitt-tool-fur-windows-1187-and-macos-perfekt-zum-ausschneiden-von-videoinhalten/"><u>Kostenloses Top-Videoschnitt-Tool Für Windows (11,8,7) & macOS - Perfekt Zum Ausschneiden Von Videoinhalten</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-lameencdll-issues-in-audacity-the-ultimate-guide/"><u>Resolving lame_enc.dll Issues in Audacity: The Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-the-annoying-cursor-flicker-with-easy-solutions/"><u>Stop the Annoying Cursor Flicker with Easy Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-dts-play-fi-a-guide-to-smart-audio-technology/"><u>Understanding DTS Play-Fi: A Guide to Smart Audio Technology</u></a></li>
 </ul></div>
 

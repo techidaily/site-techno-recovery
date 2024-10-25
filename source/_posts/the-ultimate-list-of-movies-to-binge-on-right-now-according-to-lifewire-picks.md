@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Movies to Binge on Right Now, According to Lifewire Picks
-date: 2024-10-16T23:38:27.725Z
-updated: 2024-10-18T22:56:38.492Z
+date: 2024-10-22T00:53:19.335Z
+updated: 2024-10-25T01:39:49.874Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Movies to Binge on Right Now, According to Lifewire Picks
@@ -41,32 +41,12 @@ thumbnail: https://www.lifewire.com/thmb/wWu4ARc7rQSVfyt1zdVspH1EuO8=/540x405/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -76,18 +56,18 @@ thumbnail: https://www.lifewire.com/thmb/wWu4ARc7rQSVfyt1zdVspH1EuO8=/540x405/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -100,6 +80,13 @@ thumbnail: https://www.lifewire.com/thmb/wWu4ARc7rQSVfyt1zdVspH1EuO8=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -110,13 +97,6 @@ thumbnail: https://www.lifewire.com/thmb/wWu4ARc7rQSVfyt1zdVspH1EuO8=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -126,6 +106,13 @@ thumbnail: https://www.lifewire.com/thmb/wWu4ARc7rQSVfyt1zdVspH1EuO8=/540x405/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -146,6 +133,19 @@ thumbnail: https://www.lifewire.com/thmb/wWu4ARc7rQSVfyt1zdVspH1EuO8=/540x405/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,16 +176,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-a-comprehensive-guide-to-online-podcast-recording/"><u>[New] A Comprehensive Guide to Online Podcast Recording</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo/"><u>[New] Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ig-boom-technique-how-to-amass-a-massive-follower-count-quickly/"><u>2024 Approved The IG Boom Technique How to Amass a Massive Follower Count Quickly</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unleash-creativity-for-captivating-fb-video-marketing-strategies/"><u>2024 Approved Unleash Creativity for Captivating Fb Video Marketing Strategies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cost-effective-home-entertainment-solutions-beginners-starter-kit-selection/"><u>Cost-Effective Home Entertainment Solutions - Beginner's Starter Kit Selection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-netflix-problems-on-lg-tv-a-comprehensive-guide-with-19-tips-and-techniques/"><u>Fixing Netflix Problems on LG TV: A Comprehensive Guide with 19 Tips and Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-address-your-softwares-search-for-the-lost-d3dx9novaluedll-component/"><u>How to Address Your Software's Search for the Lost d3dx9_novalue.dll Component</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g73-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G73 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-red-magic-9-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-s-hottest-android-video-editing-apps-free-and-paid-picks/"><u>New S Hottest Android Video Editing Apps Free and Paid Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-ensuring-windows-starts-up-in-safe-mode-instantly/"><u>Step-by-Step Guide to Ensuring Windows Starts Up in Safe Mode Instantly</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-elite-echoes-the-windows-choice/"><u>[New] 2024 Approved Elite Echoes The Windows Choice</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/udiovisual-rhythm-optimal-dj-content-for-gatherings/"><u>[New] Audiovisual Rhythm Optimal DJ Content for Gatherings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-insightful-analysis-of-modern-human-interaction-systems/"><u>[New] In 2024, Insightful Analysis of Modern Human Interaction Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-expertise-in-editing-how-to-add-descriptive-texts-to-videos/"><u>[Updated] Expertise in Editing How to Add Descriptive Texts to Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-innovative-recorders-for-console-gameplay-footage/"><u>[Updated] In 2024, Innovative Recorders for Console Gameplay Footage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-every-must-play-game-for-your-new-ps5/"><u>Discover Every Must-Play Game for Your New PS5!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ready-for-macos-version-15-sequoia-release-sneak-peek-feature-highlights-and-latest-developments/"><u>Get Ready for macOS Version 15 'Sequoia': Release Sneak Peek, Feature Highlights & Latest Developments</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lens-based-enlightenment-guide-to-editing-brilliance-for-2024/"><u>Lens-Based Enlightenment Guide to Editing Brilliance for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maintain-uninterrupted-access-to-your-important-documents-using-our-5-best-practices/"><u>Maintain Uninterrupted Access to Your Important Documents Using Our 5 Best Practices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-black-screens-on-startup-how-to-restore-your-machines-display/"><u>Navigating Black Screens on Startup - How To Restore Your Machine's Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-market-is-buying-a-blu-ray-player-a-good-decision-now/"><u>Navigating the Market: Is Buying a Blu-Ray Player a Good Decision Now?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/never-miss-a-dot-eliminate-your-yahoo-account-without-looking-back/"><u>Never Miss a Dot: Eliminate Your Yahoo Account Without Looking Back</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailoring-or-buying-outright-making-the-ideal-decision-on-assembling-vs-purchasing-a-pc/"><u>Tailoring or Buying Outright - Making the Ideal Decision on Assembling vs Purchasing a PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-quintessential-guide-to-selecting-premium-drone-engines/"><u>The Quintessential Guide to Selecting Premium Drone Engines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-resolving-connection-issues-with-your-stadia-headset/"><u>Troubleshooting Guide: Resolving Connection Issues with Your Stadia Headset</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-handbrake-issues-in-windows-11-effective-solutions-and-workarounds/"><u>Troubleshooting Handbrake Issues in Windows 11: Effective Solutions & Workarounds</u></a></li>
 </ul></div>
 

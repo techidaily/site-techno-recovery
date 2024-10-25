@@ -1,7 +1,7 @@
 ---
 title: The Booming Market of Low and No Code Platforms Signals Major Changes for Technology Professionals | Analysis by ZDNet
-date: 2024-09-17 13:41:12
-updated: 2024-09-20 11:47:10
+date: 2024-10-21T21:34:07.338Z
+updated: 2024-10-25T03:38:27.878Z
 tags:
   - professional-development
 categories:
@@ -40,6 +40,13 @@ The main concern about low-code and no-code is its potential to exacerbate the s
 
 Shakhnovich agrees that shadow IT is a risk, especially since there's a possibility of "one or very few users knowing how the system works, and a proliferation of governance issues." This opens up a new role for IT professionals as well -- "establishing appropriate oversight, so citizen developers can have the freedom to improve their work," he says. "While low-code and no-code solutions tend to be both efficient and cost-effective, there are instances where security concerns or need for complex functionality might limit their effectiveness."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Developer
 
 * [It's the end of programming as we know it -- again](https://www.zdnet.com/article/its-the-end-of-programming-as-we-know-it-again/)
@@ -73,11 +80,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-chuckles-building-your-own-humorous-artifacts/"><u>2024 Approved Metaverse Chuckles Building Your Own Humorous Artifacts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/deconstructing-the-limits-to-longer-instagram-videos-for-2024/"><u>Deconstructing the Limits to Longer Instagram Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fishing-footage-kings-select-the-best-camers/"><u>Fishing Footage Kings Select the Best Camers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-computer-muting-issues-fast-and-effectively/"><u>How to Repair Computer Muting Issues Fast and Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-7-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 7 Pro Bootloader Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/legally-spying-on-mobile-phones-your-step-by-step-guide/"><u>Legally Spying on Mobile Phones - Your Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-kodi-streaming-a-complete-resource-for-all-your-questions-answered/"><u>Mastering Kodi Streaming: A Complete Resource for All Your Questions Answered</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-solo-adventures-a-players-guide-to-steam-offline-mode/"><u>Mastering Solo Adventures: A Player's Guide to Steam Offline Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-stealth-mode-tips-for-secret-internet-exploration/"><u>Mastering Stealth Mode: Tips for Secret Internet Exploration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pc-survival-tactics-a-beginners-handbook-to-jump-into-fortnite-action/"><u>PC Survival Tactics: A Beginner’s Handbook to Jump Into Fortnite Action!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-deletions-expert-tips-for-recovering-missing-iphone-note-content/"><u>Retrieve Deletions: Expert Tips for Recovering Missing iPhone Note Content</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-favoriten-beste-kostenlose-rollback-decompile-apps-fur-microsoft-windows-betriebssysteme-10-8-nicht-7/"><u>Top-Favoriten: Beste Kostenlose Rollback Decompile Apps Für Microsoft Windows Betriebssysteme (10, 8, Nicht 7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-xiaomi-redmi-note-12t-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Xiaomi Redmi Note 12T Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-lenovo-tab-m10-fhd-plus-2020-premium-screen-quality-for-budget-buyers/"><u>Ultimate Guide to Lenovo Tab M10 FHD Plus (2020) - Premium Screen Quality for Budget Buyers</u></a></li>
+</ul></div>
+

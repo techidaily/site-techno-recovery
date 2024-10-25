@@ -1,7 +1,7 @@
 ---
 title: "From Galaxy S24 Ultra to Pixel 9 Pro XL: A Transformative Switch Experience Over Two Weeks – Exclusive Insights"
-date: 2024-09-17 22:44:43
-updated: 2024-09-20 11:44:39
+date: 2024-10-20T04:41:53.878Z
+updated: 2024-10-24T18:43:10.861Z
 tags:
   - google
 categories:
@@ -87,11 +87,25 @@ While I'm still testing every [new Pixel 9 AI feature](https://www.zdnet.com/art
 * **[Gemini Live](https://www.zdnet.com/article/you-can-access-googles-gemini-live-for-free-right-now-heres-how-and-why-youll-want-to/) (3/5)**: Like ChatGPT's voice feature, you can chat and ask questions to Gemini Live while it's running in the background. The AI will trip up at times and pause the session, but haptic feedback does help guide the flow of the conversation. Multimodality and synchronization with the [Pixel Buds Pro 2](https://www.zdnet.com/article/google-unveils-pixel-buds-pro-2-here-are-the-3-features-im-most-excited-about/) should improve the experience tremendously.
 * **[Call Notes](https://www.zdnet.com/article/this-simple-and-actually-useful-ai-tool-is-my-favorite-new-pixel-feature-its-in-ios-18-too/) (2/5)**: The reliability of the summarization feature is greatly affected by call quality, speaking pace, and whether there are any unique words in the conversation, such as foreign names and objects. In most cases, Gemini transcribed dates, places, and bits of important information inaccurately.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It's still too early to call the [Google Pixel 9 Pro XL](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HWL5WN%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa90454f-a0d4-4eb0-a551-8dc7c22bfa00%7Cdtp&dtb=1) the [best Android phone](https://www.zdnet.com/article/best-android-phone/) this year, but it's certainly up there for consideration -- even with its AI blunders. While the new model is Google's most expensive non-foldable phone yet, the price bump is justified by improvements in aspects that traditionally held the Pixel line back, such as charging speed, performance, and build quality.
 
 With the reintroduction of an XL model this year, the smaller [Pixel 9 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HVLTYV%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa90454f-a0d4-4eb0-a551-8dc7c22bfa00%7Cdtp&dtb=1) should appeal to users who want a more comfortable device without compromising on specs and camera hardware. And if both phones are out of your budget, but you want the core features, consider the cheaper [Pixel 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0D7HWJDQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa90454f-a0d4-4eb0-a551-8dc7c22bfa00%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test phones
 
@@ -127,11 +141,31 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-exclusive-guide-to-prime-livestream-sites/"><u>[Updated] Exclusive Guide to Prime Livestream Sites</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-story-complete-guide/"><u>[Updated] In 2024, Facebook Story Complete Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevate-your-farm-the-top-7-stardew-modifications/"><u>2024 Approved Elevate Your Farm The Top 7 Stardew Modifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-silencing-the-voice-prompt-functionality-in-samsung-televisions/"><u>A Comprehensive Guide to Silencing the Voice Prompt Functionality in Samsung Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-public-no-cost-domain-name-systems/"><u>Comprehensive Guide to Public, No-Cost Domain Name Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-tips-and-tricks-taking-a-screenshot-on-your-hp-notebook/"><u>Easy Tips & Tricks - Taking a Screenshot on Your HP Notebook</u></a></li>
+<li><a href="https://discover-help.techidaily.com/fixing-the-issue-unable-to-burn-a-dvd-with-your-windows-10-pc-a-comprehensive-guide/"><u>Fixing the Issue: Unable to Burn a DVD with Your Windows 10 PC – A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-electric-cars-unlock-free-benefits-hov-lane-privileges-and-dedicated-parking-spaces/"><u>How Electric Cars Unlock Free Benefits: HOV Lane Privileges and Dedicated Parking Spaces</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-logitech-g933-microphone-troubleshooting-guide/"><u>How to Fix a Non-Functioning Logitech G933 Microphone: Troubleshooting Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-a05-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy A05 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/next-gen-gaming-faceoff-evaluating-sonys-ps5-slim-against-the-full-ps5-model/"><u>Next-Gen Gaming Faceoff: Evaluating Sony's PS5 Slim Against the Full PS5 Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reactivate-iphone-notifications-steps-to-address-the-non-ringing-problem/"><u>Reactivate iPhone Notifications: Steps to Address the Non-Ringing Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-for-discerning-genuine-contacts-from-impostor-link-requests-on-social-platforms/"><u>Strategies for Discerning Genuine Contacts From Impostor Link Requests on Social Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-perfect-viewing-order-enjoy-the-conjuring-series-step-by-step/"><u>The Perfect Viewing Order: Enjoy the 'Conjuring' Series Step by Step</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-the-landscape-the-five-key-upgrades-needed-for-android-to-outshine-ios/"><u>Transforming the Landscape: The Five Key Upgrades Needed for Android to Outshine iOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-creation-journey-from-adobe-premiere-to-youtube-for-2024/"><u>Video Creation Journey From Adobe Premiere to YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-when-your-automot-grooves-audio-system-abruptly-fails/"><u>What To Do When Your Automot Groove's Audio System Abruptly Fails</u></a></li>
+</ul></div>
+

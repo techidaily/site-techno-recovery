@@ -1,7 +1,7 @@
 ---
 title: "Affordable Marvel: Discovering the Top Under-$200 Android Device with an Eye-Catching Design - Exclusive Review by ZDNet"
-date: 2024-09-18 23:13:31
-updated: 2024-09-20 10:11:27
+date: 2024-10-19T02:59:38.870Z
+updated: 2024-10-24T23:18:28.092Z
 tags:
   - google
 categories:
@@ -63,6 +63,13 @@ Matthew Miller/ZDNET
 
 I was very pleased to see AGM implement the fingerprint sensor in the right-side power button, as my thumb naturally rests there while holding the phone in my right hand. There is an additional button on the left side that you can customize to launch the temperature utility, turn on the flashlight, or launch the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are looking for an affordable rugged phone that has the latest version of Android and a big display, the [AGM X6 Phantom](https://www.aliexpress.com/item/1005007354515299.html) is a good option. The display isn't as brilliant as [the newest smartphones](https://www.zdnet.com/article/best-phone/) and the camera is limited, but battery life is great and it provides a basic Android experience.
@@ -90,11 +97,29 @@ It is not easy to stand out in a world of glass slabs, but the AGM X6 Phantom le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-elite-web-based-recording-tools/"><u>[Updated] Elite Web-Based Recording Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-lightning-labs-loading-slides-in-ppt/"><u>[Updated] Lightning Labs Loading Slides in PPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-achieving-teleportation-magic-illusions/"><u>2024 Approved Achieving Teleportation Magic Illusions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-innovative-techniques-for-secure-and-quality-vimeo-recording/"><u>2024 Approved Innovative Techniques for Secure & Quality Vimeo Recording</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/common-solutions-for-when-grand-theft-auto-5-online-fails-to-start/"><u>Common Solutions for When Grand Theft Auto 5 Online Fails to Start</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-quickest-way-to-track-opened-emails-in-gmail/"><u>Discover the Quickest Way to Track Opened Emails in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-productivity-with-slack-reminder-tips-and-tricks/"><u>Enhancing Productivity with Slack Reminder Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-fixes-resolving-game-disc-compatibility-problems-with-the-nintendo-wii/"><u>Essential Fixes: Resolving Game Disc Compatibility Problems with the Nintendo Wii</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fortify-your-online-communication-exploring-the-best-secured-email-options/"><u>Fortify Your Online Communication: Exploring the Best Secured Email Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-steam-privileges-on-corrupted-folders-fixed/"><u>Guide to Restoring Steam Privileges on Corrupted Folders [FIXED]</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-8-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-upgrade-your-desktops-zoom-app-across-both-windows-and-macos-platforms/"><u>How to Upgrade Your Desktop's Zoom App Across Both Windows and macOS Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/learn-how-to-enjoy-hulu-on-demand-with-your-lg-smart-television-setup/"><u>Learn How to Enjoy Hulu On Demand with Your LG Smart Television Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-your-amazon-prime-caption-woes-making-subtitles-work-again/"><u>Quick Fixes for Your Amazon Prime Caption Woes: Making Subtitles Work Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-creativity-with-9-incredible-sites-for-free-pre-school-gaming/"><u>Unleash Creativity with 9 Incredible Sites for Free Pre-School Gaming</u></a></li>
+</ul></div>
+

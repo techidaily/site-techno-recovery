@@ -1,7 +1,7 @@
 ---
 title: "Building Your Tech Resume: Creating an Impressive Programming Portfolio - Tips From ZDNet"
-date: 2024-09-18 10:21:33
-updated: 2024-09-20 11:54:12
+date: 2024-10-20T18:27:40.061Z
+updated: 2024-10-25T05:15:08.959Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Increasingly, employers look for applicants with portfolios and consider portfol
 
 Busy hiring managers may only skim your portfolio, so it's important to make it as attention-grabbing as possible through design and targeted, concise project descriptions. You want your coding portfolio to compel potential employers to take a closer look. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What your coding portfolio needs
 
 This section walks you through the essential coding portfolio components**.** Projects are the most important element in your coding portfolio, and we offer details on highlighting them.
@@ -46,6 +53,13 @@ Check whether a domain name is already taken through a web search or[lookup tool
 ---
 
 ###   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Host
 
@@ -69,6 +83,19 @@ Used by game developers to upload and sell their work, Itch.io pages can include
 
 These well-known hosts allow you to build a website from a template, which is the easiest way to create a portfolio. However, it won't show off your web development skills. 
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### "About me" section and contact information
 
 The "About me" section should have a more personal tone than your resume to let your personality come through. Include a short bio and information such as: 
@@ -82,6 +109,13 @@ The "About me" section should have a more personal tone than your resume to let 
 * Relevant [tech certifications](https://www.zdnet.com/education/computers-tech/best-tech-certifications/) you've earned
 
 Be sure to add contact information. An email address usually suffices, but you can also list your Github and Linkedin profiles and Twitter handle. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Projects
 
@@ -146,11 +180,33 @@ Creating your portfolio is a necessary but time-consuming step in the [job-searc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-fbx-guide-to-flawless-gameplay-archives/"><u>[New] In 2024, FBX Guide to Flawless Gameplay Archives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-essentials-of-structuring-your-podcasts-rss-feed/"><u>[New] In 2024, The Essentials of Structuring Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-a-close-look-at-t-series-revenue-from-online-channels/"><u>[Updated] 2024 Approved A Close Look at T-Series Revenue From Online Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unveiling-windows-10-mastering-photo-and-video-importation/"><u>[Updated] 2024 Approved Unveiling Windows 10 Mastering Photo & Video Importation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-momentum-with-these-strategies-for-trending-youtubers/"><u>[Updated] In 2024, Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-metaverse-marketing-plan-for-2024/"><u>A Step-by-Step Metaverse Marketing Plan for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/are-you-alone-in-your-fight-with-blizzard-battlenet-or-is-it-a-widespread-server-struggle/"><u>Are You Alone in Your Fight with Blizzard Battlenet or Is It a Widespread Server Struggle?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clearing-up-security-issues-a-comprehensive-guide-to-fixing-401-errors-online/"><u>Clearing Up Security Issues: A Comprehensive Guide to Fixing 401 Errors Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-walkthrough-to-download-and-configure-arduino-drivers-in-windows-environment/"><u>Complete Walkthrough to Download and Configure Arduino Drivers in Windows Environment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722882802142-experiencing-connection-problems-with-discord-how-to-tell-if-the-platform-is-down-for-everyone/"><u>Experiencing Connection Problems with Discord? How to Tell if the Platform Is Down for Everyone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expertly-curated-list-of-best-free-hard-drive-analysis-programs-updated-for-july-2024/"><u>Expertly Curated List of Best-Free Hard Drive Analysis Programs, Updated for July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-elite-storage-solutions-discover-the-premier-network-servers-and-rack-systems/"><u>Exploring Elite Storage Solutions: Discover the Premier Network Servers and Rack Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-itel-p55-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Itel P55 5G Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/selecting-smartphone-supremacy-comparing-iphones-to-androids-for-ideal-fit/"><u>Selecting Smartphone Supremacy: Comparing iPhones to Androids for Ideal Fit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-your-pcs-d3dx933dll-missing-error-with-these-tips/"><u>Solve Your PC's d3dx9_33.dll Missing Error with These Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-dreaded-netflix-error-code-nw-2-6-a-step-by-step-guide/"><u>Solving the Dreaded Netflix Error Code NW-2-6: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-repairing-the-error-of-lost-osetupdll/"><u>Step-by-Step Guide: Repairing the Error of Lost 'oSetup.dll'</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-thumbnails-for-increased-video-engagement-on-youtube-for-2024/"><u>Tailoring Thumbnails for Increased Video Engagement on YouTube for 2024</u></a></li>
+</ul></div>
+

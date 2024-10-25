@@ -1,7 +1,7 @@
 ---
 title: Motorola's Budget Smartphone Surprises with In-Built Pen and Extra Storage Space on Sale Today | Android Authority
-date: 2024-09-19 11:41:20
-updated: 2024-09-20 11:38:59
+date: 2024-10-17T19:12:51.401Z
+updated: 2024-10-25T07:29:13.437Z
 tags:
   - google
 categories:
@@ -18,6 +18,19 @@ Matthew Miller/ZDNET
 ### What's the deal?
 
 The [Moto G Stylus 5G (2024)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-moto-g-stylus-5g-2024-256gb-unlocked-caramel-latte%2F6578951.p%3FskuId%3D6578951&publisher_slug=itechdaily19598&exclusive=1) is down to $349 during Labor Day week, a $50 discount on an already affordable handset.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -75,6 +88,13 @@ A 50MP main and 13MP ultra-wide camera are positioned on the back of the phone. 
 
 While the camera hardware is not as powerful as [flagship phones](https://www.zdnet.com/article/best-phone/), Motorola provides excellent software tools that help you capture great photos and be creative with little effort. Still, I've enjoyed using the Motorola camera, especially when capturing quick shots during the daytime. The 50MP camera system should serve most people just fine. At this price point, you really can't complain.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 I started using personal digital assistant (PDA) devices that all had a stylus in 1997, and I am still a fan of using such an accessory that provides precision inputs and on-device handwriting. The [Moto G Stylus 5G](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-moto-g-stylus-5g-2024-256gb-unlocked-caramel-latte%2F6578951.p%3FskuId%3D6578951&publisher_slug=itechdaily19598&exclusive=1) is an affordable option for stylus lovers while also serving as a very capable Android phone. The Motorola user interface remains one of my favorites since it is optimized for efficient use and doesn't rely as heavily on AI to help you get things done.
@@ -100,11 +120,31 @@ I started using personal digital assistant (PDA) devices that all had a stylus i
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-step-by-step-tutorial-to-monetize-product-videography-for-2024/"><u>[New] A Step-by-Step Tutorial to Monetize Product Videography for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-future-of-fitness-in-virtual-reality-walkers/"><u>[New] In 2024, The Future of Fitness in Virtual Reality Walkers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-breakdown-of-funds-required-for-music-video-shooting/"><u>[Updated] Breakdown of Funds Required for Music Video Shooting</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-discover-the-full-spectrum-of-yis-action-photography-for-2024/"><u>[Updated] Discover the Full Spectrum of Yi's Action Photography for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-magix-acid-pro-unveiled-assessing-comparable-software/"><u>[Updated] Magix ACID Pro Unveiled Assessing Comparable Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-game-recording-made-easy-3-options-for-every-gamer-for-2024/"><u>New Game Recording Made Easy 3 Options for Every Gamer for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-hp-laserjet-p2c35-driver-problems-for-windows-users/"><u>Resolving HP LaserJet P2C35 Driver Problems for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/spotting-overheating-signs-in-your-pcs-central-unit-fixes-inside/"><u>Spotting Overheating Signs in Your PC's Central Unit – Fixes Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-analyzing-windows-error-reports-and-crash-diagnostics/"><u>Step-by-Step Guide: Analyzing Windows Error Reports & Crash Diagnostics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-capturing-images-of-your-screen-in-windows-11/"><u>Step-by-Step Guide: Capturing Images of Your Screen in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resolving-non-functional-asus-tablet-touchscreen-in-windows-1110-operating-systems/"><u>Step-by-Step Guide: Resolving Non-Functional ASUS Tablet Touchscreen in Windows 11/10 Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-simple-setup-of-your-new-brother-printer/"><u>Step-by-Step Guide: Simple Setup of Your New Brother Printer</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/techniques-faciles-repliquer-avec-precision-le-contenu-de-votre-systeme-windows-sur-un-hdd-extern/"><u>Techniques Faciles: Répliquer Avec Precision Le Contenu De Votre Système Windows Sur Un HDD Extern</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ideal-moment-and-procedure-for-securely-upgrading-your-pcs-bios/"><u>The Ideal Moment & Procedure for Securely Upgrading Your PC's BIOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-and-solutions-for-improving-your-airpods-sound-on-personal-computers/"><u>Tips and Solutions for Improving Your AirPods Sound on Personal Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-ticade-techniques-efficiently-deleting-temporary-files-and-browsing-history/"><u>Windows Ticade Techniques: Efficiently Deleting Temporary Files and Browsing History</u></a></li>
+</ul></div>
+

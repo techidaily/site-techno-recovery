@@ -1,7 +1,7 @@
 ---
 title: "Antitrust Scrutiny Rises: DOJ Eyes Possible Division of Google, Reports Say - Discover on ZDNET"
-date: 2024-09-19 21:51:53
-updated: 2024-09-20 12:49:45
+date: 2024-10-24T03:28:41.235Z
+updated: 2024-10-24T16:25:46.366Z
 tags:
   - google
 categories:
@@ -66,11 +66,38 @@ The market is certainly taking this rumored move seriously. After a 1.21% bump f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-privacy-prowess-how-to-disconnect-on-insta/"><u>[New] In 2024, Privacy Prowess How to Disconnect on Insta</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-blueprint-revolutionizing-your-mobile-capture-experience-with-mobizen/"><u>[Updated] 2024 Approved Ultimate Blueprint Revolutionizing Your Mobile Capture Experience with Mobizen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-demystifying-the-process-of-checking-subs/"><u>[Updated] In 2024, Demystifying The Process of Checking Subs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-innovative-approaches-to-background-blanketing-in-affinity-photo/"><u>[Updated] Innovative Approaches to Background Blanketing in Affinity Photo</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-diving-into-the-depths-of-hdr-with-asus-pa32u/"><u>2024 Approved Diving Into the Depths of HDR with ASUS PA32U</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-fumbling-clips-to-viral-videos-youtube-edits-made-easy-with-sony-vegas/"><u>2024 Approved From Fumbling Clips to Viral Videos YouTube Edits Made Easy with Sony Vegas</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-closer-look-at-minecraft-realms-do-the-advantages-outweigh-costs/"><u>A Closer Look at Minecraft Realms: Do the Advantages Outweigh Costs?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-getting-rid-of-the-extra-windows-partition-reserved-for-recovery/"><u>Easy Steps for Getting Rid of the Extra Windows Partition Reserved for Recovery</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/expert-techniques-startup-sequence-for-dell-pcs-utilizing-usb-media-and-uefi-configuration/"><u>Expert Techniques: Startup Sequence for Dell PCs Utilizing USB Media & UEFI Configuration</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-experience-live-coverage-of-athens-2024-olympic-games/"><u>Maximizing Your Experience: Live Coverage of Athens 2024 Olympic Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sequential-watchlist-how-to-experience-the-dragon-ball-universe-from-start-to-finish/"><u>Sequential Watchlist: How to Experience the Dragon Ball Universe From Start to Finish</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-perfect-movie-night-plan-watching-the-matrix-series-step-by-step/"><u>The Perfect Movie Night Plan: Watching The Matrix Series Step-By-Step</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-sinister-five-how-artificum-intelligence-facilitates-criminal-activities-online/"><u>The Sinister Five: How Artificum Intelligence Facilitates Criminal Activities Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixers-handbook-for-dealing-with-fm20dll-problems/"><u>The Ultimate Fixer's Handbook for Dealing with Fm20.dll Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-restoring-your-waterlogged-iphoneipod-with-easy-drying-techniques/"><u>Ultimate Guide: Restoring Your Waterlogged iPhone/iPod with Easy Drying Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-fixing-xlivedll-errors-a-detailed-how-to-approach/"><u>Understanding and Fixing xlive.dll Errors: A Detailed How-To Approach</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

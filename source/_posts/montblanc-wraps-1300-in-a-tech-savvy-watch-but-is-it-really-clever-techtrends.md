@@ -1,7 +1,7 @@
 ---
 title: Montblanc Wraps $1,300 in a Tech-Savvy Watch, But Is It Really Clever? | TechTrends
-date: 2024-09-17 13:24:39
-updated: 2024-09-20 11:43:44
+date: 2024-10-22T05:11:21.146Z
+updated: 2024-10-24T18:44:14.644Z
 tags:
   - google
 categories:
@@ -51,6 +51,13 @@ I've been primarily testing the Montblanc smartwatch with my iPhone (while alter
 | Connectivity and sensors | Heart rate, barometer, accelerometer, gyroscope, microphone, Bluetooth 5.0, Wi-Fi, NFC |
 | Bands                    | 20mm width                                                                             |
 | Dimensions               | 42 mm diameter by 14 mm thickness                                                      |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Hardware
 
@@ -104,6 +111,13 @@ On both iPhones and Android devices, the only current way to connect the Montbla
 
 The next tab in the Summit software is called Discover, and it hosts a large number of tutorials for using the watch and getting help with the watch. There are many details in the fitness section that should be considered previews of what is to come since there is not yet any companion app to view your health and fitness data collected by the watch, even though the discover tab mentions this app.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best fitness trackers Fitness trackers offer a reasonably-priced alternative to smartwatches.  Read now](https://www.zdnet.com/article/best-fitness-tracker/)
@@ -113,6 +127,13 @@ The last tab in the smartphone app, called settings, is where you can manage you
 There should soon be a Montblanc health suite application, possibly in September, that will sync sleep, steps, workouts, and more from the Summit 3 to your smartphone. At this time, all of the health data captured by the watch remains on the watch and is only viewable on the watch when using the Montblanc Summit apps. 
 
 I recommend that you install and use Google Fit for now if you are interested in some health data since it will sync from the watch to your Google Fit account. However, you won't see sleep, blood oxygen, body energy, or stress data in Google Fit, so the current experience is definitely missing some key elements.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone vs Android smartphone experience
 
@@ -133,6 +154,13 @@ I've been a bit frustrated by the presence of Montblanc's fitness and health app
 I installed the Strava app and was hoping it would be useful for tracking my outdoor running and indoor rowing. When I launched Strava outside, it showed that GPS had been acquired, and I tapped on start. The app then only captured the time between when I hit start and end, with no distance, effort, elevation, or heart rate data captured on the watch. Unfortunately, Strava on Wear OS does not have an indoor running option, so I chose a workout, and it did capture my heart rate for this activity. It seems both the app and the watch failed here, but again I will see what happens when we get a more robust health and wellness option in September.
 
 Messaging with my voice, Google Wallet, Google Maps, and other apps all worked flawlessly when paired with my [Z Fold 4](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-z-fold4%2F&publisher_slug=itechdaily19598&exclusive=1). The battery has proven to last a couple of days, which is typical for a smartwatch, but I'll do more testing when I can fully test the health and wellness functionality. It's a lovely smartwatch, but at $1,290, it is clearly for the watch buyer who wants a luxury piece of jewelry with smartwatch internals.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -165,11 +193,28 @@ There are not many luxury smartwatches available, but we do see a few options fo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-upgrade-your-iphones-ringtone-selection/"><u>[New] How to Upgrade Your iPhone's Ringtone Selection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-in-depth-review-xiaomi-mi-drone-4k-capabilities/"><u>[New] In 2024, In-Depth Review Xiaomi MI Drone 4K Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-high-quality-8-cam-transformations-for-streaming/"><u>[Updated] High-Quality 8 Cam Transformations for Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-innovative-house-blueprints-for-snapshot-players-for-2024/"><u>[Updated] Innovative House Blueprints for Snapshot Players for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-media-meld-space/"><u>[Updated] Media Meld Space</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-best-vpn-for-netflix/"><u>5 Best VPN for Netflix</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/battling-performance-hiccups-a-guide-for-dealing-with-fps-drops-and-stuttering-in-the-world-of-diablo-4/"><u>Battling Performance Hiccups: A Guide for Dealing with FPS Drops and Stuttering in the World of Diablo 4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-the-system-how-to-enable-fortnite-play-in-restricted-educational-networks/"><u>Beat the System: How to Enable Fortnite Play in Restricted Educational Networks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-2-methods-to-extract-audio-from-youtube-video-easily/"><u>Best 2 Methods to Extract Audio From YouTube Video Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-every-click-essential-screen-recorders-for-modern-browsers/"><u>Capture Every Click Essential Screen Recorders for Modern Browsers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808259886-gpu-benchmark-test-your-gpu-performance-quickly-and-easily/"><u>GPU Benchmark – Test Your GPU Performance Quickly & Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-photo-uploads-a-comprehensive-youtube-strategy/"><u>Mastering Photo Uploads A Comprehensive YouTube Strategy</u></a></li>
+<li><a href="https://win-bits.techidaily.com/solutions-for-unfreezing-apple-id-updates-overcoming-stagnant-changes-on-ios-and-mac/"><u>Solutions for Unfreezing Apple ID Updates: Overcoming Stagnant Changes on iOS and Mac</u></a></li>
+</ul></div>
+

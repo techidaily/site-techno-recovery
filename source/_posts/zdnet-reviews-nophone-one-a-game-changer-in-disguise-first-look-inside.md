@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews 'NoPhone One': A Game-Changer in Disguise - First Look Inside!"
-date: 2024-09-19 19:39:57
-updated: 2024-09-20 10:30:26
+date: 2024-10-19T22:32:06.914Z
+updated: 2024-10-24T23:59:10.595Z
 tags:
   - google
 categories:
@@ -52,6 +52,13 @@ I've reviewed numerous smartphones at ZDNET, and I have purchased far too many t
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pricing and availability
 
 I should first mention that the Nothing Phone 1 starts at [399 GBP](https://us.nothing.tech/products/phone-1) and is not available in the US. While currency conversions are not the most reliable metric for predicting domestic costs, that puts the Phone 1 at around 479 USD, which would have made it a very appealing handset in a market that's primarily dominated by the [Apple iPhone SE](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-se%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and [Samsung Galaxy A Series](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09R6FJWWS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b212985-b8fa-416b-9490-e7147d7eefc0%7Cdtp&dtb=1). Still, I would not recommend folks in the US to import the phone given the lack of LTE and 5G band support. 
@@ -74,6 +81,13 @@ Nothing's industrial design team did a commendable job of polishing the phone wi
 
 My only callout with the design is the conservative IP53 rating that makes the Phone 1 splash resistant but nothing more. That means you won't be insured for any water-soaked damages and should keep the device far away from bathrooms, pools, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Display
 
 At the front is a 6.55-inch OLED display that's flat and accented with a hole-punch camera on the top-left corner. Had I not seen the backside of the phone, I would've associated the device with every other modern-day, large-screen Android. Take a closer look at the way colors and visuals are reproduced on the Nothing display and you'll realize that this is a different beast.
@@ -93,6 +107,13 @@ That's why Nothing is giving you a reason or two more to do the opposite. Beside
 Nothing offers 20 different glyph patterns for you to set across ringtones and notifications, but I've found the simpler sequences the easiest to memorize and most practical. I'd almost compare the assimilation process to learning Morse code, with your undivided attention needed to understand what the phone is telling you. And while there are more intricate and flaunt-worthy options, they're often too complex to process and you're better off just flipping over to the phone display to see what the buzz is about.
 
 **More: [Best phones to buy in 2022](https://www.zdnet.com/article/best-smartphones/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Software
 
@@ -141,6 +162,13 @@ June Wan/ZDNET
 If there's anything that you should avoid with the Phone 1's camera system, it's capturing ultra-wide images in low light. In the image below, which is the best one that I pulled from a series of quick shots, you can see that the 50MP sensor struggles with focusing and overexposes brighter areas. I had similar issues even when taking pictures outdoors and in the daytime, with parts of the sky appearing whiter than they should. 
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery
 
@@ -197,11 +225,26 @@ Samsung's Galaxy A Series smartphones have progressively dominated the low and m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigating-the-nook-how-jake-paul-snagged-youtube-success/"><u>[Updated] 2024 Approved Navigating the Nook How Jake Paul Snagged YouTube Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-hangout-history-capture-and-keep-for-2024/"><u>[Updated] Hangout History Capture & Keep for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/(3-your-way-how-to-type-a-digital-expression-of-affection-on-your-keyboard/"><u><3 Your Way: How to Type a Digital Expression of Affection on Your Keyboard</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ideal-sound-compilation-premium-download-locales/"><u>2024 Approved Ideal Sound Compilation Premium Download Locales</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-ultimate-source-for-online-video-to-mp3-downloads/"><u>2024 Approved Your Ultimate Source for Online Video to MP3 Downloads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/comprehensive-strategies-for-overwatch-gaming-saves-for-2024/"><u>Comprehensive Strategies for Overwatch Gaming Saves for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-correctly-fix-the-stop-0x0000007b-windows-blue-screen-error/"><u>Expert Tips to Correctly Fix the STOP 0X0000007B Windows Blue Screen Error</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-subtract-and-add-quick-srt-to-sub/"><u>In 2024, Subtract and Add Quick SRT to SUB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-magic-how-to-stop-closed-lid-from-putting-your-laptop-to-bed/"><u>MacBook Magic: How to Stop Closed Lid From Putting Your Laptop to Bed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-sound-engineers-approach-to-detaching-bass-from-mixed-tracks/"><u>New 2024 Approved The Sound Engineers Approach to Detaching Bass From Mixed Tracks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-system-restore-easy-instructions-for-resetting-your-lenovo-notebook/"><u>Simplifying System Restore: Easy Instructions for Resetting Your Lenovo Notebook</u></a></li>
+</ul></div>
+
