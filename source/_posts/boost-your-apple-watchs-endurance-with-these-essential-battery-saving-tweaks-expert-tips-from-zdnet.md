@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Endurance with These Essential Battery-Saving Tweaks - Expert Tips From ZDNet
-date: 2024-10-21T07:41:15.580Z
-updated: 2024-10-25T04:13:38.796Z
+date: 2024-10-24T21:59:23.068Z
+updated: 2024-10-30T17:25:13.634Z
 tags:
   - apple
 categories:
@@ -50,6 +50,19 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -57,6 +70,13 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -77,10 +97,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -88,6 +114,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -97,13 +130,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -112,25 +138,11 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -173,22 +185,18 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/outube-seo-the-path-to-more-audience-engagement-for-2024/"><u>[New] YouTube SEO The Path to More Audience Engagement for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-astonishing-visuals-on-thumbnails/"><u>[Updated] In 2024, Astonishing Visuals on Thumbnails</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/avoid-developer-headaches-with-these-8-techniques-for-handling-parsing-issues-in-android/"><u>Avoid Developer Headaches with These 8 Techniques for Handling Parsing Issues in Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/collaboration-alert-qualcomms-next-gen-mixed-reality-eyewear-with-samsung-and-google-takes-shape-tech-insights/"><u>Collaboration Alert! Qualcomm’s Next-Gen Mixed Reality Eyewear with Samsung and Google Takes Shape | Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-samsung-in-ear-buds-to-your-computer-quick-and-easy-steps/"><u>Connecting Samsung In-Ear Buds to Your Computer: Quick and Easy Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/daily-workstations-vs-ultimate-game-machines/"><u>Daily Workstations Vs. Ultimate Game Machines</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-resolve-msvbvm50dll-not-found-computer-issue/"><u>Easy Steps to Resolve 'msvbvm50.dll Not Found' Computer Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/efficiently-navigate-ios-automation-18-must-know-shortcut-techniques/"><u>Efficiently Navigate iOS Automation: 18 Must-Know Shortcut Techniques</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/enregistrer-vos-e-mails-microsoft-outlook-avant-la-suppression-de-compte-methodes-faciles/"><u>Enregistrer Vos E-Mails Microsoft Outlook Avant La Suppression De Compte - Méthodes Faciles</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/from-screens-to-gifs-the-art-of-converting-vimeo-footage/"><u>From Screens to Gifs The Art of Converting Vimeo Footage</u></a></li>
-<li><a href="https://network-issues.techidaily.com/geforce-rtx210-a-leap-forward-in-graphics-for-win11-users/"><u>GeForce RTX210: A Leap Forward in Graphics for Win11 Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-activatingdeactivating-your-pcs-on-screen-keyboard-with-ease/"><u>Guide to Activating/Deactivating Your PC's On-Screen Keyboard with Ease</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-dynamics-an-in-depth-look-at-luminances-hdr/"><u>In 2024, Unveiling the Dynamics An In-Depth Look at Luminance's HDR</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/july-must-see-list-unmissable-documentaries-with-max-leading-the-way-july-2024/"><u>July Must-See List: Unmissable Documentaries with Max Leading the Way (July 2024)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rumor-alert-the-anticipated-android-16-get-insights-into-pricing-launch-dates-and-expert-speculations/"><u>Rumor Alert! The Anticipated Android 16: Get Insights Into Pricing, Launch Dates & Expert Speculations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-role-of-memory-velocity-and-delay-in-enhancing-pc-functionality/"><u>The Role of Memory Velocity and Delay in Enhancing PC Functionality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-cost-effective-aerospace-for-huge-datasets-at-low-rates-for-2024/"><u>[New] Cost-Effective AeroSpace for Huge Datasets at Low Rates for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-pro-level-insights-for-perfectly-crafted-snaps/"><u>[Updated] In 2024, Pro-Level Insights for Perfectly Crafted Snaps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-google-pixel-fold-frp-bypass-by-drfone-android/"><u>About Google Pixel Fold FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-4-fantastic-no-cost-cad-tools/"><u>Discover These 4 Fantastic No-Cost CAD Tools!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-for-removing-and-installing-new-glass-screens-on-phones/"><u>Easy Methods for Removing & Installing New Glass Screens on Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-permissions-puzzle-bypassing-trustedinstaller-on-your-windows-10-pc/"><u>Mastering the Permissions Puzzle: Bypassing TrustedInstaller on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-cables-no-phone-line-discover-alternative-methods-for-online-connectivity/"><u>No Cables, No Phone Line? Discover Alternative Methods for Online Connectivity!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/persuasive-prompt-producer-kit-for-2024/"><u>Persuasive Prompt Producer Kit for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/saving-the-day-for-your-drenched-igadget-a-comprehensive-fix-guide/"><u>Saving the Day for Your Drenched iGadget: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-addressing-your-missing-d3dx924dll-error/"><u>Step-by-Step Solutions for Addressing Your Missing d3dx9_24.dll Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-y02t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo Y02T Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-paused-netflix-titles-how-to-get-back-on-track/"><u>Troubleshooting Steps for Paused Netflix Titles – How to Get Back on Track</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-10-dvd-shrink/"><u>Windows 10 への DVD Shrink 実行: 互換モード設定ガイド</u></a></li>
 </ul></div>
 

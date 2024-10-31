@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence Elevates Yelp's App Functionality for Culinary Enthusiasts & Adventure Lovers - Insights From ZDNet
-date: 2024-09-17 10:11:32
-updated: 2024-09-20 12:52:15
+date: 2024-10-29T03:50:56.255Z
+updated: 2024-10-30T16:47:36.463Z
 tags:
   - e-commerce
 categories:
@@ -32,6 +32,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -65,9 +72,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-parrot-mambo-complete-review-for-2024/"><u>[New] Parrot Mambo Complete Review for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-traversing-the-timeline-of-facebook-narratives-mobile-plus-laptop-for-2024/"><u>[Updated] Traversing the Timeline of Facebook Narratives (Mobile + Laptop) for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/15-plant-health-solution-detect-and-nourish-your-greenery-back-to-life-with-our-expert-tips-zdnet/"><u>$15 Plant Health Solution: Detect & Nourish Your Greenery Back to Life with Our Expert Tips | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/80-deal-on-blind-outdoor-security-system-four-cameras-and-floodlight-bundle-this-labor-day/"><u>$80 Deal on Blind Outdoor Security System - Four Cameras and Floodlight Bundle This Labor Day</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-leading-smart-home-innovations-professional-evaluation-and-rankings-zdnet/"><u>2024'S Leading Smart Home Innovations: Professional Evaluation & Rankings | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5s-cameras-tech-insights/"><u>5S Cameras | Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/6-essential-tech-tools-to-transform-your-outdoor-soirees-tips-from-zdnet/"><u>6 Essential Tech Tools to Transform Your Outdoor Soirees - Tips From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-innovative-solutions-for-home-construction-discover-the-top-5-diy-prefab-houses-under-50k-zdnet/"><u>Affordable Innovative Solutions for Home Construction – Discover the Top 5 DIY Prefab Houses Under $50K | ZDNET</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/empowering-website-insights-with-cookiebot-advanced-tracking-solutions-for-improved-seo/"><u>Empowering Website Insights with Cookiebot: Advanced Tracking Solutions for Improved SEO</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-gionee-f3-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Gionee F3 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6s-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6s Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/must-try-tiktok-video-ideas-drawing-from-anime-worlds/"><u>Must-Try TikTok Video Ideas Drawing From Anime Worlds</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-utilitaire-de-copie-brut-libre-pour-le-sauvegarde-des-disques-daccueil-en-windows-11-10-et-versions-precedentes/"><u>Top Utilitaire De Copie Brut Libre Pour Le Sauvegarde Des Disques D'Accueil en Windows 11, 10 Et Versions Précédentes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/why-is-vmware-showing-a-windows-sign-in-screen-causes-and-fixes/"><u>Why Is VMware Showing a Windows Sign-In Screen? Causes & Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-review-how-the-ecoflow-portable-power-station-saved-my-home-during-recent-power-outages/"><u>ZDNet Review: How the EcoFlow Portable Power Station Saved My Home During Recent Power Outages</u></a></li>
+</ul></div>
+

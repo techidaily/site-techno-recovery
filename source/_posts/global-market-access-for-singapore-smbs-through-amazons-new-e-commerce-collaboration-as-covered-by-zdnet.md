@@ -1,7 +1,7 @@
 ---
 title: Global Market Access for Singapore SMBs Through Amazon's New E-Commerce Collaboration, as Covered by ZDNet
-date: 2024-09-17 18:21:52
-updated: 2024-09-20 10:47:40
+date: 2024-10-25T19:46:46.761Z
+updated: 2024-10-31T03:05:22.276Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,29 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +64,19 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -64,6 +97,19 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +150,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-add-subtitles-to-igtv-videos-in-2024/"><u>[New] How to Add Subtitles to IGTV Videos, In 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>[New] In 2024, Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-every-note-at-your-fingertips-fb-style/"><u>[Updated] In 2024, Every Note at Your Fingertips - FB Style</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-20-zero-cost-pubg-visual-anthologies/"><u>[Updated] In 2024, Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/developer-astonishment-mounts-as-apples-vision-pro-labs-make-waves-insights-from-the-source-zdnet/"><u>Developer Astonishment Mounts as Apple's Vision Pro Labs Make Waves - Insights From the Source | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-components-of-a-successful-digital-twin-strategy-integrating-ai-for-enhanced-business-outcomes-tech-insights-by-zdnet/"><u>Essential Components of a Successful Digital Twin Strategy: Integrating AI for Enhanced Business Outcomes | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-the-magic-of-my-beloved-series-on-apple-vision-pro-a-journey-through-wonder-and-weariness-insights-from-zdnet/"><u>Experience the Magic of My Beloved Series on Apple Vision Pro – A Journey Through Wonder & Weariness | Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-augmented-reality-ambitions-a-firsthand-experience-with-their-revolutionary-iphone-connected-headset-zdnet/"><u>Exploring Apple's Augmented Reality Ambitions: A Firsthand Experience with Their Revolutionary iPhone-Connected Headset - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-you-reverse-an-apple-vision-pro-purchase-discover-tips-with-zdnets-assistance/"><u>How Do You Reverse an Apple Vision Pro Purchase? Discover Tips with ZDNet's Assistance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-five-companies-are-revolutionizing-the-workplace-with-the-apple-vision-pro/"><u>How Five Companies Are Revolutionizing the Workplace with the Apple Vision Pro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>In 2024, From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-apple-vision-pro-essential-tips-for-flawless-screen-captures-and-video-recording-common-pitfalls-to-dodge/"><u>Mastering Apple Vision Pro: Essential Tips for Flawless Screen Captures & Video Recording - Common Pitfalls to Dodge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-files-easy-way-to-lock-down-your-usb-with-windows-11-encryption/"><u>Protect Your Files: Easy Way to Lock Down Your USB with Windows 11 Encryption</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-gamestream-gaming-controller-evaluation-enhance-your-twitch-presence/"><u>Razer GameStream Gaming Controller Evaluation: Enhance Your Twitch Presence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/secure-significant-savings-with-elegoos-latest-phecda-laser-cutting-and-engraving-machine-via-kickstarter/"><u>Secure Significant Savings with Elegoo's Latest PHECDA Laser Cutting & Engraving Machine via Kickstarter</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Impact of 5G & Edge Technology: Understanding Their Significance for Future Innovations | TechInsights"
-date: 2024-09-18 18:45:46
-updated: 2024-09-20 11:38:49
+date: 2024-10-24T21:33:26.290Z
+updated: 2024-10-31T01:47:25.480Z
 tags:
   - edge-computing
 categories:
@@ -55,6 +55,13 @@ A car driving at 60 miles per hour (6.56 km/h) can travel about 264 feet (80.47 
 
 With 5G, [latency will drop](https://www.cnet.com/tech/mobile/5g-latency-why-speeding-up-networks-matters-faq/) to about 1/10th of what it is with 4G. Over time, that's expected to improve even more. All that is to say network responsiveness can be much faster. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Robustness 
 
 Have you ever had a conversation with a friend when the signal glitches in and out? Or find that your Internet connection works one minute, and then it's gone the next? These problems are caused when the connection between your mobile device and the network fails. 
@@ -72,6 +79,13 @@ Verizon says that the theoretical maximum number of operational 4G devices in a 
 On some level, having that many networked devices around us is pretty daunting, but I have more than 50 connected devices just in my home. We do like our gadgets. And, as self-driving cars and other Internet-of-Things (IoT) devices proliferate, we'll have more and more. Being able to support as many connected devices as necessary will be key to being able to count on 5G connectivity when it's deployed. 
 
 After all, the last thing you want to hear your car say when you ask it to drive you somewhere is,"I'm sorry, Dave. I'm afraid I can't do that." 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Power at the edge
 
@@ -94,6 +108,13 @@ Why is edge computing important? The answer is simple: physics. It takes time fo
 With today's networks, that process is quick. But it's not "you're about to crash into that car that just suddenly stopped in front of you" quick. Edge processing puts enough processing power, often assisted by AI and machine learning, right near where it's needed. Sure, sometime later in the day, the edge servers might upload their processing history to the cloud, but right at the moment that something is about to go haywire, the edge gear is there to step in, in real time — and before it's too late. 
 
 Much of this is doable with 5G for a variety of reasons. We talked about improved transmission speed, latency, robustness, and density above. 5G pulls that off by replacing cell towers with lots of little nodes. As such, the 5G connection is likely to be far closer to the edge than most 4G connections. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5G in use 
 
@@ -120,6 +141,13 @@ Using edge computing, Motor City Wash Works also processes, translates, and tran
 Another company using 5G technology is field service software provider [FieldCircle](https://www.fieldcircle.com/). Yogesh Choudhary, cofounder and CEO of FieldCircle describes how his company relies on the robustness benefits of 5G. 
 
 "For me, one major problem it solves is that it enables applications to function even when there's limited or no internet connectivity," Choudhary told ZDNET. "This has been gold for testing products that need to continue working in remote environments such as field operations or remote monitoring solutions, which has greatly benefitted our FieldCircle clients and improved our overall reputation with them." 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Custom applications with better network performance
 
@@ -149,6 +177,13 @@ Remédios told ZDNET that 5G and edge services in the logistics industry allow f
 
 Remédios also told us that all these connected IoT devices help, "Identify critical assets in supply-chain operations and supervise them in real-time, thus providing real-time visibility at a low price-point that is only possible via the deployment of 5G networks." 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Self-driving cars
 
 Self-driving cars are a big application of 5G. Personally, I'm not sure I ever want to give up the steering wheel and gas pedal, but with aging being "[the top global demographic trend](https://www.imf.org/en/Publications/fandd/issues/Series/Analytical-Series/aging-is-the-real-population-bomb-bloom-zucker)," self-driving cars promise to provide older folks with agency far beyond the time their reflexes diminish to the point where they can't safely drive on their own. But, we won't really be able to usher in the era of cars that drive us until 5G is widely deployed.
@@ -177,11 +212,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-improve-instagram-video-loading-times-effectively/"><u>[Updated] Improve Instagram Video Loading Times Effectively</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamlining-video-production-mastering-the-use-of-obs-and-zoom-for-2024/"><u>[Updated] Streamlining Video Production Mastering the Use of OBS & Zoom for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-write-a-great-podcast-techniques-and-10plus-free-example-scripts-inside/"><u>2024 Approved How to Write a Great Podcast Techniques & 10+ Free Example Scripts Inside</u></a></li>
+<li><a href="https://win-bits.techidaily.com/avez-vous-besoin-de-dupliquer-votre-disque-dur-sous-windows-student-which-of-the-following-are-included-in-a-postpartum-assessment-select-all-that-apply/"><u>Avez-Vous Besoin De Dupliquer Votre Disque Dur Sous Windows [Student]: Which of the Following Are Included in a Postpartum Assessment? Select All that Apply.</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-conversion-rates-seamlessly-with-the-power-of-cookiebot-automation/"><u>Boost Conversion Rates Seamlessly With the Power of Cookiebot Automation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-gadgets-revealed-at-toms-electronics-showcase/"><u>Innovative Gadgets Revealed at Tom's Electronics Showcase</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mobile-image-mastery-with-top-10-stickers-for-appleandroid-users-for-2024/"><u>Mobile Image Mastery with Top 10 Stickers for Apple/Android Users for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-post-pandemic-work-understanding-manager-preferences-on-remote-vs-in-office-settings-insights-for-employees/"><u>Navigating Post-Pandemic Work: Understanding Manager Preferences on Remote Vs. In-Office Settings - Insights for Employees</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/sims-4-documentation-cutting-edge-methods-to-preserve-gaming-experiences/"><u>Sims 4 Documentation Cutting-Edge Methods to Preserve Gaming Experiences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-enchantment-of-analytics-data-scientists-unveiled-as-todays-most-attractive-profession-pay-heed-to-their-insights/"><u>The Enchantment of Analytics: Data Scientists Unveiled as Today's Most Attractive Profession - Pay Heed to Their Insights!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-platforms-for-connecting-with-tech-experts-a-guide-by-zdnet/"><u>Top 10 Platforms for Connecting with Tech Experts: A Guide by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-potential-continuous-surge-in-high-tech-skill-demand-across-industry-giants-zdnet-insights/"><u>Unleashing Potential: Continuous Surge in High-Tech Skill Demand Across Industry Giants | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-tips-on-developing-your-own-coding-portfolio-successfully/"><u>ZDNet’s Expert Tips on Developing Your Own Coding Portfolio Successfully</u></a></li>
+</ul></div>
+

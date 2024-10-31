@@ -1,7 +1,7 @@
 ---
 title: "MIT's Innovative Solution: Advancing Deep Learning with Sub-Photon Optics for Enhanced Edge Computing"
-date: 2024-09-18 21:36:13
-updated: 2024-09-20 11:22:26
+date: 2024-10-29T18:40:35.771Z
+updated: 2024-10-31T02:53:18.285Z
 tags:
   - edge-computing
 categories:
@@ -72,6 +72,13 @@ The authors go even further. Anticipating deployment in satellites and other exo
 
 But the authors go even further. They were able to go all the way to a theoretical limit of Netcast where each Mac requires less than a single photon to be detected. Using what are called superconducting nanowire single-photon detectors (SNSPDs), they construct a receiver that can measure the results of each MAC with less than a photon of information. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Space
 
 * [What is Artemis? Everything you need to know about NASA's new moon mission](https://www.zdnet.com/article/what-is-artemis-everything-you-need-to-know-about-nasas-moon-mission/)
@@ -110,11 +117,24 @@ In concluding, they wrote, "Our approach removes a fundamental bottleneck in edg
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-place.techidaily.com/1-losen-sie-die-doppelten-bilder-auf-ihrem-ipad-nach-der-synchronisation-schnell-und-einfach/"><u>1. Lösen Sie Die Doppelten Bilder Auf Ihrem iPad Nach Der Synchronisation Schnell Und Einfach.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-google-meet-broadcast-simplified-youtube-steps/"><u>2024 Approved Google Meet Broadcast Simplified YouTube Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-the-big-players-explore-exceptional-sound-with-non-sony-non-jbl-speakers-spotlighted-by-zdnet/"><u>Beyond the Big Players: Explore Exceptional Sound with Non-Sony, Non-JBL Speakers Spotlighted by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/economic-strikes-have-different-protections-compared-to-unfair-labor-practice-strikes-under-federal-law/"><u>Economic Strikes Have Different Protections Compared to Unfair Labor Practice Strikes Under Federal Law.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-smart-home-experience-with-the-limited-time-offer-on-amazons-30-echo-dot-the-perfect-budget-friendly-solution/"><u>Enhance Your Smart Home Experience with the Limited-Time Offer on Amazon's $30 Echo Dot: The Perfect Budget-Friendly Solution!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-computer-and-component-evaluations-from-toms-hardware-team/"><u>In-Depth Computer and Component Evaluations From Tom's Hardware Team</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unbiased-avs-video-editor-review-2023-features-pricing-and-more/"><u>New 2024 Approved Unbiased AVS Video Editor Review 2023 Features, Pricing, and More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-smart-gadgets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Smart Gadgets : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+</ul></div>
+

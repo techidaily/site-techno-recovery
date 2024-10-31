@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Effortless Email Unsubscription Tips for Gmail & Outlook Users | ZDNet"
-date: 2024-09-19 15:36:57
-updated: 2024-09-20 12:19:24
+date: 2024-10-28T20:02:32.929Z
+updated: 2024-10-30T17:37:04.026Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,19 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -56,6 +69,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -75,9 +95,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-major-listing-of-affordable-visual-content-sites/"><u>[New] Major Listing of Affordable Visual Content Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-the-content-free-movie-player-windowsmac/"><u>[New] Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-internet-recorder-choices-7-to-try-for-2024/"><u>[Updated] Elite Internet Recorder Choices - 7 to Try for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhancing-photos-through-smart-dynamic-range-methods/"><u>2024 Approved Enhancing Photos Through Smart Dynamic Range Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-techniques-on-how-to-thoroughly-disinfect-your-remote-control/"><u>Easy Techniques on How to Thoroughly Disinfect Your Remote Control</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insider-information-on-apples-newest-marvel-the-ultra-series-2-unveiled-price-predictions-and-release-info-included/"><u>Insider Information on Apple's Newest Marvel: The Ultra Series 2 Unveiled - Price Predictions and Release Info Included!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-conversational-ai-essential-tips-for-leveraging-gpt-3/"><u>Mastering the Art of Conversational AI: Essential Tips for Leveraging GPT-3</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-data-plan-strategies-for-monitoring-and-controlling-use/"><u>Maximizing Your Data Plan: Strategies for Monitoring and Controlling Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fix-guide-how-to-resolve-haldll-is-missing-on-windows-xp/"><u>Quick Fix Guide: How to Resolve HAL.DLL Is Missing on Windows XP</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-classic-chess-dive-into-these-6-new-platforms/"><u>Reimagine Classic Chess: Dive Into These 6 New Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/omplete-guide-to-editing-youtube-on-the-go-with-sony-vegas/"><u>The Complete Guide to Editing YouTube on the Go With Sony Vegas</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-narzo-n53-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme Narzo N53 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-notch-auditory-experience-professional-insights-on-creative-labs-sound-blaster-zxr-201n/"><u>Top-Notch Auditory Experience: Professional Insights on Creative Labs’ Sound Blaster ZXR (201N)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-accessing-and-editing-pages-files-on-windows/"><u>Ultimate Guide: Accessing and Editing Pages Files on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-free-netflix-views-expert-tips-for-budget-friendly-entertainment/"><u>Unlocking Free Netflix Views: Expert Tips for Budget-Friendly Entertainment</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Aligning the Future: Alibaba's Strategic Move to Divide and Conquer - Cloud Unit Spinoff & Dual Company IPOs"
-date: 2024-09-18 12:36:13
-updated: 2024-09-20 12:38:27
+date: 2024-10-27T16:19:47.823Z
+updated: 2024-10-30T16:50:01.524Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,27 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -75,9 +95,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-uncovering-snapchats-hidden-symbolism/"><u>[New] 2024 Approved Uncovering Snapchat's Hidden Symbolism</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-relaxation-reigns-top-pc-titles/"><u>[Updated] 2024 Approved Relaxation Reigns Top PC Titles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-capturing-moments-to-sharing-them-editing-with-adobe-premiere/"><u>[Updated] In 2024, From Capturing Moments to Sharing Them Editing with Adobe Premiere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unseen-wonders-in-vlcs-arsenal-of-features/"><u>[Updated] Unseen Wonders in VLC's Arsenal of Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-xbox-game-recording-techniques-for-gamers-for-2024/"><u>[Updated] Xbox Game Recording Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-enhances-alexa-with-claude-technology-from-anthropic-what-you-need-to-know-zdnet/"><u>Amazon Enhances Alexa with Claude Technology From Anthropic: What You Need to Know - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/budget-friendly-wireless-sound-solutions-the-ultimate-guide-to-the-5-best-bluetooth-speakers-for-less-than-50/"><u>Budget-Friendly Wireless Sound Solutions: The Ultimate Guide to the 5 Best Bluetooth Speakers for Less Than $50</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ces-2023s-best-picks-exclusive-look-at-tech-products-you-can-own-today-zdnet-insights/"><u>CES 2023'S Best Picks: Exclusive Look at Tech Products You Can Own Today - ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-review-of-the-drop-grell-tws1x-wireless-earbuds-unrivaled-audio-quality-despite-packaging-issues/"><u>Comprehensive Review of the Drop Grell TWS1X Wireless Earbuds - Unrivaled Audio Quality Despite Packaging Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-reno-10-proplus-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Reno 10 Pro+ 5G FRP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-market-selecting-from-top-15-tripodsmounts/"><u>Navigating the Market Selecting From Top 15 Tripods/Mounts</u></a></li>
+<li><a href="https://discover-data.techidaily.com/top-converters-of-youtube-videos-into-mp3-format-explore-the-best/"><u>Top Converters of YouTube Videos Into MP3 Format - Explore the Best</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-soundbar-picks-for-235-professional-evaluations-and-suggestions-techinsights/"><u>Top-Rated Soundbar Picks for 2^35: Professional Evaluations & Suggestions | TechInsights</u></a></li>
+</ul></div>
+

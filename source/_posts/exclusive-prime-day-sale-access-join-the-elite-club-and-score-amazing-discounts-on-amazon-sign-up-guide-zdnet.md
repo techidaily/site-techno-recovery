@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Prime Day Sale Access: Join the Elite Club & Score Amazing Discounts on Amazon - Sign Up Guide | ZDNet"
-date: 2024-09-19 13:25:51
-updated: 2024-09-20 10:45:49
+date: 2024-10-25T17:52:14.311Z
+updated: 2024-10-31T01:56:29.525Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -65,11 +79,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>[New] Transform Your AVI Images From Video To Graphics Using Filmora</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-achieving-seamless-smoothness-blurring-conference-borders/"><u>2024 Approved Achieving Seamless Smoothness Blurring Conference Borders</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-growing-engagement-ethically-youtube-success-stories/"><u>2024 Approved Growing Engagement Ethically YouTube Success Stories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-reviewing-multiple-cameras-are-there-upgrades/"><u>2024 Approved Reviewing Multiple Cameras Are There Upgrades?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/disabling-windows-automatic-update-feature-a-step-by-step-guide/"><u>Disabling Windows Automatic Update Feature: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-visuals-in-video-calls-with-ms-teams-zoom/"><u>Enhance Visuals in Video Calls with MS Teams Zoom</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facial-recognition-unleashed-my-experience-testing-cutting-edge-smart-lock-technology-zdnet/"><u>Facial Recognition Unleashed: My Experience Testing Cutting-Edge Smart Lock Technology | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-a-safer-brighter-night-for-just-80-labor-day-offer-on-blink-outdoor-camera-and-floodlight-mount-exclusive-deals-inside/"><u>Get a Safer, Brighter Night for Just $80 – Labor Day Offer on Blink Outdoor Camera & Floodlight Mount | Exclusive Deals Inside</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-hands-on-affordable-1080p-hd-recording-optics-exclusive-sale-offer-inside-zdnet-shop/"><u>Get Your Hands on Affordable 1080P HD Recording Optics – Exclusive Sale Offer Inside ZDNET Shop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-smart-security-boost-save-20-on-tp-link-tapo-video-doorbells-with-ai-fee-free-use-promo-code-now-at-just-75/"><u>Get Your Smart Security Boost: Save $20 on TP-Link Tapo Video Doorbells With AI, Fee-Free - Use Promo Code Now at Just $75!</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-system-for-zero-paperwork-windows-trash-auto-empty/"><u>Optimize Your System for Zero Paperwork - Windows Trash Auto-Empty</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-components-for-next-gen-streaming-for-2024/"><u>Premium Components for Next-Gen Streaming for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Locking in Student Pricing for Prime Membership Pre-Prime Day – Don't Miss Out, Start Saving Today!
-date: 2024-09-17 17:26:41
-updated: 2024-09-20 10:31:58
+date: 2024-10-28T21:34:42.920Z
+updated: 2024-10-31T02:58:38.087Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,11 +58,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-and-share-leading-the-charge-with-androids-best-8-free-tools/"><u>[New] In 2024, Capture & Share - Leading the Charge with Android's Best 8 Free Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-untapped-potential-to-augment-your-youtube-audience/"><u>[New] In 2024, Unveiling Untapped Potential to Augment Your Youtube Audience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-enhancing-youtube-videos-for-superior-quality-for-2024/"><u>[Updated] Enhancing YouTube Videos for Superior Quality for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-master-the-art-of-mac-screen-record-via-shortcuts/"><u>2024 Approved Master the Art of Mac Screen Record via Shortcuts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-returns-simplified-the-complete-walkthrough-insights-from-zdnet/"><u>Apple Vision Pro Returns Simplified: The Complete Walkthrough (Insights From ZDNet)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ces-2023-highlights-pioneering-innovations-that-are-set-to-transform-our-world-insights-from-zdnet/"><u>CES 2023 Highlights: Pioneering Innovations That Are Set to Transform Our World - Insights From ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-rectifying-xinput1nfdll-missing-mishaps/"><u>Comprehensive Guide: Rectifying Xinput1_nf_dll Missing Mishaps</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-tailor-dns-settings-for-your-win11-system/"><u>Efficiently Tailor DNS Settings for Your Win11 System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-components-of-a-successful-digital-twin-strategy-integrating-artificial-intelligence-zdnet-insights/"><u>Essential Components of a Successful Digital Twin Strategy: Integrating Artificial Intelligence | ZDNet Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-melodic-mastery-mac-studio-tips/"><u>In 2024, Melodic Mastery Mac Studio Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-revises-timeline-for-next-gen-vr-headsets-aims-for-q4-2024-launch-following-lead-tech-upgrade/"><u>Samsung Revises Timeline for Next-Gen VR Headsets, Aims for Q4 2024 Launch Following Lead Tech Upgrade</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-continuous-breakdowns-of-content-warnings-in-pc-browsers-a-troubleshooting-guide/"><u>Tackling Continuous Breakdowns of Content Warnings in PC Browsers - A Troubleshooting Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-insights-from-ifixit-analysis-of-the-apple-vision-pro-teardown-explore-on-zdnet/"><u>Top 5 Insights From iFixit Analysis of the Apple Vision Pro Teardown - Explore on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-virtual-reality-gear-comprehensive-testing-and-reviews-by-specialists-zdnet/"><u>Top-Rated Virtual Reality Gear : Comprehensive Testing and Reviews by Specialists | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-visionpro-experts-might-suddenly-fail-essential-steps-to-take-when-this-occurs-insights-from-zdnet/"><u>Why VisionPro Experts Might Suddenly Fail: Essential Steps to Take When This Occurs - Insights From ZDNet</u></a></li>
+</ul></div>
+

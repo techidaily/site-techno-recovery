@@ -1,7 +1,7 @@
 ---
 title: Cardless Society Emerges as Digital Wallets Take Over in 2030, Reveals a New Study on ZDNet
-date: 2024-09-18 22:33:28
-updated: 2024-09-20 10:17:24
+date: 2024-10-24T19:34:43.042Z
+updated: 2024-10-31T04:05:02.957Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -64,6 +85,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/a-critical-look-at-huawei-p10-for-photography-enthusiasts-for-2024/"><u>A Critical Look at Huawei P10 for Photography Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-endurance-top-8-essential-settings-tweaks-for-extended-battery-life-insights/"><u>Boost Your Apple Watch's Endurance: Top 8 Essential Settings Tweaks for Extended Battery Life - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-lawn-mowers-for-a-perfect-garden-zdnets-2024-buyers-guide/"><u>Discover the Leading Lawn Mowers for a Perfect Garden: ZDNet's 2024 Buyer's Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-economical-premanufactured-dwellings-under-50k-eco-friendly-and-quick-assembly-homes-insights-from-zdnet/"><u>Discover the Most Economical Premanufactured Dwellings Under $50K: Eco-Friendly and Quick Assembly Homes - Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-power-of-govees-latest-high-brightness-outdoor-lights-transform-your-space-this-saturday-and-sunday/"><u>Discover the Power of Govee's Latest High-Brightness Outdoor Lights – Transform Your Space This Saturday & Sunday!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-brother-dcp-l2540dw-driver-for-microsoft-windows-os/"><u>Easy Installation of Brother DCP-L2540DW Driver for Microsoft Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-how-to-disable-win-11s-elevation-error-740/"><u>Expert Advice: How to Disable Win 11'S Elevation Error #740</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-dji-mini-3-pro-unveiling-the-silent-and-compact-sky-eye-with-built-in-power-pack-an-early-review-techradar/"><u>Exploring the DJI Mini 3 Pro: Unveiling the Silent & Compact Sky-Eye with Built-In Power Pack - An Early Review | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-advanced-security-at-a-bargain-75-tp-link-tapo-video-doorbell-featuring-intelligent-detection-zero-monthly-fee-offer-secure-your-code-now/"><u>Get Advanced Security at a Bargain: $75 TP-Link Tapo Video Doorbell Featuring Intelligent Detection, Zero Monthly Fee Offer - Secure Your Code Now!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-moto-g04-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola Moto G04 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-unboxing-the-apple-books-experience/"><u>In-Depth Review: Unboxing the Apple Books Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-performing-a-tiktok-challengedue/"><u>Step-by-Step Process of Performing a TikTok Challengedue</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-cartoonizer-apps-transform-your-photos-on-mobile-devices-for-2024/"><u>Top Cartoonizer Apps Transform Your Photos on Mobile Devices for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-video-doorbells-in-2market-leaders-expert-reviews-and-picks-by-zdnet/"><u>Top-Rated Video Doorbells in 2^[Market Leaders] - Expert Reviews and Picks by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uipath-go-marketplace-launches-new-abbyy-icc-solution-powerful-ocr-integration/"><u>UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-premium-electric-pressure-cleaners-for-202c-in-depth-testing-and-evaluation-gizmodo/"><u>Ultimate List of Premium Electric Pressure Cleaners for 202C: In-Depth Testing and Evaluation | Gizmodo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unexpected-ways-to-top-up-your-phones-battery-without-a-conventional-charger/"><u>Unexpected Ways to Top Up Your Phone's Battery Without a Conventional Charger</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-the-power-of-high-tech-elegance-discover-how-this-mighty-android-device-outshines-your-iphone-with-unparalleled-thermal-capabilities-zdnet/"><u>Unleash the Power of High-Tech Elegance: Discover How This Mighty Android Device Outshines Your iPhone with Unparalleled Thermal Capabilities | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-of-americas-premier-pickleball-locations-the-ultimate-top-3-state-guide/"><u>Unlock the Secrets of America’s Premier Pickleball Locations: The Ultimate Top 3 State Guide</u></a></li>
+</ul></div>
+

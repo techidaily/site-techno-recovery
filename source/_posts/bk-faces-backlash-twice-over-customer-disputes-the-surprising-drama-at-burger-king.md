@@ -1,7 +1,7 @@
 ---
 title: BK Faces Backlash Twice Over Customer Disputes – The Surprising Drama at Burger King
-date: 2024-09-18 20:36:38
-updated: 2024-09-20 10:58:42
+date: 2024-10-25T05:07:19.876Z
+updated: 2024-10-30T19:04:22.121Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,15 +72,42 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-crafting-professional-livestreams-on-youtube-and-twitch-using-obs/"><u>[New] Crafting Professional Livestreams on YouTube and Twitch Using OBS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-best-choices-8-edits-suites-for-linux-users/"><u>[Updated] In 2024, Best Choices 8 Edits Suites for Linux Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elite-gamers-showcase-premium-setups-unveiled/"><u>[Updated] In 2024, Elite Gamers' Showcase – Premium Setups Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-future-of-android-gaming-its-all-in-kinemaster-review-for-2024/"><u>[Updated] The Future of Android Gaming? It's All in KineMaster Review for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-labor-day-offer-secure-your-home-with-blink-mini-t-2-at-an-unbeatable-25-off-deal-zdnet/"><u>Exclusive Labor Day Offer: Secure Your Home with Blink Mini T 2 at an Unbeatable 25% Off Deal | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-surpassing-home-security-with-the-discounted-ring-spotlight-cam-pro-zdnets-in-depth-review-for-labor-day-sale/"><u>Experience Surpassing Home Security with the Discounted Ring Spotlight Cam Pro – ZDNet's In-Depth Review for Labor Day Sale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-the-total-solar-eclipse-of-april-8-from-home-using-googles-complimentary-service-zdnet/"><u>Experience the Total Solar Eclipse of April 8 From Home Using Google's Complimentary Service | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experiencing-the-future-with-teslas-robotic-lawnmower-a-surprisingly-impressive-encounter-zdnet/"><u>Experiencing the Future with Tesla's Robotic Lawnmower - A Surprisingly Impressive Encounter | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-error-expert-solutions-and-tips/"><u>Fixing the Red Screen Error: Expert Solutions & Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/implementing-chatgpt-into-your-workflows-for-enhanced-productivity/"><u>Implementing ChatGPT Into Your Workflows for Enhanced Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-window-11-experience-with-dynamic-backdrops/"><u>Personalize Your Window 11 Experience with Dynamic Backdrops</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-gif-accelerators-online-ios-and-android-tools/"><u>Updated 2024 Approved Top GIF Accelerators Online, iOS, and Android Tools</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unbelievable Surprise From Delta Airlines - New Customer Experience Breakthrough
-date: 2024-09-17 19:34:25
-updated: 2024-09-20 10:15:13
+date: 2024-10-27T03:36:55.699Z
+updated: 2024-10-30T19:03:17.220Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,11 +72,32 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-beginners-guide-to-convenient-game-edit-software-for-2024/"><u>[New] Ultimate Beginner's Guide to Convenient Game Edit Software for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-to-file-win10-professional-recorder/"><u>[Updated] Screen to File Win10 Professional Recorder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-100-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor 100 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-2022-camping-seats-rankings-your-guide-to-enjoying-outdoor-adventures/"><u>Discover the Ultimate 2022 Camping Seats Rankings: Your Guide to Enjoying Outdoor Adventures!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-2022-headlamp-picks-by-experts-at-zdnet-the-best-of-the-best/"><u>Discover the Ultimate 2022 Headlamp Picks by Experts at ZDNet: The Best of the Best!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ecoflow-river-3-unleashed-by-zdnet-the-ultimate-starter-kit-amongst-portable-battery-packs/"><u>EcoFlow River 3 Unleashed by ZDNet: The Ultimate Starter Kit Amongst Portable Battery Packs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-deal-enjoy-a-cozy-ambiance-with-the-50-colsen-tabletop-fire-pit-now-in-stock/"><u>Exclusive Deal: Enjoy a Cozy Ambiance with the $50 Colsen Tabletop Fire Pit - Now in Stock!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-scoop-discover-the-best-video-doorbells-of-2024-zdnets-detailed-analysis/"><u>Exclusive Scoop: Discover the Best Video Doorbells of 2024 - ZDNET's Detailed Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-reviews-2024s-most-effective-outdoor-floodlighting-solutions-for-optimum-property-protection-zdnet/"><u>Expert Reviews: 2024'S Most Effective Outdoor Floodlighting Solutions for Optimum Property Protection (ZDNET)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-dji-mini-3-pro-unveiling-the-newest-compact-drone-with-silent-flight-and-integrated-power-pack-insights-from-zdnet/"><u>Exploring the DJI Mini 3 Pro: Unveiling the Newest Compact Drone with Silent Flight and Integrated Power Pack - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-finest-small-scale-dwellings-of-2022-a-modern-tiny-home-showcase-by-zdnet/"><u>Exploring the Finest Small-Scale Dwellings of 2022: A Modern Tiny Home Showcase by ZDNET</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-reno-8t-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-tips-for-optimal-screen-recording-with-showmore/"><u>In 2024, Essential Tips for Optimal Screen Recording With ShowMore</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-manual-hp-smartoffice-800-series/"><u>Installation Manual: HP SmartOffice 800 Series</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-steady-expert-tips-for-video-stabilization-in-fcpx/"><u>New In 2024, Get Steady Expert Tips for Video Stabilization in FCPX</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-ai-enhanced-media-conversions-harness-the-power-of-winxvideo-and-gpu-acceleration/"><u>Quick AI-Enhanced Media Conversions: Harness the Power of Winxvideo and GPU Acceleration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-igtvs-potential-5-ways-to-surge-follower-count/"><u>Unlocking IGTV's Potential 5 Ways to Surge Follower Count</u></a></li>
+</ul></div>
+

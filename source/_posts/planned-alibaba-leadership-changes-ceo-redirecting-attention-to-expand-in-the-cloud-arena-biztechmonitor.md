@@ -1,7 +1,7 @@
 ---
 title: "Planned Alibaba Leadership Changes: CEO Redirecting Attention to Expand in the Cloud Arena | BizTechMonitor"
-date: 2024-09-18 22:30:17
-updated: 2024-09-20 11:39:29
+date: 2024-10-24T04:26:35.724Z
+updated: 2024-10-31T04:05:14.467Z
 tags:
   - e-commerce
 categories:
@@ -28,6 +28,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 **Also: [The best early Amazon Prime Day 2024 deals](https://www.zdnet.com/article/best-early-amazon-prime-day-2024-deals/)**
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who is eligible for a Prime Student membership? 
 
@@ -65,9 +72,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-snapchat-tricks-unleashing-yourself-with-a-cartoon-lens/"><u>[New] In 2024, Snapchat Tricks Unleashing Yourself with a Cartoon Lens</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-standout-youtube-thumbnails-with-ease/"><u>[Updated] 2024 Approved Crafting Standout YouTube Thumbnails with Ease</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>[Updated] In 2024, Streamline Accessibility A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-innovative-techniques-for-captivating-fb-video-content/"><u>[Updated] Innovative Techniques for Captivating FB Video Content</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-turbocharge-your-tiktok-videos-for-instant-viewing/"><u>2024 Approved Turbocharge Your TikTok Videos for Instant Viewing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oneplus-ace-2-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best OnePlus Ace 2 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-whats-grabbing-twitter-users-attention/"><u>In 2024, What's Grabbing Twitter Users' Attention</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-diagnosing-and-resolving-issue-0x80070570/"><u>Quick Guide: Diagnosing & Resolving Issue 0X80070570</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-affordable-prefab-homes-priced-below-50000-a-closer-look-at-house-in-a-box-solutions-techradar/"><u>Top 5 Affordable Prefab Homes Priced Below $50,000: A Closer Look at House-in-a-Box Solutions | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-ultimate-guide-to-the-best-portable-projectors-techradar/"><u>Top Picks: Ultimate Guide to the Best Portable Projectors | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-ultimate-guide-to-the-latest-extreme-weather-technologies-featured-on-zdnet/"><u>Top Picks: Ultimate Guide to the Latest Extreme Weather Technologies - Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-power-solutions-ultimate-camping-gear-reviews-by-industry-experts-insights-from-zdnet/"><u>Top-Rated Portable Power Solutions: Ultimate Camping Gear Reviews by Industry Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-solar-power-banks-expert-review/"><u>Top-Rated Portable Solar Power Banks - Expert Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-video-doorbells-expert-review-by-zdnet/"><u>Top-Rated Video Doorbells - Expert Review by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-finest-2022-pellet-grill-models-reviewed-by-pros/"><u>Ultimate Guide to the Finest 2022 Pellet Grill Models Reviewed by Pros</u></a></li>
+</ul></div>
+

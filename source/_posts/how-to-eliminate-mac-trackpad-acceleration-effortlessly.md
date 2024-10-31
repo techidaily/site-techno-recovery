@@ -1,7 +1,7 @@
 ---
 title: How to Eliminate Mac Trackpad Acceleration Effortlessly
-date: 2024-10-21T05:44:22.638Z
-updated: 2024-10-24T22:52:08.737Z
+date: 2024-10-23T23:29:47.102Z
+updated: 2024-10-31T00:13:22.038Z
 categories:
   - BestProducts
 description: This Article Describes How to Eliminate Mac Trackpad Acceleration Effortlessly
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/NGt852YzCkbbBejPpQDkxI8KJG4=/540x405/fi
 
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the macOS Flush DNS Command
 
  If you’re experiencing internet connectivity issues, you may be able to fix them by resetting the[DNS](https://www.lifewire.com/what-is-dns-domain-name-system-2625855) cache with a[Terminal command](https://www.lifewire.com/mac-terminal-commands-4774997) . It should only take a few moments.  
@@ -38,26 +31,34 @@ thumbnail: https://www.lifewire.com/thmb/NGt852YzCkbbBejPpQDkxI8KJG4=/540x405/fi
 ![Terminal highlighted in Spotlight on a Mac.](https://www.lifewire.com/thmb/QGngs7Naa2bQVtWQWVaRG0K34yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Terminal-6e4ba7528a4c4220a28542f84f214676.jpg)  
  You can also access Terminal by navigating to**Go** \>**Utilities** \>**Terminal** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Type (or[copy and paste](https://www.lifewire.com/cut-copy-paste-on-mac-4427671) ) this command into Terminal and then press**Enter** :  
  `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`  
 ![Command highlighted in Terminal window](https://www.lifewire.com/thmb/S2U8vSx5U_PgZI2ZZR_uTWdGHcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Command-e05651de1b2f44e7b99903d8f00910f5.jpg)  
  This command only works in[macOS](https://www.lifewire.com/what-is-macos-4691239) 10.12 Sierra and newer. If you have an older version, check the next section for the correct command.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
 ![Entering a password in Terminal on a Mac.](https://www.lifewire.com/thmb/hvFn07N8xnjZ9XJQvgMitPvCTVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Password-902f4015f672459598066969c7900b2f.jpg)  
 The password will not appear in Terminal as you type it.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Flush DNS on Mac OS X
@@ -72,10 +73,16 @@ The password will not appear in Terminal as you type it.
 * **Tiger** : lookupd -flushcache
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does Flushing DNS Do?
@@ -126,20 +133,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-the-secret-sauce-for-stellar-telegram-campaigns-for-2024/"><u>[New] The Secret Sauce for Stellar Telegram Campaigns for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-understanding-smartwatch-capabilities/"><u>A Comprehensive Guide to Understanding Smartwatch Capabilities</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/are-auditory-hallucinations-a-sign-of-mental-illness/"><u>Are Auditory Hallucinations a Sign of Mental Illness?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722964711297-latest-brother-mfc-7860dw-drivers-for-windows-free-downloads-available/"><u>Latest Brother MFC- 7860DW Drivers for Windows - Free Downloads Available</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-tips-mastering-the-art-of-screenshots-using-logitech-keys/"><u>Quick Tips: Mastering the Art of Screenshots Using Logitech Keys</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/resolving-onedrive-video-playback-problems-a-guide-to-five-easy-solutions/"><u>Resolving OneDrive Video Playback Problems: A Guide to Five Easy Solutions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/secrets-of-asmr-success-with-top-recorder-mics/"><u>Secrets of ASMR Success with Top Recorder Mics</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-activating-and-using-smart-lock-functionality-in-android-systems/"><u>Step-by-Step Tutorial: Activating and Using Smart Lock Functionality in Android Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-to-troubleshoot-and-fix-missing-mfc42dll-file-issues/"><u>Steps to Troubleshoot and Fix Missing mfc42.dll File Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/strategies-for-dealing-with-an-unavailable-msodll-error-message/"><u>Strategies for Dealing with an Unavailable Mso.dll Error Message</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/surviving-rain-or-shine-top-rated-watershield-phone-sleeves-of-the-current-era/"><u>Surviving Rain or Shine: Top Rated Watershield Phone Sleeves of the Current Era</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-role-of-telecommunication-compannies-in-connecting-calls-and-data/"><u>The Role of Telecommunication Compannies in Connecting Calls and Data</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-attracting-followers-on-instagram/"><u>The Ultimate Guide to Attracting Followers on Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-a59-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo A59 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-personalization-features-coloring-the-taskbar-on-windows-11/"><u>Unlocking Personalization Features: Coloring the Taskbar on Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-capacity-limit-how-many-vids-in-128gb-for-2024/"><u>[Updated] Capacity Limit How Many Vids in 128GB for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-secret-language-of-snapchat-behind-every-emoji/"><u>[Updated] In 2024, The Secret Language of Snapchat Behind Every Emoji</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-the-dots-between-your-health-and-training-integrate-oura-ring-data-with-strava-expert-tips-digitalhealthreview/"><u>Connecting the Dots Between Your Health & Training: Integrate Oura Ring Data with Strava - Expert Tips | DigitalHealthReview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-your-passwords-in-macos-keychain-a-step-by-step-guide-tech-tips/"><u>Finding Your Passwords in macOS Keychain: A Step-by-Step Guide - Tech Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-agni-2-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Agni 2 5Gwith/without a PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apple-redefined-ai-comeback-insights-on-progress-and-limitations-as-analyzed/"><u>How Apple Redefined AI Comeback, Insights on Progress & Limitations as Analyzed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-the-latest-apple-watch-fitness-update-stack-against-traditional-gps-sports-watches-like-garmin/"><u>How Does the Latest Apple Watch Fitness Update Stack Against Traditional GPS Sports Watches Like Garmin?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-elevated-cpu-consumption-in-cyberpunk-2077/"><u>How to Fix Elevated CPU Consumption in Cyberpunk 2077</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-turn-off-mouse-acceleration-on-a-mac/"><u>How to Turn Off Mouse Acceleration on a Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-beyondbasics-the-futurepost-mycam-cameras/"><u>In 2024, BeyondBasics The FuturePost-MyCam Cameras</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nier-gestalt-and-replicant-collection-boot-up-fixes-achieved/"><u>NieR Gestalt & Replicant Collection Boot-Up Fixes Achieved</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-newly-purchased-iphone-16-the-essential-guide-to-choosing-the-perfect-case/"><u>Protecting Your Newly Purchased iPhone 16: The Essential Guide to Choosing the Perfect Case</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-insiders-blueprint-for-finding-hidden-youtube-files-for-2024/"><u>The Insider's Blueprint for Finding Hidden YouTube Files for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-10-mobile-versus-ios-9-comprehensive-showdown-of-key-functions/"><u>Windows 10 Mobile versus iOS 9: Comprehensive Showdown of Key Functions</u></a></li>
 </ul></div>
 

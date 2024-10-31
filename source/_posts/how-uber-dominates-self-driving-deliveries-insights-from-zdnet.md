@@ -1,7 +1,7 @@
 ---
 title: How Uber Dominates Self-Driving Deliveries – Insights From ZDNet
-date: 2024-09-19 22:16:16
-updated: 2024-09-20 12:48:56
+date: 2024-10-26T05:23:22.512Z
+updated: 2024-10-30T18:08:10.899Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -70,6 +91,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-secrets-of-the-pros-apple-devices-for-premium-interactive-recording/"><u>[New] Secrets of the Pros Apple Devices for Premium Interactive Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-hiding-hashtags-on-social-media-platforms/"><u>[New] The Art of Hiding Hashtags on Social Media Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-regrets-post-sendoff-mastering-the-art-of-email-recall-in-outlook/"><u>Avoiding Regrets Post-Sendoff: Mastering the Art of Email Recall in Outlook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-and-macbook-air-key-distinctions-revealed/"><u>Comparing iPad Pro & MacBook Air: Key Distinctions Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortlessly-cast-your-mac-screen-on-a-tv-with-these-simple-airplay-steps/"><u>Effortlessly Cast Your Mac Screen on a TV with These Simple AirPlay Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-enhanced-gaming-free-logitech-g-pro-driver-installer-for-windows-pcs/"><u>Experience Enhanced Gaming: Free Logitech G Pro Driver Installer for Windows PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-drop-multiple-pins-on-google-maps/"><u>How to Drop Multiple Pins on Google Maps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-100-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor 100 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-f23-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo F23 5G Phone Screen?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphone-15-pro-max-vs-samsung-s24-ultra-a-comprehensive-showdown/"><u>IPhone 15 Pro Max Vs. Samsung S24 Ultra: A Comprehensive Showdown</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/scala-il-tuo-video-avi-per-una-risoluzione-e-qualita-superiore-con-avi-video-resizer/"><u>Scala Il Tuo Video AVI per Una Risoluzione E Qualità Superiore Con AVI Video Resizer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/securing-personal-chats-from-chatgpt-saving-mechanisms-essential-advice/"><u>Securing Personal Chats From ChatGPT Saving Mechanisms: Essential Advice</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-speed-surge-new-chipset-drivers/"><u>System Speed Surge - New Chipset Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-fixes-for-robloxs-error-262/"><u>Unveiling Fixes for Roblox's Error 262</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-samsung-galaxy-ring-pricing-insights-launch-timeline-and-technical-specifications/"><u>Unveiling the Samsung Galaxy Ring: Pricing Insights, Launch Timeline & Technical Specifications</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Top Cellphone Bargains on Independence Day - Compiled by ZDNet
-date: 2024-10-20T05:08:22.464Z
-updated: 2024-10-24T20:07:21.088Z
+date: 2024-10-25T19:50:04.552Z
+updated: 2024-10-30T22:04:15.053Z
 tags:
   - apple
 categories:
@@ -92,6 +92,19 @@ For a budget option, consider the Motorola Moto G 5G (2023). It rolls right off 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2SP2L4K%2Fref%3Dasc%5Fdf%5FB0C2SP2L4K1727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C2SP2L4K%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C28eed66c-04af-48aa-9431-6d8a4628571e%7Cdtp&dtb=1)[View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F2126374727&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best refurbished phones deals of July 4th
 
 * [Apple iPhone 15 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Pro-Titanium%2Fdp%2FB0CMZKHTQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C28eed66c-04af-48aa-9431-6d8a4628571e%7Cdtp&dtb=1) (Unlocked, 128GB, Renewed): $839
@@ -99,10 +112,10 @@ For a budget option, consider the Motorola Moto G 5G (2023). It rolls right off 
 * [Google Pixel 7 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Telephoto%2Fdp%2FB0BKD96YJT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C28eed66c-04af-48aa-9431-6d8a4628571e%7Cdtp&dtb=1) (Unlocked, 128GB, Renewed): $360
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these 4th of July deals?
@@ -114,13 +127,6 @@ We also looked over customer reviews to find out what matters to real people who
 ## What is the best phone?
 
 Right now, ZDNET's pick for the [best phone overall](https://www.zdnet.com/article/best-phone/) is the [Samsung Galaxy S24 Ultra](https://www.zdnet.com/article/samsung-galaxy-s24-ultra-review/). It features everything you could want from a smartphone, including a large display, four cameras that can shoot 200MP photos and 8K video, up to 1TB of storage, a built-in S Pen for writing and drawing, and a 5,000mAh battery powering the system.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Factors to consider when choosing a phone
 
@@ -135,16 +141,10 @@ Ultimately, we weigh in the following aspects when curating this list:
 * **Value**: Price points are noted, but the most important thing with buying a phone is getting your money's worth. With these picks, you can rest assured that you're getting the best bang for your buck.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much storage should my phone have?
@@ -152,10 +152,10 @@ Ultimately, we weigh in the following aspects when curating this list:
 Most smartphones have a base storage capacity of 128GB, which is plenty of space for average users to download apps and music, take photos, and shoot videos. However, if you're a mobile or creative professional, you'll need more space. Many smartphones have expanded storage options up to 512GB or even 1TB, and you can always sync your phone to your preferred cloud storage service to free up local storage space.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -202,22 +202,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-uploading-subtitles-a-compreenas-guide-for-all-social-media-users/"><u>[Updated] Uploading Subtitles A Compreenas Guide for All Social Media Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decode-and-repair-netflix-glitch-code-nw-30-19-for-hassle-free-watching/"><u>Decode and Repair Netflix Glitch Code NW-30-19 for Hassle-Free Watching</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-details-of-lg-communication-pathways/"><u>Decoding the Details of LG Communication Pathways</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easywav-transformation-conversione-online-a-costo-zero-da-ape-a-formato-wav-con-ezconvert/"><u>EasyWav Transformation: Conversione Online a Costo Zero Da APE a Formato WAV Con EzConvert</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enjoy-sports-with-ease-setting-up-espn-plus-on-an-lg-smart-tv/"><u>Enjoy Sports with Ease: Setting Up ESPN Plus on an LG Smart TV</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/how-to-share-your-youtube-videos-on-instagram-step-by-step-guide/"><u>How to Share Your YouTube Videos on Instagram - Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-reno-9a-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo Reno 9A to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-hot-30-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Hot 30 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-quick-tips-to-master-free-countdown-functions/"><u>In 2024, Quick Tips to Master FREE Countdown Functions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-magic-v2-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor Magic V2 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-vs-samsung-s24-ultra-whats-the-difference/"><u>IPhone 15 Pro Max Vs. Samsung S24 Ultra: What's the Difference?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/list-of-ipad-versions-with-integrated-gps-capabilities/"><u>List of iPad Versions with Integrated GPS Capabilities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-to-stabilize-and-restore-your-surface-pros-display-quality/"><u>Step-by-Step Solutions to Stabilize and Restore Your Surface Pro's Display Quality</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-roku-tv-step-by-step-instructions/"><u>Ultimate Guide: Connecting Your Roku TV - Step-by-Step Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-creating-your-personalized-email-signature-on-godaddys-web-mail-platform/"><u>Ultimate Guide: Creating Your Personalized Email Signature on GoDaddy's Web Mail Platform</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/universal-method-for-screen-recording-across-systems-for-2024/"><u>Universal Method for Screen Recording Across Systems for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/acachha-taraha-sa-wd-elements-daraiva-thavara-shathhata-janakara-panaraparapata-kara-eka-anatha-maraga/"><u>अच्छी तरह से WD Elements ड्राइव द्वारा शोधित जानकारी पुनर्प्राप्त करें: एक अनूठी मार्ग</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-transition-from-standard-to-intelligent-hdr-imaging/"><u>[Updated] 2024 Approved Transition From Standard to Intelligent HDR Imaging</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-practices-for-6-trendy-mc-houses/"><u>[Updated] Best Practices for 6 Trendy MC Houses</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-spin-o-matic-method-transforming-your-images-on-instagram-with-ease/"><u>2024 Approved The Spin-O-Matic Method Transforming Your Images on Instagram with Ease</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-users-rejoice-how-to-refresh-your-dns-records-easily/"><u>Mac Users Rejoice: How To Refresh Your DNS Records Easily</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-pro-level-jump-cuts-in-final-cut-pro-x-tips-and-tricks/"><u>New 2024 Approved Pro-Level Jump Cuts in Final Cut Pro X Tips and Tricks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reversing-playback-errors-in-mobile-media/"><u>Reversing Playback Errors in Mobile Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/techniques-to-reduce-nausea-while-in-vr-for-2024/"><u>Techniques to Reduce Nausea While In VR for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unboxing-apple-vision-pros-affordable-199-travel-accessory-unusual-yet-comfortable-design-exposed/"><u>Unboxing Apple Vision Pro's Affordable $199 Travel Accessory: Unusual Yet Comfortable Design Exposed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unexpected-glitches-in-visionpro-app-expert-tips-and-fixes-for-sudden-crashes-insights/"><u>Unexpected Glitches in VisionPro App? Expert Tips & Fixes for Sudden Crashes Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrades-unveiled-comparing-features-of-the-latest-iphone-15-pro-to-iphone-14-pro-expert-insights-from-zdnet/"><u>Upgrades Unveiled: Comparing Features of the Latest iPhone 15 Pro to iPhone 14 Pro - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/where-are-my-steam-captured-moments-stored/"><u>Where Are My Steam Captured Moments Stored?</u></a></li>
 </ul></div>
 

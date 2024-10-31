@@ -1,7 +1,7 @@
 ---
 title: How TikTok's $1. 5 Billion Bet on Indonesia Shapes the Future of Southeast Asian E-Commerce | Tech News Digest
-date: 2024-09-18 13:57:41
-updated: 2024-09-20 10:54:23
+date: 2024-10-30T04:04:24.599Z
+updated: 2024-10-30T19:06:32.020Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,19 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +63,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -65,6 +85,19 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -78,6 +111,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +144,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-10-innovative-desktopmobile-conferencing-tools/"><u>[New] 10 Innovative Desktop/Mobile Conferencing Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-beauty-blogging-101-starting-up-as-an-aesthetic-vlogger-for-2024/"><u>[New] Beauty Blogging 101 Starting Up as an Aesthetic Vlogger for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-find-x6-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Find X6 FRP Bypass Instantly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-thrills-on-a-budget-the-ultimate-guide-to-the-syma-s1n11g-remote-control-helicopter/"><u>Discovering Thrills on a Budget: The Ultimate Guide to the Syma S1n11G Remote Control Helicopter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-to-follow-techniques-and-strategies-for-beginners-in-pokemon-go/"><u>Easy-to-Follow Techniques and Strategies for Beginners in 'Pokémon Go'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-unparalleled-audio-clarity-with-beats-latest-pill-speaker-perfect-accompaniment-to-all-genres-a-zdnet-review/"><u>Experience Unparalleled Audio Clarity with Beats' Latest Pill Speaker: Perfect Accompaniment to All Genres - A ZDNet Review</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/powershot-g9-x-mark-ii-a-retro-look-meets-current-camera-technology-essentials/"><u>PowerShot G9 X Mark II: A Retro Look Meets Current Camera Technology Essentials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-combat-heavy-memory-usage-on-windows-10-resolved/"><u>Steps To Combat Heavy Memory Usage on Windows 10 [Resolved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-hosting-a-memorable-labor-day-celebration-expert-advice-by-zdnet/"><u>Ultimate Guide to Hosting a Memorable Labor Day Celebration - Expert Advice by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-top-tips-and-tricks-for-an-unforgettable-labor-day-bash-insights-from-zdnet/"><u>Ultimate Guide: Top Tips and Tricks for an Unforgettable Labor Day Bash - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-sound-experience-with-the-soul-storm-bt-max-waterproof-bluetooth-speaker-incredible-bass-and-vibrant-led-illumination-reviewed-by-tech-enthusiasts-214/"><u>Ultimate Sound Experience with the Soul Storm BT Max Waterproof Bluetooth Speaker – Incredible Bass & Vibrant LED Illumination Reviewed by Tech Enthusiasts at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-selection-the-premier-floor-stands-for-immersive-sound/"><u>ZDNet's Ultimate Selection: The Premier Floor Stands for Immersive Sound</u></a></li>
+</ul></div>
+

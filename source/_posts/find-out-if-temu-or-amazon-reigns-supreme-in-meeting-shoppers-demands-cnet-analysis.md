@@ -1,7 +1,7 @@
 ---
 title: Find Out if Temu or Amazon Reigns Supreme in Meeting Shoppers' Demands | CNET Analysis
-date: 2024-09-17 18:49:16
-updated: 2024-09-20 12:39:38
+date: 2024-10-28T02:16:17.362Z
+updated: 2024-10-30T16:04:36.141Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +65,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-convenient-iphone-method-for-live-screen-capture/"><u>[New] 2024 Approved Convenient iPhone Method for Live Screen Capture</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweetvidaudiomaker-instant-sound-output/"><u>[Updated] TweetVidAudioMaker Instant Sound Output</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-ultra-fast-instagram-video-views-for-smartphone-users/"><u>[Updated] Ultra-Fast Instagram Video Views for Smartphone Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-a-day-in-the-life-on-facebook-enhancing-participation/"><u>2024 Approved A Day in the Life on Facebook Enhancing Participation</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/complete-step-by-step-tutorial-on-windows-11-backup-solutions-similar-to-macos-time-machine/"><u>Complete Step-by-Step Tutorial on Windows 11 Backup Solutions Similar to macOS Time Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-diy-projector-screen-setup-for-enhanced-viewing-experience/"><u>Easy DIY Projector Screen Setup for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-remedies-for-eradicating-static-image-damage-on-screens/"><u>Easy Remedies for Eradicating Static Image Damage on Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-troubleshooting-and-resolving-advapi32dll-not-found-errors-effectively/"><u>Expert Advice: Troubleshooting and Resolving Advapi32.dll Not Found Errors Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-your-macbook-pros-keyboard-back-on-track-troubleshooting-techniques-that-work/"><u>Getting Your MacBook Pro's Keyboard Back on Track: Troubleshooting Techniques That Work</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-10c-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark 10C to PC? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insider-info-playstation-5-slims-cost-availability-dates-and-comprehensive-features-breakdown/"><u>Insider Info: PlayStation 5 Slim's Cost, Availability Dates, and Comprehensive Features Breakdown</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-guide-to-watching-every-classic-james-bond-film/"><u>Ordered Guide to Watching Every Classic James Bond Film</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picture-in-progressive-screen-mastery-for-chrome-users-across-platforms-for-2024/"><u>Picture in Progressive Screen Mastery for Chrome Users Across Platforms for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/razers-ultrabook-unleashed-a-compact-force-revealed/"><u>Razer's Ultrabook Unleashed: A Compact Force Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revisit-past-alerts-mastering-the-art-of-accessing-older-notifications-on-an-iphone/"><u>Revisit Past Alerts: Mastering the Art of Accessing Older Notifications on an iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-action-hunting-cameras-of-the-year-for-2024/"><u>Top Action Hunting Cameras of the Year for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-x3daudiodll-files-steps-for-recovery-and-repair/"><u>Troubleshooting Missing x3daudio.dll Files: Steps for Recovery and Repair</u></a></li>
+</ul></div>
+

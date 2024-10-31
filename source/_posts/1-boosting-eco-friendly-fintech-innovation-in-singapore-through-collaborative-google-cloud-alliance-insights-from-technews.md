@@ -1,7 +1,7 @@
 ---
 title: 1. Boosting Eco-Friendly Fintech Innovation in Singapore Through Collaborative Google Cloud Alliance - Insights From TechNews
-date: 2024-09-18 19:10:33
-updated: 2024-09-20 12:35:32
+date: 2024-10-28T20:55:29.363Z
+updated: 2024-10-31T04:41:34.351Z
 tags:
   - energy
 categories:
@@ -43,11 +43,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-5-pro-snipers-on-macos/"><u>[New] In 2024, Top 5 Pro Snipers on macOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-silence-social-advertisements-for-a-smoother-stream-for-2024/"><u>[New] Silence Social Advertisements for a Smoother Stream for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-checklist-for-twitch-broadcasting-for-2024/"><u>[New] The Ultimate Checklist for Twitch Broadcasting for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlocking-tiktoks-potential-changing-your-profile-number-for-2024/"><u>[New] Unlocking TikTok's Potential Changing Your Profile Number for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-everlasting-impressions-save-instagram-stories-endlessly/"><u>[Updated] 2024 Approved Everlasting Impressions Save Instagram Stories Endlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-marvel-discover-the-most-stunning-non-samsung-android-device-for-just-200-exclusive-review-by-zdnet/"><u>Affordable Marvel: Discover the Most Stunning Non-Samsung Android Device for Just $200 - Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/ancestral-aesthetics-art-without-restrictive-rights-for-2024/"><u>Ancestral Aesthetics Art Without Restrictive Rights for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-incredible-pixel-9-deal-at-only-100-unlock-the-secret-tech-tips-from-zdnet-now/"><u>Discover the Incredible Pixel 9 Deal at Only $100! Unlock The Secret Tech Tips From ZDNET Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/durable-and-timeless-exploring-the-cat-s22-flip-smartphones-performance-for-outdoor-use-techadvisor/"><u>Durable and Timeless: Exploring the CAT S22 Flip Smartphone's Performance for Outdoor Use | TechAdvisor</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-premium-surround-sound-with-the-bose-smart-bar-simple-yet-advanced-features-reviewed/"><u>Experience Premium Surround Sound with the Bose Smart Bar - Simple Yet Advanced Features Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-surface-duo-2-in-style-discover-the-perfect-pen-cover-for-added-safety-and-seamless-wireless-power-zdnets-latest-feature/"><u>Protect Your Surface Duo 2 in Style! Discover the Perfect Pen Cover for Added Safety and Seamless Wireless Power | ZDNET's Latest Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rapid-entry-methods-for-google-shortcuts-on-macos-a-comprehensive-guide/"><u>Rapid Entry Methods for Google Shortcuts on macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-time-management-book-appointments-with-google-calendars-latest-upgrade-check-it-out/"><u>Revolutionizing Time Management: Book Appointments with Google Calendar's Latest Upgrade – Check It Out!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-email-writing-using-gmail-snippets-for-reduced-errors-and-faster-communication-a-must-read-guide-zdnet/"><u>Streamline Email Writing Using Gmail Snippets for Reduced Errors & Faster Communication: A Must-Read Guide | ZDNET.</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-record-your-desktop-with-filmora-scrn/"><u>Updated In 2024, How to Record Your Desktop with Filmora Scrn?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

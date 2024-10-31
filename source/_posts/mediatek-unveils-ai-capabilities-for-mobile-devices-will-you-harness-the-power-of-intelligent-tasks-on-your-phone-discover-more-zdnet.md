@@ -1,7 +1,7 @@
 ---
 title: MediaTek Unveils AI Capabilities for Mobile Devices – Will You Harness the Power of Intelligent Tasks on Your Phone? Discover More | ZDNet
-date: 2024-09-18 23:44:22
-updated: 2024-09-20 11:12:15
+date: 2024-10-28T04:45:57.276Z
+updated: 2024-10-30T16:34:07.022Z
 tags:
   - edge-computing
 categories:
@@ -88,11 +88,38 @@ There are a lot of considerations with on-device generative AI, but it's clear t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-enhance-your-contents-visibility-peak-days-for-2024/"><u>[Updated] Enhance Your Content's Visibility - Peak Days for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unleash-your-videos-potential-thriving-in-youtube-rankings/"><u>[Updated] Unleash Your Video's Potential Thriving in YouTube Rankings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/are-gpt-3-experts-overtaking-ai-researchers-in-popularity-for-top-tech-career-insights-from-a-zdnet-analysis/"><u>Are GPT-3 Experts Overtaking AI Researchers in Popularity for Top Tech Career: Insights From a ZDNet Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/behind-the-headlines-why-job-reductions-at-leading-technology-companies-tell-a-different-tale-zdnet/"><u>Behind the Headlines: Why Job Reductions at Leading Technology Companies Tell a Different Tale | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/blue-screen-blues-discover-8-fixes-to-restore-your-tv-displays-true-colors/"><u>Blue Screen Blues? Discover 8 Fixes to Restore Your TV Display's True Colors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridging-the-gap-in-remote-teams-a-critical-analysis-of-hybrid-workplace-solutions-by-zdnet/"><u>Bridging the Gap in Remote Teams: A Critical Analysis of 'Hybrid Workplace Solutions' By ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2350dw-printer-software-downloader-latest-drivers-and-updates/"><u>Brother HL-L2350DW Printer Software Downloader: Latest Drivers and Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-right-bootcamp-the-ultimate-list-of-leading-coding-schools/"><u>Choosing the Right Bootcamp: The Ultimate List of Leading Coding Schools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-remote-work-and-in-office-setup-unveiling-pros-and-potential-pitfalls-on-zdnet/"><u>Comparing Remote Work and In-Office Setup: Unveiling Pros & Potential Pitfalls on ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/et3rminate-all-unnecessary-applications-running-in-the-background-that-might-be-hogging-system-resources-which-could-potentially-help-with-driver-installati143/"><u>e.t3rminate All Unnecessary Applications Running in the Background that Might Be Hogging System Resources, Which Could Potentially Help with Driver Installation Issues.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-streaming-of-amazing-sci-fi-blockbusters-secrets-for-accessing-epic-galactic-adventures-at-no-charge/"><u>Free Streaming of Amazing Sci-Fi Blockbusters: Secrets for Accessing Epic Galactic Adventures at No Charge</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/galaxy-s20-video-playback-compatible-audio-and-video-codecs/"><u>Galaxy S20 Video Playback: Compatible Audio & Video Codecs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-magic-5-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor Magic 5 Pro Lock Screen Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-zte-nubia-flip-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from ZTE Nubia Flip 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-the-nerves-of-a-fresh-start-mastering-career-transition-anxiety-with-advice-from-zdnet/"><u>Navigate the Nerves of a Fresh Start: Mastering Career Transition Anxiety with Advice From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/networking-strategies-for-the-shy-professional-insights-from-zdnet/"><u>Networking Strategies for the Shy Professional: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-for-securing-your-next-position-without-risking-current-employment/"><u>Strategies for Securing Your Next Position Without Risking Current Employment</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

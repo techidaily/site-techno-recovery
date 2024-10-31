@@ -1,7 +1,7 @@
 ---
 title: "Amazon Secures Strategic Partnership with E-Commerce Giants: Expanding Reach of Singapore's Small and Medium Enterpr"
-date: 2024-09-17 21:43:16
-updated: 2024-09-20 10:28:25
+date: 2024-10-28T01:52:42.467Z
+updated: 2024-10-31T02:19:40.190Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,19 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,6 +89,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-cold-weather-spectacle-of-beijing-2022/"><u>[New] In 2024, The Cold-Weather Spectacle of Beijing 2022</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-video-uploads-on-youtube-a-comprehensive-tutorial/"><u>[New] Navigating Video Uploads on YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>[Updated] 2024 Approved Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-the-metaverse-humor-scene-with-our-top-meme-ideas-for-2024/"><u>[Updated] Master the Metaverse Humor Scene with Our Top Meme Ideas for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion/"><u>2024 Approved Content Delivery Comparison Vimeo vs YouTube vs Dailymotion</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-deep-investigation-into-ustream-and-its-competitors/"><u>2024 Approved Deep Investigation Into Ustream & Its Competitors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-the-apple-glasses-hype-on-a-budget-how-i-found-relief-with-cost-effective-ar-eyewear-zdnet-exclusives/"><u>Beat the 'Apple Glasses' Hype on a Budget: How I Found Relief with Cost-Effective AR Eyewear | ZDNET Exclusives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-from-razer-a-comprehensive-roundup-of-razers-exciting-unveilings-at-ces-2nite/"><u>Discover the Latest From Razer: A Comprehensive Roundup of Razer's Exciting Unveilings at CES 2Nite!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/emerging-dominant-tech-forces-ai-virtual-assistants-and-ar-spotlight-this-weeks-hottest-innovations-zdnet/"><u>Emerging Dominant Tech Forces: AI, Virtual Assistants & AR Spotlight This Week's Hottest Innovations | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-lenovo-thinkreality-a3-experience-elevating-your-virtual-interactions/"><u>Exploring the Lenovo ThinkReality A3 Experience: Elevating Your Virtual Interactions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-meta-quests-supernatural-app-revolutionized-my-fitness-journey-why-going-back-is-unthinkable-zdnet/"><u>How Meta Quest's Supernatural App Revolutionized My Fitness Journey – Why Going Back Is Unthinkable | ZDNET</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-12-video-capture-apps-no-time-limit/"><u>In 2024, Premium 12 Video Capture Apps, No Time Limit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-music-sticker-how-to-get-the-music-sticker-on-instagram-for-2024/"><u>Instagram Music Sticker How to Get the Music Sticker on Instagram for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/painting-with-light-the-role-of-film-grade-for-2024/"><u>Painting with Light The Role of Film Grade for 2024</u></a></li>
+</ul></div>
+

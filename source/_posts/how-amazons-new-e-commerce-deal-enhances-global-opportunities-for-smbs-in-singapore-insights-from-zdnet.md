@@ -1,7 +1,7 @@
 ---
 title: How Amazon's New E-Commerce Deal Enhances Global Opportunities for SMBs in Singapore - Insights From ZDNet
-date: 2024-09-18 20:34:38
-updated: 2024-09-20 12:48:28
+date: 2024-10-30T03:47:51.367Z
+updated: 2024-10-31T02:09:36.810Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -45,11 +52,25 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -79,6 +100,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I have to cancel my current account to get Prime Student? 
 
 No, you do not have to cancel or deactivate your account. Just [use this link](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1)to transfer your account. Your current benefits, however, may change. For example, if you currently have a 20% discount on home appliances, that may be revoked in place of the other perks. 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-hidden-dynamics-of-live-video-images-on-youtube/"><u>[New] In 2024, The Hidden Dynamics of Live Video Images on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-effective-storytelling-through-youtube-and-facebook-for-2024/"><u>[Updated] Effective Storytelling Through YouTube and Facebook for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cutting-edge-tech-treasures-for-thrifty-explorers/"><u>Cutting-Edge Tech Treasures for Thrifty Explorers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-amber-alerts-on-your-android-device-step-by-step-guide/"><u>Disabling AMBER Alerts on Your Android Device: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-profit-from-spotting-code-flaws-in-openais-challenge-arena/"><u>How to Profit From Spotting Code Flaws in OpenAI's Challenge Arena</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-when-your-computer-cant-find-mscorwksdll/"><u>How To Recover When Your Computer Can't Find mscorwks.dll</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-set-up-psvr-on-a-windows-or-mac-computer/"><u>How to Seamlessly Set Up PSVR on a Windows or Mac Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-troubleshoot-and-repair-the-notorious-error-code-0xc0000185/"><u>How To Troubleshoot And Repair The Notorious Error Code 0xC0000185</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-upgrade-lenovo-legion-5-pros-nvidia-drivers-focus-on-the-16ach6h-configuration/"><u>How to Upgrade Lenovo Legion 5 Pro's NVIDIA Drivers: Focus on the 16ACH6H Configuration</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-13-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 13? 5 Tips You Must Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/locating-your-vehicles-radio-security-pin-a-step-by-step-guide/"><u>Locating Your Vehicle's Radio Security PIN - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-tips-fixing-steamdll-file-not-located-or-missing-issues/"><u>Master Tips: Fixing 'Steam.dll File Not Located' Or Missing Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-overclocking-performance-the-role-of-corsairs-6500x-and-2500x-chassis-in-enhanced-cooling-and-personalized-setups/"><u>Maximizing Overclocking Performance: The Role of Corsair’s 6500X and 2500X Chassis in Enhanced Cooling & Personalized Setups</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-through-our-favourites-5-leading-free-worldwide-voice-applications/"><u>Navigate Through Our Favourites: 5 Leading Free Worldwide Voice Applications</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-watermark-your-videos-for-free-top-5-software-options-for-2024/"><u>New Watermark Your Videos for Free Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-zte-blade-a73-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On ZTE Blade A73 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+</ul></div>
+

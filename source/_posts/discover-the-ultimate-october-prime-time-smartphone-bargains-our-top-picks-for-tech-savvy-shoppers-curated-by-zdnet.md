@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate October Prime Time Smartphone Bargains: Our Top Picks for Tech Savvy Shoppers - Curated by ZDNet"
-date: 2024-09-17 14:44:35
-updated: 2024-09-20 11:45:13
+date: 2024-10-26T05:17:06.128Z
+updated: 2024-10-30T21:50:12.055Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,11 +58,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -68,6 +89,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-navigating-the-world-of-screen-capture-with-bandicam/"><u>[New] Navigating the World of Screen Capture with Bandicam</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-guide-to-designing-youtube-shorts-templates/"><u>[Updated] In 2024, The Ultimate Guide to Designing YouTube Shorts Templates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-perfecting-your-pics-for-maximum-youtube-views-for-2024/"><u>[Updated] Perfecting Your Pics for Maximum YouTube Views for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-cutting-edge-strategies-to-minimize-vids-for-instagram-on-macos/"><u>2024 Approved Cutting-Edge Strategies to Minimize Vids for Instagram on macOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-tailored-broadcasting-strategies-for-various-platforms-yt-fb-twitch/"><u>In 2024, Tailored Broadcasting Strategies for Various Platforms (YT, FB, Twitch)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-and-easy-how-to-record-your-iphone-7-display-for-2024/"><u>Quick & Easy How to Record Your iPhone 7 Display for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-a-discounted-jbl-charge-abk-water-resistant-bluetooth-speaker-at-89-exclusive-walmart-black-friday-offer/"><u>Score a Discounted JBL Charge Abk Water-Resistant Bluetooth Speaker at $89 - Exclusive Walmart Black Friday Offer!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/small-size-big-sound-explore-how-this-palm-sized-bluetooth-audio-marvel-can-transform-your-listening-experience-zdnet/"><u>Small Size, Big Sound: Explore How This Palm-Sized Bluetooth Audio Marvel Can Transform Your Listening Experience | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/switching-up-audio-gear-unexpected-delights-with-my-new-jbl-after-trading-in-my-premium-soundbar-insights-from-zdnet/"><u>Switching Up Audio Gear: Unexpected Delights with My New JBL After Trading In My Premium Soundbar - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-of-making-music-video-on-iphone/"><u>Tips of Making Music Video on iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-non-bose-non-sony-wireless-bluetooth-speaker-reviewed-insider-secrets-revealed/"><u>Top-Rated Non-Bose, Non-Sony Wireless Bluetooth Speaker Reviewed: Insider Secrets Revealed!</u></a></li>
+</ul></div>
+

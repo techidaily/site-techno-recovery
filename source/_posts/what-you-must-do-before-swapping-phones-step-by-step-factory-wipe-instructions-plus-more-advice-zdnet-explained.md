@@ -1,7 +1,7 @@
 ---
 title: "What You Must Do Before Swapping Phones: Step-by-Step Factory Wipe Instructions + More Advice | ZDNet Explained"
-date: 2024-09-18 23:31:22
-updated: 2024-09-20 10:47:56
+date: 2024-10-26T04:33:06.409Z
+updated: 2024-10-31T02:48:15.031Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -51,11 +58,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -70,6 +91,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-explore-and-expand-top-7-services-turning-your-digital-creations-into-crypto-assets-for-2024/"><u>[New] Explore and Expand Top 7 Services Turning Your Digital Creations Into Crypto Assets for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-easy-entry-level-choices-for-gopro-accessories/"><u>[New] In 2024, Easy Entry-Level Choices for GoPro Accessories</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-immersive-image-editing-online-cropping-essentials/"><u>[New] In 2024, Immersive Image Editing Online Cropping Essentials</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-is-there-a-cash-incentive-in-critique-videos/"><u>[Updated] In 2024, Is There a Cash Incentive in Critique Videos?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoid-unwanted-macbook-sleep-expert-advice-on-keeping-it-awake-with-a-closed-cover/"><u>Avoid Unwanted MacBook Sleep: Expert Advice on Keeping It Awake with a Closed Cover</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/closer-conversations-mastering-in-camera-precision/"><u>Closer Conversations Mastering In-Camera Precision</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-the-world-of-dvrs-how-they-transformed-viewing-habits/"><u>Demystifying the World of DVRs: How They Transformed Viewing Habits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-social-apps-to-expand-your-circle-of-acquaintances/"><u>Discover the Best Social Apps to Expand Your Circle of Acquaintances</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-tutorial-building-a-stunning-video-slideshow/"><u>Final Cut Pro Tutorial Building a Stunning Video Slideshow</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-identify-the-best-power-strips-and-surge-protectors-to-secure-your-electronic-devices/"><u>How to Identify the Best Power Strips and Surge Protectors to Secure Your Electronic Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-sony-xperia-5-v-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Sony Xperia 5 V to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y77t-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y77t Bootloader Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-15-effective-ways-to-restrict-access-to-youtube-throughout-an-ipad/"><u>IOS 15: Effective Ways to Restrict Access to YouTube Throughout an iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-society-through-the-might-of-ai-technology/"><u>Revolutionizing Society Through the Might of AI Technology</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/s-hottest-adobe-premiere-title-templates-free-download-for-2024/"><u>S Hottest Adobe Premiere Title Templates - Free Download for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-remove-the-built-in-news-widget-from-windows-11/"><u>Steps to Remove the Built-In News Widget From Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-hot-40-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Hot 40 Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unstick-your-unresponsive-media-player-proven-methods-for-fixing-non-eject-drives/"><u>Unstick Your Unresponsive Media Player: Proven Methods for Fixing Non-Eject Drives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-reasons-your-cars-persistent-battery-issues-explored/"><u>Unveiling the Reasons: Your Car's Persistent Battery Issues Explored</u></a></li>
+</ul></div>
+

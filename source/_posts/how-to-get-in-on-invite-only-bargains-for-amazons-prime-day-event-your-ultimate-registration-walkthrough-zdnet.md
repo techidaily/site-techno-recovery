@@ -1,7 +1,7 @@
 ---
 title: How to Get in on Invite-Only Bargains for Amazon's Prime Day Event - Your Ultimate Registration Walkthrough | ZDNet
-date: 2024-09-19 18:14:35
-updated: 2024-09-20 11:50:24
+date: 2024-10-26T01:30:24.299Z
+updated: 2024-10-31T05:17:43.389Z
 tags:
   - e-commerce
 categories:
@@ -28,6 +28,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 **Also: [The best early Amazon Prime Day 2024 deals](https://www.zdnet.com/article/best-early-amazon-prime-day-2024-deals/)**
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who is eligible for a Prime Student membership? 
 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -71,9 +85,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 ## FAQs  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-visual-bedtime-plays-reviewed/"><u>[New] 2024 Approved Visual Bedtime Plays Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-ways-to-screen-record-on-android-for-2024/"><u>[New] Best Ways to Screen Record on Android for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>[New] Capturing Screen Content via Built-In Recorders in the Mate and P Series</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-teaser-film-assortment/"><u>[New] Pinnacle Teaser Film Assortment</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-utilizing-top-users-to-increase-visibility-for-2024/"><u>[Updated] Utilizing Top Users to Increase Visibility for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cutting-edge-pc-architecture-expertly-engineered-for-efficient-air-cooling-at-the-heart-of-a-large-central-fan-conquer-centrifugal-dynamics/"><u>Cutting-Edge PC Architecture: Expertly Engineered for Efficient Air Cooling at the Heart of a Large Central Fan - Conquer Centrifugal Dynamics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-hi-fi-innovations-from-ces-2024-featured-by-zdnet/"><u>Discover the Ultimate Hi-Fi Innovations From CES 2024, Featured by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/economic-conditions-and-labor-market-trends-play-a-significant-role-in-shaping-collective-bargaining-strategies/"><u>Economic Conditions and Labor Market Trends Play a Significant Role in Shaping Collective Bargaining Strategies.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-home-office-sound-on-a-budget-the-perfect-199-imac-accessory-unveiled-by-zdnet/"><u>Enhance Your Home Office Sound on a Budget: The Perfect $199 iMac Accessory Unveiled by ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leveraging-obs-streaming-capabilities-on-facebook-platform/"><u>In 2024, Leveraging OBS Streaming Capabilities on Facebook Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-tech-innovations-of-2-grove-as-chosen-by-zdnet-editors/"><u>The Best Tech Innovations of 2 Grove, as Chosen by ZDNet Editors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-bookcase-audio-systems-the-ultimate-picks-techadvisor/"><u>Top-Rated Bookcase Audio Systems - The Ultimate Picks | TechAdvisor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-best-bluetooth-speakers-according-to-zdnets-latest-analysis/"><u>Ultimate List of Best Bluetooth Speakers, According to ZDNet's Latest Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-potential-of-smart-living-how-amazons-echo-show-8-sets-the-bar-higher-innovationhub/"><u>Unlocking the Potential of Smart Living: How Amazon's Echo Show 8 Sets the Bar Higher | InnovationHub</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-find-x6-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo Find X6 Phone Network-Ready</u></a></li>
+</ul></div>
+

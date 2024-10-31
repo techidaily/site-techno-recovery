@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Easy Digital Downloads with WordPress - Tips From ZDNet"
-date: 2024-09-19 10:53:27
-updated: 2024-09-20 11:51:14
+date: 2024-10-23T21:19:31.518Z
+updated: 2024-10-31T02:24:52.785Z
 tags:
   - e-commerce
 categories:
@@ -51,6 +51,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -69,7 +76,21 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,25 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-demystifying-youtube-edits-an-in-depth-analysis-and-review/"><u>[Updated] In 2024, Demystifying YouTube Edits An In-Depth Analysis and Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beam-wise-video-setups-expert-strategies-to-shine/"><u>2024 Approved Beam-Wise Video Setups Expert Strategies to Shine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-fixes-refresh-driver-software-on-lenovo-docking-ports/"><u>Easy Fixes: Refresh Driver Software on Lenovo Docking Ports</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-to-grasp-ai-concepts/"><u>Easy-to-Grasp AI Concepts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/forecasting-ces-2023-highlights-essential-questions-that-will-steer-this-years-conference-the-digital-scope/"><u>Forecasting CES 2023 Highlights: Essential Questions That Will Steer This Year's Conference | The Digital Scope</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/primepickings-top-twitters-and-top-viewers-favorites/"><u>PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
+<li><a href="https://win-web.techidaily.com/share-the-joy-of-reading-flip-through-digital-books-together-on-flipbuildercom/"><u>Share the Joy of Reading: Flip Through Digital Books Together on FlipBuilder.com</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-key-accessory-missing-from-your-apple-vision-pro-purchase-insights-and-reviews-on-why-you-cant-afford-to-ignore-it-zdnet/"><u>The Key Accessory Missing From Your Apple Vision Pro Purchase - Insights and Reviews on Why You Can't Afford to Ignore It | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tech-revelations-at-ces-2023-including-htc-and-google-announcements-dive-into-day-three-excitement-with-zdnet-coverage/"><u>Top Tech Revelations at CES 2023, Including HTC & Google Announcements - Dive Into Day Three Excitement with ZDNET Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-exercise-routine-with-meta-quests-supernatural-a-game-changer-i-switched-to-and-never-regretted-zdnet/"><u>Transform Your Exercise Routine with Meta Quest’s Supernatural - A Game Changer I Switched to & Never Regretted | ZDNET</u></a></li>
+</ul></div>
+

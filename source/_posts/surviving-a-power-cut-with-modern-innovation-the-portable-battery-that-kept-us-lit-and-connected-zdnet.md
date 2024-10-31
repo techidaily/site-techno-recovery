@@ -1,7 +1,7 @@
 ---
 title: "Surviving a Power Cut with Modern Innovation: The Portable Battery That Kept Us Lit and Connected | ZDNET"
-date: 2024-09-19 13:37:41
-updated: 2024-09-20 12:20:44
+date: 2024-10-28T19:35:52.259Z
+updated: 2024-10-31T03:46:21.148Z
 tags:
   - energy
 categories:
@@ -43,11 +43,46 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-illuminated-insights-visualizing-youtubes-17-data-story/"><u>[New] Illuminated Insights! Visualizing YouTube's '17 Data Story</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-maximizing-your-tech-efforts-a-detailed-look-at-showmores-features/"><u>[New] In 2024, Maximizing Your Tech Efforts A Detailed Look at ShowMore’s Features</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-essential-tips-for-youtube-edits-with-sony-vegas/"><u>2024 Approved Essential Tips for YouTube Edits with Sony Vegas</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtubes-legal-framework-on-content-screencasting/"><u>2024 Approved YouTube's Legal Framework on Content Screencasting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/asia-paves-the-way-for-a-16t-surge-in-cashless-transactions-insights-from-zdnet/"><u>Asia Paves the Way for a $1.6T Surge in Cashless Transactions - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/captivating-content-incorporate-these-20-magic-words/"><u>Captivating Content Incorporate These 20 Magic Words</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expand-your-shopping-horizons-with-amazon-prime-rewards-a-step-by-step-guide-to-benefits-beyond-amazon/"><u>Expand Your Shopping Horizons with Amazon Prime Rewards – A Step-by-Step Guide to Benefits Beyond Amazon</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-superior-face-masks-to-combat-covid-spread-insights-from-zdnet/"><u>Expert Picks for Superior Face Masks to Combat COVID Spread: Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-singapores-ambitions-in-international-digital-currency-ventures-insights-on-future-prospects/"><u>Exploring Singapore's Ambitions in International Digital Currency Ventures - Insights on Future Prospects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-methods-of-creating-qr-codes-a-comprehensive-guide/"><u>Free Methods of Creating QR Codes: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ft232r-to-go-swift-downloads-for-usb-uart-serial-adapters-made-easy/"><u>FT232R to Go: Swift Downloads for USB UART Serial Adapters Made Easy</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-asus-rog-phone-8-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Asus ROG Phone 8 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-ultimate-3d-experience-guide-to-top-blu-ray-players/"><u>In 2024, Ultimate 3D Experience Guide to Top Blu-Ray Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3-file-creation-from-aifc-no-cost-easy-process-by-movavi/"><u>MP3 File Creation From AIFC - No Cost, Easy Process by Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/october-prime-time-find-the-ultimate-cell-phone-savings-with-our-top-pick-of-premium-deals/"><u>October Prime Time: Find the Ultimate Cell Phone Savings with Our Top Pick of Premium Deals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/os-melhores-programas-de-edicao-de-gif-em-2024-descober-os-14-mais-inovadores/"><u>Os Melhores Programas De Edição De GIF Em 2024: Descober Os 14 Mais Inovadores</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-easy-digital-downloads-with-wordpress-a-comprehensive-guide/"><u>Setting Up Easy Digital Downloads with WordPress: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/some-happy-meal-enthusiasts-rejoice-mcdonalds-unveils-surprising-perk-insights-from-zdnet/"><u>Some Happy Meal Enthusiasts Rejoice: McDonald's Unveils Surprising Perk - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-12-unusual-october-cyber-monday-bizarre-gadget-discounts-you-cant-miss-checked-by-zdnet/"><u>Top 12 Unusual October Cyber Monday Bizarre Gadget Discounts You Can't Miss – Checked by ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

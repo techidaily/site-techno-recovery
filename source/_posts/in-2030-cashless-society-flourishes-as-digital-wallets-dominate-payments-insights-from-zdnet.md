@@ -1,7 +1,7 @@
 ---
 title: In 2030, Cashless Society Flourishes as Digital Wallets Dominate Payments - Insights From ZDNet
-date: 2024-09-19 23:58:48
-updated: 2024-09-20 12:43:59
+date: 2024-10-23T18:46:59.416Z
+updated: 2024-10-30T19:18:17.381Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -43,7 +50,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -64,6 +85,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-pioneering-1980s-techniques-in-film-making/"><u>[New] Prime Pioneering 1980S Techniques in Film Making</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-speed-loading-windows-photo-displayer/"><u>[Updated] Ultimate Speed-Loading Windows Photo Displayer</u></a></li>
+<li><a href="https://solve-help.techidaily.com/18-years-of-innovation-special-digiarty-commemorative-project/"><u>18 Years of Innovation - Special Digiarty Commemorative Project</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/audience-accumulation-expedition-tutorials-1mplus-milestone-for-2024/"><u>Audience Accumulation Expedition Tutorial's 1M+ Milestone for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-apples-vision-pro-technology-improve-your-economy-class-journey-discover-more-with-zdnet/"><u>Can Apple's Vision Pro Technology Improve Your Economy Class Journey? Discover More with ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-obstacles-in-implementing-digital-twins-for-enterprises-a-7-point-guide-zdnet/"><u>Overcoming Obstacles in Implementing Digital Twins for Enterprises: A 7-Point Guide | ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/by-step-guide-to-maximizing-your-youtube-brands-impact/"><u>Step-by-Step Guide to Maximizing Your YouTube Brand's Impact</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-evga-gpu-drivers-in-windows/"><u>Step-by-Step Guide: Updating Your EVGA GPU Drivers in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-final-word-on-the-3500-apple-vision-pro-expert-reviews-and-collective-opinions-summarized/"><u>The Final Word on the $3,500 Apple Vision Pro: Expert Reviews and Collective Opinions Summarized</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-basics-of-spatial-computing-mechanisms-and-applications-an-insight-by-techexplorers/"><u>Understanding the Basics of Spatial Computing: Mechanisms & Applications - An Insight by TechExplorers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-launch-samsung-prepares-its-competitor-to-apples-vision-pro/"><u>Upcoming Launch: Samsung Prepares Its Competitor To Apple's Vision Pro</u></a></li>
+</ul></div>
+

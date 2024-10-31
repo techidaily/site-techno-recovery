@@ -1,7 +1,7 @@
 ---
 title: "Warren Buffett Retreats From India: The Collapse of His Sole Bet on Paytm, as Covered by ZDNet"
-date: 2024-09-19 10:23:27
-updated: 2024-09-20 12:16:47
+date: 2024-10-26T21:02:13.045Z
+updated: 2024-10-30T22:20:09.843Z
 tags:
   - e-commerce
 categories:
@@ -28,6 +28,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 **Also: [The best early Amazon Prime Day 2024 deals](https://www.zdnet.com/article/best-early-amazon-prime-day-2024-deals/)**
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who is eligible for a Prime Student membership? 
 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>[New] 2024 Approved From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-idea-to-share-the-process-of-adding-gifs-on-snapchat/"><u>[New] 2024 Approved From Idea to Share The Process of Adding Gifs on Snapchat</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-superior-group-multimedia-platforms/"><u>[Updated] 2024 Approved Superior Group Multimedia Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-compre-written-guide-youtube-video-distribution-on-fb/"><u>[Updated] Compre Written Guide YouTube Video Distribution on FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-immersive-tech-firms/"><u>[Updated] Pioneering Immersive Tech Firms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-sony-xperia-5-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Sony Xperia 5 V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-pitfalls-the-definitive-guide-to-ios-recovery-mode-troubleshooting/"><u>Avoiding Pitfalls: The Definitive Guide to iOS Recovery Mode Troubleshooting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-7-note-taking-applications-for-ios-tablets-ipad-ipad-pro-edition/"><u>Best 7 Note-Taking Applications for iOS Tablets: IPad, iPad Pro Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/coming-soon-to-google-play-all-you-need-to-know-about-the-newly-leaked-android-16-features-release-schedule-and-cost-breakdowns/"><u>Coming Soon to Google Play? All You Need to Know About the Newly Leaked Android 16 – Features, Release Schedule and Cost Breakdowns</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-how-to-completely-remove-your-yahoo-mail-profile/"><u>Easy Instructions: How To Completely Remove Your Yahoo Mail Profile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-ahead-of-tech-trends-with-samsungs-unveiling-in-202cu2025-announcements-rumors-and-what-to-watch-for/"><u>Getting Ahead of Tech Trends with Samsung's Unveiling in 202Cu2025: Announcements, Rumors, and What to Watch For</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-wii-cannot-read-disc-error-for-seamless-gaming-experience/"><u>How to Fix 'Wii Cannot Read Disc' Error for Seamless Gaming Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quotes-for-a-new-dimension-a-metaverse-visionary-collection/"><u>In 2024, Quotes for a New Dimension A Metaverse Visionary Collection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/my-ipad-wont-print-or-cant-find-my-printer/"><u>My iPad Won't Print or Can't Find My Printer</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-tackle-error-code-0x0000004e/"><u>Quick Fixes to Tackle Error Code 0X0000004E</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-ipad-promotions-to-score-your-dream-tablet-now/"><u>Unbeatable iPad Promotions to Score Your Dream Tablet Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-network-connectivity-effective-methods-for-pinging-websites/"><u>Understanding Network Connectivity: Effective Methods for Pinging Websites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-watch-series-8-details-unpacked-expectation-of-release-date-in-depth-specifications-pricing-information-and-recent-announcements/"><u>Upcoming Apple Watch Series 8 Details Unpacked - Expectation of Release Date, In-Depth Specifications, Pricing Information, and Recent Announcements</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-feature-flashback-the-surviving-anniversary-of-7-elements/"><u>Windows 11 Feature Flashback: The Surviving Anniversary of 7 Elements</u></a></li>
+</ul></div>
+

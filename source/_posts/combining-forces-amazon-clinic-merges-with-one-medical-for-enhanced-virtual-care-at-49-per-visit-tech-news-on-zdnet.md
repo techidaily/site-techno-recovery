@@ -1,7 +1,7 @@
 ---
 title: "Combining Forces: Amazon Clinic Merges with One Medical for Enhanced Virtual Care at $49 per Visit | Tech News on ZDNET"
-date: 2024-09-17 23:10:37
-updated: 2024-09-20 12:48:22
+date: 2024-10-23T21:10:36.242Z
+updated: 2024-10-31T00:41:17.237Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,6 +79,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>[New] 2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-complete-video-revenue-playbook-dm-vs-yo-edition/"><u>[New] 2024 Approved The Complete Video Revenue Playbook Dm Vs. Yo Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-secrets-behind-compelling-captions-for-captivating-tiktok-content/"><u>[New] The Secrets Behind Compelling Captions for Captivating TikTok Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-whatsapps-telephony-services/"><u>2024 Approved Understanding WhatsApp’s Telephony Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007590643-beat-tesos-launch-error-effective-troubleshooting-steps-inside/"><u>Beat TESO's Launch Error – Effective Troubleshooting Steps Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-instructions-for-swapping-out-your-phones-display-guardian-film/"><u>Complete Instructions for Swapping Out Your Phone's Display Guardian Film</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-connect-and-control-your-android-from-a-fire-stick/"><u>Easy Ways to Connect and Control Your Android From a Fire Stick</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-instant-messaging-tips-for-using-thunderbirds-live-chat-feature/"><u>Mastering Instant Messaging: Tips for Using Thunderbird’s Live Chat Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premium-video-collaboration-software-guides/"><u>Premium Video Collaboration Software Guides</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-fast-loading-facebook-videos/"><u>The Art of Fast-Loading Facebook Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-list-of-blue-screen-error-codes/"><u>The Complete List of Blue Screen Error Codes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-on-device-ai-and-how-does-it-work/"><u>What Is On-Device AI and How Does It Work?</u></a></li>
+</ul></div>
+

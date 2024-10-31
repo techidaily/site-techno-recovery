@@ -1,7 +1,7 @@
 ---
 title: Sending & Receiving iPhone Messages via Windows - A Comprehensive Tutorial
-date: 2024-10-24T06:36:51.218Z
-updated: 2024-10-25T06:18:24.554Z
+date: 2024-10-27T18:46:27.018Z
+updated: 2024-10-31T01:52:53.822Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -56,18 +63,18 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -78,6 +85,13 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -91,13 +105,6 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -110,21 +117,7 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -133,6 +126,13 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -145,6 +145,13 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -163,13 +170,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,19 +207,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-direct-engagement-broadcasting-from-your-xbox-to-fb-for-2024/"><u>[New] Direct Engagement Broadcasting From Your Xbox to FB for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-eco-friendly-film-tech-for-2024/"><u>[New] Top Eco-Friendly Film Tech for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/become-a-canvas-connoisseur-with-these-10-tips-for-2024/"><u>Become a Canvas Connoisseur with These 10 Tips for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/charting-new-territory-youtubes-revised-policies-for-2024/"><u>Charting New Territory YouTube's Revised Policies for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dissecting-zoom-issues-technical-problems-vs-personal-adjustment/"><u>Dissecting Zoom Issues: Technical Problems vs Personal Adjustment</u></a></li>
-<li><a href="https://win11.techidaily.com/dxgidll-missing-solve-it-with-these-win11-fixes/"><u>Dxgi.dll Missing? Solve It with These Win11 Fixes</u></a></li>
-<li><a href="https://win-latest.techidaily.com/enjoy-uninterrupted-anime-viewing-three-effective-techniques-to-eliminate-commercials/"><u>Enjoy Uninterrupted Anime Viewing: Three Effective Techniques to Eliminate Commercials</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-nokia-c12-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Nokia C12 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-transforming-team-meeting-aesthetics-the-prepost-customization-angle/"><u>In 2024, Transforming Team Meeting Aesthetics The Pre/Post Customization Angle</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/oneplus-model-10-exploring-projections-on-release-timeline-market-price-unique-functionalities-and-buzzing-hearsay/"><u>OnePlus Model 10: Exploring Projections on Release Timeline, Market Price, Unique Functionalities & Buzzing Hearsay</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-shell32dll-errors-in-windows-a-comprehensive-guide/"><u>Overcoming Shell32.dll Errors in Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/resetting-windows-10-via-asus-bios-configuration-step-by-step-guide/"><u>Resetting Windows 10 via ASUS BIOS Configuration – Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-the-upcoming-samsung-z-flip-generation-7-price-forecasts-availability-timeline-and-technical-rumors-unveiled/"><u>Sneak Peek at the Upcoming Samsung Z Flip Generation 7: Price Forecasts, Availability Timeline, and Technical Rumors Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-whea-uncorrectable-error-a-comprehensive-guide/"><u>Solving the 'WHEA Uncorrectable Error': A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-master-the-art-of-video-editing-complimentary-top-pp-tools-for-2024/"><u>[New] Master the Art of Video Editing Complimentary, Top PP Tools for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-boost-your-view-count-explore-these-12-effective-youtube-strategies/"><u>[Updated] Boost Your View Count Explore These 12 Effective YouTube Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-your-next-smartwatch-a-comparison-of-apple-watch-ultra-and-series-eti-8-tech-insights/"><u>Choosing Your Next Smartwatch: A Comparison of Apple Watch Ultra and Series ˈeɪtiː 8 | Tech Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/come-comprimere-un-video-in-hd-senza-perdere-qualita-per-whatsapp-con-winxdvd/"><u>Come Comprimere Un Video in HD Senza Perdere Qualità per WhatsApp Con WinXDVD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-using-vlc-with-apple-tv-watch-anything-you-want/"><u>Easy Steps for Using VLC with Apple TV - Watch Anything You Want!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-tips-for-smooth-youtube-content-trimming/"><u>Essential Tips for Smooth YouTube Content Trimming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experiencing-connectivity-problems-on-battlenet-heres-what-you-need-to-know/"><u>Experiencing Connectivity Problems on Battle.net? Here’s What You Need to Know</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-terror-in-town-a-list-of-intense-zombie-games/"><u>In 2024, Terror in Town A List of Intense Zombie Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/perfecting-the-chorus-of-visual-content-on-facebook-through-music-for-2024/"><u>Perfecting the Chorus of Visual Content on Facebook Through Music for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-connecting-your-home-theater-to-the-world-wide-web/"><u>Seamless Streaming: Connecting Your Home Theater to the World Wide Web</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-value-for-money-tablets-comprehensive-analysis-by-tech-experts/"><u>Top Value-for-Money Tablets : Comprehensive Analysis by Tech Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleashing-the-power-of-youtube-to-mp3-conversion-for-2024/"><u>Unleashing the Power of YouTube-to-MP3 Conversion for 2024</u></a></li>
 </ul></div>
 

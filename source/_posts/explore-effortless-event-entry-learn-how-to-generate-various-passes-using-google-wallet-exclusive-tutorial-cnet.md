@@ -1,7 +1,7 @@
 ---
 title: "Explore Effortless Event Entry: Learn How to Generate Various Passes Using Google Wallet - Exclusive Tutorial | CNET"
-date: 2024-09-17 17:19:12
-updated: 2024-09-20 10:45:55
+date: 2024-10-24T17:13:45.270Z
+updated: 2024-10-30T23:14:24.439Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +64,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -79,6 +100,19 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I have to cancel my current account to get Prime Student? 
 
 No, you do not have to cancel or deactivate your account. Just [use this link](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1)to transfer your account. Your current benefits, however, may change. For example, if you currently have a 20% discount on home appliances, that may be revoked in place of the other perks. 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-efficiently-manipulate-iphone-images-to-your-desired-scale/"><u>[New] In 2024, Efficiently Manipulate iPhone Images to Your Desired Scale</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-understanding-youtubes-privacy-options-for-viewers/"><u>[New] In 2024, Understanding YouTube's Privacy Options for Viewers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-easy-guide-configuring-a-router-with-vpn-support-tips-from-zdnet/"><u>1. Easy Guide: Configuring a Router with VPN Support - Tips From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-can-you-lawfully-archive-youtube-content/"><u>2024 Approved Can You Lawfully Archive YouTube Content?</u></a></li>
+<li><a href="https://facebook.techidaily.com/can-a-social-media-platform-shape-our-local-commerce-landscape/"><u>Can a Social Media Platform Shape Our Local Commerce Landscape?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-fait-on-guide-complet-en-3-etapes-pour-migrer-des-films-dvd-vers-votre-bibliotheques-plex-efficiemment-et-sans-problemes/"><u>Comment Fait-On? - Guide Complet en 3 Étapes Pour Migrer Des Films DVD Vers Votre Bibliothèques Plex Efficiemment Et Sans Problèmes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-surfshark-vpn-assessment-insights-from-a-top-tech-source/"><u>Comprehensive Surfshark VPN Assessment: Insights From a Top Tech Source</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-securely-with-vpn-on-windows-student-how-do-you-say-the-man-is-playing-the-piano-in-spanish/"><u>Connect Securely with VPN on Windows # Student: How Do You Say 'the Man Is Playing the Piano' In Spanish?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deep-dive-into-surfshark-vpn-top-findings-by-tech-experts-at-zdnet-reviewed/"><u>Deep Dive Into Surfshark VPN: Top Findings by Tech Experts at ZDNet Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-free-vpn-providers-ranked-and-evaluated-by-industry-professionals-zdnet/"><u>Discover the Ultimate List of Free VPN Providers , Ranked & Evaluated by Industry Professionals | ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/frequency-of-social-media-breaches/"><u>Frequency of Social Media Breaches</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-diy-projects-with-expert-advice-from-stellar-articles/"><u>Mastering DIY Projects with Expert Advice From Stellar Articles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-net-abroad-check-out-our-2024-guide-to-premium-travel-vpns-tested-by-pros-cnet/"><u>Navigating the Net Abroad? Check Out Our 2024 Guide to Premium Travel VPNs, Tested by Pros | CNET</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/persians-epochal-journey-gaining-from-its-study/"><u>Persian's Epochal Journey: Gaining From Its Study</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-the-free-vpn-feature-of-google-one-on-pixel-smartphones-techadvice/"><u>Step-by-Step Guide: Setting Up the Free VPN Feature of Google One on Pixel Smartphones | TechAdvice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1726809558850-top-rated-vpn-services-for-windows-users-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Rated VPN Services for Windows Users: Comprehensive Analysis by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-audio-alerts-high-quality-pages-for-2024/"><u>Ultimate Audio Alerts High-Quality Pages for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-best-android-vpn-providers-of-2hren-expert-insights-and-evaluations-zdnet/"><u>Ultimate Guide to Choosing the Best Android VPN Providers of 2Hren | Expert Insights and Evaluations | ZDNet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-methods-for-diminishing-delay-effects-in-audio-production/"><u>Updated In 2024, Methods for Diminishing Delay Effects in Audio Production</u></a></li>
+</ul></div>
+

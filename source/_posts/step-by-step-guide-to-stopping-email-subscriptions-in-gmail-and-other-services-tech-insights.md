@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Stopping Email Subscriptions in Gmail & Other Services - Tech Insights
-date: 2024-09-17 13:19:25
-updated: 2024-09-20 12:34:19
+date: 2024-10-24T02:15:04.812Z
+updated: 2024-10-30T22:26:16.996Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,6 +83,19 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-convenient-interaction-starting-a-skype-group-for-windowsmac-users/"><u>[Updated] In 2024, Convenient Interaction Starting a Skype Group for Windows/Mac Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ideal-tools-for-documenting-classroom-engagement/"><u>2024 Approved Ideal Tools for Documenting Classroom Engagement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-kindle-scribe-evaluation-after-a-full-year-nearly-flawless-experience-gadgetpundit/"><u>Amazon Kindle Scribe Evaluation After a Full Year - Nearly Flawless Experience! | GadgetPundit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-poco-x6-pro-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Poco X6 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-hp-officejet-5255-printer-drivers-installation-guide/"><u>Download the Latest HP OfficeJet 5255 Printer Drivers: Installation Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-itel-p55-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Itel P55 5G Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-integration-web-pages-as-windows-tools/"><u>Seamless Integration: Web Pages as Windows Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-note-30-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Note 30 5G FRP</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-techniques-for-efficiently-converting-midi-music-tracks-to-mp3-format/"><u>Top Techniques for Efficiently Converting MIDI Music Tracks to MP3 Format</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-potential-insights-on-advancing-womens-success-in-information-technology-ranks-as-suggested-by-leaders/"><u>Unlocking Potential: Insights on Advancing Women's Success in Information Technology Ranks, as Suggested by Leaders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-team-creativity-through-google-jamboard-tips-and-strategies-for-effective-online-brainstorming-zdnet-exclusive/"><u>Unlocking Team Creativity Through Google Jamboard: Tips & Strategies for Effective Online Brainstorming | ZDNET Exclusive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-elite-quartet-of-smart-pen-devices-for-2e-year-insights-from-zdnet/"><u>Unveiling the Elite Quartet of Smart Pen Devices for 2E Year - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-managing-differs-from-leadership-key-insights-and-implications-explore-on-zdnet/"><u>Why Managing Differs From Leadership: Key Insights & Implications - Explore on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-google-calendars-latest-upgrade-seamless-bookable-appointment-scheduling-unleashed/"><u>ZDNet Explores Google Calendar's Latest Upgrade: Seamless Bookable Appointment Scheduling Unleashed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-recommends-mastering-emails-in-linux-with-our-new-preferred-choice/"><u>ZDNet Recommends: Mastering Emails in Linux with Our New Preferred Choice!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-selection-the-leading-smart-pens-reshaping-writing/"><u>ZDNet's Ultimate Selection: The Leading Smart Pens Reshaping Writing</u></a></li>
+</ul></div>
+

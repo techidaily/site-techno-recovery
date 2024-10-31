@@ -1,7 +1,7 @@
 ---
 title: Amazon Secures E-Commerce Agreement, Expanding Reach of Singapore's Small Businesses Globally - ZDNet
-date: 2024-09-19 19:26:14
-updated: 2024-09-20 11:40:17
+date: 2024-10-23T23:01:51.403Z
+updated: 2024-10-31T00:24:22.450Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -51,11 +65,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +138,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-lullabies-for-your-mind-no-stress-pcs-for-2024/"><u>[New] Lullabies for Your Mind No-Stress PCs for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-globalviewers-access-unlimited-local-tv-for-life/"><u>2024 Approved GlobalViewers Access Unlimited Local TV for Life</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-in-stream-ad-configurations-on-facebook-for-peak-performance/"><u>2024 Approved Mastering In-Stream Ad Configurations on Facebook for Peak Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-living-room-soundscape-save-big-on-a-discounted-jbl-soundbar-during-amazon-prime-day-insider-tips/"><u>Enhance Your Living Room Soundscape: Save Big on a Discounted JBL Soundbar During Amazon Prime Day - Insider Tips!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-picks-top-presidents-day-blowout-sales-on-amazon-walmart-and-best-buy-dont-miss-out/"><u>Exclusive Picks: Top President's Day Blowout Sales on Amazon, Walmart & Best Buy – Don't Miss Out!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-market-leaders-2023s-premier-mobile-sound-devices-as-reviewed-by-zdnet/"><u>Explore the Market Leaders: 2023’S Premier Mobile Sound Devices as Reviewed by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hosting-success-expert-strategies-for-a-memorable-labor-day-bash-inspired-by-zdnet-proven-ideas/"><u>Hosting Success: Expert Strategies for a Memorable Labor Day Bash Inspired by ZDNET Proven Ideas</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-10-ways-free-and-paid-to-record-skype-calls-on-windows-and-mac/"><u>In 2024, 10 Ways [Free & Paid] to Record Skype Calls on Windows & Mac</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-epochs-epic-journey-best-free-mmo-games-roundup/"><u>In 2024, Epoch's Epic Journey Best Free MMO Games Roundup</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2013-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2013 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-pros-and-cons-of-drops-grell-tws1x-wireless-earphones-sound-excellence-overshadowed-by-packaging-woes-gadget-review/"><u>The Pros and Cons of Drop's Grell TWS1X Wireless Earphones: Sound Excellence Overshadowed by Packaging Woes | Gadget Review</u></a></li>
+<li><a href="https://win-best.techidaily.com/top-ranked-adata-solutions-for-reliable-data-backups/"><u>Top-Ranked ADATA Solutions for Reliable Data Backups</u></a></li>
+</ul></div>
+

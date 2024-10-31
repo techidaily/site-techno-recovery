@@ -1,7 +1,7 @@
 ---
 title: "Top Picks for Effective Face Coverings : Combatting Covid-19 with Proven Methods - Insights From ZDNet"
-date: 2024-09-18 12:39:51
-updated: 2024-09-20 10:34:32
+date: 2024-10-25T04:37:16.827Z
+updated: 2024-10-31T00:12:56.448Z
 tags:
   - e-commerce
 categories:
@@ -45,17 +45,44 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -74,6 +101,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-capture-strategies-for-roblox-games-mac-edition/"><u>[Updated] In 2024, Advanced Capture Strategies for Roblox Games (Mac Edition)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/flashhtml5/"><u>「FlashファイルをHTML5に効率良く変換する方法」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-unsung-heroes-of-canvas-open-source-paintings/"><u>2024 Approved The Unsung Heroes of Canvas Open-Source Paintings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-7-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 7? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-the-hidden-world-of-facebook-marketplace-how-to-access-it-now/"><u>Discovering the Hidden World of Facebook Marketplace – How to Access It Now</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effortless-conversion-of-vob-files-to-mp4-using-vlc-a-step-by-step-guide/"><u>Effortless Conversion of VOB Files to MP4 Using VLC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-fix-a-broken-motherboard-checksum-issue/"><u>How to Successfully Fix a Broken Motherboard Checksum Issue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-breakdown-of-earnings-how-much-does-a-clicky-make/"><u>In 2024, Breakdown of Earnings How Much Does a Clicky Make?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ingenious-ways-to-erase-phone-memory-a-comprehensive-diy-guide-for-iphones/"><u>Ingenious Ways to Erase Phone Memory - A Comprehensive DIY Guide for iPhones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-world-of-multi-screen-leveraging-pip-on-android-smartphones/"><u>Inside the World of Multi-Screen: Leveraging PiP on Android Smartphones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/insight-into-the-finest-iphone-tools-for-image-watermarks/"><u>Insight Into the Finest iPhone Tools for Image Watermarks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-there-a-global-glitch-investigating-possible-outages-with-the-nintendo-switch-online/"><u>Is There a Global Glitch? Investigating Possible Outages with the Nintendo Switch Online.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/spotify-trouble-here-are-13-fixes-to-get-your-tunes-running-again-in-android-auto-mode/"><u>Spotify Trouble? Here Are 13 Fixes to Get Your Tunes Running Again in Android Auto Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/syncing-emails-made-easy-adding-gmail-to-your-apple-watch/"><u>Syncing Emails Made Easy: Adding Gmail to Your Apple Watch</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-13-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 13 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-fdm-resin-and-economy-3d-printers-of-2024-your-comprehensive-list/"><u>Unveiling the Top FDM, Resin, and Economy 3D Printers of 2024: Your Comprehensive List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-picks-best-free-tunes-streaming-apps-on-android-and-ios/"><u>Unveiling the Top Picks: Best Free Tunes Streaming Apps on Android & iOS</u></a></li>
+</ul></div>
+

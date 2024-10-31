@@ -1,7 +1,7 @@
 ---
 title: "The Leading 5G & Edge Computing Breakthroughs of the Year: Key Developments You Can't Miss - Insights From ZDNet"
-date: 2024-09-19 14:27:34
-updated: 2024-09-20 11:58:12
+date: 2024-10-28T21:44:08.246Z
+updated: 2024-10-30T21:51:15.651Z
 tags:
   - edge-computing
 categories:
@@ -25,6 +25,13 @@ The phenomenon has been accelerating. The latest [data](https://gsacom.com/paper
 
 The issue with previous generations of wireless and edge computing has been speed, which often did not deliver the low latency required for increasingly sophisticated constellations of machines, devices, and corporate networks. Now, with the low latency and high speeds delivered through 5G technology -- and eventually, 6G -- the edge will serve as a new locus of innovation for organizations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lightning-fast speeds
 
 According to a [report](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-at-the-edge-trends-reshaping-the-future-of-it-and-business) out of global management consulting firmMcKinsey, "5G will deliver network speeds that are about ten times faster than current speeds on 4G LTE networks, with expectations of speeds that are up to 100 times faster with 40 times faster latency." 
@@ -36,6 +43,13 @@ Such super-fast computing means real-time capabilities for applications such as 
 ## Cutting-edge use cases 
 
 Along with accessibility and ease of deployment, there is a range of innovative use cases that are emerging as well, thanks to the additional power and speed 5G brings to the edge. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Smart cities 
 
@@ -69,6 +83,13 @@ Combined with these adjacent technologies, 5G will see accelerated adoption, Kum
 
 Cloud-supported edge further "allows innovations in AI across varying applications -- configuring the networks, improving speeds, detecting security threats -- to directly be weaved in without new hardware," Kumar adds. "An easy way to think about this is to remember what happened with the softwarization of the phone, which meant that an app store with millions of dedicated software solutions could customize any given phone. Weaving general purpose compute with 5G base stations has the potential to create that very same effect -- this time within cellular towers."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5G and the edge's impact on various industries
 
 This capability means changes for a range of industries, from manufacturing to medicine. Already, edge and 5G computing implementations are driving operations across the manufacturing sector, according to The Manufacturing Institute analysis. By connecting systems and data across facilities, and incorporating computer vision, manufacturers can develop new services around predictive maintenance, as well as reconfigure or redeploy systems and machinery as part of a "modular factory" approach, in which components, systems, and product lines can be dynamically ramped up or swapped out to meet capacity demands.
@@ -82,6 +103,13 @@ The possibilities for edge and 5G aren't limited to manufacturing -- there are m
 "High data volumes will enable augmented and virtual reality to be delivered over mobile networks, usher in 8K video capabilities and replace fixed broadband, meaning more objects can be connected in more places. Low latency enables mission-critical applications, such as remote mining, traffic control, holograms, and real-time factory control. Massive device connectivity will change how and what is measured through applications such as smart meters, logistics tracking, and smart biometrics," the report explained. 
 
 Expect to see greater reliability and resiliency as well with 5G. Highly mobile devices implanted in vehicles, robots, and even drones will not only ensure real-time connectivity with operators and between systems, but provide real-time responses to anomalies that will assure smoother operations. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to expect for 6G 
 
@@ -124,11 +152,30 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-easy-ways-to-record-a-powerpoint-presentation-for-2024/"><u>[Updated] Easy Ways to Record a PowerPoint Presentation for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-zoom-audio-high-fidelity-and-unmuted-channels/"><u>2024 Approved Mastering Zoom Audio High Fidelity & Unmuted Channels</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-essential-running-timepieces-a-curated-selection-for-enthusiasts/"><u>2024'S Essential Running Timepieces: A Curated Selection for Enthusiasts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/auditory-trimming-toolkit-utilizing-vlc-to-minimize-audio-files-efficiently/"><u>Auditory Trimming Toolkit: Utilizing VLC to Minimize Audio Files Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/combat-staff-scarcity-how-boomeranging-workers-are-key-to-organizational-growth-zdnet/"><u>Combat Staff Scarcity: How Boomeranging Workers Are Key to Organizational Growth - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crafting-an-unforgettable-tech-resume-expert-tips-from-zdnet/"><u>Crafting an Unforgettable Tech Resume: Expert Tips From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciding-on-your-degree-path-insights-into-the-low-regret-career-of-computer-science-majors-a-study-by-zdnet/"><u>Deciding on Your Degree Path: Insights Into the Low-Regret Career of Computer Science Majors - A Study by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/devops-engineer-career-path-uncovered-navigating-through-benefits-and-challenges-for-future-success-insights-from-zdnet/"><u>DevOps Engineer Career Path Uncovered: Navigating Through Benefits & Challenges for Future Success | Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/emerging-trends-in-coding-careers-and-key-programming-languages-of-the-future-insights-from-zdnet/"><u>Emerging Trends in Coding Careers & Key Programming Languages of the Future - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-clear-facebook-broadcast-laptops-and-phones-included/"><u>In 2024, Clear Facebook Broadcast Laptops and Phones Included</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y27-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y27 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/interacting-with-a-blended-world-the-essence-of-mixed-reality-for-2024/"><u>Interacting with a Blended World The Essence of Mixed Reality for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-python-through-linkedins-gratis-artificial-intelligence-courses-a-zdnet-review/"><u>Mastering Python Through LinkedIn's Gratis Artificial Intelligence Courses - A ZDNet Review</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-best-photo-slideshow-maker-how-to-make-a-photo-slideshow-2023-update/"><u>New 2024 Approved Best Photo Slideshow Maker How to Make a Photo Slideshow 2023 Update</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/shooting-through-the-cosmos-unveiling-the-outer-worlds-engaging-science-fiction-tale/"><u>Shooting Through the Cosmos: Unveiling The Outer Worlds - Engaging Science Fiction Tale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-ai-potential-the-crucial-role-of-data-in-completing-the-intelligence-equation-strategies-for-bridging-the-information-divide/"><u>Unlocking AI Potential: The Crucial Role of Data in Completing the Intelligence Equation - Strategies for Bridging the Information Divide</u></a></li>
+</ul></div>
+

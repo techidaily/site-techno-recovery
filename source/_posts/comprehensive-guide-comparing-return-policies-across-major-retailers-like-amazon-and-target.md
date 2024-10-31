@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Comparing Return Policies Across Major Retailers Like Amazon & Target"
-date: 2024-09-18 21:33:18
-updated: 2024-09-20 10:16:23
+date: 2024-10-28T04:56:24.742Z
+updated: 2024-10-30T18:26:24.081Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +78,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-best-youtube-video-reaction-ideas/"><u>[New] 2024 Approved Best YouTube Video Reaction Ideas</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-evolving-realities-the-modern-vr-sphere-for-2024/"><u>[New] Evolving Realities The Modern VR Sphere for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-windows-video-conferencing-excellence-8-1/"><u>2024 Approved Windows Video Conferencing Excellence #8-1</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-pinterest-scheduler-tools-to-try/"><u>5 Pinterest Scheduler Tools to Try</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-guide-to-atandts-international-data-roaming-rules/"><u>A Guide to AT&T's International Data Roaming Rules</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c300-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C300? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722880215082-client-and-server-communication-breakdown-heres-how-to-overcome-vpn-error-ncode-800/"><u>Client & Server Communication Breakdown? Here's How to Overcome VPN Error nCode 800</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-resetting-wi-fi-and-bluetooth-settings-on-apple-macos/"><u>Comprehensive Guide to Resetting Wi-Fi and Bluetooth Settings on Apple macOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-our-curated-selection-of-lgbtq-friendly-films-and-tv-series-on-netflix-whats-hot-in-july-2024/"><u>Explore Our Curated Selection of LGBTQ-Friendly Films and TV Series on Netflix – What's Hot in July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-conversion-tools-change-mp4mpg-to-mpeg-format-online-with-ease/"><u>Free Conversion Tools - Change MP4/MPG to MPEG Format Online with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722858178923-how-to-disable-cortanas-copilot-on-your-pc-a-comprehensive-tutorial-for-windows-11/"><u>How to Disable Cortana's Copilot on Your PC - A Comprehensive Tutorial for Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-repair-a-faulty-wireless-network-card-or-router/"><u>How To Successfully Repair A Faulty Wireless Network Card or Router</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/table-pursuits-on-youtube-the-non-ad-revenue-roadmap/"><u>Profitable Pursuits on YouTube The Non-Ad Revenue Roadmap</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-the-rust-of-access-denied-in-windows/"><u>Removing the Rust of 'Access Denied' In Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-cast-to-device-not-working-dilemma-on-your-windows-11-pc/"><u>Solving the 'Cast to Device Not Working' Dilemma on Your Windows 11 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-becoming-a-pro-at-pokemon-unite-play/"><u>Step-by-Step Instructions: Becoming a Pro at Pokémon Unite Play</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722843170706-troubleshooting-mingwm10dll-file-not-detected-comprehensive-fixes-unveiled/"><u>Troubleshooting Mingwm10.dll File Not Detected: Comprehensive Fixes Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-user-experience-the-ultimate-blueprint-of-the-perfect-timing-app/"><u>Unmatched User Experience: The Ultimate Blueprint of the Perfect Timing App</u></a></li>
+</ul></div>
+

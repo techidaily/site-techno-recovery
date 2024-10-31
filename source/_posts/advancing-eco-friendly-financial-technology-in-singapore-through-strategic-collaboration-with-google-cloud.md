@@ -1,7 +1,7 @@
 ---
 title: Advancing Eco-Friendly Financial Technology in Singapore Through Strategic Collaboration with Google Cloud
-date: 2024-09-17 17:55:35
-updated: 2024-09-20 11:43:38
+date: 2024-10-23T18:11:24.073Z
+updated: 2024-10-30T18:29:52.930Z
 tags:
   - energy
 categories:
@@ -43,11 +43,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-vimeo-content-step-by-step-free-and-licensed-tools-guide/"><u>[New] Unlocking Vimeo Content Step-by-Step Free & Licensed Tools Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-step-by-step-capturing-ios-device-screen-on-video/"><u>[Updated] In 2024, Step-by-Step Capturing iOS Device Screen on Video</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c110-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boundaries-of-machine-understanding-chatgpts-limits/"><u>Boundaries of Machine Understanding: ChatGPT's Limits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/combining-forces-amazon-clinic-merges-with-one-medical-for-enhanced-virtual-care-at-49-per-visit-tech-news-on-zdnet/"><u>Combining Forces: Amazon Clinic Merges with One Medical for Enhanced Virtual Care at $49 per Visit | Tech News on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/consumer-rights-in-hong-kong-selecting-when-compan-ies-implement-ai-digital-age-news/"><u>Consumer Rights in Hong Kong: Selecting When Compan Ies Implement AI | Digital Age News</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/data-theft-alert-how-starbucks-singapores-client-records-were-illegally-exposed-report-by-zdnet/"><u>Data Theft Alert: How Starbucks Singapore's Client Records Were Illegally Exposed – Report by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-delivery-excellence-how-foodpandas-innovative-restaurant-management-solutions-are-revolutionizing-the-takeout-experience/"><u>Enhancing Delivery Excellence: How Foodpanda's Innovative Restaurant Management Solutions Are Revolutionizing the Takeout Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-guide-to-economical-multiplatform-video-conferencing-software/"><u>Essential Guide to Economical, Multiplatform Video Conferencing Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-guide-to-holiday-returns-at-top-stores-like-amazon-walmart-target-policy-insights-zdnet/"><u>In-Depth Guide to Holiday Returns at Top Stores Like Amazon, Walmart, Target - Policy Insights | ZDNET</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/low-cost-android-calls-highest-ranking-options-for-2024/"><u>Low-Cost Android Calls Highest Ranking Options for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimal-no-audio-recording-practices/"><u>Optimal No-Audio Recording Practices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-on-amazon-prime-day-snag-an-affordable-ring-floodlight-camera-for-just-30-latest-deals/"><u>Save Big on Amazon Prime Day: Snag an Affordable Ring Floodlight Camera for Just $30 - Latest Deals!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-for-effective-face-coverings-combatting-covid-19-with-proven-methods-insights-from-zdnet/"><u>Top Picks for Effective Face Coverings : Combatting Covid-19 with Proven Methods - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-your-channels-with-any-of-the-top-11-budget-friendly-naming-solutions-for-2024/"><u>Transform Your Channels With Any of the Top 11 Budget-Friendly Naming Solutions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visionary-templates-high-quality-afx-design-resources/"><u>Visionary Templates High-Quality AFX Design Resources</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-you-must-do-before-swapping-phones-step-by-step-factory-wipe-instructions-plus-more-advice-zdnet-explained/"><u>What You Must Do Before Swapping Phones: Step-by-Step Factory Wipe Instructions + More Advice | ZDNet Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/where-to-find-the-highest-quality-contacts-on-the-web-expert-review-from-zdnet/"><u>Where to Find the Highest Quality Contacts on the Web: Expert Review From ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

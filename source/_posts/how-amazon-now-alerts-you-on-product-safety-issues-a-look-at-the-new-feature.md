@@ -1,7 +1,7 @@
 ---
 title: How Amazon Now Alerts You on Product Safety Issues – A Look at the New Feature
-date: 2024-09-18 20:16:38
-updated: 2024-09-20 10:57:12
+date: 2024-10-30T04:06:45.431Z
+updated: 2024-10-30T18:27:46.771Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -71,13 +78,34 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 ## FAQs  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-devising-visual-temporal-anomalies-effects/"><u>[New] In 2024, Devising Visual Temporal Anomalies Effects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-empires-edge-scoring-the-ultimate-7-grand-wars/"><u>[Updated] 2024 Approved Empire's Edge Scoring the Ultimate 7 Grand Wars</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastery-guide-to-youtube-seo-title-tagging-and-description-tactics-for-2024/"><u>[Updated] Mastery Guide to YouTube SEO Title, Tagging & Description Tactics for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-affordable-tactics-for-combining-media-with-literature/"><u>2024 Approved Affordable Tactics for Combining Media with Literature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-pre-release-quest-3-insights-before-others-mastering-metas-beta-version-with-ease-zdnet/"><u>Access Pre-Release Quest 3 Insights Before Others: Mastering Meta's Beta Version with Ease | ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-apples-leap-comparing-m1-pro-and-m1-max-capabilities/"><u>Decoding Apple's Leap Comparing M1 Pro & M1 Max Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exodus-not-working-heres-your-guide-to-solving-problems-on-kodi-july-202e-update/"><u>Exodus Not Working? Here's Your Guide to Solving Problems on Kodi (July 202E Update)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-commencing-your-google-meet-experience/"><u>In 2024, Commencing Your Google Meet Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-metas-latest-changes-unlocking-hidden-features-in-popular-quest-audio-devices-with-simple-fixes/"><u>Navigating Meta's Latest Changes: Unlocking Hidden Features in Popular Quest Audio Devices with Simple Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-virtual-reality-conferences-insights-from-accidental-teleportations-and-digital-greetings-zdnet/"><u>Navigating the World of Virtual Reality Conferences: Insights From Accidental Teleportations & Digital Greetings | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackling-the-hurdles-of-digital-twin-integration-for-modern-businesses-insightfultech/"><u>Tackling the Hurdles of Digital Twin Integration for Modern Businesses | InsightfulTech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-unanticipated-champion-how-meta-quest-3-clinches-zdnets-product-of-the-year-award-for-2eby/"><u>The Unanticipated Champion: How Meta Quest 3 Clinches ZDNet's Product of the Year Award for 2Eby</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-8-troubleshooting-steps-for-preventing-hogwarts-legacy-from-crashing-at-boot-up/"><u>Top 8 Troubleshooting Steps for Preventing Hogwarts Legacy From Crashing at Boot-Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-desk-into-a-high-tech-trackpad-with-the-revolutionary-vision-pro-accessory-the-complete-guide/"><u>Transform Your Desk Into a High-Tech Trackpad with the Revolutionary Vision Pro Accessory - The Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-vr-adventure-discover-the-must-have-50-meta-quest-3-enhancement-tailored-for-prescription-lens-users-explore-at-zdnet/"><u>Transform Your VR Adventure: Discover the Must-Have $50 Meta Quest 3 Enhancement Tailored for Prescription Lens Users | Explore at ZDNet</u></a></li>
+</ul></div>
+

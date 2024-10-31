@@ -1,7 +1,7 @@
 ---
 title: ASEAN Countries Sign Agreement to Streamline International Transactions - ZDNet
-date: 2024-09-19 12:10:51
-updated: 2024-09-20 12:36:34
+date: 2024-10-26T20:34:30.471Z
+updated: 2024-10-30T16:56:26.525Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -75,9 +89,29 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-hydro-durable-cams-of-the-week-7-edition-revealed-for-2024/"><u>[New] Hydro-Durable Cams of the Week – #7 Edition Revealed for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-novel-nooks-in-mc-the-simplest-house-designs/"><u>2024 Approved Novel Nooks in MC The Simplest House Designs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/effortless-technique-for-enhancing-audio-quality-through-upsampling/"><u>Effortless Technique for Enhancing Audio Quality Through Upsampling</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-guide-to-fixing-net-40-error-0x800c0006-in-windows-7/"><u>Expert Guide to Fixing .NET 4.0 Error 0X800C0006 in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-game-audio-issues-a-2024-roadmap-for-pc-gamers/"><u>Fixing Game Audio Issues: A 2024 Roadmap for PC Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hurry-grab-the-latest-deal-on-insignia-outdoor-projectors-at-half-price-limited-time-offer/"><u>Hurry! Grab the Latest Deal on Insignia Outdoor Projectors at Half Price – Limited Time Offer!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-screenskip-videocapturer-kit/"><u>In 2024, ScreenSkip Videocapturer Kit</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-7-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 7 Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/labor-day-deal-alert-the-ring-spotlight-cam-pro-exceeds-expectations-in-depth-analysis-and-tips-for-smart-home-security-on-zdnet/"><u>Labor Day Deal Alert: The Ring Spotlight Cam Pro Exceeds Expectations – In-Depth Analysis and Tips for Smart Home Security on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/labor-day-electronic-steals-exclusive-deal-snag-airpods-for-just-85-less-on-zdnets-top-picks/"><u>Labor Day Electronic Steals! Exclusive Deal: Snag AirPods for Just $85 Less on ZDNET's Top Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/memorial-day-blowout-snag-top-quality-gardening-gear-up-to-25-off-at-lowes/"><u>Memorial Day Blowout: Snag Top-Quality Gardening Gear Up to 25% Off At Lowes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/memorial-day-special-save-big-with-400-discount-on-the-high-performance-segway-max-g2-e-scooter-shop-now-from-zdnet/"><u>Memorial Day Special: Save Big with $400 Discount on the High-Performance Segway Max G2 E-Scooter – Shop Now From ZDNet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pathfinder-elite/"><u>Pathfinder Elite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ranking-excellence-discover-the-finest-inflatable-kayaks-available/"><u>Ranking Excellence: Discover the Finest Inflatable Kayaks Available</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-minecraft-loading-problems-expert-tips-and-tricks/"><u>Resolve Minecraft Loading Problems: Expert Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionary-lidar-tech-transforms-yard-maintenance-aids-utility-management-insights-from-zdnet/"><u>Revolutionary Lidar Tech Transforms Yard Maintenance, Aids Utility Management - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-yard-work-discover-how-our-tested-rc-lawnmower-brings-joy-to-trimming-grass-zdnet/"><u>Revolutionize Yard Work: Discover How Our Tested RC Lawnmower Brings Joy to Trimming Grass | ZDNET</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/sh-creativity-unlimited-samples-of-50-youtube-banners-for-free-in-2024/"><u>Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free, In 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/wevideo-the-simple-way-to-create-professional-looking-videos/"><u>WeVideo The Simple Way to Create Professional-Looking Videos</u></a></li>
+</ul></div>
+

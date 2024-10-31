@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews: Why Apple's New M2-Powered iPad Air Stands Out as the Preferred Option for Consumers"
-date: 2024-10-22T02:56:08.635Z
-updated: 2024-10-24T19:29:27.881Z
+date: 2024-10-26T22:17:01.905Z
+updated: 2024-10-30T20:35:28.526Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -72,13 +72,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -135,10 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -155,6 +148,13 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -167,16 +167,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -212,24 +212,16 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-chortlecove-app-where-laughter-thrives-online/"><u>[New] In 2024, ChortleCove App - Where Laughter Thrives Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-crafting-successful-youtube-sponsorship-deals/"><u>[Updated] In 2024, Crafting Successful YouTube Sponsorship Deals</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-turn-your-meet-webinar-into-an-interactive-participant-showcase/"><u>[Updated] In 2024, Turn Your Meet Webinar Into an Interactive Participant Showcase</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-demystifying-the-world-of-youtube-and-its-keywords/"><u>2024 Approved Demystifying the World of YouTube and Its Keywords</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/detailed-review-and-insights-on-line-messenger-app/"><u>Detailed Review and Insights on Line Messenger App</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-4-must-try-no-cost-cad-tools/"><u>Discover the Ultimate List of 4 Must-Try No-Cost CAD Tools!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-keep-your-mac-awake-and-active/"><u>Effective Techniques to Keep Your Mac Awake and Active</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y27-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y27 4G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Itel A60s? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-take-off-or-change-a-cell-phones-protective-glass-screen/"><u>How to Take Off or Change a Cell Phone's Protective Glass Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>In 2024, Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-depth-look-at-voice-altering-software-for-video-makers-for-2024/"><u>In-Depth Look at Voice Altering Software for Video Makers for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-the-netflix-ui-800-3-display-issue/"><u>Solutions for Resolving the Netflix UI-800-3 Display Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-correcting-the-mscorwksdll-could-not-be-loaded-error/"><u>Step-by-Step Tutorial: Correcting the 'mscorwks.dll Could Not Be Loaded' Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/strategies-for-selecting-a-top-notch-device-tailored-for-your-educational-needs/"><u>Strategies for Selecting a Top-Notch Device Tailored for Your Educational Needs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-mfc42dll-file-not-found-issue-on-your-pc/"><u>Troubleshooting the 'mfc42.dll File Not Found' Issue on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-tips-to-overcome-fatal-errors-in-unreal-engine-4-games/"><u>Unlocking Tips to Overcome Fatal Errors in Unreal Engine 4 Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-mystery-of-digital-to-analog-converters-are-they-essential-in-your-audio-setup/"><u>Unveiling the Mystery of Digital-to-Analog Converters: Are They Essential in Your Audio Setup?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-comprehensive-tutorial-for-gameplay-logging-enthusiasts/"><u>[New] 2024 Approved The Comprehensive Tutorial for Gameplay Logging Enthusiasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-drone-families-and-forms/"><u>[New] In 2024, Drone Families and Forms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-taking-your-footage-up-a-notch-advanced-techniques-for-360-videos-on-youtube/"><u>2024 Approved Taking Your Footage Up a Notch Advanced Techniques for 360° Videos on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/are-there-alternatives-to-googles-ar-gems-in-2024/"><u>Are There Alternatives to Google's AR Gems, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-em-all-the-comprehensive-pokemon-go-playbook/"><u>Catch 'Em All: The Comprehensive Pokémon Go Playbook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-methods-for-discontinuing-in-app-purchases-and-auto-renewals-with-ios-15-a-users-handbook/"><u>Effortless Methods for Discontinuing In-App Purchases and Auto Renewals with iOS 15 - A User's Handbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-from-my-mistakes-dont-buy-the-wrong-oled-monitor/"><u>Learn From My Mistakes: Don't Buy the Wrong OLED Monitor</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-restoring-your-lost-iphone-notecard-from-deleted-items-in-ios/"><u>Step-by-Step Guide: Restoring Your Lost iPhone Notecard From 'Deleted Items' In iOS.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12T Pro FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-budget-tablets-of-2024-unveiled-by-industry-experts-your-complete-comparison-and-review/"><u>Top Budget Tablets of 2024 Unveiled by Industry Experts - Your Complete Comparison & Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-408-request-timeout-error-and-solutions/"><u>Understanding the 408 Request Timeout Error and Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Explores Next-Gen Cloud Transformation: Embracing the Shift From Hybrid, Edge and Into AI Dominance"
-date: 2024-09-18 18:56:36
-updated: 2024-09-20 12:35:36
+date: 2024-10-26T20:08:29.580Z
+updated: 2024-10-31T02:06:37.940Z
 tags:
   - edge-computing
 categories:
@@ -57,6 +57,13 @@ Expect edge devices to be more connected, and to be left unattended more often. 
 
 This is where 5G (and eventually 6G) come into play. 5G handles intermittent connections better, and has the ability to switch frequency and "[beamform](https://www.zdnet.com/article/5g-new-radio-the-technical-background/)" to reach areas traditional cellular connectivity hasn't been able to reach. 5G is also putting far more intelligence into the field, which will substantially reduce latency, allowing edge devices to communicate with "the mother ship" far more quickly and with far greater responsiveness.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The growth of AI in cloud management
 
 Increased reliance on complex cloud environments will increase the management challenges. Here, AI can help in at least four ways:
@@ -71,6 +78,13 @@ Then, of course, there's security. With a [security skills shortage and ever-inc
 Even small companies are now managing a mind-boggling amount of information, both in motion and at rest. We're talking about terabytes, petabytes, and exabytes of both flow and storage. The only way data of that volume, moving at high velocity, can be managed is through software. But with the rapid changes and growth in bad actor sophistication, regular programming and pattern identification protection will simply not keep up.
 
 This is one of those cases where AI isn't just optional or nice to have. AI will become the bulwark required to protect businesses where nothing else can move fast enough.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cloud vendors will have to change, too
 
@@ -170,6 +184,13 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -184,11 +205,28 @@ Close Modal Dialog
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-best-in-class-racing-games/"><u>[New] In 2024, The Ultimate Guide to Best-in-Class Racing Games</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unraveling-youtubes-platform-for-content-crafting/"><u>[New] Unraveling YouTube’s Platform for Content Crafting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-definitive-list-of-top-quality-mics-for-yt-styles/"><u>[Updated] The Definitive List of Top-Quality Mics for YT Styles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-cricket-ultimate-guide-to-live-streaming-selection/"><u>[Updated] Top Cricket Ultimate Guide to Live Streaming Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-no-cost-instant-messenger-applications-on-apple-devices/"><u>Best No-Cost Instant Messenger Applications on Apple Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-discover-how-to-design-dynamic-youtube-music-playlists/"><u>In 2024, Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-gionee-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Gionee FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-work-from-home-performance-key-tactics-to-sharpen-focus-as-revealed-by-zdnet-experts/"><u>Maximizing Work-From-Home Performance: Key Tactics to Sharpen Focus, as Revealed by ZDNET Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-graduates-guide-how-to-prevent-work-related-stress-and-stay-fresh/"><u>New Graduate's Guide: How to Prevent Work-Related Stress and Stay Fresh</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-coding-required-to-excel-at-ai-why-a-varied-educational-approach-is-key-for-understanding-complex-networks-zdnet/"><u>No Coding Required to Excel at AI! Why a Varied Educational Approach Is Key for Understanding Complex Networks | ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c55-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C55 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-sharing-made-simple-integrating-fb-content-across-3-services/"><u>Social Sharing Made Simple: Integrating FB Content Across 3 Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-tech-jobs-how-cybersecurity-cloud-computing-and-programming-are-shaping-the-market-zdnet/"><u>The Future of Tech Jobs: How Cybersecurity, Cloud Computing & Programming Are Shaping the Market | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-how-to-master-remote-work-essentials-tips-and-tools-zdnet/"><u>Ultimate Guide: How to Master Remote Work Essentials - Tips & Tools [ZDNet]</u></a></li>
+</ul></div>
+

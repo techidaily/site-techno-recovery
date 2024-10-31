@@ -1,7 +1,7 @@
 ---
 title: TikTok Launches Major Investment of $1.5 Billion Into the Thriving Indonesian Online Shopping Sphere - Insights From ZDNet
-date: 2024-09-19 18:20:51
-updated: 2024-09-20 10:43:16
+date: 2024-10-27T21:20:40.111Z
+updated: 2024-10-31T02:04:29.651Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -42,6 +56,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -56,6 +77,19 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-discovering-vimeo-home-for-high-quality-films/"><u>[Updated] Discovering Vimeo Home for High-Quality Films</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-effective-techniques-for-creating-podcast-rss-feeds-for-2024/"><u>[Updated] Effective Techniques for Creating Podcast RSS Feeds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-video-cameras-the-leading-list-2024-edition/"><u>[Updated] Prime Video Cameras The Leading List, 2024 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-online-typing-classes-for-people-of-all-generations/"><u>Best Free Online Typing Classes for People of All Generations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparative-analysis-of-mac-vs-windows-pcs-uncovering-their-true-variances/"><u>Comparative Analysis of MAC Vs. Windows PCs: Uncovering Their True Variances</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-m3-macbook-pros-features-cost-and-availability-dates-revealed/"><u>Comprehensive Guide: M3 MacBook Pro's Features, Cost, & Availability Dates Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-your-iphone-15-promax-a-step-by-step-guide/"><u>Disabling Your iPhone 15 Pro/Max: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-make-your-content-trend-a-guide-to-going-viral-on-insta/"><u>How to Make Your Content Trend: A Guide to Going Viral on Insta</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-11-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-bring-imagination-alive-start-with-microsofts-movie-maker-on-w11/"><u>In 2024, Bring Imagination Alive Start with Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-soundbar-revival-a-comprehensive-troubleshooting-and-factory-reset-walkthrough/"><u>Samsung Soundbar Revival: A Comprehensive Troubleshooting and Factory Reset Walkthrough</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securely-erase-your-personal-access-number-in-windows-11-with-these-simple-steps/"><u>Securely Erase Your Personal Access Number in Windows 11 with These Simple Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-your-gmail-messages-with-this-essential-guide-to-organizing-via-labels/"><u>Streamline Your Gmail Messages With This Essential Guide to Organizing via Labels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-ssl-certificate-issues-and-secure-connection-errors-online/"><u>Troubleshooting SSL Certificate Issues and 'Secure Connection' Errors Online</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unveiling-aspect-ratios-your-pathway-to-youtube-excellence/"><u>Unveiling Aspect Ratios Your Pathway to YouTube Excellence</u></a></li>
+</ul></div>
+

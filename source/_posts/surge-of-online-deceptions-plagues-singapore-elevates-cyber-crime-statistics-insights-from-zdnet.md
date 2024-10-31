@@ -1,7 +1,7 @@
 ---
 title: Surge of Online Deceptions Plagues Singapore, Elevates Cyber Crime Statistics - Insights From ZDNet.
-date: 2024-09-17 13:43:18
-updated: 2024-09-20 10:39:38
+date: 2024-10-29T16:53:14.500Z
+updated: 2024-10-30T22:51:48.631Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,6 +79,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-a-comprehensive-look-at-lighting-your-youtube-videos-right/"><u>[Updated] A Comprehensive Look at Lighting Your YouTube Videos Right</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects-for-2024/"><u>[Updated] Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-enhancing-vimeo-films-with-chapters-division-for-2024/"><u>[Updated] Enhancing Vimeo Films with Chapters Division for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertly-edited-photos-and-films-best-gopro-editing-apps/"><u>[Updated] Expertly Edited Photos and Films Best GoPro Editing Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-complete-action-camera-buying-guide-for-beginners-2023-update/"><u>2024 Approved Complete Action Camera Buying Guide For Beginners -2023 Update</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y55s-5g-2023-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y55s 5G (2023) Phone FRP Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-google-alerts-the-ultimate-guide-to-track-trending-subjects-that-capture-your-interest/"><u>Mastering Google Alerts: The Ultimate Guide to Track Trending Subjects That Capture Your Interest</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-multi-page-navigation-a-step-by-step-guide-to-activating-scroll-wheel-on-macos-mice-insights-from-zdnet/"><u>Mastering Multi-Page Navigation: A Step-by-Step Guide to Activating Scroll Wheel on macOS Mice - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-slack-efficiency-leveraging-the-power-of-saved-items-tech-innovate/"><u>Mastering Slack Efficiency: Leveraging the Power of Saved Items | Tech Innovate</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-addressing-interviewers-queries-insights-and-tips/"><u>Mastering the Art of Addressing Interviewer's Queries - Insights & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screenshots-essential-techniques-for-laptops-dell-lenovo-mac-zdnets-expert-advice/"><u>Mastering the Art of Screenshots: Essential Techniques for Laptops (Dell, Lenovo, Mac) | ZDNet's Expert Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-system-image-creation-on-windows/"><u>Simplified System Image Creation on Windows</u></a></li>
+</ul></div>
+

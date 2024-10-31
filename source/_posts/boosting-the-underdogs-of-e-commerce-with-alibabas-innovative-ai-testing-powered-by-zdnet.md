@@ -1,7 +1,7 @@
 ---
 title: Boosting the Underdogs of E-Commerce with Alibaba's Innovative AI Testing | Powered by ZDNet
-date: 2024-09-18 20:43:21
-updated: 2024-09-20 10:34:47
+date: 2024-10-28T22:17:13.473Z
+updated: 2024-10-30T16:29:30.632Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,19 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,6 +64,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -69,6 +89,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/2023s-leading-mobile-solar-charge-units-expert-comparisons-and-picks/"><u>2023'S Leading Mobile Solar Charge Units: Expert Comparisons & Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-guide-to-buying-outdoor-security-lighting-systems-expert-picks-and-reviews/"><u>2024'S Ultimate Guide to Buying Outdoor Security Lighting Systems: Expert Picks and Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-modular-dwellings-for-less-than-50k-discover-the-ultimate-home-kits/"><u>Affordable Modular Dwellings for Less Than $50K: Discover the Ultimate Home Kits!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-powerhouse-unveiled-with-thermal-extremes-outshining-the-latest-iphone-explore-its-mighty-performance/"><u>Android Powerhouse Unveiled with Thermal Extremes, Outshining the Latest iPhone - Explore Its Mighty Performance!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/anleitung-zum-entfernen-von-schutzmechanismen-auf-disney-dvds-und-zur-gewinnung-wertvoller-inhalte/"><u>Anleitung Zum Entfernen Von Schutzmechanismen Auf Disney-DVDs Und Zur Gewinnung Wertvoller Inhalte</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-your-messaging-up-to-date-with-win11s-new-emojis/"><u>Bring Your Messaging Up-to-Date with Win11's New Emojis</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comment-migrer-facilement-et-gratuitement-vos-donnees-mac-vers-un-disque-dur-externe-avec-trois-techniques-simples/"><u>Comment Migrer Facilement Et Gratuitement Vos Données Mac Vers Un Disque Dur Externe Avec Trois Techniques Simples</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-jackery-explorer-1500-pro-the-ultimate-portable-power-solution-reviewed-on-zdnet/"><u>Discover the Jackery Explorer 1500 Pro: The Ultimate Portable Power Solution Reviewed on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eco-friendly-holiday-gifts-how-to-give-and-receive-carbon-credits-zdnet-guide/"><u>Eco-Friendly Holiday Gifts: How to Give and Receive Carbon Credits | ZDNet Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/five-leading-e-learning-platforms-to-excel-in-artificial-intelligence-ai-prompt-design/"><u>Five Leading E-Learning Platforms to Excel in Artificial Intelligence (AI) Prompt Design</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-xs-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone XS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-free-video-editing-software-for-rotating-and-flipping-clips/"><u>New Top 10 Free Video Editing Software for Rotating and Flipping Clips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210777230-9798889130314-optimal-living-transform-your-life-and-achieve-true-happiness/"><u>Optimal Living: Transform Your Life and Achieve True Happiness | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/standing-out-on-airwaves-podcast-brand-logo-tips/"><u>Standing Out on Airwaves Podcast Brand Logo Tips</u></a></li>
+</ul></div>
+

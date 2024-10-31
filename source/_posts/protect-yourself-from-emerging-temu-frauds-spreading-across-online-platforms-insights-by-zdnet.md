@@ -1,7 +1,7 @@
 ---
 title: Protect Yourself From Emerging Temu Frauds Spreading Across Online Platforms - Insights by ZDNet
-date: 2024-09-19 13:13:49
-updated: 2024-09-20 12:38:50
+date: 2024-10-23T20:14:01.509Z
+updated: 2024-10-30T16:43:43.045Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,9 +72,29 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capturing-itunes-media-three-recording-techniques/"><u>[New] 2024 Approved Capturing iTunes Media Three Recording Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-facebook-video-extractor-mp3-format-support-for-2024/"><u>[New] Facebook Video Extractor – MP3 Format Support for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-the-interface-key-win11-tricks/"><u>[Updated] 2024 Approved Mastering the Interface Key Win11 Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advancing-beyond-limits-with-verizons-upcoming-5g-experience/"><u>Advancing Beyond Limits with Verizon's Upcoming 5G Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-motorola-moto-g14-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Motorola Moto G14 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-communication-to-enhance-interview-success/"><u>In 2024, Leveraging Communication to Enhance Interview Success</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-galaxy-z-flip-5-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung Galaxy Z Flip 5 on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-with-symphonies-music-on-whatsapp-status-for-2024/"><u>Syncing with Symphonies Music on WhatsApp Status for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-your-google-drive-download-issues-expert-tips-and-solutions/"><u>Troubleshooting Your Google Drive Download Issues – Expert Tips and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-step-by-step-tutorial-on-using-apples-airtag-for-peace-of-mind/"><u>Ultimate Step-by-Step Tutorial on Using Apple's AirTag for Peace of Mind</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-potential-a-comprehensive-evaluation-of-a-2gb-raspberry-pi-under-extreme-workload-tests-zdnet/"><u>Unleashing Potential: A Comprehensive Evaluation of a 2GB Raspberry Pi Under Extreme Workload Tests | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-efficiency-with-innovative-ai-technology-the-potential-game-changer-in-personalized-transcription-services-zdnet/"><u>Unlock Efficiency with Innovative AI Technology: The Potential Game-Changer in Personalized Transcription Services | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-swipe-features-for-your-macos-mouse-detailed-tutorial-inspired-by-zdnets-techniques/"><u>Unlock Swipe Features for Your macOS Mouse: Detailed Tutorial Inspired by ZDNet's Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-academic-excellence-discover-why-the-ultimate-reusable-smart-notebook-is-every-students-dream-tool-zdnet/"><u>Unlocking Academic Excellence: Discover Why the Ultimate Reusable Smart Notebook Is Every Student's Dream Tool | ZDNET</u></a></li>
+</ul></div>
+

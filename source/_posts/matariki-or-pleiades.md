@@ -1,7 +1,7 @@
 ---
 title: Matariki or Pleiades
-date: 2024-09-19 12:13:26
-updated: 2024-09-20 12:28:41
+date: 2024-10-23T23:51:45.323Z
+updated: 2024-10-30T22:45:36.780Z
 tags:
   - energy
 categories:
@@ -43,11 +43,42 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-master-real-time-video-sharing-on-facebook/"><u>[New] In 2024, How to Master Real-Time Video Sharing on Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-the-secrets-to-supervised-simultaneous-streams/"><u>[New] In 2024, Unveiling the Secrets to Supervised Simultaneous Streams</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-scripting-striking-film-epilogues/"><u>[New] Scripting Striking Film Epilogues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices-for-2024/"><u>[New] Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-name-unboxing-and-testing-the-affordable-prime-day-deal-the-349-smart-plug/"><u>[Your Name] Unboxing and Testing the Affordable Prime Day Deal: The $3.49 Smart Plug</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tiktok-sensation-challenge/"><u>2024 Approved TikTok Sensation Challenge</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/advancing-eco-friendly-financial-technology-in-singapore-through-strategic-collaboration-with-google-cloud/"><u>Advancing Eco-Friendly Financial Technology in Singapore Through Strategic Collaboration with Google Cloud</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cerebras-leading-ai-hardware-producer-secures-totalenergies-se-for-exclusive-energy-industry-collaboration-insights-from-zdnet/"><u>Cerebras, Leading AI Hardware Producer, Secures TotalEnergies SE for Exclusive Energy Industry Collaboration - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-choice-the-ultimate-list-of-budget-friendly-portable-batteries-in-202n4-comprehensive-reviews-zdnet/"><u>Experts' Choice: The Ultimate List of Budget-Friendly Portable Batteries in 202N4 - Comprehensive Reviews | ZDNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-vimeo-and-youtube-analyzing-their-unique-features/"><u>In 2024, Vimeo and YouTube Analyzing Their Unique Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s17t-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S17t for Parents | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-performing-smart-thermostat-review-a-surprising-alternative-beyond-ecobee-and-amazon-discovered-on-zdnet/"><u>Top-Performing Smart Thermostat Review: A Surprising Alternative Beyond Ecobee and Amazon - Discovered on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-power-station-reviews-comprehensive-analysis-by-industry-experts-zdnet/"><u>Top-Rated Portable Power Station Reviews : Comprehensive Analysis by Industry Experts | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-comprehensive-guide-evaluating-the-best-portable-power-station-options/"><u>ZDNet's Comprehensive Guide: Evaluating the Best Portable Power Station Options</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

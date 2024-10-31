@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple MacBook with MacOS 15: The Ultimate List of New Features You Can't Miss | ZDNET Insights"
-date: 2024-10-22T20:50:42.674Z
-updated: 2024-10-25T05:24:52.117Z
+date: 2024-10-27T02:48:30.371Z
+updated: 2024-10-30T17:08:36.163Z
 tags:
   - apple
 categories:
@@ -56,13 +56,6 @@ Working in any of the virtual environments (I prefer Mount Hood) is great, but t
 
 I'd like the ability to create a passthrough opening that allows me to see the keyboard and the mouse (and I wouldn't mind one that lets me also see my coffee cup) while in virtual space. Ideally, an AI would be smart enough to recognize my keyboard (even if it's not Apple branded), but a reasonable first step would be merely allowing users to define passthrough zones by hand in the Vision Pro. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Less draconian media restrictions
 
 Apple Vision Pro does not allow any screenshots of entertainment media. Period. Do I want to show you a screenshot of the impressive rhino sanctuary or Parkour immersive videos? Yes. Can I? No. No screenshots, no video. I also can't mirror any video to the Apple TV from the Vision Pro. 
@@ -72,6 +65,13 @@ Apple Vision Pro does not allow any screenshots of entertainment media. Period. 
 That precludes using the Vision Pro's mirror-to-Apple TV feature to help a person trying on the Vision Pro for the first time, because as soon as they drop into an entertainment app, it's no longer possible to see anything they're doing. It also precludes family members from watching Apple TV+ together, one on the Vision Pro and the others on the Apple TV. 
 
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. More native spatial apps
 
@@ -87,6 +87,13 @@ Apple currently allows just a few fully immersive environments. While the surfac
 
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. Larger play space boundary
 
 Right now, Apple limits the [total physical play space for virtual experiences to a 1.5-meter boundary](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences) around the initial position of the wearer's head. As a person moves closer to the bounds of that boundary, the virtual world recedes and environment passthrough is activated. 
@@ -99,13 +106,6 @@ There's more flexibility on the Quest 3\. Using a [fairly dangerous optional set
 
 Maybe, with VisionOS 2.0, Apple will allow for some flexibility in play space boundary size. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  8\. VR controller support
 
 While I wouldn't say that the Quest experience beats the Apple Vision Pro experience, some things just work better on the [Quest 3](https://www.zdnet.com/article/zdnet-2023-product-of-the-year-meta-quest-3/). Key to this is the fact that the Quest 3 has controllers, and the Vision Pro relies entirely on hand gestures. It's time for the Vision Pro to add controller support. 
@@ -117,13 +117,6 @@ I'll give you one example. I really enjoy the game [Puzzling Places on the Quest
 This situation was also apparent in [the Marvel What…If? immersive experience](https://www.zdnet.com/article/marvels-what-if-brings-immersive-vr-to-apple-vision-pro-for-free/) I just explored. I found that the hand gestures, while fun, had some lag. [Adam Savage's Tested experienced the same issues](https://www.youtube.com/watch?v=coMrs5KgiV8). 
 
 Most likely, Apple will someday introduce its own controllers, if only to meet some special purpose large-scale enterprise need. But given that Meta has added support for Apple's spatial videos to the Quest 3, it seems only fair for Apple to add support for Quest controllers. I haven't found Quest 3 controllers available separately, but [since the Quest 2 is only $199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOculus-Quest-Advanced-All-One-Virtual%2Fdp%2FB099VMT8VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb135956-8baa-4edf-a1db-c0f82f14a9f0%7Cdtp&dtb=1), folks could buy it and get the Quest 2 controllers. Hey, at $199, it's the same price as a [spare Vision Pro battery](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW283LL%2FA%2Fapple-vision-pro-battery&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or [Vision Pro carrying case](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW2F3LL%2FA%2Fapple-vision-pro-travel-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  9\. Better and more accurate hand and eye tracking
 
@@ -138,21 +131,22 @@ It's weird, but there's no Find My app for the Apple Vision Pro. You can't even 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -192,19 +186,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-easystreamsetup-a-quick-overview-of-simplified-podcast-streaming-techniques-for-2024/"><u>[Updated] EasyStreamSetup A Quick Overview of Simplified Podcast Streaming Techniques for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quieting-audible-outputs-a-windowsmac-guide/"><u>[Updated] Quieting Audible Outputs A Windows/Mac Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ace-the-skype-screen-the-ultimate-top-9-guide-to-nailing-remote-interviews/"><u>Ace the Skype Screen: The Ultimate Top 9 Guide to Nailing Remote Interviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-enhanced-functionality-of-mozilla-thunderbird-update-52/"><u>Explore the Enhanced Functionality of Mozilla Thunderbird Update 52</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-stands-still-on-trumponian-ban-authority/"><u>Facebook Stands Still on Trumponian Ban Authority</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-se-2022-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-high-definition-magic-cutting-edge-camcorders-reviewed/"><u>In 2024, High-Definition Magic Cutting-Edge Camcorders Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-essential-mac-live-streaming-apps/"><u>In 2024, Top 5 Essential Mac Live Streaming Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insiders-handbook-on-decoding-snapchat-emoji-messages/"><u>Insider's Handbook on Decoding Snapchat Emoji Messages</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-x876-owners-must-have-gif-apps-guide/"><u>IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/save-on-mobile-bills-effective-texting-strategies-without-a-data-plan/"><u>Save on Mobile Bills: Effective Texting Strategies Without a Data Plan</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-activate-picture-in-picture-on-your-android-device/"><u>Step-by-Step Instructions to Activate Picture-in-Picture on Your Android Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-power-issues-with-your-playstation-5-controller/"><u>Troubleshooting Tips: Resolving Power Issues with Your PlayStation 5 Controller</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-your-network-drive-on-macos/"><u>Ultimate Guide: Setting Up Your Network Drive on macOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-your-profile-picture-game-with-these-high-end-online-services/"><u>[New] 2024 Approved Elevate Your Profile Picture Game with These High-End Online Services</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-taking-the-leap-essential-video-gatherings-post-vidcon/"><u>[Updated] Taking the Leap Essential Video Gatherings (Post-VidCon)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-route-from-youtube-to-igtv-adoption/"><u>[Updated] The Ultimate Route From YouTube to IGTV Adoption</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nokia-c210-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nokia C210 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpgmp33/"><u>無料で簡単な曲変換! MPG形式をMP3にする上位3選手</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/configuring-additional-macos-network-profiles-to-improve-connection-options-expert-strategies/"><u>Configuring Additional MacOS Network Profiles to Improve Connection Options - Expert Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-easy-way-to-take-screenshots-using-hp-laptop-function-keys/"><u>Expert Tips: Easy Way to Take Screenshots Using HP Laptop Function Keys</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/game-enhancing-screens-top-5-for-ps5-and-xbox-gamers/"><u>Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-12-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme 12 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expertly-choosing-the-best-screen-snipers-on-windows/"><u>In 2024, Expertly Choosing The Best Screen Snipers on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/selecting-the-perfect-motherboard-top-7-criteria-explained/"><u>Selecting the Perfect Motherboard: Top 7 Criteria Explained</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-infinix-smart-8-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Smart 8 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/synchronize-your-logitech-wireless-mouse-using-an-alternate-usb-receiver/"><u>Synchronize Your Logitech Wireless Mouse Using an Alternate USB Receiver</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-apple-vision-pro-revealed-pricing-breakdown-feature-overview-and-hands-on-impressions-in-depth-tech-review-by-zdnet/"><u>The Apple Vision Pro Revealed: Pricing Breakdown, Feature Overview, and Hands-On Impressions | In Depth Tech Review by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-decision-guide-for-buying-a-blu-ray-player/"><u>The Ultimate Decision Guide for Buying a Blu-Ray Player</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-steps-to-permanently-remove-your-twitch-profile/"><u>The Ultimate Guide: Steps to Permanently Remove Your Twitch Profile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-unbeatable-charm-of-apples-iphone-ebonite-16-pro-my-picks-for-a-sleek-upgrade-over-max-model-this-year-gadgetpundit/"><u>The Unbeatable Charm of Apple's iPhone Ebonite 16 Pro - My Picks for a Sleek Upgrade over Max Model This Year | GadgetPundit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-saving-techniques-from-complicated-srt-to-simplified-txt-for-2024/"><u>Time-Saving Techniques From Complicated SRT to Simplified TXT for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-past-versions-of-websites-your-guide-to-leveraging-the-wayback-machine/"><u>Unlocking Past Versions of Websites: Your Guide to Leveraging the Wayback Machine</u></a></li>
 </ul></div>
 

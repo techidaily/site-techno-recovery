@@ -1,7 +1,7 @@
 ---
 title: Get the Most Out of Prime Early Access - Transition to Prime Student Membership Pre-Prime Day Explained | ZDNet
-date: 2024-09-17 20:48:32
-updated: 2024-09-20 12:41:18
+date: 2024-10-29T17:04:01.818Z
+updated: 2024-10-31T03:09:49.412Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +57,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-aviations-new-titans-dji-phantom-pro-and-gopro-k20-ii/"><u>[New] Aviation's New Titans DJI Phantom Pro & GoPro K20 II</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>[New] Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-professional-capturer-snappy-windows-snap/"><u>[Updated] Professional Capturer Snappy Windows Snap</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-revolutionizes-tv-viewing-with-surreal-immersive-shows-that-test-endurance-zdnet-insights/"><u>Apple Vision Pro Revolutionizes TV Viewing with Surreal, Immersive Shows That Test Endurance | ZDNET Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/balancing-volume-levels-in-obs-streaming/"><u>Balancing Volume Levels in OBS Streaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/basicwin10recorder-easy-to-use-software/"><u>BasicWin10Recorder - Easy to Use Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/be-first-in-line-for-quest-3-improvements-unlocking-metas-beta-access-with-zdnets-tips/"><u>Be First in Line for Quest 3 Improvements: Unlocking Meta's Beta Access with ZDNet's Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-electronics-through-toms-equipment-insights/"><u>Discover Cutting-Edge Electronics Through Tom's Equipment Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finally-it-returns-a-dictionary-containing-both-the-cosine-similarity-and-the-angle-between-vectors-v1-and-v2/"><u>Finally, It Returns a Dictionary Containing Both the Cosine Similarity and the Angle Between Vectors v1 and V2.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/full-day-on-the-apple-vision-pro-glasses-how-they-fared-during-my-8-hour-office-routine-zdnet-insights/"><u>Full Day on the Apple Vision Pro Glasses - How They Fared During My 8-Hour Office Routine | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-complexities-of-digital-twin-technology-deployment-7-critical-challenges-and-strategies-for-business-success-ciotrends/"><u>Navigating the Complexities of Digital Twin Technology Deployment: 7 Critical Challenges and Strategies for Business Success | CIOTrends</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-guide-to-overcoming-the-obstacle-of-error-0x887a0006/"><u>Quick-Fix Guide to Overcoming the Obstacle of Error 0X887A0006</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ready-to-test-drive-the-new-features-in-vision-pros-travel-mode-discover-essential-tips-first-zdnet-guide/"><u>Ready to Test Drive the New Features in Vision Pro's Travel Mode? Discover Essential Tips First [ZDNet Guide]</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/resolved-unintended-tiktok-reboot-how-to-fix-for-2024/"><u>Resolved Unintended TikTok Reboot – How to Fix for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-eureka-encounter-with-apples-latest-immersive-tech-on-the-vision-pro-insights-and-revelations-zdnet/"><u>The Eureka Encounter with Apple's Latest Immersive Tech on the Vision Pro: Insights & Revelations | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-dangers-of-installing-chatgpt-applications-from-apples-mac-app-store/"><u>The Hidden Dangers of Installing ChatGPT Applications From Apple's Mac App Store</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-six-critical-pillars-for-building-effective-digital-twins-with-ai-enhancements-expert-analysis-by-zdnet/"><u>The Six Critical Pillars for Building Effective Digital Twins with AI Enhancements | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-essential-discount-warehouses-master-the-art-of-savings/"><u>Top 6 Essential Discount Warehouses: Master the Art of Savings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-enhanced-virtual-reality-with-metas-affordable-50-eye-accessory-for-glasses-wearing-gamers-zdnet-insights/"><u>Unlock Enhanced Virtual Reality with Meta's Affordable $50 Eye Accessory for Glasses-Wearing Gamers - ZDNet Insights</u></a></li>
+</ul></div>
+

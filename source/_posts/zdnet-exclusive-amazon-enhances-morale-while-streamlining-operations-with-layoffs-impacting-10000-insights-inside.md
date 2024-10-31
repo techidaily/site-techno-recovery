@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Amazon Enhances Morale While Streamlining Operations with Layoffs Impacting 10,000 – Insights Inside"
-date: 2024-09-17 12:22:38
-updated: 2024-09-20 10:29:55
+date: 2024-10-25T05:11:44.941Z
+updated: 2024-10-31T01:14:48.419Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -70,6 +91,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-videos-youtube-trailers-through-filmora/"><u>[New] 2024 Approved Elevate Your Videos YouTube Trailers Through Filmora</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-techniques-for-high-quality-android-recordings/"><u>[Updated] 2024 Approved Expert Techniques for High-Quality Android Recordings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[Updated] In 2024, Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoiding-motion-illusions-tips-for-vr-users-for-2024/"><u>Avoiding Motion Illusions Tips for VR Users for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-thinkphone-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from ThinkPhone.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-gopro-the-15-top-waterproof-cams-for-adventure-for-2024/"><u>Beyond GoPro The 15 Top Waterproof Cams for Adventure for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-arrange-and-enjoy-all-episodes-of-dragon-ball-properly/"><u>How to Arrange and Enjoy All Episodes of Dragon Ball Properly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/real-time-latest-discounts-on-vpn-services-featured-by-zdnet/"><u>Real-Time Latest Discounts on VPN Services Featured by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reliable-connection-speeds-with-nordvpn-a-comprehensive-evaluation-by-zdnet/"><u>Reliable Connection Speeds with NordVPN - A Comprehensive Evaluation by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-a-triple-monthly-free-surfshark-vpn-bonanza-find-out-how-to-grab-it-for-free-via-zdnet/"><u>Score a Triple-Monthly Free Surfshark VPN Bonanza - Find Out How to Grab It for Free via ZDnet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-online-presence-discover-duckduckgos-comprehensive-privacy-bundle-includes-vpn-data-deletion-and-recovery-from-id-theft-zdnet/"><u>Secure Your Online Presence: Discover DuckDuckGo's Comprehensive Privacy Bundle - Includes VPN, Data Deletion & Recovery From ID Theft | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-online-privacy-get-an-extended-5-year-vpn-membership-at-only-35-dedicated-plan/"><u>Secure Your Online Privacy: Get an Extended 5-Year VPN Membership at Only $35 – Dedicated Plan!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-recording-audio-with-background-music-in-windows/"><u>Step-by-Step Guide: Recording Audio with Background Music in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-disconnecting-from-a-vpn-service-compatible-with-major-electronic-devices/"><u>Step-by-Step Instructions for Disconnecting From a VPN Service: Compatible with Major Electronic Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-disconnect-from-vpn-services-across-multiple-platforms-digital-security-tips-with-zdnet/"><u>Step-by-Step Instructions to Disconnect From VPN Services Across Multiple Platforms | Digital Security Tips with ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/technique-simple-et-rapide-pour-epargner-tous-vos-dvd-anciens-ou-recents-en-5-min-seulement/"><u>Technique Simple Et Rapide Pour Épargner Tous Vos DVD, Anciens Ou Récents, en 5 Min Seulement !</u></a></li>
+</ul></div>
+

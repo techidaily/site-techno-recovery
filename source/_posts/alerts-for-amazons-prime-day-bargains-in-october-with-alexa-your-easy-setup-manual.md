@@ -1,7 +1,7 @@
 ---
 title: "Alerts for Amazon's Prime Day Bargains in October with Alexa: Your Easy Setup Manual"
-date: 2024-09-17 13:34:55
-updated: 2024-09-20 12:45:38
+date: 2024-10-25T23:41:58.385Z
+updated: 2024-10-30T20:11:50.424Z
 tags:
   - e-commerce
 categories:
@@ -28,6 +28,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 **Also: [The best early Amazon Prime Day 2024 deals](https://www.zdnet.com/article/best-early-amazon-prime-day-2024-deals/)**
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who is eligible for a Prime Student membership? 
 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,6 +83,19 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +105,19 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +144,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-comprehensive-guide-youtube-to-mpeg-transcoding/"><u>[Updated] In 2024, Comprehensive Guide YouTube to MPEG Transcoding</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphotovidsyncer-seamless-imageplusvideo-playback/"><u>[Updated] IPhotoVidSyncer Seamless Image+Video Playback</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210105578-9781529340181-a-book-for-life/"><u>A Book For Life | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/adventurelux-hd/"><u>AdventureLux HD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/aprils-celestial-event-a-comprehensive-qanda-on-observing-the-2024-solar-eclipse-necessary-equipment-and-more-spacewatch-weekly/"><u>April's Celestial Event: A Comprehensive Q&A on Observing the 2024 Solar Eclipse, Necessary Equipment & More | Spacewatch Weekly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-gear-in-motion-top-5-professional-grade-action-cameras-ranked/"><u>Best Gear in Motion: Top 5 Professional-Grade Action Cameras Ranked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-mediasync-tool-for-easy-iphone-ipad-data-transfer-via-windows-pc-with-winx/"><u>Best MediaSync Tool for Easy iPhone iPad Data Transfer via Windows PC with WinX</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-solar-power-banks-of-2024-expert-picks-and-comparisons-pcmag/"><u>Best Solar Power Banks of 2024: Expert Picks and Comparisons - PCMag</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-a2-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo A2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/campers-choice-the-ultimate-guide-to-the-finest-camping-gear-and-tools-of-2022/"><u>Campers' Choice: The Ultimate Guide to the Finest Camping Gear and Tools of 2022!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/closer-than-ever-how-the-arlo-pro-5s-stands-on-the-brink-of-perfection-smartsecurity-insights/"><u>Closer than Ever: How the Arlo Pro 5S Stands on the Brink of Perfection | SmartSecurity Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/color-spectrum-magic-enhancing-your-outdoor-space-with-govees-smart-led-technology/"><u>Color Spectrum Magic: Enhancing Your Outdoor Space with Govee's Smart LED Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/detect-and-revive-ill-vegetation-using-our-affordable-15-mobile-application-featured-on-zdnet/"><u>Detect & Revive Ill Vegetation Using Our Affordable $15 Mobile Application - Featured on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-filmless-to-film-rich-digitizing-yesteryears-images/"><u>In 2024, From Filmless to Film-Rich Digitizing Yesteryears' Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nonewsubs-when-will-chatgpt-welcome-again/"><u>NoNewSubs: When Will ChatGPT Welcome Again?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/top-9-invisible-media-extractors-for-2024/"><u>Top 9 Invisible Media Extractors for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1726809675936-top-rated-lawn-mowers-comprehensive-review-zdnet/"><u>Top Rated Lawn Mowers : Comprehensive Review - ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-realities-collide-ps5-meets-affordable-gaming-pc/"><u>Virtual Realities Collide: PS5 Meets Affordable Gaming PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-content-creators-should-think-twice-before-turning-to-ai-chatbots-8-key-reasons/"><u>Why Content Creators Should Think Twice Before Turning to AI Chatbots: 8 Key Reasons</u></a></li>
+</ul></div>
+

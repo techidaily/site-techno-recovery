@@ -1,7 +1,7 @@
 ---
 title: "Amazon Explores New Escrow Feature for Cryptocurrency Transactions: Insights From ZDNet"
-date: 2024-09-19 16:32:59
-updated: 2024-09-20 12:52:49
+date: 2024-10-25T16:20:22.057Z
+updated: 2024-10-31T03:09:40.964Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-nikon-d850-vs-d7500-features/"><u>[New] 2024 Approved Exploring Nikon D850 Vs D7500 Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-watch-multiple-youtube-videos-at-one-time/"><u>[New] In 2024, How To Watch Multiple YouTube Videos at One Time?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-convert-kings-playbook-youtube-to-mp4mpeg-edition/"><u>[New] In 2024, The Convert King's Playbook YouTube to MP4/MPEG Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-supercharge-videos-download-premium-effs-for-2024/"><u>[Updated] Supercharge Videos - Download Premium Effs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-boosts-alexa-capabilities-using-anthropics-innovative-language-model-claude-exclusive-coverage-at-zdnet/"><u>Amazon Boosts Alexa Capabilities Using Anthropic’s Innovative Language Model, Claude - Exclusive Coverage at ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722151524290-bring-powerful-ai-search-from-bing-to-your-mobile-available-for-android-and-iphone-now/"><u>Bring Powerful AI Search From Bing to Your Mobile: Available for Android and iPhone Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/differentiating-siri-from-chatgpt-key-factors-to-consider/"><u>Differentiating Siri From ChatGPT: Key Factors to Consider</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-an-unmatched-audio-experience-top-alternative-brands-beyond-sony-and-jbl-featured-on-zdnet/"><u>Discover an Unmatched Audio Experience: Top Alternative Brands Beyond Sony and JBL Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-magic-of-smart-home-with-essential-light-projection-tech-you-might-be-missing/"><u>Discover the Magic of Smart Home with Essential Light Projection Tech You Might Be Missing!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-audio-experience-with-our-picks-s-best-speakers-featuring-expert-reviews-from-cnet/"><u>Discover the Ultimate Audio Experience with Our Picks 'S Best Speakers, Featuring Expert Reviews From CNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dyson-launches-ontrac-the-ultimate-contender-against-airpods-max-what-you-need-to-know/"><u>Dyson Launches OnTrac: The Ultimate Contender Against AirPods Max - What You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-insider-guides/"><u>Exploring the Latest in Technology with Tom's Insider Guides</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-savings-with-the-35-echo-and-blink-combo-for-a-smarter-home-the-ultimate-prime-day-finale/"><u>Maximize Your Savings with the $35 Echo & Blink Combo for a Smarter Home - The Ultimate Prime Day Finale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-home-with-the-latest-tech-marvel-a-smart-speaker-that-flawlessly-integrates-alexa-and-google-assistant-services/"><u>Revolutionize Your Home with the Latest Tech Marvel - A Smart Speaker that Flawlessly Integrates Alexa and Google Assistant Services!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-review-reveals-a-standout-portable-speaker-with-impressive-sound-quality-across-genres-ranks-among-the-best-tested/"><u>ZDNet's Review Reveals a Standout Portable Speaker with Impressive Sound Quality Across Genres, Ranks Among the Best Tested!</u></a></li>
+</ul></div>
+

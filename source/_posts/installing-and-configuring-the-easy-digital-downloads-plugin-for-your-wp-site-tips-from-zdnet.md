@@ -1,7 +1,7 @@
 ---
 title: Installing & Configuring the Easy Digital Downloads Plugin for Your WP Site | Tips From ZDNet
-date: 2024-09-18 20:40:54
-updated: 2024-09-20 11:19:40
+date: 2024-10-25T18:51:29.519Z
+updated: 2024-10-30T22:18:44.609Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -56,6 +70,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -74,6 +95,19 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-enhance-your-drone-game-top-11-phantom-4-extras-for-2024/"><u>[New] Enhance Your Drone Game Top 11 Phantom 4 Extras for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-advanced-capture-strategies-for-roblox-games-mac-edition/"><u>[Updated] 2024 Approved Advanced Capture Strategies for Roblox Games (Mac Edition)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-5-virtual-realities-samsung-gear-vr-game-hits/"><u>[Updated] 2024 Approved Top 5 Virtual Realities - Samsung Gear VR Game Hits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/3-exciting-enhancements-coming-soon-to-meta-quest-vr-a-must-see-update-for-gaming-and-entertainment-enthusiasts-zdnet/"><u>3 Exciting Enhancements Coming Soon to Meta Quest VR: A Must-See Update for Gaming and Entertainment Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-xr-glasses-solution-beats-high-end-brands-for-enhanced-visuals-discover-how-they-overcome-apples-optics-issue/"><u>Affordable XR Glasses Solution Beats High-End Brands for Enhanced Visuals – Discover How They Overcome Apple's Optics Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ar-and-vr-devices-to-benefit-from-faster-speeds-with-fccs-new-approval-of-the-6ghz-band-tech-news-on-zdnet/"><u>AR & VR Devices to Benefit From Faster Speeds with FCC's New Approval of the 6GHz Band – Tech News on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compact-and-slim-discover-how-the-new-apple-vision-pro-case-fits-snugly-at-just-half-the-size/"><u>Compact and Slim: Discover How the New Apple Vision Pro Case Fits Snugly at Just Half the Size</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-apples-expanded-dev-program-for-ios-17-visionos-and-emerging-platforms-zdnet-insights/"><u>Comprehensive Guide on Apple's Expanded Dev Program for iOS 17, VisionOS, and Emerging Platforms | ZDNet Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y27s-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y27s Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-macro-mastery-tips-for-clear-detail-focused-photos-for-2024/"><u>IPhone Macro Mastery Tips for Clear, Detail-Focused Photos for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-comparing-leading-online-and-offline-mp3-karaoke-transformers/"><u>New 2024 Approved Comparing Leading Online & Offline MP3 Karaoke Transformers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/revamp-your-channels-smart-tips-for-yt-profiles/"><u>Revamp Your Channels Smart Tips for YT Profiles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/syncing-socials-a-step-by-step-guide-to-linking-instagram-and-tiktok/"><u>Syncing Socials A Step-by-Step Guide to Linking Instagram and TikTok</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-power-of-digital-twins-essential-components-and-the-role-of-artificial-intelligence-in-modern-enterprises/"><u>Unlocking the Power of Digital Twins: Essential Components & the Role of Artificial Intelligence in Modern Enterprises</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-marvel-disney-vision-pro-multiverse-your-journey-as-the-hero/"><u>Unveiling the Marvel-Disney Vision Pro Multiverse: Your Journey as the Hero</u></a></li>
+</ul></div>
+

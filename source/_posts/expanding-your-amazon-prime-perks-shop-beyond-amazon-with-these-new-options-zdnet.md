@@ -1,7 +1,7 @@
 ---
 title: "Expanding Your Amazon Prime Perks: Shop Beyond Amazon with These New Options! | ZDNet"
-date: 2024-09-18 20:57:19
-updated: 2024-09-20 12:14:52
+date: 2024-10-25T19:29:17.820Z
+updated: 2024-10-31T05:09:20.281Z
 tags:
   - e-commerce
 categories:
@@ -51,6 +51,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -65,11 +72,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -78,6 +99,19 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-eye-catcher-top-screen-recording-software-reviews-for-2024/"><u>[New] Eye Catcher Top Screen Recording Software Reviews for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-androids-best-rated-10-ultimate-game-boy-advance-simulators-for-2024/"><u>[Updated] Android's Best-Rated 10 Ultimate Game Boy Advance Simulators for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-early-bird-shooters-guide-to-cams-of-24/"><u>[Updated] In 2024, Early Bird Shooter’s Guide to Cams of '24</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-s17t-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo S17t</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-electric-scooter-models-reviewed-by-experts-zdnet/"><u>Discover the Leading Electric Scooter Models Reviewed by Experts - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-near-perfect-surveillance-save-big-with-arlo-pro-5-zdnet/"><u>Discover the Near-Perfect Surveillance: Save Big with Arlo Pro 지원 5세대와의 판매 | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-2022-cooler-collection-expert-picks-from-zdnet/"><u>Discover the Ultimate 2022 Cooler Collection: Expert Picks From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-why-the-waterproof-blink-mini-ns-unmatched-performance-outshines-competitors-including-wyze-cams-a-zdnet-recommendation/"><u>Discover Why The Waterproof Blink Mini N's Unmatched Performance Outshines Competitors, Including Wyze Cams: A ZDNet Recommendation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-picking-your-ideal-lawn-mower-tech-insights-from-zdnet/"><u>Expert Advice on Picking Your Ideal Lawn Mower | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-choice-in-seed-shipping-find-the-best-solutions-on-zdnet/"><u>Expert Choice in Seed Shipping: Find the Best Solutions on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-the-ultimate-zero-turn-ride-on-mowers-of-2024-zdnet/"><u>Expert Picks for the Ultimate Zero-Turn Ride-On Mowers of 2024 | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-review-of-the-leading-global-seed-distribution-companies/"><u>Expert Review of the Leading Global Seed Distribution Companies</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/futureproof-your-adventures-with-the-ultimate-portable-solar-panels-for-2n3-expert-picks-from-zdnet/"><u>Futureproof Your Adventures with the Ultimate Portable Solar Panels for 2N3 - Expert Picks From ZDNET</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-stream-live-eitb-tv-and-radio-content-on-your-pc-or-mac-device-easy-guide/"><u>How to Stream Live EITB TV & Radio Content on Your PC or Mac Device - Easy Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-11-bohutinych-metod-konverzace-ts-na-mp4-prikladovou-vickovkou-pro-windows-mac-a-online/"><u>Top 11 Bohutiných Metod Konverzace TS Na MP4 Příkladovou Víckovkou Pro Windows, Mac a Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-overcoming-playstation-vita-audio-hiccups-in-the-new-year/"><u>Troubleshooting Steps: Overcoming PlayStation Vita Audio Hiccups in the New Year</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-canoscan-lide-nds-get-the-newest-release/"><u>Update Your CanoScan LiDE ˈɪndɪsプリンタードライバ: Get the Newest Release</u></a></li>
+</ul></div>
+

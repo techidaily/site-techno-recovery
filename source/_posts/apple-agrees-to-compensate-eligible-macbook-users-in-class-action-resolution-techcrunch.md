@@ -1,7 +1,7 @@
 ---
 title: Apple Agrees to Compensate Eligible MacBook Users in Class-Action Resolution | TechCrunch
-date: 2024-10-20T05:06:23.741Z
-updated: 2024-10-25T06:41:00.647Z
+date: 2024-10-29T01:45:54.626Z
+updated: 2024-10-30T23:10:59.275Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,16 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -121,24 +115,24 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-video-quality-from-youtube-to-crisp-avis-format/"><u>[New] In 2024, Elevate Video Quality From YouTube to Crisp Avis Format</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-optimize-your-video-written-by-your-name/"><u>[New] In 2024, Optimize Your Video' Written By [Your Name]</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nside-tips-for-maximizing-your-creator-studio-potential-for-2024/"><u>[New] Inside Tips for Maximizing Your Creator Studio Potential for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-from-novice-to-pro-your-complete-guide-to-instagrams-latest-feature-reels-for-2024/"><u>[Updated] From Novice to Pro – Your Complete Guide to Instagram's Latest Feature, Reels for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/conquer-unwanted-silent-call-intrusions-a-simple-guide-for-iphone-owners/"><u>Conquer Unwanted Silent Call Intrusions: A Simple Guide for iPhone Owners</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-iphone-calls-how-to-address-and-fix-low-ringing-volumes/"><u>Enhancing iPhone Calls: How to Address and Fix Low Ringing Volumes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-our-curated-selection-of-top-notch-costless-iphone-music-programs/"><u>Explore Our Curated Selection of Top-Notch, Costless iPhone Music Programs</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-persona-5-strikers-not-launching-properly-on-windows/"><u>Fixes for Persona 5 Strikers Not Launching Properly on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-6978-driver-solutions-expert-tips-and-tricks/"><u>HP OfficeJet Pro 6978 Driver Solutions: Expert Tips and Tricks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-new-m3-macbook-pro-detailed-review-of-features-pricing-and-launch-date/"><u>Inside the New M3 MacBook Pro: Detailed Review of Features, Pricing, and Launch Date</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/key-points-to-check-prior-to-investing-in-a-secondhand-computer/"><u>Key Points to Check Prior to Investing in a Secondhand Computer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pioneering-your-path-in-youtube-livestreams-on-mobiles/"><u>Pioneering Your Path in YouTube Livestreams on Mobiles</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-msresourceappname-text-glitch-window11-edition/"><u>Resolving 'MsResource:AppName Text' Glitch, Window11 Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-osetupdll-error-a-step-by-step-guide/"><u>Resolving osetup.dll Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-correcting-the-missing-mscorwksdll-error-message/"><u>Solutions for Correcting the Missing mscorwks.dll Error Message</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-guide-eradicating-error-code-0x80004005-from-your-system/"><u>The Ultimate Fix Guide: Eradicating Error Code 0X80004005 From Your System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-strategy-for-locating-photos-via-facebooks-image-search-feature/"><u>The Ultimate Strategy for Locating Photos via Facebook's Image Search Feature</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unable-to-locate-the-webpage-error-404/"><u>Unable to Locate the Webpage: Error 404</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-voice-modification-tools-the-ultimate-guide-for-youtubers/"><u>[Updated] 2024 Approved Voice Modification Tools – The Ultimate Guide for YouTubers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-comparative-review-of-filmmaking-apps-filmora-and-democracy-creator/"><u>[Updated] A Comparative Review of Filmmaking Apps Filmora & Democracy Creator</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-streamlined-approach-simplifying-film-projects-with-movie-maker/"><u>[Updated] A Streamlined Approach Simplifying Film Projects with Movie Maker</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-intuitive-method-setting-up-snapchat-on-a-mac/"><u>[Updated] Intuitive Method Setting up Snapchat on a Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-digital-interruptions-building-personalized-mac-focus-screens-with-macos-monterey/"><u>Avoiding Digital Interruptions: Building Personalized Mac Focus Screens with macOS Monterey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/convert-your-avis-to-impactful-gifs-using-filmora-on-windowsmacos/"><u>Convert Your AVIs to Impactful GIFs Using Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-audio-clarity-ultimate-tips-for-superior-call-experience-on-your-iphone/"><u>Enhancing Audio Clarity: Ultimate Tips for Superior Call Experience on Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-look-the-top-smartphones-preferred-experts-testing-and-review/"><u>Exclusive Look: The Top Smartphones Preferred Experts - Testing and Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-reviews-on-the-most-durable-iphone-se-case-for-2eiwu-2022-in-depth-comparison-with-best-picks/"><u>Expert Reviews on the Most Durable iPhone SE Case for 2Eiwu 2022 | In-Depth Comparison with Best Picks</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-a79-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo A79 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-correcting-missing-d3dx92-dll-files-on-windows-systems/"><u>Guide to Correcting Missing D3dx9_2^ Dll Files on Windows Systems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-finance-frontiers-the-finest-youtube-channels-to-follow/"><u>In 2024, Finance Frontiers The Finest YouTube Channels to Follow</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-xs-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone XS Max Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-spark-10-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Spark 10 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-message-edits-on-instagram-with-easy-steps/"><u>Mastering Message Edits on Instagram with Easy Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ranked-and-reviewed-your-guide-to-the-8-greatest-tv-streaming-services-available-in/"><u>Ranked and Reviewed: Your Guide to the 8 Greatest TV Streaming Services Available In</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reimagining-the-smart-speaker-experience-with-the-4th-gen-amazon-echo-dot/"><u>Reimagining the Smart Speaker Experience with the 4Th Gen Amazon Echo Dot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-restoring-defaults-in-mac-os-network-preferences/"><u>Step-by-Step Guide: Restoring Defaults in Mac OS Network Preferences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essential-walkthrough-on-implementing-the-teleport-functionality-in-minecraft/"><u>The Essential Walkthrough on Implementing the Teleport Functionality in Minecraft</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DIY Quick Response (QR) Codes: Top Strategies & Tools From Experts"
-date: 2024-09-19 23:23:16
-updated: 2024-09-20 12:42:17
+date: 2024-10-28T18:32:44.722Z
+updated: 2024-10-31T03:58:46.115Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +64,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -70,6 +91,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-battle-of-broadcasting-is-obs-or-twitch-studio-superior/"><u>[New] 2024 Approved Battle of Broadcasting Is OBS or Twitch Studio Superior?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-harmonious-hits-free-download-zones-for-skype-tunes-for-2024/"><u>[New] Harmonious Hits Free Download Zones for Skype Tunes for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/aspect-ratio-guide-to-enhanced-facebook-viewing/"><u>Aspect Ratio Guide to Enhanced Facebook Viewing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-location-accuracy-learn-how-to-activate-and-use-live-view-on-google-maps/"><u>Boost Your Location Accuracy: Learn How to Activate and Use Live View on Google Maps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinema-journey-iphone-users-best-choice-for-films-for-2024/"><u>Cinema Journey IPhone Users' Best Choice for Films for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-hot-hits-of-disney-plus-cinema/"><u>Discover the Latest Hot Hits of Disney Plus Cinema</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-1er-free-video-services-as-alternatives-to-netflix/"><u>Explore These 1Er Free Video Services As Alternatives to Netflix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmony-in-sounds-legally-downloaded-meditation-chants-and-more-for-2024/"><u>Harmony in Sounds Legally Downloaded Meditation Chants & More for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-14-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 14 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-busting-vlogger-shakiness-leading-camera-stabilizer-brands/"><u>In 2024, Busting Vlogger Shakiness Leading Camera Stabilizer Brands</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-fixes-for-the-perplexing-stop-error-code-0x0000003d-in-windows/"><u>Mastering Fixes for the Perplexing Stop Error Code 0X0000003D in Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/refine-fluency-in-english-discourse-9-key-tactics/"><u>Refine Fluency in English Discourse – 9 Key Tactics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-se-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone SE Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplified-tech-talk-how-to-sync-any-computer-with-wireless-speaker-systems/"><u>Simplified Tech Talk: How to Sync Any Computer with Wireless Speaker Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tcl-launches-enhanced-q-and-s-series-19-cutting-edge-smart-tvs-added/"><u>TCL Launches Enhanced Q & S Series: 19 Cutting-Edge Smart TVs Added</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-living-space-into-a-theater-how-to-enjoy-3d-movies-on-fandango-at-home-effortlessly/"><u>Transform Your Living Space Into a Theater: How to Enjoy 3D Movies on Fandango at Home Effortlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-your-pc-experience-changing-the-windows-10-taskbar-hue/"><u>Transforming Your PC Experience: Changing the Windows 10 Taskbar Hue</u></a></li>
+</ul></div>
+

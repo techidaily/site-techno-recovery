@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Tech Talk: Discussing Expected Releases & Prices for Google's Pixel 9"
-date: 2024-10-23T04:53:47.315Z
-updated: 2024-10-25T02:11:54.359Z
+date: 2024-10-25T23:10:18.181Z
+updated: 2024-10-31T04:38:14.489Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Tech Talk: Discussing Expected Releases & Prices for Google's Pixel 9"
@@ -31,16 +31,16 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Pixel 9 Price Rumors
 
@@ -59,13 +59,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -76,15 +69,22 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Display
 
@@ -106,6 +106,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
@@ -125,13 +132,6 @@ MySmartPrice
  The Pixel 9 Pro might come with more RAM this year. An unnamed source with access to a purported Pixel 9 Pro (via[Rozetked](https://rozetked.me/news/33143-eksklyuziv-zhivye-foto-google-pixel-9-pro-ot-rozetked) ) claims the phone will have an additional 4 GB of RAM compared to last year's device, shooting it up to 16 GB of total memory.
 
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
 
@@ -156,18 +156,14 @@ MySmartPrice
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[Updated] In 2024, Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-precision-techniques-in-spinning-and-fusing-android-videography/"><u>[Updated] In 2024, Precision Techniques in Spinning & Fusing Android Videography</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-charting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings/"><u>2024 Approved Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/blur-your-workspace-in-google-meets-a-comprehensive-guide/"><u>Blur Your Workspace in Google Meets - A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia ?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mac-audio-setup-101-using-audacity-for-sound-recording/"><u>In 2024, Mac Audio Setup 101 - Using Audacity for Sound Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-non-disclosure-measures-for-video-footage/"><u>In 2024, Non-Disclosure Measures for Video Footage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insights-into-the-playstation-evolution-ps5-slim-announcements-cost-details-and-debut-predictions/"><u>Insights Into the PlayStation Evolution: PS5 Slim Announcements, Cost Details & Debut Predictions</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-smart-8-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Smart 8</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-reasons-behind-restricted-facebook-marketplace-use/"><u>The Reasons Behind Restricted Facebook Marketplace Use</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-4-must-try-freebie-digital-calendars/"><u>The Ultimate List: 4 Must-Try Freebie Digital Calendars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/time-to-transform-gpt-enhanced-wearable-tech-unveiled-in-6-areas/"><u>Time to Transform: GPT-Enhanced Wearable Tech Unveiled in 6 Areas</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/utilizing-advanced-ai-features-from-meta-to-boost-your-instagram-game/"><u>Utilizing Advanced AI Features From Meta to Boost Your Instagram Game</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-principles-of-documentary-storytelling/"><u>[New] Principles of Documentary Storytelling</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-peering-into-the-pinnacle-of-4k-monitoring-with-lgs-ultrafine-display/"><u>[Updated] Peering Into the Pinnacle of 4K Monitoring with LG’s UltraFine Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-use-messenger-without-a-facebook-account/"><u>How to Use Messenger Without a Facebook Account</u></a></li>
+<li><a href="https://tools.techidaily.com/malwarefox/products/"><u>Malwarefox's Products</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-fix-a-comprehensive-approach-to-overcoming-the-500-server-error/"><u>Mastering the Fix: A Comprehensive Approach to Overcoming the 500 Server Error</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1728476305346-outlook/"><u>Outlookの連絡先データを無事にバックアップするための簡単ガイド</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-for-managing-photoshops-full-scratch-disk-error-efficiently/"><u>Strategies for Managing Photoshop's 'Full Scratch Disk' Error Efficiently</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-filmmakers-guide-to-avoiding-overused-channel-labels-for-2024/"><u>The Filmmaker's Guide to Avoiding Overused Channel Labels for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-verified-badge-successfully-on-x-the-transitioned-social-media-site-from-twitter/"><u>Unlocking Verified Badge Successfully on X - The Transitioned Social Media Site From Twitter</u></a></li>
 </ul></div>
 

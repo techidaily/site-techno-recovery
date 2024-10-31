@@ -1,7 +1,7 @@
 ---
 title: Amazon Pharmacy Extends Rapid Medication Delivery Services to Additional U.S. Locations in Record Time
-date: 2024-09-17 23:44:40
-updated: 2024-09-20 10:54:49
+date: 2024-10-27T19:39:12.758Z
+updated: 2024-10-31T01:32:37.126Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +57,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -71,9 +85,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 ## FAQs  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-step-by-step-guide-to-posting-on-instagram/"><u>[New] 2024 Approved A Step-by-Step Guide to Posting on Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insta-rotation-rituals-mastering-angles-that-engage-captivate-and-amaze/"><u>[New] In 2024, Insta Rotation Rituals Mastering Angles that Engage, Captivate, and Amaze</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-fixing-imovie-mp4-import-issues-conversion-guide-to-compatible-video-formats/"><u>1. 'Fixing iMovie MP4 Import Issues: Conversion Guide to Compatible Video Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-crafting-superior-srt-documents/"><u>2024 Approved The Art of Crafting Superior SRT Documents</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unpacked-strategies-for-optimal-viewing-of-live-videos/"><u>2024 Approved Unpacked Strategies for Optimal Viewing of Live Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-test-drive-how-cost-effective-power-station-revolutionized-my-road-trips-insights-from-zdnet/"><u>Affordable Test Drive: How Cost-Effective Power Station Revolutionized My Road Trips - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anker-portable-power-station-and-home-charging-to-ensure-they-are-well-optimized-for-search-engines-they-also-capture-the-attention-of-potential-readers-wit250/"><u>Anker, Portable Power Station, and Home Charging to Ensure They Are Well-Optimized for Search Engines. They Also Capture the Attention of Potential Readers with Descriptive Terms Like Ultra-Powerful and Revolutionizing.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/brilliant-illumination-awaits-discover-the-unmatched-brightness-of-latest-govee-outdoor-lights-zdnet/"><u>Brilliant Illumination Awaits: Discover the Unmatched Brightness of Latest Govee Outdoor Lights | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-bikesuv-shift-gears-from-pedal-power-to-replace-your-daily-commute-car-a-closer-look-at-sustainability-on-the-go-innovative-transit-weekly/"><u>Can 'BikeSUV' Shift Gears From Pedal Power to Replace Your Daily Commute Car? A Closer Look at Sustainability on the Go | Innovative Transit Weekly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-the-sale-click-and-grow-indoor-gardens-at-an-unbelievable-55-discount-on-prime-day-now-sold-out/"><u>Catch the Sale! Click & Grow Indoor Gardens at an Unbelievable 55% Discount on Prime Day - Now Sold Out!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/celebration-on-the-red-planet-a-century-of-singing-machines-honors-mars-exploration/"><u>Celebration on the Red Planet: A Century of Singing Machines Honors Mars Exploration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-opinion-on-iphone-15-the-unparalleled-choice-for-professionals-and-enthusiasts-alike-techreview/"><u>Expert Opinion on iPhone 15: The Unparalleled Choice for Professionals & Enthusiasts Alike | TechReview</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-nord-n30-se-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Nord N30 SE</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-f34-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy F34 5G Through Google Earth?</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/incredible-journeys-you-can-experience-from-your-living-room-exploring-the-globe-virtually/"><u>Incredible Journeys You Can Experience From Your Living Room: Exploring the Globe Virtually</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-videos-best-free-special-effects-apps-for-iphone-and-android/"><u>New Transform Your Videos Best Free Special Effects Apps for iPhone and Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reports-on-john-deeres-latest-commitment-to-support-the-right-to-repair-cause/"><u>ZDNet Reports on John Deere’s Latest Commitment to Support the 'Right to Repair' Cause</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-top-pick-for-nature-photography-enthusiasts-a-smart-bird-feeder-to-get-up-close-shots-of-hummingbirds/"><u>ZDNET's Top Pick for Nature Photography Enthusiasts: A Smart Bird Feeder to Get Up-Close Shots of Hummingbirds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-picks-for-outstanding-lawn-mowers/"><u>ZDNet's Ultimate Picks for Outstanding Lawn Mowers</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Run AI Applications From Your Pocket: How MediaTek's New Tech Transforms Smartphones Into Powerhouses | ZDNet"
-date: 2024-09-17 21:24:59
-updated: 2024-09-20 12:17:37
+date: 2024-10-26T23:24:45.280Z
+updated: 2024-10-31T01:16:32.446Z
 tags:
   - edge-computing
 categories:
@@ -88,11 +88,36 @@ There are a lot of considerations with on-device generative AI, but it's clear t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-access-unlimited-stock-photos-via-four-noteworthy-youtubes/"><u>[New] Access Unlimited Stock Photos via Four Noteworthy YouTubes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-cutting-edge-content-tips-for-excelling-in-facebook-video-sharing/"><u>[Updated] 2024 Approved Cutting-Edge Content Tips for Excelling in Facebook Video Sharing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-top-rated-tech-gadgets-and-software-2023-exclusive-picks-by-zdnet-reviews/"><u>1. Top-Rated Tech Gadgets & Software 2023: Exclusive Picks by ZDNet Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-leading-smart-speakers-in-depth-testing-and-expert-insights-featured-on-zdnet/"><u>2024'S Leading Smart Speakers: In-Depth Testing and Expert Insights Featured on ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digiarty18/"><u>紀念DigiArty第18周年：限定特別企劃展示</u></a></li>
+<li><a href="https://games-able.techidaily.com/constraining-background-checks-by-game-bar-in-windows/"><u>Constraining Background Checks by Game Bar in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-12-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi 12 Quickly | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-randomness-to-realism-procedural-world-building/"><u>From Randomness to Realism: Procedural World Building</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-leveraging-creator-funding-in-youtube-shorts/"><u>In 2024, Leveraging Creator Funding in YouTube Shorts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-update-revolutionizes-smart-home-control-a-game-changer-revealed-by-zdnet/"><u>IOS 18 Update Revolutionizes Smart Home Control - A Game Changer Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-adventure-the-best-6-gopro-mounts-revealed-for-2024/"><u>Mastering Adventure The Best 6 GoPro Mounts Revealed for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-distinctions-a-thorough-look-at-gpt-4-vs-gpt-4-turbo-vs-phi/"><u>Understanding The Distinctions: A Thorough Look at GPT-4 Vs. GPT-4 Turbo Vs. Phi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmatched-audio-experience-discovered-beyond-bose-and-polk-top-speaker-find-revealed-by-zdnet/"><u>Unmatched Audio Experience Discovered Beyond Bose & Polk – Top Speaker Find Revealed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-a-must-have-for-smart-homes-the-incredible-multi-functional-light-projector-revealed/"><u>Unveiling a Must-Have for Smart Homes: The Incredible, Multi-Functional Light Projector Revealed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-premier-pc-sound-systems-of-2024-a-comparison-including-logitech-and-audioengine-models-gizmodo/"><u>Unveiling the Premier PC Sound Systems of 2024: A Comparison Including Logitech and Audioengine Models | Gizmodo</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

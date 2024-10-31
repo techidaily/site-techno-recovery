@@ -1,7 +1,7 @@
 ---
 title: What Does the New iPad Pro's Screen Technology Reveal About Next-Gen Device Displays?
-date: 2024-10-24T00:01:09.755Z
-updated: 2024-10-24T19:10:22.103Z
+date: 2024-10-28T05:17:20.354Z
+updated: 2024-10-31T02:24:46.820Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -51,19 +51,6 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Foldables are getting better (and cheaper)
 
 The Motorola Razr 2023 was the most affordable foldable phone last year, selling for as low as $499.
@@ -79,6 +66,19 @@ Now that the major players have entered the competition, the big question this y
 "Foldable products have a structure that is inevitably expensive compared to general bar types, even in terms of display alone," adds Jene Park, senior analyst at Counterpoint Research.
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
 
@@ -97,10 +97,10 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -122,10 +122,10 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -182,22 +182,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-in-high-speed-recording/"><u>2024 Approved Masterclass in High-Speed Recording</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-s24plus-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy S24+ System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-how-to-link-up-your-printer-for-device-accessibility/"><u>Comprehensive Tutorial: How to Link Up Your Printer For Device Accessibility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connect-and-share-a-comprehensive-guide-to-networking-your-printer-amongst-devices/"><u>Connect and Share: A Comprehensive Guide to Networking Your Printer Amongst Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-sound-experience-the-process-of-matching-a-subwoofer-with-your-samsung-soundbar/"><u>Enhance Your Sound Experience: The Process of Matching a Subwoofer with Your Samsung Soundbar</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-nokia-c02-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Nokia C02 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-capture-the-essence-extracting-youtube-audio-directly/"><u>In 2024, Capture the Essence Extracting YouTube Audio Directly</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-for-the-curious-young-and-novice-pilot-the-10-best-drones/"><u>In 2024, For the Curious Young and Novice Pilot - The 10 Best Drones</u></a></li>
-<li><a href="https://windows11.techidaily.com/leverage-full-power-of-windows-11-today/"><u>Leverage Full Power of Windows 11 Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-microsoft-teams-with-ai-the-ultimate-guide-to-using-copilot/"><u>Mastering Microsoft Teams with AI: The Ultimate Guide to Using Copilot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-solving-error-code-0x80004005-problems/"><u>Mastering the Art of Solving Error Code 0X80004005 Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-elite-network-servers-racks-for-2n4/"><u>Ultimate Selection: Elite Network Servers Racks for 2N4</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unfreeze-and-revive-your-macbook-air-in-minutes-with-these-tips/"><u>Unfreeze & Revive Your MacBook Air in Minutes with These Tips</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-guide-to-quieting-down-films-and-videos/"><u>Updated The Ultimate Guide to Quieting Down Films and Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-exactly-is-a-dac-and-should-you-consider-investing-in-one/"><u>What Exactly Is a DAC and Should You Consider Investing in One?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1726223891408-mp3wmv-movavi/"><u>가장 좋은 영어 MP3/WMV 이동 전자화 - 무료 Movavi 결정</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cinematic-capture-a-device-friendly-movie-guidebook/"><u>[New] 2024 Approved Cinematic Capture A Device-Friendly Movie Guidebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simplified-window-capturing-software/"><u>[New] 2024 Approved Simplified Window Capturing Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-efficient-fortnite-imagery-design-quickly/"><u>[Updated] 2024 Approved Efficient Fortnite Imagery Design Quickly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-flipping-fun-facts-into-memes-with-kinemaster/"><u>[Updated] 2024 Approved Flipping Fun Facts Into Memes with KineMaster</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamline-your-smartphone-screen-activatedeactivate-pip-for-youtube-for-2024/"><u>[Updated] Streamline Your Smartphone Screen Activate/Deactivate PIP for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-enthralling-epics-essential-channel-building-tactics/"><u>2024 Approved Enthralling Epics Essential Channel-Building Tactics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-thorough-exploration-of-kinesthetic-controls/"><u>A Thorough Exploration of Kinesthetic Controls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airtag-accessory-showdown-of-the-year-2024-thoroughly-tested-and-analyzed-zdnet/"><u>AirTag Accessory Showdown of the Year 2024: Thoroughly Tested & Analyzed | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-see-public-instagram-posts-without-logging-in/"><u>Discover How to See Public Instagram Posts Without Logging In</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-no-sound-problems-in-stereo-systems-a-comprehensive-guide/"><u>Fixing No-Sound Problems in Stereo Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-x-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone X to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-12-now-features-enhanced-qi-wireless-charging-without-relying-on-magsafe-what-you-need-to-know-techspot/"><u>IPhone 12 Now Features Enhanced Qi Wireless Charging Without Relying on MagSafe: What You Need to Know | TechSpot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-cross-platform-chat-learn-to-use-imessage-for-windows-insights-by-zdnet-experts/"><u>Mastering Cross-Platform Chat: Learn to Use iMessage for Windows - Insights by ZDNet Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-watch-7-what-you-need-to-know-about-price-availability-and-technical-specifications/"><u>Samsung Galaxy Watch #7: What You Need to Know About Price, Availability, and Technical Specifications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sci-fi-action-gaming-experience-in-the-outer-worlds-an-engaging-narrative-adventure/"><u>Sci-Fi Action Gaming Experience in 'The Outer Worlds': An Engaging Narrative Adventure</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-restarting-and-repairing-your-zoom-camera-malfunction/"><u>Step-by-Step Solution: Restarting and Repairing Your Zoom Camera Malfunction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-i-prefer-my-apple-watch-series-7-over-the-upcoming-series-10-insights-from-tech-guru/"><u>Why I Prefer My Apple Watch Series 7 Over the Upcoming Series 10 - Insights From Tech Guru</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can You Believe It? Southwest Airlines Urges Customers to Embrace the Hilarious New Initiative - ZDNet
-date: 2024-09-19 13:43:10
-updated: 2024-09-20 12:47:25
+date: 2024-10-30T04:05:36.220Z
+updated: 2024-10-31T05:17:25.361Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -68,6 +89,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-fraps-vs-competitors-screen-recorder-showdown-for-2024/"><u>[New] Fraps vs Competitors Screen Recorder Showdown for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rapid-windows-review-a-step-by-step-approach/"><u>2024 Approved Rapid Windows Review A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-swiftly-adjust-youtube-videos-to-mac-screen-ratios/"><u>2024 Approved Swiftly Adjust YouTube Videos to Mac Screen Ratios</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-online-stock-market-channels-reviewed/"><u>Best Online Stock Market Channels Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compact-pocket-sized-bluetooth-speaker-with-rich-bass-output-an-in-depth-review/"><u>Compact Pocket-Sized Bluetooth Speaker with Rich Bass Output - An In-Depth Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-change-your-gmail-password-step-by-step-instructions-for-enhanced-safety/"><u>Effortlessly Change Your Gmail Password - Step-by-Step Instructions for Enhanced Safety</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/era-300-sonos-smart-speaker-evaluation-near-perfection-marred-by-significant-flaw-insights-from-zdnet/"><u>Era 300 Sonos Smart Speaker Evaluation: Near-Perfection Marred by Significant Flaw - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-roundup-the-ultimate-2024-smart-speakers-ranking-in-depth-evaluations-zdnet/"><u>Exclusive Roundup: The Ultimate 2024 Smart Speakers Ranking - In-Depth Evaluations | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-high-quality-audio-with-the-tribit-xsound-megablast-enhanced-bluetooth-speaker-delivering-30w-power-and-impressive-sound-reach/"><u>Experience High-Quality Audio with the Tribit XSound Megablast: Enhanced Bluetooth Speaker Delivering 30W Power & Impressive Sound Reach</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-c110-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia C110</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-titans-of-social-interaction-facebook-twitter-instagram-and-youtube/"><u>Navigating the Titans of Social Interaction – Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-sonic-filmmaking-embellishing-video-narratives-through-filmoras-music-features/"><u>New In 2024, Sonic Filmmaking Embellishing Video Narratives Through Filmoras Music Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-soundscape-mac-studios-explained/"><u>The Soundscape Mac Studios Explained</u></a></li>
+</ul></div>
+

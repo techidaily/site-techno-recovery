@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection: The Most Durable iPhone 12/12 Pro Cases of 2023, Featured on ZDNET"
-date: 2024-10-22T19:47:35.615Z
-updated: 2024-10-25T07:03:20.463Z
+date: 2024-10-29T23:43:02.443Z
+updated: 2024-10-30T16:59:25.722Z
 tags:
   - apple
 categories:
@@ -68,13 +68,6 @@ Cons
 * Kickstand durability
 * Not many color options
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Torras 360-degree OStand
 
 ### Best kickstand iPhone 16 case
@@ -100,6 +93,13 @@ Pros
 Cons 
 * Minimal drop protection
 * Heftier price
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pitaka Ultra Slim case
 
@@ -127,14 +127,14 @@ Pros
 Cons 
 * Low drop protection
 
-## Smartish Gripmunk case
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Smartish Gripmunk case
 
 ### Best cheap iPhone 16 case
 
@@ -187,6 +187,13 @@ Cons
 * Pricier
 * No camera protection
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Incase Icon
 
 ### Best stylish iPhone 16 case
@@ -216,26 +223,13 @@ Cons
 * Pricey for low protection
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Moft Snap Case Movas
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best vegan-leather iPhone 16 case
 
@@ -263,14 +257,20 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
-## Nomad Modern Leather Case
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Nomad Modern Leather Case
 
 ### Best leather case for iPhone 16
 
@@ -308,6 +308,13 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -317,16 +324,16 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Cost:** iPhones are expensive, and spending a lot on a phone case just adds to the bill. Therefore, we consider price an important factor in our selections.
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations  experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
@@ -335,10 +342,10 @@ On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the mo
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best phone case brand?
@@ -356,13 +363,6 @@ The iPhone 16 is available for preorder now, and will arrive in stores on Septem
 ## What is the best phone case to avoid overheating?
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best iPhone for a 16 year old?
 
@@ -414,19 +414,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/aol-mail-troubleshooting-guide-distinguishing-between-global-outages-and-local-errors/"><u>AOL Mail Troubleshooting Guide: Distinguishing Between Global Outages and Local Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/behind-the-scenes-of-chatgpt-identifying-its-true-creators-and-owners/"><u>Behind the Scenes of ChatGPT: Identifying Its True Creators and Owners</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-nvidia-rtx-graphics-processing-units-gpus-what-you-need-to-know/"><u>Demystifying Nvidia RTX Graphics Processing Units (GPUs): What You Need to Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-wmvcoredll-not-found-or-missing-errors/"><u>How to Fix Wmvcore.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722897685109-how-to-resolve-msodll-file-not-detected-issues-on-your-pc/"><u>How to Resolve 'mso.dll' File Not Detected Issues on Your PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-boost-your-video-impact-quickly-learn-effective-techniques-for-fb-subtitle-creation/"><u>In 2024, Boost Your Video Impact Quickly - Learn Effective Techniques for FB Subtitle Creation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-changing-photo-colors-with-ease/"><u>In 2024, Changing Photo Colors with Ease</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-tecno-spark-go-2024-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Spark Go (2024) Device</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/quick-guide-to-sharing-your-favorite-gifs-on-instagram-for-2024/"><u>Quick Guide to Sharing Your Favorite GIFs on Instagram for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-factors-to-evaluate-when-shopping-for-new-stereo-speakers/"><u>Top 5 Factors To Evaluate When Shopping For New Stereo Speakers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-speeches-learn-no-cost-audio-effect-techniques-here-for-2024/"><u>Transforming Speeches Learn No-Cost Audio Effect Techniques Here for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/udience-wave-top-hash-tags-to-swell-youtube-views/"><u>[New] Audience Wave Top Hash Tags to Swell Youtube Views</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-assessing-the-dominance-of-splitcam-recording/"><u>[New] In 2024, Assessing the Dominance of SplitCam Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-diverse-designs-at-your-fingertips-from-these-6-websites/"><u>[New] In 2024, Diverse Designs at Your Fingertips From These 6 Websites</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebooks-most-noteworthy-tweaks-for-todays-users/"><u>[Updated] 2024 Approved Facebook's Most Noteworthy Tweaks for Today’s Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-and-fixing-closed-caption-failures-in-windows-11/"><u>Avoiding and Fixing Closed Caption Failures in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-nubia-red-magic-9-proplus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nubia Red Magic 9 Pro+ Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cathodic-protection-uses-a-sacrificial-anode-to-protect-the-primary-metal-structure-from-corrosive-attacks/"><u>Cathodic Protection Uses a Sacrificial Anode to Protect the Primary Metal Structure From Corrosive Attacks.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-walkthrough-on-setting-up-your-apple-watch-advice-by-zdnet-experts/"><u>Complete Walkthrough on Setting Up Your Apple Watch – Advice by ZDNet Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-fortnites-challenge-fixing-the-unable-to-connect-to-party-error-code-84/"><u>Conquer Fortnite's Challenge: Fixing the Unable to Connect to Party Error Code 84</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-for-setting-up-your-new-ipad-a-comprehensive-guide/"><u>Essential Steps for Setting Up Your New iPad: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-updates-to-ios-18-bring-crucial-messaging-enhancement-for-life-saving-alerts-beyond-artificial-intelligence/"><u>IPhone Updates to iOS 18 Bring Crucial Messaging Enhancement for Life-Saving Alerts – Beyond Artificial Intelligence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-apple-musics-educational-offers-a-comprehensive-tutorial-on-snagging-a-budget-friendly-subscription-for-students/"><u>Navigating Apple Music's Educational Offers: A Comprehensive Tutorial on Snagging a Budget-Friendly Subscription for Students</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reattaching-a-lost-keys-from-your-laptops-keyboard/"><u>Reattaching a Lost Keys From Your Laptop's Keyboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sim-card-access-using-alternatives-to-the-standard-ejector-pin/"><u>SIM Card Access: Using Alternatives to the Standard Ejector Pin</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-aa-personalitynationalitycounty-lgbtqv-25-for-yout-database-thatdeeds-30-mildly-happy-to-find-the-gender/"><u>The A/A Personality_nationalityCounty LGBTQv 25% for Yout Database That'deed''s] ==#30 Mildly Happy-To Find the Gender</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-great-expectations-vs-reality-of-apples-latest-ai-showcase-what-advances-were-overlooked-digitalfrontiers/"><u>The Great Expectations Vs. Reality of Apple's Latest AI Showcase - What Advances Were Overlooked? | DigitalFrontiers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-pro-protectors-comprehensive-gear-guide-by-tech-experts/"><u>Top-Rated iPad Pro Protectors - Comprehensive Gear Guide by Tech Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ate-guide-to-youtube-app-on-iphones-and-androids-for-2024/"><u>Ultimate Guide to YouTube App on iPhones and Androids for 2024</u></a></li>
 </ul></div>
 

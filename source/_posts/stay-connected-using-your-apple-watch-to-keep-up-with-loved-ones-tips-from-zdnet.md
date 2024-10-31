@@ -1,7 +1,7 @@
 ---
 title: "Stay Connected: Using Your Apple Watch to Keep Up with Loved Ones - Tips From ZDNET"
-date: 2024-10-18T07:06:18.175Z
-updated: 2024-10-24T21:34:31.330Z
+date: 2024-10-26T16:39:43.578Z
+updated: 2024-10-30T19:27:04.326Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -47,18 +40,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -83,10 +76,10 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -98,6 +91,13 @@ If you don't want to share the default details with a Check In, you can easily c
 If you still wish to use a timer for the Check In option but change the amount of time allocated, tap Timer. Tap the button for hours and use the Digital Crown to cycle through different numbers. Do the same for the number of minutes. When finished, tap Done. Tap the yellow checkmark and then send the text. When you end the Check In at the appropriate time, your recipient will be alerted as an indication that you've arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
 
@@ -120,10 +120,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -162,20 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-youtube-short-content-techniques-unveiled/"><u>[Updated] Essential YouTube Short Content Techniques Unveiled</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2022s-golden-age-for-ice-dancing-showcases/"><u>2022'S Golden Age for Ice Dancing Showcases</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/customize-your-inbox-with-ease-the-definitive-guide-to-creating-gmail-filters/"><u>Customize Your Inbox with Ease: The Definitive Guide to Creating Gmail Filters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fix-the-missing-rockalldlldll-file-strategies-and-tips/"><u>Fix the Missing Rockalldll.dll File: Strategies and Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-logitech-c615-drivers-a-simple-step-by-step-guide/"><u>Fixing Logitech C615 Drivers: A Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-s23-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy S23 Phone | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-pin-a-chat-in-instagram/"><u>How to Pin a Chat in Instagram</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-your-e-reader-setting-the-correct-time-on-a-kindle-paperwhite/"><u>Mastering Your E-Reader: Setting the Correct Time on a Kindle Paperwhite</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximizing-youtube-earnings-master-the-art-with-500-subscribers-for-2024/"><u>Maximizing YouTube Earnings Master the Art with 500 Subscribers for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/national-pesticide-information-center-2016-glyphosate-retrieved-from-(httpsnpicorsteduhazardspestfactsgpshtml)/"><u>National Pesticide Information Center (2016). Glyphosate. Retrieved From <https://npic.orst.edu/hazards/pestfacts/gps.html></u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/radio-broadcast-of-epic-mens-ncaa-hoops-from-march-madness-to-the-final-four/"><u>Radio Broadcast of Epic Men's NCAA Hoops: From March Madness to The Final Four!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/regain-entry-to-facebook-even-if-email-and-phone-are-not-available-for-verification/"><u>Regain Entry to Facebook Even If Email and Phone Are Not Available for Verification</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722874973773-resolve-your-issues-with-missing-python24dll-error-messages-here/"><u>Resolve Your Issues with Missing Python24.dll Error Messages Here!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-communication-tips-for-apple-mail-creating-a-safelist-in-macos/"><u>Secure Communication Tips for Apple Mail: Creating a Safelist in macOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-picks-free-download-sites-for-custom-skype-tones/"><u>[Updated] 2024 Approved Top Picks Free Download Sites for Custom Skype Tones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-talk-the-walk-engaging-others-on-discord-desktopmobile/"><u>[Updated] In 2024, Talk the Walk Engaging Others on Discord Desktop/Mobile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-family-movie-selections-for-amazon-prime-viewers-in-july-2024/"><u>Best Family Movie Selections for Amazon Prime Viewers in July 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/directive-bavarder-setup-path-linux-edition/"><u>Directive Bavarder Setup Path, Linux Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-solutions-correcting-the-machine-check-exception-whea-on-your-computer/"><u>DIY Solutions: Correcting the Machine Check Exception (WHEA) on Your Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-mfp-m428fdw-software-for-pc-windows-11107-supported-versions/"><u>Download HP LaserJet Pro MFP M428fdw Software for PC - Windows 11/10/7 Supported Versions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/electric-vehicle-investment-checklist-9-vital-queries-to-ask-pre-purchase/"><u>Electric Vehicle Investment Checklist: 9 Vital Queries to Ask Pre-Purchase</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-collaboration-in-microsoft-teams-using-githubs-innovative-code-suggestion-tool/"><u>Enhancing Collaboration in Microsoft Teams Using GitHub's Innovative Code Suggestion Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-icloud-management-efficiently-organize-and-secure-your-digital-life-with-apples-cloud-service/"><u>Mastering iCloud Management: Efficiently Organize and Secure Your Digital Life with Apple's Cloud Service</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-microsoft-office-ultimate-tips-and-tricks-for-productivity-gains/"><u>Mastering Microsoft Office: Ultimate Tips and Tricks for Productivity Gains</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-microsoft-teams-with-ai-powered-copilot-the-ultimate-guide/"><u>Mastering Microsoft Teams with AI-Powered Copilot: The Ultimate Guide</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-12-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 12 Pro | Stellar</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-evolution-of-my-speaking-skills-through-mondly-the-top-10-key-factors/"><u>The Evolution of My Speaking Skills Through Mondly: The Top 10 Key Factors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-essential-mobile-apps-for-diy-home-painters/"><u>Top 4 Essential Mobile Apps for DIY Home Painters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-merging-jpeg-images-into-a-single-pdf-file/"><u>Ultimate Guide: Merging JPEG Images Into a Single PDF File</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tricks-and-tweaks-to-boost-your-apple-tvs-capabilities/"><u>Ultimate Tricks and Tweaks to Boost Your Apple TV's Capabilities</u></a></li>
 </ul></div>
 

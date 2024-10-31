@@ -1,7 +1,7 @@
 ---
 title: Amazon Teams Up with Snapchat to Offer Innovative AR Shopping Experience for Glasses & Sunglasses – Insights by ZDNET
-date: 2024-09-18 20:17:38
-updated: 2024-09-20 10:27:26
+date: 2024-10-23T17:09:04.900Z
+updated: 2024-10-31T01:35:06.604Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,7 +50,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -79,6 +100,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I have to cancel my current account to get Prime Student? 
 
 No, you do not have to cancel or deactivate your account. Just [use this link](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1)to transfer your account. Your current benefits, however, may change. For example, if you currently have a 20% discount on home appliances, that may be revoked in place of the other perks. 
@@ -104,11 +132,24 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-action-camera-accessories-buying-guide-for-2024/"><u>[New] Action Camera Accessories Buying Guide for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-exclusive-endorsements-premier-portals-for-procuring-snapalert-rhythms/"><u>[Updated] 2024 Approved Exclusive Endorsements Premier Portals for Procuring SnapAlert Rhythms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-10-web-based-subtitle-editor-tools/"><u>[Updated] 2024 Approved Top 10 Web-Based Subtitle Editor Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-speed-focused-chroma-keying-101/"><u>[Updated] Speed-Focused Chroma Keying 101</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-a15-4g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-art-of-red-eyed-pictures-effortless-techniques-using-movavi/"><u>Mastering the Art of Red-Eyed Pictures: Effortless Techniques Using Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-your-ultimate-corporate-roadmap-insights-for-modern-businesses-zdnet/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: Your Ultimate Corporate Roadmap - Insights for Modern Businesses | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-on-tech-with-a-bundle-deal-iphone-ipad-apple-watch-airpods-and-mac-at-the-cost-of-just-one-vision-pro-discover-now/"><u>Save Big on Tech with a Bundle Deal: IPhone, iPad, Apple Watch, AirPods & Mac at the Cost of Just One Vision Pro - Discover Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shocking-trend-virtual-reality-takes-over-as-more-consumers-buy-headsets-than-airpods-on-black-friday-the-surprising-insights-from-zdnet/"><u>Shocking Trend: Virtual Reality Takes Over as More Consumers Buy Headsets than AirPods on Black Friday - The Surprising Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sudden-breakdown-of-eye-care-software-dont-panic-expert-guide-for-resolution-as-explained-by-zdnet/"><u>Sudden Breakdown of Eye Care Software? Don't Panic! Expert Guide for Resolution as Explained by ZDNet</u></a></li>
+</ul></div>
+

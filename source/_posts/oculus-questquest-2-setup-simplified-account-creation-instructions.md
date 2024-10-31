@@ -1,7 +1,7 @@
 ---
 title: "Oculus Quest/Quest 2 Setup Simplified: Account Creation Instructions"
-date: 2024-10-17T20:43:32.640Z
-updated: 2024-10-25T01:24:07.975Z
+date: 2024-10-23T20:56:44.282Z
+updated: 2024-10-30T23:17:54.193Z
 categories:
   - BestProducts
 description: "This Article Describes Oculus Quest/Quest 2 Setup Simplified: Account Creation Instructions"
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 
  This article covers how to upload a new avatar on[Discord](https://www.lifewire.com/discord-4174046) using the desktop app, browser, and mobile apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Update Your Discord Avatar
 
  The process for adding or updating your profile picture is the same in a browser and the app. You can also remove the image; Discord doesn't require one.
@@ -41,23 +34,46 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/CtVsFOH3NrM_Osbk4QgSVA-zC_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage1-be91f7e650f246a5b059b8808831e078.jpg)
 3. Select the three-dotted menu to the right of where the image goes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Change Avatar** .  
  To delete your avatar, select**Delete Avatar** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/_ubg4ot8XIxsdRiJKl8yi2czZzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage3-ff81b24cf09447b1a89298c27ef9af4a.jpg)
 5. Choose an image.  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/7p7WSfd6m8IiCjx-Vn3CrNBi5wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage4-a6205545762a49769b025839f0882ec9.jpg)
 6. You can resize or center the image as you see fit.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Apply** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zPQvP51LFBMX5W5ivjpzObfupIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg)
 8. Click**Save Changes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zSsiau7LE9NhHuZBkN1EWnu9i48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage7-b6dbbf06f586439d9dcb7d360501836b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Update Your Discord Image on Mobile
 
@@ -70,23 +86,9 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/LRJUnTntO_h20_BNbgEV-ueDPQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile1-3-f0ef1c7128364173b3d659461cd7b74c.jpg)
 5. If this is the first time you've uploaded a profile picture, Discord will ask you for two permissions: to access your camera and your photos and videos. Tap**Allow** or**While using the app** on at least one of these options to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select an image app.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/86Z7ytxgb26C9ZIg9qv92lbXy90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile4-6-e7f871a42b974f36a95af316c6f8d0c3.jpg)
 7. Choose an image and tap**Upload** . You can crop and zoom if you need to, but you have to do it before selecting the**Upload** button (there's a**Crop** button that shows up after you choose the image).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click the checkmark at the top right when you're satisfied if you cropped your image, then press**Save** to save the changes.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/VI2elSd14X27hKFsCroqVin3bEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile7-9-0291015a37e24a9b916667e373b615e4.jpg)
@@ -131,24 +133,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-discover-the-best-5-devices-to-stream-and-record-sessions/"><u>[New] 2024 Approved Discover the Best 5 Devices to Stream & Record Sessions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nmatched-smartphone-camera-apps-on-ios-and-android-devices/"><u>[New] Unmatched Smartphone Camera Apps on iOS & Android Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-peaceful-playtimes-best-idle-gaming-choices/"><u>2024 Approved Peaceful Playtimes Best Idle Gaming Choices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-ultimate-tutorial-for-downloading-wm6/"><u>2024 Approved Ultimate Tutorial for Downloading WM6</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/campus-to-channel-how-students-can-enjoy-reduced-rates-on-youtube-premium-services/"><u>Campus to Channel: How Students Can Enjoy Reduced Rates on YouTube Premium Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enjoying-roku-shows-and-movies-without-an-actual-roku-player/"><u>Enjoying Roku Shows and Movies without an Actual Roku Player</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722886300183-fetal-development-includes-embryonic-and-fetal-stages-leading-up-to-full-term-maturation-for-survival-outside-the-womb/"><u>Fetal Development Includes Embryonic and Fetal Stages Leading up to Full-Term Maturation for Survival Outside the Womb</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/finding-the-right-frequency-a-comprehensive-guide-on-identifying-your-vehicles-car-radio-password/"><u>Finding the Right Frequency: A Comprehensive Guide on Identifying Your Vehicle's Car Radio Password</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-recover-or-replace-openal-32dll-if-it-goes-missing-on-your-pc/"><u>How To Recover or Replace OpenAL 32.dll If It Goes Missing On Your PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-canon-mx340-printer-drivers-on-windows-10-8-or-windows-7-systems/"><u>How to Update Your Canon MX340 Printer Drivers on Windows 10, 8 or Windows 7 Systems</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s24-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S24 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/instale-windows-11-sin-problemas-conoce-estas-tres-tecnicas-de-limpieza-del-disco-duro/"><u>Instale Windows 11 Sin Problemas: Conoce Estas Tres Técnicas De Limpieza Del Disco Duro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macos-network-troubleshooting-a-comprehensive-reset-tutorial/"><u>MacOS Network Troubleshooting: A Comprehensive Reset Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pixel-buds-pro-2-rumored-launch-info-estimated-costs-preview-of-specs-and-release-date-scoop/"><u>Pixel Buds Pro 2 Rumored Launch Info - Estimated Costs, Preview of Specs and Release Date Scoop!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/qled-vs-oled-tv-technology-explained-unveiling-key-distinctions/"><u>QLED Vs. OLED TV Technology Explained: Unveiling Key Distinctions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reclaiming-control-of-your-device-fixing-forgotten-passcodes-on-an-ipad/"><u>Reclaiming Control of Your Device: Fixing Forgotten Passcodes on an iPad</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-troubleshooting-steps-for-cygwin1dll-not-found-mistake/"><u>The Ultimate Troubleshooting Steps for Cygwin1.dll Not Found Mistake</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-30-best-slow-mo-camera-apps-for-smartphones-iosandroid/"><u>Top 30 Best Slow Mo Camera Apps for Smartphones iOS/Android</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cual-es-el-problema-de-duplicar-un-dvd-a-hdd-sin-extraerlo-primero/"><u>¿Cuál Es El Problema De Duplicar Un DVD a HDD Sin Extraerlo Primero?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-cultivate-classics-essential-farming-game-lists/"><u>[New] In 2024, Cultivate Classics Essential Farming Game Lists</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/final-flair-free-and-paid-templates-to-express-thanks-for-2024/"><u>Final Flair Free & Paid Templates to Express Thanks for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ready-for-the-next-big-thing-in-tech-ios-18-launch-info-zero-price-tag-and-feature-roundup/"><u>Get Ready for the Next Big Thing in Tech: IOS 18 Launch Info, Zero Price Tag & Feature Roundup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-x9a-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor X9a Without PUK Codes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-huawei-nova-y91-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Huawei Nova Y91 Device</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/netflix-subtitle-translation-methods-comprehensive-guide/"><u>Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sequential-screening-of-how-to-train-your-dragon-movies-the-perfect-order-for-fans/"><u>Sequential Screening of How to Train Your Dragon Movies – The Perfect Order for Fans!</u></a></li>
+<li><a href="https://article-files.techidaily.com/streamline-photos-via-iphone-size-adjustment/"><u>Streamline Photos via iPhone Size Adjustment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-when-gsdll32dll-error-occurs-a-comprehensive-guide/"><u>The Ultimate Fix for When gsdll32.dll Error Occurs: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-nvidia-hd-audio-issues-restoring-your-devices-sound/"><u>Troubleshooting Steps for NVIDIA HD Audio Issues: Restoring Your Device's Sound</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722896104500-unlock-seamless-travel-with-our-favorite-iphone-navigation-apps-top-5-picks/"><u>Unlock Seamless Travel with Our Favorite iPhone Navigation Apps - Top 5 Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-know-about-the-regular-it-maintenance-event-patch-tuesday/"><u>What to Know About the Regular IT Maintenance Event, Patch Tuesday</u></a></li>
 </ul></div>
 

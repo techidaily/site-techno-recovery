@@ -1,7 +1,7 @@
 ---
 title: Google Wallet Enhances Wear OS Experience by Integrating Starbucks, CVS Loyalty Programs and More | ZDNET News Update
-date: 2024-09-19 18:24:29
-updated: 2024-09-20 11:48:20
+date: 2024-10-30T02:39:57.293Z
+updated: 2024-10-30T20:04:35.767Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -44,6 +51,19 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -69,11 +89,25 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-nexus-1000plus-game-sessions/"><u>[New] 2024 Approved Gamers' Nexus 1,000+ Game Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-bugfix-top-solutions-for-game-stability/"><u>Alan Wake 2 Bugfix: Top Solutions for Game Stability</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-the-ultimate-apple-vision-demo-improved-features-and-easy-booking-guide-tech-insights/"><u>Experience the Ultimate Apple Vision Demo: Improved Features & Easy Booking Guide | Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-a-hidden-gem-in-vrar-entertainment-affordable-and-functional-xr-hub-reviewed-by-zdnet/"><u>Explore a Hidden Gem in VR/AR Entertainment: Affordable and Functional XR Hub Reviewed by ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlined-social-integration-linktree-and-tiktok-profiles-united/"><u>In 2024, Streamlined Social Integration Linktree and TikTok Profiles United</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-official-geforce-rtx-3070-ti-drivers-on-windows-latest-version-for-win-10-8-and-7/"><u>Install Official GeForce RTX 3070 Ti Drivers on Windows - Latest Version for Win 10, 8 & 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-tech-innovations-ai-chatbot-applications-and-augmented-reality-dominate-this-weeks-headlines-insights-from-zdnet/"><u>Leading Tech Innovations: AI, Chatbot Applications & Augmented Reality Dominate This Week's Headlines - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-quest-3-analysis-by-experts-why-its-the-preferred-vr-device-on-the-market-zdnet-insights/"><u>Meta Quest 3 Analysis by Experts: Why It's the Preferred VR Device on the Market | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-quest-series-enhances-with-spatial-video-playback-as-tech-community-awaits-the-vision-pro-exclusive-details-on-zdnet/"><u>Meta Quest Series Enhances with Spatial Video Playback as Tech Community Awaits the Vision Pro - Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/my-apple-vision-pro-odyssey-with-a-cherished-tv-show-marvelous-bizarre-yet-draining-tales-tech-review/"><u>My Apple Vision Pro Odyssey with a Cherished TV Show: Marvelous, Bizarre, Yet Draining Tales | Tech Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-silent-phone-uncover-7-fixes-for-non-appearing-iphone-notifications/"><u>No More Silent Phone: Uncover 7 Fixes for Non-Appearing iPhone Notifications</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-step-by-step-guide-for-youtube-audio-in-imovie/"><u>Quick Step-by-Step Guide for YouTube Audio in iMovie</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-the-workplace-how-xr-and-advanced-computing-elevate-user-experience-expert-guide-from-zdnet/"><u>Revolutionizing the Workplace: How XR and Advanced Computing Elevate User Experience | Expert Guide From ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-artificial-intelligence-chrome-tools-that-supercharge-productivity/"><u>Top 8 Artificial Intelligence Chrome Tools That Supercharge Productivity</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-trending-images-tales-behind-the-graphics-for-2024/"><u>Top Trending Images Tales Behind the Graphics for 2024</u></a></li>
+</ul></div>
+

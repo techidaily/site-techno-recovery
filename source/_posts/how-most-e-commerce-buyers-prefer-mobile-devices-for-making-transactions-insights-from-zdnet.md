@@ -1,7 +1,7 @@
 ---
 title: "How Most E-Commerce Buyers Prefer Mobile Devices for Making Transactions: Insights From ZDNet"
-date: 2024-09-17 20:34:43
-updated: 2024-09-20 11:15:53
+date: 2024-10-26T18:46:32.684Z
+updated: 2024-10-30T18:05:50.532Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -51,11 +58,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -64,6 +91,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-scratch-to-screen-video-editing-with-youtube-and-others/"><u>[New] 2024 Approved From Scratch to Screen Video Editing with YouTube & Others</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-seeing-the-unseen-tracking-instagram-viewers-meticulously/"><u>[New] In 2024, Seeing the Unseen Tracking Instagram Viewers Meticulously</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-web-speed-contrast-in-your-tech-world/"><u>Addressing the Web Speed Contrast in Your Tech World</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/die-top-5-gratiskunstliche-intelligenzprogramme-fur-die-fotorestauration-ein-umfassender-vergleich/"><u>Die Top-5 Gratiskünstliche Intelligenzprogramme Für Die Fotorestauration: Ein Umfassender Vergleich</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-the-leading-uk-vpn-providers-of-2022-expert-reviews-and-comparisons-zdnet/"><u>Discovering the Leading UK VPN Providers of 2022: Expert Reviews & Comparisons (ZDNET)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-configuring-and-activating-iphone-vpn-services-a-step-by-step-tutorial/"><u>Easy Guide: Configuring & Activating iPhone VPN Services - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-setting-up-your-vpn-connection-on-windows-10-guided-tutorial/"><u>Easy Steps: Setting Up Your VPN Connection on Windows 10 - Guided Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-setting-up-opera-vpn-workarounds-to-unlock-restricted-websites-a-comprehensive-guide/"><u>Effective Strategies for Setting Up Opera VPN Workarounds to Unlock Restricted Websites: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elige-las-cartuchos-de-almacenamiento-perfecto-para-tu-gopro-comparacion-y-ranking-top/"><u>Elige Las Cartuchos De Almacenamiento Perfecto Para Tu GoPro: Comparación Y Ranking TOP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elite-selection-of-android-virtual-private-networks-comprehensive-analysis-and-ratings-zdnet/"><u>Elite Selection of Android Virtual Private Networks : Comprehensive Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-ipvanish-comprehensive-zdnet-analysis-reveals-extensive-feature-set/"><u>Exploring IPVanish: Comprehensive ZDNet Analysis Reveals Extensive Feature Set</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-your-ideal-vpn-bargain-current-hot-pick-at-zdnet/"><u>Find Your Ideal VPN Bargain: Current Hot Pick at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-a-secure-connection-with-expertly-reviewed-chrome-vpn-plugins-unveiling-the-best-picks-for-your-privacy-pcmag/"><u>Get a Secure Connection with Expertly Reviewed Chrome VPN Plugins - Unveiling the Best Picks for Your Privacy | PCMag</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-cutting-edge-screen-time-youtubes-top-movies-list/"><u>In 2024, Cutting Edge Screen Time YouTube's Top Movies List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-battle-of-flagships-iphone-15-pro-max-vs-samsung-s24-ultra-analysis/"><u>The Battle of Flagships: IPhone 15 Pro Max Vs. Samsung S24 Ultra Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unseen-perspectives-reversing-iphone-videos/"><u>Unseen Perspectives Reversing iPhone Videos</u></a></li>
+</ul></div>
+

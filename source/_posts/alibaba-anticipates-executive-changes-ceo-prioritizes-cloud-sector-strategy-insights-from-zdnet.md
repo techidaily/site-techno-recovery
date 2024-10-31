@@ -1,7 +1,7 @@
 ---
 title: "Alibaba Anticipates Executive Changes: CEO Prioritizes Cloud Sector Strategy - Insights From ZDNet"
-date: 2024-09-17 15:55:11
-updated: 2024-09-20 12:26:42
+date: 2024-10-28T21:36:40.939Z
+updated: 2024-10-31T01:55:40.106Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -75,9 +89,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-best-practices-in-youtube-keyword-selection/"><u>[New] 2024 Approved Best Practices in YouTube Keyword Selection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erfect-your-yt-content-mastery-of-windows-movie-maker/"><u>[New] Perfect Your YT Content Mastery of Windows Movie Maker</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-professional-video-editing-does-m1-macbook-air-hold-up-in-2024/"><u>[New] Professional Video Editing Does M1 MacBook Air Hold Up, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-outro-mastery-top-6-free-video-closers/"><u>[Updated] In 2024, Outro Mastery Top 6 Free Video Closers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-profitable-streaming-start-top-8-income-strategies/"><u>[Updated] Profitable Streaming Start Top 8 Income Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-softening-volume-windowsmac-audio-tips/"><u>[Updated] Softening Volume Windows/Mac Audio Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-how-garmin-vivosmart/"><u>Discover How Garmin Vivosmart</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ideal-waterproof-blink-mini-2-a-top-contender-against-wyze-cams-expert-review-by-zdnet/"><u>Discover The Ideal Waterproof Blink Mini 2: A Top Contender Against Wyze Cams - Expert Review by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ecoflow-river-s-3-review-top-pick-for-beginners-in-portable-power-packs/"><u>EcoFlow River S 3 Review - Top Pick for Beginners in Portable Power Packs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhanced-landscaping-with-lidar-paving-the-way-to-improved-utility-services-discover-how-on-zdnet/"><u>Enhanced Landscaping with Lidar: Paving the Way to Improved Utility Services - Discover How on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-security-in-dim-spaces-the-perfect-choice-of-a-blink-floodlight/"><u>Enhancing Security in Dim Spaces: The Perfect Choice of a Blink Floodlight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-pup-accessories-top-toys-gadgets-and-exclusive-canine-services-zdnet/"><u>Essential Pup Accessories : Top Toys, Gadgets & Exclusive Canine Services | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-deal-the-almost-ideal-arlo-pro/"><u>Exclusive Deal: The Almost Ideal Arlo Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-ultimate-home-safety-navigate-through-our-choice-of-elite-video-door-knockers-2024-edition/"><u>Expert Picks for Ultimate Home Safety: Navigate Through Our Choice of Elite Video Door Knockers, 2024 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-ultimate-selection-of-2022s-finest-fire-pits-as-ranked-by-zdnet/"><u>Exploring the Ultimate Selection of 2022'S Finest Fire Pits as Ranked by ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/sprinting-into-the-digital-age-picks-on-vr-treadmills/"><u>Sprinting Into the Digital Age Picks on VR Treadmills</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+</ul></div>
+

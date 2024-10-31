@@ -1,7 +1,7 @@
 ---
 title: Explore the Cutting-Edge Features of DJI's Luxury $42,00 per Drone with a ZDNET Walkthrough
-date: 2024-09-17 19:29:49
-updated: 2024-09-20 12:26:45
+date: 2024-10-28T21:33:57.949Z
+updated: 2024-10-30T20:00:59.173Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -65,11 +79,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-10-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video/"><u>[New] 2024 Approved 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-role-in-virtual-reality-content-consumption/"><u>[New] Android's Role in Virtual Reality Content Consumption</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-tips-for-effortless-acquisition-of-vimeo-videos-softwares-and-no-softwares-included/"><u>[New] Expert Tips for Effortless Acquisition of Vimeo Videos - Softwares & No-Softwares Included</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-skype-recorder-guide/"><u>[New] In 2024, The Ultimate Skype Recorder Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-dynamic-subtitle-artisan/"><u>[Updated] In 2024, Dynamic Subtitle Artisan</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-8-economical-video-call-applications-cross-system-compatibility/"><u>[Updated] In 2024, Top 8 Economical Video Call Applications Cross-System Compatibility</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-12-methods-to-posted-facebook-videos-not-showing-up/"><u>2024 Approved 12 Methods to Posted Facebook Videos Not Showing Up</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/an-easy-guide-for-how-to-add-photos-on-instagram-for-2024/"><u>An Easy Guide for How to Add Photos on Instagram for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-vpn-services-for-smooth-streaming-in-depth-tested-and-reviewed-zdnet/"><u>Ultimate Guide to the Best VPN Services for Smooth Streaming: In-Depth Tested & Reviewed | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-creativity-in-your-kids-the-ultimate-guide-to-fun-and-educational-activities/"><u>Unleashing Creativity in Your Kids: The Ultimate Guide to Fun & Educational Activities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-secure-browsing-with-less-cost-exploring-the-features-of-private-internet-access-as-an-elite-open-source-vpn-by-zdnet/"><u>Unlocking Secure Browsing with Less Cost: Exploring the Features of Private Internet Access as an Elite, Open-Source VPN by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-world-of-vpns-essential-guide-to-protecting-your-internet-connection-zdnet-exclusive/"><u>Unveiling the World of VPNs: Essential Guide to Protecting Your Internet Connection | ZDNET Exclusive</u></a></li>
+</ul></div>
+

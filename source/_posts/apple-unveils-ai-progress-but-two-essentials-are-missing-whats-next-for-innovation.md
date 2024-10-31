@@ -1,7 +1,7 @@
 ---
 title: Apple Unveils AI Progress, but Two Essentials Are Missing – What’s Next for Innovation?
-date: 2024-09-19 12:39:26
-updated: 2024-09-20 11:47:13
+date: 2024-10-29T01:47:02.407Z
+updated: 2024-10-30T17:48:27.451Z
 tags:
   - edge-computing
 categories:
@@ -88,11 +88,46 @@ It seems likely Apple will get to both on-device training and applying Gen AI to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-detailed-video-capture-using-videoleap-tools/"><u>[New] 2024 Approved Detailed Video Capture Using Videoleap Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhance-customer-engagement-with-strategic-language/"><u>[New] 2024 Approved Enhance Customer Engagement with Strategic Language</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-banishing-bogus-followers-from-instagram-landscape/"><u>[New] Banishing Bogus Followers From Instagram Landscape</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-central-luts-in-post-production-filmmaking-revolution/"><u>[Updated] Central Luts in Post-Production Filmmaking Revolution</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-capitalize-on-your-youtube-shorts-for-cash-flow/"><u>[Updated] How to Capitalize on Your YouTube Shorts for Cash Flow</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/16-amazing-tasks-you-didnt-know-alexa-could-perform-with-your-amazon-echo-insights-from-zdnet/"><u>16 Amazing Tasks You Didn't Know Alexa Could Perform with Your Amazon Echo - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-ultimate-4-facebook-film-compiler/"><u>2024 Approved Ultimate 4 Facebook Film Compiler</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-bose-and-sonos-unveiling-the-worlds-best-sound-immersion-with-a-revolutionary-speaker-system-zdnet/"><u>Beyond Bose and Sonos: Unveiling the World’s Best Sound Immersion with a Revolutionary Speaker System | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-logitech-and-pioneer-discover-the-superior-sound-experience-with-our-highly-rated-desktop-speakers-featured-on-zdnet/"><u>Beyond Logitech and Pioneer: Discover the Superior Sound Experience with Our Highly Rated Desktop Speakers - Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-the-sonos-era-100-and-sonos-one-a-comprehensive-guide-for-your-perfect-smart-speaker-purchase-techradar/"><u>Choosing Between the Sonos Era 100 and Sonos One: A Comprehensive Guide for Your Perfect Smart Speaker Purchase | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-affordably-premium-sound-the-new-best-in-class-portable-bluetooth-speaker-that-impresses-without-costing-a-fortune-techradar/"><u>Discover Affordably Premium Sound: The New Best-In-Class Portable Bluetooth Speaker That Impresses Without Costing A Fortune | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/echo-dot-vs-echo-pop-which-amazon-alexa-device-fits-you-best-expert-insights-from-zdnet/"><u>Echo Dot vs Echo Pop: Which Amazon Alexa Device Fits You Best? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elite-choices-for-gamer-sound-systems-the-definitive-list-of-best-speakers-reviewed-by-specialists-zdnet/"><u>Elite Choices for Gamer Sound Systems: The Definitive List of Best Speakers, Reviewed by Specialists (ZDNET)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/half-price-premium-sound-from-yamaha-over-1000-jbl-top-pick-for-budget-friendly-hifi-enthusiasts/"><u>Half-Price Premium Sound From Yamaha Over $1,000 JBL – Top Pick for Budget-Friendly HiFi Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mycams-evolution-a-new-era-of-home-video-capture-for-2024/"><u>MyCam's Evolution A New Era of Home Video Capture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-to-windows-10-audio-controls/"><u>Restoring Functionality to Windows 10 Audio Controls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shop-the-latest-from-consumer-electronics-show-ces-2023-exclusive-products-to-buy-now-zdnet/"><u>Shop the Latest From Consumer Electronics Show (CES) 2023 | Exclusive Products to Buy Now | ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-effectiveness-of-blue-light-blocking-prescription-eyewear-by-lensdirect/"><u>Unveiling the Effectiveness of Blue Light-Blocking Prescription Eyewear by LensDirect</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/value-in-the-air-the-cheapest-yet-effective-drones/"><u>Value in the Air The Cheapest Yet Effective Drones</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

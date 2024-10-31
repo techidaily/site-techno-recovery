@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Security: How to Retrieve Stored Passwords From macOS Keychain - Tips & Tricks"
-date: 2024-10-21T16:29:18.310Z
-updated: 2024-10-25T02:12:35.023Z
+date: 2024-10-25T02:58:56.281Z
+updated: 2024-10-31T02:29:40.140Z
 tags:
   - apple
 categories:
@@ -31,16 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -50,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -70,6 +64,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -85,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -96,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,18 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-elite-web-crews-revolutionizing-av-media-creation/"><u>[New] Elite Web Crews Revolutionizing Av Media Creation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-seamless-transition-from-fb-videos-to-polished-mp3-tracks-for-2024/"><u>[New] Seamless Transition From FB Videos to Polished MP3 Tracks for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-poco-m6-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Poco M6 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-books-apps-you-cant-miss-out-on-this-year/"><u>Best Books Apps You Can't Miss Out On This Year</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-recording-and-embedding-audio-powerpoint/"><u>Comprehensive Guide to Recording & Embedding Audio (PowerPoint)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-integrate-multiple-playlists-on-spotify-with-simple-steps/"><u>How to Integrate Multiple Playlists on Spotify with Simple Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-mastering-your-music-production-the-best-windows-and-mac-daws-of-the-year-2023/"><u>New Mastering Your Music Production The Best Windows and Mac DAWs of the Year 2023</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcome-your-chromebooks-frozen-state-with-these-nine-fixes/"><u>Overcome Your Chromebook's Frozen State with These Nine Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-repetitive-nature-of-its-resource-management-and-building-systems-limited-long-term-engagement-without-significant-content-updates-or-game-mechanic-chan567/"><u>The Repetitive Nature of Its Resource Management and Building Systems Limited Long-Term Engagement without Significant Content Updates or Game Mechanic Changes.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-missing-d3dx9nine-dll-effective-solutions-explored/"><u>Troubleshooting the Missing D3dx9_nine Dll: Effective Solutions Explored</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-on-how-to-forever-eliminate-your-yahoo-email-account/"><u>Ultimate Guide on How to Forever Eliminate Your Yahoo Email Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-home-automation-bot-insights-on-costs-launch-timeline-and-features/"><u>Upcoming Apple Home Automation Bot: Insights on Costs, Launch Timeline & Features</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-clear-cinematic-vision-top-camera-stabilizers-reviewed/"><u>[New] Clear Cinematic Vision - Top Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-complete-directors-guide-to-powerdirector-24-software-for-2024/"><u>[New] Complete Director's Guide to PowerDirector '24 Software for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-screen-enhancement-in-teams/"><u>[Updated] Mastering the Art of Screen Enhancement in Teams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-armada-cameras-at-full-power-again-for-2024/"><u>[Updated] OBS Armada Cameras at Full Power Again for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-snapchats-visual-language-essential-emoji-meanings-explained/"><u>Decoding Snapchat's Visual Language: Essential Emoji Meanings Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-your-next-purchase-essential-comparisons-between-macbook-pro-and-macbook-air/"><u>Decoding Your Next Purchase: Essential Comparisons Between MacBook Pro & MacBook Air</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-the-ios-181-public-test-version-discover-features-like-apples-ai-and-more-get-your-access-here-tech-innovations/"><u>Download the IOS 18.1 Public Test Version - Discover Features Like Apple's AI and More! Get Your Access Here | Tech Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-alert-grab-the-discounted-samsung-8tb-t5-solid-state-drive-from-amazon-after-prime-day-savings/"><u>Exclusive Offer Alert: Grab the Discounted Samsung 8TB T5 Solid State Drive From Amazon After Prime Day Savings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/holiday-savings-alert-apple-watch-ultras-unprecedented-drop-in-cost-featured/"><u>Holiday Savings Alert: Apple Watch Ultra's Unprecedented Drop in Cost Featured</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-https-errors-and-restore-secure-connections-in-firebox/"><u>How to Fix HTTPS Errors and Restore Secure Connections in Firebox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-one-cent-offer-on-amazon-heres-what-you-need-to-know-zdnet-exclusive-insight/"><u>IPhone 15 Pro Max One Cent Offer on Amazon? Here's What You Need to Know | ZDNet Exclusive Insight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lost-email-account-recovery-easy-tips-and-tricks/"><u>Lost Email Account Recovery – Easy Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mobile-device-evaluation-methods-used-by-zdnet-a-comprehensive-guide/"><u>Mobile Device Evaluation Methods Used by ZDNet - A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-how-do-you-compress-mp4-videos-and-reduce-the-file-size-in-windows-10-for-free-in-this-article-ill-share-top-9-free-video-compression-software-f/"><u>New In 2024, How Do You Compress Mp4 Videos and Reduce the File Size in Windows 10 for Free? In This Article, Ill Share Top 9 Free Video Compression Software for Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-to-create-memorable-podcast-intro-lines-for-2024/"><u>Strategies to Create Memorable Podcast Intro Lines for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-metaverse-journey-begins-exploring-6-engrossing-instances-for-2024/"><u>The Metaverse Journey Begins Exploring 6 Engrossing Instances for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tracking-saves-on-instagram-how-to-find-out-whos-bookmarking-your-content/"><u>Tracking Saves on Instagram: How to Find Out Who's Bookmarking Your Content</u></a></li>
 </ul></div>
 

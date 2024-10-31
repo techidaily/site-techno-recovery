@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Recent Cash App and Square Downtime: Essential Insights for Small Business Owners | ZDNet"
-date: 2024-09-19 23:53:23
-updated: 2024-09-20 10:43:21
+date: 2024-10-24T19:20:49.208Z
+updated: 2024-10-31T04:42:32.925Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,11 +58,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/arness-youtube-movie-maker-for-impactful-videos-for-2024/"><u>[New] Harness YouTube Movie Maker for Impactful Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-epitome-of-engagement-celebrating-the-most-voted-posts-10/"><u>[New] In 2024, The Epitome of Engagement Celebrating the Most-Voted Posts (10)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-superior-webcam-gear-for-podcasters/"><u>[Updated] 2024 Approved Superior Webcam Gear for Podcasters</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-channel-upgrade-smartphone-techniques-for-professional-videos/"><u>[Updated] Channel Upgrade Smartphone Techniques for Professional Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-essential-knowledge-for-engaging-with-asmr-videos/"><u>[Updated] Essential Knowledge for Engaging with ASMR Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-overwatch-on-screen-recording-made-easy/"><u>[Updated] In 2024, Overwatch On-Screen Recording Made Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-discovery-of-the-best-10-sites-for-pristine-images/"><u>2024 Approved Exclusive Discovery of the Best 10 Sites for Pristine Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accessing-c-span-archives-at-zero-cost-steps-included/"><u>Accessing C-Span Archives at Zero Cost - Steps Included</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-luxury-equivalent-value-to-a-vision-pro-in-top-tier-gadgets-iphone-ipad-watch-and-more-tech-insights-on-zdnet/"><u>Affordable Luxury! Equivalent Value to a Vision Pro in Top-Tier Gadgets: IPhone, iPad, Watch and More | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-performance-new-approach-to-icon-cache/"><u>Enhancing System Performance: New Approach to Icon Cache</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-capturing-stunning-meta-quest-3-images-and-video-clips-zdnet-guide/"><u>Expert Tips for Capturing Stunning Meta Quest 3 Images & Video Clips - ZDNet Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-safe-zone-limits-how-apples-vision-pro-tracks-up-against-metas-quests-for-virtual-reality-experience/"><u>Exploring Safe Zone Limits: How Apple's Vision Pro Tracks Up Against Meta's Quests for Virtual Reality Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-metas-deleted-quest-gaming-headset-functionality-with-easy-hacks-techradar/"><u>How to Restore Meta’s Deleted Quest Gaming Headset Functionality with Easy Hacks | TechRadar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/intense-competition-alert-for-apple-as-meta-and-lg-unveil-next-gen-quest-pro-virtual-reality-headset-tech-news-by-zdnet/"><u>Intense Competition Alert for Apple as Meta and LG Unveil Next-Gen Quest Pro Virtual Reality Headset | Tech News by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-components-of-a-successful-digital-twin-strategy-incorporating-ai-zdnet-insights/"><u>Key Components of a Successful Digital Twin Strategy: Incorporating AI | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-deployment-of-digital-twins-tackling-business-hurdles-effectively-zdnet/"><u>Mastering the Deployment of Digital Twins: Tackling Business Hurdles Effectively | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-connectivity-tips-on-syncing-airpods-with-quest-3-wirelessly-the-courteous-guide/"><u>Seamless Connectivity: Tips on Syncing AirPods with Quest 3 Wirelessly – The Courteous Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-vision-pro-update-may-include-respiratory-pattern-analysis-says-zdnet-report/"><u>Upcoming Apple Vision Pro Update May Include 'Respiratory Pattern Analysis', Says ZDNet Report</u></a></li>
+</ul></div>
+

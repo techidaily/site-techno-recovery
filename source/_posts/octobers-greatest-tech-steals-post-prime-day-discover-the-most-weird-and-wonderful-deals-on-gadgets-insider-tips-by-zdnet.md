@@ -1,7 +1,7 @@
 ---
 title: October's Greatest Tech Steals Post-Prime Day – Discover the Most Weird and Wonderful Deals on Gadgets | Insider Tips by ZDNET
-date: 2024-09-19 14:55:51
-updated: 2024-09-20 11:38:28
+date: 2024-10-23T19:18:26.984Z
+updated: 2024-10-31T00:29:29.852Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,6 +79,19 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-best-approaches-for-quiet-visuals-capture/"><u>2024 Approved Best Approaches for Quiet Visuals Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-digital-directors-diary-an-in-depth-look-at-capturing-live-tv-on-windows-pc/"><u>2024 Approved Digital Director's Diary An In-Depth Look at Capturing Live TV on Windows PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones-for-2024/"><u>Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-a-vpn-work-and-should-you-use-it-unraveling-essential-insights-on-virtual-private-networks-for-enhanced-online-security/"><u>How Does a VPN Work and Should You Use It? Unraveling Essential Insights on Virtual Private Networks for Enhanced Online Security</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/icloud-photo-library-unlocked-how-to-view-and-manage-pics-on-multiple-devices/"><u>ICloud Photo Library Unlocked: How to View & Manage Pics on Multiple Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-list-5-high-res-tvs-perfecting-chromatic-balance/"><u>In 2024, A-List 5 High-Res TVs Perfecting Chromatic Balance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/june-20-marks-end-of-google-one-vpn-service-discover-zdnets-best-alternatives-list/"><u>June 20 Marks End of Google One VPN Service - Discover ZDNet's Best Alternatives List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/long-term-online-privacy-protection-save-big-by-choosing-a-5-year-vpn-subscription-for-just-35-on-zdnet/"><u>Long-Term Online Privacy Protection: Save Big by Choosing a 5-Year VPN Subscription for Just $35 on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/massive-discount-alert-atlasvpn-slashes-prices-by-83-during-exclusive-privacy-event-insider-info/"><u>Massive Discount Alert: AtlasVPN Slashes Prices by 83% During Exclusive Privacy Event - Insider Info</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-distance-remote-podcast-broadcast/"><u>Mastering Distance Remote Podcast Broadcast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-selection-of-budget-friendly-4k-projector-brands/"><u>Ultimate Selection of Budget-Friendly 4K Projector Brands</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-fcpx-plugin-errors-causes-symptoms-and-easy-fixes/"><u>Updated 2024 Approved FCPX Plugin Errors Causes, Symptoms, and Easy Fixes</u></a></li>
+</ul></div>
+

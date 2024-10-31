@@ -1,7 +1,7 @@
 ---
 title: "Gift Ideas at Your Fingertnails: How Google's Advanced AI Generates Unique Presents | Discover More on ZDNet"
-date: 2024-09-17 12:49:37
-updated: 2024-09-20 12:33:29
+date: 2024-10-23T17:27:02.588Z
+updated: 2024-10-30T23:11:30.985Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-blueprint-strategies-to-profit-from-youtube-adsense/"><u>[New] 2024 Approved The Blueprint Strategies To Profit From YouTube AdSense</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-crafting-visual-stories-quick-methods-to-design-snaps/"><u>[New] In 2024, Crafting Visual Stories Quick Methods to Design Snaps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-record-rapidly-innovative-iphone-time-lapse-methods/"><u>[New] In 2024, Record Rapidly Innovative iPhone Time-Lapse Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>[Updated] 2024 Approved Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-exploring-facebooks-newest-feature-evolution/"><u>2024 Approved Exploring Facebook's Newest Feature Evolution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-magic5-ultimate-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor Magic5 Ultimate by Name | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-barrier-fixing-path-not-found-errors-on-a-windows-system/"><u>Bypassing The Barrier: Fixing 'Path Not Found' Errors on a Windows System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/conquering-screen-trouble-effective-methods-to-resolve-black-screen-issues-in-facetime/"><u>Conquering Screen Trouble: Effective Methods to Resolve Black Screen Issues in FaceTime</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-stop-error-0x00000078-overcoming-phase0-exceptions-successfully/"><u>DIY Fixes for Stop Error 0X00000078 – Overcoming Phase0 Exceptions Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-tricks-to-optimize-the-use-of-googles-measure-app-on-android-devices/"><u>Expert Tips & Tricks to Optimize the Use of Google's Measure App on Android Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-your-graphics-card-updated-with-amds-radeon-v2410-drivers/"><u>How to Get Your Graphics Card Updated with AMD's Radeon v24.10 Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-audio-glitches-during-your-powerpoint-presentations/"><u>Solving Audio Glitches During Your PowerPoint Presentations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-government-agencies-must-reduce-reliance-on-leading-technology-companies-post-microsoft-outages/"><u>Why Government Agencies Must Reduce Reliance on Leading Technology Companies Post-Microsoft Outages</u></a></li>
+</ul></div>
+

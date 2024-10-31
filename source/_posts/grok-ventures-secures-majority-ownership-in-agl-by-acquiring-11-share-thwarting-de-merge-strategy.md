@@ -1,7 +1,7 @@
 ---
 title: Grok Ventures Secures Majority Ownership in AGL by Acquiring 11%% Share, Thwarting De-Merge Strategy
-date: 2024-09-19 18:19:36
-updated: 2024-09-20 10:46:18
+date: 2024-10-24T17:23:48.872Z
+updated: 2024-10-31T04:21:20.491Z
 tags:
   - energy
 categories:
@@ -43,11 +43,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/boosting-business-appeal-how-low-code-tools-enhance-talent-magnetism-insights-from-zdnet/"><u>Boosting Business Appeal: How Low-Code Tools Enhance Talent Magnetism - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-electronics-by-tom-detailed-gadget-evaluations/"><u>Expert Analysis on Electronics by Tom - Detailed Gadget Evaluations</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y200-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-exclusive-look-top-5-value-for-money-gaming-mice-and-keyboards/"><u>In 2024, Exclusive Look Top 5 Value-for-Money Gaming Mice & Keyboards</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>In 2024, From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/linus-torvalds-unveils-his-views-on-artificial-intelligence-and-rust-in-modern-computing-spotlighting-the-heartbeat-of-technology-the-linux-kernel-zdnet/"><u>Linus Torvalds Unveils His Views on Artificial Intelligence and Rust in Modern Computing, Spotlighting the Heartbeat of Technology - The Linux Kernel | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-customer-satisfaction-using-square-tips-and-strategies-by-zdnet/"><u>Master the Art of Customer Satisfaction Using Square - Tips & Strategies by ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/perfecting-subtitles-in-media-ultimate-list-of-on-line-aid-sources/"><u>Perfecting Subtitles in Media Ultimate List of On-Line Aid Sources</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/progressing-toward-consensus-on-open-source-ai-standards-faces-dissent-insights-from-zdnet/"><u>Progressing Toward Consensus on Open-Source AI Standards Faces Dissent – Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/red-hat-elevates-rhel-with-innovative-ai-features-for-enhanced-business-solutions-zdnet/"><u>Red Hat Elevates RHEL with Innovative AI Features for Enhanced Business Solutions | ZDNet</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resolve-issues-with-your-lenovo-laptops-function-key-f11-and-reduce-downtangle/"><u>Resolve Issues with Your Lenovo Laptop's Function Key (F11) and Reduce Downtangle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-systems-administration-how-red-hat-leverages-artificial-intelligence/"><u>Simplifying Systems Administration: How Red Hat Leverages Artificial Intelligence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-twitter-video-tools-effortless-video-uploading/"><u>Top Twitter Video Tools Effortless Video Uploading</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-it-infrastructure-how-red-hat-infuses-enterprise-linux-with-advanced-ai-capabilities-spotlight-on-zdnet/"><u>Transforming IT Infrastructure: How Red Hat Infuses Enterprise Linux with Advanced AI Capabilities | Spotlight on ZDNET</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-flipbuilders-comprehensive-refunds-strategy-find-out-how-we-protect-our-customers/"><u>Understanding FlipBuilder's Comprehensive Refunds Strategy – Find Out How We Protect Our Customers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-ssh-a-comprehensive-guide-to-secure-shell-protocol-essentials/"><u>Understanding SSH: A Comprehensive Guide to Secure Shell Protocol Essentials</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

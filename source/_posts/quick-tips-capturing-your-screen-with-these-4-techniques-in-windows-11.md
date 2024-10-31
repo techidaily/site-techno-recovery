@@ -1,7 +1,7 @@
 ---
 title: "Quick Tips: Capturing Your Screen with These 4 Techniques in Windows 11"
-date: 2024-10-24T04:55:26.966Z
-updated: 2024-10-25T05:14:28.884Z
+date: 2024-10-29T05:21:01.022Z
+updated: 2024-10-30T21:41:32.679Z
 categories:
   - BestProducts
 description: "This Article Describes Quick Tips: Capturing Your Screen with These 4 Techniques in Windows 11"
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
@@ -67,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -83,23 +83,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -109,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -156,21 +150,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-efficiently-capturing-professional-movies-on-your-windows-pc/"><u>[New] 2024 Approved Efficiently Capturing Professional Movies on Your Windows PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-the-new-world-of-360-camera-shopping/"><u>[Updated] Navigating the New World of 360 Camera Shopping</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-next-gen-televisions-elite-10-rankings/"><u>[Updated] Next-Gen Televisions Elite #10 Rankings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-pip-feature-in-microsoft-edge/"><u>2024 Approved Mastering PIP Feature in Microsoft Edge</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/9-prime-live-streaming-venues-for-gamers-for-2024/"><u>9 Prime Live Streaming Venues for Gamers for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-latest-innovation-unveiling-the-apple-watch-series-8-launch-details-and-pricing/"><u>Apple's Latest Innovation: Unveiling the Apple Watch Series 8 - Launch Details & Pricing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/canva-expertise-10-sneak-peek-tips-for-photo-editors-for-2024/"><u>Canva Expertise 10 Sneak Peek Tips for Photo Editors for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/conquering-the-rails-elite-techniques-in-subway-surfers/"><u>Conquering the Rails: Elite Techniques in Subway Surfers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-methods-for-connecting-laptops-to-televisions-via-hdmi-interface/"><u>Easy Methods for Connecting Laptops to Televisions via HDMI Interface</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-getting-your-vizio-tv-online-again-via-wi-fi-connectivity-solutions/"><u>Expert Tips for Getting Your Vizio TV Online Again via Wi-Fi Connectivity Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-ultimate-list-of-chatgpt-replacements/"><u>Explore the Ultimate List of ChatGPT Replacements</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-origins-and-ownership-of-microsofts-chatgpt/"><u>Exploring the Origins and Ownership of Microsoft's ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/facebook-unveiled-the-journey-from-creation-to-mass-following-with-a-look-at-its-key-aspects/"><u>Facebook Unveiled: The Journey From Creation to Mass Following with a Look at Its Key Aspects</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-overcoming-the-absent-propsysdll-error-on-your-pc/"><u>Step-by-Step Guide: Overcoming the Absent PropSys.dll Error on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-best-key-finders-of-2024/"><u>The Best Key Finders of 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-windows-xp-professional-for-media-development-for-2024/"><u>Unlock Windows XP Professional for Media Development for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-your-video-potential-through-smart-co-stars-selection/"><u>[New] In 2024, Maximizing Your Video Potential Through Smart Co-Stars Selection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tips-for-efficient-macos-sierra-system-updates/"><u>[New] Top Tips for Efficient macOS Sierra System Updates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-echoenthusiast-auditory-review-exploration/"><u>[Updated] 2024 Approved EchoEnthusiast Auditory Review Exploration</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-buzz-creation-blueprint-for-marketing-success-for-2024/"><u>[Updated] The Buzz-Creation Blueprint for Marketing Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-swift-youtube-discussion-management/"><u>[Updated] The Ultimate Guide to Swift Youtube Discussion Management</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/blue-screen-error-0x0000003d-troubleshooting-and-repair-tips/"><u>Blue Screen Error 0X0000003D: Troubleshooting and Repair Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-guide-to-the-ultimate-magsafe-wallet-selection-testing-and-insights-from-industry-leaders/"><u>Exclusive Guide to the Ultimate MagSafe Wallet Selection - Testing & Insights From Industry Leaders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-unpacked-discovering-the-apple-vision-pros-key-highlights-during-a-two-day-test-drive-exclusive/"><u>Experience Unpacked: Discovering the Apple Vision Pro's Key Highlights During a Two-Day Test Drive Exclusive</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-mov-file-handling-in-windows-11/"><u>In 2024, The Ultimate Guide to MOV File Handling in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/snap-to-success-top-pixlr-editing-methods-unveiled/"><u>Snap to Success Top Pixlr Editing Methods Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essential-guide-to-interpreting-windows-10-system-power-consumption-data/"><u>The Essential Guide to Interpreting Windows 10 System Power Consumption Data</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-kid-friendly-ipad-models-choose-the-perfect-one/"><u>Top 4 Kid-Friendly iPad Models - Choose the Perfect One!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-your-charge-game-with-the-latest-anker-gadgets-the-perfect-complement-for-your-new-iphone-zdnet/"><u>Upgrade Your Charge Game with the Latest Anker Gadgets - The Perfect Complement for Your New iPhone [ZDNET]</u></a></li>
 </ul></div>
 

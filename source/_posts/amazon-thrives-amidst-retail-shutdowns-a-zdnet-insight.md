@@ -1,7 +1,7 @@
 ---
 title: Amazon Thrives Amidst Retail Shutdowns - A ZDNet Insight
-date: 2024-09-17 23:55:39
-updated: 2024-09-20 11:43:59
+date: 2024-10-25T18:36:37.925Z
+updated: 2024-10-30T23:57:02.860Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -71,6 +85,19 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 ## FAQs  
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>[New] 2024 Approved Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-leading-macos-sierra-choices-for-file-conversion/"><u>[New] In 2024, Leading MacOS Sierra Choices for File Conversion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-prime-phone-video-and-image-capturing-best-apps-for-iphones-and-android/"><u>[Updated] In 2024, Prime Phone Video & Image Capturing Best Apps for iPhones and Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-budget-friendly-apple-vision-pro-unveiled-yet-remains-a-far-fetched-concept-insights-from-zdnet/"><u>Anticipated Budget-Friendly Apple Vision Pro Unveiled Yet Remains a Far Fetched Concept - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/become-a-streaming-star-utilizing-obs-capabilities-for-2024/"><u>Become a Streaming Star Utilizing OBS Capabilities for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-space-the-new-iphone-15-pros-revolutionary-support-for-apple-vision-pro-technology-a-look-by-zdnet/"><u>Capturing Space: The New iPhone 15 Pro's Revolutionary Support for Apple Vision Pro Technology - A Look by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/decluttering-disk-space-on-windows-using-altwindirstat/"><u>Decluttering Disk Space on Windows Using altWinDirStat</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-tech-remote-jobs-with-virtual-reality-and-digital-twin-technology-insights-from-zdnet/"><u>Enhancing Tech Remote Jobs with Virtual Reality & Digital Twin Technology - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/entering-the-digital-frontier-how-sony-and-siemens-are-pioneering-an-immersive-engineering-experience-in-the-industrial-metaverse-wired/"><u>Entering the Digital Frontier: How Sony and Siemens Are Pioneering an Immersive Engineering Experience in the Industrial Metaverse | Wired</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964851320-eveo-bluetooth-receiver-get-the-latest-driver-here/"><u>EVEO Bluetooth Receiver - Get the Latest Driver Here!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-best-of-web-browsing-and-streaming-on-lenovos-newest-tablet-the-2020-tab-m10-hd-reviewed/"><u>Experience the Best of Web Browsing and Streaming on Lenovo's Newest Tablet - The 2020 Tab M10 HD Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-apples-affordable-vision-pro-glasses-just-a-pipe-dream-insights-from-zdnet/"><u>Is Apple's Affordable Vision Pro Glasses Just a Pipe Dream? Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-the-apple-vision-pro-completely-gone-or-just-facing-shipping-backlogs/"><u>Is the Apple Vision Pro Completely Gone or Just Facing Shipping Backlogs?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/launch-of-apples-vision-pro-an-exclusive-lineup-of-600-curated-apps-unveiled-tech-news-by-zdnet/"><u>Launch of Apple's Vision Pro: An Exclusive Lineup of 600 Curated Apps Unveiled | Tech News by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-realtek-speakers-a-step-by-step-guide-to-restoring-sounds/"><u>Reviving Your Realtek Speakers: A Step-by-Step Guide to Restoring Sounds</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-web-safety-including-reliable-domains-in-windows-11/"><u>Tailored Web Safety: Including Reliable Domains in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-of-apple-vision-pros-enhanced-demo-sessions-book-yours-today-and-discover-why-theyre-top-notch/"><u>Unlock the Secrets of Apple Vision Pro's Enhanced Demo Sessions – Book Yours Today and Discover Why They're Top Notch!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/virtual-reality-in-business-the-key-to-selling-experiences-and-emotions/"><u>Virtual Reality in Business: The Key to Selling Experiences and Emotions</u></a></li>
+</ul></div>
+

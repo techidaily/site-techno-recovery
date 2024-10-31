@@ -1,7 +1,7 @@
 ---
 title: Unusual Ask From Southwest? Their Latest Customer Directive Might Have You Chuckling - Insights for Tech | ZDNET
-date: 2024-09-19 13:33:52
-updated: 2024-09-20 10:22:27
+date: 2024-10-23T21:05:57.709Z
+updated: 2024-10-31T05:11:30.644Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +78,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,23 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unleashing-connectivity-setting-up-a-zoom-call-on-android/"><u>[New] 2024 Approved Unleashing Connectivity Setting Up a Zoom Call on Android</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-turn-your-videos-into-money-with-vimeo-expertise-for-2024/"><u>[New] How to Turn Your Videos Into Money with Vimeo Expertise for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-learning-with-legends-top-history-youtube-content-for-learners/"><u>[Updated] 2024 Approved Learning with Legends Top History YouTube Content for Learners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-tutorial-creating-and-activating-your-ps4ps5-online-id/"><u>Beginner's Tutorial: Creating and Activating Your PS4/PS5 Online ID</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-new-nvidia-video-card-drivers-on-windows-10-effortless-guide-and-download-links/"><u>Install New NVIDIA Video Card Drivers on Windows 10 - Effortless Guide and Download Links</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackle-your-software-problems-a-user-friendly-approach-to-fixing-mfc42ddll-failures/"><u>Tackle Your Software Problems: A User-Friendly Approach to Fixing mfc42d.dll Failures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-must-have-gps-navigation-applications-for-your-iphone/"><u>Top 5 Must-Have GPS Navigation Applications for Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-overcoming-the-netflix-ui-800-3-user-interface-glitch/"><u>Troubleshooting Tips: Overcoming the Netflix UI-800-3 User Interface Glitch</u></a></li>
+</ul></div>
+

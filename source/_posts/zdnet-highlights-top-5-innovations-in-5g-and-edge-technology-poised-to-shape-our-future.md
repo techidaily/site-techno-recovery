@@ -1,7 +1,7 @@
 ---
 title: ZDNet Highlights Top 5 Innovations in 5G and Edge Technology Poised to Shape Our Future
-date: 2024-09-18 14:52:56
-updated: 2024-09-20 10:26:10
+date: 2024-10-28T02:21:31.955Z
+updated: 2024-10-30T23:26:15.819Z
 tags:
   - edge-computing
 categories:
@@ -25,6 +25,13 @@ The phenomenon has been accelerating. The latest [data](https://gsacom.com/paper
 
 The issue with previous generations of wireless and edge computing has been speed, which often did not deliver the low latency required for increasingly sophisticated constellations of machines, devices, and corporate networks. Now, with the low latency and high speeds delivered through 5G technology -- and eventually, 6G -- the edge will serve as a new locus of innovation for organizations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lightning-fast speeds
 
 According to a [report](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-at-the-edge-trends-reshaping-the-future-of-it-and-business) out of global management consulting firmMcKinsey, "5G will deliver network speeds that are about ten times faster than current speeds on 4G LTE networks, with expectations of speeds that are up to 100 times faster with 40 times faster latency." 
@@ -41,9 +48,23 @@ Along with accessibility and ease of deployment, there is a range of innovative 
 
 High-speed edge enables cities to monitor and manage traffic, control pollution, and even prevent crime. "Imagine networked devices ranging from smart parking sensors, energy meters, and networked traffic lights that coordinate to improve performance," says [Swarun Kumar,](https://engineering.cmu.edu/directory/bios/kumar-swarun.html) professor of electrical and computer engineering at Carnegie Mellon University. "With the recent increase in wildfires, for example, wireless connectivity to air pollution sensors deployed over wide areas can prove pivotal in measuring and monitoring air quality at a much finer granularity than before." This will ensure that city administrators will have real-time access to events within their communities. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Autonomous vehicles 
 
 5G enables autonomous vehicles "to communicate with each other and other connected, intelligent parts of the transportation grid using technologies referenced under the umbrella term vehicle-to-everything (V2X),." the Manufacturing Institute researchers state. This applies to drones, industrial vehicles such as forklifts as well as trucks or passenger cars. Administrators overseeing vehicle fleets for distribution and other functions will be able to provide customers with real-time information on the status of deliveries. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Industrial Internet of Things (IIoT)
 
@@ -52,6 +73,13 @@ While IoT is seen as connecting consumer devices, the [Industrial Internet of Th
 ### Digital twins 
 
 Digital twins are digital representations of physical assets or facilities that enable users "to understand and predict changes with how people, products and processes interact," the Manufacturing Institute reports. "Digital twins can be used reactively or proactively. When used reactively, they can be studied to pinpoint inefficiencies that may be difficult to detect using only visual observation. When used proactively, managers can conduct what-if scenarios that can be analyzed without disrupting production processes." 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Extended reality (XR)
 
@@ -124,11 +152,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-effortless-background-subtraction-for-mobile-cameras/"><u>[New] Effortless Background Subtraction for Mobile Cameras</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-laughlounge-app-join-the-meme-revolution/"><u>[New] In 2024, LaughLounge App - Join the Meme Revolution</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-digital-photo-management-incorporating-dates-seamlessly/"><u>2024 Approved Digital Photo Management Incorporating Dates Seamlessly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-unlock-the-power-of-live-broadcasting-with-tiktok-from-pc/"><u>2024 Approved Unlock the Power of Live Broadcasting with TikTok From PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/developer-shortage-crisis-insights-from-a-top-salesforce-official-revealed-on-zdnet/"><u>Developer Shortage Crisis: Insights From a Top Salesforce Official, Revealed on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-alternative-to-sony-and-bose-with-our-premier-soundbar-evaluation-on-zdnet/"><u>Discover the Best Alternative to Sony and Bose with Our Premier Soundbar Evaluation on ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/getting-acquainted-with-zhuyin/"><u>Getting Acquainted with Zhuyin</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-virtual-first-impressions-a-guide-to-nailing-phone-interviews-and-progressing-to-in-person-meetups-backed-by-experts-at-zdnet/"><u>Mastering Virtual First Impressions: A Guide to Nailing Phone Interviews & Progressing to In-Person Meetups, Backed by Experts at ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-tech-scene-a-strategic-guide-to-securing-positions-through-networking/"><u>Navigating the Tech Scene: A Strategic Guide to Securing Positions Through Networking</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mlined-strategy-to-create-your-custom-youtube-queue/"><u>Streamlined Strategy to Create Your Custom YouTube Queue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/surprisingly-good-alternatives-to-bose-and-sony-speakers-the-best-ive-tested-revealed-by-zdnet/"><u>Surprisingly Good Alternatives to Bose & Sony Speakers - The Best I've Tested Revealed by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-professionals-turned-entrepreneurs-challenge-former-employers-after-job-loss-insights-from-zdnet/"><u>Tech Professionals Turned Entrepreneurs Challenge Former Employers After Job Loss | Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-programmers-handbook-mastering-flawless-job-applications-insights-from-zdnet/"><u>The Ultimate Programmer's Handbook: Mastering Flawless Job Applications - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-charm-and-charisma-in-tech-why-data-science-reigns-as-the-most-alluring-career-hear-their-advice/"><u>Unlocking Charm & Charisma in Tech: Why Data Science Reigns as the Most Alluring Career – Hear Their Advice!</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-xiaomi-redmi-note-12t-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Redmi Note 12T Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/zipwindows-10-11/"><u>ZIPファイルが消えた！Windows 10, 11で安全に復元方法</u></a></li>
+</ul></div>
+

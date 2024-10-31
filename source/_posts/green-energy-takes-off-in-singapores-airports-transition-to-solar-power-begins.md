@@ -1,7 +1,7 @@
 ---
 title: "Green Energy Takes Off in Singapore's Airports: Transition to Solar Power Begins"
-date: 2024-09-18 13:38:24
-updated: 2024-09-20 12:19:32
+date: 2024-10-29T02:27:55.693Z
+updated: 2024-10-30T22:25:18.785Z
 tags:
   - energy
 categories:
@@ -43,11 +43,37 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-videographers-choice-ideal-grabber-software/"><u>[New] 2024 Approved Elite Videographer's Choice Ideal Grabber Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamlining-with-obs-essential-tips-for-android-users/"><u>[Updated] Streamlining with OBS Essential Tips for Android Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-innovations-and-hacks-every-content-creator-should-know-about-reels/"><u>2024 Approved Innovations and Hacks Every Content Creator Should Know About Reels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-marvel-discovering-the-top-under-200-android-device-with-an-eye-catching-design-exclusive-review-by-zdnet/"><u>Affordable Marvel: Discovering the Top Under-$200 Android Device with an Eye-Catching Design - Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/antitrust-scrutiny-rises-doj-eyes-possible-division-of-google-reports-say-discover-on-zdnet/"><u>Antitrust Scrutiny Rises: DOJ Eyes Possible Division of Google, Reports Say - Discover on ZDNET</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/guida-facile-al-trasferimento-di-applicazioni-su-windows-11-metodi-e-suggerimenti/"><u>Guida Facile Al Trasferimento Di Applicazioni Su Windows 11: Metodi E Suggerimenti</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-easily-update-asus-chipset-drivers-in-windows/"><u>How to Easily Update ASUS Chipset Drivers in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-hot-40-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Hot 40 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-google-docs-version-control-a-step-by-step-guide-zdnet/"><u>Mastering Google Docs Version Control: A Step-by-Step Guide [ZDNet]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revitalize-your-aging-pc-with-these-5-cost-free-tricks-the-countdown-for-windows-10-continues-insights-from-zdnet/"><u>Revitalize Your Aging PC with These 5 Cost-Free Tricks: The Countdown for Windows 10 Continues - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-challenges-dominance-with-galaxy-fold-a-head-to-head-review-against-the-google-pixel-techradar/"><u>Samsung Challenges Dominance with Galaxy Fold: A Head-to-Head Review Against the Google Pixel | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-correcting-directx-install-errors/"><u>Steps for Correcting DirectX Install Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-protective-sleeves-for-the-newest-google-pixel-fold-recommended-models-of-2024-reviewed-by-tech-experts/"><u>Top-Rated Protective Sleeves for the Newest Google Pixel Fold - Recommended Models of 2024 Reviewed by Tech Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-shell-the-creme-de-la-creme-case-2024/"><u>Ultimate Shell: The Crème De La Crème Case, 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-pageless-navigation-in-google-docs-why-you-should-embrace-this-game-changing-feature-for-enhanced-productivity/"><u>Unraveling Pageless Navigation in Google Docs: Why You Should Embrace This Game-Changing Feature for Enhanced Productivity</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

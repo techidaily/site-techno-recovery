@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Future of Connectivity: Understanding 5G & Edge Tech Impact | Insights by ZDNet"
-date: 2024-09-19 11:20:27
-updated: 2024-09-20 11:52:10
+date: 2024-10-28T18:39:05.039Z
+updated: 2024-10-30T17:22:43.692Z
 tags:
   - edge-computing
 categories:
@@ -43,6 +43,13 @@ In truth, the little Palm Treo was still a smart phone. So, it's not the actual 
 
 We talked about transmission speed earlier in this special report. It's how fast data can move up and down the pipes. In practical terms, [Verizon says](https://www.verizon.com/articles/internet-essentials/network-speed-comparison/) that 5G offers typical speeds that are up to 10 times faster than 4G. Think of it as having better-than-Wi-Fi speeds everywhere you go. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Latency 
 
 Latency is a different thing. It's not how big your pipe is (as in how much data it can hold). It's more about how fast you can turn that pipe on and off. 
@@ -64,6 +71,13 @@ Most of the time, though, the failure isn't particularly long-lasting. Connectiv
 5G improves on that. It is better able to withstand fluctuations and therefore better able to sustain a stable connection, even in less-than-ideal conditions. Technologies like [Massive MIMO (Multiple Input, Multiple Output) and beamforming](https://www.qualcomm.com/news/onq/2019/06/how-5g-massive-mimo-transforms-your-mobile-experiences) help sustain signals, even in very crowded environments. 
 
 In this context, the signal is more robust. Additionally, 5G is able to reconnect faster due to the prevalence of edge computing (more on that in a bit) and better handover protocols. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Density
 
@@ -121,6 +135,19 @@ Another company using 5G technology is field service software provider [FieldCir
 
 "For me, one major problem it solves is that it enables applications to function even when there's limited or no internet connectivity," Choudhary told ZDNET. "This has been gold for testing products that need to continue working in remote environments such as field operations or remote monitoring solutions, which has greatly benefitted our FieldCircle clients and improved our overall reputation with them." 
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Custom applications with better network performance
 
 [TechAhead](https://www.techaheadcorp.com/) is a company that builds mobile app solutions for clients. ZDNET spoke to Vikas Kaushik, TechAhead's CEO. His company is employing edge computing and 5G to improve mobile app development procedures. With 5G, the company can now give real-time data synchronization, smooth remote collaboration, and what he describes as "incredibly quick content delivery" within the apps TechAhead provides to clients. 
@@ -139,6 +166,13 @@ Coffee also increases the ease and efficiency of work. Just sayin'. And yes, I c
 
 Mastin reports, "Using a combination of 5G and edge computing has been beneficial for collecting, analyzing, and storing data, and we've been able to use these insights to enhance our business, segmenting our audience more effectively, and tailoring our marketing accordingly. It has also supported personalization, which has made a significant difference to our performance. Another added benefit is that it supports security, which is a major priority for our business." 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Supply chain logistics 
 
 We also had the opportunity to speak with Orlando Remédios, cofounder and CEO of [Sensefinity](https://www.sensefinity.com/), an IoT company providing end-to-end visibility for complex logistic processes, from monitoring production to tracking the goods in real-time through global supply chains. Sensefinity provides real-time visibility, alarms, and predictive analytics. 
@@ -154,6 +188,13 @@ Remédios also told us that all these connected IoT devices help, "Identify crit
 Self-driving cars are a big application of 5G. Personally, I'm not sure I ever want to give up the steering wheel and gas pedal, but with aging being "[the top global demographic trend](https://www.imf.org/en/Publications/fandd/issues/Series/Analytical-Series/aging-is-the-real-population-bomb-bloom-zucker)," self-driving cars promise to provide older folks with agency far beyond the time their reflexes diminish to the point where they can't safely drive on their own. But, we won't really be able to usher in the era of cars that drive us until 5G is widely deployed.
 
 Either way, buckle your seat belts.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  To 6G and beyond 
 
@@ -177,11 +218,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-content-game-studio-aptitude-essentials-for-2024/"><u>[New] Elevate Your Content Game Studio Aptitude Essentials for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-social-media-savant-to-money-maker-on-instagram/"><u>[Updated] 2024 Approved From Social Media Savant to Money Maker on Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevate-your-content-how-to-edit-instagrams-preferred-format-in-fcpx/"><u>[Updated] In 2024, Elevate Your Content How to Edit Instagram's Preferred Format in FCPX</u></a></li>
+<li><a href="https://techidaily.com/automated-user-tracking-with-cookiebot-boost-your-sites-visitor-insights/"><u>Automated User Tracking with Cookiebot: Boost Your Site's Visitor Insights</u></a></li>
+<li><a href="https://win-studio.techidaily.com/como-migraremos-windows/"><u>Cómo Migraremos Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-achieve-success-as-a-data-expert-top-5-essential-steps-insights-from-zdnet/"><u>How To Achieve Success as a Data Expert: Top 5 Essential Steps - Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nokia-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nokia Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/landing-your-first-tech-role-without-prior-experience-expert-tips-from-zdnet/"><u>Landing Your First Tech Role Without Prior Experience: Expert Tips From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movhevc/"><u>MOVファイルとのHEVCコードチェンジ: 効率的なビデオエンコード・デコード手法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-imposter-syndrome-in-the-office-strategies-for-professional-assurance/"><u>Overcoming Imposter Syndrome in the Office - Strategies for Professional Assurance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/survey-highlights-a-quarter-of-it-workers-considering-career-change-zdnet-insights/"><u>Survey Highlights: A Quarter of IT Workers Considering Career Change | ZDNet Insights</u></a></li>
+</ul></div>
+

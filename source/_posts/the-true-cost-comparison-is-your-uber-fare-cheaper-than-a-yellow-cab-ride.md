@@ -1,7 +1,7 @@
 ---
 title: "The True Cost Comparison: Is Your Uber Fare Cheaper than a Yellow Cab Ride?"
-date: 2024-10-21T21:04:27.695Z
-updated: 2024-10-24T19:00:22.413Z
+date: 2024-10-27T02:13:34.172Z
+updated: 2024-10-30T22:44:11.077Z
 categories:
   - BestProducts
 description: "This Article Describes The True Cost Comparison: Is Your Uber Fare Cheaper than a Yellow Cab Ride?"
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 Mlenny / Getty Images
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cost Variables to Consider
@@ -50,10 +50,10 @@ Mlenny / Getty Images
  If you open the Uber app and see a 1.8 surge price, then a $10 trip will cost you closer to $18\. ​Avoid surge pricing by waiting a few minutes or walking a few blocks (if you're in a safe area) in another direction. One customer infamously paid[$14,000 for a 20-minute Uber ride](https://www.inc.com/peter-economy/uber-surge-pricing-snafu-results-in-shocking-14400-charge-for-a-20-minute-ride-dont-be-next-victim.html) due to surge pricing, so pay attention to how much you're being charged.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Uber vs. Taxis: The Verdict
@@ -89,20 +89,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensively-understanding-azure-speech-to-text/"><u>[Updated] Comprehensively Understanding Azure Speech to Text</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prime-streamers-selection-the-best-websites/"><u>[Updated] Prime Streamers' Selection The Best Websites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-unveiling-the-best-18-features-in-ios-shortcuts-app/"><u>Boost Your Productivity: Unveiling the Best 18 Features in iOS Shortcuts App</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-prime-locations-for-buying-cutting-edge-cell-phones/"><u>Discover Prime Locations for Buying Cutting-Edge Cell Phones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-the-7-best-imessage-games-for-2econdaries/"><u>Discover the Ultimate List: The 7 Best iMessage Games for 2Econdaries !</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y200e-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y200e 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-creative-potential-downloading-free-luts-for-ar-development/"><u>In 2024, Unlocking Creative Potential Downloading Free LUTs for AR Development</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-of-different-ipados-software-releases/"><u>In-Depth Analysis of Different iPadOS Software Releases</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-itel-p40plus-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Itel P40+</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-instructions-for-saving-and-retrieving-imessages-on-apple-devices/"><u>Step-by-Step Instructions for Saving and Retrieving iMessages on Apple Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/tackling-silent-screens-quick-fixes-for-sound-problems-on-toshiba-notebooks/"><u>Tackling Silent Screens: Quick Fixes for Sound Problems on Toshiba Notebooks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722898005014-top-5-must-watch-uk-series-streaming-on-netflix-today/"><u>Top 5 Must-Watch UK Series Streaming on Netflix Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-clearing-browsing-data-across-all-top-web-browsers/"><u>Ultimate Guide: Clearing Browsing Data Across All Top Web Browsers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-google-hangouts-everything-you-need-to-know/"><u>Unraveling the Mystery Behind Google Hangouts: Everything You Need to Know</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/xchange-your-mind-with-non-sharex-insights/"><u>XChange Your Mind with Non-ShareX Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flixfortress-over-a-hundred-channels-of-fortitude-for-2024/"><u>[New] FlixFortress Over a Hundred Channels of Fortitude for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-superior-5-digital-capture-devices/"><u>[New] In 2024, Superior 5 Digital Capture Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-why-av1-may-outshine-vp9-in-video-compression-for-2024/"><u>[Updated] Why AV1 May Outshine VP9 in Video Compression for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-ultimate-selection-of-ipad-enhancements-for-2econd-half-insights-from-zdnet/"><u>Exploring the Ultimate Selection of iPad Enhancements for 2Econd Half - Insights From ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-your-tiktok-storytelling-with-effects/"><u>In 2024, Innovate Your TikTok Storytelling with Effects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-air-vs-ipad-pro-why-the-air-model-nearly-surpasses-your-expectations-in-depth-comparison-and-insights/"><u>IPad Air Vs. IPad Pro: Why the Air Model Nearly Surpasses Your Expectations - In-Depth Comparison and Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/melodic-integration-for-engaging-insta-posts-for-2024/"><u>Melodic Integration for Engaging Insta Posts for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-dts-audio-not-available-on-your-selected-output-device/"><u>Resolving 'DTS Audio Not Available' On Your Selected Output Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-charged-and-cool-unveiling-the-ultimate-3-in-1-magsafe-dock-for-apple-users-exclusive-review-on-zdnet/"><u>Stay Charged and Cool: Unveiling the Ultimate 3-in-1 MagSafe Dock for Apple Users - Exclusive Review on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-macbook-accessories-curated-and-appraised-by-industry-experts-insights-from-zdnet/"><u>Ultimate List of MacBook Accessories , Curated & Appraised by Industry Experts | Insights From ZDNET</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unlock-free-vocal-manipulation-expertise-with-in-depth-guide-to-voice-editing-via-filmora-for-2024/"><u>Unlock Free Vocal Manipulation Expertise with In-Depth Guide to Voice Editing via Filmora for 2024</u></a></li>
 </ul></div>
 

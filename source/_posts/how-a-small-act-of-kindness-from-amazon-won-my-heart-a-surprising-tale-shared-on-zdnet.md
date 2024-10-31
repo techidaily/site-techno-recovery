@@ -1,7 +1,7 @@
 ---
 title: "How a Small Act of Kindness From Amazon Won My Heart: A Surprising Tale Shared on ZDNet"
-date: 2024-09-17 16:49:27
-updated: 2024-09-20 12:39:12
+date: 2024-10-26T04:20:32.303Z
+updated: 2024-10-31T03:28:01.540Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,19 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -57,6 +70,19 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -75,9 +101,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +144,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[New] In 2024, The Ultimate Guide to Podcast Outros & Examples</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-wired-versus-broadcasted-analyzing-wirecast-and-obs/"><u>[Updated] 2024 Approved Wired versus Broadcasted Analyzing Wirecast and OBS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-podcasts-peak-listening-times-for-2024/"><u>[Updated] Unveiling Podcasts Peak Listening Times for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-choosing-your-ideal-virtual-reality-experience-the-best-xr-headset-on-the-market-insights-from-i-tried-them-all/"><u>1. Choosing Your Ideal Virtual Reality Experience: The Best XR Headset on the Market - Insights From I Tried Them All!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-meta-quest-2-and-quest-pro-a-detailed-guide-on-choosing-your-next-vr-device-zdnet/"><u>Comparing Meta Quest 2 and Quest Pro: A Detailed Guide on Choosing Your Next VR Device - ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/comprehensive-synopsis-exploring-googles-podcast-ecosystem/"><u>Comprehensive Synopsis Exploring Google's Podcast Ecosystem</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effective-navigation-and-multitasking-master-phone-usage-while-driving-with-geolocation-features-and-task-organization-insights-from-the-abbyy-blog/"><u>Effective Navigation & Multitasking: Master Phone Usage While Driving with Geolocation Features & Task Organization - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fcc-expands-high-speed-access-to-6ghz-band-for-augmented-and-virtual-reality-equipments-insights-from-zdnet/"><u>FCC Expands High-Speed Access to 6GHz Band for Augmented & Virtual Reality Equipments, Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-business-administration-via-apple-vision-pro-a-pricey-investment/"><u>Mastering Business Administration via Apple Vision Pro: A Pricey Investment</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/movavi-mp3wav/"><u>Movavi의 MP3/WAV 원격 업무화 구성 - 오디오 파일을 쉽게 관리하기 위한 온라인 무료 솔루션</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-tech-game-with-the-newest-100-inch-ar-laptop-say-goodbye-to-monitors-now-zdnet/"><u>Revolutionize Your Tech Game with the Newest 100-Inch AR Laptop - Say Goodbye to Monitors Now | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/techs-leap-into-innovation-unveiling-the-top-breakthroughs-of-2n3-that-echo-a-decades-first-landmark-achievements-analysis-by-zdnet/"><u>Tech's Leap Into Innovation: Unveiling the Top Breakthroughs of 2N3 That Echo a Decade's First Landmark Achievements | Analysis by ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tecnicas-faciles-de-hacer-videos-con-sonido-usando-movavi/"><u>Técnicas Fáciles De Hacer Videos Con Sonido Usando Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-creative-genius-in-these-top-8-game-challenges/"><u>Unlock Your Creative Genius in These Top 8 Game Challenges</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/weekly-tech-forefront-artificial-intelligence-conversational-agents-and-augmented-reality-pave-the-way-zdnet/"><u>Weekly Tech Forefront: Artificial Intelligence, Conversational Agents, and Augmented Reality Pave the Way | ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+</ul></div>
+
