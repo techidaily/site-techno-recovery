@@ -1,7 +1,7 @@
 ---
 title: Why Choosing United Over Southwest Might Mean Compromising on Savings, Insights From ZDNet
-date: 2024-09-18 18:10:28
-updated: 2024-09-20 10:45:33
+date: 2024-11-03T19:53:21.215Z
+updated: 2024-11-05T18:44:22.353Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -79,6 +100,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I have to cancel my current account to get Prime Student? 
 
 No, you do not have to cancel or deactivate your account. Just [use this link](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1)to transfer your account. Your current benefits, however, may change. For example, if you currently have a 20% discount on home appliances, that may be revoked in place of the other perks. 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-cinema-youtubes-compreranche-guide-for-filmmakers/"><u>[New] In 2024, Crafting Cinema YouTube's Compreranche Guide for Filmmakers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-channel-charm-with-cost-free-visual-aids-for-2024/"><u>[Updated] Channel Charm with Cost-Free Visual Aids for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-stream-with-these-5-top-tier-cams/"><u>[Updated] Elevate Your Stream with These 5 Top-Tier Cams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-precision-in-filming-high-quality-camera-stabilizers-guide/"><u>[Updated] In 2024, Precision in Filming High-Quality Camera Stabilizers Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-review-of-apples-toughest-available-iphone-case-and-its-exceptional-security-functionality-on-zdnet/"><u>Comprehensive Review of Apple's Toughest Available iPhone Case and Its Exceptional Security Functionality on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-buzz-apple-watch-xs-forthcoming-market-debut-revealing-cost-estimates-official-launch-date-and-revolutionary-features/"><u>Decoding the Buzz: Apple Watch X's Forthcoming Market Debut - Revealing Cost Estimates, Official Launch Date & Revolutionary Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-tips-for-crafting-youtube-image-marketing-for-2024/"><u>Essential Tips for Crafting YouTube Image Marketing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-screens-to-social-shares-your-guide-to-popular-metaverse-memes-for-2024/"><u>From Screens to Social Shares Your Guide to Popular Metaverse Memes for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-access-apple-tv-on-a-firestick-for-easy-streaming/"><u>How To Access Apple TV on a Firestick for Easy Streaming</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-air-powered-by-m2-chip-why-this-is-the-ultimate-choice-for-most-consumers-techreview/"><u>IPad Air Powered by M2 Chip: Why This Is the Ultimate Choice for Most Consumers | TechReview</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-indie-filmmakers-toolkit-top-7-low-cost-video-production-software/"><u>New Indie Filmmakers Toolkit Top 7 Low-Cost Video Production Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-and-replacing-your-smartphones-display-shield/"><u>Step-by-Step Guide: Removing and Replacing Your Smartphone's Display Shield</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-essential-factors-to-evaluate-when-investing-in-a-new-desktop-computer/"><u>Top 8 Essential Factors to Evaluate When Investing in a New Desktop Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-reviews-and-comparisons-zdnets-findings/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews & Comparisons - ZDNet's Findings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-absent-d3dx927dll-error-message-expert-solutions/"><u>Troubleshooting the Absent d3dx9_27.dll Error Message: Expert Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-know-how-to-create-ai-thumbnails-for-videos-this-article-will-mention-some-of-the-best-tools-to-generate-attractive-thumbnails-for-vi/"><u>Updated In 2024, Do You Know How to Create AI Thumbnails for Videos? This Article Will Mention some of the Best Tools to Generate Attractive Thumbnails for Videos with AI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-your-ar-experience-economically-why-i-chose-these-affordable-xr-glasses-over-the-pricey-apple-and-meta-models-recommends/"><u>Upgrade Your AR Experience Economically: Why I Chose These Affordable XR Glasses Over the Pricey Apple and Meta Models Recommends</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/windows-11-and-data-migration/"><u>Windows 11 and Data Migration.</u></a></li>
+</ul></div>
+

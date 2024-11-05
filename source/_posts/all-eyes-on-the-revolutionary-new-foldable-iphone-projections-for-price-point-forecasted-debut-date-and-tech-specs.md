@@ -1,7 +1,7 @@
 ---
 title: "All Eyes On: The Revolutionary New Foldable iPhone - Projections for Price Point, Forecasted Debut Date & Tech Specs"
-date: 2024-10-23T17:33:12.859Z
-updated: 2024-10-31T03:00:29.188Z
+date: 2024-10-29T16:13:51.409Z
+updated: 2024-11-05T21:05:13.966Z
 categories:
   - BestProducts
 description: "This Article Describes All Eyes On: The Revolutionary New Foldable iPhone - Projections for Price Point, Forecasted Debut Date & Tech Specs"
@@ -48,10 +48,16 @@ In This Article
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Patent US8929085B2.
@@ -62,9 +68,23 @@ Patent US8929085B2.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Foldable iPhone Price Rumors
 
@@ -78,28 +98,15 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 iPhone Fold concept.
 
 Michal Dufka
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-Order Information
@@ -117,13 +124,6 @@ Michal Dufka
  Given a larger phone could resemble a tablet, it makes sense that it would support the[Apple Pencil](https://www.lifewire.com/review-apple-pencil-3887601) . The latest version currently works only on a small selection of iPads, but expect a new version for the foldable iPhone (unless it's more of a flip phone than a tablet).
 
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Specs and Hardware
 
@@ -174,14 +174,24 @@ Michal Dufka
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ilm-swapping-ideas-best-replacements-1-7/"><u>[New] Film Swapping Ideas Best Replacements #1-7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/11-upgrade-zdnet-insights/"><u>11 Upgrade | ZDNET Insights</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-iphone-usb-connection-detailed-guide-on-resolving-mtp-device-driver-problems/"><u>Fixing the iPhone USB Connection: Detailed Guide on Resolving MTP Device Driver Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-oculus-setup-failures-in-windows-11-and-10/"><u>How to Overcome Oculus Setup Failures in Windows 11 & 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Samsung Galaxy F54 5G?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-expert-review-of-peak-designs-best-smartphone-holders-for-samsung-google-and-iphone-users-cnet/"><u>The Expert Review of Peak Design's Best Smartphone Holders for Samsung, Google & iPhone Users | CNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-perfect-google-pixel-e-assuming-it-was-meant-instead-of-pixel-7a-phone-case-today-expert-reviews-and-top-recommendations/"><u>Ultimate Guide to Choosing the Perfect Google Pixel E (Assuming It Was Meant Instead of 'Pixel 7A') Phone Case Today: Expert Reviews and Top Recommendations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-exclusive-pixel-n-deal-at-only-100-a-step-by-step-guide-to-snagging-your-high-end-phone-on-budget/"><u>Unlock Exclusive Pixel N Deal at Only $100: A Step-by-Step Guide to Snagging Your High-End Phone on Budget!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-cutting-edge-tools-for-igtv-content-creation-and-editing-for-2024/"><u>[New] Cutting-Edge Tools for IGTV Content Creation and Editing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-leading-ways-to-preserve-live-streamed-sports-events-flawlessly-for-2024/"><u>[New] Leading Ways to Preserve Live-Streamed Sports Events Flawlessly for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-roku-tv-facebook-live-broadcasting-tips-for-2024/"><u>[Updated] Navigating Roku TV Facebook Live Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/calculate-the-absolute-deviations-48-28-22-82-38-12/"><u>Calculate the Absolute Deviations: $4.8, 2.8, 2.2, 8.2, 3.8, 1.2$</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-your-next-smartphone-top-picks-after-the-retirement-of-iphone-13-and-15-pro-insights-from-zdnets-latest-article/"><u>Choosing Your Next Smartphone: Top Picks After the Retirement of iPhone 13 and 15 Pro, Insights From ZDNET's Latest Article</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-ecompileerror-unable-to-find-jscriptdll-step-by-step-solutions/"><u>Fixing the E_COMPILEERROR: Unable to Find 'JScript.dll': Step-by-Step Solutions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-turn-tracks-into-tunes-mp3-to-youtube-conversion-made-simple/"><u>In 2024, Turn Tracks Into Tunes MP3-to-YouTube Conversion Made Simple</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-public-health-screening-method-unveiled-at-local-restroom-facility/"><u>Innovative Public Health Screening Method Unveiled at Local Restroom Facility</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-on-your-ipad-ultimate-list-of-tools-to-boost-your-output-and-organize-workflow/"><u>Maximizing Productivity on Your iPad: Ultimate List of Tools to Boost Your Output & Organize Workflow</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-ai-advantages-elevating-your-instagram-game-through-smart-technology/"><u>Meta AI Advantages: Elevating Your Instagram Game Through Smart Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionary-apples-next-venture-into-augmented-reality-and-cost-effective-visual-devices-unveiled-sources/"><u>Revolutionary Apple's Next Venture Into Augmented Reality and Cost-Effective Visual Devices - Unveiled Sources</u></a></li>
+<li><a href="https://article-files.techidaily.com/stop-the-mist-secrets-to-a-clean-gopro-shot-for-2024/"><u>Stop the Mist Secrets to a Clean GoPro Shot for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-dos-and-donts-of-mixing-music-in-instagram-videos-for-2024/"><u>The Do's and Don'ts of Mixing Music in Instagram Videos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-programming-how-artificial-intelligence-transforms-developer-practices/"><u>The Future of Programming: How Artificial Intelligence Transforms Developer Practices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-straps-in-depth-analysis-by-tech-gurus-featuring-reviews-from-zdnet/"><u>Top-Rated Apple Watch Straps : In-Depth Analysis by Tech Gurus - Featuring Reviews From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721481290193-troubleshoot-your-iphones-delayed-screen-timeout-top-remedies-revealed/"><u>Troubleshoot Your iPhone's Delayed Screen Timeout - Top Remedies Revealed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-voicemod-issues/"><u>Ultimate Guide: Resolving Voicemod Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/unauthorized-access-denied-solutions-inside/"><u>Unauthorized Access Denied: Solutions Inside</u></a></li>
 </ul></div>
 

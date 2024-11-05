@@ -1,7 +1,7 @@
 ---
 title: Venmo and PayPal Enhance Mobile Commerce with New 'Tap to Pay' Functionality for iPhone Business Users | ZDNET Analysis
-date: 2024-09-18 13:25:49
-updated: 2024-09-20 12:22:39
+date: 2024-11-01T17:28:47.429Z
+updated: 2024-11-05T17:00:44.390Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,15 +76,42 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-capturing-skies-engaging-audiences-learn-to-stream-w-dji-drones-for-2024/"><u>[New] Capturing Skies, Engaging Audiences Learn to Stream W/ DJI Drones for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-crafting-professional-gamers-content-with-obs-recordings-for-2024/"><u>[New] Crafting Professional Gamers' Content with OBS Recordings for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-best-soundshapers-for-content-makers-on-youtube/"><u>[New] In 2024, Best Soundshapers for Content Makers on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-keeping-track-of-your-google-voice-conversations/"><u>[New] Keeping Track of Your Google Voice Conversations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-droning-made-simple-top-picks-for-kids-and-newbies/"><u>2024 Approved Droning Made Simple Top Picks for Kids & Newbies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-api-demystified-for-developers/"><u>ChatGPT API Demystified for Developers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-virtual-reality-experience-with-the-meta-quest-3-by-streaming-exclusive-3d-content-from-apple-watch-now/"><u>Enhance Your Virtual Reality Experience with the Meta Quest 3 by Streaming Exclusive 3D Content From Apple - Watch Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-insight-unveiling-sonys-next-gen-xr-headset-at-ces-2024-a-detailed-analysis/"><u>Exclusive Insight: Unveiling Sony's Next-Gen XR Headset at CES 2024 - A Detailed Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-construct-a-robust-digital-twin-framework-for-your-business-with-ai-integration-insights-zdnet/"><u>How to Construct a Robust Digital Twin Framework for Your Business with AI Integration Insights | ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-vs-apple-in-the-vr-arena-exploring-metas-secret-tech-advantage-with-zdnets-in-depth-analysis/"><u>Meta Vs. Apple in the VR Arena: Exploring Meta's Secret Tech Advantage with ZDNet's In-Depth Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-obstacles-in-implementing-digital-twin-technology-a-guide-to-the-top-7-hurdles-for-enterprises/"><u>Overcoming Obstacles in Implementing Digital Twin Technology: A Guide to the Top 7 Hurdles for Enterprises</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/should-you-preorder-the-new-apple-vision-pro-top-5-essential-factors-to-consider-insights-from-zdnet/"><u>Should You Preorder the New Apple Vision Pro? Top 5 Essential Factors to Consider - Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-apple-vision-pro-revealed-pricing-breakdown-feature-overview-and-hands-on-impressions-in-depth-tech-review/"><u>The Apple Vision Pro Revealed: Pricing Breakdown, Feature Overview, and Hands-On Impressions | In Depth Tech Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-main-issue-with-current-vr-use-according-to-a-tech-guru-zdnet/"><u>The Main Issue With Current VR Use, According to a Tech Guru | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unpacking-the-resemblance-how-vision-pros-new-controller-might-mirror-apple-pencil-according-to-recent-patents-zdnet/"><u>Unpacking the Resemblance: How Vision Pro's New Controller Might Mirror Apple Pencil, According to Recent Patents | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reveals-surprising-2023-tech-breakthrough-the-meta-quest-3-dominates-as-the-years-most-innovative-device/"><u>ZDNET Reveals Surprising 2023 Tech Breakthrough: The Meta Quest 3 Dominates as the Year's Most Innovative Device</u></a></li>
+</ul></div>
+

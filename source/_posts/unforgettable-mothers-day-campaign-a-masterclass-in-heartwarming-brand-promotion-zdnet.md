@@ -1,7 +1,7 @@
 ---
 title: Unforgettable Mother’s Day Campaign - A Masterclass in Heartwarming Brand Promotion | ZDNet
-date: 2024-09-19 19:54:55
-updated: 2024-09-20 10:16:44
+date: 2024-11-04T21:44:17.176Z
+updated: 2024-11-05T22:04:16.640Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -45,6 +52,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -56,6 +70,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-elevate-your-tiktok-must-know-editing-insights/"><u>[New] In 2024, Elevate Your TikTok Must-Know Editing Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-culinary-craftsmanship-innovative-naming-for-food-shows/"><u>[Updated] 2024 Approved Culinary Craftsmanship Innovative Naming for Food Shows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-identifying-the-optimal-cloud-data-vaults/"><u>[Updated] 2024 Approved Identifying the Optimal Cloud Data Vaults</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-family-movie-selections-for-amazon-prime-viewers-in-july-2024/"><u>Best Family Movie Selections for Amazon Prime Viewers in July 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-reparer-sans-frais-un-mp4-coupe-sur-mac-ou-pc-etapes-pratiques/"><u>Comment Réparer Sans Frais Un MP4 Coupé Sur Mac Ou PC - Étapes Pratiques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-4-fantastic-no-cost-cad-tools/"><u>Discover These 4 Fantastic No-Cost CAD Tools!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-solutions-correcting-the-machine-check-exception-whea-on-your-computer/"><u>DIY Solutions: Correcting the Machine Check Exception (WHEA) on Your Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-blistering-speeds-with-our-comprehensive-review-of-the-netgear-nighthawk-rax120/"><u>Experience Blistering Speeds with Our Comprehensive Review of the Netgear Nighthawk RAX120</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone XS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-fixing-no-sound-issues-on-pc-during-call-of-duty-warzone-gameplay-year-2abriel-here-are-five-new-seo-titles-that-convey-similar-me669/"><u>Mastering the Battlefield: Fixing No-Sound Issues on PC During Call of Duty Warzone Gameplay (Year 2Abriel: Here Are Five New SEO Titles that Convey Similar Meanings to [2024 Tips] How to Fix Warzone No Sound on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-permissions-puzzle-bypassing-trustedinstaller-on-your-windows-10-pc/"><u>Mastering the Permissions Puzzle: Bypassing TrustedInstaller on Your Windows 10 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-essential-mobile-apps-for-diy-home-painters/"><u>Top 4 Essential Mobile Apps for DIY Home Painters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-merging-jpeg-images-into-a-single-pdf-file/"><u>Ultimate Guide: Merging JPEG Images Into a Single PDF File</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-motorola-razr-40-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Razr 40 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+

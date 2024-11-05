@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Viewing Experience: Roku Control Without the Physical Remote"
-date: 2024-10-28T16:28:54.418Z
-updated: 2024-10-30T21:29:23.461Z
+date: 2024-11-02T16:22:06.810Z
+updated: 2024-11-05T19:23:15.284Z
 categories:
   - BestProducts
 description: "This Article Describes Streamlining Your Viewing Experience: Roku Control Without the Physical Remote"
@@ -23,18 +23,18 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
@@ -47,15 +47,16 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
-4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
-![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
+![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
@@ -70,6 +71,13 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -82,23 +90,16 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
 
@@ -145,21 +146,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-rapid-video-capture-software-w-audible-commentaries/"><u>[Updated] Rapid Video Capture Software W/ Audible Commentaries</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-from-raw-footage-to-final-product-using-windows-10-for-editing-success/"><u>2024 Approved From Raw Footage to Final Product Using Windows 10 for Editing Success</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-se-2020-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone SE (2020) iCloud Lock</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-kindle-scribe-evaluation-after-a-full-year-nearly-flawless-experience-gadgetpundit/"><u>Amazon Kindle Scribe Evaluation After a Full Year - Nearly Flawless Experience! | GadgetPundit</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversione-swf-a-mov-su-internet-gratuita-il-modo-facile-di-usare-lutilita-di-movavi/"><u>Conversione SWF a MOV Su Internet Gratuita: Il Modo Facile Di Usare L'utilità Di Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-compact-tablets-of-2024-unveiled-in-depth-analysis-and-reviews-zdnet/"><u>Leading Compact Tablets of 2024 Unveiled: In-Depth Analysis and Reviews | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-malware-defense-restoring-windows-defender-engine-capability/"><u>Mastering Malware Defense: Restoring Windows Defender Engine Capability</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-your-productivity-with-kindle-scrivener-essential-techniques-and-strategies-for-mastering-amazons-e-writer-tool-techadvice/"><u>Maximizing Your Productivity with Kindle Scrivener: Essential Techniques and Strategies for Mastering Amazon's E-Writer Tool | TechAdvice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-lava-blaze-2-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Lava Blaze 2 Phone Now with These Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-elite-quartet-of-smart-pen-devices-for-2e-year-insights-from-zdnet/"><u>Unveiling the Elite Quartet of Smart Pen Devices for 2E Year - Insights From ZDNet</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-mp4-video-editing-made-easy-top-free-cutters-for-2024/"><u>Updated MP4 Video Editing Made Easy Top Free Cutters for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-managing-differs-from-leadership-key-insights-and-implications-explore-on-zdnet/"><u>Why Managing Differs From Leadership: Key Insights & Implications - Explore on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-google-calendars-latest-upgrade-seamless-bookable-appointment-scheduling-unleashed/"><u>ZDNet Explores Google Calendar's Latest Upgrade: Seamless Bookable Appointment Scheduling Unleashed!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-recommends-mastering-emails-in-linux-with-our-new-preferred-choice/"><u>ZDNet Recommends: Mastering Emails in Linux with Our New Preferred Choice!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-selection-the-leading-smart-pens-reshaping-writing/"><u>ZDNet's Ultimate Selection: The Leading Smart Pens Reshaping Writing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-best-quality-frames-at-low-motion-velocity/"><u>[Updated] In 2024, Best Quality Frames at Low Motion Velocity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-inventory-management/"><u>2024 Approved Inventory Management</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creating-a-portable-wire-free-cinema-in-your-college-dormitory-tips-and-tricks/"><u>Creating a Portable, Wire-Free Cinema in Your College Dormitory – Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/file-previews-missing-in-windows-11-quick-fix-guide-needed/"><u>File Previews Missing in Windows 11: Quick Fix Guide Needed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g-5g-2023-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c65-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Poco C65 Phone without Any Data Loss</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-free-clip-art-for-your-designs/"><u>In 2024, Unlocking Free Clip-Art for Your Designs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-v30t-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from V30T.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-essential-guide-to-tracking-your-youtube-progress/"><u>The Essential Guide to Tracking Your YouTube Progress</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essential-technique-cleaning-your-teleremote-properly/"><u>The Essential Technique: Cleaning Your TeleRemote Properly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-iphone-15-for-professionals-insights-reviews-and-why-it-stands-out/"><u>The Ultimate Guide to the iPhone 15 for Professionals: Insights, Reviews, & Why It Stands Out</u></a></li>
+<li><a href="https://article-files.techidaily.com/thrifty-choices-for-virtual-reality-heads/"><u>Thrifty Choices for Virtual Reality Heads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-innovative-features-of-the-new-iphone-16-that-propel-its-superiority-over-previous-models-insights-from-zdnet/"><u>Top 4 Innovative Features of the New iPhone 16 That Propel Its Superiority Over Previous Models - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-16-iphone-16-pro-protective-covers-reviewed-by-tech-experts-zdnet/"><u>Top-Rated iPhone 16 / iPhone 16 Pro Protective Covers Reviewed by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-wi-fi-issues-on-your-microsoft-surface-pro-a-comprehensive-guide/"><u>Troubleshooting Wi-Fi Issues on Your Microsoft Surface Pro: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-2024-ipad-pro-shields-elite-tested-and-evaluated-by-experts-zdnet/"><u>Ultimate Selection of 2024 iPad Pro Shields: Elite Tested and Evaluated by Experts | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723016901918-why-isnt-my-microphone-working-expert-tips-and-solutions/"><u>Why Isn't My Microphone Working? Expert Tips & Solutions</u></a></li>
 </ul></div>
 

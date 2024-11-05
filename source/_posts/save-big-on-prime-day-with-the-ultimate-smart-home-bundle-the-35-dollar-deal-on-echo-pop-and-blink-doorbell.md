@@ -1,7 +1,7 @@
 ---
 title: Save Big on Prime Day with the Ultimate Smart Home Bundle – The 35-Dollar Deal on Echo Pop and Blink Doorbell!
-date: 2024-09-19 12:46:57
-updated: 2024-09-20 10:43:35
+date: 2024-10-29T21:28:06.792Z
+updated: 2024-11-05T21:58:34.971Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +58,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-efficiently-capture-skype-meetings-across-windows-and-macos/"><u>[New] How to Efficiently Capture Skype Meetings Across Windows and MacOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-the-apple-glasses-hype-on-a-budget-how-i-found-relief-with-cost-effective-ar-eyewear-zdnet-exclusives/"><u>Beat the 'Apple Glasses' Hype on a Budget: How I Found Relief with Cost-Effective AR Eyewear | ZDNET Exclusives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-from-razer-a-comprehensive-roundup-of-razers-exciting-unveilings-at-ces-2nite/"><u>Discover the Latest From Razer: A Comprehensive Roundup of Razer's Exciting Unveilings at CES 2Nite!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/emerging-dominant-tech-forces-ai-virtual-assistants-and-ar-spotlight-this-weeks-hottest-innovations-zdnet/"><u>Emerging Dominant Tech Forces: AI, Virtual Assistants & AR Spotlight This Week's Hottest Innovations | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-lenovo-thinkreality-a3-experience-elevating-your-virtual-interactions/"><u>Exploring the Lenovo ThinkReality A3 Experience: Elevating Your Virtual Interactions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-winx-mediatrans-trial-effortless-file-management-and-synchronization-between-iphone-android-and-pc-no-itunes-required/"><u>Free WinX MediaTrans Trial: Effortless File Management & Synchronization Between iPhone, Android, and PC - No iTunes Required!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-enhanced-document-and-pdf-chat-options/"><u>GPT-Enhanced Document & PDF Chat Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-meta-quests-supernatural-app-revolutionized-my-fitness-journey-why-going-back-is-unthinkable-zdnet/"><u>How Meta Quest's Supernatural App Revolutionized My Fitness Journey – Why Going Back Is Unthinkable | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-swiftly-delivered-shipments-reflect-consumer-desire-for-the-latest-apple-xr-headset-gadgetflow/"><u>How Swiftly Delivered Shipments Reflect Consumer Desire for the Latest Apple XR Headset | GadgetFlow</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-complete-minecraft-filming-guidebook/"><u>In 2024, Complete Minecraft Filming Guidebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-hushed-collaboration-qualcomm-unveils-its-joint-venture-with-samsung-and-google-on-ar-smart-glasses-a-dive-into-the-future/"><u>Inside the Hushed Collaboration: Qualcomm Unveils Its Joint Venture with Samsung & Google on AR Smart Glasses - A Dive Into the Future</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-15-insights-and-expert-analysis-top-picks-for-power-users-a-closer-look-by-zdnet/"><u>IPhone 15 Insights & Expert Analysis: Top Picks for Power Users - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iphone-showdown-exploring-major-upgrades-from-iphone-14-pro-to-iphone-15-pro/"><u>IPhone Showdown: Exploring Major Upgrades From iPhone 14 Pro to iPhone 15 Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/quick-start-guide-to-editing-with-snapseed/"><u>Quick Start Guide to Editing with Snapseed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-in-harmony-connect-and-listen-to-spotify-with-your-crew/"><u>Streaming in Harmony: Connect and Listen to Spotify With Your Crew</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-impact-of-metas-new-image-recognition-ai-model-on-technology-and-society-zdnet-insights/"><u>The Impact of Meta's New Image-Recognition AI Model on Technology and Society | ZDNet Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-online-streaming-audio-logging/"><u>The Ultimate Guide to Online Streaming Audio Logging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-insights-from-the-ifixit-analysis-of-apple-vision-pros-internal-design-a-deep-dive-zdnet/"><u>Top 5 Insights From the iFixit Analysis of Apple Vision Pro's Internal Design: A Deep Dive - ZDNet</u></a></li>
+</ul></div>
+

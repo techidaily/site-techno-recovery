@@ -1,7 +1,7 @@
 ---
 title: Evaluating the $10 Monthly Amazon Grocardis Delivery Test - Is It a Bargain?
-date: 2024-09-19 17:46:37
-updated: 2024-09-20 10:18:48
+date: 2024-10-31T19:10:40.626Z
+updated: 2024-11-05T18:34:43.175Z
 tags:
   - e-commerce
 categories:
@@ -28,6 +28,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 **Also: [The best early Amazon Prime Day 2024 deals](https://www.zdnet.com/article/best-early-amazon-prime-day-2024-deals/)**
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who is eligible for a Prime Student membership? 
 
@@ -57,6 +64,19 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +84,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -74,6 +101,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-condense-cinematography-to-instagrams-max-on-macos/"><u>[Updated] 2024 Approved Condense Cinematography to Instagram's Max on macOS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-insta-reversal-unlock-the-power-of-video-rotation/"><u>[Updated] In 2024, Insta-Reversal Unlock the Power of Video Rotation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation-for-2024/"><u>[Updated] Unleashing Satirical Genius in the Metaverse – How-To Meme Creation for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jpegmtsmp4/"><u>「JPEG画像から動画形式への変換法：MTSファイルをMP4へ」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-automatic-clickers-unveiling-the-top-5-for-your-android-smartphone/"><u>Discover the Best Automatic Clickers: Unveiling the Top 5 for Your Android Smartphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-screen-capture-solutions-for-your-hp-portable-computer/"><u>Easy Screen Capture Solutions for Your HP Portable Computer</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/elevate-your-campaigns-discover-top-tips-for-enhanced-email-marketing-effectiveness-using-massmail-tools-expert-advice-from-mmsw-blog/"><u>Elevate Your Campaigns: Discover Top Tips for Enhanced Email Marketing Effectiveness Using MassMail Tools | Expert Advice From MMSW Blog</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-psvr2-insights-into-release-dates-costs-and-hardware-specifications/"><u>Exploring the New PSVR2 - Insights Into Release Dates, Costs, and Hardware Specifications</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a18-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A18 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y100i-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y100i</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/masterclass-a-deep-dive-into-features-content-and-more-about-netflixs-prime-platform/"><u>Masterclass: A Deep Dive Into Features, Content & More About Netflix's Prime Platform</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-merge-mov-files-for-free-top-5-video-joiner-tools/"><u>New In 2024, Merge MOV Files for Free Top 5 Video Joiner Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-to-sub-guide-practical-conversion-methods/"><u>SRT to SUB Guide Practical Conversion Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-restoring-your-macs-network-preferences/"><u>Step-by-Step Guide: Restoring Your Mac's Network Preferences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-executing-tracert-commands-in-windows-environments/"><u>Step-by-Step Instructions for Executing Tracert Commands in Windows Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-become-a-pro-in-playing-royal-match/"><u>Step-by-Step Instructions to Become a Pro in Playing Royal Match</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-av-equipment-key-variances-of-ht-and-sr-receivers-for-your-space/"><u>Understanding AV Equipment: Key Variances of HT and SR Receivers for Your Space</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-difference-do-we-say-retweet-or-re-tweet/"><u>Understanding the Difference: Do We Say 'Retweet' Or 'Re-Tweet'?</u></a></li>
+</ul></div>
+

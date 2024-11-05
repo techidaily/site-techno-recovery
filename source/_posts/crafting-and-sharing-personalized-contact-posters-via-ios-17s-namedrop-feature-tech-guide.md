@@ -1,7 +1,7 @@
 ---
 title: Crafting and Sharing Personalized Contact Posters via iOS 17'S NameDrop Feature | Tech Guide
-date: 2024-10-28T02:49:29.635Z
-updated: 2024-10-31T00:58:12.976Z
+date: 2024-10-29T17:34:47.234Z
+updated: 2024-11-05T21:02:04.178Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -40,10 +40,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -55,10 +55,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -68,13 +68,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -105,6 +98,13 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,16 +148,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-memes-mastermind/"><u>[New] Memes Mastermind</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-manual-for-minecraft-playbacks-on-mac/"><u>[New] The Ultimate Manual for Minecraft Playbacks on Mac</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-quickly-locating-your-curated-music-compilation-on-youtube/"><u>[Updated] 2024 Approved Quickly Locating Your Curated Music Compilation on Youtube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-customized-obs-guide-for-budget-builds/"><u>[Updated] Customized OBS Guide for Budget Builds</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mirthful-media-youtubes-top-20-for-a-chuckle/"><u>[Updated] In 2024, Mirthful Media YouTube's Top 20 for a Chuckle</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-to-breakthrough-content-crafting-the-top-10-simplest-youtube-projects-for-2024/"><u>Basic to Breakthrough Content Crafting the Top 10 Simplest YouTube Projects for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-your-workstations-endurance-in-depth-test-of-the-zendure-superbase-pro-2000-zdnet-insights/"><u>Maximize Your Workstation's Endurance: In-Depth Test of the Zendure SuperBase Pro 2000 | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-google-nest-learning-thermostat-unpacking-its-advanced-functionality-hardware-specs-pricing-structure-and-additional-highlights-engadg66/"><u>The Ultimate Guide to Google Nest Learning Thermostat - Unpacking Its Advanced Functionality, Hardware Specs, Pricing Structure & Additional Highlights | Engadget</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-electric-lawnmowers-comprehensive-review-by-tech-experts/"><u>Top 5 Electric Lawnmowers : Comprehensive Review by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleash-off-grid-audio-power-the-premier-solar-powered-bluetooth-speakers-of-the-year-as-chosen-by-specialists/"><u>Unleash Off-Grid Audio Power: The Premier Solar-Powered Bluetooth Speakers of the Year, as Chosen by Specialists</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-precision-copywriting-a-deep-dive-into-the-world-of-slug-lines/"><u>[Updated] 2024 Approved Precision Copywriting A Deep Dive Into the World of Slug Lines</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-reviving-classics-top-20-anime-concepts-for-tiktoks/"><u>[Updated] Reviving Classics Top 20 Anime Concepts for TikToks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-vs-ios-a-comparison-of-five-key-areas-for-improvement-to-challenge-apples-dominance-according-to-experts-at-zdnet/"><u>Android Vs. IOS: A Comparison of Five Key Areas for Improvement to Challenge Apple's Dominance, According to Experts at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-hits-amazon-grab-the-uncommon-200-off-deal-before-it-ends-insights/"><u>Apple Vision Pro Hits Amazon: Grab the Uncommon $200 Off Deal Before It Ends - Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/budget-savvy-shooters-top-5-under-200-cameras/"><u>Budget-Savvy Shooters Top 5 Under $200 Cameras</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/can-you-preserve-customized-flipbook-settings-in-flipbuilder-for-later-uses/"><u>Can You Preserve Customized Flipbook Settings in FlipBuilder for Later Uses?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-tutorial-undo-sending-and-recalling-messages-in-outlook/"><u>Complete Tutorial: Undo Sending and Recalling Messages in Outlook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/easy-recording-tips-for-your-hp-laptops-camera-for-2024/"><u>Easy Recording Tips for Your HP Laptop's Camera for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-how-to-install-latest-ati-driver-for-windows-users/"><u>Easy Tutorial: How to Install Latest ATI Driver for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-history-and-functionality-of-aol-instant-messenger-aim/"><u>Exploring the History and Functionality of AOL Instant Messenger (AIM)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-your-internet-connection-the-ultimate-guide-to-mac-network-resets/"><u>Revive Your Internet Connection: The Ultimate Guide to Mac Network Resets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-triumph-apple-developers-ecstatic-as-their-key-software-receives-monumental-complimentary-ai-upgrade-explore/"><u>Tech Triumph: Apple Developers Ecstatic as Their Key Software Receives Monumental, Complimentary AI Upgrade - Explore !</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-screen-guardians-your-ultimate-guide-for-2eavestry-2023/"><u>Top-Rated Apple Watch Screen Guardians: Your Ultimate Guide for 2Eavestry, 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-wet-proof-smart-timepieces-comprehensive-ratings-and-insights-by-tech-experts/"><u>Top-Rated Wet-Proof Smart Timepieces - Comprehensive Ratings & Insights by Tech Experts</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transforming-vob-files-into-mp4-13-easy-steps-for-windows-and-macos-users/"><u>Transforming VOB Files Into MP4: 13 Easy Steps for Windows and macOS Users</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unleash-speed-in-your-youtube-videography-with-rapid-techniques/"><u>Unleash Speed in Your YouTube Videography with Rapid Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-gathering-insider-information-and-latest-updates/"><u>Upcoming Google Gathering: Insider Information & Latest Updates</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-make-videos-like-a-pro-on-mac-top-rated-video-makers/"><u>Updated 2024 Approved Make Videos Like a Pro on Mac Top-Rated Video Makers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vegaspro-2019-update-changes-and-impacts-for-2024/"><u>VegasPro 2019 Update Changes & Impacts for 2024</u></a></li>
 </ul></div>
 

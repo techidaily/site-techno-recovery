@@ -1,7 +1,7 @@
 ---
 title: "Grubhub Now Delivered via Amazon: Easy Food Orders with Just One Click"
-date: 2024-09-17 19:13:59
-updated: 2024-09-20 11:38:33
+date: 2024-10-31T16:15:32.628Z
+updated: 2024-11-05T20:07:55.211Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -56,6 +70,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -78,6 +99,19 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/discover-8-fantastic-websites-offering-free-3d-text-psdfiles-for-2024/"><u>Discover 8 Fantastic Websites Offering Free 3D Text PSDFiles for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-for-overcoming-msvcr80dll-errors-and-restoring-your-computer-functionality/"><u>Expert Advice for Overcoming Msvcr80.dll Errors and Restoring Your Computer Functionality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210293768-9781641914826-faith/"><u>Faith | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-empty-folder-problems-in-win11-and-11-error-0x80070091/"><u>How to Fix Empty Folder Problems in Win11 & 11 Error #0X80070091</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-se-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 SE Bootloader Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/post-vlc-era-unveiling-new-player-titans-for-2024/"><u>Post-VLC Era Unveiling New Player Titans for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-z-fold-4-launch-details-release-schedule-pricing-and-specifications/"><u>Samsung Z Fold 4 Launch Details - Release Schedule, Pricing & Specifications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/savor-the-taste-of-entertainment-our-picks-for-best-culinary-tv-shows-on-netflix/"><u>Savor the Taste of Entertainment: Our Picks for Best Culinary TV Shows on Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-handling-unresponsive-alexa-on-amazon-echo/"><u>Solutions for Handling Unresponsive Alexa on Amazon Echo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-the-ocidll-not-detected-issue-on-windows/"><u>Step-by-Step Fix for the Oci.dll Not Detected Issue on Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/streamlined-templates-the-essential-ae-text-list/"><u>Streamlined Templates The Essential AE Text List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-to-resolve-visible-lines-on-your-screen-set/"><u>Troubleshooting Techniques to Resolve Visible Lines On Your Screen Set</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-selecting-superior-iphone-e-6-video-transcoder-software/"><u>Ultimate Guide to Selecting Superior iPhone E 6 Video Transcoder Software</u></a></li>
+</ul></div>
+

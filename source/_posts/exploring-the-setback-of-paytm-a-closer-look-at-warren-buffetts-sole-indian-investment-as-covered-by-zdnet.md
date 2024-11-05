@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Setback of Paytm: A Closer Look at Warren Buffett’s Sole Indian Investment as Covered by ZDNet"
-date: 2024-09-17 23:16:46
-updated: 2024-09-20 11:43:38
+date: 2024-11-04T17:16:32.235Z
+updated: 2024-11-05T17:24:45.413Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -51,6 +65,19 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -64,6 +91,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +138,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-2024-guide-to-share-youtube-video-on-facebook/"><u>[New] 2024 Guide to Share YouTube Video on Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-expert-tips-for-avoiding-instagram-video-troubles/"><u>[New] In 2024, Expert Tips for Avoiding Instagram Video Troubles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-vs-multiverse-what-are-the-differences-complete-guide/"><u>[New] Metaverse Vs. Multiverse What Are the Differences [Complete Guide]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/adding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-windows-eboards-video-converter-apps-of-2020-quick-and-easy-hd4k-to-mp4-conversion/"><u>Best Free Windows Eboards Video Converter Apps of 2020 | Quick and Easy HD/4K to MP4 Conversion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparative-analysis-of-mac-vs-windows-pcs-uncovering-their-true-variances/"><u>Comparative Analysis of MAC Vs. Windows PCs: Uncovering Their True Variances</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customize-your-mailbox-how-to-set-a-new-sound-for-gmail-incoming-emails/"><u>Customize Your Mailbox: How to Set a New Sound for Gmail Incoming Emails</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-non-responsive-battlenlauncher-errors-on-windows-systems/"><u>Expert Tips for Resolving Non-Responsive Battle.nLauncher Errors on Windows Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-translated-subtitles-for-global-igtv-audience/"><u>In 2024, Translated Subtitles for Global IGTV Audience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/libera-conversione-da-flac-ad-aiff-online-con-movavi-ottimizza-il-tuo-audio-intemporaneamente/"><u>Libera Conversione Da Flac Ad Aiff Online Con Movavi: Ottimizza Il Tuo Audio Intemporaneamente</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-device-starting-problems-a-guide-to-fixing-code-10-errors/"><u>Overcoming Device Starting Problems: A Guide to Fixing 'Code 10' Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/teslas-game-changing-robo-cab-rumored-release-dates-and-cutting-edge-specs-uncovered/"><u>Tesla’s Game-Changing Robo-Cab: Rumored Release Dates and Cutting-Edge Specs Uncovered!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-extracting-and-using-your-dvd-footage-in-imovie-on-macoswindows/"><u>Ultimate Guide to Extracting & Using Your DVD Footage in iMovie on macOS/Windows</u></a></li>
+</ul></div>
+

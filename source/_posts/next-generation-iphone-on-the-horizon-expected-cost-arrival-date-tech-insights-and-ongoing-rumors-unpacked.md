@@ -1,7 +1,7 @@
 ---
 title: "Next Generation iPhone on the Horizon: Expected Cost, Arrival Date, Tech Insights, and Ongoing Rumors Unpacked"
-date: 2024-09-13T17:58:34.956Z
-updated: 2024-09-21T03:57:27.028Z
+date: 2024-11-04T20:40:45.640Z
+updated: 2024-11-05T21:59:17.208Z
 categories:
   - BestProducts
 description: "This Article Describes Next Generation iPhone on the Horizon: Expected Cost, Arrival Date, Tech Insights, and Ongoing Rumors Unpacked"
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 
  Like in previous years, there will be several models: iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, and iPhone 17 Slim.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 A September 2025 release date seems like a lock.
@@ -52,16 +59,16 @@ A September 2025 release date seems like a lock.
 
  So, the iPhone 17 price might vary a little, but a starting price around $799 is a safe bet, with the cost going up based on screen size and storage. And of course, the Pro version will be more expensive.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone 17 Specs & Features
 
@@ -86,29 +93,22 @@ A September 2025 release date seems like a lock.
 
  Lastly,[MacRumors shares a Chinese report](https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/) that the iPhone 17 screen will use a new, "super-hard anti-reflective layer" to prevent scratches and screen damage, replacing the current ceramic shield technology.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Face ID
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
 
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Camera
 
@@ -121,6 +121,13 @@ A September 2025 release date seems like a lock.
  Additionally,[MacRumors also says to expect](https://www.macrumors.com/2024/01/04/kuo-iphone-17-to-feature-24mp-front-facing-camera/) that the selfie camera on the front of iPhone 17 models will offer 24-megapixel resolution, up from 12 megapixels on the iPhone 15.  
 
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Phone Size
 
@@ -157,5 +164,20 @@ A September 2025 release date seems like a lock.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-infuse-kinetic-smear-into-photos-in-photoshop-for-2024/"><u>[New] Infuse Kinetic Smear Into Photos in Photoshop for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sparkle-on-screen-ideal-tools-for-online-videos/"><u>[Updated] Sparkle on Screen Ideal Tools for Online Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-secrets-of-kinemaster-usage-and-ranking-alternatives-1-10-for-2024/"><u>[Updated] Unveiling the Secrets of KineMaster Usage & Ranking Alternatives 1-10 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-connect-worlds-quickly-sharing-tiktoks-with-facebook/"><u>2024 Approved Connect Worlds Quickly Sharing TikToks with Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-5-quick-filming-diy-hacks-to-try-at-home-for-2024/"><u>Best 5 Quick Filming DIY Hacks to Try at Home for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-autonomous-vehicle-producers-a-top-4-list/"><u>Best Autonomous Vehicle Producers : A Top 4 List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-easily-change-your-facebook-login-credentials/"><u>Expert Advice: How to Easily Change Your Facebook Login Credentials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-emails-to-video-calls-how-to-effortlessly-integrate-google-duet-in-gmail/"><u>From Emails to Video Calls: How to Effortlessly Integrate Google Duet in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-in-transit-how-to-use-roku-across-hotels-and-dormitories/"><u>Seamless Streaming in Transit: How to Use Roku Across Hotels and Dormitories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-sailing-with-the-repaired-fnaf-security-breach-game-for-pc-say-goodbye-to-crashes/"><u>Smooth Sailing with the Repaired FNAF Security Breach Game for PC – Say Goodbye to Crashes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-budget-conscious-video-modification-sites-explored-and-rated/"><u>Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-the-leading-smart-glasses-innovations-for-2e-year-2024/"><u>Ultimate Guide: The Leading Smart Glasses Innovations for 2E Year 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-differences-between-roku-express-and-roku-stick/"><u>Understanding the Differences Between Roku Express and Roku Stick</u></a></li>
+</ul></div>
 

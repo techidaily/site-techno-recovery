@@ -1,7 +1,7 @@
 ---
 title: "Mobile Dominance: How Most Digital Buyers Prefer Smartphones for E-Commerce Transactions - Insights From ZDNet"
-date: 2024-09-18 12:43:49
-updated: 2024-09-20 12:32:29
+date: 2024-11-02T20:45:59.714Z
+updated: 2024-11-05T20:20:30.719Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -75,9 +89,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-master-your-subtitles-with-top-10-free-converter-websites/"><u>[New] Master Your Subtitles with Top 10 Free Converter Websites</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-guide-to-a-distinctive-youtube-channel-url/"><u>[New] Step-by-Step Guide to a Distinctive YouTube Channel URL</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-screen-commanders-face-off/"><u>[Updated] In 2024, Screen Commanders Face-Off</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-straight-from-the-studio-simple-steps-to-sizzling-mac-vids-on-youtube/"><u>[Updated] Straight From the Studio Simple Steps to Sizzling Mac Vids on YouTube</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/grasping-french-pronunciation-a-starters-toolkit/"><u>Grasping French Pronunciation: A Starter's Toolkit</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-14-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 14? Heres the Best Fixes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review/"><u>In 2024, Unveiling Yuneec’s Typhoon H An Aerial Powerhouse Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tired-of-traditional-shoveling-discover-the-game-changing-electric-snow-blower-for-harsh-northeast-climates-on-zdnet/"><u>Tired of Traditional Shoveling? Discover the Game-Changing Electric Snow Blower for Harsh Northeast Climates on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-budget-friendly-prefab-homes-under-50000-exploring-modular-living-on-a-dime-techradar/"><u>Top 5 Budget-Friendly Prefab Homes Under $50,000: Exploring Modular Living on a Dime | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-must-have-inflatables-the-ultimate-guide-to-the-simplest-setup-pool-models/"><u>Top 5 Must-Have Inflatables: The Ultimate Guide to the Simplest Setup Pool Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-premium-gas-grills-of-2024-expert-reviews-and-comparisons/"><u>Top 5 Premium Gas Grills of 2024 - Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-premium-hot-tubs-reviews-and-picks-by-zdnet/"><u>Top 5 Premium Hot Tubs - Reviews and Picks by ZDNet</u></a></li>
+</ul></div>
+

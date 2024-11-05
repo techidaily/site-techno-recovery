@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Affordable AT&T Contracts for Smartphones - Exclusive Deals From May 2024
-date: 2024-10-29T20:19:51.593Z
-updated: 2024-10-30T20:22:05.005Z
+date: 2024-11-03T20:37:35.810Z
+updated: 2024-11-05T16:37:12.194Z
 tags:
   - apple
 categories:
@@ -117,10 +117,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -147,6 +147,13 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -157,29 +164,9 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
@@ -190,22 +177,23 @@ In general, there is no difference in how much money you save whether you shop o
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -256,14 +244,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-confronting-giants-picking-your-powerhouse-t5-or-sjcam-s6/"><u>[Updated] Confronting Giants Picking Your Powerhouse - T5 or SJCAM S6</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-transforming-your-living-space-into-a-podcast-studio-for-2024/"><u>[Updated] Transforming Your Living Space Into a Podcast Studio for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-free-web-creation-software-as-featured-on-zdnet/"><u>Discover the Ultimate Free Web Creation Software as Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/escalating-cybercrimes-in-singapore-spark-rising-concern-over-increasing-fraudulent-schemes/"><u>Escalating Cybercrimes in Singapore Spark Rising Concern Over Increasing Fraudulent Schemes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-counter-strike-2-cs2-lag-and-high-ping-on-pc/"><u>How to Fix Counter-Strike 2 (CS2) Lag and High Ping on PC</u></a></li>
-<li><a href="https://article-tips.techidaily.com/integrating-extra-footage-crafting-engaging-visual-narratives-for-2024/"><u>Integrating Extra Footage Crafting Engaging Visual Narratives for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-high-resolution-scale-changes/"><u>Mastering Window's High-Resolution Scale Changes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-the-helm-at-alibaba-ceos-strategic-shift-to-cloud-services-unveiled-by-zdnet/"><u>Transforming the Helm at Alibaba: CEO's Strategic Shift to Cloud Services Unveiled by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/winning-strategy-for-prime-day-shopping-essential-hack-to-secure-your-must-haves-before-they-sell-out-zdnet/"><u>Winning Strategy for Prime Day Shopping: Essential Hack to Secure Your Must-Haves Before They Sell Out | ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-techniques-to-enhance-your-video-gaming-archive/"><u>[New] 2024 Approved Techniques to Enhance Your Video Gaming Archive</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elite-20-unprotected-open-access-pubg-montages/"><u>[New] Elite 20 Unprotected, Open-Access PUBG Montages</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-scouting-top-7-innovative-mobile-streaming-tools-for-youtube-enthusiasts/"><u>[Updated] In 2024, Scouting Top 7 Innovative Mobile Streaming Tools for YouTube Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-to-turn-off-igtv/"><u>2024 Approved Step-by-Step to Turn Off IGTV</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-closer-look-at-devhome-enhancing-windows-11-performance/"><u>A Closer Look at DevHome: Enhancing Windows 11 Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-v27-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo V27</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-the-pros-and-cons-samsung-galaxy-s23-vs-iphone-14-making-the-right-purchase-decision/"><u>Choosing Between the Pros and Cons: Samsung Galaxy S23 vs iPhone 14 - Making The Right Purchase Decision!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-productivity-connecting-multiple-monitors-for-gaming-and-work/"><u>Enhancing Productivity: Connecting Multiple Monitors for Gaming and Work</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixation-addressing-the-challenge-of-non-receipt-in-yahoo-mail-and-retrieving-all-missed-messages/"><u>Fixation: Addressing the Challenge of Non-Receipt in Yahoo Mail and Retrieving All Missed Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hdcp-glitches-unveiled-expert-tips-for-swift-fix-and-prevention/"><u>HDCP Glitches Unveiled: Expert Tips for Swift Fix and Prevention</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-switch-off-virtualization-on-windows-11/"><u>How to Switch Off Virtualization on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-realme-c51-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Realme C51 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-melodies-for-success-best-top-10-music-for-podcast-startups/"><u>In 2024, Melodies for Success Best Top 10 Music for Podcast Startups</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-17-news-and-expected-price-release-date-specs-and-more-rumors/"><u>IPhone 17: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-ai-at-your-own-pace-with-these-15-top-free-online-classes-curated-for-optimal-knowledge-acquisition/"><u>Learn AI at Your Own Pace with These 15 Top Free Online Classes Curated for Optimal Knowledge Acquisition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/switching-to-an-iphone-the-new-ipados-18-feature-from-wwdc-2024-might-just-tip-the-scales-for-you-macrumors-news/"><u>Switching to an iPhone? The New iPadOS 18 Feature From WWDC 2024 Might Just Tip the Scales for You | MacRumors News</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-great-digital-tsunami-of-24-decoding-crowdstrike-windows-catastrophes-origins-with-the-help-of-history-exploring-cybersecurity-at-zdnet/"><u>The Great Digital Tsunami of '24: Decoding CrowdStrike-Windows Catastrophe's Origins with the Help of History | Exploring Cybersecurity at ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-motivation-behind-the-rise-of-electric-cars/"><u>Unveiling the Motivation Behind the Rise of Electric Cars</u></a></li>
 </ul></div>
 

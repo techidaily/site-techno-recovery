@@ -1,7 +1,7 @@
 ---
 title: Progressing Toward Consensus on Open-Source AI Standards Faces Dissent – Insights From ZDNet
-date: 2024-09-19 10:32:55
-updated: 2024-09-20 12:50:38
+date: 2024-10-29T20:01:07.279Z
+updated: 2024-11-05T17:20:00.681Z
 tags:
   - developer
 categories:
@@ -67,11 +67,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-gently-ebbing-sounds-with-logic-pros-dimming-function/"><u>[New] Gently Ebbing Sounds with Logic Pro's Dimming Function</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlock-flawless-video-thumbnails-instantly/"><u>2024 Approved Unlock Flawless Video Thumbnails Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-launch-of-the-google-pixel-watch-pricing-forecasts-and-tech-insights/"><u>Anticipated Launch of the Google Pixel Watch - Pricing Forecasts & Tech Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/diy-anchors-and-stabilizers-for-handheld-video/"><u>DIY Anchors and Stabilizers for Handheld Video</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-a05-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy A05 Phone that is Locked?</u></a></li>
+<li><a href="https://win-data.techidaily.com/les-applications-leaders-en-trafic-clonage-logique-avec-silicon-power-sur-windows-versions-111087/"><u>Les Applications Leaders en Trafic: Clonage Logique Avec Silicon Power Sur Windows (Versions 11/10/8/7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-fix-a-comprehensive-approach-to-overcoming-the-500-server-error/"><u>Mastering the Fix: A Comprehensive Approach to Overcoming the 500 Server Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-like-a-pro-our-selection-of-best-gps-apps-for-iphones/"><u>Navigate Like a Pro: Our Selection of Best GPS Apps for iPhones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-fps-range-for-gradual-action-footage-for-2024/"><u>Prime FPS Range for Gradual Action Footage for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-updating-your-brother-mfc-7360n-printer-drivers-on-windows-1087/"><u>Step-by-Step Guide to Updating Your Brother MFC-7360N Printer Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-for-managing-photoshops-full-scratch-disk-error-efficiently/"><u>Strategies for Managing Photoshop's 'Full Scratch Disk' Error Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-unsupported-systems-the-step-by-step-win11-22h2-path/"><u>Transforming Unsupported Systems: The Step-by-Step Win11 22H2 Path</u></a></li>
+</ul></div>
+

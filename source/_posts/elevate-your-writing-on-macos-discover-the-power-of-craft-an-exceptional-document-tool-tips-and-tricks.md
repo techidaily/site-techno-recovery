@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Writing on macOS: Discover the Power of Craft, an Exceptional Document Tool - Tips & Tricks"
-date: 2024-10-28T01:31:49.857Z
-updated: 2024-10-31T00:45:07.041Z
+date: 2024-11-02T17:37:40.738Z
+updated: 2024-11-05T16:11:34.917Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,20 +134,16 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition/"><u>[New] 2024 Approved Artisan's Nexus Reports In-Depth Studio Scrutiny, 2023 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-clever-circumventions-for-edgenuity-video-course-skipping/"><u>[New] Clever Circumventions for Edgenuity Video Course Skipping</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-from-beats-to-broadcast-a-compreesive-guide-to-editing-your-podcast/"><u>[Updated] In 2024, From Beats to Broadcast A Compreesive Guide to Editing Your Podcast</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-prime-day-sale-save-40-on-the-latest-echo-spot-with-built-in-alarm-exclusive-deals/"><u>Amazon Prime Day Sale: Save 40% on the Latest Echo Spot with Built-In Alarm - Exclusive Deals!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beyond-sony-and-jbl-discover-the-ultimate-immersive-speakers-recommended-by-zdnets-tech-guru/"><u>Beyond Sony and JBL: Discover the Ultimate Immersive Speakers Recommended by ZDNet's Tech Guru</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/immerse-yourself-in-superior-sounds-unveiling-a-non-vizio-non-jbl-soundbar-masterpiece-zdnet-insiders-pick/"><u>Immerse Yourself in Superior Sounds: Unveiling a Non-Vizio, Non-JBL Soundbar Masterpiece | ZDNET Insider's Pick</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-record-internal-audio-on-android-video-or-gameplay/"><u>In 2024, How to Record Internal Audio on Android [Video or Gameplay]</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-for-the-persistent-acrocefexe-error-message-on-your-pc/"><u>Quick Fixes for the Persistent Acrocef.exe Error Message on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-for-windows-default-settings-on-reboot/"><u>Quick Tips for Windows Default Settings on Reboot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/surprisingly-great-alternative-to-bose-and-jbl-found-in-our-latest-bluetooth-speaker-tests-zdnet/"><u>Surprisingly Great Alternative to Bose & JBL Found in Our Latest Bluetooth Speaker Tests | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-gamer-ready-smartphones-features-reviews-and-comparison/"><u>Top 5 Gamer-Ready Smartphones : Features, Reviews & Comparison</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleash-powerful-sound-on-any-adventure-the-waterproof-soul-s-storm-max-bluetooth-speaker-with-dynamic-led-lighting-zdnet-review/"><u>Unleash Powerful Sound on Any Adventure: The Waterproof Soul S-Storm Max Bluetooth Speaker with Dynamic LED Lighting | ZDNET Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-role-in-reporting-player-misconduct-on-series-xs-console/"><u>Your Role in Reporting Player Misconduct on Series X/S Console</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-unveiling-the-power-of-a-bosejbl-alternative-in-our-picks-for-exceptional-bluetooth-speakers-with-high-bass-impact/"><u>ZDNet Exclusive: Unveiling the Power of a Bose/JBL Alternative in Our Picks for Exceptional Bluetooth Speakers with High Bass Impact!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-aquatic-quest-enhanced-the-best-cameras-reviewed-here-for-2024/"><u>[New] Aquatic Quest Enhanced The Best Cameras Reviewed Here for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-engaging-youtube-channel-names-for-vlogger-success-no-more-than-156-for-2024/"><u>[New] Crafting Engaging YouTube Channel Names for Vlogger Success (No More Than 156) for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tricks-to-upgrade-streaming-quality-on-mobile-apps-like-facebook-for-2024/"><u>[New] Tricks to Upgrade Streaming Quality on Mobile Apps Like Facebook for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-optimally-utilize-a-creative-commons-license/"><u>[Updated] How to Optimally Utilize a Creative Commons License</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/advanced-approach-harnessing-watch-for-mac-unlock/"><u>Advanced Approach Harnessing Watch for Mac Unlock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-two-premium-nomad-iphone-cases-at-no-extra-cost-bogo-offer-live-on-zdnet/"><u>Get Two Premium Nomad iPhone Cases at No Extra Cost - BOGO Offer Live on ZDNet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snag-your-picks-of-best-travel-ready-iphone-covers-with-our-bogo-deal-instantly/"><u>Snag Your Picks of Best Travel-Ready iPhone Covers with Our BOGO Deal Instantly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-optimization-tools-to-supercharge-your-android-experience/"><u>Top 10 Optimization Tools to Supercharge Your Android Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-battery-issues-post-ios-1751-update-top-7-effective-solutions-from-zdnet/"><u>Troubleshooting iPhone Battery Issues Post-iOS 17.5.1 Update: Top 7 Effective Solutions From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-when-wpcpdll-is-absent-or-cannot-be-located-on-your-pc/"><u>Troubleshooting When WPCP.DLL Is Absent or Cannot Be Located on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-3-deserves-your-attention-4-superior-features-beating-out-chatgpt/"><u>Why Claude 3 Deserves Your Attention: 4 Superior Features Beating Out ChatGPT</u></a></li>
 </ul></div>
 

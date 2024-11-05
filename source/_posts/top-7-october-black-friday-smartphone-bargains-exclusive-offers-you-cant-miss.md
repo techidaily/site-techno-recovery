@@ -1,7 +1,7 @@
 ---
 title: Top 7 October Black Friday Smartphone Bargains - Exclusive Offers You Can't Miss
-date: 2024-09-18 21:51:48
-updated: 2024-09-20 12:46:30
+date: 2024-11-03T16:40:05.814Z
+updated: 2024-11-05T21:48:28.777Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,33 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -57,6 +83,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -68,6 +101,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +144,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-free-online-solutions-for-instantaneous-gif-conversion/"><u>[New] 2024 Approved Best Free Online Solutions For Instantaneous GIF Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-discover-free-tools-for-dynamic-voice-alteration/"><u>[New] Unleash Creativity Discover Free Tools for Dynamic Voice Alteration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-removing-unseen-frames-from-video-recordings/"><u>[Updated] 2024 Approved Removing Unseen Frames From Video Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-up-video-playback-enable-youtubes-advanced-av1-setting/"><u>[Updated] Step Up Video Playback Enable YouTube's Advanced AV1 Setting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-your-pathway-to-professional-looking-animated-gifs-online-for-2024/"><u>[Updated] Your Pathway to Professional-Looking Animated GIFs Online for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-tutorial-for-casting-apple-tvplus-entertainment-to-googles-chromecast/"><u>A Step-by-Step Tutorial for Casting Apple TV+ Entertainment to Google's Chromecast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cast-your-pc-screen-to-tv-using-chromecast-a-step-by-step-guide/"><u>Cast Your PC Screen to TV Using Chromecast - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-up-your-call-troubleshooting-the-blackout-effect-during-facetime/"><u>Clear Up Your Call: Troubleshooting the Blackout Effect During FaceTime</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-error-code-0xc0000185-insights-into-troubleshooting-and-solutions-for-a-smooth-fix/"><u>Decoding Error Code 0xC0000185: Insights Into Troubleshooting and Solutions for a Smooth Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-productivity-connecting-dual-displays-to-your-m3-macbook-pro-insights-from-zdnet/"><u>Enhance Your Productivity: Connecting Dual Displays to Your M3 MacBook Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-assembling-your-personal-projector-screen-with-ease/"><u>Expert Advice: Assembling Your Personal Projector Screen with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-nvidia-rtx-gpus-what-you-need-to-know/"><u>Exploring the World of NVIDIA RTX GPUs - What You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-black-screen-problem-in-halo-infinite-a-complete-guide/"><u>Fixing the 'Black Screen' Problem in Halo Infinite: A Complete Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-ensure-continuous-playback-of-youtube-videos-on-fb/"><u>In 2024, How to Ensure Continuous Playback of YouTube Videos on FB</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-wmvcoredll-errors-a-guide-on-how-to-fix-when-it-is-missing-or-not-detected/"><u>Navigating 'Wmvcore.dll' Errors: A Guide on How to Fix when It Is Missing or Not Detected</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-stabilizers-iphone-android-and-professional-choices-1-10-for-2024/"><u>Premium Stabilizers IPhone, Android, and Professional Choices #1-10 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-mini-tablet-reviews-comprehensive-expert-evaluations-by-tech-gurus-at-zdnet/"><u>Top-Ranking Mini Tablet Reviews : Comprehensive Expert Evaluations by Tech Gurus at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmissable-savings-premier-laptop-bargains-for-july-24-revealed-by-zdnet-techbargains/"><u>Unmissable Savings: Premier Laptop Bargains for July '24 Revealed by ZDNET | TechBargains</u></a></li>
+</ul></div>
+

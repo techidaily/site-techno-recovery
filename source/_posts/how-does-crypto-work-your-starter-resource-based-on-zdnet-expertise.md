@@ -1,7 +1,7 @@
 ---
 title: How Does Crypto Work? Your Starter Resource Based on ZDNet Expertise
-date: 2024-09-19 14:49:23
-updated: 2024-09-20 11:59:45
+date: 2024-11-01T19:06:11.155Z
+updated: 2024-11-05T19:37:05.902Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,19 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,7 +89,21 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-the-secrets-to-flawless-instagram-videos-for-2024/"><u>[New] Unlock the Secrets to Flawless Instagram Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevate-your-engagement-top-10-video-response-insights/"><u>2024 Approved Elevate Your Engagement Top 10 Video Response Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-photography-simplified-adopt-these-10-easy-rules/"><u>2024 Approved IPhone Photography Simplified Adopt These 10 Easy Rules</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieving-success-with-apples-vision-pro-insider-strategies-for-securing-and-perfecting-face-scans/"><u>Achieving Success with Apple's Vision Pro: Insider Strategies for Securing and Perfecting Face Scans</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-secret-to-energized-mornings-with-the-ihome-zenergy-sleep-solution-our-thorough-evaluation/"><u>Discover the Secret to Energized Mornings with the IHome Zenergy Sleep Solution – Our Thorough Evaluation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-march-2023-headphone-offers-you-cant-miss-expert-picks-from-zdnet/"><u>Exclusive March 2023 Headphone Offers You Can't Miss! Expert Picks From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y100a-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y100A To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-ipados-and-macos-set-to-gain-access-to-ai-powered-conversations-apple-teams-up-with-microsofts-phi/"><u>IOS, iPadOS, & macOS Set to Gain Access to AI-Powered Conversations: Apple Teams Up with Microsoft's Phi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-the-error-fixes-for-when-your-system-cant-find-d3dx92osdll-file/"><u>Overcoming the Error: Fixes for When Your System Can't Find d3dx9_2^OS.dll File</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-msxml4dll-missing-file-dilemma-a-comprehensive-guide/"><u>Solving the 'Msxml4.dll' Missing File Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-14-pro-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 14 Pro Max</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-premier-magsafe-power-packs-of-2nndie-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Premier MagSafe Power Packs of 2Nndie: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-live-photo-features-in-ios-16/"><u>Ultimate Guide: Mastering Live Photo Features in iOS 16</u></a></li>
+<li><a href="https://win-news.techidaily.com/warum-die-funktion-airdrop-nur-fur-kontakte-bei-iphone-nicht-funktionieren-konnte/"><u>Warum Die Funktion 'AirDrop Nur Für Kontakte' Bei iPhone Nicht Funktionieren Könnte</u></a></li>
+</ul></div>
+

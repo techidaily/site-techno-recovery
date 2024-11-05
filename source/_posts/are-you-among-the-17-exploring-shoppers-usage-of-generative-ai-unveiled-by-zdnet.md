@@ -1,7 +1,7 @@
 ---
 title: Are You Among the 17%%? Exploring Shoppers' Usage of Generative AI | Unveiled by ZDNET
-date: 2024-09-18 18:44:50
-updated: 2024-09-20 12:15:50
+date: 2024-11-03T16:43:34.982Z
+updated: 2024-11-05T18:58:16.050Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -65,6 +79,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-user-generated-content-music-posting-on-instagram/"><u>2024 Approved Mastering User-Generated Content Music Posting on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tricks-to-download-twitter-videos-and-turn-into-mp3-files/"><u>2024 Approved Tricks to Download Twitter Videos and Turn Into MP3 Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/businesses-ready-for-a-social-revolution-facebooks-newsfeed-evolution/"><u>Businesses Ready for a Social Revolution: Facebook's Newsfeed Evolution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/detailed-tips-for-fixing-the-d3dx941dll-missing-error-on-your-pc/"><u>Detailed Tips for Fixing the d3dx9_41.dll Missing Error on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898942370-dive-deeper-10-intriguing-facts-about-everyday-emojis-you-wont-believe/"><u>Dive Deeper: 10 Intriguing Facts About Everyday Emojis You Won't Believe</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-nokia-c12-plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Nokia C12 Plus</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-honor-magic-6-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor Magic 6 FRP Bypass Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/kindle-paperwhite-troubleshooting-setting-and-adjusting-the-device-clock-correctly/"><u>Kindle Paperwhite Troubleshooting: Setting and Adjusting the Device Clock Correctly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-the-art-of-audio-file-conversion-from-srt-formats-for-2024/"><u>Mastering the Art of Audio File Conversion From SRT Formats for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-ps4-video-recording-a-step-by-step-tutorial/"><u>Mastering the Art of PS4 Video Recording: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-the-elusive-nspr4dll-file-not-found-mishap/"><u>The Ultimate Fix for the Elusive nspr4.dll File Not Found Mishap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-win-based-file-conversions/"><u>The Ultimate Guide for Win-Based File Conversions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-alternatives-to-the-instagram-desktop-application-on-windows-10-8-and-7/"><u>Top 5 Alternatives to the Instagram Desktop Application on Windows 10, 8 & 7</u></a></li>
+</ul></div>
+

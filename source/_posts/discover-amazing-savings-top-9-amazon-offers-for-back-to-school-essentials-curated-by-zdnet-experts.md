@@ -1,7 +1,7 @@
 ---
 title: "Discover Amazing Savings: Top 9 Amazon Offers for Back-to-School Essentials, Curated by ZDNet Experts"
-date: 2024-09-17 12:34:33
-updated: 2024-09-20 10:43:17
+date: 2024-10-31T18:47:48.099Z
+updated: 2024-11-05T20:06:00.521Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,19 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -69,11 +82,38 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +144,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-leaderboard-top-15-free-and-secure-apps-to-grow-your-insta-circle/"><u>[New] The Leaderboard Top 15 Free & Secure Apps to Grow Your Insta Circle</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-in-depth-app-examination-azs-recording-and-alternatives/"><u>2024 Approved In-Depth App Examination - AZ's Recording & Alternatives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-pitfalls-the-definitive-guide-to-ios-recovery-mode-troubleshooting/"><u>Avoiding Pitfalls: The Definitive Guide to iOS Recovery Mode Troubleshooting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-7-note-taking-applications-for-ios-tablets-ipad-ipad-pro-edition/"><u>Best 7 Note-Taking Applications for iOS Tablets: IPad, iPad Pro Edition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-xs-maxipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone XS Max/iPad/iPod</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1627775-9781444141139-first-steps-in-tarot-flash/"><u>First Steps in Tarot: Flash | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-ahead-of-tech-trends-with-samsungs-unveiling-in-202cu2025-announcements-rumors-and-what-to-watch-for/"><u>Getting Ahead of Tech Trends with Samsung's Unveiling in 202Cu2025: Announcements, Rumors, and What to Watch For</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-wii-cannot-read-disc-error-for-seamless-gaming-experience/"><u>How to Fix 'Wii Cannot Read Disc' Error for Seamless Gaming Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ultimate-action-cams-in-dynamic-scenes/"><u>In 2024, Ultimate Action Cams in Dynamic Scenes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-download-razer-mamba-driver-swift-setup/"><u>Instant Download: Razer Mamba Driver - Swift Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-network-connectivity-effective-methods-for-pinging-websites/"><u>Understanding Network Connectivity: Effective Methods for Pinging Websites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-watch-series-8-details-unpacked-expectation-of-release-date-in-depth-specifications-pricing-information-and-recent-announcements/"><u>Upcoming Apple Watch Series 8 Details Unpacked - Expectation of Release Date, In-Depth Specifications, Pricing Information, and Recent Announcements</u></a></li>
+</ul></div>
+

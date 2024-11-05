@@ -1,7 +1,7 @@
 ---
 title: OCA4 - Due to Mutations in the SLC45A2 Gene Encoding a Transporter Protein Involved in Melanosome Maturation and Pigment Synthesis.
-date: 2024-09-18 10:49:47
-updated: 2024-09-20 11:25:27
+date: 2024-10-29T20:44:13.585Z
+updated: 2024-11-05T18:12:11.274Z
 tags:
   - e-commerce
 categories:
@@ -51,6 +51,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -69,7 +76,21 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -78,6 +99,19 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/est-practices-selecting-among-top-9-free-logo-designers/"><u>[New] Best Practices Selecting Among Top 9 Free Logo Designers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-discover-12-cutting-edge-flip-screen-cams-for-video-content-for-2024/"><u>[New] Discover 12 Cutting-Edge Flip-Screen Cams for Video Content for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-epicurean-lenses-a-guide-to-food-video-cinematography/"><u>[New] Epicurean Lenses A Guide to Food Video Cinematography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-clever-circumventions-for-edgenuity-video-course-skipping/"><u>[New] In 2024, Clever Circumventions for Edgenuity Video Course Skipping</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-legal-landscapes-understanding-youtube-and-cc-divergences/"><u>[New] In 2024, Legal Landscapes Understanding YouTube & CC Divergences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-close-up-web-views-on-screen/"><u>[New] Mastering Close-Up Web Views on Screen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-gain-traction-with-effective-video-descriptions-and-tagging/"><u>[Updated] 2024 Approved Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-test-drive-how-cost-effective-power-station-revolutionized-my-road-trips-insights-from-zdnet/"><u>Affordable Test Drive: How Cost-Effective Power Station Revolutionized My Road Trips - Insights From ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-updates-win11-next-gen-radeon-hd-6950-graphics-driver-rollout/"><u>AMD Updates Win11: Next-Gen Radeon HD 6950 Graphics Driver Rollout</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anker-portable-power-station-and-home-charging-to-ensure-they-are-well-optimized-for-search-engines-they-also-capture-the-attention-of-potential-readers-wit250/"><u>Anker, Portable Power Station, and Home Charging to Ensure They Are Well-Optimized for Search Engines. They Also Capture the Attention of Potential Readers with Descriptive Terms Like Ultra-Powerful and Revolutionizing.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-future-my-experience-testing-face-recognition-biometric-locks-a-game-changer-in-home-security-zdnet/"><u>Unlocking the Future: My Experience Testing Face Recognition Biometric Locks - A Game Changer in Home Security | ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969471821-upgrade-your-sound-card-software-free-downloads-of-sound-blaster-audigy-fx-drivers-today/"><u>Upgrade Your Sound Card Software - Free Downloads of Sound Blaster Audigy FX Drivers Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-arlo-pro-5s-nearly-nailed-it-a-comprehensive-review-of-its-features-and-limitations/"><u>Why the Arlo Pro 5S Nearly Nailed It: A Comprehensive Review of Its Features and Limitations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-how-ecoflows-battery-powered-up-an-entire-home-during-outages-your-ultimate-guide-to-portable-solutions/"><u>ZDNet Explores How EcoFlow's Battery Powered Up an Entire Home During Outages: Your Ultimate Guide to Portable Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reports-on-john-deeres-latest-commitment-to-support-the-right-to-repair-cause/"><u>ZDNet Reports on John Deere’s Latest Commitment to Support the 'Right to Repair' Cause</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-top-pick-for-nature-photography-enthusiasts-a-smart-bird-feeder-to-get-up-close-shots-of-hummingbirds/"><u>ZDNET's Top Pick for Nature Photography Enthusiasts: A Smart Bird Feeder to Get Up-Close Shots of Hummingbirds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-picks-for-outstanding-lawn-mowers/"><u>ZDNet's Ultimate Picks for Outstanding Lawn Mowers</u></a></li>
+</ul></div>
+

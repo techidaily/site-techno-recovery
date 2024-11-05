@@ -1,7 +1,7 @@
 ---
 title: "Discover the Oddest Gadget Savings: Top 12 Curious Tech Deals for Prime Day in Oct | ZDNET Insights"
-date: 2024-09-19 18:29:53
-updated: 2024-09-20 11:30:34
+date: 2024-10-29T22:00:39.010Z
+updated: 2024-11-05T19:04:23.821Z
 tags:
   - e-commerce
 categories:
@@ -51,11 +51,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -65,9 +79,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-detailed-review-obs-as-a-top-choice-for-screen-recorders/"><u>[Updated] 2024 Approved Detailed Review OBS as a Top Choice for Screen Recorders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-success-with-instagrams-business-platform/"><u>[Updated] 2024 Approved Unlocking Success with Instagram's Business Platform</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-turn-off-igtv-in-2024/"><u>[Updated] How to Turn Off IGTV, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-midgard-alliance-the-ragnarok-saga-begins-for-2024/"><u>[Updated] Midgard Alliance The Ragnarök Saga Begins for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-sdk-upgrade-alert-enhancing-facebook-video-downloader-apps-for-android-for-2024/"><u>[Updated] SDK Upgrade Alert Enhancing Facebook Video Downloader Apps for Android for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-trending-memes-galore-unique-themes-for-any-event/"><u>[Updated] Trending Memes Galore Unique Themes for Any Event</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-discovering-fluid-in-iphone-charger-port-here-are-your-solutions-insights/"><u>1. Discovering Fluid in iPhone Charger Port? Here Are Your Solutions - Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/critique-on-splitcam-does-it-top-video-tech-for-2024/"><u>Critique on SplitCam Does It Top Video Tech for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/explorez-les-solutions-de-sauvegarde-parlantes-pour-ssd-samsung-t7-les-options-superieures-et-performantes/"><u>Explorez Les Solutions De Sauvegarde Parlantes Pour SSD Samsung T7 : Les Options Supérieures Et Performantes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-use-the-wayback-machine/"><u>How to Use the Wayback Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-energy-efficiency-optimizing-low-power-mode-on-macos-monterey-tips-from-zdnet/"><u>Mastering Energy Efficiency: Optimizing Low Power Mode on macOS Monterey - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-tech-advancements-the-six-sweepstakes-of-gpts-conductor/"><u>Pioneering Tech Advancements - The Six Sweepstakes of GPT's Conductor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-phantom-taps-solutions-for-apple-watch-users-plagued-by-ghostly-glitches-insights-from-zdnet/"><u>Resolving 'Phantom Taps': Solutions for Apple Watch Users Plagued by Ghostly Glitches - Insights From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/resolving-the-error-1000203-during-a-system-restore-on-windows-10-a-step-by-step-guide/"><u>Resolving the 'Error 1000203' During a System Restore on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-on-apples-deal-of-the-day-exclusive-40-discount-on-airpods-before-independence-day-zdnet/"><u>Save Big on Apple's Deal-of-the-Day: Exclusive $40 Discount on AirPods Before Independence Day - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snap-up-cutting-edge-gadgets-ultimate-prime-day-deals-from-amazon/"><u>Snap Up Cutting-Edge Gadgets: Ultimate Prime Day Deals From Amazon</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-mechanics-of-androids-smart-assistants-and-ai-capabilities/"><u>The Mechanics of Android's Smart Assistants and AI Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/thousands-benefit-as-apple-unveils-free-ai-education-program-for-alumni-and-students/"><u>Thousands Benefit as Apple Unveils Free AI Education Program for Alumni & Students</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-films-and-shows-for-free-on-crackle-your-go-to-streaming-destination/"><u>Watch Films & Shows for Free on Crackle - Your Go-To Streaming Destination</u></a></li>
+</ul></div>
+

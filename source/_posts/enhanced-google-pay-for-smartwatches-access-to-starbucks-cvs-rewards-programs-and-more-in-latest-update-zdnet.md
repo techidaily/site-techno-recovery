@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Google Pay for Smartwatches: Access to Starbucks, CVS Rewards Programs and More in Latest Update | ZDNet"
-date: 2024-09-18 14:33:46
-updated: 2024-09-20 12:58:33
+date: 2024-11-01T16:36:31.828Z
+updated: 2024-11-05T18:15:20.062Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -57,6 +64,19 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,11 +85,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +138,24 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-essential-free-windowsmac-video-players-ranked/"><u>[New] Essential Free Windows/Mac Video Players Ranked</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-tech-terms-the-clear-difference-between-ar-vr-mr-and-xr/"><u>Decoding Tech Terms: The Clear Difference Between AR, VR, MR & XR</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expertly-selected-ultimate-laptops-guide-2024-edition/"><u>Expertly Selected Ultimate Laptops Guide - 2024 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-steps-to-modify-a-user-accounts-password-on-windows/"><u>Guide: Steps to Modify a User Account's Password on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-snappy-driver-installer-v1n-a-game-changer-expert-review-inside/"><u>Is Snappy Driver Installer v1.n a Game-Changer? Expert Review Inside</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/laptop-unlock-free-movie-magic-with-these-tools-for-2024/"><u>Laptop Unlock Free Movie Magic with These Tools for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-technique-removing-ipad-passcodes-effortlessly/"><u>Master the Technique: Removing iPad Passcodes Effortlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-vs-apple-comparing-the-latest-features-of-google-pixel-watch-and-apple-watch-series-9-tech-analysis/"><u>Pixel Vs. Apple: Comparing the Latest Features of Google Pixel Watch and Apple Watch Series 9 | Tech Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-code-28-mishaps-effective-solutions-for-windows-users/"><u>Unraveling Code 28 Mishaps: Effective Solutions for Windows Users</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Uncovers: How TikTok Plans to Dominate the Indonesia Online Shopping Scene with a 1.5B Dollar Bet!"
-date: 2024-09-18 13:38:49
-updated: 2024-09-20 12:56:57
+date: 2024-10-29T19:58:53.153Z
+updated: 2024-11-05T17:06:19.668Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-beat-the-norm-with-mac-audio-guide-for-2024/"><u>[New] Beat the Norm with Mac Audio Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unseen-vids-on-facebook-heres-your-fix-guide-with-12-tactics-2023-for-2024/"><u>[New] Unseen Vids on Facebook? Here's Your Fix Guide with 12 Tactics, 2023 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-16-unveiled-discover-the-official-cost-drop-date-and-device-details-plus-all-you-need-to-know/"><u>Android 16 Unveiled! Discover the Official Cost, Drop Date & Device Details – Plus All You Need To Know!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/gain-ground-on-social-media-leaders-with-insta-growth-tips-for-2024/"><u>Gain Ground on Social Media Leaders with Insta-Growth Tips for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-install-or-upgrade-toshiba-graphics-chipset-and-network-drivers-in-windows/"><u>How to Install or Upgrade Toshiba Graphics, Chipset & Network Drivers in Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-fanfare-gaming-patch/"><u>In 2024, Fanfare Gaming Patch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-fixes-for-power-on-self-test-post-hiccups-in-computers/"><u>Master the Fixes for Power-On Self Test (POST) Hiccups in Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-errors-locating-and-restoring-x3daudiodll-when-lost/"><u>Resolving Errors: Locating and Restoring x3DAudio.dll When Lost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-lines-in-microsoft-word/"><u>Step-by-Step Guide: Adding Lines in Microsoft Word</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tp-link-archer-ax6-6000-or-nighthawk-ax12-in-depth-review-to-decide-the-top-wifi-mesh-system/"><u>TP-Link Archer AX6# 6000 or Nighthawk AX12? In-Depth Review to Decide the Top WiFi Mesh System</u></a></li>
+</ul></div>
+

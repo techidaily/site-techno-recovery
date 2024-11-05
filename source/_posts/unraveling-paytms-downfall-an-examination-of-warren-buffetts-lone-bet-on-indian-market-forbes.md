@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Paytm's Downfall: An Examination of Warren Buffett's Lone Bet on Indian Market | Forbes"
-date: 2024-09-17 11:48:18
-updated: 2024-09-20 12:42:11
+date: 2024-10-31T21:44:14.840Z
+updated: 2024-11-05T17:46:58.875Z
 tags:
   - e-commerce
 categories:
@@ -28,6 +28,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 **Also: [The best early Amazon Prime Day 2024 deals](https://www.zdnet.com/article/best-early-amazon-prime-day-2024-deals/)**
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who is eligible for a Prime Student membership? 
 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,7 +83,21 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,24 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-climb-the-social-ladder-a-guide-to-higher-facebook-page-ranks-for-2024/"><u>[New] How to Climb the Social Ladder A Guide to Higher Facebook Page Ranks for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-deciphering-the-mechanics-of-whatsapp-calls/"><u>[New] In 2024, Deciphering the Mechanics of WhatsApp Calls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>[Updated] 2024 Approved No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-10-tips-for-sound-fade-effects-in-premiere-pro/"><u>2024 Approved Top 10 Tips for Sound Fade Effects in Premiere Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/academic-references-the-right-way-to-mention-gpt-powered-tools/"><u>Academic References: The Right Way to Mention GPT-Powered Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-the-meaning-behind-a-404-error-message-and-solutions/"><u>Deciphering the Meaning Behind a 404 Error Message & Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/effortless-voice-personalization-for-competitive-players-for-2024/"><u>Effortless Voice Personalization for Competitive Players for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-fix-your-steam-disk-write-issues-instantly/"><u>Effortless Ways to Fix Your Steam Disk Write Issues Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-mscorwksdll-file-absence-issue-a-step-by-step-guide/"><u>Resolving the mscorwks.dll File Absence Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-overcoming-the-netflix-ui-800-3-user-interface-glitch/"><u>Troubleshooting Tips: Overcoming the Netflix UI-800-3 User Interface Glitch</u></a></li>
+</ul></div>
+

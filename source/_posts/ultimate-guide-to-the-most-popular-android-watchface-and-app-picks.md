@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Most Popular Android Watchface and App Picks
-date: 2024-09-19T19:45:15.875Z
-updated: 2024-09-21T03:10:07.782Z
+date: 2024-11-02T19:34:07.624Z
+updated: 2024-11-05T16:02:47.427Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Guide to the Most Popular Android Watchface and App Picks
@@ -48,13 +48,6 @@ thumbnail: https://www.lifewire.com/thmb/0tijbcfQ0oJoD6RklrapkIR1JDE=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -70,16 +63,10 @@ thumbnail: https://www.lifewire.com/thmb/0tijbcfQ0oJoD6RklrapkIR1JDE=/400x300/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -93,13 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/0tijbcfQ0oJoD6RklrapkIR1JDE=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -110,6 +90,13 @@ thumbnail: https://www.lifewire.com/thmb/0tijbcfQ0oJoD6RklrapkIR1JDE=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -119,6 +106,13 @@ thumbnail: https://www.lifewire.com/thmb/0tijbcfQ0oJoD6RklrapkIR1JDE=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -131,6 +125,13 @@ thumbnail: https://www.lifewire.com/thmb/0tijbcfQ0oJoD6RklrapkIR1JDE=/400x300/fi
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -167,5 +168,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/esigning-dynamic-denouements/"><u>[New] Designing Dynamic Denouements</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dont-get-left-behind-how-the-iphone-15-revolutionizes-your-experience-and-what-you-miss-by-holding-on-gadgetpulse/"><u>Don't Get Left Behind: How the iPhone 15 Revolutionizes Your Experience & What You Miss by Holding On | GadgetPulse</u></a></li>
+<li><a href="https://extra-information.techidaily.com/eradicating-unwanted-bg-elements-effortlessly-with-figma/"><u>Eradicating Unwanted BG Elements Effortlessly with Figma</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-steps-to-download-and-install-drivers-on-an-acer-aspire-running-windows/"><u>Essential Steps to Download and Install Drivers on an Acer Aspire Running Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-the-new-generation-apple-pencil-at-only-95-exclusive-labor-day-offer/"><u>Get the New Generation Apple Pencil at Only $95: Exclusive Labor Day Offer</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-harmony-seamlessly-blending-image-and-zip-archives-win1011/"><u>Hidden Harmony: Seamlessly Blending Image and ZIP Archives WIN10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-user-guide-privacy-first-approach-to-location-sharing-options/"><u>IPhone User Guide: Privacy-First Approach to Location Sharing Options</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-xcover-7-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy XCover 7 Phone FRP Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-mac-setting-up-personalized-focus-screens-on-macos-monterey-for-minimized-interruptions-tips/"><u>Mastering Mac: Setting Up Personalized Focus Screens on macOS Monterey for Minimized Interruptions - Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/measuring-up-whats-the-real-time-requirement-for-your-desktop-or-laptop/"><u>Measuring Up: What's the Real-Time Requirement for Your Desktop or Laptop?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oppo-a78-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Oppo A78 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tutorial-pratique-comment-installer-et-operer-handbrake-sous-windows-versions-7-8-10-et-vista/"><u>Tutorial Pratique: Comment Installer Et Opérer HandBrake Sous Windows (Versions 7, 8, 10 Et Vista)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-samsung-galaxy-z-fold-7-prospective-launch-details-cost-estimates-and-latest-leaks/"><u>Unveiling the Samsung Galaxy Z Fold 7: Prospective Launch Details, Cost Estimates, and Latest Leaks</u></a></li>
+</ul></div>
 

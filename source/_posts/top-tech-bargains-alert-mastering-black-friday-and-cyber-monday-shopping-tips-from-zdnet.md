@@ -1,7 +1,7 @@
 ---
 title: Top Tech Bargains Alert! Mastering Black Friday and Cyber Monday Shopping - Tips From ZDNet
-date: 2024-09-18 23:59:46
-updated: 2024-09-20 12:44:46
+date: 2024-11-02T17:57:20.418Z
+updated: 2024-11-05T18:10:01.573Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +58,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -68,6 +95,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-crafting-conversations-proven-techniques-for-telegram-engagement/"><u>[New] In 2024, Crafting Conversations Proven Techniques for Telegram Engagement</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-masterclass-in-logo-making-best-of-9-free-software-for-youtubers/"><u>[Updated] Masterclass in Logo-Making Best of 9 Free Software for YouTubers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-standout-creators-elevating-vr-content-quality/"><u>[Updated] Standout Creators Elevating VR Content Quality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-step-by-step-method-for-altering-youtube-style-thumbnails-on-twitter/"><u>2024 Approved Step-by-Step Method for Altering YouTube-Style Thumbnails on Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-enhances-viewing-experience-with-binge-worthy-shows-a-deep-dive-into-the-highs-and-lows/"><u>Apple Vision Pro Enhances Viewing Experience with Binge-Worthy Shows - A Deep Dive Into the Highs and Lows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/as-samsung-reclaims-leadership-in-mobile-market-share-from-apple-rival-companies-catch-up/"><u>As Samsung Reclaims Leadership in Mobile Market Share From Apple, Rival Companies Catch Up</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-xr-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone XR Safe and Legal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/join-the-chorus-of-discontent-the-unforeseen-consequences-of-moving-to-ios-18-on-your-iphone-as-revealed-readers/"><u>Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed Readers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-fix-for-d3dx9-error-a-step-by-step-solution/"><u>Master the Fix for 'D3dx9_지정되지 않음' Error – A Step-by-Step Solution</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cinematic-color-grading-and-editing-in-final-cut-pro-x-a-comprehensive-guide/"><u>New In 2024, Cinematic Color Grading and Editing in Final Cut Pro X A Comprehensive Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pitchperception-sound-examination-for-2024/"><u>PitchPerception Sound Examination for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-enabling-dual-sign-on-security-for-your-gmail-account/"><u>Step-by-Step Guide: Enabling Dual-Sign On Security for Your Gmail Account</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/trim-mkv-files-on-mac-the-top-3-software/"><u>Trim MKV Files on Mac The Top 3 Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-airtag-peripherals-expert-opinions-and-ratings/"><u>Ultimate List of AirTag Peripherals : Expert Opinions and Ratings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-the-power-of-personal-narratives-master-facebook-bios-for-maximum-impact-for-2024/"><u>Unlock the Power of Personal Narratives Master Facebook Bios for Maximum Impact for 2024</u></a></li>
+</ul></div>
+

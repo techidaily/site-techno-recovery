@@ -1,7 +1,7 @@
 ---
 title: Ultimate List of Gamer's Choice Consoles
-date: 2024-10-23T17:26:10.558Z
-updated: 2024-10-31T05:37:24.081Z
+date: 2024-11-04T16:37:30.219Z
+updated: 2024-11-05T16:33:08.534Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate List of Gamer's Choice Consoles
@@ -30,13 +30,6 @@ thumbnail: https://www.lifewire.com/thmb/PO0joh3JQpdwbwM6MbVpKI3W4YA=/300x200/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,19 +41,19 @@ thumbnail: https://www.lifewire.com/thmb/PO0joh3JQpdwbwM6MbVpKI3W4YA=/300x200/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -77,10 +70,10 @@ thumbnail: https://www.lifewire.com/thmb/PO0joh3JQpdwbwM6MbVpKI3W4YA=/300x200/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -95,10 +88,10 @@ thumbnail: https://www.lifewire.com/thmb/PO0joh3JQpdwbwM6MbVpKI3W4YA=/300x200/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -120,6 +113,13 @@ thumbnail: https://www.lifewire.com/thmb/PO0joh3JQpdwbwM6MbVpKI3W4YA=/300x200/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -170,19 +170,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[New] 2024 Approved Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-economics-a-detailed-blueprint-for-profit-for-2024/"><u>[New] Instagram Economics A Detailed Blueprint for Profit for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-insider-guide-to-flourishing-on-youtube-games-included/"><u>[Updated] 2024 Approved The Insider Guide to Flourishing on YouTube, Games Included</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-comprehensive-review-how-the-ecoflow-portable-generator-sustained-entire-household-through-multiple-power-cuts/"><u>1. Comprehensive Review: How the EcoFlow Portable Generator Sustained Entire Household Through Multiple Power Cuts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-y78-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo Y78 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-non-ecobee-non-amazon-smart-thermostat-in-our-latest-zdnet-review/"><u>Discover the Leading Non-Ecobee, Non-Amazon Smart Thermostat in Our Latest ZDNet Review!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-magicard-rio-pro-driver-new-version-compatible-with-windows-11-81-and-7/"><u>Download Magicard Rio Pro Driver - New Version Compatible with Windows 11, 8.1 & 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/emu-in-the-sky/"><u>Emu in the Sky</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhanced-security-with-expressvpns-latest-update-introducing-the-built-in-password-safe/"><u>Enhanced Security with ExpressVPN's Latest Update - Introducing the Built-In Password Safe!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-pro-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 Pro 5G Phone without PIN</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/securing-the-deal-my-journey-with-the-affordable-339-smart-outlet-on-amazons-prime-day-zdnet-insights/"><u>Securing the Deal: My Journey with the Affordable $3.39 Smart Outlet on Amazon's Prime Day – ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/since-there-are-16-heads-and-each-head-can-readwrite-one-track-at-a-time-we-multiply-by-the-number-of-tracks/"><u>Since There Are 16 Heads and Each Head Can Read/Write One Track at a Time, We Multiply by the Number of Tracks.</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unleash-flawless-footage-overcome-instagram-video-hurdles/"><u>Unleash Flawless Footage Overcome Instagram Video Hurdles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exploring-5-engaging-book-promo-videos/"><u>[Updated] 2024 Approved Exploring 5 Engaging Book Promo Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-windows-upgrade-maze-step-by-step/"><u>[Updated] Navigating the Windows Upgrade Maze Step by Step</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-definitive-guide-to-live-discord-broadcasts/"><u>[Updated] The Definitive Guide to Live Discord Broadcasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-edge-in-ai-and-tech-strategies-for-triumph-over-competitors-at-wwdc-2cuybcef-2024-the-expert-analysis-on-zdnet/"><u>Apple's Edge in AI and Tech: Strategies for Triumph Over Competitors at WWDC 2Cuybcef-2024 - The Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-moisture-resistant-wearables-of-the-year-in-depth-analysis-and-ratings/"><u>Best Moisture-Resistant Wearables of the Year: In-Depth Analysis & Ratings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/distinguished-screenplay-sampler-pack/"><u>Distinguished Screenplay Sampler Pack</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-horizons-in-tablets-apple-event-highlights-including-the-powerhouse-m4-ipad-pro-extended-battery-life-with-the-13-inch-ipad-air-and-revolu163/"><u>Exploring the New Horizons in Tablets: Apple Event Highlights Including The Powerhouse M4 iPad Pro, Extended Battery Life with the 13-Inch iPad Air & Revolutionary Apple Pencil Pro – Detailed Insights From ZDNet!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ghastly-graphics-maker-for-2024/"><u>Ghastly Graphics Maker for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-install-windows-10-on-a-new-hard-drive/"><u>How to Install Windows 10 on a New Hard Drive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-motorola-moto-g-5g-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Moto G 5G (2023) Lock Screen Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/next-week-you-get-a-new-iphone-enhance-your-experience-with-top-pick-anker-gadgets-featured/"><u>Next Week, You Get a New iPhone? Enhance Your Experience with Top-Pick Anker Gadgets Featured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pro-phones-showdown-google-pixel-answers-to-your-questions-and-clarifications-question-answer/"><u>Pro Phones Showdown: Google Pixel # Answers to Your Questions and Clarifications! # QUESTION # ANSWER</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-process-of-pairing-samsung-headphones-and-laptop-for-optimal-audio-experience/"><u>Step-by-Step Process of Pairing Samsung Headphones and Laptop for Optimal Audio Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unforgettable-communications-mastering-the-art-of-recovering-accidentally-deleted-emails-from-your-outlook-inbox/"><u>Unforgettable Communications: Mastering the Art of Recovering Accidentally Deleted Emails From Your Outlook Inbox</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-easy-access-with-android-quick-settings-tips-and-tricks/"><u>Unlocking Easy Access with Android Quick Settings Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-2024-ipads-expected-to-hit-shelves-by-late-marchapril-sources-say-tech-news/"><u>Upcoming 2024 iPads Expected to Hit Shelves by Late March/April, Sources Say - Tech News</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-filmora-coupon-code-2022-7-ways-to-find2022-full-list/"><u>Updated 2024 Approved Filmora Coupon Code 2022 - 7 Ways to Find(2022 Full List)</u></a></li>
 </ul></div>
 

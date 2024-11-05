@@ -1,7 +1,7 @@
 ---
 title: Amazon Deploys Advanced AI Sleuth Technology for Early Detection of Damaged Goods in Transit
-date: 2024-09-18 20:50:31
-updated: 2024-09-20 10:57:34
+date: 2024-11-03T17:35:25.826Z
+updated: 2024-11-05T20:44:07.438Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,9 +79,29 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +138,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-from-buzz-to-sales-transforming-social-media-into-traffic/"><u>[New] 2024 Approved From Buzz to Sales Transforming Social Media Into Traffic</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-reels-add-sound-for-impactful-storytelling-for-2024/"><u>[New] Elevate Your Reels Add Sound for Impactful Storytelling for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-capture-and-share-the-essentials-for-posting-video-in-every-direction-on-fb-for-2024/"><u>[Updated] Capture and Share The Essentials for Posting Video in Every Direction on FB for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-turbocharging-your-instagram-footage/"><u>[Updated] In 2024, Turbocharging Your Instagram Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instavox-the-art-of-adding-music-to-images/"><u>In 2024, InstaVox The Art of Adding Music to Images</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/santa-claus-master-of-worldwide-dialogue/"><u>Santa Claus: Master of Worldwide Dialogue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-the-mystery-of-an-on-yet-blank-screen-essential-fixes-for-computer-issues/"><u>Solve the Mystery of an On Yet Blank Screen: Essential Fixes for Computer Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-game-changing-innovation-of-satellite-emergency-alerts-with-googles-latest-pixel-phone-insights/"><u>The Game-Changing Innovation of Satellite Emergency Alerts with Google's Latest Pixel Phone | Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-best-deal-on-youtube-premium-tips-for-students-seeking-savings/"><u>Unlocking the Best Deal on YouTube Premium - Tips for Students Seeking Savings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-quintet-of-superior-video-editing-solutions-your-guide-to-mastery/"><u>Unveiling the Quintet of Superior Video Editing Solutions - Your Guide to Mastery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-favorite-smartphones-a-look-inside-the-gadgets-writers-choose-daily/"><u>ZDNet's Favorite Smartphones: A Look Inside the Gadgets Writers Choose Daily</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-5-rejtingovyh-seo-agentstv-v-kanade-dlya-povysheniya-onlajn-vidimosti/"><u>Топ-5 Рейтинговых SEO Агентств В Канаде Для Повышения Онлайн Видимости</u></a></li>
+</ul></div>
+

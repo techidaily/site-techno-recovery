@@ -1,7 +1,7 @@
 ---
 title: Top 9 Unbeatable Amazon Bargains for School Supplies - Start Your Semester Saving!
-date: 2024-09-18 18:11:23
-updated: 2024-09-20 10:22:13
+date: 2024-10-29T17:28:21.933Z
+updated: 2024-11-05T20:19:00.040Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -45,6 +52,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -56,6 +70,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-comic-crafting-mastering-7-cheeky-content-strategies/"><u>[Updated] Comic Crafting Mastering 7 Cheeky Content Strategies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-downloading-fb-content-the-ultimate-guide-top-5-list-for-2024/"><u>[Updated] Downloading FB Content The Ultimate Guide - TOP 5 List for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-disrupting-tradition-the-emerging-fb-ad-practices/"><u>[Updated] In 2024, Disrupting Tradition The Emerging FB Ad Practices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-your-engagement-top-10-video-response-insights/"><u>[Updated] In 2024, Elevate Your Engagement Top 10 Video Response Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-investigating-the-economics-of-t-series-on-youtube/"><u>[Updated] Investigating the Economics of T-Series on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-earnings-on-youtube-shorts-essentials-and-prospective-income/"><u>[Updated] Maximizing Earnings on YouTube Shorts Essentials & Prospective Income</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-travel-companion-how-this-low-cost-power-station-enhanced-my-road-trips-according-to-zdnet-analysis/"><u>Affordable Travel Companion: How This Low-Cost Power Station Enhanced My Road Trips, According to ZDNET Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/an-unforeseen-delight-my-experience-with-the-ring-spotlight-cam-pro-reviewed-by-zdnet/"><u>An Unforeseen Delight: My Experience with the Ring Spotlight Cam Pro Reviewed by ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-service-exception-issues-on-your-windows-11-machine-effectively/"><u>Fixing Critical Service Exception Issues on Your Windows 11 Machine Effectively</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-elevating-obs-studios-impact-top-5-editing-techniques-revealed/"><u>In 2024, Elevating OBS Studio's Impact Top 5 Editing Techniques Revealed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-it-worth-it-a-detailed-review-of-microsofts-pricey-all-in-one-workstation-studio-2/"><u>Is It Worth It? A Detailed Review of Microsoft's Pricey All-in-One Workstation, Studio 2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-harnessing-free-visual-content-creatively-for-2024/"><u>Tips for Harnessing Free Visual Content Creatively for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-scooters-your-ultimate-guide-techradar/"><u>Top Rated Electric Scooters : Your Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-grill-models-expert-reviews-and-buying-guide/"><u>Top-Rated Electric Grill Models - Expert Reviews & Buying Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-grills-features-and-reviews/"><u>Top-Rated Electric Grills : Features and Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-outdoor-projector-models-comprehensive-reviews-and-ratings-techradar/"><u>Top-Rated Outdoor Projector Models: Comprehensive Reviews & Ratings | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-solar-power-banks-featured-on-zdnet/"><u>Top-Rated Portable Solar Power Banks - Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmissable-way-day-promotions-top-deals-and-discounts-in-stock/"><u>Unmissable Way Day Promotions - Top Deals & Discounts in Stock!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-uncovers-the-remarkable-performance-of-the-ring-spotlight-cam-pro-in-advanced-security-solutions/"><u>ZDNet Uncovers the Remarkable Performance of the Ring Spotlight Cam Pro in Advanced Security Solutions</u></a></li>
+</ul></div>
+

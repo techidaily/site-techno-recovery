@@ -1,7 +1,7 @@
 ---
 title: Top No-Cost Website Building Tools - ZDNet's Expert Picks
-date: 2024-09-19 22:25:23
-updated: 2024-09-20 12:56:31
+date: 2024-11-01T20:08:55.155Z
+updated: 2024-11-05T21:30:19.491Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,11 +72,31 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-asus-proart-review-a-visual-spectacle-unveiled/"><u>[New] 2024 Approved ASUS ProArt Review A Visual Spectacle Unveiled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-time-stamping-your-photos/"><u>[New] In 2024, The Ultimate Guide to Time-Stamping Your Photos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations/"><u>[Updated] In 2024, Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-prime-filters-to-elevate-submerged-photography-for-2024/"><u>[Updated] Prime Filters to Elevate Submerged Photography for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-insights-into-using-and-optimizing-samsung-tv-apps/"><u>Comprehensive Insights Into Using and Optimizing Samsung TV Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-numbers-learn-how-to-track-viewers-of-your-youtube-videos/"><u>Decoding the Numbers: Learn How To Track Viewers of Your YouTube Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-bing-an-in-depth-look-at-microsofts-alternative-to-google/"><u>Discovering Bing - An In-Depth Look at Microsoft's Alternative to Google</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facebook-security-enhanced-how-to-update-your-account-password-quickly/"><u>Facebook Security Enhanced: How to Update Your Account Password Quickly</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/fuhren-sie-iphones-daten-via-airdrop-erfolgreich-zu-windows-computern-oder-macbook-laptops-hoch/"><u>Führen Sie iPhones Daten via AirDrop Erfolgreich Zu Windows Computern Oder Macbook-Laptops Hoch</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 14</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-web-experience-solutions-for-the-insecure-connection-message/"><u>Secure Your Web Experience: Solutions for the 'Insecure Connection' Message</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/sharpscope-zoommax7-precision-in-size-adjustment-for-2024/"><u>SharpScope ZoomMax7 Precision in Size Adjustment for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snapchat-friend-management-guide-how-to-unfriend-several-contacts/"><u>Snapchat Friend Management Guide: How to Unfriend Several Contacts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-lowdown-on-lg-channels-expert-tips-and-facts/"><u>The Lowdown on LG Channels: Expert Tips and Facts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-compact-gaming-pcs-ultimate-guide/"><u>Top-Rated Compact Gaming PCs: Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-flv-a-formato-avi-con-el-conversor-gratuito-de-movavi/"><u>Transformar Archivos FLV a Formato AVI Con El Conversor Gratuito De Movavi</u></a></li>
+</ul></div>
+

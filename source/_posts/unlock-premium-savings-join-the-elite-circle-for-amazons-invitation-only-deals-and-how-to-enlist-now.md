@@ -1,7 +1,7 @@
 ---
 title: "Unlock Premium Savings: Join the Elite Circle for Amazon's Invitation-Only Deals & How to Enlist Now!"
-date: 2024-09-18 20:21:42
-updated: 2024-09-20 11:55:48
+date: 2024-11-03T17:16:09.733Z
+updated: 2024-11-05T16:08:06.549Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -68,6 +89,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-soundscape-adjustments-fading-volume-with-precision-in-logic-pro-for-2024/"><u>[New] Soundscape Adjustments Fading Volume with Precision in Logic Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-frameworks-for-dynamic-fb-video-marketing/"><u>[Updated] Frameworks for Dynamic FB Video Marketing</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-techniques-for-unpartitioning-your-drives-with-windows/"><u>Expert Techniques for Unpartitioning Your Drives with Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-8-outstanding-html-coding-apps-completely-gratis-and-for-pc/"><u>Explore These 8 Outstanding HTML Coding Apps, Completely Gratis and For PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-hydrophobic-features-of-iphone-13-are-they-effective/"><u>Exploring the Hydrophobic Features of iPhone 13: Are They Effective?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-crystal-clear-digital-broadcasts-with-our-top-pick-for-indoor-antennas/"><u>Get Crystal Clear Digital Broadcasts with Our Top Pick for Indoor Antennas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-6-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 6? Complete Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-play-8t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor Play 8T Through Google Earth?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-insights-top-strategies-and-guides-on-data-wipe-techniques/"><u>Stellar Insights: Top Strategies and Guides on Data Wipe Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-perform-a-fresh-start-on-your-samsung-soundbar/"><u>Step-by-Step Tutorial: How to Perform a Fresh Start on Your Samsung Soundbar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-windows-11-on-fresh-hardware/"><u>Ultimate Guide: Setting Up Windows 11 on Fresh Hardware</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Put an End to Unwanted SMS: Blocking Spam Messages on Your iPhone with Simple Tips"
-date: 2024-10-28T00:10:12.339Z
-updated: 2024-10-30T19:42:25.968Z
+date: 2024-11-04T16:21:46.224Z
+updated: 2024-11-05T17:34:03.266Z
 tags:
   - apple
 categories:
@@ -34,16 +34,10 @@ If you're going to be one of those people, read on.
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  1\. Update
@@ -70,6 +64,19 @@ If your iPhone is one of these and is not running the latest version of iOS 15, 
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### read this
 
 [Want a new iPhone or Android smartphone? Here's how and where to sell or trade your current model.  Read now](https://www.zdnet.com/article/want-a-new-iphone-or-android-smartphone-heres-how-and-where-to-sell-or-trade-your-current-model/)
@@ -79,13 +86,6 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -98,6 +98,13 @@ Make sure to back up your data. To be honest, you should be doing that anyway. i
 Don't have enough iCloud space? Don't worry! Apple will let you borrow some [temporary iCloud storage](https://support.apple.com/en-us/HT212732). (It helps to [keep your iPhone storage under control](https://www.zdnet.com/article/running-out-of-space-on-your-iphone-do-this-before-you-buy-a-new-one/), and you really should consider getting more storage for your future backup needs.) 
 
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
 
@@ -112,13 +119,6 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -148,10 +148,16 @@ Remember, once you start this process, there's no going back!
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### See also
@@ -201,18 +207,16 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-captivate-crowds-social-media-growth-hacks-for-youtube/"><u>[New] In 2024, Captivate Crowds Social Media Growth Hacks for YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-add-music-to-a-video-on-iphone-3-free-ways/"><u>2024 Approved How to Add Music to a Video on iPhone [3 FREE WAYS]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-right-champion-google-pixel-7-pro-vs-apple-iphone-1/"><u>Choosing the Right Champion: Google Pixel 7 Pro vs Apple iPhone 1</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-your-champion-the-battle-of-ai-assistants-chatgpt-vs-microsoft-copilot-vs-gemini/"><u>Choosing Your Champion: The Battle of AI Assistants – ChatGPT Vs. Microsoft Copilot Vs. Gemini</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ditching-samsung-switching-to-pixel-9-pro-xl-a-tale-of-two-tech-giants-over-two-weeks-zdnet/"><u>Ditching Samsung, Switching to Pixel 9 Pro XL: A Tale of Two Tech Giants Over Two Weeks | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elite-photography-phones-of-2024-featured-and-analyzed-by-tech-experts-zdnet-exclusive/"><u>Elite Photography Phones of 2024 Featured & Analyzed by Tech Experts | ZDNET Exclusive</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-find-the-best-value-top-6-budget-friendly-camera-options/"><u>In 2024, Find the Best Value Top 6 Budget-Friendly Camera Options</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-minecraft-homestead-blueprint-6-10/"><u>In 2024, Minecraft Homestead Blueprint #6-10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mastering-slow-motion-photography-in-phantom-cameras-for-2024/"><u>Mastering Slow-Motion Photography in Phantom Cameras for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pixel-9-pro-at-just-100-unlock-the-ultimate-google-sale-hack-on-zdnet/"><u>Pixel 9 Pro at Just $100? Unlock the Ultimate Google Sale Hack on ZDNet!</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/secure-methods-for-deletingrestoring-your-windows-recovery-partition/"><u>Secure Methods for Deleting/Restoring Your Windows Recovery Partition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/snag-a-high-end-phone-for-less-350-motorola-with-built-in-stylus-and-more-storage-sale-alert-digital-trends/"><u>Snag a High-End Phone for Less: $350 Motorola with Built-In Stylus & More Storage, Sale Alert | Digital Trends</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-f23-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo F23 5G Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-srt-to-subc-efficient-conversion-tactics/"><u>2024 Approved From SRT to SUBC Efficient Conversion Tactics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-in-depth-examination-the-working-of-googles-podcast-application/"><u>2024 Approved In-Depth Examination The Working of Google's Podcast Application</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/4-expressions-francaises-de-bienvenue/"><u>4 Expressions Françaises De Bienvenue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/air-vs-pro-why-the-ipad-air-outshines-my-expectations-and-makes-me-reconsider-my-choice-techsavvy/"><u>Air Vs. Pro: Why the IPad Air Outshines My Expectations & Makes Me Reconsider My Choice | TechSavvy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breaking-down-apples-illuminating-glowtime-unveiling-the-iphone-16-revolutionary-ai-features-the-decade-old-apple-watch-redesign-and-next-gen-airpods/"><u>Breaking Down Apple's Illuminating 'Glowtime': Unveiling the iPhone 16, Revolutionary AI Features, The Decade-Old Apple Watch Redesign, and Next-Gen AirPods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-earning-on-youtube-a-step-by-step-guide-for-newbies/"><u>In 2024, Earning on YouTube A Step-by-Step Guide for Newbies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-process-of-bot-management-in-discord-servers/"><u>Master the Process of Bot Management in Discord Servers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-up-and-conquer-in-roller-champions-cross-platform-battle-royale-pc-version-2024/"><u>Team Up & Conquer in Roller Champions Cross-Platform Battle Royale [PC Version, 2024]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-strategies-how-chatgpt-simplifies-daily-tasks/"><u>Top 9 Strategies: How ChatGPT Simplifies Daily Tasks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-when-facebook-turns-back-the-lights-recovering-dark-mode-settings/"><u>What to Do When Facebook Turns Back the Lights: Recovering Dark Mode Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-playstation-vr-integration-for-windows-pcs-explained/"><u>Wireless PlayStation VR Integration for Windows PCs Explained</u></a></li>
 </ul></div>
 

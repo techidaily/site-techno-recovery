@@ -1,7 +1,7 @@
 ---
 title: "FTC Accuses Amazon of Deceiving Customers Into Signing Up for Prime: The Inside Story From ZDNet"
-date: 2024-09-19 14:46:44
-updated: 2024-09-20 11:10:31
+date: 2024-11-04T17:33:06.110Z
+updated: 2024-11-05T19:04:37.255Z
 tags:
   - e-commerce
 categories:
@@ -43,13 +43,40 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -64,6 +91,19 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +144,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-affordable-yet-high-quality-cameras-list-for-2024/"><u>[Updated] Affordable Yet High-Quality Cameras List for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-a-comprehensive-guide-to-lut-customization-in-premiere-pro-workflows/"><u>[Updated] In 2024, A Comprehensive Guide to LUT Customization in Premiere Pro Workflows</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-collage-for-facebook-instantly/"><u>2024 Approved How to Make Collage for Facebook Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-ios-18-preparing-for-the-launch-day-accessible-at-no-extra-fee-unique-characteristics-and-latest-news-highlights/"><u>All About IOS 18: Preparing for the Launch Day, Accessible at No Extra Fee, Unique Characteristics & Latest News Highlights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts/"><u>Capture YouTube Live A Comprehensive Guide for All Tech Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-color-convincingness-like-a-pro-for-2024/"><u>Crafting Color Convincingness Like a Pro for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dive-into-the-details-unveiling-the-secrets-behind-espnpluss-innovative-viewing-experience/"><u>Dive Into the Details: Unveiling the Secrets Behind ESPN+'s Innovative Viewing Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-when-your-computer-cant-find-mfc140dll-or-mfc42dll/"><u>Effective Fixes for When Your Computer Can't Find mfc140.dll or mfc42.dll</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-nokia-c12-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nokia C12 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-broadcasting-fb-movies-on-whatsapp/"><u>In 2024, Broadcasting FB Movies on WhatsApp</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-guide-to-psvr-2-latest-updates-launch-timeline-and-hardware-details/"><u>In-Depth Guide to PSVR 2: Latest Updates, Launch Timeline & Hardware Details</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-connected-on-the-go-mastering-roku-access-in-hotels-and-dorms/"><u>Stay Connected on the Go: Mastering Roku Access in Hotels and Dorms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-techniques-for-setting-up-a-stellar-super-bowl-party-television-system-at-home/"><u>Top Techniques for Setting Up a Stellar Super Bowl Party Television System at Home</u></a></li>
+</ul></div>
+

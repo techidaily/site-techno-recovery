@@ -1,7 +1,7 @@
 ---
 title: Stay Informed on Product Safety with Amazon Now! Tracking Recalled Items in Your Order History | ZDNet
-date: 2024-09-19 16:26:19
-updated: 2024-09-20 10:51:48
+date: 2024-10-30T19:40:53.066Z
+updated: 2024-11-05T16:29:39.113Z
 tags:
   - e-commerce
 categories:
@@ -51,11 +51,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -65,9 +85,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +138,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-free-frame-conversion-tweeting-vids-into-animated-gifs-for-2024/"><u>[Updated] Free Frame Conversion Tweeting Vids Into Animated GIFs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-pre-release-quest-3-insights-before-others-mastering-metas-beta-version-with-ease-zdnet/"><u>Access Pre-Release Quest 3 Insights Before Others: Mastering Meta's Beta Version with Ease | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridging-the-gap-enable-android-app-functionality-in-windows-10-environment/"><u>Bridging the Gap: Enable Android App Functionality in Windows 10 Environment</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/debunking-photoshake-is-it-essential-or-excessive-for-2024/"><u>Debunking PhotoShake Is It Essential or Excessive for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/future-of-video-encoding-can-av1-outperform-hevc-in-efficiency-and-quality/"><u>Future of Video Encoding: Can AV1 Outperform HEVC in Efficiency and Quality?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-xs-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone XS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/speaking-with-impact-in-google-meet-the-guidebook-for-2024/"><u>Speaking with Impact in Google Meet The Guidebook for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steer-clear-of-these-underwhelming-ai-chatbot-extensions-top-6-to-ignore/"><u>Steer Clear of These Underwhelming AI Chatbot Extensions - Top 6 to Ignore</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-building-a-web-portal-with-gpt-3-integration/"><u>Step-by-Step Tutorial on Building a Web Portal with GPT-3 Integration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackling-the-hurdles-of-digital-twin-integration-for-modern-businesses-insightfultech/"><u>Tackling the Hurdles of Digital Twin Integration for Modern Businesses | InsightfulTech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-unanticipated-champion-how-meta-quest-3-clinches-zdnets-product-of-the-year-award-for-2eby/"><u>The Unanticipated Champion: How Meta Quest 3 Clinches ZDNet's Product of the Year Award for 2Eby</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-moto-g-stylus-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Moto G Stylus (2023) without backup.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-desk-into-a-high-tech-trackpad-with-the-revolutionary-vision-pro-accessory-the-complete-guide/"><u>Transform Your Desk Into a High-Tech Trackpad with the Revolutionary Vision Pro Accessory - The Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-vr-adventure-discover-the-must-have-50-meta-quest-3-enhancement-tailored-for-prescription-lens-users-explore-at-zdnet/"><u>Transform Your VR Adventure: Discover the Must-Have $50 Meta Quest 3 Enhancement Tailored for Prescription Lens Users | Explore at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-solving-your-surface-pros-screen-tremors-and-flutter/"><u>Ultimate Guide: Solving Your Surface Pro's Screen Tremors & Flutter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-top-picks-how-a-tiny-chromebook-surpasses-expectations-with-unmatched-versatility-a-comprehensive-review/"><u>ZDNet's Top Picks: How a Tiny Chromebook Surpasses Expectations with Unmatched Versatility - A Comprehensive Review</u></a></li>
+</ul></div>
+

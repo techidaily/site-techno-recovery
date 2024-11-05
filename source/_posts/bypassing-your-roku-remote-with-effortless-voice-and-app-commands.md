@@ -1,7 +1,7 @@
 ---
 title: Bypassing Your Roku Remote with Effortless Voice and App Commands
-date: 2024-10-23T21:09:53.017Z
-updated: 2024-10-31T03:06:10.682Z
+date: 2024-10-31T17:31:01.731Z
+updated: 2024-11-05T17:12:28.489Z
 categories:
   - BestProducts
 description: This Article Describes Bypassing Your Roku Remote with Effortless Voice and App Commands
@@ -23,18 +23,18 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
@@ -49,20 +49,20 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 3. Tap**Yes** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
@@ -94,10 +94,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
@@ -145,22 +145,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlock-free-moving-text-in-your-motion-captures/"><u>[New] 2024 Approved Unlock Free Moving Text in Your Motion Captures</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-videocapture-analysis-hub/"><u>[New] VideoCapture Analysis Hub</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort/"><u>[Updated] Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-muting-problem-solutions-for-obs-sound-capture/"><u>[Updated] Muting Problem Solutions for OBS Sound Capture</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen-for-2024/"><u>[Updated] Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-durable-omoton-t1-desk-mounted-tablet-holder-comprehensive-assessment/"><u>Affordable and Durable Omoton T1 Desk Mounted Tablet Holder - Comprehensive Assessment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ditching-the-samsung-galaxy-s24-ultra-for-a-whole-month-in-favor-of-the-new-pixel-9-pro-xl-a-tale-worth-sharing-zdnet/"><u>Ditching the Samsung Galaxy S24 Ultra for a Whole Month in Favor of the New Pixel 지대 9 Pro XL - A Tale Worth Sharing | ZDNET</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/enhancing-visual-presentation-before-and-after-team-calls/"><u>Enhancing Visual Presentation Before & After Team Calls</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-cosmos-with-your-phone-the-magic-of-enhanced-astrophotography-on-pixel-devices-digital-discoveries/"><u>Exploring the Cosmos with Your Phone: The Magic of Enhanced Astrophotography on Pixel Devices | Digital Discoveries</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-innovative-nophone-one-an-insiders-review-on-zdnet-shows-whats-next/"><u>Exploring the Innovative NoPhone One: An Insider's Review on ZDNet Shows What's Next</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-pixel-buds-pro-2-by-google-top-3-exciting-features-revealed-tech-insights-at-zdnet/"><u>Exploring the New Pixel Buds Pro 2 by Google - Top 3 Exciting Features Revealed | Tech Insights at ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/freestyle2-blue-mac-version-evaluation-a-must-have-toolkit-for-devoted-apple-fans/"><u>Freestyle2 Blue Mac Version Evaluation: A Must-Have Toolkit for Devoted Apple Fans</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-best-5-webcams-with-mic/"><u>In 2024, Best 5 Webcams with Mic</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/instant-activation-of-google-keyboard-shortcuts-in-macos-tips-and-tricks-showcased-by-zdnet/"><u>Instant Activation of Google Keyboard Shortcuts in macOS: Tips and Tricks Showcased by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pixel-perfection-comparing-googles-earbud-innovation-to-apples-airpods-an-exclusive-zdnet-analysis/"><u>Pixel Perfection: Comparing Google's Earbud Innovation to Apple's AirPods - An Exclusive ZDNet Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secrets-to-successfully-reserving-the-latest-pixel-timepiece-top-offers-and-strategies-insights-from-zdnet/"><u>Secrets to Successfully Reserving the Latest Pixel Timepiece: Top Offers & Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/switching-from-samsung-galaxy-s24-ultra-to-google-pixel-9-pro-xl-a-one-month-review-i-wont-forget-insights-by-zdnet/"><u>Switching From Samsung Galaxy S24 Ultra to Google Pixel 9 Pro XL: A One-Month Review I Won’t Forget - Insights by ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/utting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations/"><u>[New] Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mycam-review-a-step-toward-future-proofing-your-videos-for-2024/"><u>[Updated] MyCam Review A Step Toward Future-Proofing Your Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-accelerating-your-creative-process-high-quality-3d-models-tools/"><u>2024 Approved Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-the-apple-watch-series-10-track-blood-pressure-accurately-insights/"><u>Can the Apple Watch Series 10 Track Blood Pressure Accurately? Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-the-future-of-wearables-will-apple-watch-series-8-outshine-its-predecessor-the-series-10-a-deep-dive-with-zdnet/"><u>Comparing the Future of Wearables: Will Apple Watch Series 8 Outshine Its Predecessor, the Series 10? A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-zooms-unnerving-black-screens-a-user-friendly-repair-manual-for-pc/"><u>Conquer Zoom's Unnerving Black Screens: A User-Friendly Repair Manual for PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cross-generation-gaming-can-you-enjoy-ps4-titles-on-the-new-ps5-system/"><u>Cross-Generation Gaming: Can You Enjoy PS4 Titles on the New PS5 System?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciding-on-apples-latest-innovations-comparing-features-of-the-apple-watch-ultra-vs-series-8-zdnet/"><u>Deciding on Apple's Latest Innovations: Comparing Features of the Apple Watch Ultra Vs. Series 8 | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-next-level-visual-smart-scanning-with-iphone-16s-new-camera-functionality-echoing-google-lens-capabilities-insights/"><u>Experience Next-Level Visual Smart Scanning with iPhone 16'S New Camera Functionality Echoing Google Lens Capabilities | Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-studio-grade-audio-with-the-iphone-16-pros-advanced-mixing-features-insights-from-zdnet/"><u>Experience Studio-Grade Audio with the iPhone 16 Pro's Advanced Mixing Features - Insights From ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-helperdll-missing-or-not-found-errors/"><u>How to Fix Helper.dll Missing or Not Found Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leadership-shuffle-openai-fires-sam-altman-potential-impact-on-chatgpts-evolution/"><u>Leadership Shuffle: OpenAI Fires Sam Altman, Potential Impact on ChatGPT's Evolution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-budget-sound-unveiling-the-potential-of-beats-new-solitary-earphones-as-alternatives-to-under-1n-airpods-reviews/"><u>Revolutionizing Budget Sound: Unveiling the Potential of Beats' New Solitary Earphones as Alternatives to Under $1N AirPods, Reviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamlessly-integrate-your-footage-with-these-leading-video-merger-apps-for-windows-pertinent/"><u>Seamlessly Integrate Your Footage with These Leading Video Merger Apps for Windows Pertinent</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/time-travel-photos-on-snapchat-step-by-step-guide/"><u>Time-Travel Photos on Snapchat Step by Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-gamer-ready-smartphones-features-reviews-and-comparison-zdnet/"><u>Top 5 Gamer-Ready Smartphones : Features, Reviews & Comparison - ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/uppladdning-av-filmer-expertistera-i-video-redigeringsteknik/"><u>Uppladdning Av Filmer - Expertistera I Video Redigeringsteknik</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/which-video-sharing-platform-prevails-analyzing-igtv-vs-youtube/"><u>Which Video Sharing Platform Prevails? Analyzing IGTV Vs. YouTube</u></a></li>
 </ul></div>
 

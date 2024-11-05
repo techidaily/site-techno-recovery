@@ -1,7 +1,7 @@
 ---
 title: Smart Choice or Smartphone Mistake? The Case Against Upgrading to an iPhone Aturbo for Apple Enthusiasts - Analyzed by ZDNet
-date: 2024-10-30T03:06:34.111Z
-updated: 2024-10-31T00:31:52.834Z
+date: 2024-11-04T18:40:23.412Z
+updated: 2024-11-05T20:13:34.906Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,13 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -89,10 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -104,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -125,6 +118,13 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -166,14 +166,15 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/16-guide-mastering-automated-admin-duties-using-windows-powershell-insights-from-zdnet/"><u>$16 Guide: Mastering Automated Admin Duties Using Windows PowerShell – Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/emerging-trends-in-developer-careers-and-top-coding-languages-of-the-future-insights-from-zdnet/"><u>Emerging Trends in Developer Careers & Top Coding Languages of the Future - Insights From ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722990568137-get-the-smooth-gameplay-experience-with-cyberpunk-2077s-input-latency-fixed/"><u>Get the Smooth Gameplay Experience with Cyberpunk 2077'S Input Latency Fixed!</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-v30-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme V30 Phone | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-techniques-for-ensuring-quality-screen-recording-in-facetime-chats/"><u>In 2024, Techniques for Ensuring Quality Screen-Recording in FaceTime Chats</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-demand-for-ai-expertise-in-hiring-how-your-capabilities-matter-zdnet/"><u>Navigating the Demand for AI Expertise in Hiring: How Your Capabilities Matter | ZDNet</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-video-for-your-babys-first-year-for-2024/"><u>New How to Make a Video for Your Babys First Year for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-balance-of-telecommuting-vs-office-presence-advantages-prevail-amid-potential-obstacles-ahead-analyzed-on-zdnet/"><u>The Balance of Telecommuting vs Office Presence: Advantages Prevail Amid Potential Obstacles Ahead | Analyzed on ZDNET</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/unveiling-the-secrets-of-spear-phishing-understanding-its-distinct-nature/"><u>Unveiling the Secrets of Spear Phishing: Understanding Its Distinct Nature</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-record-webcam-and-screen-simultaneously/"><u>[New] In 2024, How to Record Webcam and Screen Simultaneously</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-zoom-mastery-creating-seamless-virtual-sessions-for-2024/"><u>[Updated] Zoom Mastery Creating Seamless Virtual Sessions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-apple-pay-later-feature-developing-alternative-solution-insights-from-zdnet/"><u>Apple Discontinues Apple Pay Later Feature, Developing Alternative Solution - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-security-pitfalls-why-chatgpt-may-not-be-trustworthy-for-personal-details/"><u>Avoiding Security Pitfalls: Why ChatGPT May Not Be Trustworthy for Personal Details</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-insights-on-ipad-air-with-m2-chip-the-best-tablet-to-invest-in-according-to-apple-enthusiasts-zdnet/"><u>Expert Insights on iPad Air with M2 Chip: The Best Tablet to Invest in According to Apple Enthusiasts | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-and-repair-a-broken-or-jammed-media-drive-at-home/"><u>How to Resolve and Repair a Broken or Jammed Media Drive at Home</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-6-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 6 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audiences-favorites-top-10-mobility-friendly-players/"><u>In 2024, Audience's Favorites Top 10 Mobility-Friendly Players</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-magic-5-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor Magic 5 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmissable-opportunity-amazon-slashes-price-on-apple-vision-pro-by-200-limited-time-offer/"><u>Unmissable Opportunity: Amazon Slashes Price on Apple Vision Pro by $200 - Limited Time Offer</u></a></li>
 </ul></div>
 

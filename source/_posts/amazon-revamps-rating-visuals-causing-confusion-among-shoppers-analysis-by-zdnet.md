@@ -1,7 +1,7 @@
 ---
 title: Amazon Revamps Rating Visuals, Causing Confusion Among Shoppers | Analysis by ZDNet
-date: 2024-09-18 21:54:11
-updated: 2024-09-20 10:42:51
+date: 2024-11-02T18:51:16.386Z
+updated: 2024-11-05T19:30:12.874Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -69,7 +83,21 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/roven-youtube-seo-tricks-boosting-video-reach-and-visibility/"><u>[New] Proven YouTube SEO Tricks Boosting Video Reach and Visibility</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-inversion-step-by-step-strategy/"><u>[Updated] 2024 Approved Instagram Video Inversion Step-by-Step Strategy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficiently-capture-whatsapp-chat-a-step-by-step-tutorial/"><u>[Updated] Efficiently Capture WhatsApp Chat A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-digital-frontier-navigating-fbs-autoplay-options/"><u>[Updated] The Digital Frontier Navigating FB's Autoplay Options</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-100-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from 100 Pro.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-ultimate-guide-to-15-must-watch-dolby-atmos-movies-for-an-enhanced-viewing-experience/"><u>Explore the Ultimate Guide to 15 Must-Watch Dolby Atmos Movies for an Enhanced Viewing Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/full-screen-excellence-in-ppro-video-editing-for-2024/"><u>Full Screen Excellence in PPro Video Editing for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-y100i-power-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo Y100i Power 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insider-info-playstation-5-slims-cost-availability-dates-and-comprehensive-features-breakdown/"><u>Insider Info: PlayStation 5 Slim's Cost, Availability Dates, and Comprehensive Features Breakdown</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-guide-to-watching-every-classic-james-bond-film/"><u>Ordered Guide to Watching Every Classic James Bond Film</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-fixing-libcea32dll-errors-in-windows/"><u>Step-by-Step Solutions for Fixing libcea32.dll Errors in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-x3daudiodll-files-steps-for-recovery-and-repair/"><u>Troubleshooting Missing x3daudio.dll Files: Steps for Recovery and Repair</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-streaming-device-leaked-specifications-projected-costs-and-launch-schedule-revealed/"><u>Upcoming Google Streaming Device Leaked Specifications: Projected Costs and Launch Schedule Revealed</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Singapore's Starbucks Hit by Security Incident - Customers' Private Data Compromised in Recent Leak
-date: 2024-09-18 10:50:12
-updated: 2024-09-20 10:48:32
+date: 2024-10-30T18:25:19.784Z
+updated: 2024-11-05T22:04:52.194Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,11 +79,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-a-gamers-guide-to-twisting-videos-on-youtube-2e/"><u>[New] In 2024, A Gamer's Guide to Twisting Videos on YouTube (2E)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-comparative-analysis-is-pickup-the-best-editor-for-your-android-device-in-2024/"><u>[Updated] Comparative Analysis Is PickUp The Best Editor for Your Android Device, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-picks-8-economical-video-conferencing-tools-compatible-with-mac-and-pc/"><u>[Updated] Top Picks 8 Economical Video Conferencing Tools Compatible with Mac & PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/conquer-oversized-drafts-learn-to-edit-and-organize-tiktok-content-for-2024/"><u>Conquer Oversized Drafts Learn to Edit and Organize TikTok Content for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-z50s-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Z50S Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713950530912-its-always-a-cool-thing-to-use-a-3d-intro-maker-to-create-intro-videos-for-your-clips-this-post-will-introduce-you-4-of-the-best-intro-video-makers-to-help-/"><u>Its Always a Cool Thing to Use a 3D Intro Maker to Create Intro Videos for Your Clips. This Post Will Introduce You 4 of the Best Intro Video Makers to Help You Improve Your Video for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-smartphone-apps-guide-to-managing-your-roku-device-without-using-a-physical-remote/"><u>Mastering Smartphone Apps: Guide to Managing Your Roku Device without Using a Physical Remote</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-essentials-8-tips-for-choosing-your-ideal-desktop-pc/"><u>Navigating the Essentials: 8 Tips for Choosing Your Ideal Desktop PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/projector-buying-101-expert-tips-on-what-to-look-out-for-in-your-search/"><u>Projector Buying 101: Expert Tips on What to Look Out For in Your Search</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-code-43-issues-a-comprehensive-guide/"><u>Resolving Code 43 Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-non-functioning-cameras-on-the-zoom-platform/"><u>Solutions for Non-Functioning Cameras on the Zoom Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-retrieving-iphone-photos-after-an-ipados-upgrade/"><u>Step-by-Step Tutorial on Retrieving iPhone Photos After an iPadOS Upgrade</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-selecting-the-perfect-motherboard-top-7-essentials/"><u>The Ultimate Guide to Selecting the Perfect Motherboard: Top 7 Essentials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-playing-your-nintendo-switch-games-on-a-tv-screen/"><u>The Ultimate Guide: Playing Your Nintendo Switch Games on a TV Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/vizio-tv-and-wi-fi-troubleshooting-steps-to-reestablish-a-reliable-connection/"><u>Vizio TV & Wi-Fi Troubleshooting: Steps to Reestablish a Reliable Connection</u></a></li>
+</ul></div>
+

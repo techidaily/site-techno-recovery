@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Budget-Friendly Fashion: How the Latest Chrome Add-On Can Slash Spending - Insights From ZDNET"
-date: 2024-09-17 22:28:56
-updated: 2024-09-20 12:28:21
+date: 2024-10-29T18:55:48.886Z
+updated: 2024-11-05T17:20:08.276Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +64,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -79,6 +100,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I have to cancel my current account to get Prime Student? 
 
 No, you do not have to cancel or deactivate your account. Just [use this link](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1)to transfer your account. Your current benefits, however, may change. For example, if you currently have a 20% discount on home appliances, that may be revoked in place of the other perks. 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-superior-panzoid-constructs-guide/"><u>[New] 2024 Approved Superior Panzoid Constructs Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-maximizing-outreach-facebook-videos-transmitted-to-whatsapp/"><u>[Updated] 2024 Approved Maximizing Outreach Facebook Videos Transmitted to WhatsApp</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-real-time-streaming-on-facebook-simplified-2023/"><u>[Updated] Real-Time Streaming on Facebook, Simplified 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-unlock-the-secret-score-your-complimentary-macbook-air-m3-with-this-clever-best-buy-offer-learn-the-trick/"><u>1. Unlock the Secret: Score Your Complimentary MacBook Air M3 with This Clever Best Buy Offer – Learn The Trick!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-solutions-for-overcoming-chatgpt-and-plugin-integration-problems/"><u>Effective Solutions for Overcoming ChatGPT and Plugin Integration Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lost-airpods-heres-how-you-can-retrieve-them-and-avoid-misplacement-in-the-future-digital-solutions-blog/"><u>Lost AirPods? Here's How You Can Retrieve Them and Avoid Misplacement in the Future | Digital Solutions Blog</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-deck-keyboard-functionality/"><u>Mastering Steam Deck Keyboard Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-messy-mailboxes-unlock-a-stress-free-solution-that-keeps-your-email-organized-with-just-one-trick-find-out-more-here/"><u>Say Goodbye to Messy Mailboxes: Unlock a Stress-Free Solution that Keeps Your Email Organized with Just One Trick - Find Out More Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/silent-setup-success-pairing-your-airpods-with-the-quest-3-headset-tips-and-tricks-guide/"><u>Silent Setup Success: Pairing Your AirPods with the Quest 3 Headset – Tips & Tricks Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-y100t-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Y100t</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-strategies-for-achieving-virality-on-youtube/"><u>Top 8 Strategies for Achieving Virality on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/visual-branding-in-youtubes-design-tips-for-2024/"><u>Visual Branding in YouTubes Design Tips for 2024</u></a></li>
+</ul></div>
+

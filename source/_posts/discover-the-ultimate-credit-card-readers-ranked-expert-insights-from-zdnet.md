@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Credit Card Readers Ranked - Expert Insights From ZDNet
-date: 2024-09-18 15:43:48
-updated: 2024-09-20 11:24:28
+date: 2024-10-31T16:23:24.939Z
+updated: 2024-11-05T17:53:32.512Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,9 +79,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivate-audiences-techniques-for-livestreaming-video-in-spherical-views-on-youtube-for-2024/"><u>[New] Captivate Audiences Techniques for Livestreaming Video in Spherical Views on YouTube for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-2023s-ideal-app-for-unmatched-intro-edits-on-various-gadgets/"><u>[Updated] 2023’S Ideal App for Unmatched Intro Edits on Various Gadgets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-future-of-photo-shooting-smart-hdr-technology-insights-for-2024/"><u>[Updated] The Future of Photo Shooting Smart HDR Technology Insights for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-psd-visual-enhancements/"><u>2024 Approved Prime PSD Visual Enhancements</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alexa-vs-google-assistant-showdown-who-reigns-supreme-in-personalization-and-features/"><u>Alexa Vs. Google Assistant Showdown: Who Reigns Supreme in Personalization and Features?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-practices-determining-cpu-resources-for-effective-video-conversion-tasks/"><u>Best Practices: Determining CPU Resources for Effective Video Conversion Tasks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987743481-dealing-with-immortals-of-fenyx-rising-crashes-solutions-inside/"><u>Dealing with Immortals of Fenyx Rising Crashes – Solutions Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decision-time-comparing-ipad-pro-and-macbook-air-to-find-the-perfect-fit-for-your-needs/"><u>Decision Time: Comparing iPad Pro and MacBook Air to Find the Perfect Fit For Your Needs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expertly-edited-photos-and-films-best-gopro-editing-apps-for-2024/"><u>Expertly Edited Photos and Films Best GoPro Editing Apps for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-contrasts-between-signal-and-whatsapp-what-sets-them-apart/"><u>Exploring the Contrasts Between Signal and WhatsApp: What Sets Them Apart?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-savings-discover-how-to-claim-a-free-macbook-air-m3-through-these-insider-best-buy-hacks-exclusive-guide-from-zdnet/"><u>Maximize Savings! Discover How to Claim a Free MacBook Air M3 Through These Insider Best Buy Hacks - Exclusive Guide From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximize-your-window-usage-top-30-unknown-tips-and-tricks-for-windows-11/"><u>Maximize Your Window Usage Top 30 Unknown Tips and Tricks for Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/prevent-auto-play-feature-in-apple-music-with-these-simple-steps/"><u>Prevent Auto-Play Feature in Apple Music with These Simple Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionary-leap-in-ai-technology-as-apples-realm-surpasses-gpt-performance-techzdnet/"><u>Revolutionary Leap in AI Technology as Apple's RealM Surpasses GPT-# Performance | TechZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-streaming-zoom-on-television-screens/"><u>Step-by-Step Tutorial: Streaming Zoom on Television Screens</u></a></li>
+</ul></div>
+

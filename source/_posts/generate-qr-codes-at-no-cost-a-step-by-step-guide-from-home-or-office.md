@@ -1,7 +1,7 @@
 ---
 title: Generate QR Codes at No Cost - A Step-by-Step Guide From Home or Office
-date: 2024-09-18 11:21:45
-updated: 2024-09-20 10:28:10
+date: 2024-10-31T18:51:22.563Z
+updated: 2024-11-05T19:26:13.883Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +57,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -65,6 +79,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape/"><u>[New] Adaptability & Agility Key Attributes for Thriving in a Changing Market Landscape</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-desktop-recording-head-to-head-obs-vs-shadowplay-for-2024/"><u>[Updated] Desktop Recording Head-to-Head OBS Vs. ShadowPlay for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-diy-youtube-music-collection-a-comprehensive-online-and-app-method/"><u>[Updated] DIY YouTube Music Collection A Comprehensive Online & App Method</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>[Updated] Immersive Storytelling Harnessing Top 10 Text Innovations in Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-effective-screen-recording-with-tunefab/"><u>2024 Approved The Ultimate Guide to Effective Screen Recording with Tunefab</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-pinterest-scheduler-tools-to-try/"><u>5 Pinterest Scheduler Tools to Try</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722880215082-client-and-server-communication-breakdown-heres-how-to-overcome-vpn-error-ncode-800/"><u>Client & Server Communication Breakdown? Here's How to Overcome VPN Error nCode 800</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-setting-up-and-managing-timely-reminders-on-slack-platforms/"><u>Expert Tips for Setting Up & Managing Timely Reminders on Slack Platforms</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2173160-9781848588752-fascinating-facts-and-curious-questions/"><u>Fascinating Facts and Curious Questions | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-started-with-telnet-command-line-tool-on-your-windows-machine/"><u>How to Get Started with Telnet Command Line Tool on Your Windows Machine</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-simplified-guide-to-structuring-ad-copy-on-social-media/"><u>In 2024, Simplified Guide to Structuring Ad Copy on Social Media</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-app-store-versus-google-play-store-exploring-key-differences-and-user-preferences/"><u>IOS App Store versus Google Play Store: Exploring Key Differences and User Preferences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/metro-exodus-pc-version-stability-issues-resolved-tips-and-tricks/"><u>Metro Exodus PC Version Stability Issues Resolved - Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-guide-to-adding-new-apps-to-a-samsung-smart-tv/"><u>The Ultimate How-To Guide to Adding New Apps to a Samsung Smart TV</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How Are Shoppers Using Generative AI? Uncovering Statistics and Trends From a Recent ZDNET Survey
-date: 2024-09-17 21:57:53
-updated: 2024-09-20 11:10:42
+date: 2024-11-04T19:35:46.716Z
+updated: 2024-11-05T21:53:30.042Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -56,6 +63,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -71,9 +85,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 ## FAQs  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-effortless-capture-procedure-guiding-you-through-macos-screen-record/"><u>[New] Effortless Capture Procedure Guiding You Through macOS Screen Record</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-react-and-relate-harness-the-power-of-alternate-perspectives-for-compelling-youtube-vids-2-pov-method/"><u>[New] React and Relate - Harness the Power of Alternate Perspectives for Compelling YouTube Vids (2 POV Method)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-exploring-new-horizons-video-resources-for-dynamic-learning-spaces/"><u>[Updated] Exploring New Horizons Video Resources for Dynamic Learning Spaces</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-time-lapse-wizardry-harnessing-gopros-potential/"><u>[Updated] Time-Lapse Wizardry Harnessing GoPro's Potential</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-husqvarna-h501x4-fpv-quad-examination/"><u>2024 Approved Husqvarna H501X4 FPV Quad Examination</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/achieve-exceptional-service-with-robust-anti-money-laundering-and-know-your-customer-practices/"><u>Achieve Exceptional Service with Robust Anti-Money Laundering & Know Your Customer Practices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-security-software-of-2024-our-top-5-recommendations-for-malware-detection-and-elimination/"><u>Best Free Security Software of 2024: Our Top 5 Recommendations for Malware Detection and Elimination</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-guide-to-ev-home-charging-station-installation-and-operation/"><u>DIY Guide to EV Home Charging Station Installation and Operation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-locating-stored-passwords-securely-on-your-mac-computer/"><u>Guide: Locating Stored Passwords Securely on Your Mac Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-access-the-discounted-spotify-subscription-as-an-eligible-college-scholar/"><u>How to Access the Discounted Spotify Subscription as an Eligible College Scholar?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-realme-narzo-60x-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Realme Narzo 60x 5G FRP Bypass</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210773420-9781649694188-nostradamus-unlocked/"><u>NOSTRADAMUS Unlocked | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-information-a-guide-to-the-five-best-approaches-for-securely-saving-your-files/"><u>Protecting Your Information: A Guide to the Five Best Approaches for Securely Saving Your Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-d3dx928dll-file-not-detected-a-step-by-step-guide/"><u>Resolving the d3dx9_28.dll File Not Detected: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-adventurous-spirit-with-panasonics-hx-a1-actioncam-review/"><u>The Adventurous Spirit with Panasonic's HX-A1 ActionCam Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-12-free-movie-streaming-sites-ranked-by-user-satisfaction/"><u>Top 12 Free Movie Streaming Sites Ranked by User Satisfaction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unfolding-the-latest-samsung-galaxy-z-fold-discover-pricing-launch-details-and-features/"><u>Unfolding the Latest Samsung Galaxy Z Fold - Discover Pricing, Launch Details & Features</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>Updated Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-presentation-projecting-windows-desktop-onto-television-with-googles-chromecast/"><u>Wireless Presentation: Projecting Windows Desktop Onto Television with Google's Chromecast</u></a></li>
+</ul></div>
+

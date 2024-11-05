@@ -1,7 +1,7 @@
 ---
 title: $35 for Both Echo Pop and Blink Doorbell? Unbeatable Smart Device Bundle Captures Best Deal Spotlight at End of Amazon's Prime Day Sale | Gadget Watch
-date: 2024-09-18 20:56:59
-updated: 2024-09-20 12:37:11
+date: 2024-10-30T19:44:08.557Z
+updated: 2024-11-05T16:06:48.675Z
 tags:
   - e-commerce
 categories:
@@ -32,6 +32,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -65,11 +72,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-10-secrets-to-sizzling-unboxing-reels-on-social-media-for-2024/"><u>[New] 10 Secrets to Sizzling Unboxing Reels on Social Media for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-direct-from-spotify-to-youtube-best-apps-for-streaming-conversions-for-2024/"><u>[Updated] Direct From Spotify to YouTube Best Apps for Streaming Conversions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-and-practical-why-the-latest-xr-media-and-gaming-center-has-everyone-talking-insights-from-zdnet/"><u>Affordable & Practical: Why The Latest XR Media and Gaming Center Has Everyone Talking - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-apples-arvr-glasses-release-latest-insights-and-rumors-unveiled-zdnet/"><u>Anticipating Apple's AR/VR Glasses Release: Latest Insights and Rumors Unveiled | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-explores-breath-monitoring-feature-in-newest-vision-pro-version-insights-from-zdnet/"><u>Apple Explores 'Breath Monitoring' Feature in Newest Vision Pro Version: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-entry-into-the-arvr-space-a-skeptical-viewpoint-from-zdnet/"><u>Apple's Entry Into the AR/VR Space: A Skeptical Viewpoint From ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/95841435-9781683253846-el-tarot-egipcio/"><u>El tarot egipcio | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-productivity-with-chatgpt-a-four-step-approach/"><u>Enhancing Productivity with ChatGPT: A Four-Step Approach</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-companion-accessory-needed-before-purchasing-your-apple-vision-pro-dont-make-the-oversight/"><u>Essential Companion Accessory Needed Before Purchasing Your Apple Vision Pro: Don’t Make the Oversight!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-marketing-potential-through-strategy-boxing/"><u>In 2024, Unleash Marketing Potential Through Strategy Boxing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-of-the-speedy-and-affordable-tp-link-archer-c8n-wireless-router/"><u>In-Depth Evaluation of the Speedy & Affordable TP-Link Archer C8n Wireless Router</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-augmented-reality-eyewear-ranking-for-202/"><u>Leading Augmented Reality Eyewear Ranking for 202</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/microsoft-closes-doors-on-virtual-gathering-place-the-end-of-altspacevr-a-zdnet-exclusive/"><u>Microsoft Closes Doors on Virtual Gathering Place: The End of AltspaceVR - A ZDNet Exclusive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/razers-latest-innovations-unveiled-at-ces-2023-a-comprehensive-overview-techradar/"><u>Razer's Latest Innovations Unveiled at CES 2023: A Comprehensive Overview | TechRadar</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/7-light-and-gear-perfect-for-vloggers-for-2024/"><u>Top 17 Light & Gear Perfect for Vloggers for 2024</u></a></li>
+</ul></div>
+

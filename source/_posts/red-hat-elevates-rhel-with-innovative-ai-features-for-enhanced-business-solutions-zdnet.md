@@ -1,7 +1,7 @@
 ---
 title: Red Hat Elevates RHEL with Innovative AI Features for Enhanced Business Solutions | ZDNet
-date: 2024-09-17 14:37:58
-updated: 2024-09-20 12:12:32
+date: 2024-11-03T18:53:11.984Z
+updated: 2024-11-05T17:21:09.492Z
 tags:
   - developer
 categories:
@@ -41,6 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -73,6 +86,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +100,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world-for-2024/"><u>[Updated] Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-choosing-excellence-the-premier-6-for-zoom-cams/"><u>2024 Approved Choosing Excellence The Premier 6 for Zoom Cams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-choosing-the-best-mac-mkv-players-guide/"><u>2024 Approved Choosing the Best Mac MKV Players Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20-iconic-anime-theme-melodies-ever/"><u>2024 Approved Top 20 Iconic Anime Theme Melodies Ever</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/currently-hottest-movies-from-the-sports-genre-you-dont-want-to-miss/"><u>Currently Hottest Movies From the Sports Genre You Don’t Want to Miss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-and-resolve-tips-for-fixing-401-unauthorized-error-codes/"><u>Decode and Resolve: Tips for Fixing '401 Unauthorized' Error Codes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-access-archived-notifications-on-ios-devices/"><u>Discover How to Access Archived Notifications on iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-viewing-experience-with-hitachis-4k-uhd-tvs-featuring-built-in-roku-streamer/"><u>Enhance Your Viewing Experience with Hitachi's 4K UHD TVs Featuring Built-In Roku Streamer</u></a></li>
+<li><a href="https://win-superb.techidaily.com/fast-fix-restore-missing-documents-and-sections-from-your-onedrive-notebook/"><u>Fast Fix: Restore Missing Documents and Sections From Your OneDrive Notebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-focusrite-scarlett-solo-desktop-audio-interface-for-pc/"><u>Free Download: Focusrite Scarlett Solo Desktop Audio Interface for PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android/"><u>Go Pro Simple Techniques for Captivating Slow Motion Videos on Android</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-itel-p55-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Itel P55 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722896583031-navigating-the-digital-world-choosing-your-next-phone-laptop-or-readable-device/"><u>Navigating the Digital World: Choosing Your Next Phone, Laptop or Readable Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-0x80860010-application-overload/"><u>Navigating Through the Maze of 0X80860010 Application Overload</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-comctl32dll-file-not-found-a-step-by-step-guide/"><u>Resolving 'Comctl32.dll' File Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-big-reveal-exploring-upcoming-events-and-potential-product-launches/"><u>Samsung's Big Reveal : Exploring Upcoming Events & Potential Product Launches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-12-zero-fee-software-for-optimizing-your-hard-drive-this-july-2024/"><u>The Ultimate List of 12 Zero-Fee Software for Optimizing Your Hard Drive This July 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide to Preventing Coronavirus Spread : Discover the Best Masks According to ZDNET"
-date: 2024-09-19 23:24:52
-updated: 2024-09-20 12:25:21
+date: 2024-11-04T16:12:30.423Z
+updated: 2024-11-05T19:20:32.727Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -68,6 +89,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-20plus-ways-to-earn-from-your-facebook-community/"><u>[New] 2024 Approved 20+ Ways to Earn From Your Facebook Community</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-5-free-video-players-vlc-or-mpc-winner/"><u>[New] 2024 Approved Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-instantaneous-screen-logger-for-chrome/"><u>[New] Instantaneous Screen Logger for Chrome</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-profile-pictures-download-for-free/"><u>2024 Approved Profile Pictures - Download for FREE!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722880989322-dive-into-the-tech-book-fusion-a-journey-with-laptops-phones-and-epics/"><u>Dive Into the Tech-Book Fusion: A Journey with Laptops, Phones, & Epics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-instagram-everything-you-want-to-learn-about-this-platform/"><u>Exploring Instagram: Everything You Want to Learn About This Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-customize-your-samsung-televisions-web-surfing-tool-with-a-new-browser-app/"><u>How To Customize Your Samsung Television's Web Surfing Tool With a New Browser App</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-keyboard-woes-heres-how-to-get-your-keys-working-again-in-no-time/"><u>HP Laptop Keyboard Woes? Here's How to Get Your Keys Working Again in No Time</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-yuva-3-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Lava Yuva 3</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/make-a-difference-youtubes-quick-thumbnail-guide/"><u>Make a Difference YouTube's Quick Thumbnail Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-reviving-your-soaked-iphoneipod-drying-techniques-and-fixes/"><u>Step-by-Step Guide: Reviving Your Soaked iPhone/iPod - Drying Techniques & Fixes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-cinematography-processes-using-obss-versatile-lut-tools-and-downloads-for-2024/"><u>Streamline Cinematography Processes Using OBS's Versatile LUT Tools and Downloads for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-most-popular-note-taking-applications/"><u>Top 10 Most Popular Note-Taking Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-mystery-behind-your-car-stereo-security-passwords/"><u>Unlock the Mystery Behind Your Car Stereo Security Passwords</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/x-men-movie-marathon-watch-in-the-perfect-order/"><u>X-Men Movie Marathon: Watch in the Perfect Order</u></a></li>
+</ul></div>
+

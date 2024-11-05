@@ -1,7 +1,7 @@
 ---
 title: Southwest's Bold Move Sparks Debate on Customer Tiering | Insights From ZDNET
-date: 2024-09-19 20:52:51
-updated: 2024-09-20 12:42:17
+date: 2024-11-02T18:22:52.815Z
+updated: 2024-11-05T17:25:38.162Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -64,6 +85,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-crafting-compelling-videos-the-instagram-editors-playbook/"><u>[New] 2024 Approved Crafting Compelling Videos The Instagram Editor's Playbook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-disabling-or-enabling-pip-mode-youtube-on-iphone-guide/"><u>[New] In 2024, Disabling or Enabling PIP Mode YouTube on iPhone Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/be-first-in-line-for-quest-3-improvements-unlocking-metas-beta-access-with-zdnets-tips/"><u>Be First in Line for Quest 3 Improvements: Unlocking Meta's Beta Access with ZDNet's Tips</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/comment-recuperer-des-donnees-supprimees-sur-un-disque-dur-formate-solutions-fiables-et-eprouvees/"><u>Comment Récupérer Des Données Supprimées Sur Un Disque Dur Formaté - Solutions Fiables Et Éprouvées</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciding-between-apple-tv-4k-and-roku-ultra-features-performance-and-price-breakdown/"><u>Deciding Between Apple TV 4K and Roku Ultra - Features, Performance & Price Breakdown</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/developer-astonishment-mounts-as-apples-vision-pro-labs-make-waves-insights-from-the-source-zdnet/"><u>Developer Astonishment Mounts as Apple's Vision Pro Labs Make Waves - Insights From the Source | ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-smart-8-plus-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-components-of-a-successful-digital-twin-strategy-integrating-ai-for-enhanced-business-outcomes-tech-insights-by-zdnet/"><u>Essential Components of a Successful Digital Twin Strategy: Integrating AI for Enhanced Business Outcomes | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-the-magic-of-my-beloved-series-on-apple-vision-pro-a-journey-through-wonder-and-weariness-insights-from-zdnet/"><u>Experience the Magic of My Beloved Series on Apple Vision Pro – A Journey Through Wonder & Weariness | Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-augmented-reality-ambitions-a-firsthand-experience-with-their-revolutionary-iphone-connected-headset-zdnet/"><u>Exploring Apple's Augmented Reality Ambitions: A Firsthand Experience with Their Revolutionary iPhone-Connected Headset - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-you-reverse-an-apple-vision-pro-purchase-discover-tips-with-zdnets-assistance/"><u>How Do You Reverse an Apple Vision Pro Purchase? Discover Tips with ZDNet's Assistance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>In 2024, Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-sites-to-explore-glossy-golden-typography-designs-for-2024/"><u>Prime Sites to Explore Glossy, Golden Typography Designs for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-art-of-video-cutting-and-compiling-in-studio/"><u>The Art of Video Cutting and Compiling in Studio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-what-to-try-if-your-email-isnt-synching-on-gmail/"><u>Troubleshooting Steps: What To Try If Your Email Isn't Synching on Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-enhanced-virtual-reality-with-metas-affordable-50-eye-accessory-for-glasses-wearing-gamers-zdnet-insights/"><u>Unlock Enhanced Virtual Reality with Meta's Affordable $50 Eye Accessory for Glasses-Wearing Gamers - ZDNet Insights</u></a></li>
+</ul></div>
+

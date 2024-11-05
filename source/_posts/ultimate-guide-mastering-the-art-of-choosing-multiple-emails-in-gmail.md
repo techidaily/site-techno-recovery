@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering the Art of Choosing Multiple Emails in Gmail"
-date: 2024-10-26T21:41:38.962Z
-updated: 2024-10-30T21:51:08.571Z
+date: 2024-10-29T20:25:34.813Z
+updated: 2024-11-05T18:09:30.487Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Mastering the Art of Choosing Multiple Emails in Gmail"
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -68,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -90,19 +90,6 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -114,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -133,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -146,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,24 +170,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-the-world-in-iphone-slow-motion/"><u>[Updated] 2024 Approved Capturing the World in iPhone Slow Motion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-chromebook-pitch-and-timbre-control-guide-the-leading-online-speech-modifiers/"><u>[Updated] In 2024, Chromebook Pitch and Timbre Control Guide The Leading Online Speech Modifiers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-a-scriptwriters-playbook/"><u>2024 Approved A Scriptwriter's Playbook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-close-match-to-perfection-secure-your-home-with-the-sale-priced-arlo-pro-nv-why-its-worth-180-less-zdnet-exclusive/"><u>A Close Match to Perfection: Secure Your Home with the Sale-Priced Arlo Pro nV: Why It's Worth $180 Less | ZDNET Exclusive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/apple-eyes-affordable-macbook-launch-to-challenge-chromebook-market-dominance-insights-from-zdnet/"><u>Apple Eyes Affordable MacBook Launch to Challenge Chromebook Market Dominance: Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-deal-of-the-season-blinks-four-camera-setup-with-floodlight-at-only-80-this-labor-day-exclusive-offer-on-zdnet/"><u>Discover the Deal of the Season: Blink's Four-Camera Setup with Floodlight at Only $80 This Labor Day - Exclusive Offer on ZDNet!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-a79-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo A79 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-11-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 11 Pro SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>In 2024, In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-optimal-solution-screen-capture-for-youtube-success/"><u>In 2024, Optimal Solution Screen Capture for YouTube Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/organize-your-inbox-like-a-pro-mastering-gmail-labels-from-emails-and-its-advantages/"><u>Organize Your Inbox Like A Pro: Mastering Gmail Labels From Emails & Its Advantages</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-study-habits-with-this-essential-tech-gadget-for-students-the-all-in-one-reusable-smart-notebook-zdnet/"><u>Revolutionize Your Study Habits with This Essential Tech Gadget for Students - The All-in-One Reusable Smart Notebook | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ride-and-grill-in-style-explore-the-new-e-bike-featuring-a-complimentary-grill-attachment-gizmodo/"><u>Ride and Grill in Style - Explore the New E-Bike Featuring a Complimentary Grill Attachment | Gizmodo</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-contemporary-compact-living-spaces-explore-minimalist-designs/"><u>Top 5 Contemporary Compact Living Spaces - Explore Minimalist Designs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-seed-distribution-firms-reviews-and-comparisons/"><u>Top-Rated Seed Distribution Firms: Reviews & Comparisons</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unpacking-the-excellence-of-ecoflow-river-3-a-must-have-portable-battery-according-to-zdnets-test-results/"><u>Unpacking the Excellence of EcoFlow River 3 - A Must-Have Portable Battery, According to ZDNET's Test Results</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-reviews-the-surprising-impact-of-rings-spotlight-cam-pro/"><u>ZDNet Reviews: The Surprising Impact of Ring's Spotlight Cam Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos/"><u>[New] Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-tips-for-vimeo-video-logging/"><u>[Updated] 2024 Approved Essential Tips for Vimeo Video Logging</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-frequency-fluctuations-for-game-mastery/"><u>[Updated] Frequency Fluctuations for Game Mastery</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-professional-livestream-tools-outside-of-standard-obs/"><u>[Updated] In 2024, Professional Livestream Tools Outside of Standard OBS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-apple-watchs-battery-performance-top-8-configurations-revealed/"><u>Boost Your Apple Watch's Battery Performance: Top 8 Configurations Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/celebrate-independence-day-with-unbeatable-4th-of-july-cellphone-bargains-at-zdnet/"><u>Celebrate Independence Day With Unbeatable 4Th of July Cellphone Bargains at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-innovation-apples-cutting-edge-iphone-launch-event/"><u>Discover the Innovation: Apple's Cutting-Edge iPhone Launch Event</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-avoid-virtual-reality-queasiness-5-useful-tips/"><u>In 2024, Avoid Virtual Reality Queasiness 5 Useful Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-11-pro-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 11 Pro has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-pro-showdown-choosing-between-the-powerful-m1-and-advanced-m2-chips-insights-from-zdnet/"><u>IPad Pro Showdown: Choosing Between the Powerful M1 and Advanced M2 Chips - Insights From ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-most-popular-websites-for-chilling-soundtracks-2023-rankings/"><u>New Exploring the Most Popular Websites for Chilling Soundtracks (2023 Rankings)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-free-cad-programs-you-should-try-today/"><u>The Best Free CAD Programs You Should Try Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-choosing-the-right-video-downloaders-your-top-13-picks-for-free-and-subscription-based-tools/"><u>Ultimate Guide: Choosing the Right Video Downloaders - Your Top 13 Picks for Free and Subscription-Based Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-overcoming-the-notorious-2024-fatal-error-crash-in-halo-4-using-ue4-fixes/"><u>Ultimate Solution: Overcoming the Notorious 2024 Fatal Error Crash in Halo 4 Using UE4 Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-3-innovative-features-of-the-new-iphone-16-reasons-to-upgrade-now-techexplorer/"><u>Unveiling the Top 3 Innovative Features of the New iPhone 16: Reasons to Upgrade Now - TechExplorer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-i-swapped-my-pricey-apple-and-meta-vr-headsets-for-cost-effective-xr-wearables-insights-shared-on-zdnet/"><u>Why I Swapped My Pricey Apple and Meta VR Headsets for Cost-Effective XR Wearables - Insights Shared on ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Innovative Purchase by Apple Points to Potential AI Integration in Coming iPhone Models | Gadget Central
-date: 2024-10-25T22:22:50.862Z
-updated: 2024-10-31T02:03:26.945Z
+date: 2024-11-01T16:54:08.909Z
+updated: 2024-11-05T18:57:04.991Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -76,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -101,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -120,6 +113,13 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -160,10 +160,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -218,24 +218,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-best-instagram-highlights-covers-apps/"><u>[New] 2024 Approved Best Instagram Highlights Covers Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-how-youtube-manages-content-post-upload/"><u>[New] 2024 Approved How YouTube Manages Content Post-Upload</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-the-creme-de-la-creme-instas-influential-elite/"><u>[New] In 2024, Exploring the Crème De La Crème Insta's Influential Elite</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-10-educator-approved-video-capture-apps/"><u>[New] In 2024, Top 10 Educator-Approved Video Capture Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-tier-mics-for-online-presenters/"><u>[New] Top-Tier Mics for Online Presenters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speedy-movie-making-hacks-tips-to-learn-and-apply-at-home/"><u>[Updated] Speedy Movie Making Hacks Tips to Learn and Apply at Home</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-pro-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Pro Without a Passcode</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-gpt-3-experts-overtaking-ai-researchers-in-popularity-for-top-tech-career-insights-from-a-zdnet-analysis/"><u>Are GPT-3 Experts Overtaking AI Researchers in Popularity for Top Tech Career: Insights From a ZDNet Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ascend-in-your-job-role-top-5-tactics-for-climbing-the-corporate-ladder-successfully-zdnet/"><u>Ascend in Your Job Role: Top 5 Tactics for Climbing the Corporate Ladder Successfully | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-remote-work-and-in-office-setup-unveiling-pros-and-potential-pitfalls-on-zdnet/"><u>Comparing Remote Work and In-Office Setup: Unveiling Pros & Potential Pitfalls on ZDNet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-emotional-awareness-in-the-workplace-the-ultimate-zdnet-strategy/"><u>Mastering Emotional Awareness in the Workplace: The Ultimate ZDNet Strategy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-connection-the-introverts-guide-to-networking-insights-from-zdnet/"><u>Mastering the Art of Connection: The Introvert's Guide to Networking - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-hunt-for-remote-coding-roles-insider-strategies-by-zdnet/"><u>Mastering the Hunt for Remote Coding Roles: Insider Strategies by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-self-doubt-tips-to-display-unwavering-confidence-at-work-based-on-zdnets-latest-article/"><u>Overcoming Self-Doubt: Tips to Display Unwavering Confidence at Work, Based on ZDNet's Latest Article</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-discreet-guide-to-job-hunting-while-retaining-your-present-role-insights-from-zdnet-experts/"><u>The Discreet Guide to Job Hunting While Retaining Your Present Role - Insights From ZDNet Experts</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/understanding-libor-changeover-with-artificial-intelligence-perspectives-by-abbyy-experts/"><u>Understanding LIBOR Changeover with Artificial Intelligence: Perspectives by ABBYY Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-peak-software-development-performance-with-microsofts-top-talent-insights-from-zdnet/"><u>Unlock Peak Software Development Performance with Microsoft's Top Talent - Insights From ZDNet</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-ahead-/"><u>Updated Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-demystifying-the-process-of-checking-subs/"><u>[New] 2024 Approved Demystifying The Process of Checking Subs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-instagram-reel-playbook/"><u>2024 Approved The Ultimate Instagram Reel Playbook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-finewoven-products-introduces-beats-case-lineup-the-latest-news-from-tech-giant/"><u>Apple Discontinues FineWoven Products, Introduces Beats Case Lineup: The Latest News From Tech Giant</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-digital-footprints-uncovering-device-ids-in-windows/"><u>Decoding the Digital Footprints: Uncovering Device ID's in Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/end-live-recording-mode-immediately-in-qt-app-for-2024/"><u>End Live Recording Mode Immediately in QT App for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-capturing-youtube-icons-browser-extension-command-line-and-software-trio/"><u>In 2024, Capturing Youtube Icons Browser Extension, Command Line & Software Trio</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lost-your-login-details-heres-how-to-retrieve-saved-passwords-from-your-mac-device/"><u>Lost Your Login Details? Here's How to Retrieve Saved Passwords From Your Mac Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-portable-charging-woes-with-a-budget-friendly-20-anker-power-bank-what-you-need-to-know-the-tech-review/"><u>Solving Portable Charging Woes with a Budget-Friendly $20 Anker Power Bank: What You Need to Know | The Tech Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-ways-apples-ai-must-evolve-to-challenge-openai-and-google-insights-from-zdnet/"><u>Top 10 Ways Apple's AI Must Evolve to Challenge OpenAI & Google: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-overview-of-the-new-microsoft-surface-pro-8-for-enterprise-use-workplace-tech-review/"><u>ZDNet's Expert Overview of the New Microsoft Surface Pro 8 for Enterprise Use | Workplace Tech Review</u></a></li>
 </ul></div>
 

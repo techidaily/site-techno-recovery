@@ -1,7 +1,7 @@
 ---
 title: How a Small Act of Kindness by Amazon Surprised and Delighted Customers on ZDNet
-date: 2024-09-17 11:21:23
-updated: 2024-09-20 11:54:36
+date: 2024-11-04T17:58:38.788Z
+updated: 2024-11-05T20:42:56.157Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,15 +76,36 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-navigating-video-posts-on-tiktok-from-a-computer/"><u>[New] 2024 Approved Navigating Video Posts on TikTok From a Computer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-first-steps-on-social-landscape-creating-a-facebook-account/"><u>[Updated] 2024 Approved First Steps on Social Landscape Creating a Facebook Account</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-amplify-your-vlog-presence-with-tubebuddys-tools-for-2024/"><u>[Updated] Amplify Your Vlog Presence with TubeBuddy's Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-blend-unique-web-humor-freshly-made/"><u>2024 Approved Blend Unique Web Humor Freshly Made</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-fomo-dissolved-with-xr-glasses-save-140-during-amazon-prime-day-tech-insights-from-zdnet/"><u>Apple Vision Pro FOMO Dissolved with XR Glasses: Save $140 During Amazon Prime Day – Tech Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-foray-into-augmented-and-virtual-reality-transforming-our-perception-of-truth-insights-from-zdnet/"><u>Apple's Foray Into Augmented and Virtual Reality: Transforming Our Perception of Truth | Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beta-sneak-peek-unitys-launch-of-apple-vision-pro-support-opens-new-doors-for-arvr-gaming-zdnet/"><u>Beta Sneak Peek: Unity's Launch of Apple Vision Pro Support Opens New Doors for AR/VR Gaming - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-visuals-the-latest-advances-in-ar-glasses-aesthetics-zdnet/"><u>Enhance Your Visuals: The Latest Advances in AR Glasses Aesthetics | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-the-next-level-of-virtual-reality-with-apples-3d-videos-streamable-to-your-oculus-meta-quest-tutorial-inside/"><u>Experience the Next Level of Virtual Reality with Apple's 3D Videos Streamable to Your Oculus Meta Quest - Tutorial Inside!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-xs-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone XS Max Properly | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-insignia-ns-4-43-df-710-na-19-smart-affordable-and-ultra-hd-fire-tv-with-alexa/"><u>The Ultimate Guide to the Insignia NS-4 43 DF 710 NA 19: Smart, Affordable & Ultra HD Fire TV with Alexa</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-interaction-with-xr-digital-twins-and-spatial-tech-in-business-insights-from-zdnet/"><u>Transforming Interaction with XR, Digital Twins & Spatial Tech in Business | Insights From ZDNet</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated 2024 Approved How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
+</ul></div>
+

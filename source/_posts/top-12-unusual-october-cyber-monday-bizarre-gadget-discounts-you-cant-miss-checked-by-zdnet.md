@@ -1,7 +1,7 @@
 ---
 title: Top 12 Unusual October Cyber Monday Bizarre Gadget Discounts You Can't Miss – Checked by ZDNet
-date: 2024-09-17 19:29:41
-updated: 2024-09-20 12:37:40
+date: 2024-11-01T18:35:45.480Z
+updated: 2024-11-05T18:01:47.655Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,6 +79,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-building-effective-product-sponsor-relationships/"><u>[New] Building Effective Product-Sponsor Relationships</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-social-media-synopsis-top-trending-twitvideos/"><u>[New] In 2024, Social Media Synopsis Top Trending TwitVideos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-premium-image-quality-through-youtubes-av1-settings/"><u>[New] Unlock Premium Image Quality Through YouTube's AV1 Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722877548671-all-you-need-to-know-about-the-upcoming-samsung-galaxy-z-flip-6-cost-and-exclusive-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy Z Flip 6: Cost and Exclusive Specs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-features-of-the-newly-released-cycwagen-cargo-e-bike/"><u>Exploring the Features of the Newly Released CycWagen Cargo E-Bike</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211465690--hedge-witch-the-art-of-hedge-riding/"><u>Hedge Witch & the Art of Hedge Riding | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-much-green-do-electric-vehicles-truly-embody-an-in-depth-analysis/"><u>How Much Green Do Electric Vehicles Truly Embody? An In-Depth Analysis</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-stop-microsoft-news-updates-on-windows-11-complete-tutorial/"><u>How to Stop Microsoft News Updates on Windows 11: Complete Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-1441-release-ensures-safe-upgrade-path-for-apple-users-tech-insights-by-zdnet/"><u>MacOS 14.4.1 Release Ensures Safe Upgrade Path for Apple Users | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-connectivity-understanding-metro-by-t-mobiles-unlimited-roaming-benefits/"><u>Maximizing Your Connectivity: Understanding Metro by T-Mobile's Unlimited Roaming Benefits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-launch-problems-in-team-fortress-2-for-seamless-gaming-experience/"><u>Resolving Launch Problems in Team Fortress 2 for Seamless Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-sound-on-xbox-for-immersive-play/"><u>Streamlining Sound on Xbox for Immersive Play</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unexpected-savings-alert-snag-an-apple-macbook-air-with-m2-chip-for-just-over-850-on-amazon-ahead-of-octobers-prime-shopping-extravaganza-insider-tips/"><u>Unexpected Savings Alert! Snag an Apple MacBook Air with M2 Chip for Just Over $850 on Amazon - Ahead of October's Prime Shopping Extravaganza Insider Tips</u></a></li>
+</ul></div>
+

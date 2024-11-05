@@ -1,7 +1,7 @@
 ---
 title: Alibaba Plans Separate IPO for Cloud Division While Preparing Second and Third Units for Public Offerings - ZDNet
-date: 2024-09-19 22:30:55
-updated: 2024-09-20 12:38:41
+date: 2024-11-01T16:52:28.079Z
+updated: 2024-11-05T17:13:33.473Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,6 +58,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -69,7 +83,21 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-hands-on-approach-to-ios-audio-capture/"><u>[New] 2024 Approved Hands-On Approach to iOS Audio Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-obs-mastery-streaming-success-on-fb/"><u>[New] In 2024, OBS Mastery Streaming Success on FB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-mastery-generating-original-dandd-heroes-with-chatgpt-and-dall-e-techniques/"><u>AI Mastery: Generating Original D&D Heroes with ChatGPT & DALL-E Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-new-samsung-galaxy-z-flip-costs-and-cutting-edge-features/"><u>All You Need to Know About the New Samsung Galaxy Z Flip: Costs & Cutting-Edge Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-guide-to-download-windows-movie-maker-60/"><u>Full Guide to Download Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-and-repair-missing-ftd2xxdll-errors-on-your-computer/"><u>How To Recover And Repair Missing ftd2XX.dll Errors On Your Computer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-master-your-youtube-experience-with-premium-subscription/"><u>In 2024, Master Your YouTube Experience with Premium Subscription</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-mastery-the-ultimate-techniques-to-restart-your-macbook-pro/"><u>Mac Mastery: The Ultimate Techniques to Restart Your MacBook Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/practicality-meets-elegance-with-the-new-asus-s15-oled/"><u>Practicality Meets Elegance with the New Asus S15 OLED</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-silent-speaker-issue-in-win11-environments/"><u>Resolving Silent Speaker Issue in Win11 Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-watching-superman-movie-series-correctly/"><u>Step-by-Step Instructions on Watching Superman Movie Series Correctly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-evolution-of-electric-cars-a-brief-historical-overview/"><u>The Evolution of Electric Cars: A Brief Historical Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722851013391-the-ultimate-solution-for-when-windows-says-mfc71dll-is-absent/"><u>The Ultimate Solution for When Windows Says mfc71.dll Is Absent</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-factors-you-need-to-evaluate-when-shopping-for-quality-stereo-speakers/"><u>Top 5 Essential Factors You Need to Evaluate When Shopping for Quality Stereo Speakers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/travelers-guide-120plus-vietnamese-words-and-phrases-you-must-know/"><u>Traveler's Guide: 120+ Vietnamese Words And Phrases You Must Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-error-messages-on-your-wireless-adapter-or-ap/"><u>Ultimate Guide: Resolving Error Messages on Your Wireless Adapter or AP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solution-resolve-windows-chrome-screen-trembling-a-complete-walkthrough/"><u>Ultimate Solution: Resolve Window's Chrome Screen Trembling - A Complete Walkthrough</u></a></li>
+</ul></div>
+

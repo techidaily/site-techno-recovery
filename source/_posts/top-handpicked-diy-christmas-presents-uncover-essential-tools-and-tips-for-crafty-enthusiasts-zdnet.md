@@ -1,7 +1,7 @@
 ---
 title: "Top Handpicked DIY Christmas Presents: Uncover Essential Tools and Tips for Crafty Enthusiasts | ZDNet"
-date: 2024-09-19 12:36:49
-updated: 2024-09-20 12:53:12
+date: 2024-10-30T17:35:25.534Z
+updated: 2024-11-05T20:42:03.041Z
 tags:
   - e-commerce
 categories:
@@ -43,13 +43,34 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-creative-video-editing-for-fb-techniques-of-lc-and-bb-overlay/"><u>[New] 2024 Approved Creative Video Editing for FB Techniques of LC and BB Overlay</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-cutting-edge-tools-for-youtube-screen-capturing/"><u>[New] In 2024, Cutting-Edge Tools for YouTube Screen Capturing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-intuitive-steps-setting-up-snapchat-macos-style/"><u>[New] Intuitive Steps Setting up Snapchat macOS-Style</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/dxabbyy/"><u>企業に最適なDX加速ツール：ABBYYで導くデジタルインテリジェンス力向上法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-more-to-the-table-reimagining-windows-11s-widget-framework/"><u>Bringing More to the Table: Reimagining Windows 11'S Widget Framework</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-resolution-for-streamers-dealing-with-netflixs-nw-1-19-glitch-effectively/"><u>Error Resolution for Streamers: Dealing with Netflix's NW-1-19 Glitch Effectively</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/indispensable-factors-in-pre-owned-electronic-shopping/"><u>Indispensable Factors in Pre-Owned Electronic Shopping</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-virality-8-proven-tips-for-youtube-success/"><u>Master the Art of Virality: 8 Proven Tips for YouTube Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/merge-skype-and-zoom-easy-techniques-for-effective-communication-for-2024/"><u>Merge Skype and Zoom Easy Techniques for Effective Communication for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-hulu-rununk13-error-a-step-by-step-guide/"><u>Resolving the Hulu RUNUNK13 Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-fixing-error-code-0x0000003d/"><u>Step-by-Step Tutorial on Fixing Error Code 0X0000003D</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-order-of-dragon-ball-episodes-for-true-fans/"><u>The Ultimate Order of Dragon Ball Episodes for True Fans</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-android-users-who-cant-get-texts-delivered/"><u>Troubleshooting Steps for Android Users Who Can’t Get Texts Delivered</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-how-to-resolve-the-binkw32dll-file-not-found-dilemma/"><u>Troubleshooting Techniques: How To Resolve The Binkw32.DLL File Not Found Dilemma</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-art-of-masterful-job-interview-execution/"><u>Unveiling the Art of Masterful Job Interview Execution</u></a></li>
+</ul></div>
+

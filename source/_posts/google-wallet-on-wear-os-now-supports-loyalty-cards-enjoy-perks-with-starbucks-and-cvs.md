@@ -1,7 +1,7 @@
 ---
 title: "Google Wallet on Wear OS Now Supports Loyalty Cards: Enjoy Perks with Starbucks & CVS"
-date: 2024-09-17 13:33:32
-updated: 2024-09-20 11:26:22
+date: 2024-11-04T16:08:46.847Z
+updated: 2024-11-05T21:10:23.583Z
 tags:
   - e-commerce
 categories:
@@ -65,15 +65,49 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-deciphering-the-platforms-a-side-by-side-analysis-of-triller-and-tiktok-max-156-chars/"><u>[New] In 2024, Deciphering the Platforms A Side-by-Side Analysis of Triller and TikTok (Max 156 Chars)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>[New] In 2024, Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-secrets-to-dynamic-and-effective-igtv-covers/"><u>[New] Secrets to Dynamic & Effective IGTV Covers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-full-review-of-picsart-app-a-step-by-step-guide/"><u>[Updated] In 2024, Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mirror-of-society-top-100-inspiring-instagramcaptions/"><u>[Updated] Mirror of Society Top 100 Inspiring #InstagramCaptions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoiding-disruptions-in-your-quest-fixes-for-stability-issues-with-a-total-war-saga-troy-on-personal-computers/"><u>Avoiding Disruptions in Your Quest: Fixes for Stability Issues with A Total War Saga: Troy on Personal Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/battle-of-the-titans-diving-into-ios-and-android-marketplaces/"><u>Battle of the Titans: Diving Into IOS and Android Marketplaces</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-with-these-30-handy-gmail-keyboard-shortcuts/"><u>Boost Your Productivity with These 30 Handy Gmail Keyboard Shortcuts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-the-mystery-behind-nothing-here-a-guide-to-fixing-404-pages/"><u>Demystifying the Mystery Behind 'Nothing Here!' - A Guide to Fixing 404 Pages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/entertain-with-ease-organizing-a-memorable-karaoke-gathering-at-home/"><u>Entertain with Ease: Organizing a Memorable Karaoke Gathering at Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-from-jvmdll-missing-mistake-and-restore-your-systems-stability/"><u>How to Recover From jvm.dll Missing Mistake and Restore Your System's Stability</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-use-a-selfie-light/"><u>How to Use a Selfie Light</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-drones-for-gopro/"><u>In 2024, Best Drones for GoPro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-your-verification-process-on-yt/"><u>In 2024, Streamlining Your Verification Process on YT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-use-airpods-as-headphones-for-the-nintendo-switch/"><u>Is It Possible to Use AirPods as Headphones for the Nintendo Switch?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211394112-9781507300527-spirits-speak-of-conspiracies-mysteries/"><u>Spirits Speak of Conspiracies & Mysteries | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-technique-for-combining-vertical-data-segments-in-microsoft-excel/"><u>The Ultimate Technique for Combining Vertical Data Segments in Microsoft Excel</u></a></li>
+</ul></div>
+

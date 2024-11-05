@@ -1,7 +1,7 @@
 ---
 title: How Much Green Do Electric Vehicles Truly Embody? An In-Depth Analysis
-date: 2024-10-30T05:02:47.552Z
-updated: 2024-10-30T16:08:18.508Z
+date: 2024-11-04T22:00:06.096Z
+updated: 2024-11-05T16:06:53.378Z
 categories:
   - BestProducts
 description: This Article Describes How Much Green Do Electric Vehicles Truly Embody? An In-Depth Analysis
@@ -24,10 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
  The Code 28 error could apply to any hardware device in Device Manager, but most seem to affect USB devices and sound cards.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix a Code 28 Error
@@ -39,10 +39,10 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
  There's always the slim chance that the Code 28 error you're seeing in Device Manager was caused by a fluke with Device Manager or in your[BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820) . If that's the case, a reboot might fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Did you install a device or make a change in Device Manager just before you noticed the error? If so, it's very possible that the change you made caused the problem.  
@@ -52,10 +52,10 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
@@ -65,13 +65,6 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
 5. Replace the hardware. As a last resort, you may need to replace the hardware that has the error.  
  It's also possible that the device is not compatible with this version of Windows. You can check the[Windows HCL](https://www.lifewire.com/what-is-the-windows-hardware-compatibility-list-2625914) to be sure.  
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Causes of a Code 28 Error
 
@@ -86,6 +79,13 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
  Details on Device Manager error codes like Code 28 are available in the_Device Status_ area in the device's properties and will almost always look like this:
 
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.
 
@@ -127,22 +127,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-building-panoramic-pictures-through-image-fusion/"><u>[New] Building Panoramic Pictures Through Image Fusion</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-adding-a-digital-clock-to-your-youtube-video-playback/"><u>[Updated] In 2024, Adding a Digital Clock to Your YouTube Video Playback</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-who-reigns-supreme-obs-vs-twitch-live/"><u>[Updated] In 2024, Who Reigns Supreme? OBS vs Twitch Live</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/10month-amazon-unlimited-grocery-shipping-trial-a-comprehensive-review/"><u>$10/Month Amazon Unlimited Grocery Shipping Trial – A Comprehensive Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-captivate-viewers-with-stunning-story-bokeh/"><u>2024 Approved How to Captivate Viewers with Stunning Story Bokeh</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-7-thrilling-new-capabilities-of-googles-bard-ai-revealed-at-io-2023/"><u>Discover the 7 Thrilling New Capabilities of Google's BARD AI Revealed at IO 2023</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-choices-17-tools-to-remove-picture-margins-for-2024/"><u>Expert Choices 17 Tools to Remove Picture Margins for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/google-wallet-expands-on-wear-os-now-features-loyalty-program-integration-with-partners-like-starbucks-and-cvs/"><u>Google Wallet Expands on Wear OS: Now Features Loyalty Program Integration with Partners Like Starbucks and CVS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-instantaneous-window-imaging-technique/"><u>In 2024, Instantaneous Window Imaging Technique</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972852819-install-or-update-creative-cam-drivers-made-simple-choose-the-best-version-for-windows-users/"><u>Install or Update Creative Cam Drivers Made Simple - Choose the Best Version for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/new-design-flaws-in-amazons-latest-product-review-layout-insights-from-zdnet/"><u>New Design Flaws in Amazon's Latest Product Review Layout - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/paytm-downfall-seen-through-the-lens-of-warren-buffetts-unique-indian-investment-insights-from-zdnet/"><u>Paytm Downfall Seen Through the Lens of Warren Buffett's Unique Indian Investment - Insights From ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/super-bowl-spots-soar-microsofts-copilot-and-temu-capture-attention-boosting-downloads-zdnet-insights/"><u>Super Bowl Spots Soar: Microsoft's Copilot & Temu Capture Attention, Boosting Downloads | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-rise-of-robotics-in-occupations-abandoned-by-humans-planning-ahead-for-recession-risks/"><u>The Rise of Robotics in Occupations Abandoned by Humans: Planning Ahead for Recession Risks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-no-cost-web-creation-tools-zdnet-review/"><u>Top No-Cost Web Creation Tools - ZDNet Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-samsung-offers-in-october-exclusive-prime-day-discounts-you-cant-miss-according-to-zdnet/"><u>Top Samsung Offers in October: Exclusive Prime Day Discounts You Can't Miss - According to ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/valuepixelplaystation27m2v-mini-led/"><u>ValuePixelPlayStation27M2V Mini-LED</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-revealing-hidden-group-sharing-in-chat-space/"><u>[New] 2024 Approved Revealing Hidden Group Sharing in Chat Space</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-re-establish-audible-vids-on-social-sound/"><u>[New] Re-Establish Audible Vids on Social Sound</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming/"><u>[Updated] 2024 Approved The Pro's Playbook Mastering the Art of Capturing PS4 Gaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-igtv-creation-and-monetization-the-ultimate-cheat-sheet/"><u>[Updated] Mastering IGTV Creation & Monetization The Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-inject-photos-with-focal-spread-outer-radius-adobe-psx/"><u>2024 Approved Inject Photos with Focal Spread Outer Radius Adobe PSX</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-infinix-hot-30i-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Infinix Hot 30i is off? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fast-charging-revolution-esr-unveils-cryoboost-technology-in-latest-magsafe-qi2-charger-for-iphone-16-cooler-quicker-and-smarter-charging-experience/"><u>Fast-Charging Revolution: ESR Unveils CryoBoost Technology in Latest MagSafe Qi2 Charger for iPhone 16 - Cooler, Quicker & Smarter Charging Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-change-chromecast-background-images/"><u>How to Change Chromecast Background Images</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898376611-navigating-to-your-personalized-apple-support-session-booking-tips-inside/"><u>Navigating to Your Personalized Apple Support Session - Booking Tips Inside!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Waterproof Smartwatches - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

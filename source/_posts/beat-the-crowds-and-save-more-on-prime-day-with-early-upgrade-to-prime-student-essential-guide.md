@@ -1,7 +1,7 @@
 ---
 title: Beat the Crowds and Save More on Prime Day with Early Upgrade to Prime Student - Essential Guide
-date: 2024-09-17 17:25:41
-updated: 2024-09-20 12:38:43
+date: 2024-11-03T21:16:14.316Z
+updated: 2024-11-05T18:00:01.372Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,19 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,6 +56,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +70,19 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -70,6 +103,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +144,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-effortless-viewing-tackling-instagram-video-issues/"><u>[Updated] 2024 Approved Effortless Viewing Tackling Instagram Video Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-scaling-your-youtube-videos/"><u>[Updated] Tips for Scaling Your YouTube Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpod-not-charging-9-effective-strategies-you-need-to-try-now/"><u>AirPod Not Charging? 9 Effective Strategies You Need To Try Now!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/amorous-dialogues-the-eloquent-italian-approach/"><u>Amorous Dialogues: The Eloquent Italian Approach</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-top-notch-pc-components-on-toms-hardware-blog/"><u>Discover Top-Notch PC Components on Tom's Hardware Blog</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-win10-tactile-features-upgrade/"><u>Effortless Win10 Tactile Features Upgrade</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722863403254-get-ready-for-android-16-insiders-guide-to-pricing-availability-and-features-free-trial/"><u>Get Ready for Android 16: Insider's Guide to Pricing, Availability & Features - Free Trial</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-pro-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 Pro by restoring it to factory settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-powerpoint-updates-a-comprehensive-tutorial/"><u>Mastering PowerPoint Updates: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/no-more-fuzzy-footage-expert-advice/"><u>No More Fuzzy Footage: Expert Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/order-of-the-how-to-train-your-dragon-films-a-comprehensive-guide/"><u>Order of the How to Train Your Dragon Films - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/panorama-pixels-cutting-edge-photo-assembler-for-2024/"><u>Panorama Pixels Cutting-Edge Photo Assembler for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snap-into-action-on-pc-how-to-navigate-snapchat-without-a-phone/"><u>Snap Into Action on PC: How to Navigate Snapchat Without a Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fix-a-non-operational-optical-disk-reader/"><u>Step-by-Step Guide to Fix a Non-Operational Optical Disk Reader</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-no-display-issues-in-booted-computers/"><u>Troubleshooting Steps: Resolving No Display Issues in Booted Computers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uncover-hidden-gems-on-a-shoestring-a-detailed-look-at-the-incredible-library-offered-by-roku/"><u>Uncover Hidden Gems on a Shoestring: A Detailed Look at the Incredible Library Offered by Roku</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-free-netflix-views-expert-tips-for-budget-friendly-entertainment/"><u>Unlocking Free Netflix Views: Expert Tips for Budget-Friendly Entertainment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-power-of-fm-radio-on-iphones-and-android-devices-top-tips-inside/"><u>Unlocking the Power of FM Radio on iPhones & Android Devices - Top Tips Inside!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-transform-pictures-into-cartoons-online/"><u>Updated 2024 Approved Transform Pictures Into Cartoons Online</u></a></li>
+</ul></div>
+

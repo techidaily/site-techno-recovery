@@ -1,7 +1,7 @@
 ---
 title: Tidy Up Your Inbox Effortlessly with This Single Trick - Say Goodbye to Mess and Multiple Accounts! | ZDNet
-date: 2024-10-24T04:25:46.544Z
-updated: 2024-10-30T18:27:21.973Z
+date: 2024-11-02T16:39:13.646Z
+updated: 2024-11-05T17:48:58.975Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,22 +154,17 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-smart-techniques-for-large-video-movement-between-iphones-and-macs/"><u>[New] In 2024, Smart Techniques for Large Video Movement Between iPhones & Macs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-double-delight-maximizing-the-use-of-netflixs-floating-window/"><u>[Updated] 2024 Approved Double Delight Maximizing the Use of Netflix's Floating Window</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-video-call-options-safe-small-enterprises-guide-for-2024/"><u>[Updated] Leading Video Call Options Safe Small Enterprises Guide for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/350-motorola-handset-now-with-integrated-stylus-and-enhanced-memory-sold-at-discount-techspot/"><u>$350 Motorola Handset Now with Integrated Stylus & Enhanced Memory - Sold at Discount! | TechSpot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-full-year-ahead-the-enduring-supremacy-of-the-pixel-6-pro-in-googles-smartphone-lineup-tech-review-insights/"><u>A Full Year Ahead: The Enduring Supremacy of the Pixel 6 Pro in Google's Smartphone Lineup | Tech Review Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/crafting-personalized-ai-helpers-with-gemini-a-step-by-step-guide-on-harnessing-gemstones-for-intelligent-automation/"><u>Crafting Personalized AI Helpers with Gemini: A Step-by-Step Guide on Harnessing Gemstones for Intelligent Automation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-gen-portability-and-potent-performance-how-lenovos-thoughtpad-p1-gen-achieves-the-impossible-with-cutting-edge-lpcamm2-memory/"><u>Experience Next-Gen Portability & Potent Performance - How Lenovo's ThoughtPad P1 Gen ^ Achieves the Impossible With Cutting-Edge LPCAMM2 Memory</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-endless-viewing-with-iphone-writes-of-video/"><u>In 2024, Endless Viewing with iPhone' Writes of Video</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-transition-easily-alternate-between-dark-and-light-modes-on-chromebooks-tips-from-zdnet/"><u>Mastering the Transition: Easily Alternate Between Dark & Light Modes on Chromebooks - Tips From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/motorolas-budget-smartphone-surprises-with-in-built-pen-and-extra-storage-space-on-sale-today-android-authority/"><u>Motorola's Budget Smartphone Surprises with In-Built Pen and Extra Storage Space on Sale Today | Android Authority</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1567730-9781408832172-spiritual-intelligence/"><u>Spiritual Intelligence | Free Book</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-retrieving-deleted-files-from-an-external-hard-drive-using-windows/"><u>Step-by-Step Guide: Retrieving Deleted Files From an External Hard Drive Using Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-android-communitys-latest-treasure-discover-the-must-have-airtags-feature-on-zdnet/"><u>The Android Community's Latest Treasure: Discover the Must-Have AirTags Feature on ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solving-bloodhunts-crashes-and-skips-on-windows/"><u>Troubleshooting Guide: Solving Bloodhunt's Crashes and Skips on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uniting-time-management-and-teamwork-how-to-connect-google-calendar-with-slack-on-zdnet/"><u>Uniting Time Management & Teamwork: How To Connect Google Calendar With Slack on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-hidden-bargain-grab-a-new-pixel-9-at-just-100-discover-the-strategy-now-with-zdnet/"><u>Unlock the Hidden Bargain: Grab a New Pixel 9 at Just $100! Discover the Strategy Now with ZDNet.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-gpt-5-insights-into-when-it-might-go-live/"><u>Unraveling the Mystery of GPT-5: Insights Into When It Might Go Live</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-guide-to-designing-spectacular-photo-tileworks/"><u>[New] In 2024, A Guide to Designing Spectacular Photo Tileworks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-recover-missing-audio-from-tweeted-videos/"><u>[New] In 2024, Recover Missing Audio From Tweeted Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-chapter-how-to-add-chapters-to-vimeo-video/"><u>[New] In 2024, Vimeo Chapter How to Add Chapters to Vimeo Video?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95683792-9781440518522-a-witchs-grimoire/"><u>A Witch's Grimoire | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airtag-perks-2024-edition-professional-evaluation-and-top-choices-curated-for-smart-tracking-needs-zdnet/"><u>AirTag Perks 2024 Edition: Professional Evaluation & Top Choices Curated for Smart Tracking Needs | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-bricking-your-ipad-essential-tips-for-navigating-the-ios-n-installation-risks-gadgetflow/"><u>Avoiding Bricking Your iPad - Essential Tips for Navigating the iOS N Installation Risks | GadgetFlow</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-realtek-high-definition-speaker-cable-connectivity-flaw-successfully/"><u>Expert Fixes Realtek High-Definition Speaker Cable Connectivity Flaw Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-boot-windows-11-onto-a-brand-new-ssd-or-hdd/"><u>How to Successfully Boot Windows 11 Onto a Brand New SSD or HDD</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-prime-selection-of-affordable-online-video-recorders/"><u>In 2024, The Prime Selection of Affordable Online Video Recorders</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-solutions-stabilizing-marvels-guardians-of-the-galaxy-game-on-your-pc/"><u>Top 8 Solutions: Stabilizing Marvel's Guardians of the Galaxy Game on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-vpn-apps-reviewed-by-experts-find-your-perfect-match/"><u>Top-Rated iPhone VPN Apps Reviewed by Experts - Find Your Perfect Match</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-new-iphone-16-pro-is-my-top-choice-over-the-iphone-16-max-insights-from-apples-latest-reveal/"><u>Why the New iPhone 16 Pro Is My Top Choice Over the iPhone 16 Max - Insights From Apple's Latest Reveal</u></a></li>
 </ul></div>
 

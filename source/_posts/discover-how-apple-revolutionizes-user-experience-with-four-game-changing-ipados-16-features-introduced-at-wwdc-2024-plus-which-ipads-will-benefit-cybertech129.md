@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple Revolutionizes User Experience with Four Game-Changing iPadOS 16 Features Introduced at WWDC 2024, Plus Which iPads Will Benefit | CyberTech Daily
-date: 2024-10-25T22:58:46.029Z
-updated: 2024-10-31T00:59:00.422Z
+date: 2024-10-29T18:15:02.874Z
+updated: 2024-11-05T20:19:40.599Z
 tags:
   - apple
 categories:
@@ -40,6 +40,13 @@ Jason Hiner/ZDNET
 
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Photo features
 
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
@@ -73,10 +80,10 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Siri improvements
@@ -93,46 +100,33 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What will come later
 
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -172,20 +166,24 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-safely-capture-your-favorite-youtube-audio-for-free-for-2024/"><u>[New] How to Safely Capture Your Favorite YouTube Audio for Free for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-conquering-first-day-fears-strategies-for-mastering-new-workplace-jitters/"><u>1. Conquering First-Day Fears: Strategies for Mastering New Workplace Jitters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-income-sky-high-top-10-highest-earning-technical-expertise-revealed-zdnet/"><u>Boost Your Income Sky-High: Top 10 Highest Earning Technical Expertise Revealed | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/breaking-through-loneliness-a-comprehensive-review-of-the-connected-leader-strategies-for-a-thriving-hybrid-office/"><u>Breaking Through Loneliness: A Comprehensive Review of 'The Connected Leader' - Strategies for a Thriving Hybrid Office</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-phantom-v-fold-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Phantom V Fold</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-your-workflow-with-audio-content-consumption/"><u>Elevating Your Workflow with Audio Content Consumption</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-selfies-the-top-8-for-iphone/"><u>In 2024, Excellence in Selfies The Top #8 for IPhone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-unlocking-creative-potential-integrating-custom-graphic-elements-into-your-story/"><u>In 2024, Unlocking Creative Potential Integrating Custom Graphic Elements Into Your Story</u></a></li>
-<li><a href="https://review-topics.techidaily.com/itel-data-recovery-recover-lost-data-from-itel-s23-by-fonelab-android-recover-data/"><u>Itel Data Recovery – recover lost data from Itel S23</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-your-response-tips-for-excelling-at-the-end-of-interview-qanda-session-job-hunters/"><u>Mastering Your Response: Tips for Excelling at the End-of-Interview Q&A Session | Job Hunters</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-and-fantastic-top-video-editing-software-for-gamers/"><u>New In 2024, Free and Fantastic Top Video Editing Software for Gamers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tackling-transition-trepidation-expert-advice-on-thriving-in-a-new-role/"><u>Tackling Transition Trepidation: Expert Advice on Thriving in a New Role</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/telling-stories-vertically-video-editing-for-instagram-with-fcpx-for-2024/"><u>Telling Stories Vertically Video Editing for Instagram with FCPX for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-windows-media-seamless-cd-extraction/"><u>Unveiling Windows Media Seamless CD Extraction</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-detailed-analysis-of-duolingo-complimentary-and-engaging-method-for-mastering-new-languages/"><u>ZDNet's Detailed Analysis of Duolingo: Complimentary and Engaging Method for Mastering New Languages</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-exhilarating-freeness-of-screen-pairing-games/"><u>[New] In 2024, Exhilarating Freeness of Screen Pairing Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-animated-text-tips-free-inclusion-techniques/"><u>[Updated] Animated Text Tips Free Inclusion Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-comprehensible-guide-to-swapping-facial-gender-in-snapchat-images/"><u>[Updated] In 2024, Comprehensible Guide to Swapping Facial Gender in Snapchat Images</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-finding-heartfelt-connections-in-discord-chats/"><u>[Updated] In 2024, Finding Heartfelt Connections in Discord Chats</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-glimpsing-beyond-virtual-reality-the-pros-and-cons-spectrum/"><u>[Updated] In 2024, Glimpsing Beyond Virtual Reality The Pros & Cons Spectrum</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/behold-the-future-of-artistic-ingenuity-how-apples-latest-on-device-ai-surpasses-dall-e-with-magic-touch/"><u>Behold the Future of Artistic Ingenuity: How Apple's Latest On-Device AI Surpasses DALL-E with Magic Touch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-creative-flow-large-scale-designs-unleashed-by-canva-plus-gpt/"><u>Elevate Your Creative Flow: Large-Scale Designs Unleashed by Canva + GPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-future-with-ios-18-key-highlights-from-apples-wwdc-2024-presentation-and-the-rise-of-artificial-intelligence-gizmoworld/"><u>Exploring the Future with iOS 18 - Key Highlights From Apple's WWDC 2024 Presentation and the Rise of Artificial Intelligence | GizmoWorld</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-your-house-with-apples-upcoming-domestic-robot-tech-insights-on-zdnet/"><u>Future-Proofing Your House with Apple's Upcoming Domestic Robot | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-14-analysis-meeting-user-demands-punctually-reviewed-by-zdnet/"><u>IPhone 14 Analysis - Meeting User Demands Punctually Reviewed by ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/making-basic-render-better-for-ms-win-versions/"><u>Making Basic Render Better for MS Win Versions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-usage-the-impact-of-apples-iphone-nfc-expansion-on-third-party-developers-and-end-users-alike-insights-from-zdnet/"><u>Revolutionizing Usage: The Impact of Apple's iPhone NFC Expansion on Third-Party Developers and End Users Alike | Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-this-4th-of-july-grab-discounted-apple-airpods-at-40-off-before-holiday-rush-insights/"><u>Save Big This 4Th of July! Grab Discounted Apple AirPods at $40 Off Before Holiday Rush | Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-most-advanced-video-grabbers-for-windows-enthusiasts-for-2024/"><u>The Most Advanced Video Grabbers for Windows Enthusiasts for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-desired-additions-for-visionos-anticipated-updates-from-apple-in-the-latest-wwdc-highlights-insights/"><u>Top 10 Desired Additions for VisionOS: Anticipated Updates From Apple in the Latest WWDC Highlights Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/turning-off-the-sticky-key-functionality-on-your-pc-easy-instructions-for-windows-users/"><u>Turning Off the Sticky Key Functionality on Your PC: Easy Instructions for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-led-light-signals-why-your-dualshock-4-is-flashing-colors/"><u>Understanding LED Light Signals: Why Your DualShock 4 Is Flashing Colors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-filmora-hacks-streamline-your-reaction-video-creation-process-for-2024/"><u>Updated Filmora Hacks Streamline Your Reaction Video Creation Process for 2024</u></a></li>
 </ul></div>
 

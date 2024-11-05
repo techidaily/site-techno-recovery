@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your AR Experience Economically: Why I Chose These Affordable XR Glasses Over the Pricey Apple and Meta Models Recommends"
-date: 2024-10-30T00:31:34.753Z
-updated: 2024-10-30T20:24:51.924Z
+date: 2024-11-02T18:51:09.633Z
+updated: 2024-11-05T21:46:55.763Z
 tags:
   - apple
 categories:
@@ -55,13 +55,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -78,19 +71,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -104,10 +84,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -122,6 +102,13 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -135,16 +122,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -174,6 +155,13 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -230,24 +218,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-laughlines-drawing-chuckles-online-for-2024/"><u>[New] LaughLines Drawing Chuckles Online for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ptimizing-channels-with-tubebuddy-expertise-for-2024/"><u>[New] Optimizing Channels with TubeBuddy Expertise for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-perfect-playback-overcoming-mutes-on-linkedin-video-posts-for-2024/"><u>[New] Perfect Playback Overcoming Mutes on LinkedIn Video Posts for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-expert-guide-to-enhance-your-iphone-x-animoji-skills-for-2024/"><u>[Updated] Expert Guide to Enhance Your iPhone X Animoji Skills for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fifth-round-of-top-time-lapse-capture-apps/"><u>[Updated] In 2024, Fifth Round of Top Time-Lapse Capture Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-frame-by-frame-reviews-high-quality-recorder-guide/"><u>2024 Approved Frame by Frame Reviews High-Quality Recorder Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-make-a-video-meme-for-facebook-and-instagram/"><u>2024 Approved How to Make a Video Meme for Facebook and Instagram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/5-proven-strategies-for-advancing-your-career-and-achieving-promotions-zdnet-insights/"><u>5 Proven Strategies for Advancing Your Career & Achieving Promotions | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ace-your-phone-screening-expert-advice-on-nailing-the-initial-call-and-securing-that-follow-up-meeting/"><u>Ace Your Phone Screening! Expert Advice on Nailing the Initial Call & Securing That Follow-Up Meeting</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ai-to-the-rescue-how-technology-can-alleviate-alert-fatigue-and-prevent-burnout-in-it-roles-zdnet/"><u>AI to the Rescue! How Technology Can Alleviate Alert Fatigue and Prevent Burnout in IT Roles | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-expands-accessibility-free-ai-education-opportunities-open-up-for-thousands-of-learners-and-graduates/"><u>Apple Expands Accessibility: Free AI Education Opportunities Open Up for Thousands of Learners & Graduates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beyond-traditional-coding-the-transformation-and-evolution-of-software-development-today/"><u>Beyond Traditional Coding: The Transformation and Evolution of Software Development Today</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/modern-obstacles-decoded-mastering-inaccurate-and-ambiguous-outcomes-from-artificial-intelligence-systems-zdnet/"><u>Modern Obstacles Decoded: Mastering Inaccurate & Ambiguous Outcomes From Artificial Intelligence Systems | ZDNet</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/simplified-processes-inshot-for-pc-and-laptop-video-creation-for-2024/"><u>Simplified Processes Inshot for PC and Laptop Video Creation for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/strategies-for-accelerating-your-tech-profession-insights-from-zdnet/"><u>Strategies for Accelerating Your Tech Profession - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/supported-disc-types-understanding-the-range-of-your-dvd-reader/"><u>Supported Disc Types: Understanding the Range of Your DVD Reader</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-hottest-developer-roles-and-upcoming-tech-languages-a-forecast-with-expertise-from-zdnet/"><u>The Hottest Developer Roles & Upcoming Tech Languages: A Forecast with Expertise From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-leadership-potential-the-five-essentials-for-aspiring-managers/"><u>Unlocking Leadership Potential: The Five Essentials for Aspiring Managers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-music-integration-into-vimeo-videos/"><u>[New] In 2024, Mastering Music Integration Into Vimeo Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-nokia-c32-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Nokia C32 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expediting-windows-file-reviews-with-ease-for-2024/"><u>Expediting Windows File Reviews with Ease for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-frontiers-of-text-generation-via-openais-api/"><u>Exploring the Frontiers of Text Generation via OpenAI's API</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-addition-to-iphone-16-phones-the-new-camera-buttons-features-revealed/"><u>Exploring the Latest Addition to iPhone 16 Phones: The New Camera Button's Features Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-repair-d3d9dll-missing-errors-on-your-computer/"><u>How To Address & Repair 'd3d9.dll Missing' Errors on Your Computer</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mememorph-machine/"><u>MemeMorph Machine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/powerpoint-audio-repair-tips-addressing-and-resolving-soundplay-problems-in-your-slideshow/"><u>PowerPoint Audio Repair Tips: Addressing and Resolving Soundplay Problems in Your Slideshow</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-techniques-to-free-up-space-by-uninstalling-apps-on-your-mac/"><u>Simple Techniques to Free Up Space by Uninstalling Apps on Your Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-leading-wireless-chargers-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate List of Leading Wireless Chargers : In-Depth Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-unbeatable-deal-enhance-audio-experience-and-ease-hearing-with-airpods-pro-2-now-just-24-cheaper-shop/"><u>Unlock Unbeatable Deal: Enhance Audio Experience and Ease Hearing with AirPods Pro 2, Now Just 24% Cheaper - Shop !</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-secrets-a-complete-overview-of-snapchat-emoji-symbols/"><u>Unraveling the Secrets: A Complete Overview of Snapchat Emoji Symbols</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-exclusive-enhancements-for-select-apple-airpod-models-arriving-this-autumn-a-close-look-at-the-three-key-updates/"><u>Upcoming Exclusive Enhancements for Select Apple AirPod Models Arriving This Autumn: A Close Look at the Three Key Updates</u></a></li>
 </ul></div>
 

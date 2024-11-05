@@ -1,7 +1,7 @@
 ---
 title: New Changes to Amazon's Product Rating System - Less Transparency? | Insights From ZDNet
-date: 2024-09-18 21:53:26
-updated: 2024-09-20 10:57:47
+date: 2024-10-30T18:18:03.971Z
+updated: 2024-11-05T16:35:37.851Z
 tags:
   - e-commerce
 categories:
@@ -51,6 +51,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -65,9 +72,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-mediocre-to-marvelous-an-exhaustive-facetune-analysis/"><u>[New] From Mediocre to Marvelous An Exhaustive Facetune Analysis</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-design-mastery-in-motion-crafting-intriguing-podcast-covers/"><u>[Updated] 2024 Approved Design Mastery in Motion Crafting Intriguing Podcast Covers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-choose-your-perfect-wedding-tales-youtubes-finest-8/"><u>2024 Approved Choose Your Perfect Wedding Tales - Youtube's Finest 8</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/break-writing-barriers-with-our-5-innovative-text-generators/"><u>Break Writing Barriers with Our 5 Innovative Text Generators</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-and-compatible-mokos-versatile-foldable-bluetooth-portable-keyboard/"><u>Compact & Compatible: MoKo's Versatile Foldable Bluetooth Portable Keyboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cutting-edge-budget-friendly-xr-glasses-beat-apple-vision-pro-limitations-discover-how-on-zdnet/"><u>Cutting-Edge, Budget-Friendly XR Glasses Beat Apple Vision Pro Limitations – Discover How on ZDNet!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/film-enhancements-15-best-luts-to-boost-gopro-cinematography/"><u>Film Enhancements 15 Best LUTs to Boost GoPro Cinematography</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-unearth-facebook-accounts-youve-locked-out/"><u>How to Unearth Facebook Accounts You've Locked Out</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/join-disney-and-marvels-vision-pro-multiverse-adventure-becoming-a-hero-together-with-you/"><u>Join Disney & Marvel's Vision Pro Multiverse Adventure - Becoming a Hero Together with You!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-virtual-handshakes-and-unexpected-transitions-in-vr-conferences-insights-from-a-tech-writer/"><u>Navigating Virtual Handshakes & Unexpected Transitions in VR Conferences - Insights From a Tech Writer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-operational-right-click-on-windows-11-touchpad/"><u>Reinstating Operational Right Click on Windows 11 Touchpad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-now-ai-and-5gs-collaborative-leap-towards-unprecedented-innovation-zdnet-insights/"><u>The Future Is Now: AI and 5G's Collaborative Leap Towards Unprecedented Innovation | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-tech-trends-at-mwc-2023-forrester-analysts-takeaway-the-zdnet-report/"><u>Unveiling Tech Trends at MWC 202^3: Forrester Analyst's Takeaway - The ZDNet Report</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-genius-behind-the-apple-vision-pro-top-10-unspoken-perks-techinsight/"><u>Unveiling the Genius Behind the Apple Vision Pro: Top 10 Unspoken Perks | TechInsight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/virtual-reality-in-business-transforming-sales-with-emotional-engagement/"><u>Virtual Reality in Business: Transforming Sales with Emotional Engagement</u></a></li>
+</ul></div>
+

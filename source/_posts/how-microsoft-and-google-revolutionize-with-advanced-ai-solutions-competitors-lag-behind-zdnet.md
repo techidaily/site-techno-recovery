@@ -1,7 +1,7 @@
 ---
 title: How Microsoft and Google Revolutionize with Advanced AI Solutions – Competitors Lag Behind | ZDNet
-date: 2024-09-19 22:27:23
-updated: 2024-09-20 11:50:27
+date: 2024-10-29T17:14:22.197Z
+updated: 2024-11-05T17:03:16.074Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-acquisition-of-stock-video-backgrounds/"><u>2024 Approved Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/8-whats-new-and-worth-switching/"><u>8 - What's New and Worth Switching?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-iphone-15-variants-which-one-fits-your-needs-regular-vs-plus-pro-and-pro-max-breakdown-zdnet/"><u>Decoding iPhone 15 Variants: Which One Fits Your Needs? Regular Vs. Plus, Pro, and Pro Max Breakdown | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-review-the-most-discreet-yet-functional-smart-lock-app-perfect-for-iphone-owners/"><u>Exclusive Review: The Most Discreet Yet Functional Smart Lock App Perfect for iPhone Owners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-verdict-on-iphone-15-top-tier-choice-for-professionals-and-enthusiasts-alike-insights/"><u>Expert Verdict on iPhone 15: Top-Tier Choice for Professionals and Enthusiasts Alike - Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-flirt-the-language-of-seduction/"><u>French Flirt: The Language of Seduction</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-a-smooth-playthrough-overcoming-frequent-pc-crashes-in-valheim/"><u>Get a Smooth Playthrough: Overcoming Frequent PC Crashes in Valheim</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experts-guide-to-infinite-space-utilization/"><u>In 2024, Expert's Guide to Infinite Space Utilization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-free-top-ranked-image-overlays-for-androidandios/"><u>In 2024, Ultimate FREE Top-Ranked Image Overlays for Android&iOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-logitech-g602-audio-software-for-optimal-pc-performance-on-windows/"><u>Installing Logitech G602 Audio Software for Optimal PC Performance on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/premium-headphone-offers-of-march-2024-reviewed-by-tech-experts-at-zdnet/"><u>Premium Headphone Offers of March 2024 Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722874504525-score-amazing-deals-on-ipads-right-now/"><u>Score Amazing Deals on iPads Right Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-missing-ocidll-file-a-comprehensive-guide/"><u>Solving 'Missing oci.dll' File: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-free-roving-windows-cursors/"><u>Unraveling the Mystery of Free-Roving Windows Cursors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-guide-to-choosing-the-ideal-youtube-downloader-android-for-2024/"><u>Your Guide to Choosing the Ideal YouTube Downloader (Android) for 2024</u></a></li>
+</ul></div>
+

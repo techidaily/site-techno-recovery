@@ -1,7 +1,7 @@
 ---
 title: Global Shift Towards Cashless Transactions Set to Reach $1.6T, Asia at Forefront | ZDNet Insights
-date: 2024-09-18 21:10:52
-updated: 2024-09-20 11:55:56
+date: 2024-10-29T21:16:30.741Z
+updated: 2024-11-05T18:04:47.460Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -70,6 +91,19 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-win-10-free-screencast-recorders-ranked-and-updated-list/"><u>[New] In 2024, Win 10 Free Screencast Recorders Ranked & Updated List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-effortless-viewing-tackling-instagram-video-issues/"><u>[Updated] Effortless Viewing Tackling Instagram Video Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-teslae-automaton-comprehensive-breakdown-of-leaks-prices-and-specs/"><u>Anticipating Tesla'e Automaton: Comprehensive Breakdown of Leaks, Prices, and Specs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beginners-guide-mastering-your-first-steps-with-iphone-shortcuts/"><u>Beginner's Guide: Mastering Your First Steps with iPhone Shortcuts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-to-correct-missing-jvmdll-error-messages-on-your-pc/"><u>Effective Solutions to Correct Missing jvm.dll Error Messages on Your PC</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/free-online-ogg-to-mpg-converter-easy-use-by-movavi/"><u>Free Online Ogg to Mpg Converter - Easy Use by Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-imessage-from-advanced-threats-apples-strategic-update-explained-zdnet/"><u>Future-Proofing iMessage From Advanced Threats: Apple's Strategic Update Explained | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ready-unveiling-date-and-specs-for-googles-upcoming-pixel-tablet-device/"><u>Get Ready! Unveiling Date and Specs for Google's Upcoming Pixel Tablet Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-apples-ai-capabilities-match-up-against-rival-tech-giants-openai-and-google/"><u>How Can Apple's AI Capabilities Match Up Against Rival Tech Giants: OpenAI & Google?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y27-4g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y27 4G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-google-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Google Is Unlocked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-premium-top-8-smoothest-capture-tools/"><u>In 2024, Premium Top 8 Smoothest Capture Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-hard-resetting-across-different-ipad-models-here/"><u>Master the Art of Hard Resetting Across Different iPad Models Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-through-top-6-ideal-helmet-harnesses-for-gopros-for-2024/"><u>Navigating Through Top 6 Ideal Helmet Harnesses for GoPros for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-improvements-android-must-make-to-challenge-apples-ios-dominance-insights-from-zdnet/"><u>Top 5 Essential Improvements Android Must Make to Challenge Apple's iOS Dominance: Insights From ZDNet</u></a></li>
+</ul></div>
+

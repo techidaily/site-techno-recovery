@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: How Warren Buffett Abandons His Sole Indian Bet with Paytm's Downfall"
-date: 2024-09-17 17:24:22
-updated: 2024-09-20 12:25:41
+date: 2024-10-30T19:23:35.024Z
+updated: 2024-11-05T20:03:16.646Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -65,6 +79,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -74,6 +95,19 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/harting-the-course-a-comprehensive-guide-to-youtube-teaser-vids-for-2024/"><u>[New] Charting the Course A Comprehensive Guide to YouTube Teaser Vids for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-profit-from-youtube-shorts-key-requirements-and-possible-returns/"><u>[Updated] In 2024, How to Profit From YouTube Shorts Key Requirements & Possible Returns</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mirrorless-vs-dslr-video-mastery-in-focus/"><u>[Updated] Mirrorless vs DSLR Video Mastery in Focus</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlocking-the-potential-voice-control-with-siri-on-tiktok/"><u>[Updated] Unlocking the Potential Voice Control with Siri on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-ultimate-list-of-17-professional-graphic-design-tools/"><u>Explore the Ultimate List of 17 Professional Graphic Design Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2641135-9780750961158-haunted-tyrone/"><u>Haunted Tyrone | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hulu-basic-vs-hulu-premium-what-sets-them-apart/"><u>Hulu Basic Vs. Hulu Premium: What Sets Them Apart?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-art-of-looking-back-unveiling-reversed-images-on-social-media/"><u>In 2024, The Art of Looking Back Unveiling Reversed Images on Social Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/micro-post-your-next-audio-adventure-for-2024/"><u>Micro-Post Your Next Audio Adventure for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/set-up-facebook-cover-videos-for-2024/"><u>Set up Facebook Cover Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-for-uninstalling-windows-11s-ai-assistant-copilot/"><u>The Ultimate Walkthrough for Uninstalling Windows 11'S AI Assistant, Copilot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-free-computer-aided-design-cad-tools-you-cant-miss/"><u>Top 4 Free Computer-Aided Design (CAD) Tools You Can't Miss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-nspr4dll-errors-and-getting-your-system-back-on-track/"><u>Troubleshooting nspr4.dll Errors and Getting Your System Back on Track</u></a></li>
+</ul></div>
+

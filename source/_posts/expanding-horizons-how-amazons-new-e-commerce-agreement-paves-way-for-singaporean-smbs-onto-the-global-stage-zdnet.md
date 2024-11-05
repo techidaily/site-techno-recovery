@@ -1,7 +1,7 @@
 ---
 title: "Expanding Horizons: How Amazon's New E-Commerce Agreement Paves Way for Singaporean SMBs Onto the Global Stage | ZDNET"
-date: 2024-09-18 13:25:44
-updated: 2024-09-20 12:48:53
+date: 2024-10-29T20:25:41.716Z
+updated: 2024-11-05T16:37:57.788Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,33 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -51,11 +77,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +144,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-record-video-on-google-hangouts/"><u>[Updated] 2024 Approved How to Record Video on Google Hangouts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-pugilism-vs-players-battle-for-supremacy/"><u>[Updated] 2024 Approved Pugilism vs Players Battle for Supremacy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-elite-augmented-reality-glasses-selection-as-highlighted-on-zdnet/"><u>2024'S Elite Augmented Reality Glasses Selection as Highlighted on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-brother-mfc-9130cw-printer-drivers-get-started-today/"><u>Download Brother MFC-9130CW Printer Drivers - Get Started Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-errors-to-dodge-when-using-the-apple-vision-pro-protect-your-investment-with-these-crucial-tips/"><u>Essential Errors to Dodge When Using the Apple Vision Pro: Protect Your Investment with These Crucial Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-latest-innovations-comprehensive-overview-of-new-software-updates-revealed-at-wwdc-detailed-report-by-techradar/"><u>Exploring Apple's Latest Innovations: Comprehensive Overview of New Software Updates Revealed at WWDC – Detailed Report by TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-customer-motivations-behind-the-apple-vision-pro-3500-investment-zdnet-insights/"><u>Exploring Customer Motivations Behind the Apple Vision Pro $3,500 Investment | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-metaverse-its-definition-and-key-architects-a-deep-dive-by-zdnet/"><u>Exploring the Metaverse: Its Definition & Key Architects - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-travel-case-for-apple-vision-pro-surprisingly-snug-at-just-199-zdnet/"><u>Exploring the New Travel Case for Apple Vision Pro - Surprisingly Snug at Just $199 | ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-spark-go-2023-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Spark Go (2023) Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-4k-uxga-gaming-the-asus-mg28uq-explained/"><u>In 2024, 4K UXGA Gaming - The ASUS MG28UQ Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smooth-file-migration-to-computer-5-proven-techniques/"><u>In 2024, Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-city-exploration-with-ar-technology-on-google-maps-a-future-of-enhanced-geospatial-interaction-unveiled-by-zdnet/"><u>Revolutionizing City Exploration with AR Technology on Google Maps - A Future of Enhanced Geospatial Interaction Unveiled by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/stealth-mode-for-your-social-media-pics/"><u>Stealth Mode for Your Social Media Pics</u></a></li>
+<li><a href="https://win-web.techidaily.com/tackle-the-dell-boot-loop-top-3-proven-methods-for-windows-11-troubleshooting/"><u>Tackle the Dell Boot Loop: Top 3 Proven Methods for Windows 11 Troubleshooting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-insider-tips-mastering-the-world-of-computing-hardware/"><u>Tom's Insider Tips: Mastering the World of Computing Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/vision-pro-enhances-user-experience-with-tiktok-integration-a-new-era-of-interactive-browsing/"><u>Vision Pro Enhances User Experience with TikTok Integration: A New Era of Interactive Browsing</u></a></li>
+</ul></div>
+

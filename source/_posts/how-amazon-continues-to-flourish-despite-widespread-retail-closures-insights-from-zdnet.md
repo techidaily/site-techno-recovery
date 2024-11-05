@@ -1,7 +1,7 @@
 ---
 title: How Amazon Continues to Flourish Despite Widespread Retail Closures - Insights From ZDNET
-date: 2024-09-19 14:22:49
-updated: 2024-09-20 11:33:29
+date: 2024-11-04T21:44:19.975Z
+updated: 2024-11-05T19:43:05.777Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +58,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -64,6 +85,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +132,25 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamyrecorder-your-simple-screen-recorder-for-windows-11/"><u>[Updated] In 2024, StreamyRecorder Your Simple Screen Recorder for Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-7-the-timeless-choice-over-the-hyped-up-series-10-tech-insights/"><u>Apple Watch Series ^[7]: The Timeless Choice Over the Hyped-Up Series 10 | Tech Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-error-asking-for-previous-passcode/"><u>Deciphering “Windows Error Asking for Previous Passcode”</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-look-apple-enhances-airpods-lineup-with-top-4-new-upgrades-see-whats-improved/"><u>Exclusive Look: Apple Enhances AirPods Lineup with Top 4 New Upgrades - See What's Improved!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-the-latest-iphone-12-enhances-wireless-power-with-new-qi2-technology-independent-of-magsafe-exclusive-coverage-by-zdnet/"><u>How the Latest iPhone 12 Enhances Wireless Power with New Qi2 Technology, Independent of MagSafe | Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-does-instant-subscription-strategy-improve-user-engagement/"><u>In 2024, Does Instant Subscription Strategy Improve User Engagement?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-with-precision-expert-guides-from-toms-technology-corner/"><u>Navigating New Gadgets With Precision: Expert Guides From Tom's Technology Corner</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-clutter-maximize-your-iphone-space-with-simple-deletion-tricks-digital-organizing-tips/"><u>Say Goodbye to Clutter: Maximize Your iPhone Space with Simple Deletion Tricks | Digital Organizing Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-instagram-what-you-need-to-know/"><u>Unveiling the Secrets of Instagram: What You Need to Know</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-effortless-mp4-editing-on-windows-8-a-user-friendly-guide/"><u>Updated 2024 Approved Effortless MP4 Editing on Windows 8 A User-Friendly Guide</u></a></li>
+</ul></div>
+

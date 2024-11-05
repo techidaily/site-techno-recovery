@@ -1,7 +1,7 @@
 ---
 title: "Exceptional Savings Opportunity: Save Up To 69%% on Creating the Perfect Online Presence With Zyro - Exclusive Offer From ZDNet"
-date: 2024-09-17 16:52:18
-updated: 2024-09-20 11:48:21
+date: 2024-10-31T20:27:29.170Z
+updated: 2024-11-05T18:37:08.353Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -75,9 +89,29 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-tactics-for-avoiding-a-youtube-sanction/"><u>[New] 2024 Approved Tactics for Avoiding a YouTube Sanction</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-digital-to-physical-crafting-flawless-dvds-on-a-mac/"><u>[New] From Digital to Physical Crafting Flawless DVDs on a Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-screenflow-a-guide-to-enhanced-creativity-on-macos-for-2024/"><u>[New] Mastering ScreenFlow A Guide to Enhanced Creativity on macOS for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-essential-photographic-tool-dynamic-wallpaper-editor/"><u>[Updated] 2024 Approved Essential Photographic Tool Dynamic Wallpaper Editor</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-you-can-get-paid-for-videos/"><u>[Updated] 2024 Approved How You Can Get Paid for Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-deeper-look-at-vivas-video-capabilities/"><u>[Updated] In 2024, A Deeper Look at Viva's Video Capabilities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-phone-imaging-choose-the-best-camera-additions/"><u>2024 Approved Perfect Phone Imaging Choose the Best Camera Additions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-ring-2021-anticipated-pricing-details-launch-timeline-and-feature-set-amidst-growing-buzz/"><u>Apple Ring 2021: Anticipated Pricing Details, Launch Timeline & Feature Set Amidst Growing Buzz</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007445820-bluestacks-crash-woes-overcome-them-with-these-5-easy-troubleshooting-tips/"><u>BlueStacks Crash Woes? Overcome Them with These 5 Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-perfect-surge-protector-for-your-gadgets-a-comprehensive-guide/"><u>Choosing the Perfect Surge Protector for Your Gadgets: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-finest-free-online-sports-broadcast-providers-for-2n4/"><u>Explore the Finest Free Online Sports Broadcast Providers for 2N4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-game-files-how-to-recover-missing-d3dx924dll-successfully/"><u>Fix Your Game Files: How To Recover Missing d3dx9_24.dll Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-refresh-rate-picks-top-gamer-displays-240hz/"><u>High-Refresh Rate Picks: Top Gamer Displays (240Hz)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-playback-problems-finding-fixes-for-spotify-in-android-auto-mode/"><u>Solving Playback Problems: Finding Fixes for Spotify in Android Auto Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-clearing-out-all-emails-in-gmail-for-androidios/"><u>Ultimate Tutorial: Clearing Out All Emails in Gmail for Android/iOS</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Is Amazon's New $10/Month Infinite Grocery Shipping Making Waves in the Market?
-date: 2024-09-19 12:30:27
-updated: 2024-09-20 12:52:31
+date: 2024-11-01T18:05:01.182Z
+updated: 2024-11-05T19:53:40.821Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,19 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -79,6 +106,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I have to cancel my current account to get Prime Student? 
 
 No, you do not have to cancel or deactivate your account. Just [use this link](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1)to transfer your account. Your current benefits, however, may change. For example, if you currently have a 20% discount on home appliances, that may be revoked in place of the other perks. 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-leading-chrome-voice-modifiers-select-top-5-extensions/"><u>[New] 2024 Approved Leading Chrome Voice Modifiers Select Top 5 Extensions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-3d-software-for-creating-animation/"><u>[New] Ideal 3D Software for Creating Animation</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-unlocking-the-art-of-engaging-with-tweets-in-videos-for-2024/"><u>[New] Unlocking the Art of Engaging with Tweets in Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-tips-for-increasing-the-usefulness-of-gopros-battery/"><u>[Updated] In 2024, Tips for Increasing the Usefulness of GoPro's Battery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-hidden-gems-fascinating-insights-on-your-favorite-emojis/"><u>Discover Hidden Gems: Fascinating Insights on Your Favorite Emojis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-best-ups-backup-batteries-of-the-year-202/"><u>Expert Picks: Best UPS Backup Batteries of the Year 202</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-this-new-startups-virtual-reality-tech-takes-on-apples-vision-pro-and-wins-over-business-users-exclusive-insights-from-zdnet/"><u>How This New Startup's Virtual Reality Tech Takes on Apple's Vision Pro and Wins Over Business Users – Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-art-of-audio-fading-2-expert-tips-for-final-cut-pro-users/"><u>New In 2024, The Art of Audio Fading 2 Expert Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-device-manager-code-41-mistakes-a-comprehensive-guide/"><u>Overcoming 'Device Manager' Code 41 Mistakes: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/saving-screen-preferences-success-achieved/"><u>Saving Screen Preferences: Success Achieved</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-m34-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy M34 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-apple-watch-series-eprice-exclusive-discounts-on-the-latest-model-post-prime-day/"><u>Unbeatable Apple Watch Series ePrice - Exclusive Discounts on the Latest Model Post-Prime Day!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-dts-virtualx-technology-for-enhanced-movie-viewing/"><u>Understanding DTS Virtual:X Technology for Enhanced Movie Viewing</u></a></li>
+</ul></div>
+

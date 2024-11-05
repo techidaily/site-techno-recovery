@@ -1,7 +1,7 @@
 ---
 title: "Maximize Efficiency & Savings with Microsoft's Latest Trio of AI Shop Assistants: Discover How on ZDNet"
-date: 2024-09-17 19:44:20
-updated: 2024-09-20 10:54:39
+date: 2024-10-31T20:28:09.835Z
+updated: 2024-11-05T18:04:17.547Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -42,6 +56,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -70,6 +91,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-for-fresh-filmmakers-an-introduction-to-aspect-ratios-and-resolution/"><u>[New] In 2024, For Fresh Filmmakers An Introduction to Aspect Ratios & Resolution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-broadcasting-battleground-who-are-the-champions-obs-or-twitch-studio/"><u>[Updated] In 2024, Broadcasting Battleground Who Are the Champions, OBS or Twitch Studio?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-securely-perform-a-root-on-your-android-smartphone-or-tablet-expert-tips-and-tricks/"><u>How to Securely Perform a Root on Your Android Smartphone or Tablet: Expert Tips and Tricks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-s23plus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy S23+ to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-saturating-the-market-precision-in-sharing-through-shorts/"><u>In 2024, Saturating the Market Precision in Sharing Through Shorts</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-history-with-your-xbox-clan/"><u>Making History with Your Xbox Clan</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-finding-the-best-bbq-and-patio-kits-as-gifts-for-your-cooking-enthusiast-dad-zdnet/"><u>The Ultimate Guide to Finding the Best BBQ & Patio Kits as Gifts for Your Cooking-Enthusiast Dad | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-electric-lawn-mowers-reviews-and-buyers-guide/"><u>Top 5 Electric Lawn Mowers : Reviews & Buyer's Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-camping-equipment-and-accessories-insights-from-zdnet/"><u>Top 5 Essential Camping Equipment & Accessories : Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-handheld-tire-inflation-tools-expert-picks-by-zdnet/"><u>Top 5 Handheld Tire Inflation Tools : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-houseplants-ideal-for-enhancing-productivity-in-home-offices-insights-by-zdnet/"><u>Top 5 Houseplants Ideal for Enhancing Productivity in Home Offices - Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-premium-inflatable-swimming-aids-ranked-techradar/"><u>Top 5 Premium Inflatable Swimming Aids - Ranked | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-premium-solar-lamps-expert-review-by-zdnet/"><u>Top 5 Premium Solar Lamps - Expert Review by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-apples-podcast-library-a-download-guide/"><u>Unlocking Apple's Podcast Library A Download Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-to-ethernet-bridge-seamless-integration-guide/"><u>USB-to-Ethernet Bridge: Seamless Integration Guide</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/wachten-op-de-gelegenheid-te-scannen-van-een-hartseksus-voor-bijwonende-interventies/"><u>Wachten Op De Gelegenheid Te Scannen Van Een Hartseksus Voor Bijwonende Interventies!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Comparing Temu and Amazon: Determining the Ideal E-Commerce Platform for Consumers' Purchases | TechRadar"
-date: 2024-09-17 12:11:30
-updated: 2024-09-20 11:38:19
+date: 2024-11-02T16:34:57.709Z
+updated: 2024-11-05T17:35:53.370Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,19 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +57,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,9 +85,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-dji-flyer-x20s-flying-high-vision-headset-breakdown/"><u>[Updated] 2024 Approved DJi Flyer X20's Flying High Vision Headset Breakdown</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-the-art-of-affordable-audio-the-student-specific-strategies-to-save-with-spotify/"><u>Ace the Art of Affordable Audio: The Student-Specific Strategies to Save with Spotify</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-fix-ntdlldll-issues-in-windows-10-8-and-7/"><u>Effective Strategies to Fix ntdll.dll Issues in Windows 10, 8 and 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-newest-gem-in-samsungs-lineup-the-galaxy-z-fold-6-features-launch-window-and-pricing-info-revealed/"><u>Exploring the Newest Gem in Samsung's Lineup - The Galaxy Z Fold 6: Features, Launch Window & Pricing Info Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970447984-get-your-intel-82579v-graphics-card-up-to-date-no-cost-driver-downloads-available/"><u>Get Your Intel 82579V Graphics Card Up-to-Date: No Cost Driver Downloads Available</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nubia-red-magic-8s-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nubia Red Magic 8S Pro Lock Screen Password</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-secure-smooth-videos-selecting-premium-tripods-for-youtubers/"><u>In 2024, Secure Smooth Videos Selecting Premium Tripods for YouTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-framework-for-selecting-winning-podcast-names/"><u>In 2024, The Ultimate Framework for Selecting Winning Podcast Names</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-strategies-the-critical-top-5-utilities-every-streamer-must-use-on-twitch/"><u>Key Strategies: The Critical Top 5 Utilities Every Streamer Must Use on Twitch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-messaging-a-comprehensive-guide-to-using-whatsapp-on-your-mac/"><u>Mastering Messaging: A Comprehensive Guide to Using WhatsApp on Your Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-high-dpi-settings-in-windows/"><u>Navigating High DPI Settings in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-unshutdown-challenges-in-windows-11-effective-solutions/"><u>Overcoming Unshutdown Challenges in Windows 11 – Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-failed-secure-connection-errors-in-mozilla-firefox/"><u>Resolving 'Failed Secure Connection' Errors in Mozilla Firefox</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/seamless-photo-management-discover-nixplay-iriss-cloud-advantage/"><u>Seamless Photo Management: Discover Nixplay Iris's Cloud Advantage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-notetaking-applications-of-2/"><u>The Best Notetaking Applications of 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-free-myspace-video-converters-with-mp4-and-mp3-downloads/"><u>Top 4 Free MySpace Video Converters with MP4 & MP3 Downloads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-faults-in-the-bios-initialization-stage-of-pc-startup/"><u>Understanding and Repairing Faults in the BIOS Initialization Stage of PC Startup</u></a></li>
+</ul></div>
+

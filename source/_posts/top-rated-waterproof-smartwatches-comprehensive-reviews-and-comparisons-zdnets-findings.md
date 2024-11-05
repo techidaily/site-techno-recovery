@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Waterproof Smartwatches : Comprehensive Reviews & Comparisons - ZDNet's Findings"
-date: 2024-10-24T23:00:07.067Z
-updated: 2024-10-31T01:57:36.676Z
+date: 2024-11-03T16:13:49.513Z
+updated: 2024-11-05T21:20:13.793Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ All of the watches in this list have at least a certification for 5 ATM and/or a
 Based on both our hands-on testing and insights from experts, we named the [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) the best waterproof smartwatch overall due to its 10 ATM rating, diving certification, long battery life, storage capacity, high-quality titanium materials, [sleep-tracking capabilities](https://www.zdnet.com/article/how-to-sleep-better-with-the-apple-watch/), women's wellness features, and advanced workout metric feature suite. If you're not an Apple user, read on to see how watches from [Samsung](https://www.zdnet.com/article/best-android-smartwatch/) \-- including its newest [Galaxy Watch 6 Classic](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch6%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1) \-- [Garmin,](https://www.zdnet.com/article/best-garmin-watch/) Coros, and Suunto compare, to find the best waterproof smartwatch for your needs and your wrist. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The best waterproof smartwatches of 2024
@@ -55,10 +55,10 @@ Cons
 ## Apple Watch Ultra 2
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best waterproof smartwatch overall
@@ -87,6 +87,13 @@ Pros
 
 Cons 
 * Less than two-day battery life
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch Series 9
 
@@ -121,20 +128,13 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Garmin Quatix 7 Pro
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best waterproof Garmin smartwatch overall
 
@@ -164,14 +164,14 @@ Pros
 Cons 
 * Expensive
 
-## Garmin Venu 3S
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Garmin Venu 3S
 
 ### Best waterproof Garmin smartwatch for most people
 
@@ -199,20 +199,14 @@ Pros
 Cons 
 * Large display is likely to consumer more battery power
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Watch 6 Classic
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best waterproof Samsung smartwatch
 
@@ -242,13 +236,6 @@ Pros
 
 Cons 
 * Limited notification and app support
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Coros Apex 2 Pro
 
@@ -332,19 +319,6 @@ However, finding the best waterproof smartwatch for you can be more complicated,
 | Coros Apex 2 Pro               | A watch with a very long battery life that relieves you of any battery anxiety. It is also smaller so less of an issue while swimming, surfing, or paddling.                                                                                                                                     |
 | Suunto Race                    | A powerful watch that tracks your laps, surfing metrics, and has a long battery life. Your sleep and other health metrics are also captured with the AI coach providing guidance for optimal performance.                                                                                        |
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -369,6 +343,13 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
@@ -386,6 +367,13 @@ After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-
 Health and fitness tracking have been the areas with the most innovations and improvements in the last few years. While these watches are not medical devices, they have sensors, algorithms, and applications that help you track trends in your heart rate, stress levels, and blood oxygen levels, even allowing you to detect when ovulation occurs. You can use it as a basic ECG to check if further investigation is needed. The latest Galaxy Watch 5 can also measure your body composition; testing indicates it matches other methods reasonably well.
 
 These smartwatches can also serve as capable GPS sports watches to track the details of your outdoor activities. Exercise guidance is provided on the watch with connected health applications on your smartphone so you can keep track of your progress, too.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative waterproof smartwatches worth considering?
 
@@ -435,22 +423,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-the-drone-enthusiasts-guide-to-vibration-reduction-and-image-quality-for-2024/"><u>[New] The Drone Enthusiast's Guide to Vibration Reduction and Image Quality for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-quick-tips-incorporating-video-from-youtube-into-google-presentations/"><u>[Updated] 2024 Approved Quick Tips Incorporating Video From YouTube Into Google Presentations</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-one-frame-at-a-time-how-to-extract-images-from-windows-10-movie-files-for-2024/"><u>[Updated] One Frame at a Time How To Extract Images From Windows 10 Movie Files for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-techniques-for-vhs-photo-effects-on-pconline-platforms/"><u>2024 Approved Prime Techniques for VHS Photo Effects on PC/Online Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/combatting-talent-scarcity-with-boomerang-staff-insights-from-zdnet/"><u>Combatting Talent Scarcity with Boomerang Staff – Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/conquering-doubts-embracing-confidence-beating-imposter-syndrome-at-your-job-career-growth-hub/"><u>Conquering Doubts, Embracing Confidence: Beating Imposter Syndrome at Your Job | Career Growth Hub</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-networking-hubs-for-it-specialists-insights-from-zdnets-top-picks/"><u>Discover the Leading Networking Hubs for IT Specialists - Insights From ZDNet's Top Picks</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correctly-install-and-troubleshoot-the-amd-ryzen-master-driver-issues/"><u>How to Correctly Install and Troubleshoot the AMD Ryzen Master Driver Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-excel-as-a-data-expert-top-5-strategies-revealed-on-zdnet/"><u>How To Excel as a Data Expert: Top 5 Strategies Revealed on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/landing-your-dream-it-job-at-microsoft-expert-tips-and-advice-featured-on-zdnet/"><u>Landing Your Dream IT Job at Microsoft: Expert Tips and Advice Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-programming-skills-amidst-gender-imbalance-a-guide-from-zdnet/"><u>Mastering Programming Skills Amidst Gender Imbalance: A Guide From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-challenges-smart-strategies-for-streamlining-your-artificial-intelligence-training/"><u>Navigating the Challenges: Smart Strategies for Streamlining Your Artificial Intelligence Training</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-say-goodbye-to-crooked-videos-10-best-online-rotation-tools/"><u>New In 2024, Say Goodbye to Crooked Videos 10 Best Online Rotation Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-data-recovery-recover-lost-data-from-oppo-reno-10-5g-by-fonelab-android-recover-data/"><u>Oppo Data Recovery – recover lost data from Oppo Reno 10 5G</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-13-ultra-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi 13 Ultra Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-nokia-xr21-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Nokia XR21 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-into-a-master-data-analyst-with-these-5-key-steps-according-to-zdnet/"><u>Transform Into a Master Data Analyst with These 5 Key Steps, According to ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-digital-deviation-expert-strategies-to-rotate-videos-on-youtube/"><u>[Updated] Digital Deviation Expert Strategies to Rotate Videos on YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211461812-9781839388590-afterlife/"><u>Afterlife | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-apple-vision-pro-unveiling-the-costs-capabilities-and-user-experience-a-comprehensive-guide-for-potential-buyers/"><u>All About Apple Vision Pro: Unveiling the Costs, Capabilities, and User Experience - A Comprehensive Guide for Potential Buyers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/buy-airpods-pro-2-now-at-a-special-price-of-24-off-plus-they-can-double-as-hearing-aids-discover-more-inside-the-latest-deal/"><u>Buy AirPods Pro 2 Now at a Special Price of 24% Off – Plus, They Can Double as Hearing Aids! Discover More Inside the Latest Deal</u></a></li>
+<li><a href="https://discover-community.techidaily.com/convert-music-files-for-free-with-movavi-online-mp3-m4a/"><u>Convert Music Files for Free with Movavi Online (MP3, M4A)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-your-chromecast-to-speak-again-a-users-manual-for-audio-repair/"><u>Getting Your Chromecast to Speak Again: A User's Manual for Audio Repair</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-professional-screen-grabber-for-modern-win11/"><u>In 2024, Professional Screen Grabber for Modern Win11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mastering-the-art-of-converting-multimedia-video-encoded-mve-files/"><u>Mastering the Art of Converting Multimedia Video Encoded (MVE) Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-battery-life-and-enhance-efficiency-with-macos-montereys-power-saving-mode-tips-by-zdnet/"><u>Save Battery Life and Enhance Efficiency with MacOS Monterey's Power Saving Mode - Tips by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-device-with-these-top-15-free-bootable-antivirus-programs-we-suggest/"><u>Secure Your Device with These Top 15 Free, Bootable Antivirus Programs We Suggest</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-gamers-choice-best-4k-monitors-for-2024/"><u>Top Gamer's Choice Best 4K Monitors for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-vpn-apps-for-ios-devices-in-depth-analysis-and-comparison-insights-from-tech-experts/"><u>Top-Ranking VPN Apps for iOS Devices: In-Depth Analysis & Comparison - Insights From Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-solving-the-mystery-of-the-black-screen-during-your-facetime-calls/"><u>Ultimate Guide: Solving the Mystery of the Black Screen During Your FaceTime Calls</u></a></li>
 </ul></div>
 

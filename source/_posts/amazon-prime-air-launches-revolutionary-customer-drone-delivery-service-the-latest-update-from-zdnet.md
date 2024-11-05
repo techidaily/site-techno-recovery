@@ -1,7 +1,7 @@
 ---
 title: Amazon Prime Air Launches Revolutionary Customer Drone Delivery Service - The Latest Update From ZDNet
-date: 2024-09-18 23:44:11
-updated: 2024-09-20 12:26:42
+date: 2024-10-30T17:18:07.293Z
+updated: 2024-11-05T18:47:51.511Z
 tags:
   - e-commerce
 categories:
@@ -32,6 +32,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -65,15 +72,36 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[New] 2024 Approved Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-chart-your-course-in-crypto-selecting-the-best-7-art-converters-for-2024/"><u>[New] Chart Your Course in Crypto - Selecting the Best 7 Art Converters for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-premium-sound-to-text-converters/"><u>[Updated] 2024 Approved Premium Sound to Text Converters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-crafting-your-first-online-phenomenal-giveaway/"><u>[Updated] In 2024, Crafting Your First Online Phenomenal Giveaway</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-apples-latest-innovations-mac-mini-and-mac-studio-which-one-takes-the-lead-with-m2-chips-over-m1-performance/"><u>Comparing Apple's Latest Innovations: Mac Mini and Mac Studio - Which One Takes the Lead with M2 Chips Over M1 Performance?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-cat5-and-cat6-network-cabling-key-distinctions/"><u>Comparing Cat5 and Cat6 Network Cabling: Key Distinctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-and-macbook-air-key-distinctions-explored/"><u>Comparing iPad Pro & MacBook Air: Key Distinctions Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-ray-tracing-technology-in-visual-computation/"><u>Exploring the World of Ray Tracing Technology in Visual Computation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-palm-2-versus-openai-gpt-4-a-deep-dive-into-their-unique-features/"><u>Google PaLM 2 Versus OpenAI GPT-4: A Deep Dive Into Their Unique Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-c55-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme C55</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-steadicams-for-drone-shooting-precision/"><u>In 2024, Superior Steadicams for Drone Shooting Precision</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-path-to-affordable-lenovo-gear-for-students-insider-tips-and-tricks/"><u>Navigating the Path to Affordable Lenovo Gear for Students: Insider Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-exciting-features-of-the-new-iphone-16-pro-revealed-by-zdnet/"><u>Top 5 Exciting Features of the New iPhone 16 Pro Revealed by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-error-code-39-in-optical-drives-easy-fixes-for-a-smooth-run/"><u>Troubleshooting and Resolving 'Error Code 39' In Optical Drives – Easy Fixes for a Smooth Run</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-the-perfect-super-bowl-viewing-experience/"><u>Ultimate Guide: Setting Up the Perfect Super Bowl Viewing Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-superiority-of-evs-compared-to-gas-powered-cars/"><u>Understanding the Superiority of EVs Compared to Gas-Powered Cars</u></a></li>
+</ul></div>
+

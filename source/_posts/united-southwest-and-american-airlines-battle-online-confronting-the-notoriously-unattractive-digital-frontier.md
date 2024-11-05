@@ -1,7 +1,7 @@
 ---
 title: "United, Southwest & American Airlines Battle Online: Confronting the Notoriously Unattractive Digital Frontier"
-date: 2024-09-17 17:58:19
-updated: 2024-09-20 12:24:14
+date: 2024-11-04T16:33:24.052Z
+updated: 2024-11-05T19:12:06.261Z
 tags:
   - e-commerce
 categories:
@@ -51,11 +51,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -64,6 +78,19 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -74,6 +101,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-configure-and-gauge-the-complete-guide-to-crafting-and-measuring-fb-instream-ads/"><u>[New] 2024 Approved Configure & Gauge The Complete Guide to Crafting and Measuring FB Instream Ads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-superior-sound-collector-top-10-tools-on-spotify/"><u>[New] Superior Sound Collector Top 10 Tools on Spotify</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-repaired-connectivity-issue/"><u>[PRINT] Repaired Connectivity Issue</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-strategies-for-enhancing-your-apple-podcast-visibility/"><u>[Updated] Strategies for Enhancing Your Apple Podcast Visibility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-trends-unveiled-top-videos-of-the-twittersphere/"><u>[Updated] Tweet Trends Unveiled Top Videos of the Twittersphere</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/are-you-receiving-the-real-deal-with-dolby-atmos-technology/"><u>Are You Receiving the Real Deal with Dolby Atmos Technology?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/convenient-strategies-for-incorpressing-emojis-in-messages-on-iphones/"><u>Convenient Strategies for Incorpressing Emojis in Messages on iPhones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-13-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 13 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/going-myspace-style-with-messenger-unlink-from-facebook-and-keep-chat-alive/"><u>Going MySpace-Style with Messenger: Unlink From Facebook and Keep Chat Alive!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-fixing-ie-frame-error-caused-by-missing-dll-files/"><u>Guide to Fixing IE Frame Error Caused by Missing DLL Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-discovering-individual-phone-numbers-through-the-internet/"><u>Guide: Discovering Individual Phone Numbers Through the Internet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-your-graphics-card-updated-with-amds-radeon-v2410-drivers/"><u>How to Get Your Graphics Card Updated with AMD's Radeon v24.10 Drivers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/leading-uav-models-suited-for-gopro-cameras-for-2024/"><u>Leading UAV Models Suited for GoPro Cameras for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leveling-up-together-enhancing-your-pokemon-go-experience-by-playing-with-a-buddy/"><u>Leveling Up Together: Enhancing Your Pokémon GO Experience by Playing With a Buddy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-downloading-dell-latitude-e6420-device-drivers/"><u>Quick and Easy Guide: Downloading Dell Latitude E6420 Device Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-5-key-points-before-investing-in-a-fitness-band/"><u>The Ultimate Guide: 5 Key Points Before Investing in a Fitness Band</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-when-you-cant-find-openal32dll-in-your-game/"><u>The Ultimate Solution for When You Can't Find OpenAL32.dll in Your Game</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-phantom-the-slow-motion-essentials/"><u>Unlocking Phantom The Slow-Motion Essentials</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audiovisual-masterpieces-unveiled-top-5-music-visualizations-for-every-taste/"><u>Updated In 2024, Audiovisual Masterpieces Unveiled Top 5 Music Visualizations for Every Taste</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Millions Misled Into Costly Prime Plans by Amazon, Reveals Federal Trade Commission Report Covered by ZDNET
-date: 2024-09-19 22:43:33
-updated: 2024-09-20 12:57:20
+date: 2024-11-02T20:32:51.735Z
+updated: 2024-11-05T16:38:40.408Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,19 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,7 +56,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -75,6 +102,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/levate-your-online-presence-secrets-of-youtube-live-with-wirecast-for-2024/"><u>[New] Elevate Your Online Presence Secrets of Youtube Live with WireCast for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-footage-with-premiere-pros-advanced-techniques-for-360-editing/"><u>[Updated] Transform Your Footage with Premiere Pro's Advanced Techniques for 360° Editing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-musical-enhancements-for-social-video-sharing-platforms-fb/"><u>2024 Approved Musical Enhancements for Social Video Sharing Platforms (FB)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-revolutionizes-tv-viewing-with-surreal-immersive-shows-that-test-endurance-zdnet-insights/"><u>Apple Vision Pro Revolutionizes TV Viewing with Surreal, Immersive Shows That Test Endurance | ZDNET Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/eight-proven-fixes-for-unresponsive-firefox-get-back-to-browsing-today/"><u>Eight Proven Fixes for Unresponsive Firefox - Get Back to Browsing Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-smooth-gameplay-for-the-division/"><u>Enhancing Smooth Gameplay for 'The Division</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-blueprint-for-using-adobe-cloud-and-identifying-suitable-alternatives-for-2024/"><u>Essential Blueprint for Using Adobe Cloud & Identifying Suitable Alternatives for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finally-it-returns-a-dictionary-containing-both-the-cosine-similarity-and-the-angle-between-vectors-v1-and-v2/"><u>Finally, It Returns a Dictionary Containing Both the Cosine Similarity and the Angle Between Vectors v1 and V2.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/full-day-on-the-apple-vision-pro-glasses-how-they-fared-during-my-8-hour-office-routine-zdnet-insights/"><u>Full Day on the Apple Vision Pro Glasses - How They Fared During My 8-Hour Office Routine | ZDNET Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/language-model-showdown-insights-into-gpt-and-bert-differences/"><u>Language Model Showdown: Insights Into GPT and BERT Differences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-complexities-of-digital-twin-technology-deployment-7-critical-challenges-and-strategies-for-business-success-ciotrends/"><u>Navigating the Complexities of Digital Twin Technology Deployment: 7 Critical Challenges and Strategies for Business Success | CIOTrends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ready-to-test-drive-the-new-features-in-vision-pros-travel-mode-discover-essential-tips-first-zdnet-guide/"><u>Ready to Test Drive the New Features in Vision Pro's Travel Mode? Discover Essential Tips First [ZDNet Guide]</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gameplay-remote-dualsense-sync-up/"><u>Streamlining Gameplay: Remote DualSense Sync-Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-eureka-encounter-with-apples-latest-immersive-tech-on-the-vision-pro-insights-and-revelations-zdnet/"><u>The Eureka Encounter with Apple's Latest Immersive Tech on the Vision Pro: Insights & Revelations | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-six-critical-pillars-for-building-effective-digital-twins-with-ai-enhancements-expert-analysis-by-zdnet/"><u>The Six Critical Pillars for Building Effective Digital Twins with AI Enhancements | Expert Analysis by ZDNET</u></a></li>
+</ul></div>
+

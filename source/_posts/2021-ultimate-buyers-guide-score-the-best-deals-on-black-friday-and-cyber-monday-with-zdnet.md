@@ -1,7 +1,7 @@
 ---
 title: "2021 Ultimate Buyer's Guide: Score the Best Deals on Black Friday & Cyber Monday with ZDNet"
-date: 2024-09-19 12:28:57
-updated: 2024-09-20 10:18:34
+date: 2024-11-01T21:41:44.951Z
+updated: 2024-11-05T18:16:06.699Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -45,11 +59,25 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-deciphering-the-code-understanding-what-unlisted-on-youtube-means-for-2024/"><u>[New] Deciphering the Code Understanding What 'Unlisted' On YouTube Means for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hp-envy-27-review-where-4k-meets-usb-c-tech/"><u>[Updated] HP Envy 27 Review - Where 4K Meets USB-C Tech</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastery-guide-securely-archiving-snapchat-media-on-devices/"><u>2024 Approved Mastery Guide Securely Archiving Snapchat Media on Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-apples-immersive-3d-experiences-on-your-meta-quest-vr-headset-step-by-step-guide-zdnet/"><u>Access Apple's Immersive 3D Experiences on Your Meta Quest VR Headset – Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/developer-reactions-apples-revolutionary-vision-pro-labs-trigger-stunned-amazement-report-from-zdnet-confirms/"><u>Developer Reactions: Apple's Revolutionary 'Vision Pro' Labs Trigger Stunned Amazement, Report From ZDNet Confirms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-bypass-metas-disabled-quest-headset-functionality-a-guide-on-zdnet/"><u>How to Bypass Meta's Disabled Quest Headset Functionality: A Guide on ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-swiftly-handle-stalled-gpsvc-process/"><u>How to Swiftly Handle Stalled GPSVC Process</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xs-max-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XS Max to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-significance-of-gopros-burst-sequencing-feature/"><u>In 2024, The Significance of GoPro's Burst Sequencing Feature</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-productivity-get-3x-more-screen-space-with-discounted-xr-glasses-during-amazon-prime-day-zdnet/"><u>Maximize Your Productivity: Get 3X More Screen Space with Discounted XR Glasses During Amazon Prime Day | ZDNet</u></a></li>
+<li><a href="https://win-lab.techidaily.com/reinstating-a-deleted-scheduled-meeting-on-the-outlook-calendar-a-step-by-step-guide/"><u>Reinstating a Deleted Scheduled Meeting on the Outlook Calendar: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-startup-jams-seven-proven-techniques-for-bypassing-the-apple-emblem/"><u>Resolving iPhone Startup Jams: Seven Proven Techniques for Bypassing the Apple Emblem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-remote-communications-how-zooms-new-vision-pro-compatibility-could-affect-your-meetings-discover-more-on-zdnet/"><u>Revolutionizing Remote Communications: How Zoom's New Vision Pro Compatibility Could Affect Your Meetings - Discover More on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-tactile-experience-how-singapore-researchers-engineered-a-glove-for-superior-virtual-touch-sensations-zdnet/"><u>Revolutionizing Tactile Experience: How Singapore Researchers Engineered a Glove for Superior Virtual Touch Sensations | ZDNET</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/stream-it-record-it-facebook-live-tips-and-tricks/"><u>Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiled-top-picks-in-xr-gear-with-enhanced-features-perfect-for-work-and-wanderlust-latest-update/"><u>Unveiled: Top Picks in XR Gear with Enhanced Features Perfect for Work & Wanderlust - Latest Update!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-your-entertainment-with-budget-friendly-400-xr-headsets-offering-a-200-inch-display-like-magic-insights-from-zdnet/"><u>Upgrade Your Entertainment with Budget-Friendly 400$ XR Headsets Offering a 200 Inch Display Like Magic | Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-apples-worldwide-developers-conference-opens-june-5-annual-keynote-date-set/"><u>ZDNet Exclusive: Apple's Worldwide Developers Conference Opens June 5 - Annual Keynote Date Set</u></a></li>
+</ul></div>
+

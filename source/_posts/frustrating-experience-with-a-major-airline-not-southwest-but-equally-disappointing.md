@@ -1,7 +1,7 @@
 ---
 title: "Frustrating Experience with a Major Airline: Not Southwest, But Equally Disappointing"
-date: 2024-09-18 18:13:20
-updated: 2024-09-20 10:38:10
+date: 2024-11-04T19:23:42.953Z
+updated: 2024-11-05T20:35:49.859Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,9 +79,29 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-downloads-for-mac-easy-steps-included/"><u>[New] 2024 Approved Snapchat Downloads for Mac - Easy Steps Included</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-title-your-photos-quickly-captioning-techniques-in-photos-app-win-11-for-2024/"><u>[New] Title Your Photos Quickly Captioning Techniques in Photos App Win 11 for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-exploring-high-res-videography-with-nikon-j5/"><u>[Updated] In 2024, Exploring High-Res Videography with Nikon J5</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-complete-tutorial-how-to-disable-and-remove-copilot-on-windows-11-systems/"><u>A Complete Tutorial: How to Disable and Remove Copilot on Windows 11 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-damage-safe-cleaning-practices-for-your-sleek-smart-tv-screen/"><u>Avoiding Damage: Safe Cleaning Practices for Your Sleek Smart TV Screen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canoscan-lide-120-scanner-drivers-latest-downloads-and-updates-guide/"><u>CanoScan LiDE 120 Scanner Drivers – Latest Downloads and Updates Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gmail-not-updating-heres-what-you-can-do/"><u>Gmail Not Updating? Here’s What You Can Do</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-visual-disk-space-analyzer-tool-to-the-context-menu-in-windows-11-and-11/"><u>How to Add a Visual Disk Space Analyzer Tool to the Context Menu in Windows 11 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-pro-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 Pro 4G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-y28-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo Y28 5G Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-find-someone-a-guide-to-the-top-8-search-engines/"><u>How to Find Someone: A Guide to the Top 8 Search Engines</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-securing-sharp-visibility-a-guide-to-efficient-zooming-in-google-meets/"><u>In 2024, Securing Sharp Visibility A Guide to Efficient Zooming in Google Meets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-time-to-update-to-ipados-17/"><u>Is It Time to Update to iPadOS 17?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-missing-or-unsuitable-printer-drivers-in-windows-systems/"><u>Resolving the Issue of Missing or Unsuitable Printer Drivers in Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722862562305-the-future-is-here-with-apples-newest-ipad-generation-get-the-lowdown-on-what-to-expect/"><u>The Future Is Here with Apple's Newest iPad Generation - Get the Lowdown on What to Expect!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-transportation-unveiling-potential-details-for-the-apple-car-pricing-insights-and-release-info/"><u>The Future of Transportation: Unveiling Potential Details for the Apple Car – Pricing Insights and Release Info</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-free-dns-solutions-and-their-benefits/"><u>The Ultimate Selection of Free DNS Solutions and Their Benefits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-currently-airing-shows-on-discoveryplus-as-of-july-2024/"><u>Top Picks: The Best Currently Airing Shows on Discovery+ as of July 2024</u></a></li>
+</ul></div>
+

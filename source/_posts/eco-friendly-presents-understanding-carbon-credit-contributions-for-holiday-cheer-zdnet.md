@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Presents: Understanding Carbon Credit Contributions for Holiday Cheer | ZDNET"
-date: 2024-09-18 21:58:25
-updated: 2024-09-20 12:26:13
+date: 2024-11-01T16:52:51.034Z
+updated: 2024-11-05T17:56:37.529Z
 tags:
   - e-commerce
 categories:
@@ -28,6 +28,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 **Also: [The best early Amazon Prime Day 2024 deals](https://www.zdnet.com/article/best-early-amazon-prime-day-2024-deals/)**
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who is eligible for a Prime Student membership? 
 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +78,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-boosting-skype-engagement-best-zoom-utilization-techniques/"><u>[New] Boosting Skype Engagement Best Zoom Utilization Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-focus-on-you-not-the-surroundings-blur-techniques-for-google-meet-success/"><u>[Updated] 2024 Approved Focus on You, Not the Surroundings Blur Techniques for Google Meet Success</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-fuel-your-film-rate-with-these-easy-tiktok-tricks/"><u>2024 Approved Fuel Your Film Rate with These Easy TikTok Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-ultimate-wyze-cam-substitute-why-the-waterproof-blink-mini-2-reigns-supreme/"><u>Choosing the Ultimate Wyze Cam Substitute: Why The Waterproof Blink Mini 2 Reigns Supreme</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/conquer-winter-with-confidence-a-savvy-shoppers-ultimate-manual-on-picking-a-top-notch-snow-blower-insider-advice-for-frosty-weather-preparedness/"><u>Conquer Winter with Confidence: A Savvy Shopper's Ultimate Manual on Picking a Top-Notch Snow Blower | Insider Advice for Frosty Weather Preparedness</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creating-your-own-camera-obscura-for-safe-solar-eclipse-viewing-tutorial/"><u>Creating Your Own Camera Obscura for Safe Solar Eclipse Viewing - Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-save-50-explore-webers-premier-electric-grills-highlighted-by-zdnet/"><u>Discover How to Save $50 - Explore Weber's Premier Electric Grills Highlighted by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-elite-selection-2024s-ultimate-guide-to-high-end-gas-grills/"><u>Discover the Elite Selection: 2024'S Ultimate Guide to High-End Gas Grills</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-zte-nubia-flip-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-from-beginner-to-expert-the-ultimate-guide-to-hp-screen-recording/"><u>In 2024, From Beginner to Expert The Ultimate Guide to HP Screen Recording</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-audit-of-22-top-podcast-performers-reviewed/"><u>The Ultimate Audit of '22 - Top Podcast Performers Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel P55+ | Dr.fone</u></a></li>
+</ul></div>
+

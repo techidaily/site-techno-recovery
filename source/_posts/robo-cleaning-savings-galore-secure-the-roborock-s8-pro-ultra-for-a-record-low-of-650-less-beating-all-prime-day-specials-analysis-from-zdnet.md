@@ -1,7 +1,7 @@
 ---
 title: "Robo-Cleaning Savings Galore: Secure the Roborock S8 Pro Ultra for a Record Low of $650 Less, Beating All Prime Day Specials | Analysis From ZDNet"
-date: 2024-09-17 15:30:54
-updated: 2024-09-20 12:54:58
+date: 2024-10-31T18:04:40.740Z
+updated: 2024-11-05T16:28:44.918Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -69,7 +83,21 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-gopro-expertise-unleashed-livestreams-directed-at-periscope-and-facebook/"><u>[New] Gopro Expertise Unleashed Livestreams Directed at Periscope & Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hitting-the-high-scores-with-youtube-gaming-livestreams/"><u>[Updated] 2024 Approved Hitting the High Scores with YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-the-craft-of-creating-vr-films/"><u>[Updated] Inside The Craft of Creating VR Films</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/easy-backup-solutions-with-wd-my-passport-best-practices-in-windows-11-and-windows-10-leaderboard/"><u>Easy Backup Solutions with WD My Passport: Best Practices in Windows 11 and Windows 10 [Leaderboard]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/economical-opulence-top-choice-gadgets-for-the-savvy-shopper/"><u>Economical Opulence: Top Choice Gadgets for the Savvy Shopper</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-snappy-driver-installer-v113-features-and-performance/"><u>In-Depth Analysis: Snappy Driver Installer v1.13 Features and Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-5-selling-points-retro-portable-game-houses/"><u>Key 5 Selling Points: Retro Portable Game Houses</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-essential-audio-workstation-applications-on-chrome-os-for-aspiring-musicians-for-2024/"><u>New Essential Audio Workstation Applications on Chrome OS for Aspiring Musicians for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/nomads-essential-tech-must-haves-on-sale-save-up-to-20-off-chargers-watch-bands-and-cases-shop-now/"><u>Nomad's Essential Tech Must-Haves on Sale! Save up to 20% Off Chargers, Watch Bands & Cases | Shop Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcome-forgetting-your-ipad-password-or-code-effective-strategies-for-restoration/"><u>Overcome Forgetting Your iPad Password or Code: Effective Strategies for Restoration</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-best-free-downloaders-for-facebook-links-for-2024/"><u>The Best Free Downloaders for Facebook Links for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-replacing-missing-keys-on-your-laptop/"><u>The Ultimate Tutorial for Replacing Missing Keys on Your Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-of-pokemon-unite-gameplay/"><u>The Ultimate Walkthrough of Pokémon Unite Gameplay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-x-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone X</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-kids-mobile-devices-a-guide-by-zdnet/"><u>Top-Rated Kid's Mobile Devices: A Guide by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-timeout-errors-in-file-downloads/"><u>Ultimate Guide: Resolving Timeout Errors in File Downloads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-full-potential-of-siri-ultimate-guide-to-advanced-iphone-voice-command-shortcuts/"><u>Unlock the Full Potential of Siri: Ultimate Guide to Advanced iPhone Voice Command Shortcuts</u></a></li>
+</ul></div>
+

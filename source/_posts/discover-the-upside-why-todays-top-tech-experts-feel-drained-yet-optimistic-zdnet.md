@@ -1,7 +1,7 @@
 ---
 title: "Discover the Upside: Why Today’s Top Tech Experts Feel Drained Yet Optimistic | ZDNet"
-date: 2024-09-19 14:33:12
-updated: 2024-09-20 11:40:14
+date: 2024-10-31T21:08:20.549Z
+updated: 2024-11-05T20:15:16.505Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +79,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +117,19 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +137,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-lumapro-the-budget-friendly-lightroom-pairings/"><u>[New] 2024 Approved LumaPro The Budget-Friendly Lightroom Pairings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-selecting-excellent-backgrounds-for-video-calls/"><u>[New] In 2024, Selecting Excellent Backgrounds for Video Calls</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-high-ranking-12-cameras-onboard-gps-for-motion-capture-for-2024/"><u>[Updated] High-Ranking 12 Cameras Onboard GPS for Motion Capture for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-technology-behind-dts-virtual-x-essential-information/"><u>Decoding the Technology Behind DTS Virtual: X – Essential Information</u></a></li>
+<li><a href="https://win-data.techidaily.com/detailed-instructions-on-ios-data-synchronization-with-synology-nas-systems/"><u>Detailed Instructions on iOS Data Synchronization with Synology NAS Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enabling-built-in-fm-transmitters-on-iphones-and-androids-for-live-radio-listening/"><u>Enabling Built-In FM Transmitters on iPhones and Androids for Live Radio Listening</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-how-the-samsung-galaxy-watch-active-elevates-wellness-tracking/"><u>In-Depth Analysis: How the Samsung Galaxy Watch Active Elevates Wellness Tracking</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2652781-9781786780317-lucid-living/"><u>Lucid Living | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-air-and-airpods-connection-masterclass-simple-instructions-for-superior-audio-experience/"><u>MacBook Air and AirPods Connection Masterclass: Simple Instructions for Superior Audio Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-multi-monitor-setups-adding-two-more-displays-to-your-pc/"><u>Mastering Multi-Monitor Setups: Adding Two More Displays to Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-non-opening-adobe-ps-on-windows-10plus/"><u>Quick Fixes for Non-Opening Adobe PS on Windows 10+</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-smart-tv-streaming-activating-and-using-remote-features-seamlessly/"><u>Samsung Smart TV Streaming: Activating and Using Remote Features Seamlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steam-gaming-a-step-by-step-guide-to-requesting-a-game-refund/"><u>Steam Gaming: A Step-by-Step Guide to Requesting a Game Refund</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-secret-to-knowing-who-accesses-your-files-revealing-google-doc-viewers-list/"><u>The Secret to Knowing Who Accesses Your Files: Revealing Google Doc Viewers List</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-5-innovative-vocal-transformers-for-google-meet-the-future-of-online-communication/"><u>Updated 2024 Approved Top 5 Innovative Vocal Transformers for Google Meet The Future of Online Communication</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Alibaba Anticipates Executive Reshuffle with CEO's Strategic Shift Towards Cloud Services | TechNewsZ
-date: 2024-09-17 12:40:46
-updated: 2024-09-20 12:49:57
+date: 2024-11-02T18:01:21.079Z
+updated: 2024-11-05T16:04:44.161Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,27 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,11 +85,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +138,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-stream-undoing-masterclass-twenty-one-tactics-to-learn-and-use-for-2024/"><u>[New] Stream Undoing Masterclass Twenty-One Tactics to Learn and Use for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps/"><u>[Updated] 2024 Approved Enhance Content Categorization Top Picks for the 7 Cheapest Youtube Taggification Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ffmpegs-audio-recapture-challenge/"><u>FFmpeg's Audio Recapture Challenge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-tech-unveiled-apple-aims-to-introduce-camera-enabled-airpods-by-2026-exclusive-details-revealed-on-zdnet/"><u>Future Tech Unveiled: Apple Aims to Introduce Camera-Enabled AirPods by 2026 – Exclusive Details Revealed on ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-15-pro-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 15 Pro Factory Reset? | Stellar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-implementing-soft-decline-in-logic-pro-audio/"><u>In 2024, Implementing Soft Decline in Logic Pro Audio</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-like-a-pro-with-these-5-outstanding-iphone-gps-tools/"><u>Navigate Like a Pro with These 5 Outstanding iPhone GPS Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-sound-pivot-for-podcast-masters-for-2024/"><u>Premier Sound Pivot for Podcast Masters for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shop-smart-get-premium-quality-airpods-at-an-exclusive-low-of-269-this-4th-of-july-weekend-engadget/"><u>Shop Smart: Get Premium Quality AirPods at an Exclusive Low of $269 This 4Th of July Weekend | Engadget</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/syncing-airpods-to-your-macbook-pro-or-air-the-complete-tutorial/"><u>Syncing AirPods to Your MacBook Pro or Air: The Complete Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-tablet-picks-comprehensive-reviews-from-tech-experts/"><u>Top-Rated Tablet Picks : Comprehensive Reviews From Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-choosing-multiple-emails-in-gmail/"><u>Ultimate Guide: Mastering the Art of Choosing Multiple Emails in Gmail</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-value-why-the-acer-aspire-e-15-is-a-must-have-for-budget-tech-seekers/"><u>Unbeatable Value: Why the Acer Aspire E 15 Is a Must-Have for Budget Tech Seekers</u></a></li>
+</ul></div>
+

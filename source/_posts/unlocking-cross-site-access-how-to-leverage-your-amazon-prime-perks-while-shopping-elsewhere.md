@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Cross-Site Access: How to Leverage Your Amazon Prime Perks While Shopping Elsewhere"
-date: 2024-09-18 14:13:49
-updated: 2024-09-20 12:43:49
+date: 2024-10-31T17:38:10.148Z
+updated: 2024-11-05T17:43:12.099Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -56,6 +70,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio-for-2024/"><u>[Updated] Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-borders-on-instagrams-short-films-for-2024/"><u>[Updated] Mastering Borders on Instagram's Short Films for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-next-big-thing-in-action-videos-sj7s-ultra-hd-star-4k-camera-explained/"><u>[Updated] The Next Big Thing in Action Videos? SJ7's Ultra HD Star 4K Camera Explained</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-transforming-ordinary-sessions-into-visual-extravaganzas-in-zoom/"><u>2024 Approved Transforming Ordinary Sessions Into Visual Extravaganzas in Zoom</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974762276-elevate-graphic-performance-by-updating-intel-graphics-3000-on-windows-10/"><u>Elevate Graphic Performance by Updating Intel Graphics 3000 on Windows 10.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhanced-landscaping-with-lidar-paving-the-way-to-improved-utility-services-discover-how-on-zdnet/"><u>Enhanced Landscaping with Lidar: Paving the Way to Improved Utility Services - Discover How on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-security-in-dim-spaces-the-perfect-choice-of-a-blink-floodlight/"><u>Enhancing Security in Dim Spaces: The Perfect Choice of a Blink Floodlight</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-fixes-for-players-unable-to-start-steam-games-on-windows-11/"><u>Essential Fixes for Players Unable to Start Steam Games on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-pup-accessories-top-toys-gadgets-and-exclusive-canine-services-zdnet/"><u>Essential Pup Accessories : Top Toys, Gadgets & Exclusive Canine Services | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-deal-the-almost-ideal-arlo-pro/"><u>Exclusive Deal: The Almost Ideal Arlo Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-ultimate-home-safety-navigate-through-our-choice-of-elite-video-door-knockers-2024-edition/"><u>Expert Picks for Ultimate Home Safety: Navigate Through Our Choice of Elite Video Door Knockers, 2024 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-ultimate-selection-of-2022s-finest-fire-pits-as-ranked-by-zdnet/"><u>Exploring the Ultimate Selection of 2022'S Finest Fire Pits as Ranked by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hurry-grab-the-latest-deal-on-insignia-outdoor-projectors-at-half-price-limited-time-offer/"><u>Hurry! Grab the Latest Deal on Insignia Outdoor Projectors at Half Price – Limited Time Offer!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram/"><u>In 2024, A Comprehensive List of Frames to Upgrade Your Photos on Instagram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/labor-day-deal-alert-the-ring-spotlight-cam-pro-exceeds-expectations-in-depth-analysis-and-tips-for-smart-home-security-on-zdnet/"><u>Labor Day Deal Alert: The Ring Spotlight Cam Pro Exceeds Expectations – In-Depth Analysis and Tips for Smart Home Security on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/labor-day-electronic-steals-exclusive-deal-snag-airpods-for-just-85-less-on-zdnets-top-picks/"><u>Labor Day Electronic Steals! Exclusive Deal: Snag AirPods for Just $85 Less on ZDNET's Top Picks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-steps-to-restore-windows-1011s-bluetooth-functionality/"><u>Simple Steps to Restore Windows 10/11'S Bluetooth Functionality</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-ultimate-tutorial-effortlessly-changing-heic-images-to-jpg-format-on-google-drive/"><u>The Ultimate Tutorial: Effortlessly Changing HEIC Images to JPG Format on Google Drive</u></a></li>
+</ul></div>
+

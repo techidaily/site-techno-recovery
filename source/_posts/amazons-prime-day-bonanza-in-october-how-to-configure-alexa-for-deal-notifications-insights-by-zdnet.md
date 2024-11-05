@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Prime Day Bonanza in October: How to Configure Alexa for Deal Notifications | Insights by ZDNET"
-date: 2024-09-18 17:34:40
-updated: 2024-09-20 10:59:27
+date: 2024-10-29T19:34:41.812Z
+updated: 2024-11-05T17:24:13.916Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -65,11 +72,32 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/download-x-recorder-for-pc-for-2024/"><u>Download X-Recorder for PC for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fixes-for-network-issues-reconfiguring-your-mac-system-settings/"><u>Easy Fixes for Network Issues: Reconfiguring Your Mac System Settings</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guida-completa-come-configurare-windows-7-su-un-nvme-ssd-in-tre-metodi-efficaci/"><u>Guida Completa: Come Configurare Windows 7 Su Un NVMe SSD in Tre Metodi Efficaci</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-realme-narzo-60x-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Realme Narzo 60x 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y36-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y36 Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-solutions-to-overcome-iphone-screen-mirroring-challenges/"><u>Quick Solutions to Overcome iPhone Screen Mirroring Challenges</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-childs-discord-experience-with-our-parental-control-setup-tips/"><u>Secure Your Child’s Discord Experience with Our Parental Control Setup Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-user32dll-error-a-comprehensive-guide-to-rectifying-missing-dll-files/"><u>Solving 'User32.dll' Error: A Comprehensive Guide to Rectifying Missing DLL Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-maintaining-crystal-clear-views-with-flat-panel-screens/"><u>Step-by-Step Tutorial on Maintaining Crystal Clear Views with Flat Panel Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-outstanding-disneyplus-movie-selections/"><u>The Ultimate Guide to Outstanding Disney+ Movie Selections</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-notch-tribit-bargains-unbeatable-prime-day-offers-on-speakers-and-earbuds/"><u>Top-Notch Tribit Bargains: Unbeatable Prime Day Offers on Speakers & Earbuds</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+</ul></div>
+

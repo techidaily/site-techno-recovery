@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Purchasing Ebooks on Amazon's Kindle Platform"
-date: 2024-09-18 13:45:56
-updated: 2024-09-20 12:25:20
+date: 2024-11-04T17:08:49.536Z
+updated: 2024-11-05T19:45:34.658Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -43,13 +50,34 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-efficient-utilization-of-whiteboard-features-in-zoom-meetings-for-2024/"><u>[New] Efficient Utilization of Whiteboard Features in Zoom Meetings for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/9-great-places-to-play-free-preschool-games/"><u>9 Great Places to Play Free Preschool Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-samsungs-future-tech-the-rumored-features-estimated-pricing-and-launch-date-of-the-samsung-galaxy-z-flip-7plus/"><u>Decoding Samsung's Future Tech: The Rumored Features, Estimated Pricing, and Launch Date of the Samsung Galaxy Z Flip 7+</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-auto-clicking-software-a-guide-to-5-best-choices-for-your-android-phone/"><u>Discover the Ultimate Auto-Clicking Software: A Guide to 5 Best Choices for Your Android Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevating-your-visuals-mastering-instagram-edits-in-fcpx-for-2024/"><u>Elevating Your Visuals Mastering Instagram Edits in FCPX for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-system-audio-output-fixing-quiet-computers-on-windows-10/"><u>Enhance System Audio Output: Fixing Quiet Computers on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-error-messages-when-msvcr71dll-is-nowhere-to-be-found/"><u>Fixing Error Messages: When MSVCR71.DLL Is Nowhere to Be Found</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-stuttering-glitch-in-total-war-three-kingdoms/"><u>How to Overcome the Stuttering Glitch in Total War: Three Kingdoms?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-gmail-discover-these-30-game-changing-shortcuts/"><u>Mastering Gmail: Discover These 30 Game-Changing Shortcuts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-photography-expert-advice-on-fixing-lens-focus-difficulties/"><u>Mastering iPhone Photography: Expert Advice on Fixing Lens Focus Difficulties</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-disruptions-tackling-persistent-freezes-in-warframe/"><u>Overcoming Gameplay Disruptions: Tackling Persistent Freezes in Warframe</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-7-leading-alarm-apps-on-your-phone/"><u>The Ultimate Selection: 7 Leading Alarm Apps on Your Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tier-eighth-edition-of-image-blender-tool-for-2024/"><u>Top Tier Eighth Edition of Image Blender Tool for 2024</u></a></li>
+</ul></div>
+

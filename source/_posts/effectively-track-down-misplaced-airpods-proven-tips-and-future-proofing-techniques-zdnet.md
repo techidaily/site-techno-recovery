@@ -1,7 +1,7 @@
 ---
 title: "Effectively Track Down Misplaced AirPods: Proven Tips and Future-Proofing Techniques | ZDNET"
-date: 2024-10-24T01:14:49.857Z
-updated: 2024-10-30T21:27:18.283Z
+date: 2024-11-03T17:29:29.322Z
+updated: 2024-11-05T18:47:11.862Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -54,22 +61,15 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## First morning Gmail
@@ -127,10 +127,16 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -147,19 +153,6 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -183,6 +176,13 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -196,6 +196,13 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -235,19 +242,6 @@ Notion is also available on Android and iOS as well as web platforms, so once ag
 I've set up a bunch of Notion pages and all the items that "should be on the list" but aren't actionable this week or next go onto a Notion. I regularly dig into those pages, particularly when I'm working on a corresponding project, and pull items from the page and assign them to Todoist -- but only if I intend to work on them right away, that week. 
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -298,20 +292,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-secrets-to-acquiring-free-audio-tracks-for-videos/"><u>[New] Secrets to Acquiring Free Audio Tracks for Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>[New] Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-learn-to-record-save-and-share-youtube-content-a-cost-free-approach/"><u>[Updated] 2024 Approved Learn to Record, Save, & Share YouTube Content A Cost-Free Approach</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-sealed-snap-chronicles-an-experts-guidebook/"><u>[Updated] 2024 Approved The Sealed Snap Chronicles An Expert's Guidebook</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/8-best-free-3d-video-player-for-window-and-mac/"><u>8 Best Free 3D Video Player for Window and Mac</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-5-best-travel-friendly-wi-fi-routers-of-this-year-2024-edition/"><u>Discover the 5 Best Travel-Friendly Wi-Fi Routers of This Year, 2024 Edition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x9a-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X9a</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/labor-day-sale-save-24-on-apple-airtags-grab-your-4-pack-bundle-at-walmart-techspot/"><u>Labor Day Sale: Save $24 on Apple AirTags - Grab Your 4-Pack Bundle at Walmart! | TechSpot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-google-alerts-the-ultimate-guide-to-track-trending-subjects-that-capture-your-interest/"><u>Mastering Google Alerts: The Ultimate Guide to Track Trending Subjects That Capture Your Interest</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-multi-page-navigation-a-step-by-step-guide-to-activating-scroll-wheel-on-macos-mice-insights-from-zdnet/"><u>Mastering Multi-Page Navigation: A Step-by-Step Guide to Activating Scroll Wheel on macOS Mice - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-slack-efficiency-leveraging-the-power-of-saved-items-tech-innovate/"><u>Mastering Slack Efficiency: Leveraging the Power of Saved Items | Tech Innovate</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-addressing-interviewers-queries-insights-and-tips/"><u>Mastering the Art of Addressing Interviewer's Queries - Insights & Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screenshots-essential-techniques-for-laptops-dell-lenovo-mac-zdnets-expert-advice/"><u>Mastering the Art of Screenshots: Essential Techniques for Laptops (Dell, Lenovo, Mac) | ZDNet's Expert Advice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/never-miss-another-appointment-mastering-google-calendar-alerts-for-optimal-time-management/"><u>Never Miss Another Appointment: Mastering Google Calendar Alerts for Optimal Time Management</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-maximizing-visibility-with-smart-hashtag-use-in-fb-advertising/"><u>[New] 2024 Approved Maximizing Visibility with Smart Hashtag Use in FB Advertising</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebooks-micro-video-moment-a-deep-dive-into-2023-developments/"><u>[Updated] In 2024, Facebook's Micro-Video Moment A Deep Dive Into 2023 Developments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-self-sufficiency-questioned/"><u>Auto-GPT's Self-Sufficiency Questioned</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tening-up-your-youtube-pixels/"><u>Brightening Up Your YouTube Pixels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-top-free-communication-tools-that-replace-skype/"><u>Explore the Top Free Communication Tools that Replace Skype</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-mastering-close-ups-quick-minecraft-enhancements/"><u>In 2024, Mastering Close-Ups Quick Minecraft Enhancements</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/journey-beyond-the-frantic-crafting-epic-slow-motion-content-for-instragram/"><u>Journey Beyond the Frantic Crafting Epic Slow Motion Content for Instragram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs-in-2024/"><u>Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/proven-iphone-markers-our-reviewed-top-9-water-marking-apps/"><u>Proven iPhone Markers Our Reviewed Top 9 Water-Marking Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-compelling-a-windows-system-restart-into-safe-mode/"><u>Step-by-Step Tutorial: Compelling a Windows System Restart Into Safe Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-remove-text-overlays-in-amazon-prime-video-for-a-cleaner-watch/"><u>Steps to Remove Text Overlays in Amazon Prime Video for a Cleaner Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streaming-strategies-for-the-tokyo-2024-summer-olympics-online-viewers/"><u>Streaming Strategies for the Tokyo 2024 Summer Olympics Online Viewers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-wireless-connection-errors-fixing-not-connected-to-network-messages-in-samsung-phones/"><u>Troubleshooting Wireless Connection Errors: Fixing 'Not Connected to Network' Messages in Samsung Phones</u></a></li>
 </ul></div>
 

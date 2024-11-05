@@ -1,7 +1,7 @@
 ---
 title: Holiday Bargains Await! Discover 5 Google Tricks for Snagging Deals as Revealed by Experts at ZDNet
-date: 2024-09-19 11:56:20
-updated: 2024-09-20 11:58:50
+date: 2024-10-31T17:12:04.818Z
+updated: 2024-11-05T21:35:30.619Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -75,9 +89,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-designing-dynamic-podcast-preambles/"><u>[New] 2024 Approved Designing Dynamic Podcast Preambles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elevate-your-brand-with-these-10-keywords-on-facebook/"><u>[New] 2024 Approved Elevate Your Brand with These 10 Keywords on Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-pitch-perfect-promos-mastering-the-art-of-music-in-social-media-for-2024/"><u>[Updated] Pitch-Perfect Promos Mastering the Art of Music in Social Media for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crucial-9-faqs-for-every-electric-car-shopper/"><u>Crucial 9 FAQs for Every Electric Car Shopper</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-enhancements-required-for-apple-vision-pros-successful-market-penetration-insights-from-zdnet/"><u>Essential Enhancements Required for Apple Vision Pro's Successful Market Penetration: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-savings-hunt-for-the-finest-apple-watch-offers-now/"><u>Exclusive Savings: Hunt for the Finest Apple Watch Offers Now!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-g42-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia G42 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-archival-access-a-guide-to-utilizing-the-wayback-machine/"><u>Mastering Archival Access: A Guide to Utilizing The Wayback Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-music-insertion-on-instagram-visual-stories-and-posts/"><u>Mastering Music Insertion on Instagram Visual Stories and Posts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-isnt-my-iphone-email-syncing-correctly/"><u>Solving the Issue: Why Isn't My iPhone Email Syncing Correctly?</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-11-touchscreen-problems-try-these-five-fixes/"><u>Solving Windows 11 Touchscreen Problems? Try These Five Fixes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-guide-to-choosing-from-15-exceptional-freeware-uninstallers/"><u>The Definitive Guide to Choosing From 15 Exceptional Freeware Uninstallers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-15-best-free-uninstallers-you-should-try-today/"><u>Top 15 Best Free Uninstallers You Should Try Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-facebook-unveiling-its-beginnings-popularity-and-main-attributes/"><u>Understanding Facebook: Unveiling Its Beginnings, Popularity, and Main Attributes</u></a></li>
+</ul></div>
+

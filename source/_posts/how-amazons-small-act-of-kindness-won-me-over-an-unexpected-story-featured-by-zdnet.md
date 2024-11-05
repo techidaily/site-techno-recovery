@@ -1,7 +1,7 @@
 ---
 title: "How Amazon's Small Act of Kindness Won Me Over: An Unexpected Story Featured by ZDNET"
-date: 2024-09-17 18:30:11
-updated: 2024-09-20 10:13:31
+date: 2024-11-02T19:07:54.927Z
+updated: 2024-11-05T19:48:26.717Z
 tags:
   - e-commerce
 categories:
@@ -69,15 +69,43 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,25 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-accelerate-vimeo-videos-the-guide/"><u>[New] Accelerate Vimeo Videos The Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-financial-scale-of-mr-beast/"><u>[New] The Financial Scale of Mr. Beast</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ultimate-expedition-free-pics-across-the-internet-for-2024/"><u>[New] Ultimate Expedition Free Pics Across the Internet for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-visual-narratives-with-youtube-studios-editing-suite-for-2024/"><u>[Updated] Crafting Visual Narratives with YouTube Studio's Editing Suite for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-simplicity-in-capturing-your-lenovo-pics/"><u>[Updated] In 2024, Simplicity in Capturing Your Lenovo Pics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-every-game-you-must-play-on-ps5-exclusively/"><u>Discover Every Game You Must Play on PS5, Exclusively!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fixes-for-when-steamdll-goes-mia-no-more-error-messages/"><u>Easy Fixes for When Steam.dll Goes MIA – No More Error Messages!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/rediscovering-previous-business-networking-events-on-facebook/"><u>Rediscovering Previous Business Networking Events on Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-adding-fubotv-to-your-firestick-viewing-options/"><u>Step-by-Step Tutorial for Adding FuboTV to Your Firestick Viewing Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-on-using-an-alternate-dongle-with-your-logitech-wireless-mouse/"><u>The Ultimate Tutorial on Using an Alternate Dongle With Your Logitech Wireless Mouse</u></a></li>
+</ul></div>
+

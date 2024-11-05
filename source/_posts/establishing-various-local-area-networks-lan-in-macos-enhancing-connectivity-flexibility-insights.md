@@ -1,7 +1,7 @@
 ---
 title: "Establishing Various Local Area Networks (LAN) in macOS: Enhancing Connectivity Flexibility - Insights"
-date: 2024-10-28T20:34:29.537Z
-updated: 2024-10-30T23:31:17.270Z
+date: 2024-10-31T17:37:02.254Z
+updated: 2024-11-05T19:59:52.884Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -61,16 +54,16 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -88,13 +81,6 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -104,13 +90,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -155,13 +134,6 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -183,6 +155,13 @@ In this way, I can power through my inbox, responding, assigning to to-do items,
 Now, to be fair, I have a slight email fetish, so I do check back in to my inbox, once or twice (or 20 or 30 times) a day. But now that my inbox is generally clean and empty, that practice doesn't have much to grab onto, and it's only a waste of a second or two. 
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
 
@@ -237,11 +216,25 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -256,6 +249,13 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -286,17 +286,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlock-your-creativity-with-these-under-1k-4k-cameras/"><u>[New] In 2024, Unlock Your Creativity with These Under-$1k 4K Cameras</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-ultimate-funny-photo-editor/"><u>[New] Ultimate Funny Photo Editor</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-top-free-sources-discovering-copyright-free-soundtracks/"><u>2024 Approved The Top Free Sources Discovering Copyright-Free Soundtracks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anker-unveils-new-eco-friendly-ganprime-power-solutions-for-rapid-and-secure-device-charging-exploring-the-advances-at-zdnet/"><u>Anker Unveils New Eco-Friendly GaNPrime Power Solutions for Rapid & Secure Device Charging - Exploring the Advances at ZDNet</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/comprehensible-guide-to-swapping-facial-gender-in-snapchat-images-for-2024/"><u>Comprehensible Guide to Swapping Facial Gender in Snapchat Images for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/discovering-androids-premier-mobas-ranked-in-2024/"><u>Discovering Android's Premier MOBAs Ranked, In 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/impact-of-duplicate-email-actions-on-google-mails-memory-usage/"><u>Impact of Duplicate Email Actions on Google Mail's Memory Usage</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-proplus-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro+ 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-google-search-top-strategies-for-finding-exact-results-quickly-zdnet-insights/"><u>Mastering Google Search: Top Strategies for Finding Exact Results Quickly | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-academic-success-how-gemini-ai-helps-university-scholars-stay-on-track-insights-from-zdnet/"><u>Maximize Academic Success: How Gemini AI Helps University Scholars Stay On Track - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfectly-pitched-headlines-maker/"><u>Perfectly Pitched Headlines Maker</u></a></li>
-<li><a href="https://extra-information.techidaily.com/wisdom-warriors-top-11-trivia-videos/"><u>Wisdom Warriors' Top 11 Trivia Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-shut-down-instagram-suggestions/"><u>[Updated] 2024 Approved Shut Down Instagram Suggestions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-rgb-to-srgb-understanding-color-transition/"><u>[Updated] From Rgb to Srgb Understanding Color Transition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-samsung-galaxy-z-fold-6-get-the-lowdown-on-costs-launch-date-and-advanced-specs/"><u>All About Samsung Galaxy Z Fold 6: Get the Lowdown on Costs, Launch Date, and Advanced Specs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-tips-for-concealing-phone-details-from-the-public-eye/"><u>Android Tips for Concealing Phone Details From the Public Eye</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capturing-every-moment-an-overview-of-apowersofts-screenshot-tool/"><u>Capturing Every Moment An Overview of Apowersoft's Screenshot Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-and-most-effective-android-watch-apps/"><u>Essential and Most Effective Android Watch Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-best-8-mobile-apps-for-trip-planning-enthusiasts/"><u>Explore the Best 8 Mobile Apps for Trip Planning Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-communication-apple-bolsters-imessage-security-for-upcoming-challenges/"><u>Future-Proofing Communication: Apple Bolsters iMessage Security for Upcoming Challenges</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-superior-asmr-video-curation/"><u>In 2024, Superior ASMR Video Curation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synergy-of-enterprises-and-immersive-virtual-worlds/"><u>In 2024, Synergy of Enterprises and Immersive Virtual Worlds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-update-version-1751-fixes-weird-glitch-bringing-back-archived-images-tech-insights-zdnet/"><u>IOS Update Version 17.5.1 Fixes Weird Glitch Bringing Back Archived Images - Tech Insights | ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-3-wont-start-heres-how-to-get-the-game-running-again/"><u>Modern Warfare 3 Won't Start? Here's How to Get the Game Running Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smartphone-showdown-pixel-9xl-vs-iphone-15-pro-battle-of-the-cameras-reveals-unexpected-victor/"><u>Smartphone Showdown: Pixel 9XL Vs. IPhone 15 Pro Battle of the Cameras Reveals Unexpected Victor!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-a-guide-on-resolving-msvcrtdll-file-missing-issues/"><u>Solving the Mystery: A Guide on Resolving MSVCRT.DLL File Missing Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y56-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y56 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/542229-9781439177426-the-sacred-promise/"><u>The Sacred Promise | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-face-swapping-features-the-hidden-trick-to-transform-your-apple-watch-selfies-insights/"><u>Unlocking Face-Swapping Features: The Hidden Trick to Transform Your Apple Watch Selfies - Insights</u></a></li>
 </ul></div>
 

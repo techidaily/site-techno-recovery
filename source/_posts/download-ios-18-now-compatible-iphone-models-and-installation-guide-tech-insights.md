@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18 Now: Compatible iPhone Models and Installation Guide | Tech Insights"
-date: 2024-10-24T20:12:46.562Z
-updated: 2024-10-30T17:17:54.802Z
+date: 2024-10-30T21:53:35.910Z
+updated: 2024-11-05T22:04:59.120Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -47,15 +47,22 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -64,25 +71,11 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -108,6 +101,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -169,18 +169,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-chaptered-cinema-the-essential-guide-to-vimeo-editing/"><u>[New] In 2024, Chaptered Cinema The Essential Guide to Vimeo Editing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/id-melody-manual-best-free-youtube-downloader-tools-for-2024/"><u>Android Melody Manual Best Free YouTube Downloader Tools for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-productivity-with-gmails-quick-text-expansion-avoid-errors-and-spare-yourself-hours-of-writing-techradar/"><u>Boost Productivity with Gmail's Quick Text Expansion: Avoid Errors and Spare Yourself Hours of Writing | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-right-device-chromebook-or-laptop-find-what-suits-you-best/"><u>Choosing the Right Device: Chromebook or Laptop - Find What Suits You Best</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-the-latest-tech-is-it-time-to-upgrade-from-pixel-6-to-pixel/"><u>Comparing the Latest Tech: Is It Time to Upgrade From Pixel 6 to Pixel 🧐?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-analysis-on-unihertz-titan-slim-by-zdnet-in-depth-product-reveal/"><u>Expert Analysis on Unihertz Titan Slim by ZDNET – In-Depth Product Reveal</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-offline-navigation-on-wearos-devices-can-you-use-google-maps-tech-insights/"><u>Exploring Offline Navigation on WearOS Devices - Can You Use Google Maps? | Tech Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/incremental-movie-moment/"><u>Incremental Movie Moment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-the-upgrade-from-samsung-galaxy-s22-ultra-to-s23-ultra-significant-enough-worth-switching-this-year-cnet-analysis/"><u>Is the Upgrade From Samsung Galaxy S22 Ultra to S23 Ultra Significant Enough Worth Switching This Year? | CNET Analysis</u></a></li>
-<li><a href="https://win-blog.techidaily.com/latest-fixes-for-xbox-one-lag-issues-in-call-of-duty-black-ops-cold-war-2024-patch/"><u>Latest Fixes for Xbox One Lag Issues in Call of Duty: Black Ops Cold War - 2024 Patch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722900866193-make-sure-you-dont-miss-calls-how-to-get-iphones-ringing-properly-again/"><u>Make Sure You Don’t Miss Calls: How to Get iPhones Ringing Properly Again!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-ringtone-retailers-for-game-of-thrones-fans-for-2024/"><u>Prime Ringtone Retailers for Game of Thrones Fans for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/wsappx-explained-effectively-addressing-high-disk-space-and-cpu-demands/"><u>WSAPPX Explained: Effectively Addressing High Disk Space and CPU Demands</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-key-approaches-converting-visual-content-on-pinterest-to-audio/"><u>[Updated] In 2024, Key Approaches Converting Visual Content on Pinterest To Audio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-tutorial-exploiting-googles-automatic-transcription-features-for-2024/"><u>Advanced Tutorial Exploiting Google's Automatic Transcription Features for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazing-deal-get-your-high-quality-wireless-magnetic-charger-for-iphones-at-only-35-shop-now/"><u>Amazing Deal: Get Your High-Quality Wireless Magnetic Charger For iPhones At Only $35 - Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessing-the-limitations-a-closer-look-at-samsung-and-ubreakifixs-insufficient-partnership/"><u>Assessing the Limitations: A Closer Look at Samsung and uBreakiFix's Insufficient Partnership</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/buy-these-three-in-demand-apple-gadgets-post-wwdc-availability-and-preorder-links-revealed-techcrunch/"><u>Buy These Three In-Demand Apple Gadgets Post-WWDC – Availability and Preorder Links Revealed! | TechCrunch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compact-computing-giants-the-ultimate-list-of-portable-gaming-machines/"><u>Compact Computing Giants: The Ultimate List of Portable Gaming Machines</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-techniques-for-incorporating-alternate-shots/"><u>Creative Techniques for Incorporating Alternate Shots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dell-pc-refresh-a-complete-guide-to-clearing-and-reinstalling-operating-systems/"><u>Dell PC Refresh: A Complete Guide to Clearing and Reinstalling Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-lenovo-thinkpad-t430-drivers-for-your-windows-system-windows-11-n-8-and-7-a-user-friendly-download-guide/"><u>Fresh Lenovo ThinkPad T430 Drivers for Your Windows System [Windows 11, N 8 & 7]: A User-Friendly Download Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlock-the-secret-to-harmonious-insta-story-posts/"><u>In 2024, Unlock the Secret to Harmonious Insta Story Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-best-1980s-film-gems-on-screen/"><u>Navigating the Best 1980S Film Gems on Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-wallet-reviews-comprehensive-testing-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Wallet Reviews - Comprehensive Testing by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-an-adorable-video-for-your-babys-first-year/"><u>Updated How to Make an Adorable Video for Your Babys First Year</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-disrupted-no-graphics-available/"><u>Visual Output Disrupted: No Graphics Available</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-review-why-this-iphone-case-outshines-with-more-than-just-a-physical-keyboard/"><u>ZDNet Review: Why This iPhone Case Outshines with More Than Just a Physical Keyboard</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/samye-populyarnye-agentstva-po-optimizacii-dlya-poiskovyh-sistem-v-lissabone-povyste-svoj-internet-avtoritet-s-ispolzovaniem-seo-powersuite/"><u>Самые Популярные Агентства По Оптимизации Для Поисковых Систем В Лиссабоне – Повысьте Свой Интернет-Авторитет С Использованием SEO PowerSuite</u></a></li>
 </ul></div>
 

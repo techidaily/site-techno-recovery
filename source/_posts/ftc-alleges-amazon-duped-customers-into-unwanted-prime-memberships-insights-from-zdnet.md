@@ -1,7 +1,7 @@
 ---
 title: FTC Alleges Amazon Duped Customers Into Unwanted Prime Memberships - Insights From ZDNet
-date: 2024-09-18 23:18:59
-updated: 2024-09-20 11:40:56
+date: 2024-11-03T19:56:33.650Z
+updated: 2024-11-05T19:15:01.215Z
 tags:
   - e-commerce
 categories:
@@ -45,11 +45,25 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -65,6 +79,19 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-watch-twitter-videos-in-full-hd/"><u>[New] 2024 Approved How To Watch Twitter Videos in Full HD?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-trailblazing-towards-top-instagram-minds-a-niche-journey/"><u>[Updated] 2024 Approved Trailblazing Towards Top Instagram Minds A Niche Journey</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-cozy-adventure-through-minecrafts-campfire-tales-the-ultimate-skin-pack-guide/"><u>A Cozy Adventure Through Minecraft's Campfire Tales - The Ultimate Skin Pack Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-the-d3d-initialization-fault-errgfxd3dinit-for-a-smooth-gta-v-experience/"><u>Bypassing the D3D Initialization Fault (ERR_GFX_D3D_INIT) for a Smooth GTA V Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-nvme-drives-on-windows-driver-setup-tutorial/"><u>Easy Installation of NVMe Drives on Windows - Driver Setup Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-achieve-viral-success-a-guide-with-eight-key-tactics-for-youtube/"><u>How to Achieve Viral Success: A Guide with Eight Key Tactics for YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-usb-tethering-issues-on-android-and-pc/"><u>How To Fix USB Tethering Issues On Android and PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reestablish-internet-access-fixing-wi-fi-on-the-microsoft-surface-pro/"><u>How to Reestablish Internet Access: Fixing Wi-Fi on the Microsoft Surface Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-x9b-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor X9b Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-13-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 13 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-unveiling-the-technical-marvels-of-dji-inspire-2/"><u>In 2024, Unveiling the Technical Marvels of DJI Inspire 2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-real-time-navigation-a-guide-to-using-google-maps-live-view/"><u>Mastering Real-Time Navigation: A Guide to Using Google Maps Live View</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-vocal-visions-utilizing-your-iphone-as-an-audio-identifier-tool/"><u>New Vocal Visions Utilizing Your iPhone as an Audio Identifier Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-network-not-found-issue-on-your-samsung-smartphone/"><u>Solving the 'Network Not Found' Issue on Your Samsung Smartphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-zero-results-enhancing-your-presence-on-bumble/"><u>Troubleshooting Zero Results: Enhancing Your Presence on Bumble</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unblocking-trustedinstaller-permissions-in-windows-11-a-step-by-step-guide/"><u>Unblocking TrustedInstaller Permissions in Windows 11 - A Step-by-Step Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "How Southwest Airlines' Innovative Technology Strategy Took You by Surprise: An Insightful Look at Their Latest Move - ZDNet"
-date: 2024-09-17 21:25:38
-updated: 2024-09-20 12:50:33
+date: 2024-10-29T18:07:08.895Z
+updated: 2024-11-05T18:50:06.629Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,19 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,15 +82,36 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-the-highest-rated-conference-recorders/"><u>[New] In 2024, The Ultimate Guide to the Highest Rated Conference Recorders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-elevate-your-reels-add-sound-for-impactful-storytelling/"><u>[Updated] In 2024, Elevate Your Reels Add Sound for Impactful Storytelling</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pencil-inspired-design-patented-for-vision-pro-controller-a-closer-look-revealed-on-zdnet/"><u>Apple Pencil-Inspired Design Patented for Vision Pro Controller: A Closer Look Revealed on ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05s-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05s Phone FRP Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-update-made-easy-unlocking-the-potential-of-ios-18-eligible-models-and-download-instructions/"><u>IPhone Update Made Easy: Unlocking the Potential of iOS 18 – Eligible Models and Download Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-apple-watch-longevity-with-these-easy-adjustments-to-power-consumption-settings/"><u>Maximize Apple Watch Longevity with These Easy Adjustments to Power Consumption Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/momentum-meets-mass-audience/"><u>Momentum Meets Mass Audience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-picture-in-picture-on-safaris-ecosystem-for-2024/"><u>Navigating Picture-in-Picture on Safari's Ecosystem for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-optimizing-your-slow-internet-speed/"><u>Quick Fixes for Optimizing Your Slow Internet Speed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-galaxy-ai-growth-dominates-as-google-faces-antitrust-challenges-in-latest-tech-rankings-insight/"><u>Samsung’s Galaxy AI Growth Dominates as Google Faces Antitrust Challenges in Latest Tech Rankings - Insight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-ways-apples-ai-must-evolve-to-challenge-openai-and-google-insights/"><u>Top 10 Ways Apple's AI Must Evolve to Challenge OpenAI & Google: Insights</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-s23-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - S23</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limitations-why-generative-ai-might-not-fit-with-chat-applications/"><u>Understanding the Limitations: Why Generative AI Might Not Fit with Chat Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-new-levels-of-performance-the-impact-of-photochromic-glasses-on-my-biking-adventure-zdnet-insights/"><u>Unlocking New Levels of Performance: The Impact of Photochromic Glasses on My Biking Adventure | ZDNET Insights</u></a></li>
+</ul></div>
+

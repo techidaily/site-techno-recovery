@@ -1,7 +1,7 @@
 ---
 title: Asia Paves the Way for a $1.6T Surge in Cashless Transactions - Insights From ZDNet
-date: 2024-09-18 14:49:56
-updated: 2024-09-20 11:49:28
+date: 2024-10-31T21:08:36.725Z
+updated: 2024-11-05T20:43:55.911Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-secrets-of-effective-powerpoint-presentation-recordings/"><u>[New] Secrets of Effective PowerPoint Presentation Recordings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-ten-capture-hardware-rankings-for-professional-streamers/"><u>[Updated] In 2024, Top Ten Capture Hardware Rankings for Professional Streamers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-through-the-essentials-of-snap-camera-on-ms-teams-for-2024/"><u>[Updated] Navigating Through the Essentials of Snap Camera on MS Teams for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/designing-an-editorial-epilogue-for-2024/"><u>Designing an Editorial Epilogue for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-the-absolute-deviations-from-the-mean-7-118-9-118-14-118-20-118-8-118-13-118/"><u>Find the Absolute Deviations From the Mean: $|7 - 11.8|, |9 - 11.8|, |14 - 11.8|, |20 - 11.8|, |8 - 11.8|, |13 - 11.8|$</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-the-latest-iphone-12-enhances-wireless-power-with-new-qi2-technology-independent-of-magsafe-exclusive-coverage/"><u>How the Latest iPhone 12 Enhances Wireless Power with New Qi2 Technology, Independent of MagSafe | Exclusive Coverage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 6?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-time-to-panic-investigating-current-status-of-nintendo-switch-online/"><u>Is It Time to Panic? Investigating Current Status of Nintendo Switch Online.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-unveiled-how-the-ipad-pros-tandem-oled-paves-the-way-for-next-gen-screen-tech-digitalfrontier/"><u>The Future Unveiled: How the iPad Pro’s Tandem OLED Paves the Way for Next-Gen Screen Tech | DigitalFrontier</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-major-error-in-the-latest-ipad-release-and-steps-for-apples-remediation-insights/"><u>The Major Error in the Latest iPad Release and Steps for Apple's Remediation - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-guide-solving-your-disc-drives-refusal-to-open/"><u>Ultimate Troubleshooting Guide: Solving Your Disc Drive's Refusal to Open</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unboxing-the-future-the-latest-ipad-pro-and-air-models-set-to-launch-in-may-gadget-innovations-roundup/"><u>Unboxing the Future: The Latest iPad Pro and Air Models Set to Launch in May | Gadget Innovations Roundup</u></a></li>
+</ul></div>
+

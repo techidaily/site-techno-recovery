@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Unveils His Views on Artificial Intelligence and Rust in Modern Computing, Spotlighting the Heartbeat of Technology - The Linux Kernel | ZDNET
-date: 2024-09-17 20:13:10
-updated: 2024-09-20 11:32:21
+date: 2024-11-03T20:11:35.140Z
+updated: 2024-11-05T18:05:00.687Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +73,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-prime-video-plus-comprehensive-live-channel-access/"><u>[New] 2024 Approved Prime Video Plus Comprehensive Live Channel Access</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-windows-10-camera-software-review-top-10/"><u>[New] 2024 Approved Ultimate Windows 10 Camera Software Review - Top 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-unseen-tactics-to-dodge-facebook-shunning-for-2024/"><u>[New] The Unseen Tactics to Dodge Facebook Shunning for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-achieve-perfect-youtube-broadcasts-with-superior-webcams-for-2024/"><u>[Updated] Achieve Perfect YouTube Broadcasts with Superior Webcams for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-next-frontier-in-technological-application/"><u>2024 Approved The Next Frontier in Technological Application</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundwork-for-motion-visual-storytelling-for-2024/"><u>Groundwork for Motion Visual Storytelling for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-activate-auto-hdr-setting-in-windows-11/"><u>How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-accessibility-options-how-to-control-the-virtual-keyboard-in-windows-10/"><u>Mastering Accessibility Options: How to Control the Virtual Keyboard in Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-rid-of-filmora-watermark-with-or-without-subscription/"><u>New In 2024, Get Rid of Filmora Watermark With or Without Subscription</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-syncing-google-photos-with-icloud/"><u>Seamless Integration: Syncing Google Photos with iCloud</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-d3dx928dll-file-not-detected-issues/"><u>Solutions for Resolving d3dx9_28.dll File Not Detected Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-viewing-the-lord-of-the-rings-films-sequence-wise/"><u>The Ultimate Guide: Viewing 'The Lord of the Rings' Films Sequence-Wise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-what-to-do-when-you-cant-find-ocidll/"><u>Troubleshooting Tips: What to Do When You Can't Find Oci.Dll?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-ac1st16dll-missing-file-issues/"><u>Ultimate Guide: Resolving ac1st16.dll Missing File Issues</u></a></li>
+</ul></div>
+

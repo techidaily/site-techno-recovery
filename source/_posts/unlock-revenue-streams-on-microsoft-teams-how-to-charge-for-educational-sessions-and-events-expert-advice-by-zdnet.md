@@ -1,7 +1,7 @@
 ---
 title: "Unlock Revenue Streams on Microsoft Teams: How to Charge for Educational Sessions and Events | Expert Advice by ZDNet"
-date: 2024-09-19 18:10:44
-updated: 2024-09-20 11:10:51
+date: 2024-10-30T17:20:10.678Z
+updated: 2024-11-05T18:52:38.970Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/hoosing-streaming-giants-vimeo-youtube-or-dailymotion-for-2024/"><u>[New] Choosing Streaming Giants Vimeo, YouTube, or DailyMotion for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-tier-mac-recorder-feature-visuals-and-voices/"><u>[New] In 2024, Top-Tier Mac Recorder Feature Visuals & Voices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-expert-insights-on-optimal-fpv-drone-blades/"><u>[Updated] In 2024, Expert Insights on Optimal FPV Drone Blades</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-best-of-the-brainless-top-zombie-game-sweepstakes/"><u>2024 Approved The Best of the Brainless Top Zombie Game Sweepstakes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity/"><u>2024 Approved The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-itel-p40-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Itel P40 to Roku | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-and-practical-discover-the-hidden-value-of-this-xr-gaming-community-on-zdnet/"><u>Affordable & Practical: Discover the Hidden Value of This XR Gaming Community on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ai-powered-innovation-at-stanford-replaces-bulky-vr-gear-with-seamless-experience/"><u>AI-Powered Innovation at Stanford Replaces Bulky VR Gear with Seamless Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/augmented-reality-experience-a-100-inch-display-on-your-own-ar-laptop-without-an-external-monitorzdnet/"><u>Augmented Reality: Experience a 100-Inch Display on Your Own AR Laptop without an External Monitor![ZDNet]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/default-inclusion-of-iphone-and-ipad-applications-in-apples-vision-pro-marketplace-zdnet-insights/"><u>Default Inclusion of iPhone & iPad Applications in Apple's Vision Pro Marketplace - ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-htcs-vision-of-the-metaverse-a-cost-free-guide-zdnet/"><u>Discovering HTC's Vision of the Metaverse - A Cost-Free Guide | ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dji-phantom-4-deep-dive-comprehensive-insights-and-reviews/"><u>DJI Phantom 4 Deep Dive Comprehensive Insights & Reviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-dream-laptop-in-july-2astock-the-hottest-deals-and-discounts-techsavvy-by-zdnet/"><u>Find Your Dream Laptop in July 2Astock: The Hottest Deals and Discounts | TechSavvy by ZDNet</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-deployment-of-digital-twins-tackling-business-hurdles-effectively-zdnet/"><u>Mastering the Deployment of Digital Twins: Tackling Business Hurdles Effectively | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-connectivity-tips-on-syncing-airpods-with-quest-3-wirelessly-the-courteous-guide/"><u>Seamless Connectivity: Tips on Syncing AirPods with Quest 3 Wirelessly – The Courteous Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-vision-pro-update-may-include-respiratory-pattern-analysis-says-zdnet-report/"><u>Upcoming Apple Vision Pro Update May Include 'Respiratory Pattern Analysis', Says ZDNet Report</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/virtual-reality-and-digital-twin-technology-revolutionizing-distance-collaboration-in-tech-jobs-insights-from-zdnet/"><u>Virtual Reality & Digital Twin Technology: Revolutionizing Distance Collaboration in Tech Jobs - Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-nokia-g310-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Nokia G310? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

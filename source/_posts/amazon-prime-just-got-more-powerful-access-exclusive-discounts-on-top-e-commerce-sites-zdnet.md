@@ -1,7 +1,7 @@
 ---
 title: "Amazon Prime Just Got More Powerful: Access Exclusive Discounts on Top E-Commerce Sites | ZDNet"
-date: 2024-09-18 12:21:50
-updated: 2024-09-20 11:21:51
+date: 2024-10-29T20:50:54.669Z
+updated: 2024-11-05T19:08:24.513Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -79,6 +100,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I have to cancel my current account to get Prime Student? 
 
 No, you do not have to cancel or deactivate your account. Just [use this link](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1)to transfer your account. Your current benefits, however, may change. For example, if you currently have a 20% discount on home appliances, that may be revoked in place of the other perks. 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-navigate-with-ease-best-7-android-browsers-without-pop-ups/"><u>[New] 2024 Approved Navigate With Ease Best 7 Android Browsers Without Pop-Ups</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ideal-fps-levels-in-slow-motion-cinema/"><u>[New] Ideal FPS Levels in Slow Motion Cinema</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-wintvcapture-learn-the-art-of-free-screen-recording-for-2024/"><u>[New] WinTVCapture Learn the Art of Free Screen Recording for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-hack-free-guide-to-anonymous-instagram-story-viewing/"><u>[Updated] 2024 Approved Hack-Free Guide to Anonymous Instagram Story Viewing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-sustainable-traffic-growth-ethical-video-marketing-tips-for-2024/"><u>[Updated] Sustainable Traffic Growth Ethical Video Marketing Tips for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210266250-9781644112328-aleister-crowley-in-england/"><u>Aleister Crowley in England | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoid-unwanted-macbook-sleep-expert-advice-on-keeping-it-awake-with-a-closed-cover/"><u>Avoid Unwanted MacBook Sleep: Expert Advice on Keeping It Awake with a Closed Cover</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-differences-between-ipad-pro-and-macbook-air-for-tech-enthusiasts/"><u>Decoding Differences Between IPad Pro and MacBook Air for Tech Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-solving-the-issue-of-empty-screens-after-powering-up-computers/"><u>Diagnosing and Solving the Issue of Empty Screens After Powering Up Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-employing-measurement-apps-on-android-smartphones-and-tablets/"><u>Effective Techniques for Employing Measurement Apps on Android Smartphones and Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-android-lifestyle-with-these-essential-smartwatch-app-picks/"><u>Elevate Your Android Lifestyle with These Essential Smartwatch App Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-mastering-the-art-of-spoofing-gps-coordinates-on-mobile-devices/"><u>Guide: Mastering the Art of Spoofing GPS Coordinates on Mobile Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-se-2022-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone SE (2022) The Right Way</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-15-effective-ways-to-restrict-access-to-youtube-throughout-an-ipad/"><u>IOS 15: Effective Ways to Restrict Access to YouTube Throughout an iPad</u></a></li>
+<li><a href="https://solve-info.techidaily.com/sofia-tarasova-expert-collaborator-in-randd-and-product-innovation/"><u>Sofia Tarasova - Expert Collaborator in R&D & Product Innovation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-8-websites-for-tracking-down-people/"><u>The Best 8 Websites for Tracking Down People</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-from-apple-all-the-latest-buzz-on-pricing-arrival-date-and-specs-for-the-apple-ring/"><u>The Next Big Thing From Apple? All the Latest Buzz on Pricing, Arrival Date & Specs for the Apple Ring</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-best-free-music-streaming-applications-for-android-and-ios-devices/"><u>Top 7 Best Free Music Streaming Applications for Android & iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-factors-driving-apple-vision-pro-returns-insights-from-reddit-discussions-uncovered-by-zdnet/"><u>Top 7 Factors Driving Apple Vision Pro Returns: Insights From Reddit Discussions Uncovered by ZDNet</u></a></li>
+</ul></div>
+

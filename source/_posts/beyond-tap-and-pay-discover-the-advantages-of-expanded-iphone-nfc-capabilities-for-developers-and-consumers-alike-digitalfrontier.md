@@ -1,7 +1,7 @@
 ---
 title: "Beyond Tap & Pay: Discover the Advantages of Expanded iPhone NFC Capabilities for Developers and Consumers Alike | DigitalFrontier"
-date: 2024-09-19 12:42:47
-updated: 2024-09-20 12:24:51
+date: 2024-11-04T20:16:18.398Z
+updated: 2024-11-05T20:18:27.783Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -65,9 +79,29 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +138,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-tips-how-to-avoid-the-8-deadliest-youtube-dos-and-donts-for-newbies/"><u>[Updated] Top Tips How to Avoid the 8 Deadliest YouTube Dos and Don'ts for Newbies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-techniques-for-syncing-b-roll-with-main-shots/"><u>2024 Approved Advanced Techniques for Syncing B-Roll with Main Shots</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-6-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 6 to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/brilliant-illumination-awaits-discover-the-unmatched-brightness-of-latest-govee-outdoor-lights-zdnet/"><u>Brilliant Illumination Awaits: Discover the Unmatched Brightness of Latest Govee Outdoor Lights | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-bikesuv-shift-gears-from-pedal-power-to-replace-your-daily-commute-car-a-closer-look-at-sustainability-on-the-go-innovative-transit-weekly/"><u>Can 'BikeSUV' Shift Gears From Pedal Power to Replace Your Daily Commute Car? A Closer Look at Sustainability on the Go | Innovative Transit Weekly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-the-sale-click-and-grow-indoor-gardens-at-an-unbelievable-55-discount-on-prime-day-now-sold-out/"><u>Catch the Sale! Click & Grow Indoor Gardens at an Unbelievable 55% Discount on Prime Day - Now Sold Out!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/celebration-on-the-red-planet-a-century-of-singing-machines-honors-mars-exploration/"><u>Celebration on the Red Planet: A Century of Singing Machines Honors Mars Exploration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/conquer-heat-and-win-discover-how-this-android-beast-eclipses-iphones-features-with-incredible-temperature-resistance/"><u>Conquer Heat and Win: Discover How This Android Beast Eclipses iPhone's Features with Incredible Temperature Resistance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/customize-with-confidence-google-pixel-tunes/"><u>Customize with Confidence Google Pixel Tunes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-premier-movies-on-disneyplus-for-immediate-enjoyment/"><u>Discover the Premier Movies on Disney+ for Immediate Enjoyment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-web-based-converter-change-mp4-files-to-ogg-format-instantly/"><u>Free Web-Based Converter: Change MP4 Files to Ogg Format Instantly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-spark-20c-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Spark 20C?</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-video-generator-in-2024/"><u>Updated What Is an AI Video Generator, In 2024</u></a></li>
+</ul></div>
+

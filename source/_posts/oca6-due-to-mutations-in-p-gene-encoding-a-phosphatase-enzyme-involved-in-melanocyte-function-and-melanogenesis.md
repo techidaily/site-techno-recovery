@@ -1,7 +1,7 @@
 ---
 title: OCA6 - Due to Mutations in P Gene Encoding a Phosphatase Enzyme Involved in Melanocyte Function and Melanogenesis.
-date: 2024-09-17 21:37:36
-updated: 2024-09-20 10:44:11
+date: 2024-11-01T17:01:26.532Z
+updated: 2024-11-05T17:16:57.323Z
 tags:
   - e-commerce
 categories:
@@ -28,6 +28,19 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 **Also: [The best early Amazon Prime Day 2024 deals](https://www.zdnet.com/article/best-early-amazon-prime-day-2024-deals/)**
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who is eligible for a Prime Student membership? 
 
@@ -57,6 +70,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -75,9 +95,29 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +144,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-video-watch-counts-youtubes-historical-list/"><u>[New] In 2024, Top Video Watch Counts YouTube's Historical List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-ai-editmaster-for-stunning-images/"><u>[New] Pinnacle AI EditMaster for Stunning Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ultimate-seal-on-immersive-odyssey/"><u>[Updated] In 2024, Ultimate Seal on Immersive Odyssey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-discover-how-to-experience-apples-revolutionary-3d-spatial-videos-on-your-meta-quest-3-a-step-by-step-guide/"><u>1. Discover How to Experience Apple's Revolutionary 3D Spatial Videos on Your Meta Quest 3: A Step-by-Step Guide!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-groundbreaking-vision-pro-labs-leave-developers-in-awe-reports-zdnet/"><u>Apple's Groundbreaking Vision Pro Labs Leave Developers in Awe, Reports ZDNET</u></a></li>
+<li><a href="https://article-helps.techidaily.com/capture-vision-add-movie-maker-to-your-win11-media-suite/"><u>Capture Vision Add Movie Maker to Your Win11 Media Suite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crucial-safety-alerts-as-apple-gears-up-to-release-next-gen-arvr-device-insights-from-zdnet/"><u>Crucial Safety Alerts as Apple Gears Up to Release Next-Gen AR/VR Device – Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-x8b-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor X8b to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210845561-9781088143278-manifesting-your-dream-life/"><u>MANIFESTING YOUR DREAM LIFE | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-based-dash-cam-footage-enhancement-a-step-by-step-guide/"><u>PC-Based Dash Cam Footage Enhancement: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/showcasing-major-tech-breakthroughs-insights-from-ces-2023s-second-day-zdnet-coverage/"><u>Showcasing Major Tech Breakthroughs: Insights From CES 2023'S Second Day | ZDNet Coverage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-unboxing-the-logitech-4k-webcam-review-for-2024/"><u>Ultimate Unboxing The Logitech 4K Webcam Review for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-deal-save-on-the-blink-outdoor-4-camera-system-and-floodlight-bundle-only-80-this-labor-day-exclusive-offer-by-zdnet/"><u>Unbeatable Deal: Save on the Blink Outdoor 4-Camera System and Floodlight Bundle - Only $80 This Labor Day, Exclusive Offer by ZDNet!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-the-power-of-chatgpt-in-your-ubuntu-terminal-through-shellgpt-techniques/"><u>Unleashing the Power of ChatGPT in Your Ubuntu Terminal Through ShellGPT Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/vision-pro-vs-other-leading-xr-headsets-reviewed-the-clear-winner-for-your-next-purchase-insights-from-tech-guru-at-zdnet/"><u>Vision Pro Vs. Other Leading XR Headsets Reviewed: The Clear Winner for Your Next Purchase - Insights From Tech Guru at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-essential-guide-to-the-april-2024-solar-eclipse-tips-for-safe-viewing-and-required-gear-explained-tech-insights/"><u>Your Essential Guide to the April 2024 Solar Eclipse - Tips for Safe Viewing & Required Gear Explained | Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-finest-pellet-grills-of-2022-ranking-and-reviews/"><u>ZDNet's Ultimate Guide to the Finest Pellet Grills of 2022: Ranking and Reviews</u></a></li>
+</ul></div>
+

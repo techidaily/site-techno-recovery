@@ -1,7 +1,7 @@
 ---
 title: "Editor Favorites: The Top Smartphones Endorsed Tech Reviews"
-date: 2024-10-28T17:29:52.316Z
-updated: 2024-10-31T00:54:27.036Z
+date: 2024-10-29T16:43:39.619Z
+updated: 2024-11-05T20:30:25.347Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Cons
 
 ## iPhone 12 Pro
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Jason Cipriani and Simon Bisson
 
 **Jason Cipriani:** I've almost always used an iPhone as my daily driver, but the iPhone 12 lineup has solidified it for me. The camera with improved portrait mode thanks to the Lidar sensor and HDR video is truly impressive. And MagSafe, which I thought was a gimmick, has turned into a very useful feature for me. Between the Shortcuts app and HomeKit devices around the house, there's not much I can't do from my phone. 
@@ -72,6 +79,13 @@ Cons
 
 ## Samsung Galaxy S21 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
 **Steven J. Vaughan-Nichols:** My Pixel 3 was starting to show its age, so I decided that since I was going to upgrade my phone, why not go for the gusto and get the top-of-the-line Samsung? So far, I'm glad I did. I love the 6.8-inch 120Hz Quad HD screen. The five cameras backed by a 108MP sensor and 10x optical zoom are insanely good. It also has 5G, which, at this point, isn't really that important on Verizon since I don't live next to a Verizon 5G UWB tower. What does matter to me is that it works well with my Samsung Galaxy Watch 3\. Samsung claimed early on that its watch would work well with other Android phones. It does but it doesn't come with all the health features. My only problem is the price: It lists for $1,199\. I didn't that pay that much, but I still paid a lot.
@@ -95,19 +109,6 @@ Cons
 * Long battery life Strong performance The camera is very impressive
 
 ## iPhone 12 Pro Max
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Matthew Miller
 
@@ -173,13 +174,6 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Ulefone Armor 9
 
 ### Adrian Kingsley-Hughes
@@ -198,13 +192,6 @@ Cons
 
 ## Google Pixel 2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tony Baer
 
 **Tony Baer:** I like the Pixel because unlike branded phones (e.g., Samsung Galaxy), it has just one operating system, and therefore, just one app for things like photos. This was an endless source of confusion for me during the days with my old Samsung phones: Which photo app did my pictures go in? (Etc., etc. for other bundled apps.) However, the Pixel 2 has one mechanical defect: The charging port is just slightly too large, meaning that when I plug in the charger, I can't always be sure that the phone is getting any juice. For work at home, this is just an inconvenience, but when we go back on the road again, this will be a show stopper. 
@@ -219,20 +206,13 @@ Show less
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Huawei P20 Pro
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Federico Guerrini
@@ -248,6 +228,13 @@ Pros
 
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone XR
 
@@ -272,10 +259,10 @@ Cons
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###   
@@ -283,16 +270,10 @@ Show Expert Take Show less
 ###   
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPhone X
@@ -326,10 +307,10 @@ Show Expert Take Show less
 ## iPhone 7 Plus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tiernan Ray
@@ -353,6 +334,13 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
 ## Lumia 1520
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mary Branscombe
 
@@ -404,21 +392,21 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capture-the-moment-an-examination-of-camstudio/"><u>[Updated] In 2024, Capture the Moment An Examination of CamStudio</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-photo-magic-intro-to-snapseed-features-for-2024/"><u>[Updated] Unlocking Photo Magic Intro to Snapseed Features for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-how-to-implement-google-meets-grid-view-feature/"><u>2024 Approved How to Implement Google Meet's Grid View Feature</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tifying-the-process-of-checking-subs/"><u>Demystifying The Process of Checking Subs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/watch-dynamics-navigating-youtube-in-parallel-for-2024/"><u>Dual-Watch Dynamics Navigating YouTube in Parallel for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/era-300-sonos-smart-speaker-evaluation-near-perfection-marred-by-significant-flaw-insights-from-zdnet/"><u>Era 300 Sonos Smart Speaker Evaluation: Near-Perfection Marred by Significant Flaw - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-roundup-the-ultimate-2024-smart-speakers-ranking-in-depth-evaluations-zdnet/"><u>Exclusive Roundup: The Ultimate 2024 Smart Speakers Ranking - In-Depth Evaluations | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-high-quality-audio-with-the-tribit-xsound-megablast-enhanced-bluetooth-speaker-delivering-30w-power-and-impressive-sound-reach/"><u>Experience High-Quality Audio with the Tribit XSound Megablast: Enhanced Bluetooth Speaker Delivering 30W Power & Impressive Sound Reach</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fortnite-launch-loop-how-to-overcome-the-endless-load-screen/"><u>Fortnite Launch Loop: How to Overcome the Endless Load Screen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-of-the-drop-grell-tws1x-iems-unmatched-audio-quality-met-with-disappointing-packaging-tech-insights/"><u>In-Depth Analysis of the Drop Grell TWS1X IEMs: Unmatched Audio Quality Met with Disappointing Packaging - Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-navigating-through-sound-excellence-and-user-frustrations-with-drops-grell-tws1x-iems/"><u>In-Depth Analysis: Navigating Through Sound Excellence and User Frustrations with Drop's Grell TWS1X IEMs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-look-at-amazon-echo-studio-maintaining-its-reign-as-the-ultimate-smart-speaker-option-zdnet-insights/"><u>In-Depth Look at Amazon Echo Studio: Maintaining Its Reign as the Ultimate Smart Speaker Option | ZDNet Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/solve-non-display-of-cameras-in-device-manager/"><u>Solve Non-Display of Cameras in Device Manager</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-vivo-v29-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo V29 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-ranking-the-best-explainer-video-makers-for-businesses/"><u>Updated Ranking the Best Explainer Video Makers for Businesses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/yamahas-budget-friendly-soundbar-triumphs-over-1000-jbl-counterpart-in-audio-quality-zdnet-review/"><u>Yamaha's Budget-Friendly Soundbar Triumphs Over $1,000 JBL Counterpart in Audio Quality – ZDNet Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-viewer-growth-strategy-dynamic-description-templates-for-youtube-success/"><u>[New] 2024 Approved Viewer Growth Strategy Dynamic Description Templates for YouTube Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-affordable-strategies-for-engaging-youtube-opening-and-end-titles/"><u>[Updated] In 2024, Affordable Strategies for Engaging YouTube Opening & End Titles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-retrieval-guide-how-to-recover-removed-phone-numbers-from-your-device/"><u>Android Retrieval Guide: How to Recover Removed Phone Numbers From Your Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-digital-culture-a-comprehensive-look-at-memes/"><u>Demystifying Digital Culture: A Comprehensive Look at Memes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-synchronizing-tweeted-videos-on-social-media-hub-fb/"><u>In 2024, Synchronizing Tweeted Videos on Social Media Hub FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/investing-made-efficient-gpts-crypto-trading-aid/"><u>Investing Made Efficient: GPT's Crypto Trading Aid</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-startup-no-problem-overcome-code-10-errors-with-these-proven-solutions/"><u>No Startup? No Problem! Overcome Code 10 Errors With These Proven Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pc-video-editing-made-easy-a-review-of-vn-video-editor-for-2024/"><u>PC Video Editing Made Easy A Review of VN Video Editor for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/squaring-the-circle-your-imovie-path-to-perfect-instagram-videos-for-2024/"><u>Squaring the Circle Your iMovie Path to Perfect Instagram Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/swapping-streams-saving-songs-cross-service-shuffling/"><u>Swapping Streams, Saving Songs Cross-Service Shuffling</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-leveraging-live-activities-on-iphones-running-ios-16/"><u>The Ultimate Tutorial for Leveraging Live Activities on iPhones Running iOS 16</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-notch-june-july-2024-laptop-offers-exclusive-selection/"><u>Top-Notch June-July 2024 Laptop Offers Exclusive Selection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-activating-closed-captions-on-your-roku-streamer/"><u>Troubleshooting Steps for Activating Closed Captions on Your Roku Streamer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-urban-armor-gears-macbook-pro-shielding-case-the-perfect-blend-of-toughness-and-utility/"><u>Ultimate Guide to Urban Armor Gear's MacBook Pro Shielding Case – The Perfect Blend of Toughness and Utility</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-replace-sky-background-in-video-figuring-out-the-best-options-for-2024/"><u>Updated Replace Sky Background in Video Figuring Out the Best Options for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-iphone-16-pro-is-my-top-pick-over-the-max-in-apples-latest-lineup-insights-from-zdnet/"><u>Why the iPhone 16 Pro Is My Top Pick Over the Max in Apple's Latest Lineup - Insights From ZDNet</u></a></li>
 </ul></div>
 

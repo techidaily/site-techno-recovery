@@ -1,7 +1,7 @@
 ---
 title: "The Road to Consensus on Open-Source AI: Major Advances and Rising Discontent Unveiled | ZDNET Innovations"
-date: 2024-09-19 11:51:39
-updated: 2024-09-20 10:27:19
+date: 2024-11-04T16:17:39.670Z
+updated: 2024-11-05T19:32:32.326Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -72,6 +79,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-3-strategies-for-clear-online-interaction-4/"><u>[New] 2024 Approved Top 3 Strategies for Clear Online Interaction (#4)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-direct-focus-the-power-of-leading-lines-in-iphone-photos-for-2024/"><u>[Updated] Direct Focus The Power of Leading Lines in iPhone Photos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhancing-content-creation-10-must-have-ig-editing-software/"><u>[Updated] In 2024, Enhancing Content Creation 10 Must-Have IG Editing Software</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unlocking-financial-gains-with-these-8-tiktok-tricks-for-2024/"><u>[Updated] Unlocking Financial Gains with These 8 TikTok Tricks for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/adobe-photoshop-crashes-eliminate-the-scratch-disk-full-message-effectively/"><u>Adobe Photoshop Crashes? Eliminate the 'Scratch Disk Full' Message Effectively</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-clarity-strategic-angles-for-excellent-iphone-photos/"><u>Capturing Clarity Strategic Angles for Excellent iPhone Photos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/computer-speeds-unveiled-setting-realistic-benchmarks/"><u>Computer Speeds Unveiled: Setting Realistic Benchmarks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-apps-to-skyrocket-your-site-visitors-our-picks-revealed/"><u>Discover the Best Apps to Skyrocket Your Site Visitors, Our Picks Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-establishing-your-own-account-on-the-sony-playstation-online-service/"><u>Guide: Establishing Your Own Account on the Sony PlayStation Online Service</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-uncovering-the-efficacy-of-youtubes-4-second-rule/"><u>In 2024, Uncovering the Efficacy of YouTube's 4-Second Rule</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instagram-photography-hacked-maximizing-space-with-whole-image-fits/"><u>Instagram Photography Hacked: Maximizing Space with Whole Image Fits</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-monster-hunter-world-strategies-for-defeating-unique-monsters/"><u>Navigating 'Monster Hunter: World': Strategies for Defeating Unique Monsters</u></a></li>
+<li><a href="https://games-able.techidaily.com/revisiting-xbox-classics-xemus-guide-for-pc/"><u>Revisiting Xbox Classics: Xemu's Guide for PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transformative-technologies-that-shaped-our-world-after-1844/"><u>Transformative Technologies That Shaped Our World After 1844</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-missing-d3dx925dll-error-on-your-pc/"><u>Troubleshooting the Missing d3dx9_25.dll Error on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-creative-play-the-ultimate-selection-of-9-free-pre-k-educational-sites/"><u>Unlock Creative Play: The Ultimate Selection of 9 Free Pre-K Educational Sites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-unlimited-boundaries-our-top-picks-for-cost-free-international-call-applications/"><u>Unlock Unlimited Boundaries: Our Top Picks for Cost-Free International Call Applications</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgraded-lenovo-camera-drivers-for-seamless-integration-with-windows-7-platforms/"><u>Upgraded Lenovo Camera Drivers for Seamless Integration with Windows 7 Platforms</u></a></li>
+</ul></div>
+

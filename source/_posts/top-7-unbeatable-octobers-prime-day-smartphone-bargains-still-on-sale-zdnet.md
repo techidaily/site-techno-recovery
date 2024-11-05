@@ -1,7 +1,7 @@
 ---
 title: Top 7 Unbeatable Octobers' Prime Day Smartphone Bargains - Still on Sale! | ZDNet
-date: 2024-09-18 17:11:11
-updated: 2024-09-20 10:29:28
+date: 2024-11-01T21:02:07.470Z
+updated: 2024-11-05T21:39:34.254Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,15 +76,42 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-experience-audio-freedom-with-pazeras-2024-tools-review/"><u>[New] Experience Audio Freedom with Pazera's 2024 Tools Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-from-words-to-memories-recording-with-iphone/"><u>[New] In 2024, From Words to Memories Recording with iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unique-visuals-merge-create-joy-with-photo-collage-for-2024/"><u>[Updated] Unique Visuals Merge Create Joy with Photo Collage for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-get-your-editing-mojo-back-with-this-final-cut-pro-overview/"><u>2024 Approved Get Your Editing Mojo Back with This Final Cut Pro Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-regrets-post-sendoff-mastering-the-art-of-email-recall-in-outlook/"><u>Avoiding Regrets Post-Sendoff: Mastering the Art of Email Recall in Outlook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-analysis-snappy-driver-installer-version-113-an-in-depth-review/"><u>Comprehensive Analysis: Snappy Driver Installer Version 1.13 - An In-Depth Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-guide-restoring-wi-fi-connection-on-your-vizio-television/"><u>DIY Guide: Restoring Wi-Fi Connection on Your Vizio Television</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-beginner-to-pro-5-final-cut-pro-editing-tips-to-up-your-game/"><u>From Beginner to Pro 5 Final Cut Pro Editing Tips to Up Your Game</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-video-edits-essential-mp4-tools-for-mac-users/"><u>In 2024, Mastering Video Edits Essential MP4 Tools for Mac Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-resolve-when-you-cant-find-mfc71dll-file/"><u>Steps to Resolve When You Can't Find mfc71.dll File</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streaming-espn-live-football-games-tips-for-lg-smart-tv-users/"><u>Streaming ESPN Live Football Games – Tips for LG Smart TV Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-domestic-ai-with-apple-leaks-on-cost-arrival-timeline-and-hardware-info/"><u>The Future of Domestic AI with Apple: Leaks on Cost, Arrival Timeline & Hardware Info</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-get-your-non-responsive-chrome-back-on-track/"><u>Troubleshooting: Get Your Non-Responsive Chrome Back on Track</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-samsung-galaxy-ring-pricing-insights-launch-timeline-and-technical-specifications/"><u>Unveiling the Samsung Galaxy Ring: Pricing Insights, Launch Timeline & Technical Specifications</u></a></li>
+</ul></div>
+

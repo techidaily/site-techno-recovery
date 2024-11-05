@@ -1,7 +1,7 @@
 ---
 title: "Insight: Southwest Airlines Encourages a Controversial Request From Passengers - Read More on ZDNet"
-date: 2024-09-17 10:51:59
-updated: 2024-09-20 12:33:51
+date: 2024-11-01T21:20:07.910Z
+updated: 2024-11-05T19:54:18.894Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -50,6 +57,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -75,9 +89,29 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-yourself-instagram-live-basics/"><u>[Updated] 2024 Approved Unveiling Yourself Instagram Live Basics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2022s-ice-showcase-a-look-at-the-best-performers-for-2024/"><u>2022'S Ice Showcase A Look at the Best Performers for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-instructions-on-syncing-your-samsung-infrared-remote-to-any-tv-model/"><u>Complete Instructions on Syncing Your Samsung Infrared Remote to Any TV Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-near-perfect-surveillance-save-big-with-arlo-pro-5-zdnet/"><u>Discover the Near-Perfect Surveillance: Save Big with Arlo Pro 지원 5세대와의 판매 | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-2022-cooler-collection-expert-picks-from-zdnet/"><u>Discover the Ultimate 2022 Cooler Collection: Expert Picks From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-why-the-waterproof-blink-mini-ns-unmatched-performance-outshines-competitors-including-wyze-cams-a-zdnet-recommendation/"><u>Discover Why The Waterproof Blink Mini N's Unmatched Performance Outshines Competitors, Including Wyze Cams: A ZDNet Recommendation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-picking-your-ideal-lawn-mower-tech-insights-from-zdnet/"><u>Expert Advice on Picking Your Ideal Lawn Mower | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-choice-in-seed-shipping-find-the-best-solutions-on-zdnet/"><u>Expert Choice in Seed Shipping: Find the Best Solutions on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-the-ultimate-zero-turn-ride-on-mowers-of-2024-zdnet/"><u>Expert Picks for the Ultimate Zero-Turn Ride-On Mowers of 2024 | ZDNET</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-ordinary-to-extraordinary-the-ultimate-iphoneandroid-screenshot-enhancers-list/"><u>From Ordinary to Extraordinary The Ultimate iPhone/Android Screenshot Enhancers List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-edge-40-neo-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Edge 40 Neo ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-15-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 15</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Strategy for Acquiring Digital Literature on Kindle - Expert Advice From ZDNet
-date: 2024-09-19 13:16:52
-updated: 2024-09-20 11:24:12
+date: 2024-10-29T21:08:00.073Z
+updated: 2024-11-05T19:05:51.802Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +57,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -65,9 +79,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capture-mac-scenery-screen-and-microphone-feature/"><u>[Updated] In 2024, Capture Mac Scenery Screen and Microphone Feature</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-updated-earnings-policies-for-streamers/"><u>[Updated] Navigating Updated Earnings Policies for Streamers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unseen-strategies-how-to-tap-into-your-facebook-message-library/"><u>2024 Approved Unseen Strategies How to Tap Into Your Facebook Message Library</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-winx-hd-video-converter-professional-mastery-step-by-step-instructional-manual/"><u>Comprehensive WinX HD Video Converter Professional Mastery: Step-by-Step Instructional Manual</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-loading-failure-detected-wudfrd-event-id-219/"><u>Device Loading Failure Detected - WudfRd (Event ID: 219)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevate-your-online-presence-with-fb-tweets-from-twitter-for-2024/"><u>Elevate Your Online Presence with FB Tweets From Twitter for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/entering-the-digital-frontier-how-sony-and-siemens-are-pioneering-an-immersive-engineering-experience-in-the-industrial-metaverse-wired/"><u>Entering the Digital Frontier: How Sony and Siemens Are Pioneering an Immersive Engineering Experience in the Industrial Metaverse | Wired</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-ace-2-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus Ace 2 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/keep-your-digital-world-pristine-apples-latest-invention-erases-vandalism-in-the-metaverse/"><u>Keep Your Digital World Pristine - Apple's Latest Invention Erases Vandalism in the Metaverse</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-reduces-quest-2-pricing-once-more-achieving-a-new-record-low-inspired-by-insights-from-zdnet/"><u>Meta Reduces Quest 2 Pricing Once More: Achieving a New Record Low! - Inspired by Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-spatial-computing-functionality-explained-on-techinsighthub/"><u>Navigating Through Spatial Computing: Functionality Explained on TechInsightHub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-8000-latest-driver-downloads-compatible-with-windows-7810/"><u>NVIDIA Quadro RTX #8000: Latest Driver Downloads Compatible with Windows 7/8/10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/why-does-my-iphone-screen-stay-on-expert-advice-on-faster-turnoff-techniques/"><u>Why Does My iPhone Screen Stay On? Expert Advice on Faster Turnoff Techniques</u></a></li>
+</ul></div>
+

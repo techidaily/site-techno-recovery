@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out! Last Chance for Amazing Samsung Savings This October on Prime Day Specials - Source: ZDNet"
-date: 2024-09-19 10:20:49
-updated: 2024-09-20 12:27:40
+date: 2024-11-01T20:44:59.539Z
+updated: 2024-11-05T19:56:34.810Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -50,6 +57,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -75,9 +89,29 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[New] In 2024, From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-demystifying-the-apple-m1-prodigy-for-2024/"><u>[Updated] Demystifying the Apple M1 Prodigy for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-failing-frontline-in-the-cyber-realm/"><u>A Failing Frontline in the Cyber Realm</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/citing-ai-assistance-formatting-references-for-chatgpt-use/"><u>Citing AI Assistance: Formatting References for ChatGPT Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customizing-macos-finder-display-options-for-parent-and-child-directories/"><u>Customizing MacOS Finder Display Options for Parent and Child Directories</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-facebooks-approach-to-permitted-profile-duplication/"><u>Dissecting Facebook's Approach to Permitted Profile Duplication</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-correct-opengl32dll-file-missing-errors/"><u>Effective Strategies to Correct OpenGL32.dll File Missing Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-laggard-to-lightning-pick-8-apps-now/"><u>From Laggard to Lightning Pick 8 Apps Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-use-the-internet-in-your-home-theater-system/"><u>How to Use the Internet in Your Home Theater System</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-moto-g-stylus-analysis-impressive-functionality-and-reliable-battery-with-pen-support/"><u>In-Depth Moto G Stylus Analysis: Impressive Functionality & Reliable Battery with Pen Support</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/protect-personal-files-with-ease-encryption-tips-for-usb-flash-drives-in-windows-10-and-11/"><u>Protect Personal Files with Ease: Encryption Tips for USB Flash Drives in Windows 10 and 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-your-inbox-tips-for-enlisting-contacts-into-gmails-trusted-circle/"><u>Securing Your Inbox: Tips for Enlisting Contacts Into Gmail's Trusted Circle</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-tutorial-for-effective-morphvox-audio-changes/"><u>Step-by-Step Tutorial for Effective MorphVOX Audio Changes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streaming-tiktok-videos-the-ultimate-guide-to-viewing-on-your-television/"><u>Streaming TikTok Videos: The Ultimate Guide to Viewing on Your Television</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/echanics-of-parody-video-making-101-for-2024/"><u>The Mechanics of Parody Video Making 101 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-for-watching-spider-man-no-way-home-online/"><u>Tips for Watching 'Spider-Man: No Way Home' Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-strategies-for-achieving-virality-on-instagram/"><u>Top 10 Strategies for Achieving Virality on Instagram</u></a></li>
+</ul></div>
+

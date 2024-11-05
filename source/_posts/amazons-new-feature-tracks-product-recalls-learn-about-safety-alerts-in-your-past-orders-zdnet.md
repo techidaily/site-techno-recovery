@@ -1,7 +1,7 @@
 ---
 title: Amazon's New Feature Tracks Product Recalls - Learn About Safety Alerts In Your Past Orders | ZDNet
-date: 2024-09-18 17:35:17
-updated: 2024-09-20 10:42:32
+date: 2024-11-01T21:51:49.532Z
+updated: 2024-11-05T16:00:34.301Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -69,11 +83,25 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-in-image-moods-zenithcams-spectacle/"><u>[New] Masterclass in Image Moods ZenithCams Spectacle</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-prime-steps-for-capturing-phone-operations-for-2024/"><u>[New] Prime Steps for Capturing Phone Operations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-images-with-ar-a-guide-to-free-lut-downloads/"><u>[New] Transforming Images with AR A Guide to Free LUT Downloads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieving-blue-checkmark-success-a-how-to-guide-for-instagram-verification/"><u>Achieving Blue Checkmark Success: A How-To Guide for Instagram Verification</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-unmatched-convenience-of-a-multifunctional-qi2-station-for-your-apple-devices-exclusive-zdnet-review/"><u>Discover the Unmatched Convenience of a Multifunctional Qi2 Station for Your Apple Devices - Exclusive ZDNET Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-writing-on-macos-discover-the-power-of-craft-an-exceptional-document-tool-tips-and-tricks/"><u>Elevate Your Writing on macOS: Discover the Power of Craft, an Exceptional Document Tool - Tips & Tricks</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-upgrade-your-system-with-windows-11-moving-directly-from-hdd-to-ssd-without-os-reinstallation/"><u>How to Upgrade Your System with Windows 11, Moving Directly From HDD to SSD without OS Reinstallation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagrams-most-appreciated-ae-layouts/"><u>In 2024, Mastering Instagram's Most Appreciated AE Layouts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-your-newx-identity-modify-your-passwords-with-confidence/"><u>Securing Your NewX Identity: Modify Your Passwords with Confidence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-end-of-an-era-apples-iphone-13-and-15-pro-discontinued-your-next-phone-picks/"><u>The End of an Era: Apple's iPhone 13 & 15 Pro Discontinued - Your Next Phone Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshoot-hulus-rununk13-issue-with-these-easy-fixes/"><u>Troubleshoot Hulu's RUNUNK13 Issue with These Easy Fixes</u></a></li>
+</ul></div>
+

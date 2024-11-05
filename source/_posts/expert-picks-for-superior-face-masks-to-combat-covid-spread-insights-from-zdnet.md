@@ -1,7 +1,7 @@
 ---
 title: "Expert Picks for Superior Face Masks to Combat COVID Spread: Insights From ZDNET"
-date: 2024-09-18 10:46:42
-updated: 2024-09-20 12:14:26
+date: 2024-10-29T19:52:43.168Z
+updated: 2024-11-05T16:01:37.926Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,19 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -64,6 +91,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-maximizing-your-video-potential-through-smart-co-stars-selection/"><u>[New] 2024 Approved Maximizing Your Video Potential Through Smart Co-Stars Selection</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unrivaled-5-editors-perfect-for-non-youtube-vids-for-2024/"><u>[Updated] Unrivaled 5 Editors Perfect for Non-YouTube Vids for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-livestreaming-three-key-approaches-subscriber-less-style/"><u>2024 Approved Master the Art of Livestreaming Three Key Approaches, Subscriber-Less Style</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scrutinizing-high-dynamic-range-insights-from-luminance/"><u>2024 Approved Scrutinizing High Dynamic Range Insights From Luminance</u></a></li>
+<li><a href="https://article-tips.techidaily.com/break-down-barriers-with-cost-free-vob-player-for-2024/"><u>Break Down Barriers with Cost-Free VOB Player for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1727789818217-choosing-the-right-apple-laptop-a-comprehensive-guide-comparing-macbook-pro-and-macbook-air/"><u>Choosing the Right Apple Laptop: A Comprehensive Guide Comparing MacBook Pro & MacBook Air</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/decoding-secret-computing-jargons-the-tale-behind-daemons-to-guru-meditation/"><u>Decoding Secret Computing Jargons: The Tale Behind Daemons to Guru Meditation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-methods-to-increase-complexity-on-your-apple-watch-insights-from-zdnet/"><u>Effortless Methods to Increase Complexity on Your Apple Watch - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-new-ai-tech-from-wwdc-will-it-impress-or-disappoint-zdnet/"><u>Exploring Apple's New AI Tech From WWDC: Will It Impress or Disappoint? | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/june-2024s-ultimate-deals-on-electronics-at-best-buy-featured-by-zdnet-for-smart-shoppers/"><u>June 2024'S Ultimate Deals on Electronics at Best Buy Featured by ZDNet for Smart Shoppers!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/limited-time-offer-upgrade-to-windows-11-pro-with-an-amazing-88-savings/"><u>Limited Time Offer: Upgrade to Windows 11 Pro with an Amazing 88% Savings!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-efficiency-in-every-task-the-ultimate-list-of-tools-and-hacks-for-a-streamlined-workday-sponsored-by-zdnet/"><u>Maximizing Efficiency in Every Task: The Ultimate List of Tools and Hacks for a Streamlined Workday, Sponsored by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rethinking-your-next-purchase-expert-analysis-on-skipping-the-iphone-n-gen-apple-innovations-tech-digest/"><u>Rethinking Your Next Purchase: Expert Analysis on Skipping the iPhone N-Gen Apple Innovations Tech Digest</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-address-windows-network-not-found/"><u>Solutions to Address Windows Network Not Found</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/struggling-with-your-iphones-battery-life-after-ios-1751-discover-7-effective-fixes/"><u>Struggling with Your iPhone's Battery Life After iOS 1^7.5.1? Discover 7 Effective Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-roadmap-to-successful-online-job-promotions/"><u>The Roadmap to Successful Online Job Promotions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-sending-audio-notes-from-your-iphone/"><u>The Ultimate Tutorial: Sending Audio Notes From Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-your-passion-for-apple-sports-with-the-top-rated-complimentary-iphone-application-the-ultimate-guide/"><u>Unlock Your Passion for Apple Sports with the Top-Rated, Complimentary iPhone Application - The Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-fixes-for-easing-up-locked-software-installation-checks/"><u>Win Fixes for Easing Up Locked Software Installation Checks</u></a></li>
+</ul></div>
+

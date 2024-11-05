@@ -1,7 +1,7 @@
 ---
 title: "Southwest Vs. United Airlines: A Strategic Perspective on Consumer Decisions, According to ZDNet"
-date: 2024-09-18 19:26:55
-updated: 2024-09-20 11:10:42
+date: 2024-10-30T19:32:05.952Z
+updated: 2024-11-05T19:26:09.019Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,11 +58,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -70,6 +97,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-exclusive-insight-into-budget-friendly-design-portals-for-2024/"><u>[New] Exclusive Insight Into Budget-Friendly Design Portals for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unforeseen-tiktok-reset-are-posts-retrievable-for-2024/"><u>[Updated] Unforeseen TikTok Reset – Are Posts Retrievable for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-x-flip-frp-bypass-by-drfone-android/"><u>About Vivo X Flip FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cutting-edge-features-of-the-latest-ipad-calculator-app-could-spur-demand-for-apple-pencil/"><u>Cutting-Edge Features of the Latest iPad Calculator App - Could Spur Demand for Apple Pencil</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/how-to-effortlessly-transition-your-messages-a-guide-for-shifting-from-thunderbird-to-outlook-without-spending-a-penny/"><u>How to Effortlessly Transition Your Messages: A Guide for Shifting From Thunderbird to Outlook Without Spending a Penny</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-getting-started-with-macos-11-big-sur-upgrade/"><u>In 2024, Getting Started with macOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-reno-8t-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo Reno 8T 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-2020-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE (2020) to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipados-18-release-date-price-free-features-and-news/"><u>IPadOS 18: Release Date, Price (Free), Features, and News</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16-pro-vs-iphone-14-pro-assessing-value-and-performance-for-your-next-upgrade-a-comprehensive-review/"><u>IPhone 16 Pro vs iPhone 14 Pro: Assessing Value and Performance for Your Next Upgrade - A Comprehensive Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/parent-approved-kids-tablet-guide-top-products-featured-by-zdnet/"><u>Parent Approved Kids Tablet Guide - Top Products Featured by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-gaming-blizzards-classic-calls-for-redemption-by-xbox/"><u>Retro Gaming: Blizzard's Classic Calls for Redemption by Xbox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/savings-alert-apple-watch-se-2nd-generation-drops-to-even-lower-prices-since-prime-day-ends/"><u>Savings Alert: Apple Watch SE 2Nd Generation Drops to Even Lower Prices Since Prime Day Ends</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/athway-to-popularity-strategies-for-soaring-viewership-for-2024/"><u>The Pathway to Popularity Strategies for Soaring Viewership for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-ultimate-collection-of-wireless-charger-picks-for-2e24-professional-evaluation/"><u>Unveiling the Ultimate Collection of Wireless Charger Picks for 2E24: Professional Evaluation</u></a></li>
+</ul></div>
+

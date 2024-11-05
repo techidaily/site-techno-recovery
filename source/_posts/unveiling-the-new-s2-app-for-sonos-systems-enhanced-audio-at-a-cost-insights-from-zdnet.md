@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the New S2 App for Sonos Systems: Enhanced Audio at a Cost - Insights From ZDNet"
-date: 2024-10-23T21:02:27.059Z
-updated: 2024-10-30T22:06:40.468Z
+date: 2024-11-02T20:10:12.726Z
+updated: 2024-11-05T16:36:29.987Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -48,16 +48,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -77,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -121,16 +115,20 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-a-comprehensively-reviewed-list-of-youtube-video-extractor-apps-android-for-2024/"><u>[New] A Comprehensively Reviewed List of YouTube Video Extractor Apps (Android) for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-new-download-tool-facebook-videos-for-all-oses/"><u>[Updated] New Download Tool Facebook Videos for All OSes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-simplified-customization-for-your-youtube-channel-url/"><u>[Updated] Simplified Customization for Your YouTube Channel URL</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-6-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 6 to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/automate-your-vmware-data-protection-effortless-snapshot-and-file-backup-solutions/"><u>Automate Your VMware Data Protection: Effortless Snapshot and File Backup Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-evaluation-of-marshall-active-noise-cancellation-tech-by-zdnet-reviews/"><u>Expert Evaluation of Marshall Active Noise Cancellation Tech by ZDNet Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experts-choose-the-safest-kids-headphones-for-2e-2023-edition-gizmodo/"><u>Experts Choose the Safest Kids' Headphones for 2E, 2023 Edition | Gizmodo</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-top-sonos-speakers-comprehensive-reviews-from-authorities-zdnets-soundscape-selection/"><u>Exploring the Top Sonos Speakers : Comprehensive Reviews From Authorities | ZDNet's Soundscape Selection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-your-origin-app-back-up-and-running-on-pcs-fixes-for-windows-10-11-users/"><u>Getting Your Origin App Back Up and Running on PCs - Fixes for Windows 10-11 Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-throw-a-memorable-labor-day-celebration-expert-advice-from-zdnet/"><u>How to Throw a Memorable Labor Day Celebration - Expert Advice From ZDNet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/innovative-approaches-to-capturing-moments-with-zooms-snaps/"><u>Innovative Approaches to Capturing Moments with Zoom's Snaps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-cutting-edge-ipad-voice-recording-tools-3p/"><u>[New] In 2024, Cutting-Edge iPad Voice Recording Tools 3P</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/24-pro-find-out-in-this-in-depth-analysis-techradar/"><u>24 Pro? Find Out in This In-Depth Analysis! - TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-finewoven-collection-in-favor-of-new-partnership-with-beats-exclusive-insights-techcrunch/"><u>Apple Discontinues FineWoven Collection in Favor of New Partnership with Beats - Exclusive Insights | TechCrunch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beeper-integration-boosted-by-automattic-takeover-the-future-of-messaging-services-under-new-management/"><u>Beeper Integration Boosted by Automattic Takeover – The Future of Messaging Services Under New Management</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-lava-agni-2-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Lava Agni 2 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-deal-before-holidays-high-quality-used-apple-tv-and-free-siri-remote-priced-at-only-75-with-zdnets-expert-analysis/"><u>Exclusive Deal Before Holidays: High-Quality Used Apple TV & Free Siri Remote, Priced at Only $75 with ZDNet's Expert Analysis!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-ready-set-go-adding-a-countdown-timer-in-fcpx-in-just-3-steps/"><u>Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-control-and-disable-amber-and-emergency-alerts-on-iphones-efficiently/"><u>How to Control and Disable Amber & Emergency Alerts on iPhones Efficiently</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-z-flip-5-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy Z Flip 5 by Name | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/may-2024s-top-atandt-phone-promotions-revealed-by-zdnet-for-maximum-value-and-quality-service/"><u>May 2024'S Top AT&T Phone Promotions Revealed by ZDNET for Maximum Value and Quality Service</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-movies-online-for-free-top-9-tools/"><u>New Create Movies Online for Free Top 9 Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/storage-galore-selecting-top-ps5-hddsssds-for-2024/"><u>Storage Galore Selecting Top PS5 HDDs/SSDs for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-skype-microphone-on-windows-1n/"><u>Troubleshooting Guide: Fixing Non-Functional Skype Microphone on Windows 1N</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-thermal-paste-for-your-cpu-in-2e24-rankings-and-reviews/"><u>Ultimate Guide to Choosing the Best Thermal Paste for Your CPU in 2E24 – Rankings & Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-hidden-gems-why-the-349-ipad-stole-the-show-at-apples-bold-new-era-launch/"><u>Unveiling Hidden Gems: Why the $349 iPad Stole the Show at Apple's Bold New Era Launch</u></a></li>
 </ul></div>
 

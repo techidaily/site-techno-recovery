@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Installation of iOS 18 for iPhone Users: Find Out Which Devices Can Be Updated & How!"
-date: 2024-10-26T02:43:55.410Z
-updated: 2024-10-30T22:23:37.016Z
+date: 2024-11-04T17:42:15.496Z
+updated: 2024-11-05T19:36:24.483Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -52,10 +52,16 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -69,6 +75,19 @@ After installing the latest iOS update, your iPhone will restart.
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -84,13 +103,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How do I install the iOS 18 beta version?
 
 You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
@@ -101,13 +113,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -124,6 +129,13 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,24 +181,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-a-cinematic-short-blending-images-and-melodies/"><u>[New] Crafting a Cinematic Short Blending Images and Melodies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-dji-drone-masterpiece-analysis/"><u>[New] In 2024, DJI Drone Masterpiece Analysis</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-tips-for-seamlessly-screening-instagram-stories/"><u>[Updated] 2024 Approved Tips for Seamlessly Screening Instagram Stories</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-relaxation-station-leisurely-phone-game-guide-for-2024/"><u>[Updated] Relaxation Station Leisurely Phone Game Guide for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-step-by-step-guide-enabling-vpn-access-directly-through-your-home-router-insights-from-zdnet/"><u>1. Step-by-Step Guide: Enabling VPN Access Directly Through Your Home Router - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-audience-connection-through-android-and-ios-streams/"><u>2024 Approved Enhancing Audience Connection Through Android & iOS Streams</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2024s-elite-list-of-netflix-vpns-proven-performance-tested-zdnet/"><u>2024'S Elite List of Netflix VPNs: Proven Performance Tested | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-vpn-of-2023-showdown-nordvpn-versus-surfshark-which-fits-your-needs-zdnet-insights/"><u>Best VPN of 2023 Showdown: NordVPN versus Surfshark - Which Fits Your Needs? | ZDNET Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciding-between-security-and-privacy-proton-vpn-compared-to-nordvpn-on-zdnet/"><u>Deciding Between Security & Privacy: Proton VPN Compared to NordVPN on ZDNET</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/going-back-with-android-video-editing/"><u>Going Back with Android Video Editing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-15ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 15/iPad Without Computer</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-redmi-note-12-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi Note 12 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-10-best-action-cameras-for-diving-or-snorkelling-2023-update-for-2024/"><u>Top 10 Best Action Cameras For Diving Or Snorkelling -2023 Update for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-a-world-class-travel-vpn-for-2nd4-insider-evaluations-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing a World-Class Travel VPN for 2nD4: Insider Evaluations and Comparisons | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-vpn-testing-of-2024-unbiased-expert-opinions-and-insights-cnet/"><u>Ultimate Guide to the Best VPN Testing of 2024: Unbiased Expert Opinions and Insights | CNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-safest-chrome-vpn-services-thoroughly-tested-expert-opinions/"><u>Ultimate Guide to the Safest Chrome VPN Services: Thoroughly Tested, Expert Opinions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unbeatable-vpn-savings-available-now-discover-the-latest-deals-at-zdnet/"><u>Unbeatable VPN Savings Available Now - Discover the Latest Deals at ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-privacy-and-security-a-comprehensive-walkthrough-of-the-open-source-proton-vpn-for-web-browsers-insights-by-zdnet/"><u>Unlocking Privacy & Security: A Comprehensive Walkthrough of the Open-Source Proton VPN for Web Browsers - Insights by ZDNET</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/windows-and-mac-call-recordings-explained-20plus-ways-to-go/"><u>Windows & Mac Call Recordings Explained - 20+ Ways to Go</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-empowering-your-wit-crafting-humor-with-gifs-step-by-step/"><u>[New] Empowering Your Wit Crafting Humor with GIFs Step by Step</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-choices-for-next-gen-vr-accessories-unveiled-for-2024/"><u>[Updated] Top Choices for Next-Gen VR Accessories Unveiled for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-elite-list-of-magsafe-wallets-thoroughly-tested-and-reviewed-for-optimal-compatibility-zdnet/"><u>2024'S Elite List of MagSafe Wallets: Thoroughly Tested & Reviewed for Optimal Compatibility | ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-t2-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo T2 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compact-and-powerful-discover-the-new-m4-enhanced-mac-mini-tiny-but-mighty-like-an-apple-tv/"><u>Compact and Powerful: Discover the New M4-Enhanced Mac Mini - Tiny but Mighty Like an Apple TV</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/decorate-your-flipbooks-professionally-preserving-readable-text-while-styling-pages-with-flipbuilders-guide/"><u>Decorate Your Flipbooks Professionally: Preserving Readable Text While Styling Pages with FlipBuilder's Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-new-alliances-whos-joining-forces-with-the-apple-card-and-how-it-affects-consumers/"><u>Exploring New Alliances: Who's Joining Forces With the Apple Card, And How It Affects Consumers?</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-photo-collage-using-iphoto-in-2024/"><u>How to Make a Photo Collage Using iPhoto, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-errors-when-opening-microsoft-store/"><u>Troubleshooting Guide: Resolving Errors When Opening Microsoft Store</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-dealing-with-the-missing-rockaldlldll-error/"><u>Troubleshooting Tips: Dealing with the MISSING rockaldll.dll Error</u></a></li>
 </ul></div>
 

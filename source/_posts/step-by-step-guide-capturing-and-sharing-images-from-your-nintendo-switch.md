@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing & Sharing Images From Your Nintendo Switch"
-date: 2024-10-28T20:18:07.402Z
-updated: 2024-10-30T22:31:59.003Z
+date: 2024-11-04T20:29:30.882Z
+updated: 2024-11-05T17:27:29.721Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Capturing & Sharing Images From Your Nintendo Switch"
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
@@ -43,34 +43,35 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
 
@@ -122,17 +123,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-glowing-android-video-guide-simplified-methods/"><u>[New] Glowing Android Video Guide - Simplified Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-kinetic-assessment-2023/"><u>[Updated] Full Kinetic Assessment 2023</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-innovative-mac-image-recording-the-top-5-cutting-edge-techniques/"><u>[Updated] Innovative Mac Image Recording The Top 5 Cutting-Edge Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-ultimate-durability-with-zendure-superbase-pro-2000-review-on-zdnet/"><u>Experience Ultimate Durability with Zendure SuperBase Pro 2000 Review on ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g84-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G84 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a56s-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A56s 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/strategy-unveiled-masterful-box-opening-tactics/"><u>Strategy Unveiled Masterful Box-Opening Tactics</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-jackery-explorer-pro-reviewed-adequate-for-crisis-situations-yet-questions-on-mobility-gadget-insights/"><u>The Jackery Explorer ˈPro-Reviewed: Adequate for Crisis Situations, Yet Questions on Mobility | Gadget Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranked-2024-led-flashlight-review-professional-ratings-by-tech-experts-gizmoadvisor/"><u>Top-Ranked 2024 LED Flashlight Review: Professional Ratings by Tech Experts | GizmoAdvisor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-2023-solar-bluetooth-speakers-reviewed-by-experts-choose-the-right-one/"><u>Top-Rated 2023 Solar Bluetooth Speakers Reviewed by Experts - Choose the Right One</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-intermittent-sound-issues-in-windows-10-solutions-unveiled/"><u>Troubleshooting Intermittent Sound Issues in Windows 10 - Solutions Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-approach-to-reviewing-and-tested-portable-energy-units/"><u>ZDNet's Approach to Reviewing and Tested Portable Energy Units</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-paced-artistry-expert-valorant-thumbnails-in-a-blink/"><u>[New] In 2024, Fast-Paced Artistry Expert Valorant Thumbnails in a Blink</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-picture-messaging-services-2024s-top-picks/"><u>Best Picture Messaging Services: 2024'S Top Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-insights-on-lg-channel-systems-uncovered/"><u>Comprehensive Insights on LG Channel Systems Uncovered</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-listener-experience-with-new-apple-podcasts-auto-transcribing-feature-tech-news-by-zdnet/"><u>Enhancing Listener Experience with New Apple Podcasts' Auto-Transcribing Feature | Tech News by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-screen-working-again-pen-and-touch-input-issues-solved/"><u>Getting Your Screen Working Again: Pen and Touch Input Issues Solved</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 8 Plus</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/precise-video-queue-a-step-by-step-guide-to-creating-an-effective-playlist-on-youtube-for-2024/"><u>Precise Video Queue A Step-by-Step Guide to Creating an Effective Playlist on YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revitalize-your-presentations-the-ultimate-tutorial-on-powerpoint-updates/"><u>Revitalize Your Presentations: The Ultimate Tutorial on PowerPoint Updates</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/solving-your-youtube-video-buffering-and-stuttering-problems-a-comprehensive-guide/"><u>Solving Your YouTube Video Buffering & Stuttering Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-correct-the-resource-not-found-problem-in-overwatch-gaming/"><u>Steps to Correct the 'Resource Not Found' Problem in Overwatch Gaming</u></a></li>
 </ul></div>
 

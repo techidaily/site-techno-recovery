@@ -1,7 +1,7 @@
 ---
 title: "Discover WhatsApp's Latest Channel Functionality Launched in Select Nations: A Detailed Guide | Tech News by ZDNet"
-date: 2024-09-19 12:39:59
-updated: 2024-09-20 12:18:29
+date: 2024-11-03T17:53:05.228Z
+updated: 2024-11-05T20:34:59.983Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,11 +79,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-capture-the-scene-without-breaking-the-bank-with-free-tools/"><u>[New] 2024 Approved Capture the Scene without Breaking the Bank with Free Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-cost-outline-for-composing-sounds-to-screen-titles-for-2024/"><u>[Updated] Cost Outline for Composing Sounds to Screen-Titles for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-9-vs-google-pixel-watch-2-a-detailed-review-for-tech-enthusiasts-insight/"><u>Apple Watch Series 9 Vs. Google Pixel Watch 2: A Detailed Review for Tech Enthusiasts Insight</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-2024-video-show-review-compendium/"><u>Complete 2024 Video Show Review Compendium</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/determining-if-your-location-is-being-monitored-by-apples-airtag-insights-and-tips/"><u>Determining If Your Location Is Being Monitored by Apple's AirTag - Insights & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-for-entering-setup-mode-on-your-amazon-echo-dot/"><u>Easy Instructions for Entering Setup Mode on Your Amazon Echo Dot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-productivity-hacks-streamlining-your-everyday-tasks-with-proven-techniques/"><u>Essential Productivity Hacks: Streamlining Your Everyday Tasks with Proven Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-a-dead-microsoft-controller-on-windows/"><u>How to Reactivate a Dead Microsoft Controller on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-missing-msodll-error-on-your-computer/"><u>How to Resolve 'Missing mso.dll' Error on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor X50 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-depths-of-ifunnys-meme-experience/"><u>In 2024, Exploring the Depths of iFunny's Meme Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/legally-recording-calls-with-your-iphone-a-comprehensive-guide/"><u>Legally Recording Calls with Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-ipads-potential-with-top-rated-productivity-tools-as-featured-by-zdnet/"><u>Maximize Your iPad's Potential with Top-Rated Productivity Tools as Featured by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/preserve-the-shine-of-your-iphone-13-with-these-3-essential-accessories-tips/"><u>Preserve the Shine of Your iPhone 13 with These 3 Essential Accessories - Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/purchase-available-ios-macos-and-watch-os-updates-from-the-latest-wwdc-preorders-and-retail-locations-techradar/"><u>Purchase Available iOS, macOS & Watch OS Updates From the Latest WWDC: Preorders and Retail Locations - TechRadar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-note-12t-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi Note 12T Pro Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-future-of-smartphones-how-apples-cutting-edge-ai-developments-might-enhance-your-iphone-key-discoveries-revealed-by-new-study/"><u>Unveiling the Future of Smartphones: How Apple's Cutting-Edge AI Developments Might Enhance Your iPhone - Key Discoveries Revealed by New Study</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcp-transition-guide-3-simple-yet-effective-techniques/"><u>Updated In 2024, FCP Transition Guide 3 Simple Yet Effective Techniques</u></a></li>
+</ul></div>
+

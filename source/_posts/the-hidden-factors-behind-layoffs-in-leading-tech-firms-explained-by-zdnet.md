@@ -1,7 +1,7 @@
 ---
 title: The Hidden Factors Behind Layoffs in Leading Tech Firms Explained by ZDNet
-date: 2024-09-18 10:38:41
-updated: 2024-09-20 10:54:36
+date: 2024-10-31T18:54:14.969Z
+updated: 2024-11-05T19:14:27.948Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +79,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +125,19 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +149,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-high-ranking-videos-youtubes-everlasting-classics/"><u>[New] 2024 Approved High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-zooming-into-success-the-essential-blueprint-for-producing-high-quality-audio-on-video-platforms/"><u>[New] In 2024, Zooming Into Success The Essential Blueprint for Producing High-Quality Audio on Video Platforms</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-content-creators-dilemma-choosing-between-igtv-and-youtube/"><u>[Updated] In 2024, The Content Creator’s Dilemma Choosing Between IGTV and YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unshackling-from-tiktoks-covert-bans-for-2024/"><u>[Updated] Unshackling From TikTok's Covert Bans for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clearing-up-cannot-be-opened-as-developer-cant-be-verified-mac-troubleshooting-tips-and-solutions/"><u>Clearing Up 'Cannot Be Opened as Developer Can’t Be Verified': Mac Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-understanding-lg-channels/"><u>Comprehensive Guide to Understanding LG Channels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-set-up-and-use-apple-pay-on-your-apple-watch/"><u>Easy Ways to Set Up and Use Apple Pay on Your Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-guide-overcoming-not-found-shell32dll-issues-on-your-pc/"><u>Fix Guide: Overcoming 'Not Found - Shell32.dll' Issues on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-among-us-2024-game-crashes-essential-troubleshooting-guide/"><u>Fixing the 'Among Us' 2024 Game Crashes: Essential Troubleshooting Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-lava-blaze-curve-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Lava Blaze Curve 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-confirm-if-youre-actually-enjoying-dolby-atmos-surround-sound/"><u>How to Confirm If You're Actually Enjoying Dolby Atmos Surround Sound</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-collection-of-upcoming-psvr-2-games-full-lineup-unveiled/"><u>The Ultimate Collection of Upcoming PSVR 2 Games - Full Lineup Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-cross-compatibility-running-your-favorite-android-apps-on-windows-10-machines/"><u>Unlocking Cross-Compatibility: Running Your Favorite Android Apps on Windows 10 Machines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-when-android-texting-stops-working-a-step-by-step-guide/"><u>What to Do When Android Texting Stops Working: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-1110-reviving-outdated-wi-fi-hardware/"><u>Windows 11/10: Reviving Outdated Wi-Fi Hardware</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726029029204-windows/"><u>Windows上にて簡単な手順で写真をビデオ化する方法</u></a></li>
+</ul></div>
+

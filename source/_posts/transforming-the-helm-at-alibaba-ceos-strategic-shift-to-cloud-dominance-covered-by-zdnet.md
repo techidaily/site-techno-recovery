@@ -1,7 +1,7 @@
 ---
 title: "Transforming the Helm at Alibaba: CEO's Strategic Shift to Cloud Dominance Covered by ZDNet"
-date: 2024-09-19 12:13:25
-updated: 2024-09-20 12:44:37
+date: 2024-11-02T21:14:25.616Z
+updated: 2024-11-05T21:09:55.866Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-elite-nine-cutting-edge-4k-filmmaking-gear-for-2024/"><u>[Updated] Elite Nine Cutting-Edge 4K Filmmaking Gear for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-halt-and-rewind-mastering-live-streams-on-twitch/"><u>[Updated] Halt & Rewind Mastering Live Streams on Twitch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snappy-strategies-for-reacquiring-deleted-posts/"><u>[Updated] Snappy Strategies for Reacquiring Deleted Posts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-selecting-the-top-8-linux-screenshots-tools/"><u>2024 Approved Selecting the Top 8 Linux Screenshots Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-luxury-equivalent-value-to-a-vision-pro-in-top-tier-gadgets-iphone-ipad-watch-and-more-tech-insights-on-zdnet/"><u>Affordable Luxury! Equivalent Value to a Vision Pro in Top-Tier Gadgets: IPhone, iPad, Watch and More | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-revolutionary-vision-pro-set-for-potential-february-release-introducing-the-markets-most-advanced-purchasing-experience/"><u>Apple's Revolutionary Vision Pro Set for Potential February Release: Introducing the Market's Most Advanced Purchasing Experience?</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-gaming-experience-tackle-warhammers-stutter-problems/"><u>Enhance Your Gaming Experience - Tackle Warhammer's Stutter Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-capturing-stunning-meta-quest-3-images-and-video-clips-zdnet-guide/"><u>Expert Tips for Capturing Stunning Meta Quest 3 Images & Video Clips - ZDNet Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-safe-zone-limits-how-apples-vision-pro-tracks-up-against-metas-quests-for-virtual-reality-experience/"><u>Exploring Safe Zone Limits: How Apple's Vision Pro Tracks Up Against Meta's Quests for Virtual Reality Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apples-new-vision-pro-software-aims-to-overhaul-health-industry-exclusive-details-by-zdnet/"><u>How Apple's New Vision Pro Software Aims to Overhaul Health Industry: Exclusive Details by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-metas-deleted-quest-gaming-headset-functionality-with-easy-hacks-techradar/"><u>How to Restore Meta’s Deleted Quest Gaming Headset Functionality with Easy Hacks | TechRadar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40i-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40i to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/intense-competition-alert-for-apple-as-meta-and-lg-unveil-next-gen-quest-pro-virtual-reality-headset-tech-news-by-zdnet/"><u>Intense Competition Alert for Apple as Meta and LG Unveil Next-Gen Quest Pro Virtual Reality Headset | Tech News by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-components-of-a-successful-digital-twin-strategy-incorporating-ai-zdnet-insights/"><u>Key Components of a Successful Digital Twin Strategy: Incorporating AI | ZDNet Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-drivers-for-hp-laserjet-m506-quick-downloads-to-improve-performance/"><u>New Drivers for HP LaserJet M506 - Quick Downloads to Improve Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tactics-to-regain-visual-presentation-on-systems/"><u>Tactics to Regain Visual Presentation on Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unveiling-the-secrets-to-swiftly-altering-snapchat-soundscapes-for-2024/"><u>Unveiling the Secrets to Swiftly Altering Snapchat Soundscapes for 2024</u></a></li>
+</ul></div>
+

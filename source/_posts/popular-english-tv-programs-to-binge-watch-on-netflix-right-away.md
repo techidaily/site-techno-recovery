@@ -1,7 +1,7 @@
 ---
 title: Popular English TV Programs to Binge-Watch on Netflix Right Away
-date: 2024-10-28T01:06:26.248Z
-updated: 2024-10-30T21:34:15.897Z
+date: 2024-10-30T21:58:20.204Z
+updated: 2024-11-05T17:06:37.076Z
 categories:
   - BestProducts
 description: This Article Describes Popular English TV Programs to Binge-Watch on Netflix Right Away
@@ -34,10 +34,10 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
 * **Premium** : $19.99 /month; three discs at a time
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Sign Up for DVD Netflix
@@ -52,14 +52,35 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
 2. Choose**Add DVD Plan** .  
 ![Netflix Add DVD Plan button](https://www.lifewire.com/thmb/Uh6KVZq2Icc6DLgr76WSO5J6VpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-add-dvd-plan-239476fd7dbc48c398d157361b9b4dba.png)
 3. Select the plan you want to subscribe to, and then choose**Get Started** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Netflix DVD plans](https://www.lifewire.com/thmb/uPDzNtMV66dcBkk8Rbo7T-7ekq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-prices-30f879c3750545099db9e01e04334ae2.png)
 4. Fill out your shipping information, and then select**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New Users
@@ -73,22 +94,8 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
 ![DVD Netflix plan options](https://www.lifewire.com/thmb/1IHiA9MQesi6AeoZW2OuFx4JbUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-pricing-fa3f2e4b64fa4137ac42d44abc0c8d19.png)
 4. Enter your email address, choose a password, and then select**Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Enter your shipping information, and then press**Continue** .
 6. Provide payment details, and then select**Start Membership** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Choose DVDs
 
@@ -99,10 +106,10 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
  Here's how to add movies to your DVD Netflix queue and then adjust which ones you'll get first:
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### From a Computer
@@ -120,6 +127,20 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
  Mobile users can manage the DVD Netflix queue as well. Tap the plus sign to add a movie to TV show to the queue, and use the disc icon at the top right to edit the order or remove DVDs.
 
 ![DVD Netflix Android app](https://www.lifewire.com/thmb/ii9vuANqrg_bkNWRzzL_j3kfJ0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-app-android-7a1276941cdd4127bdefa7be8a7bc832.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Return Netflix DVDs
 
@@ -140,22 +161,8 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
 ![Netflix menu](https://www.lifewire.com/thmb/sPdef-efDhFlukhsT5ZIKGE9cn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-menu-a50af54ed942494580a71dbfa10aa482.png)
 3. Select**Cancel DVD plan** from the**PLAN DETAILS** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Netflix account settings](https://www.lifewire.com/thmb/Q80vAniZ2Rz4sOJ9lBPx1R7Etj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-cancel-dvd-plan-1b525410df38448e9513aa48f77c3729.png)
 4. Check the box next to**Proceed to Cancellation** , and then select**Continue** .  
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![DVD Netflix cancel screen](https://www.lifewire.com/thmb/y4ygwym9PG4XM_r0T1gD5tpwa4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-cancel-fb3a1b5411854a1c8b087c1ea52dc9f4.png)
 5. Scroll down and choose**Yes, cancel my account** .  
@@ -191,22 +198,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-top-profit-generating-online-entertainer/"><u>[New] 2024 Approved Top Profit Generating Online Entertainer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[New] From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-plex-media-player-centralized-home-entertainment/"><u>[New] Plex Media Player Centralized Home Entertainment</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-soundscapes-for-success-the-art-of-music-on-tiktok-for-2024/"><u>[New] Soundscapes for Success The Art of Music on TikTok for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-top-6-tools-to-download-lite-videos-from-facebook/"><u>[Updated] Top 6 Tools to Download Lite Videos From Facebook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/180-discounted-price-why-the-arlo-pro-5s-could-be-your-ideal-choice-for-ultimate-security-cameras-zdnet-insights/"><u>$180 Discounted Price! Why the Arlo Pro 5S Could Be Your Ideal Choice for Ultimate Security Cameras - ZDNET Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2023s-leading-mobile-solar-charge-units-expert-comparisons-and-picks/"><u>2023'S Leading Mobile Solar Charge Units: Expert Comparisons & Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-guide-to-buying-outdoor-security-lighting-systems-expert-picks-and-reviews/"><u>2024'S Ultimate Guide to Buying Outdoor Security Lighting Systems: Expert Picks and Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-modular-dwellings-for-less-than-50k-discover-the-ultimate-home-kits/"><u>Affordable Modular Dwellings for Less Than $50K: Discover the Ultimate Home Kits!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/android-powerhouse-unveiled-with-thermal-extremes-outshining-the-latest-iphone-explore-its-mighty-performance/"><u>Android Powerhouse Unveiled with Thermal Extremes, Outshining the Latest iPhone - Explore Its Mighty Performance!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-jackery-explorer-1500-pro-the-ultimate-portable-power-solution-reviewed-on-zdnet/"><u>Discover the Jackery Explorer 1500 Pro: The Ultimate Portable Power Solution Reviewed on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eco-friendly-holiday-gifts-how-to-give-and-receive-carbon-credits-zdnet-guide/"><u>Eco-Friendly Holiday Gifts: How to Give and Receive Carbon Credits | ZDNet Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-share-vimeo-video-in-instagram-stories-for-2024/"><u>How to Share Vimeo Video in Instagram Stories for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-videos-using-video-enhancer-v22/"><u>In 2024, Transform Your Videos Using Video Enhancer V2.2</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-google-pixel-7a-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Google Pixel 7a to Gmail | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/masterclass-in-ios-podcast-management-and-download/"><u>Masterclass in iOS Podcast Management & Download</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-showdown-comparing-the-best-automatic-mowers-of-2024-expert-testing-results/"><u>ZDNet's Ultimate Showdown: Comparing the Best Automatic Mowers of 2024 | Expert Testing Results</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-convert-tweets-into-audible-format-with-ease-for-2024/"><u>[New] Convert Tweets Into Audible Format with Ease for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-detailed-evaluation-razer-kiyo-webcam-for-2024/"><u>[New] Detailed Evaluation Razer Kiyo Webcam for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-transform-lives-10-cinematic-inspirations/"><u>[Updated] Transform Lives 10 Cinematic Inspirations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-your-phone-experience-with-apples-underrated-iphone-advantage-uncovered-on-zdnet/"><u>Ace Your Phone Experience with Apple’s Underrated iPhone Advantage - Uncovered on ZDNet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-for-your-apple-devices-collected-manuals-specs-and-fix-it-guides-find-everything/"><u>All You Need for Your Apple Devices: Collected Manuals, Specs, and Fix-It Guides - Find Everything !</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/comprehensive-how-to-macs-quicktime-for-screen-plus-audio-recording-full-guide/"><u>Comprehensive How-To: Mac's QuickTime for Screen + Audio Recording Full Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-express-yourself-with-iphones-emoji-keyboard/"><u>Easy Ways to Express Yourself with iPhone's Emoji Keyboard</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-hot-40-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Hot 40</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16-upgrade-apple-enhances-camera-with-cutting-edge-visual-recognition-similar-to-google-lens-tech-news/"><u>IPhone 16 Upgrade: Apple Enhances Camera with Cutting-Edge Visual Recognition Similar to Google Lens – Tech News</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-upgrading-to-ios-17-the-right-choice-for-you/"><u>Is Upgrading to iOS 17 the Right Choice for You?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/latest-windows-service-packs-and-updates-july-2024/"><u>Latest Windows Service Packs and Updates (July 2024)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-msidll-file-not-found-effective-solutions/"><u>Resolving msi.dll File Not Found: Effective Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/secure-your-social-media-experience-from-ad-interruptions/"><u>Secure Your Social Media Experience From Ad Interruptions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-best-imessage-games-you-cant-miss/"><u>Top 7 Best iMessage Games You Can't Miss</u></a></li>
 </ul></div>
 

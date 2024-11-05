@@ -1,7 +1,7 @@
 ---
 title: "Perform a Photoshop Magic Act: Erase Those Glassy Pets' Peepers!"
-date: 2024-09-17T21:09:35.753Z
-updated: 2024-09-20T22:07:35.619Z
+date: 2024-11-03T18:00:48.594Z
+updated: 2024-11-05T20:01:16.035Z
 categories:
   - BestProducts
 description: "This Article Describes Perform a Photoshop Magic Act: Erase Those Glassy Pets' Peepers!"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
 
  This article explains how to access your iCloud photo library on various devices, including iPhones and iPads, Macs, Windows PCs, and Android devices. Instructions apply to iOS 13 and up, iPadOS 13 and up, macOS Catalina (10.15) and later, Windows 10 or 11, and Android 10 and up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Access iCloud Photos From iPhone, iPod Touch, and iPad
 
  ​Photos is an excellent app for viewing images or making video memories. It's also a directory from which you can share photos in an email, text message, or on social media. Use the Photos app to send images to a nearby Apple device using[AirDrop](https://www.lifewire.com/what-is-airdrop-how-does-it-work-1994512) or save images to other cloud-based services such as Dropbox and Google Drive.
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
 
  In iPadOS, you can simultaneously view the Files and Photos apps in[Split View](https://www.lifewire.com/how-to-use-ipad-split-screen-4687495) and drag images from one app to the other.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Access iCloud Photos on Mac
 
  As with iOS and iPadOS, the Photos application in macOS is the quickest way to view photos in iCloud Photos. The images are in collections, and you can[watch the Memories created from the images and videos](https://www.lifewire.com/how-to-create-photo-memories-on-the-ipad-4089908) there.
@@ -49,8 +63,24 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
 1. Select the**Apple** icon, then select**System Preferences** or**System Settings** .  
 ![The Apple Menu on a Mac with the System Preferences command highlighted](https://www.lifewire.com/thmb/T3OcI7y9tFRmLnISf6O6oqUfAiQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-delete-a-user-on-mac-4570933-0a85f7427df3471bbe29258883f2aaba.jpg)
 2. Select**Apple ID** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![System Preferences in macOS with Apple ID highlighted](https://www.lifewire.com/thmb/MtZY142GLxqRgBGi8ySlodIEnx4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-access-your-icloud-photos-4160237-6c1e6b2701964132aab689c971980af6.jpg)
 3. In the left pane, select**iCloud** . Then, under**Apps on this Mac using iCloud** /**Apps Using iCloud** , select**Photos** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Apple ID settings in macOS with the iCloud heading and Photos option highlighted](https://www.lifewire.com/thmb/pzrq6A7p9mU37yIFIrAm2TfxnYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-access-your-icloud-photos-4160237-10b449a2292143fb8d9e11ae4a621ed5.jpg)
 4. You may be prompted to sign in to your iCloud account. You may also be prompted to verify your iCloud settings.
 5. Select the**Photos** app and choose**Library** or a specific album in the left pane to access your images.
@@ -74,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
 
 ![Windows 10 file manager](https://www.lifewire.com/thmb/FYGcmhc9m7c6SP6Leb4X2OaRvGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-icloud-5aa2a91b1f4e1300374ae223.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Access iCloud Photos From Android
 
  Apple offers a browser-based version of certain iCloud apps for Android. It works similar to iOS or iPadOS, with fewer options. For example, you can share photos only by email or by copying a link.
@@ -97,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
 2. Sign in to your iCloud account.
 3. Select**Photos** .  
 ![The iCloud website with Photos highlighted](https://www.lifewire.com/thmb/ePCGVfjc_bWJr9T6xV_3HLmm6V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-access-your-icloud-photos-4160237-15b8407b6147418bb429fd745e0ea6f3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From here, you can view your iCloud Photos and videos online. You can also upload photos by selecting the**Upload** icon, which looks like an up arrow pointing into the cloud.
 
@@ -143,5 +159,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>[Updated] In 2024, Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pivoting-from-srt-to-subtitle-format/"><u>[Updated] Pivoting From SRT to Subtitle Format</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/barnes-and-noble-nook-glowlight-3-review-a-great-nighttime-e-reader/"><u>Barnes & Noble Nook GlowLight 3 Review: A Great Nighttime E-Reader</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-traffic-management-tools-our-number-one-picks/"><u>Best Traffic Management Tools: Our Number One Picks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtx-2060-drivers-latest-version-available-now-for-windows-11-10-8-and-7-users/"><u>RTX 2060 Drivers: Latest Version Available Now for Windows 11, 10, 8 & 7 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-galaxy-ai-growth-dominates-as-google-faces-antitrust-challenges-in-latest-tech-rankings-insight-from-zdnet/"><u>Samsung’s Galaxy AI Growth Dominates as Google Faces Antitrust Challenges in Latest Tech Rankings - Insight From ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/thrilling-trials-and-daring-escapades-a-curated-list-of-greatest-games-top-10/"><u>Thrilling Trials & Daring Escapades A Curated List of Greatest Games (Top 10)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-16-and-iphone-16-pro-protective-covers-full-reviews-by-tech-experts-on-zdnet/"><u>Top-Rated iPhone 16 & iPhone 16 Pro Protective Covers - Full Reviews by Tech Experts on ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a24s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy A24s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-10-pin-removal-process-explained-in-detail/"><u>Windows 10 Pin Removal Process Explained in Detail</u></a></li>
+</ul></div>
 

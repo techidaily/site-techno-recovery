@@ -1,7 +1,7 @@
 ---
 title: Third-Party Security Incident Exposes Shopper Information for Aussie Retailer Network | Insights From ZDNET
-date: 2024-09-17 16:55:51
-updated: 2024-09-20 11:20:26
+date: 2024-10-31T16:28:53.836Z
+updated: 2024-11-05T21:39:07.069Z
 tags:
   - e-commerce
 categories:
@@ -32,6 +32,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -65,11 +72,38 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-the-fundamental-contrasts-in-video-streaming/"><u>[New] Understanding the Fundamental Contrasts in Video Streaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-a-beginners-guide-to-picture-in-picture-mode-on-android-devices/"><u>Boost Your Productivity: A Beginner's Guide to Picture-in-Picture Mode on Android Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chatgpts-custodian-unveiled-who-holds-the-reins/"><u>ChatGPT's Custodian Unveiled: Who Holds the Reins?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-steps-to-permanently-remove-your-yahoo-email-profile/"><u>Complete Guide: Steps to Permanently Remove Your Yahoo Email Profile</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210851995-9780645249248-decoding-the-laws-of-the-universe/"><u>DECODING THE LAWS OF THE UNIVERSE | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-your-preferred-iphone-manual-detailed-directions-for-all-models/"><u>Download Your Preferred iPhone Manual - Detailed Directions for All Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-repairing-incomingoutgoing-call-problems-in-android-phones/"><u>Expert Tips for Repairing Incoming/Outgoing Call Problems in Android Phones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-gameplay-top-techniques-to-resolve-fps-dips-in-elden-ring/"><u>Fix Your Gameplay: Top Techniques to Resolve FPS Dips in Elden Ring</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-the-advapi32dll-file-not-found-problem-efficiently/"><u>How to Repair the Advapi32.dll File Not Found Problem Efficiently</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-solo-journey-through-the-world-of-3d-printing-in-3dr/"><u>In 2024, Solo Journey Through the World of 3D Printing in '3DR'</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-repairs-for-stuck-predictive-emojis-on-ios-a-step-by-step-guide/"><u>Quick Repairs for Stuck Predictive Emojis on iOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-7-packet-opening-experience-hacks/"><u>Top 7 Packet Opening Experience Hacks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-android-compatible-apps-for-a-superior-smartwatch-functionality/"><u>Ultimate Selection of Android-Compatible Apps for a Superior Smartwatch Functionality</u></a></li>
+</ul></div>
+
