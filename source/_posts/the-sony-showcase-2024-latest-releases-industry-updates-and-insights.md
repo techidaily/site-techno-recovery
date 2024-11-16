@@ -1,7 +1,7 @@
 ---
 title: "The Sony Showcase 2024: Latest Releases, Industry Updates & Insights"
-date: 2024-10-31T21:14:25.142Z
-updated: 2024-11-05T19:30:52.657Z
+date: 2024-11-12T05:08:45.718Z
+updated: 2024-11-16T01:38:53.460Z
 categories:
   - BestProducts
 description: "This Article Describes The Sony Showcase 2024: Latest Releases, Industry Updates & Insights"
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
  Sony hasn't announced its next State of Play. The most recent one was May 30, 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which Products Will Be Announced?
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
  The last event introduced 14 PS5 and PS VR2 titles from both PlayStation Studios developers and third-party companies.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Did Sony Announce at the Last State of Play?
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 * Mascot character Astro Bot, who taught us all how to play our PlayStation 5s in_Astro's Playroom_ , is back for a new adventure in_Astro Bot_ . This platformer will feature new worlds, costumes based on iconic PlayStation characters like Nathan Drake, Kratos, and Aloy, and a huge starship shaped like the PS5 console. It's coming September 6.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Stream and Watch Sony State of Play
@@ -85,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
  State of Play events are streamed on PlayStation's[ Twitch](https://www.twitch.tv/playstation) ,[ YouTube](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) , and[ TikTok](https://www.tiktok.com/@playstation) channels. You can watch the May 30 event below:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest Sony and Other Gaming News
@@ -116,22 +116,19 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-instagram-posting-tips-to-boost-your-podcast-exposure/"><u>[New] 2024 Approved Instagram Posting Tips to Boost Your Podcast Exposure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>[New] The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-reverse-the-norm-creative-methods-for-backward-youtube-watching/"><u>[Updated] In 2024, Reverse the Norm Creative Methods for Backward Youtube Watching</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-travel-companion-how-this-low-cost-power-station-enhanced-my-road-trips-according-to-zdnet-analysis/"><u>Affordable Travel Companion: How This Low-Cost Power Station Enhanced My Road Trips, According to ZDNET Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/an-unforeseen-delight-my-experience-with-the-ring-spotlight-cam-pro-reviewed-by-zdnet/"><u>An Unforeseen Delight: My Experience with the Ring Spotlight Cam Pro Reviewed by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/battery-life/"><u>Battery Life</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beat-the-heat-with-sonys-top-rated-travel-tunes-in-depth-analysis-of-their-newest-portable-audio-marvels/"><u>Beat the Heat with Sony's Top-Rated Travel Tunes: In-Depth Analysis of Their Newest Portable Audio Marvels</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-easy-to-assemble-inflatable-pool-models-of-2022-a-curated-list-of-top-choices-for-hassle-free-fun/"><u>Discover the Best Easy-to-Assemble Inflatable Pool Models of 2022: A Curated List of Top Choices for Hassle-Free Fun</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-google-pixel-8-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-repairing-an-inoperative-obs-video-feed/"><u>In 2024, Repairing an Inoperative OBS Video Feed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterclass-in-picture-text-edits-and-overlays-for-2024/"><u>Masterclass in Picture Text Edits and Overlays for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-transferring-your-iphone-data-to-a-pc-using-itunes-and-alternatives/"><u>Step-by-Step Guide: Transferring Your iPhone Data to a PC Using iTunes & Alternatives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/steps-for-creating-a-popular-individual-podcast-show-for-2024/"><u>Steps for Creating a Popular Individual Podcast Show for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-solar-power-banks-featured-on-zdnet/"><u>Top-Rated Portable Solar Power Banks - Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unmissable-way-day-promotions-top-deals-and-discounts-in-stock/"><u>Unmissable Way Day Promotions - Top Deals & Discounts in Stock!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-uncovers-the-remarkable-performance-of-the-ring-spotlight-cam-pro-in-advanced-security-solutions/"><u>ZDNet Uncovers the Remarkable Performance of the Ring Spotlight Cam Pro in Advanced Security Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-adepts-handbook-to-fullscreen-features-in-premiere-pro/"><u>[Updated] 2024 Approved Adept's Handbook to Fullscreen Features in Premiere Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-eco-frameworks-unleashing-creativity-with-free-templates-for-filmmakers/"><u>[Updated] 2024 Approved Eco-Frameworks Unleashing Creativity with Free Templates for Filmmakers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-breakthrough-visuals-top-10-monitors-for-your-macbook/"><u>2024 Approved Breakthrough Visuals Top 10 Monitors For Your MacBook</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/mac-intels-qsv/"><u>高速ビデオ変換 Macプログラム: Intel's QSV技術に完全対応</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-worlds-10-leading-internet-giants/"><u>Discover the World's 10 Leading Internet Giants</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12t-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12T Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-connectivity-options-on-your-mac-with-parallel-network-interfaces/"><u>Enhancing Connectivity Options on Your Mac with Parallel Network Interfaces</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-tips-for-seamless-iphone-screen-recordings-for-2024/"><u>Expert Tips for Seamless iPhone Screen Recordings for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovating-to-win-analyzing-samsungs-galaxy-ai-dominance-vs-googles-legal-battles-in-the-innovation-index/"><u>Innovating to Win: Analyzing Samsung's Galaxy AI Dominance Vs. Google’s Legal Battles in the Innovation Index</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macduo-display-configuration-easily-linking-two-screens-for-enhanced-productivity/"><u>MacDuo Display Configuration: Easily Linking Two Screens for Enhanced Productivity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-your-computer-speed-essential-tips-for-overcoming-lag-in-windows-11-systems/"><u>Revive Your Computer Speed: Essential Tips for Overcoming Lag in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speak-connect-and-engage-using-nvidias-rtx-ai-assistant/"><u>Speak, Connect, and Engage: Using Nvidia's RTX AI Assistant</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-unrecognized-headphones-on-your-laptop/"><u>Step-by-Step Solution: Unrecognized Headphones on Your Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-trending-iphone-16-models-current-market-demand-and-expected-wait-times-insights/"><u>Top Trending iPhone 16 Models: Current Market Demand & Expected Wait Times – Insights</u></a></li>
 </ul></div>
 

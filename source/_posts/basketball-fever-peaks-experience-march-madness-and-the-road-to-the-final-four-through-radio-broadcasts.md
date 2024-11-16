@@ -1,7 +1,7 @@
 ---
 title: Basketball Fever Peaks - Experience March Madness & The Road to the Final Four Through Radio Broadcasts
-date: 2024-09-19T03:14:29.078Z
-updated: 2024-09-21T02:06:02.154Z
+date: 2024-11-09T16:21:20.096Z
+updated: 2024-11-16T01:52:16.185Z
 categories:
   - BestProducts
 description: This Article Describes Basketball Fever Peaks - Experience March Madness & The Road to the Final Four Through Radio Broadcasts
@@ -264,6 +264,13 @@ thumbnail: https://www.lifewire.com/thmb/6VmQxABluKvXv7Zrvzv4DSD0gN0=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -273,6 +280,13 @@ thumbnail: https://www.lifewire.com/thmb/6VmQxABluKvXv7Zrvzv4DSD0gN0=/400x300/fi
  When you release the button, the NETGEAR device restarts automatically. After the power light turns solid white or green, the device is reset and back up and running, now with the default password listed above for your model.
 
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
@@ -285,10 +299,10 @@ thumbnail: https://www.lifewire.com/thmb/6VmQxABluKvXv7Zrvzv4DSD0gN0=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Change Your NETGEAR Default Password
@@ -326,5 +340,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-dive-into-the-world-of-podcasting-from-concept-to-finalized-scripts/"><u>[Updated] 2024 Approved Dive Into the World of Podcasting From Concept to Finalized Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syma-x5c-demystified-the-ideal-drone-for-budding-pilots/"><u>2024 Approved Syma X5C Demystified The Ideal Drone for Budding Pilots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-crucial-considerations-for-selecting-the-perfect-fitness-monitor-or-tracker/"><u>5 Crucial Considerations for Selecting the Perfect Fitness Monitor or Tracker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-sound-experience-mastering-the-connection-between-subwoofers-and-samsung-audio-systems/"><u>Enhance Your Sound Experience: Mastering the Connection Between Subwoofers and Samsung Audio Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-influencing-minds-with-music-selection-for-movie-previews/"><u>In 2024, Influencing Minds with Music Selection for Movie Previews</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-narzo-60x-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme Narzo 60x 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-instagrams-approval-process-for-a-trusted-brand-seal/"><u>Mastering Instagram's Approval Process for a Trusted Brand Seal</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecnos-new-era-of-slimmer-and-more-dynamic-phones/"><u>Tecno's New Era of Slimmer and More Dynamic Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-instagram-stories-that-wont-upload/"><u>Troubleshooting Steps: Resolving Instagram Stories That Won't Upload</u></a></li>
+</ul></div>
 

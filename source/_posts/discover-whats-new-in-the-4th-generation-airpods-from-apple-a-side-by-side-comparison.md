@@ -1,7 +1,7 @@
 ---
 title: Discover What's New in the 4Th Generation AirPods From Apple – A Side-by-Side Comparison
-date: 2024-10-30T21:22:58.648Z
-updated: 2024-11-05T21:18:06.444Z
+date: 2024-11-10T16:08:52.665Z
+updated: 2024-11-15T17:26:13.735Z
 tags:
   - apple
 categories:
@@ -55,28 +55,28 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. You want the most affordable option
 
 The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the AirPods Pro 2\. You can still purchase the second and third-generation AirPods from Apple, but they don't have the same upgraded features as the new AirPods 4.
 
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
@@ -88,10 +88,16 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -105,10 +111,16 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -145,20 +157,19 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-revamp-chrome-browsing-sharper-social-media-videos/"><u>[New] 2024 Approved Revamp Chrome Browsing Sharper Social Media Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-ignite-conversations-top-10-creative-reaction-insights-for-videos/"><u>[New] Ignite Conversations Top 10 Creative Reaction Insights for Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweeting-visual-stories-from-vids-to-interactive-gifs/"><u>[New] In 2024, Tweeting Visual Stories From Vids to Interactive GIFs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-key-insights-fifa-content-on-youtube-charted/"><u>2024 Approved Key Insights FIFA Content on YouTube Charted</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/android-16-unveiled-discover-the-official-cost-drop-date-and-device-details-plus-all-you-need-to-know/"><u>Android 16 Unveiled! Discover the Official Cost, Drop Date & Device Details – Plus All You Need To Know!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comment-installer-et-utiliser-la-protection-de-sauvegarde-vss-guide-complet/"><u>Comment Installer Et Utiliser La Protection De Sauvegarde VSS - Guide Complet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-numbers-learn-how-to-track-viewers-of-your-youtube-videos/"><u>Decoding the Numbers: Learn How To Track Viewers of Your YouTube Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-transferring-computer-display-onto-tv-using-hdmi-technology/"><u>Expert Advice: Transferring Computer Display Onto TV Using HDMI Technology</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/paced-artistry-expert-valorant-thumbnails-in-a-blink-for-2024/"><u>Fast-Paced Artistry Expert Valorant Thumbnails in a Blink for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-install-or-upgrade-toshiba-graphics-chipset-and-network-drivers-in-windows/"><u>How to Install or Upgrade Toshiba Graphics, Chipset & Network Drivers in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-fixes-for-power-on-self-test-post-hiccups-in-computers/"><u>Master the Fixes for Power-On Self Test (POST) Hiccups in Computers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-errors-locating-and-restoring-x3daudiodll-when-lost/"><u>Resolving Errors: Locating and Restoring x3DAudio.dll When Lost</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-lines-in-microsoft-word/"><u>Step-by-Step Guide: Adding Lines in Microsoft Word</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-fixing-computer-issues-using-chatgpt/"><u>Step-by-Step Guide: Fixing Computer Issues Using ChatGPT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-starting-a-successful-vlog-and-earning-potential/"><u>[New] Starting a Successful Vlog and Earning Potential</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-pinnacle-of-participation-chronicling-the-most-upvoted-posts-on-reddit/"><u>[New] The Pinnacle of Participation Chronicling the Most Upvoted Posts on Reddit</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-easy-methods-for-windows-fish-voice-alteration/"><u>[Updated] In 2024, Easy Methods for Windows Fish Voice Alteration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-laughter-and-tears-the-best-instagram-meme-picks-for-2024/"><u>[Updated] Unleash Laughter and Tears The Best Instagram Meme Picks for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-i-found-liquid-inside-my-iphone-charger-port-now-what-exploring-solutions-for-apple-devices/"><u>1. 'I Found Liquid Inside My iPhone Charger Port - Now What?' Exploring Solutions for Apple Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-chivalry-crashing-fix-your-game-experience-with-our-expert-guidance-no-more-frustrations/"><u>Beat Chivalry ˈCrashing': Fix Your Game Experience with Our Expert Guidance - No More Frustrations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-tutorial-enabling-and-using-facetime-on-a-windows-machine/"><u>Complete Tutorial: Enabling and Using FaceTime on a Windows Machine</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-s18e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo S18e to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-communication-the-20-most-impactful-chatgpt-initiators-curated-from-github-collections/"><u>Mastering AI Communication: The 20 Most Impactful ChatGPT Initiators Curated From GitHub Collections</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revamping-audio-experience-how-apples-integration-could-elevate-sonos-device-satisfaction/"><u>Revamping Audio Experience: How Apple's Integration Could Elevate Sonos Device Satisfaction</u></a></li>
+<li><a href="https://article-tips.techidaily.com/taking-advantage-of-vlcs-conversion-features-beyond-mp4/"><u>Taking Advantage of VLC's Conversion Features Beyond MP4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/testing-the-apple-studio-display-stunning-price-tag-on-a-must-have-27-inch-5k-screen-for-creative-professionals-insights-from-zdnet/"><u>Testing the Apple Studio Display: Stunning Price Tag on a Must-Have 27-Inch 5K Screen for Creative Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-highest-quality-stylus-tablets-industry-insights-and-ratings-zdnet/"><u>Ultimate Guide to the Highest-Quality Stylus Tablets - Industry Insights and Ratings | ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-techniques-streaming-hulu-on-win-mac-and-mobile/"><u>Ultimate Techniques Streaming Hulu on Win, Mac, and Mobile</u></a></li>
 </ul></div>
 

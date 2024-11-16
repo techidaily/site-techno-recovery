@@ -1,7 +1,7 @@
 ---
 title: "Beyond Just Portables: Unveiling the Extended Impact of M3 Apple Silicon on Tech Innovation | ZDNet"
-date: 2024-10-30T21:04:15.677Z
-updated: 2024-11-05T21:04:51.057Z
+date: 2024-11-10T01:59:40.492Z
+updated: 2024-11-16T02:04:10.300Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +54,10 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +75,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,16 +92,10 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -146,22 +140,21 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/apture-your-best-moments-top-8-mirrorless-cameras-for-you-for-2024/"><u>[New] Capture Your Best Moments Top 8 Mirrorless Cameras For You for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-action-sequence-mastery-selecting-gopros-best-cinematic-luts/"><u>[New] In 2024, Action Sequence Mastery Selecting GoPro's Best Cinematic LUTs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-multi-genre-unmanned-flyers/"><u>[New] In 2024, Multi-Genre Unmanned Flyers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlock-advanced-voice-customization-in-free-perfect-for-valorant-players/"><u>[Updated] 2024 Approved Unlock Advanced Voice Customization in Free - Perfect for Valorant Players</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/7-engaging-and-safe-online-game-experiences-tailored-for-kids/"><u>7 Engaging and Safe Online Game Experiences Tailored for Kids</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-for-the-elusive-s-sleay32dll-error/"><u>Comprehensive Fixes for the Elusive S sleay32.dll Error</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/convert-webm-to-mp3-the-best-tools-for-the-job-for-2024/"><u>Convert WebM to MP3 The Best Tools for the Job for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eliminate-the-error-how-to-restore-missing-d3dx939dll-files/"><u>Eliminate the Error: How to Restore Missing d3dx9_39.dll Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-strategies-for-newbies-in-the-world-of-pokemon-go-gaming/"><u>Essential Strategies for Newbies in the World of Pokémon Go Gaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-diagnosing-and-correcting-wireless-adapteraccess-point-malfunctions-in-10-steps/"><u>Expert Tips for Diagnosing and Correcting Wireless Adapter/Access Point Malfunctions in 10 Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-overcome-wifi-authorization-glitches-in-android-devices/"><u>Expert Tips to Overcome Wifi Authorization Glitches in Android Devices</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-universe-with-vive-cosmos-top-contender-in-todays-virtual-reality-arena/"><u>Exploring the Universe with Vive Cosmos - Top Contender in Today's Virtual Reality Arena</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-zero-30-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Infinix Zero 30 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725289991337-ios/"><u>IOSデバイスで動画が再生不能な場合、原因と解決策を詳しくご案内します</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-your-laptops-lifespan-with-windows-ng-battery-insight-techniques/"><u>Maximize Your Laptop's Lifespan with Windows nG Battery Insight Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-your-email-efficiency-legal-ways-to-filter-messages-and-manage-addresses-in-gmail/"><u>Maximizing Your Email Efficiency: Legal Ways to Filter Messages and Manage Addresses in Gmail</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-essential-guide-to-speedy-windows-inspecting/"><u>The Essential Guide to Speedy Windows Inspecting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-voice-recorder-mac-5-best-voice-recorders-for-mac-devices/"><u>[New] 2024 Approved Voice Recorder Mac - 5 Best Voice Recorders for Mac Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-decoding-macbook-airs-screen-capture-a-detailed-walkthrough-guide/"><u>[Updated] In 2024, Decoding MacBook Air's Screen Capture A Detailed Walkthrough Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instagrams-secrets-for-creating-must-watch-unboxings/"><u>[Updated] Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-extra-footage-crafting-engaging-visual-narratives/"><u>[Updated] Integrating Extra Footage Crafting Engaging Visual Narratives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-ten-instagram-feeds-blending-funny-and-sentimental-posts/"><u>[Updated] Ten Instagram Feeds Blending Funny & Sentimental Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/brief-overview-of-the-evolution-of-electric-cars/"><u>Brief Overview of the Evolution of Electric Cars</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/favorite-mobile-phones-among-tech-experts-exploring-the-gadgets-chosen-by-zdnets-reviews-team/"><u>Favorite Mobile Phones Among Tech Experts: Exploring the Gadgets Chosen by ZDNet's Reviews Team</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fresh-insights-on-apples-car-endeavor-anticipated-arrival-dates-price-points-and-cutting-edge-tech-specifications-unveiled/"><u>Fresh Insights on Apple's Car Endeavor: Anticipated Arrival Dates, Price Points, and Cutting-Edge Tech Specifications Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-masterfully-reset-your-systems-firmware-a-cmos-walkthrough/"><u>How to Masterfully Reset Your System's Firmware - A CMOS Walkthrough</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-tecno-spark-20-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Tecno Spark 20 Pro Unlock Without Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-6-pro-versus-iphone-13-pro-the-ultimate-showdown-of-top-tier-smartphones-zdnet/"><u>Pixel 6 Pro versus iPhone 13 Pro: The Ultimate Showdown of Top-Tier Smartphones - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smartest-miniature-tablets-for-2eby-2024-detailed-evaluations-and-rankings-on-zdnet/"><u>Smartest Miniature Tablets for 2Eby 2024: Detailed Evaluations and Rankings on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackle-spammy-text-alerts-iphone-users-simple-tutorial-for-a-clean-inbox-based-on-expert-advice-zdnet/"><u>Tackle Spammy Text Alerts: IPhone Users' Simple Tutorial for a Clean Inbox, Based on Expert Advice | ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-nokia-c12-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Nokia C12 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-airpods-pro-add-ons-and-gadgets-recommended-by-tech-experts/"><u>Top-Rated AirPods Pro Add-Ons and Gadgets - Recommended by Tech Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-orf-in-png-gratuitamente-online-con-movavi-prove-e-cambia/"><u>Trasforma ORF in PNG Gratuitamente Online Con Movavi - Prove E Cambia</u></a></li>
 </ul></div>
 

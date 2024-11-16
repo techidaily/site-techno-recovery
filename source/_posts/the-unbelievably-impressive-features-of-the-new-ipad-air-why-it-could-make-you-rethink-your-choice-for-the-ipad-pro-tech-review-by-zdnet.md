@@ -1,7 +1,7 @@
 ---
 title: "The Unbelievably Impressive Features of the New iPad Air: Why It Could Make You Rethink Your Choice for the iPad Pro | Tech Review by ZDNET"
-date: 2024-10-29T21:15:59.424Z
-updated: 2024-11-05T17:25:16.124Z
+date: 2024-11-09T04:50:13.304Z
+updated: 2024-11-16T03:29:49.967Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +74,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +89,16 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,19 +143,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-upgrade-your-content-navigating-the-world-of-fb-video-full-scale/"><u>[New] In 2024, Upgrade Your Content Navigating the World of FB Video Full Scale</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-irreversible-integration-of-tiktok-profile-linking-technique/"><u>[New] Irreversible Integration of TikTok Profile Linking Technique</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premium-picks-recommended-spots-for-procuring-snapchat-chime-for-2024/"><u>[New] Premium Picks Recommended Spots for Procuring Snapchat Chime for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-15-ways-to-make-most-of-your-podcast-time/"><u>[Updated] 15 Ways to Make Most of Your Podcast Time</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fun-and-functional-toy-arsenals-selecting-ideal-consoles-and-accessories-for-kids-gamers/"><u>Fun and Functional Toy Arsenals: Selecting Ideal Consoles and Accessories for Kids Gamers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-x-how-to-unlock-a-disabled-apple-iphone-x-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone X How to Unlock a Disabled Apple iPhone X?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-polar-pinnacles-beijing-2022-olympic-spotlight/"><u>In 2024, Polar Pinnacles Beijing 2022 Olympic Spotlight</u></a></li>
-<li><a href="https://fox-info.techidaily.com/integrating-timestamps-in-youtube-content-for-2024/"><u>Integrating Timestamps in YouTube Content for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leveraging-instagrams-capabilities-for-podcast-promotion-for-2024/"><u>Leveraging Instagram's Capabilities for Podcast Promotion for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/prepare-your-arsenal-upcoming-2024-enhancements-for-rainbow-six-siege/"><u>Prepare Your Arsenal: Upcoming 2024 Enhancements for Rainbow Six Siege</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/prospect-of-a-new-era-with-apples-touchscreen-macbook-price-estimates-release-dates-and-rumored-capabilities-inside/"><u>Prospect of a New Era with Apple's Touchscreen MacBook – Price Estimates, Release Dates and Rumored Capabilities Inside</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsungs-big-reveal-in-2er-2025-essential-updates-and-industry-hype/"><u>Samsung's Big Reveal in 2Er 2025: Essential Updates & Industry Hype</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-when-you-cant-find-the-d3dx924dll-on-your-system/"><u>Step-by-Step Solution for When You Can't Find the d3dx9_24.dll on Your System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/to-upgrade-or-not-to-upgrade-deciding-on-ios-17-for-your-device/"><u>To Upgrade or Not to Upgrade: Deciding on iOS 17 for Your Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-thorough-guide-to-thriving-in-stardews-hidden-landmark-ginger-isle-for-2024/"><u>[Updated] A Thorough Guide to Thriving in Stardew's Hidden Landmark Ginger Isle for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-9-vs-google-pixel-watch-2-a-detailed-review-for-tech-enthusiasts-insight/"><u>Apple Watch Series 9 Vs. Google Pixel Watch 2: A Detailed Review for Tech Enthusiasts Insight</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/clear-up-full-black-screens-in-rainbow-six-siege-with-these-simple-steps-pc/"><u>Clear Up Full Black Screens in Rainbow Six Siege with These Simple Steps (PC)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-iphone-15-variants-which-one-fits-your-needs-regular-vs-plus-pro-and-pro-max-breakdown-zdnet/"><u>Decoding iPhone 15 Variants: Which One Fits Your Needs? Regular Vs. Plus, Pro, and Pro Max Breakdown | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/determining-if-your-location-is-being-monitored-by-apples-airtag-insights-and-tips/"><u>Determining If Your Location Is Being Monitored by Apple's AirTag - Insights & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-for-entering-setup-mode-on-your-amazon-echo-dot/"><u>Easy Instructions for Entering Setup Mode on Your Amazon Echo Dot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-productivity-hacks-streamlining-your-everyday-tasks-with-proven-techniques/"><u>Essential Productivity Hacks: Streamlining Your Everyday Tasks with Proven Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-action-required-top-benefits-of-instantly-updating-to-ios-153/"><u>Immediate Action Required: Top Benefits of Instantly Updating to iOS 15.3</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-latest-intel-hd-graphics-drivers-compatible-with-windows-1011-free-downloads/"><u>Install Latest Intel HD Graphics Drivers Compatible with Windows 10/11 - Free Downloads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-safe-to-use-your-iphone-13-around-water/"><u>Is It Safe to Use Your iPhone 13 Around Water?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/purchase-available-ios-macos-and-watch-os-updates-from-the-latest-wwdc-preorders-and-retail-locations-techradar/"><u>Purchase Available iOS, macOS & Watch OS Updates From the Latest WWDC: Preorders and Retail Locations - TechRadar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-the-best-value-in-large-screen-televisions-a-deep-dive-into-the-sony-xbr65x850f/"><u>Review: The Best Value in Large Screen Televisions? A Deep Dive Into the Sony XBR65X850F</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722874504525-score-amazing-deals-on-ipads-right-now/"><u>Score Amazing Deals on iPads Right Now!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-rated-free-divx-video-editors-with-cutting-features-for-2024/"><u>Top-Rated Free Divx Video Editors with Cutting Features for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-c55-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme C55 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-future-of-smartphones-how-apples-cutting-edge-ai-developments-might-enhance-your-iphone-key-discoveries-revealed-by-new-study/"><u>Unveiling the Future of Smartphones: How Apple's Cutting-Edge AI Developments Might Enhance Your iPhone - Key Discoveries Revealed by New Study</u></a></li>
 </ul></div>
 

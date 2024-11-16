@@ -1,7 +1,7 @@
 ---
 title: "Transforming Accessibility: Navigate Your iPhone/iPad Using Only Your Gaze with Apple's Latest Innovation | Insights"
-date: 2024-11-03T21:02:34.722Z
-updated: 2024-11-05T19:12:50.761Z
+date: 2024-11-11T21:46:21.979Z
+updated: 2024-11-15T21:28:00.296Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,22 +130,16 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-minecraft-homestead-blueprint-series/"><u>[New] In 2024, Minecraft Homestead Blueprint Series</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unleashing-creativity-essential-tips-for-canva-pros-for-2024/"><u>[New] Unleashing Creativity Essential Tips for Canva Pros for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instacrafts-seamless-video-assemblies-on-androidios/"><u>[Updated] 2024 Approved InstaCrafts Seamless Video Assemblies on Android/iOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-a-practical-guide-to-saving-screens-on-dell-computers/"><u>2024 Approved A Practical Guide to Saving Screens on Dell Computers</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-proipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-tablet-showdown-the-best-picks-of-2erry-2024-as-ranked-by-experts/"><u>Affordable Tablet Showdown: The Best Picks of 2Erry 2024 as Ranked by Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-premium-fabric-case-series-in-favor-of-launching-beats-products/"><u>Apple Discontinues Premium Fabric Case Series in Favor of Launching Beats Products</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/declutter-email-effortlessly-discover-the-simple-technique-that-works-better-than-multiple-accounts/"><u>Declutter Email Effortlessly: Discover the Simple Technique That Works Better Than Multiple Accounts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-guide-to-getting-started-with-your-new-echo-dot/"><u>DIY Guide to Getting Started with Your New Echo Dot</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/drive-engagement-with-free-tools-crafting-powerful-fb-ad-videos-for-2024/"><u>Drive Engagement with FREE Tools Crafting Powerful FB Ad Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-ahead-with-technology-introducing-the-new-enhancements-for-apple-airpods-pro-2-step-by-step-update-instructions/"><u>Get Ahead with Technology: Introducing The New Enhancements for Apple AirPods Pro 2 - Step-by-Step Update Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/harmonizing-tech-correct-playback-glitches-for-spotify-on-your-android-auto-using-these-13-methods/"><u>Harmonizing Tech: Correct Playback Glitches for Spotify on Your Android Auto Using These 13 Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-historys-high-fliers-the-most-upvoted-threads-on-reddit/"><u>In 2024, History’s High-Fliers The Most Upvoted Threads on Reddit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-crossfade-magic-using-audacity-effectively/"><u>In 2024, Unlocking Crossfade Magic Using Audacity Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-wireless-expansion-a-comprehensive-review-of-2024s-best-range-extenders/"><u>Mastering Wireless Expansion: A Comprehensive Review of 2024'S Best Range Extenders</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-decision-matrix-macbook-pro-vs-macbook-air-showdown-expert-advice-on-picking-the-right-apple-device-from-zdnet/"><u>Ultimate Decision Matrix: MacBook Pro Vs. MacBook Air Showdown | Expert Advice on Picking the Right Apple Device From ZDNET</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1728490219805-windows-11/"><u>Windows 11でマイドキュメントフォルダーを新しいストレージへ移行する手順</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-10-sci-fi-vr-adventures-unveiling-distant-realities/"><u>[Updated] 2024 Approved 10 Sci-Fi VR Adventures Unveiling Distant Realities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-highlight-cover-art-inspiration-and-techniques-guide/"><u>[Updated] 2024 Approved Instagram Highlight Cover Art Inspiration & Techniques Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965976011-download-hp-pagewide-pro-477dw-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download HP PageWide PRO 477DW Printer Drivers Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725289272162-dvdpc/"><u>DVDデータ移行ガイド：PCへの簡単な取り込み手順</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-to-follow-instructions-for-sharing-drive-space-across-a-mac-network/"><u>Easy-to-Follow Instructions for Sharing Drive Space Across a Mac Network</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-eradication-how-to-address-and-correct-the-netflix-issue-nw-1-19-effectively/"><u>Error Eradication: How to Address and Correct the Netflix Issue NW-1-19 Effectively</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210800686-9781958082416-gods-gracious-glory/"><u>God's Gracious Glory | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/next-generation-wrist-tech-showdown-apple-watch-series-8-vs-series-10-review/"><u>Next-Generation Wrist Tech Showdown: Apple Watch Series 8 Vs. Series 10 Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-controlling-your-google-home-devices-from-a-pc/"><u>Step-by-Step Guide: Controlling Your Google Home Devices From a PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-16-strategies-for-archiving-online-tunes-and-talks/"><u>Top 16 Strategies for Archiving Online Tunes and Talks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-and-comparisons-by-experts-zdnet/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews and Comparisons by Experts - ZDNet</u></a></li>
 </ul></div>
 

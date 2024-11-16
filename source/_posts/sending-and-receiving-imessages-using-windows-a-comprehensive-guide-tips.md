@@ -1,7 +1,7 @@
 ---
 title: "Sending & Receiving iMessages Using Windows: A Comprehensive Guide - Tips"
-date: 2024-11-02T21:43:02.517Z
-updated: 2024-11-05T21:27:47.019Z
+date: 2024-11-15T02:56:13.075Z
+updated: 2024-11-15T22:58:33.346Z
 tags:
   - apple
 categories:
@@ -62,19 +62,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -86,10 +73,10 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
@@ -98,24 +85,31 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -134,10 +128,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -151,6 +145,13 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -169,13 +170,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,22 +207,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-master-windows-11-a-treasure-trove-of-undisclosed-features/"><u>[Updated] In 2024, Master Windows 11 A Treasure Trove of Undisclosed Features</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-determining-vertical-or-horizontal-video-posts-on-fb/"><u>2024 Approved Determining Vertical or Horizontal Video Posts on FB</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capturing-the-perfect-snap-on-pexels-for-2024/"><u>Capturing the Perfect Snap on Pexels for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-flip-in-windows-11-display-settings/"><u>Fixing Flip in Windows 11 Display Settings</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y56-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y56 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-persona-design-a-beginners-compreraniary-guide/"><u>In 2024, Metaverse Persona Design A Beginner's Compreraniary Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-selecting-the-best-hdr-cameras-simplified/"><u>In 2024, Selecting the Best HDR Cameras Simplified</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionary-lidar-tech-transforms-yard-maintenance-aids-utility-management-insights-from-zdnet/"><u>Revolutionary Lidar Tech Transforms Yard Maintenance, Aids Utility Management - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-yard-work-discover-how-our-tested-rc-lawnmower-brings-joy-to-trimming-grass-zdnet/"><u>Revolutionize Yard Work: Discover How Our Tested RC Lawnmower Brings Joy to Trimming Grass | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-personal-safety-how-a-cutting-edge-facial-recognition-lock-outperformed-traditional-devices-a-deep-dive-on-zdnet/"><u>Revolutionizing Personal Safety: How a Cutting-Edge Facial Recognition Lock Outperformed Traditional Devices - A Deep Dive on ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/slash-prices-by-40-secure-your-anker-power-generator-before-the-next-big-freeze-insights-for-homeowners/"><u>Slash Prices by 40%: Secure Your Anker Power Generator Before the Next Big Freeze - Insights for Homeowners</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sun-sand-and-beats-sony-releases-revolutionary-light-as-air-speakers-perfect-for-warm-weather-adventures-zdnet-insider-report/"><u>Sun, Sand & Beats: Sony Releases Revolutionary Light-as-Air Speakers Perfect for Warm Weather Adventures | ZDNET Insider Report</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tesla-cybertruck-vs-traditional-lawnmowers-a-surprisingly-superior-experience-as-seen-on-zdnet/"><u>Tesla Cybertruck Vs. Traditional Lawnmowers: A Surprisingly Superior Experience, as Seen on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-snowblower-selection-guide-expert-tips-and-reviews-for-preparing-your-home-this-winter-techinsights/"><u>The Complete Snowblower Selection Guide: Expert Tips & Reviews for Preparing Your Home This Winter | TechInsights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-enjoying-your-chores-a-rewarding-look-at-this-innovative-remote-controlled-lawn-mower/"><u>The Ultimate Guide to Enjoying Your Chores: A Rewarding Look at This Innovative Remote-Controlled Lawn Mower</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unlocking-the-secrets-of-duplicating-your-tiktok-aura/"><u>Unlocking the Secrets of Duplicating Your TikTok Aura</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-infuse-audiovisual-experience-in-ppt/"><u>[New] Infuse Audiovisual Experience in PPT</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-voices-for-change-highlighting-influential-ladies-on-youtube/"><u>[Updated] 2024 Approved Voices for Change Highlighting Influential Ladies on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-a-successful-career-through-youtube-short-film-making/"><u>[Updated] In 2024, Building a Successful Career Through YouTube Short Film-Making</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-creative-potential-with-new-iphone-x-camera/"><u>[Updated] Unlocking Creative Potential with New iPhone X Camera</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unveiling-our-exclusive-package-of-free-youtube-adornments/"><u>[Updated] Unveiling Our Exclusive Package of Free YouTube Adornments</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-vs-computer-ps5-meets-budget-pc/"><u>Console vs Computer: PS5 Meets Budget PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-approved-iphone-hacks-transform-your-device-using-stealthy-voice-shortcuts-featured-on-zdnet/"><u>Expert-Approved iPhone Hacks! Transform Your Device Using Stealthy Voice Shortcuts - Featured on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-the-next-gen-apple-watch-x-estimated-pricing-release-horizon-technical-specs-and-new-rumors-to-explore/"><u>Inside Look at the Next-Gen Apple Watch X: Estimated Pricing, Release Horizon, Technical Specs and New Rumors to Explore!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/laughlens-pictorial-humor-studio-for-2024/"><u>LaughLens Pictorial Humor Studio for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-macbook-and-imac-models-a-comprehensive-guide/"><u>Leading MacBook and iMac Models : A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722882565910-mastering-key-retrieval-top-acoustic-locator-2e-devices-of-the-year-2024-unveiled/"><u>Mastering Key Retrieval: Top Acoustic Locator '2E' Devices of the Year 2024 Unveiled!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolution-in-development-apples-latest-update-offers-coders-groundbreaking-free-ai-tools-zdnet/"><u>Revolution in Development: Apple's Latest Update Offers Coders Groundbreaking Free AI Tools | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-how-to-free-up-space-by-deleting-cache-on-android-phones/"><u>The Ultimate Tutorial: How to Free Up Space by Deleting Cache on Android Phones</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-video-orientation-made-easy-a-quick-start-guide/"><u>Updated In 2024, Video Orientation Made Easy A Quick Start Guide</u></a></li>
 </ul></div>
 

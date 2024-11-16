@@ -1,7 +1,7 @@
 ---
 title: "Mastering Potions: A Detailed Tutorial on Creating Awkward Effects in Minecraft"
-date: 2024-09-19T22:23:48.448Z
-updated: 2024-09-20T22:32:54.372Z
+date: 2024-11-10T02:22:37.445Z
+updated: 2024-11-15T18:33:32.413Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Potions: A Detailed Tutorial on Creating Awkward Effects in Minecraft"
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/06768f0764e3fd16593ec6ab66fe93ff9404677c0
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Awkward Potion Recipe
 
  Here are the materials required to brew an Awkward Potion in Minecraft:  
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/06768f0764e3fd16593ec6ab66fe93ff9404677c0
 * 1 Blaze Powder (craft with 1 Blaze Rod)  
 * 1 Water Bottle  
 * 1 Nether Wart  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does an Awkward Potion Do in Minecraft?
 
@@ -97,12 +111,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-discover-prime-streaming-options-for-churches-today/"><u>[Updated] In 2024, Discover Prime Streaming Options for Churches Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieve-seamless-international-use-how-to-update-regional-settings-on-an-iphone/"><u>Achieve Seamless International Use: How to Update Regional Settings on an iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-examples-podcast-summaries-for-2024/"><u>Crafting Compelling Examples Podcast Summaries for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-apple-podcasts-now-features-auto-generated-transcriptions-akin-to-closed-captions-insights-from-zdnet/"><u>Discover How Apple Podcasts Now Features Auto-Generated Transcriptions Akin to Closed Captions - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-list-over-35-unbeatable-tablet-deals-still-going-on-for-amazon-prime-day-2ebd-your-ultimate-source/"><u>Exclusive List: Over 35 Unbeatable Tablet Deals Still Going on for Amazon Prime Day 2Ebd | Your Ultimate Source</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-drivers-for-amd-radeon-r9-chipsets-easy-guide/"><u>Get the Latest Windows Drivers for AMD Radeon R9 Chipsets - Easy Guide!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-psvrs-upcoming-must-try-titles-the-ultimate-5-list/"><u>In 2024, PSVR's Upcoming Must-Try Titles The Ultimate 5 List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-easy-officially-licensed-winx-dvd-ripper-deluxe-hd-dvd-conversion-to-mp4-hevc-made-simple/"><u>Quick & Easy [Officially Licensed] WinX DVD Ripper Deluxe - HD DVD Conversion to MP4 (HEVC) Made Simple!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/satellite-sos-messaging-a-groundbreaking-feature-on-the-newly-launched-google-pixel-9-tech-analysis/"><u>Satellite SOS Messaging: A Groundbreaking Feature on the Newly Launched Google Pixel 9 | Tech Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-advancements-and-impacts-of-5g-technology-by-verizon/"><u>The Advancements and Impacts of 5G Technology by Verizon</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mystery-solving-mobile-games-discover-titles-that-echo-the-room-and-myst/"><u>Top Mystery-Solving Mobile Games: Discover Titles That Echo 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-incomplete-ryzen-master-driver-installations/"><u>Troubleshooting Incomplete Ryzen Master Driver Installations</u></a></li>
+</ul></div>
 

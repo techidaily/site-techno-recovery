@@ -1,7 +1,7 @@
 ---
 title: "Tech Insights: Apple's Venture Into Artificial Intelligence with Upcoming Home Automation Solutions Featuring Dual-Robot Design"
-date: 2024-11-01T20:32:55.721Z
-updated: 2024-11-05T16:06:50.777Z
+date: 2024-11-11T01:24:10.097Z
+updated: 2024-11-15T22:13:32.744Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -61,6 +54,19 @@ Some of the biggest AI features from Apple Intelligence include:
 Aside from these AI features, iOS 18 will include new customizable icons and interface updates for Control Center, Settings, and Messages. Apple is also launching a new [Passwords app](https://www.zdnet.com/article/apple-to-unveil-password-manager-app-at-wwdc-2024-what-it-is-and-how-it-works/) to replace the iCloud Keychain and give users a more user-friendly option, similar to 1Password and LastPass.
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
 
@@ -102,13 +108,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -121,13 +120,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -139,6 +131,19 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -157,10 +162,16 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -177,6 +188,13 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,18 +236,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-guide-transforming-images-into-youtube-desktop-thumbnails/"><u>[Updated] In 2024, Fast Guide Transforming Images Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-vidsnapper-live-and-group-videos-fb/"><u>[Updated] In 2024, VidSnapper Live and Group Videos, FB</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-viewers-your-wealth-building-an-earning-strategy/"><u>2024 Approved Your Viewers, Your Wealth Building an Earning Strategy</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-tutorial-on-captioning-instagram-story-content/"><u>A Comprehensive Tutorial on Captioning Instagram Story Content</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-lgbt-movies-to-binge-on-netflix-for-july-2e4-critics-selections/"><u>Best LGBT Movies to Binge on Netflix for July 2E4: Critics' Selections</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-tesla-bot-announcement-potential-costing-market-launch-schedule-and-specifications/"><u>Decoding the Tesla Bot Announcement: Potential Costing, Market Launch Schedule, and Specifications</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-how-to-successfully-switch-on-ipad-recovery-mode/"><u>Expert Advice: How To Successfully Switch On iPad Recovery Mode</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-restore-lost-sounds-to-twitter-vids/"><u>In 2024, Restore Lost Sounds to Twitter Vids</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-gmail-filter-creation-tailoring-your-inbox-efficiently/"><u>Mastering Gmail Filter Creation: Tailoring Your Inbox Efficiently</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/next-level-convenience-the-ultimate-compendium-of-18-shortcuts-app-uses-for-apple-devices/"><u>Next-Level Convenience: The Ultimate Compendium of 18 Shortcuts App Uses for Apple Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revealing-how-to-pop-out-an-iphone-sim-tray-without-specialized-tools/"><u>Revealing How to Pop Out an iPhone SIM Tray Without Specialized Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-channels-boosting-telegram-presence/"><u>[Updated] Harnessing the Power of Channels Boosting Telegram Presence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central-for-2024/"><u>A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-email-woes-actions-to-correctly-synchronize-your-gmail/"><u>Addressing Email Woes: Actions to Correctly Synchronize Your Gmail</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962298676-canon-imageclass-mf4800-printer-drivers-download-and-installation-guide/"><u>Canon ImageCLASS MF4800 Printer Drivers: Download and Installation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-overcapacity-alerts-for-gpt-service/"><u>Counteracting Overcapacity Alerts for GPT Service</u></a></li>
+<li><a href="https://win-latest.techidaily.com/crucial-magento-defense-strategies-top-10-must-know-measures-from-massmail-software-for-enhanced-e-commerce-site-safety/"><u>Crucial Magento Defense Strategies: Top 10 Must-Know Measures From MassMail Software for Enhanced E-Commerce Site Safety</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/end-incessant-apple-music-autoplay-a-step-by-step-solution/"><u>End Incessant Apple Music Autoplay: A Step-by-Step Solution</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-note-30-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Note 30 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unlock-the-secrets-to-enthralling-unboxing-content-on-insta/"><u>In 2024, Unlock the Secrets to Enthralling Unboxing Content on Insta</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reclaiming-your-facebook-profile-without-an-email-or-cellular-contact-details/"><u>Reclaiming Your Facebook Profile Without an Email or Cellular Contact Details</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-windows-way-to-enjoy-classic-quests-in-ultra-hd-via-scummvm/"><u>The Best Windows Way to Enjoy Classic Quests in Ultra-HD via ScummVM</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-breakdown-an-in-depth-look-at-digital-video-recorders/"><u>The Complete Breakdown: An In-Depth Look at Digital Video Recorders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-idevices-currently-worth-reconsidering-insights/"><u>Top 4 iDevices Currently Worth Reconsidering: Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-absent-nspr4dll-error-on-your-pc/"><u>Troubleshooting the Absent Nspr4.dll Error on Your PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/virtual-arena-transcript/"><u>Virtual Arena Transcript</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Get The Most Out Of Your AMD Radeon: Update To Driver Version 24.10 Today!"
-date: 2024-09-18T03:43:09.134Z
-updated: 2024-09-21T03:47:42.661Z
+date: 2024-11-09T00:55:14.241Z
+updated: 2024-11-15T21:29:05.292Z
 categories:
   - BestProducts
 description: "This Article Describes Get The Most Out Of Your AMD Radeon: Update To Driver Version 24.10 Today!"
@@ -40,6 +40,14 @@ lolostock / Getty Images
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
@@ -51,6 +59,14 @@ lolostock / Getty Images
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
 ## Capturing a Scan From a Printer on a Mac
@@ -64,12 +80,35 @@ lolostock / Getty Images
 14. Click**Open Scanner** .  
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -107,12 +146,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pcs-gateway-to-the-past-selecting-top-5-ps1-game-emulators/"><u>[New] PC's Gateway to the Past - Selecting Top 5 PS1 Game Emulators</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unmask-phony-followers-a-speedy-cost-free-approach-for-instagram-for-2024/"><u>[New] Unmask Phony Followers A Speedy, Cost-Free Approach for Instagram for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-network-not-found-and-unregistered-device-errors-in-samsung-electronics/"><u>Addressing 'Network Not Found' And 'Unregistered Device' Errors in Samsung Electronics</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-free-music-apps-for-ios-devices/"><u>Discover the Ultimate List of Free Music Apps for iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/driving-green-gaining-more-the-unspoken-benefits-of-evs-in-parking-and-carpool-lanes/"><u>Driving Green, Gaining More: The Unspoken Benefits of EVs in Parking and Carpool Lanes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-find-n3-flip-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo Find N3 Flip to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>In 2024, The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-of-fugeteks-premium-selfie-stick-the-ft-568-model/"><u>In-Depth Analysis of Fugetek's Premium Selfie Stick - The FT-568 Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roku-free-streaming-how-to-enjoy-your-favorite-shows-on-different-platforms/"><u>Roku-Free Streaming: How to Enjoy Your Favorite Shows on Different Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-a-steal-get-the-latest-apple-pencil-2nd-gen-for-just-95-during-labor-day-sale-top-tech-deals/"><u>Score a Steal: Get the Latest Apple Pencil 2Nd Gen for Just $95 During Labor Day Sale - Top Tech Deals!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stream-crackle-access-no-cost-films-and-shows-on-demand/"><u>Stream Crackle: Access No-Cost Films & Shows on Demand</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-air-protection-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated iPad Air Protection - Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-top-mp3-player-picks/"><u>Ultimate Guide: Top MP3 Player Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-major-savings-grab-deflated-prices-for-apple-airpods-in-july-sales-event-zdnet/"><u>Unlock Major Savings: Grab Deflated Prices for Apple AirPods in July Sales Event | ZDNET</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-11-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024/"><u>おせち以外で楽しむ2024年新春の味わい〜舌上驚かすお得情報</u></a></li>
+</ul></div>
 

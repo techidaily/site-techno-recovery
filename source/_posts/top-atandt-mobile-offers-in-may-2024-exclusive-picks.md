@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Picks
-date: 2024-10-29T19:59:25.969Z
-updated: 2024-11-05T18:02:42.649Z
+date: 2024-11-14T02:10:58.532Z
+updated: 2024-11-15T17:34:09.523Z
 tags:
   - apple
 categories:
@@ -116,6 +116,13 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -129,13 +136,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Google Pixel 8 Pro, free with trade-in, free Pixel Watch 2 View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/google-pixel-8-pro.html)
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Accessory and service deals
 
@@ -161,26 +161,32 @@ When we made our selection for the best AT&T deals, we wanted to include options
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
@@ -189,10 +195,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -244,22 +250,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-science-of-visual-appeal-crafting-stunning-youtube-shorts-templates/"><u>[New] In 2024, The Science of Visual Appeal Crafting Stunning YouTube Shorts Templates</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-metaverse-mirth-makers-top-tips-for-crafting-hilarious-virtual-images-for-2024/"><u>[New] Metaverse Mirth Makers Top Tips for Crafting Hilarious Virtual Images for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-metaverse-musings-arvr-inclusive-quotes-collection/"><u>[New] Metaverse Musings AR/VR-Inclusive Quotes Collection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inside-the-magic-box-how-does-vr-function/"><u>[Updated] Inside the Magic Box How Does VR Function?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-10-decibel-leveler-apps-for-all-os/"><u>[Updated] Leading 10 Decibel Leveler Apps for All OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-guide-10-fast-x-skill-builders-formerly-featured-on-twitter/"><u>Beginner’s Guide: 10 Fast X Skill-Builders Formerly Featured on Twitter</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/beyond-enhanced-graphics-exploring-the-full-potential-of-the-new-playstation-5/"><u>Beyond Enhanced Graphics: Exploring the Full Potential of the New PlayStation 5</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/finding-out-whos-viewing-your-youtube-content-a-comprehensive-guide/"><u>Finding Out Who's Viewing Your YouTube Content: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-use-google-duet-in-gmail/"><u>How to Use Google Duet in Gmail</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-6-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic 6 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/investigating-how-effective-is-iphone-15-in-protecting-from-water-damage/"><u>Investigating How Effective Is iPhone 15 in Protecting From Water Damage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/james-bond-cinematic-journey-a-step-by-step-guide-to-watch-them-all-in-order/"><u>James Bond Cinematic Journey: A Step-by-Step Guide to Watch Them All in Order</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/leveraging-cookiebot-technology-for-optimized-online-presence-and-seo-success/"><u>Leveraging Cookiebot Technology for Optimized Online Presence and SEO Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-process-steps-to-add-your-domain-securely-on-mac-os-xs-mail-application/"><u>Mastering the Process: Steps to Add Your Domain Securely on Mac OS X's Mail Application</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/online-access-guide-tune-into-the-latest-smartphone-and-tech-launches-by-samsung/"><u>Online Access Guide: Tune Into the Latest Smartphone and Tech Launches by Samsung</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-best-uninterruptible-power-supply-for-pc-enthusiasts-an-in-depth-review-of-the-apc-model/"><u>The Best Uninterruptible Power Supply for PC Enthusiasts: An In-Depth Review of the APC Model</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complexity-of-royal-match-stages-unveiling-the-number-of-strata-involved/"><u>The Complexity of 'Royal Match' Stages: Unveiling the Number of Strata Involved</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-cutting-edge-video-meeting-techniques-on-slack-plus-filmora/"><u>[Updated] In 2024, Cutting-Edge Video Meeting Techniques on Slack + Filmora</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-key-to-success-perfecting-your-online-yt-presence/"><u>[Updated] In 2024, The Key to Success Perfecting Your Online YT Presence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-how-to-burn-video-to-dvd-on-mac/"><u>2024 Approved How to Burn Video to DVD on Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-chatgpts-role-top-factors-to-weigh-for-mental-health-applications/"><u>Assessing ChatGPT's Role: Top Factors to Weigh for Mental Health Applications</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-mobile-and-desktop-mkv-software/"><u>Best Mobile and Desktop MKV Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cease-unwanted-iphone-sms-a-simple-guide-to-blocking-spam-messages-tips-from-zdnet/"><u>Cease Unwanted iPhone SMS: A Simple Guide to Blocking Spam Messages - Tips From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-remove-your-likes-from-every-track-on-spotify/"><u>Complete Guide: Remove Your Likes From Every Track on Spotify</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-new-era-of-beat-earbuds-sub-100-prices-meet-high-quality-sound-expert-review-from-zdnet/"><u>Discover the New Era of Beat Earbuds: Sub-$100 Prices Meet High-Quality Sound | Expert Review From ZDNET</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/elevate-engagement-posting-video-content-from-twitter-on-snapchat/"><u>Elevate Engagement Posting Video Content From Twitter on Snapchat</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-android-can-surpass-ios-with-these-five-key-enhancements-expert-analysis-by-zdnet/"><u>How Android Can Surpass iOS with These Five Key Enhancements - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-guide-forceful-disabling-of-win11-print-devices/"><u>Instant Guide: Forceful Disabling of Win11 Print Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-sideloading-legal-on-iphones-learn-how-apple-intends-to-regulate-and-charge-for-external-app-downloads/"><u>Is Sideloading Legal on iPhones? Learn How Apple Intends to Regulate and Charge for External App Downloads.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ready-to-pre-order-the-new-apple-vision-pro-expert-tips-and-essential-faqs-find-out-now/"><u>Ready to Pre-Order the New Apple Vision Pro? Expert Tips & Essential FAQs - Find Out Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-unauthorized-access-401-error-a-comprehensive-guide/"><u>Resolving the 'Unauthorized Access' 401 Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-2023-buyers-guide-for-airpods-pro-accessories-cnet/"><u>The Ultimate 2023 Buyer’s Guide for AirPods Pro Accessories | CNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-missing-d3dx940-dynamic-link-library-dll-file/"><u>Troubleshooting Steps for Missing D3dx9_40 Dynamic Link Library (DLL) File</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
 

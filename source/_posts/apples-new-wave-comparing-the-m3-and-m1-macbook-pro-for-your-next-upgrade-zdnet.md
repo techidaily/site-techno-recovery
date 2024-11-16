@@ -1,7 +1,7 @@
 ---
 title: "Apple’s New Wave: Comparing the M3 and M1 MacBook Pro for Your Next Upgrade | ZDNet"
-date: 2024-11-04T18:39:07.117Z
-updated: 2024-11-05T21:19:16.480Z
+date: 2024-11-11T21:25:51.709Z
+updated: 2024-11-16T01:34:43.116Z
 tags:
   - apple
 categories:
@@ -46,6 +46,13 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the M1 MacBook Pro if...
 
 Jason Cipriani/ZDNET
@@ -74,18 +81,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  3\. You prefer a smaller overall size and touch bar
 
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C482d11f1-f307-4fbe-be5e-a5a6ebb5ccb2%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
 
@@ -94,10 +101,16 @@ Buy a MacBook Pro with an M3 Pro chip on sale now.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You're working outside or in other very bright environments
@@ -105,10 +118,10 @@ Jason Hiner/ZDNET
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're doing very intensive or time-sensitive tasks
@@ -124,13 +137,6 @@ If you're working in a very fast-paced environment (say, live sports or entertai
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
 
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C482d11f1-f307-4fbe-be5e-a5a6ebb5ccb2%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -166,22 +172,16 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-essentials-to-initiate-in-google-meet/"><u>[New] 2024 Approved The Essentials to Initiate in Google Meet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-1-live-music-broadcasts/"><u>[Updated] Top 1 Live Music Broadcasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/calculate-the-absolute-deviations-48-28-22-82-38-12/"><u>Calculate the Absolute Deviations: $4.8, 2.8, 2.2, 8.2, 3.8, 1.2$</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/diving-deep-into-instagrams-new-features/"><u>Diving Deep Into Instagram's New Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-organizing-inboxes-in-gmail-from-advanced-filtering-to-adding-new-contacts/"><u>Effective Strategies for Organizing Inboxes in Gmail: From Advanced Filtering to Adding New Contacts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expertly-curated-list-of-ideal-mac-booster-programs-for-2astock-marketing-teamcom)marketing-teams-reviewed-by-zdnet/"><u>Expertly Curated List of Ideal Mac Booster Programs for 2Astock Marketing team.com>Marketing Teams | Reviewed by ZDNET</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-xsipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone XS/iPad Without Computer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-7-best-budget-mirrorless-4k-cameras-under-1000/"><u>In 2024, 7 Best Budget Mirrorless 4K Cameras Under $1000</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-public-health-screening-method-unveiled-at-local-restroom-facility/"><u>Innovative Public Health Screening Method Unveiled at Local Restroom Facility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-on-your-ipad-ultimate-list-of-tools-to-boost-your-output-and-organize-workflow/"><u>Maximizing Productivity on Your iPad: Ultimate List of Tools to Boost Your Output & Organize Workflow</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/meta-ai-advantages-elevating-your-instagram-game-through-smart-technology/"><u>Meta AI Advantages: Elevating Your Instagram Game Through Smart Technology</u></a></li>
-<li><a href="https://facebook.techidaily.com/rethinking-connection-the-unveiling-of-facebooks-new-identity-meta/"><u>Rethinking Connection: The Unveiling of Facebook’s New Identity, Meta</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionary-apples-next-venture-into-augmented-reality-and-cost-effective-visual-devices-unveiled-sources/"><u>Revolutionary Apple's Next Venture Into Augmented Reality and Cost-Effective Visual Devices - Unveiled Sources</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-voicemod-issues/"><u>Ultimate Guide: Resolving Voicemod Issues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-11-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme 11 5G Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevated-viewership-status-symbolized-by-buttons/"><u>[New] 2024 Approved Elevated Viewership Status Symbolized by Buttons</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peering-into-the-future-with-asuss-4k-uxga-mg28uq-screen/"><u>[New] Peering Into the Future with ASUS's 4K UXGA MG28UQ Screen</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-harness-your-footage-potential-with-vimeo-record/"><u>2024 Approved Harness Your Footage Potential with Vimeo Record</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-buys-top-discounted-products-for-june-202n-exclusive-insights-from-zdnet/"><u>Best Buy's Top Discounted Products for June 202N: Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-presidents-day-promotion-save-200-on-latest-macbook-pro-equipped-with-m3-pro-chip-special-offer-from-zdnet/"><u>Exclusive Presidents' Day Promotion: Save $200 on Latest MacBook Pro Equipped with M3 Pro Chip - Special Offer From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-k350-mouse-software-free-download/"><u>Get the Latest Logitech K350 Mouse Software - Free Download</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hitachi-4k-uhd-televisions-the-best-of-both-worlds-high-definition-and-roku-integrated-for-endless-viewing-pleasure/"><u>Hitachi 4K UHD Televisions: The Best of Both Worlds – High Definition and Roku Integrated for Endless Viewing Pleasure</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-lava-yuva-2-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Lava Yuva 2 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-insiders-guide-to-combining-songs-from-various-lists-into-a-single-spotify-collection/"><u>The Insider's Guide to Combining Songs From Various Lists Into a Single Spotify Collection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-popular-mac-software-curated-by-zdnet/"><u>Ultimate Guide to the Most Popular Mac Software , Curated by ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/video-expertise-elevated-streamline-your-edits-with-these-vimeo-shortening-techniques-for-2024/"><u>Video Expertise Elevated Streamline Your Edits with These Vimeo Shortening Techniques for 2024</u></a></li>
 </ul></div>
 

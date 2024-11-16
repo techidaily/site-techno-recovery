@@ -1,7 +1,7 @@
 ---
 title: "Windows Users Guide: Sending & Receiving iMessages with Ease"
-date: 2024-11-01T22:12:10.471Z
-updated: 2024-11-05T21:28:47.870Z
+date: 2024-11-15T04:47:56.829Z
+updated: 2024-11-16T01:13:00.982Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -57,10 +64,10 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -85,13 +92,6 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -104,19 +104,6 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -125,6 +112,19 @@ Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install Intel Unison
 
 To use Intel Unison, download and install the app from [the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26).
@@ -132,19 +132,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -158,24 +145,31 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -219,24 +213,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-best-in-class-steadicam-equipment-for-drone-cinematography/"><u>[New] Best-in-Class Steadicam Equipment for Drone Cinematography</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-crack-the-code-of-content-discovery-on-facebook/"><u>[Updated] 2024 Approved Crack the Code of Content Discovery on Facebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-2023s-standout-professional-360cameras/"><u>[Updated] Exploring 2023'S Standout Professional 360°Cameras</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-fomo-dissolved-with-xr-glasses-save-140-during-amazon-prime-day-tech-insights-from-zdnet/"><u>Apple Vision Pro FOMO Dissolved with XR Glasses: Save $140 During Amazon Prime Day – Tech Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-foray-into-augmented-and-virtual-reality-transforming-our-perception-of-truth-insights-from-zdnet/"><u>Apple's Foray Into Augmented and Virtual Reality: Transforming Our Perception of Truth | Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beta-sneak-peek-unitys-launch-of-apple-vision-pro-support-opens-new-doors-for-arvr-gaming-zdnet/"><u>Beta Sneak Peek: Unity's Launch of Apple Vision Pro Support Opens New Doors for AR/VR Gaming - ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-visuals-the-latest-advances-in-ar-glasses-aesthetics-zdnet/"><u>Enhance Your Visuals: The Latest Advances in AR Glasses Aesthetics | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-the-next-level-of-virtual-reality-with-apples-3d-videos-streamable-to-your-oculus-meta-quest-tutorial-inside/"><u>Experience the Next Level of Virtual Reality with Apple's 3D Videos Streamable to Your Oculus Meta Quest - Tutorial Inside!</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-v27-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo V27 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-add-link-to-facebook-story-for-free-for-2024/"><u>How to Add Link to Facebook Story for Free for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-6-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 6?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi A2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/power-and-precision-combined-how-amds-flagship-zen-5-ryzen-9-9950x-outclasses-its-ancestor-the-ryzen-9-7950x-by-a-remarkable-24-in-new-benchmark-studies/"><u>Power and Precision Combined: How AMD's Flagship Zen #5 Ryzen 9 9950X Outclasses Its Ancestor, the Ryzen 9 7950X by a Remarkable 24% in New Benchmark Studies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revamping-apple-user-profiles-discover-the-enhanced-features-in-ios-and-ipados-with-the-latest-visionos-updates-zdnet/"><u>Revamping Apple User Profiles: Discover the Enhanced Features in iOS and iPadOS with the Latest VisionOS Updates | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-telecommuting-the-impact-of-virtual-reality-and-digital-twin-technology-on-technical-jobs-insights-from-zdnet/"><u>Revolutionizing Telecommuting: The Impact of Virtual Reality & Digital Twin Technology on Technical Jobs - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-into-the-future-capture-360-moments-using-forget-vision-pros-affordable-xr-headsets-for-only-199-tech-insights/"><u>Step Into the Future: Capture 360° Moments Using Forget Vision Pro's Affordable XR Headsets for Only $199 | Tech Insights</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-huawei-nova-y71-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Huawei Nova Y71 without backup.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-interaction-with-xr-digital-twins-and-spatial-tech-in-business-insights-from-zdnet/"><u>Transforming Interaction with XR, Digital Twins & Spatial Tech in Business | Insights From ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-se-2020-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone SE (2020) Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-discover-a-broad-array-top-15-cams-not-like-gopro/"><u>[New] In 2024, Discover a Broad Array Top 15 Cams Not Like GoPro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-high-tech-5-live-screen-recorders/"><u>[New] In 2024, High-Tech 5 Live Screen Recorders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-places-to-pre-order-ipad-pro-ipad-air-and-apple-pencil-pro-top-current-offers-on-zdnet/"><u>Best Places to Pre-Order iPad Pro, iPad Air & Apple Pencil Pro: Top Current Offers on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-selection-the-ultimate-july-2prise-laptops-for-savvy-shoppers-featured-by-zdnet/"><u>Exclusive Selection: The Ultimate July 2Prise Laptops for Savvy Shoppers, Featured by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-easily-set-up-and-run-kodi-on-android-a-comprehensive-picture-guided-guide/"><u>How to Easily Set Up and Run Kodi on Android: A Comprehensive Picture-Guided Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-14-pro-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 14 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/m3-macbook-pro-launch-details-pricing-specifications-and-release-timeline/"><u>M3 MacBook Pro Launch Details: Pricing, Specifications, and Release Timeline</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-building-and-expanding-your-twitter-audience/"><u>The Ultimate Guide to Building and Expanding Your Twitter Audience</u></a></li>
 </ul></div>
 

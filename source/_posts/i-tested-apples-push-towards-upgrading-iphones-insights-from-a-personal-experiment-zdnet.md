@@ -1,7 +1,7 @@
 ---
 title: I Tested Apple's Push Towards Upgrading iPhones - Insights From a Personal Experiment | ZDNet
-date: 2024-11-03T21:29:05.423Z
-updated: 2024-11-05T21:23:05.530Z
+date: 2024-11-09T20:39:11.039Z
+updated: 2024-11-16T03:10:37.768Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
@@ -65,10 +65,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -80,10 +80,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -108,19 +108,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  1\. You don't require the generative AI capabilities
 
 All of the bells and whistles on the iPhone 16 are certainly nice, but are they must-haves? To many people, probably not. Generative AI still has its' issues despite advancing rapidly in the past couple of years. Apple Intelligence and the new Siri may be great, but we wouldn't be surprised to see users encounter performance problems or hallucinations.
@@ -136,6 +123,13 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -171,19 +165,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-craft-stunning-photos-with-color-correction/"><u>[New] Craft Stunning Photos with Color Correction</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-cross-platform-guide-to-transforming-photographic-genders-online/"><u>[New] Cross-Platform Guide to Transforming Photographic Genders Online</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-elite-portables-cutting-edge-4k-video-creation-machines/"><u>[New] Elite Portables Cutting-Edge 4K Video Creation Machines</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-efficient-video-management-how-to-include-content-in-youtube-playlists/"><u>[New] In 2024, Efficient Video Management How to Include Content in YouTube Playlists</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-inspiring-video-concepts-for-impactful-presentations/"><u>[New] Inspiring Video Concepts for Impactful Presentations</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-premier-tools-for-post-production-of-dji-videos/"><u>[Updated] Premier Tools for Post-Production of DJi Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-redmi-note-12r-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi Redmi Note 12R FRP</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-world-of-digital-sound-capture-a-deep-dive/"><u>In 2024, Navigating the World of Digital Sound Capture A Deep Dive</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/re-evaluating-video-streamers-for-maximum-impact/"><u>Re-Evaluating Video Streamers for Maximum Impact</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sony-unveils-ultimate-summer-sound-with-new-portable-speaker-line-in-depth-review-and-insights/"><u>Sony Unveils Ultimate Summer Sound with New Portable Speaker Line: In-Depth Review and Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-finding-the-best-bbq-and-patio-kits-as-gifts-for-your-cooking-enthusiast-dad-zdnet/"><u>The Ultimate Guide to Finding the Best BBQ & Patio Kits as Gifts for Your Cooking-Enthusiast Dad | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-electric-lawn-mowers-reviews-and-buyers-guide/"><u>Top 5 Electric Lawn Mowers : Reviews & Buyer's Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-camping-equipment-and-accessories-insights-from-zdnet/"><u>Top 5 Essential Camping Equipment & Accessories : Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-handheld-tire-inflation-tools-expert-picks-by-zdnet/"><u>Top 5 Handheld Tire Inflation Tools : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>[Updated] In 2024, Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-plan-for-streaming-google-meet-on-youtube/"><u>[Updated] The Ultimate Plan for Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-solutions-to-address-mscorwksdll-missing-issues/"><u>Comprehensive Solutions to Address MSCORWKS.DLL Missing Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-and-share-the-essential-guide-to-joining-in-on-shared-photo-albums-using-your-iphone/"><u>Connect and Share: The Essential Guide to Joining in on Shared Photo Albums Using Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eu-watchdogs-encouraged-by-google-to-compel-apples-transparency-in-imessage-services/"><u>EU Watchdogs Encouraged by Google to Compel Apple's Transparency in iMessage Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exposing-apples-bold-strategy-against-leading-browser-market-share-a-detailed-look-at-their-new-ad-campaign/"><u>Exposing Apple's Bold Strategy Against Leading Browser Market Share: A Detailed Look at Their New Ad Campaign</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-when-dirt-5-continuously-fails-to-launch-on-your-computer/"><u>Fixes For When Dirt 5 Continuously Fails To Launch On Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-k70-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi K70 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-a78-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo A78 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-time-for-a-reply-yet-identifying-if-someones-read-your-text/"><u>Is It Time for a Reply Yet? Identifying If Someone's Read Your Text</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/keep-your-ipad-iphone-and-macbook-energized-and-cool-using-our-recommended-3-in-1-magsafe-charger-insights-from-zdnet/"><u>Keep Your iPad, iPhone & MacBook Energized and Cool Using Our Recommended 3-in-1 MagSafe Charger - Insights From ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-ways-from-video-links-to-audio-downloads/"><u>Prime Ways From Video Links to Audio Downloads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rapid-results-perfecting-your-shader-settings-in-star-wars-bf2/"><u>Rapid Results: Perfecting Your Shader Settings in Star Wars BF2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097549885-re-pair-and-recognize-your-latest-cam-on-updated-pc-an-expert-guide-completely-solved-fixed/"><u>Re-Pair and Recognize Your Latest Cam on Updated PC: An Expert Guide, Completely Solved! [Fixed]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-spam-protect-your-iphone-with-these-three-essential-text-blocking-strategies-by-zdnet/"><u>Say Goodbye to Spam: Protect Your iPhone with These Three Essential Text-Blocking Strategies by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-linking-your-amazon-firestick-with-any-projector/"><u>Ultimate Guide: Linking Your Amazon Firestick with Any Projector</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ultimate-guide-reformatting-and-repurposing-your-old-dvds-effectively/"><u>Ultimate Guide: Reformatting and Repurposing Your Old DVDs Effectively</u></a></li>
 </ul></div>
 

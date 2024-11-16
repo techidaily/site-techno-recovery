@@ -1,7 +1,7 @@
 ---
 title: Leading Cable Modem & Router Combinations for Optimal Performance
-date: 2024-09-18T21:15:31.760Z
-updated: 2024-09-20T23:26:30.815Z
+date: 2024-11-14T03:55:08.576Z
+updated: 2024-11-16T01:42:44.260Z
 categories:
   - BestProducts
 description: This Article Describes Leading Cable Modem & Router Combinations for Optimal Performance
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/aJKUaYF18zo7_-orp6Jv-_MMCOI=/300x200/fi
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -32,12 +39,28 @@ thumbnail: https://www.lifewire.com/thmb/aJKUaYF18zo7_-orp6Jv-_MMCOI=/300x200/fi
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
@@ -52,10 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/aJKUaYF18zo7_-orp6Jv-_MMCOI=/300x200/fi
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
@@ -102,5 +125,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-audio-integration-on-reels/"><u>[New] 2024 Approved The Ultimate Guide to Audio Integration on Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-add-filters-and-music-on-windows-11-photos-app/"><u>[New] How to Add Filters and Music on Windows 11 Photos App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-stop-code-0x0000005c-steps-for-successful-troubleshooting/"><u>Fixing Stop Code 0X0000005C: Steps for Successful Troubleshooting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/frolicsome-videoland-assessor/"><u>Frolicsome Videoland Assessor</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-growth-beyond-grammar-constraints/"><u>Linguistic Growth Beyond Grammar Constraints</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-apple-watch-usage-with-8-key-battery-saving-adjustments-expert-guide-by-zdnet/"><u>Revolutionize Your Apple Watch Usage with 8 Key Battery-Saving Adjustments | Expert Guide by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-hotel-stay-with-apple-airplay-elite-properties-offering-the-latest-technology-explained-by-zdnet/"><u>Revolutionize Your Hotel Stay with Apple AirPlay – Elite Properties Offering the Latest Technology Explained by ZDNET</u></a></li>
+<li><a href="https://win-data.techidaily.com/szwadronowanie-dysku-twardego-na-ssd-bez-powtorzonego-startera-obiedywalanie/"><u>Szwadronowanie Dysku Twardego Na SSD Bez Powtorzonego Startera OBIEDYWALANIE</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-foldable-unlocking-secrets-of-the-upcoming-google-pixel-fold-2-specs-launch-date-and-market-impact/"><u>The Future Is Foldable: Unlocking Secrets of the Upcoming Google Pixel Fold 2 – Specs, Launch Date, and Market Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-top-artisans-in-sound-and-video-craftsminas-online-for-2024/"><u>The Top Artisans in Sound and Video Craftsminas Online for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-factors-driving-consumer-returns-of-the-apple-vision-pro-insights-from-reddit-discussions-analysis/"><u>Top 7 Factors Driving Consumer Returns of the Apple Vision Pro: Insights From Reddit Discussions Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ts-files-to-vob-format-fast-and-easy-conversion-at-no-cost/"><u>TS Files to VOB Format: Fast & Easy Conversion at No Cost</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-docooler-usb-20-is-this-12mp-digital-camera-as-amazing-as-advertised/"><u>Unboxing and Testing the Docooler USB 2.0: Is This 12Mp Digital Camera as Amazing as Advertised?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-apple-vision-pro-expert-guidance-on-impeccable-screenshot-captures-and-seamless-recordings/"><u>Unlocking the Secrets of Apple Vision Pro: Expert Guidance on Impeccable Screenshot Captures and Seamless Recordings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgraded-apple-technology-deciding-between-m1-and-m2-ipad-pros-which-suits-you-better-tech-advice/"><u>Upgraded Apple Technology: Deciding Between M1 & M2 iPad Pros – Which Suits You Better? | Tech Advice</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-exposes-the-4-worst-times-to-invest-in-apple-products-wait-before-you-buy/"><u>ZDNet Exposes the 4 Worst Times to Invest in Apple Products - Wait Before You Buy!</u></a></li>
+</ul></div>
 

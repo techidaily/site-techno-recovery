@@ -1,7 +1,7 @@
 ---
 title: Discover the Hottest Max Original Programming of the Moment
-date: 2024-09-18T17:53:56.263Z
-updated: 2024-09-20T23:10:06.020Z
+date: 2024-11-13T23:30:54.869Z
+updated: 2024-11-15T17:15:41.289Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Hottest Max Original Programming of the Moment
@@ -30,6 +30,13 @@ thumbnail: https://www.lifewire.com/thmb/L81Om_vlD_nMG0_PGF0bOstYf8o=/540x405/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -49,10 +56,10 @@ thumbnail: https://www.lifewire.com/thmb/L81Om_vlD_nMG0_PGF0bOstYf8o=/540x405/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
@@ -63,18 +70,18 @@ thumbnail: https://www.lifewire.com/thmb/L81Om_vlD_nMG0_PGF0bOstYf8o=/540x405/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -107,13 +114,6 @@ thumbnail: https://www.lifewire.com/thmb/L81Om_vlD_nMG0_PGF0bOstYf8o=/540x405/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -133,6 +133,13 @@ thumbnail: https://www.lifewire.com/thmb/L81Om_vlD_nMG0_PGF0bOstYf8o=/540x405/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -161,5 +168,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-expert-recording-software-for-desktop-hd-video/"><u>[New] In 2024, Expert Recording Software for Desktop HD Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-monetizing-mastery-harness-the-power-of-your-youtube-content-on-mobile/"><u>[New] Monetizing Mastery Harness the Power of Your YouTube Content on Mobile</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-mac-best-screen-capture-applications-reviewed/"><u>[Updated] 2024 Approved Mastering Mac Best Screen Capture Applications Reviewed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-15-uncomplicated-vlog-ideas-to-ignite-creativity-for-2024/"><u>[Updated] Top 15 Uncomplicated Vlog Ideas to Ignite Creativity for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-upgrades-logic-pro-with-innovative-ai-musicians-to-empower-tablet-and-desktop-producers-on-zdnet/"><u>Apple Upgrades Logic Pro with Innovative AI 'Musicians' To Empower Tablet and Desktop Producers on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarity-in-functionality-gpt4all-explored/"><u>Clarity in Functionality: GPT4All Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-to-experience-superman-saga-correctly/"><u>Essential Steps to Experience Superman Saga Correctly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-photography-revolutionized-capturing-live-events-in-ios-16-explained/"><u>IPhone Photography Revolutionized: Capturing Live Events in iOS 16 Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/last-snapshot-exploring-windows-latest-files/"><u>Last Snapshot: Exploring Windows' Latest Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-non-responsive-alexa-a-step-by-step-guide/"><u>Solving Non-Responsive Alexa: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-emails-to-your-safe-list-in-gmail/"><u>Step-by-Step Guide: Adding Emails to Your Safe List in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-airtag-wallet-picks-for-2/"><u>Top-Rated AirTag Wallet Picks for 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-strategies-for-mastering-roller-champions-crossplay/"><u>Ultimate Strategies for Mastering Roller Champions Crossplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unboxing-the-future-the-iphone-15-reviewed-by-tech-pros-s-comprehensive-guide/"><u>Unboxing the Future: The iPhone 15 Reviewed by Tech Pros 'S Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-guide-to-choosing-iphonedesktop-converters-ranked-by-experts-8/"><u>Your Guide to Choosing iPhone/Desktop Converters Ranked by Experts #8</u></a></li>
+</ul></div>
 

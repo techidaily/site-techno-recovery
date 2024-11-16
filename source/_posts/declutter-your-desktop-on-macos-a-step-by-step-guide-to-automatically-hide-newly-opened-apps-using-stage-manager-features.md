@@ -1,7 +1,7 @@
 ---
 title: "Declutter Your Desktop on macOS: A Step-by-Step Guide to Automatically Hide Newly Opened Apps Using Stage Manager Features"
-date: 2024-10-31T22:10:54.329Z
-updated: 2024-11-05T16:49:35.117Z
+date: 2024-11-09T18:52:44.695Z
+updated: 2024-11-15T17:21:01.702Z
 tags:
   - apple
 categories:
@@ -47,10 +47,16 @@ Fortunately, there's an easy way around this problem. Once you've taken the foll
 **What you'll need:** The only thing you'll need is a MacOS device running MacOS Ventura or later. Make sure your OS is as up-to-date as possible. I'll demonstrate this on a MacBook Pro (M1), running MacOS Sonoma. As long as your version of MacOS supports Stage Manager, you should be good to go.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open System Settings
@@ -58,10 +64,10 @@ Fortunately, there's an easy way around this problem. Once you've taken the foll
 The first thing to do is open the System Settings app. You can do this by either clicking the Apple icon in the Menu Bar, from your Dock (if it's pinned there) or from the Launchpad. I usually just go the Apple icon route because that's what my brain is accustomed to.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Go to Desktop & Dock
@@ -73,10 +79,10 @@ You'll find the Stage Manager options in the Desktop & Dock section of System Se
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Show recent apps
@@ -121,20 +127,18 @@ And that's all there is to hiding the recent apps in Stage Manager. If you're li
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-places-to-enjoy-vr-films/"><u>[Updated] In 2024, Ideal Places to Enjoy VR Films</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-facilitating-facetime-on-your-pc-with-windows-os/"><u>Guide: Facilitating FaceTime on Your PC with Windows OS</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-12-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 12?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-academy-for-storytellers-top-8-recommendations/"><u>In 2024, Best Academy for Storytellers – [Top 8 Recommendations]</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-motorola-razr-40-ultra-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Motorola Razr 40 Ultra Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y78plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y78+ Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-free-computer-setup-in-minutes-with-these-helpful-tips/"><u>Noise-Free Computer Setup in Minutes with These Helpful Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-downloading-your-asus-display-drivers-with-ease/"><u>Quick Guide: Downloading Your ASUS Display Drivers with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-metal-detectors-industry-experts-picks-featured-on-zdnet/"><u>Top-Rated Metal Detectors - Industry Experts' Picks Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-outdoor-movie-projectors-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated Outdoor Movie Projectors - Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-solar-power-banks-the-ultimate-guide-zdnet-review/"><u>Top-Rated Portable Solar Power Banks - The Ultimate Guide [ZDNet Review]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-ideal-outdoor-projection-screens-featuring-tested-ratings-from-zdnet/"><u>Ultimate Guide to Choosing the Ideal Outdoor Projection Screens - Featuring Tested Ratings From Zdnet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-tips-and-tricks-for-throwing-an-unforgettable-labor-day-bash-insights-from-zdnet/"><u>Ultimate Guide: Tips and Tricks for Throwing an Unforgettable Labor Day Bash - Insights From ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-premium-2024-gas-grills-ranked-by-consumer-experts-zdnet-insights/"><u>Ultimate Selection of Premium 2024 Gas Grills Ranked by Consumer Experts - ZDNet Insights</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-free-talking-stock-photo-sites/"><u>Updated 2024 Approved Top 6 Free Talking Stock Photo Sites</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-cloaked-content-exploration-reading-instagram-stories-without-sharing-your-identity/"><u>[Updated] In 2024, Cloaked Content Exploration Reading Instagram Stories without Sharing Your Identity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shape-shifting-photos-creating-effective-warps-and-curves-in-ps/"><u>[Updated] Shape-Shifting Photos Creating Effective Warps & Curves in PS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-enhances-its-value-watch-line-with-anticipated-upgrades-for-the-series-se-model-dive-into-latest-innovations/"><u>Apple Enhances Its Value Watch Line with Anticipated Upgrades for the Series SE Model – Dive Into Latest Innovations!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722884569305-are-rideshares-more-affordable-than-taxis/"><u>Are Rideshares More Affordable than Taxis?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-motorola-edge-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Motorola Edge 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-hidden-promo-score-your-freebie-macbook-air-m3-from-best-buy-a-step-by-step-guide-zdnet/"><u>Discover the Hidden Promo: Score Your Freebie MacBook Air M3 From Best Buy - A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-to-overcome-the-black-screen-of-death-on-iphones/"><u>Effective Strategies To Overcome the 'Black Screen of Death' On iPhones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-gmail-security-with-the-simple-steps-to-enable-2fa/"><u>Enhance Your Gmail Security with the Simple Steps to Enable 2FA</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-eye-catching-podcast-logos-step-by-step-creation/"><u>In 2024, Eye-Catching Podcast Logos Step-by-Step Creation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-x50-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor X50 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-13-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 13 Pro 5G Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sony-bdp-s3700-overhaul-a-new-perspective-review-for-2024/"><u>Sony BDP-S3700 Overhaul A New Perspective Review for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-official-status-your-blueprint-for-successful-verification-on-x/"><u>Unlocking Official Status: Your Blueprint for Successful Verification on X</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Big News for Apple Developers: Unveiling Enhanced, Complimentary Artificial Intelligence Integration in Key Development Tools"
-date: 2024-11-04T20:30:42.224Z
-updated: 2024-11-05T17:02:13.014Z
+date: 2024-11-11T00:15:54.448Z
+updated: 2024-11-16T00:17:38.123Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -93,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -115,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -130,6 +123,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -159,6 +159,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,17 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-disseminating-tweeted-videos-on-the-worlds-biggest-social-site/"><u>[Updated] 2024 Approved Disseminating Tweeted Videos on the World's Biggest Social Site</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/s-unlimited-free-high-quality-green-screen-footage-online/"><u>Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehvew-understanding-and-solving-the-critical-ntldr-missing-error/"><u>Comprehvew: Understanding & Solving the Critical NTLDR Missing Error</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-the-best-of-360-cams-pros-choice-roundup-2023/"><u>Discovering the Best of 360° Cams Pros Choice Roundup, 2023</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easy-movie-conversion-tools-for-macwindows-users-to-save-movies-in-various-formats-like-mp4-mov-avi/"><u>Easy Movie Conversion Tools for Mac/Windows Users to Save Movies in Various Formats Like MP4, MOV, AVI</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-technology-gadgets-the-top-9-must-haves-for-students/"><u>Essential Technology Gadgets: The Top 9 Must-Haves for Students</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-rise-of-electric-vehicles-in-transportation/"><u>Exploring the Rise of Electric Vehicles in Transportation</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-x6-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X6 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-through-hdcp-troubles-a-detailed-breakdown-and-user-friendly-repairs/"><u>Navigating Through HDCP Troubles: A Detailed Breakdown & User-Friendly Repairs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-total-vrchat-failure-a-step-by-step-guide-to-fixing-launch-problems/"><u>Overcoming Total VRChat Failure: A Step-by-Step Guide to Fixing Launch Problems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-ultimate-guide-to-aspect-ratios-on-fb-videos/"><u>The Ultimate Guide to Aspect Ratios on FB Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-detailed-review-obs-as-a-top-choice-for-screen-recorders/"><u>[Updated] 2024 Approved Detailed Review OBS as a Top Choice for Screen Recorders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-review-by-techradar/"><u>A Comprehensive Review by TechRadar</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/auditory-interpretation-accessible-at-no-expense/"><u>Auditory Interpretation Accessible at No Expense</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fotografia-e-musica-in-armonia-realizzare-facilmente-una-presentazione-multimediale-con-movavi/"><u>Fotografia E Musica in Armonia: Realizzare Facilmente Una Presentazione Multimediale Con Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/immersive-journeys-youtubes-best-storytelling-of-23-for-2024/"><u>Immersive Journeys YouTube’s Best Storytelling of '23 for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-c12-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nokia C12 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-showdown-pros-and-cons-of-iphone-15-vs-iphone-n-a-comprehensive-guide-for-tech-enthusiasts/"><u>IPhone Showdown: Pros and Cons of iPhone 15 Vs. IPhone N: A Comprehensive Guide for Tech Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-users-ultimate-how-to-jumping-into-shared-photo-collections-with-ease/"><u>IPhone Users' Ultimate How-To: Jumping Into Shared Photo Collections with Ease!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-2024s-prime-iphone-offers-and-savings-explore-the-latest-deals-on-zdnet/"><u>July 2024'S Prime iPhone Offers & Savings – Explore the Latest Deals on ZDNET!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-mastery-discover-manycams-cutting-edge-virtual-camera-technology/"><u>Live Streaming Mastery: Discover ManyCam's Cutting-Edge Virtual Camera Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/prediction-new-lineup-of-apples-oled-ipad-pros-and-a-refreshed-129-ipad-air-set-for-q1-2024-launch-insights-from-zdnet/"><u>Prediction: New Lineup of Apple's OLED iPad Pros and a Refreshed 12.9 iPad Air Set for Q1 2024 Launch - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-your-photography-potential-with-lightzone-free-for-pc-mac-and-linux-users/"><u>Unlock Your Photography Potential with LightZone - Free for PC, Mac, and Linux Users</u></a></li>
 </ul></div>
 

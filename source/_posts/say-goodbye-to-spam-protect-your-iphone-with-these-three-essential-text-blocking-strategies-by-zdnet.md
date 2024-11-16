@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Spam: Protect Your iPhone with These Three Essential Text-Blocking Strategies by ZDNet"
-date: 2024-10-30T17:24:09.186Z
-updated: 2024-11-05T19:19:38.678Z
+date: 2024-11-12T01:17:30.211Z
+updated: 2024-11-15T19:05:34.519Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check your Messages app
 
 Go to the Messages app and check the Filters option. There will be a list of the following options:
@@ -71,10 +78,10 @@ The message inbox will now default to show messages from people in your contact 
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -94,19 +101,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -115,6 +109,13 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 2. Tap on Report Junk below the message.
 
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
 
@@ -125,13 +126,6 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
@@ -139,10 +133,10 @@ The necessity for increased vigilance in certain situations -- like deliveries a
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
@@ -181,22 +175,22 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-from-zero-to-hero-a-step-by-step-approach-to-youtube-backlinks-for-2024/"><u>[Updated] From Zero to Hero A Step-by-Step Approach to YouTube Backlinks for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-add-music-in-premiere-pro/"><u>[Updated] In 2024, Add Music In Premiere Pro</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-quietude-on-the-silver-screen-a-study/"><u>[Updated] Quietude on the Silver Screen A Study</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-optimizing-online-content-delivery-to-key-social-media-channels/"><u>2024 Approved Optimizing Online Content Delivery to Key Social Media Channels</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nce-allure-3-ultimate-video-growth-methods/"><u>Audience Allure 3 Ultimate Video Growth Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-ios-18-complete-guide-on-installation-and-compatible-iphone-models/"><u>Download IOS 18: Complete Guide on Installation & Compatible iPhone Models</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/full-index-of-blue-screen-error-symptoms-for-easy-troubleshooting/"><u>Full Index of Blue Screen Error Symptoms for Easy Troubleshooting</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-address-and-fix-d3dx940dll-absence-mistake/"><u>How to Correctly Address and Fix d3dx9_40.dll Absence Mistake</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-put-an-amazon-echo-dot-into-discovery-and-setup-mode/"><u>How To Put An Amazon Echo Dot Into Discovery And Setup Mode</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-pova-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Pova 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/next-weeks-iphone-upgrade-discover-the-latest-anker-charger-and-accessory-line-expert-tips-from-zdnet/"><u>Next Week's iPhone Upgrade? Discover the Latest Anker Charger & Accessory Line - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protect-your-privacy-a-step-by-step-guide-to-removing-spyware-on-phones-tips-by-zdnet-experts/"><u>Protect Your Privacy: A Step-by-Step Guide to Removing Spyware on Phones, Tips by ZDNet Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-transition-guide-mastering-the-shift-from-your-old-iphone-with-proven-strategies/"><u>Seamless Transition Guide: Mastering the Shift From Your Old iPhone with Proven Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-diagnosing-and-solving-vpn-issue-80ve-clientsservers/"><u>Step-by-Step Guide to Diagnosing and Solving VPN Issue 80Ve: Clients/Servers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-apple-product-discounts-in-july-2024-iphone-specials-bargain-apple-watches-and-ipad-offers-exclusive-deals/"><u>Top Apple Product Discounts in July 2024: IPhone Specials, Bargain Apple Watches & iPad Offers - Exclusive Deals</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-july-2024-laptop-bargains-on-the-market-explore-insights/"><u>Top July 2024 Laptop Bargains on the Market - Explore Insights</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-platforms-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Social Platforms - Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-potential-how-to-gain-more-viewers-and-followers-on-youtube/"><u>[New] Unlocking Potential How to Gain More Viewers and Followers on Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-online-havens-for-free-tamil-ringtones/"><u>[Updated] The Ultimate List of Online Havens for Free Tamil Ringtones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unleash-the-power-of-your-mi-11s-screen-recording-features/"><u>[Updated] Unleash the Power of Your Mi 11'S Screen Recording Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-whatsapp-transfers-broadcasting-twitter-videos-with-ease-for-2024/"><u>[Updated] WhatsApp Transfers Broadcasting Twitter Videos with Ease for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/advancing-the-future-with-apples-latest-ai-innovations-unveiling-capabilities-of-their-new-models-tech-insights/"><u>Advancing the Future with Apple's Latest AI Innovations: Unveiling Capabilities of Their New Models - Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-your-iphone-experience-with-apples-integration-of-googles-gemini-insights-from-zdnet/"><u>Enhancing Your iPhone Experience with Apple's Integration of Google's Gemini - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enregistrer-des-videos-sans-contraintes-decouvrez-les-5-gratuit-logiciels-denregistrement-en-vigueur-en-2024/"><u>Enregistrer Des Vidéos Sans Contraintes: Découvrez Les 5 Gratuit Logiciels D'enregistrement en Vigueur en 2024 !</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-electric-vehicle-charge-points-with-google-maps-a-step-by-step-guide/"><u>Finding Electric Vehicle Charge Points with Google Maps: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-california-drivers-easily-link-their-id-cards-with-apple-and-google-wallet-a-step-by-step-guide/"><u>How California Drivers Easily Link Their ID Cards with Apple and Google Wallet: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-react-and-resolve-if-your-instagram-profile-gets-disabled/"><u>How to React and Resolve if Your Instagram Profile Gets Disabled</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-x-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone X without Password?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-8-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 8 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/indias-it-decree-faces-stiff-legal-defense-by-whatsapp/"><u>India's IT Decree Faces Stiff Legal Defense by WhatsApp</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-control-at-your-fingertips-unveiling-the-new-camera-button-on-iphone-16-tech-insights/"><u>Innovative Control at Your Fingertips: Unveiling the New Camera Button on iPhone 16 | Tech Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-motorola-moto-e13-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto E13 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-communications-a-comprehensive-guide-to-adding-a-safe-list-of-domains-in-macos-mail-app/"><u>Securing Communications: A Comprehensive Guide to Adding a Safe List of Domains in macOS Mail App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-kid-friendly-ipad-models-recommended/"><u>Top 4 Kid-Friendly iPad Models - Recommended</u></a></li>
 </ul></div>
 

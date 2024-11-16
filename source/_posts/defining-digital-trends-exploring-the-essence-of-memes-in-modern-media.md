@@ -1,7 +1,7 @@
 ---
 title: "Defining Digital Trends: Exploring the Essence of Memes in Modern Media"
-date: 2024-09-14T22:59:38.048Z
-updated: 2024-09-20T18:45:24.718Z
+date: 2024-11-08T23:15:39.941Z
+updated: 2024-11-15T19:15:44.418Z
 categories:
   - BestProducts
 description: "This Article Describes Defining Digital Trends: Exploring the Essence of Memes in Modern Media"
@@ -33,11 +33,25 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
 
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
@@ -53,13 +67,6 @@ The plural of emoji is emoji, not emojis.
 
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Emoji Tattoos Show Up in Odd Places
 
  What's the latest trend in tattoo art? Emoji, of course.
@@ -69,10 +76,10 @@ The plural of emoji is emoji, not emojis.
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Face With Tears of Joy Emoji Is the Most Popular
@@ -80,6 +87,13 @@ The plural of emoji is emoji, not emojis.
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
 
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Documentary Sums Up Our Obsession With Emoji
 
@@ -90,19 +104,6 @@ The plural of emoji is emoji, not emojis.
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Emoji Are Supported Just About Everywhere
 
@@ -156,5 +157,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-hitting-the-sweet-spot-top-5-tips-for-channel-growth/"><u>[New] In 2024, Hitting the Sweet Spot Top 5 Tips for Channel Growth</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-premium-video-guide-top-15-youtube-channels-for-ultimate-product-reviews-for-2024/"><u>[New] Premium Video Guide Top 15 YouTube Channels for Ultimate Product Reviews for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-isten-farklilarin-acisindan-en-muthis-osmanli-sanat-mutfiki-nasil-secilebilir/"><u>1. İşten Farklıların Açısından En Müthiş Osmanlı Sanat Mutfikı Nasıl Seçilebilir?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-chat-and-quest-in-the-virtual-society/"><u>2024 Approved 10 Chat & Quest in the Virtual Society</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/big-news-for-apple-developers-unveiling-enhanced-complimentary-artificial-intelligence-integration-in-key-development-tools/"><u>Big News for Apple Developers: Unveiling Enhanced, Complimentary Artificial Intelligence Integration in Key Development Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-take-on-iphone-15-top-picks-and-insights-for-seasoned-professionals-a-comprehensive-analysis-by-techguru/"><u>Expert Take on iPhone 15: Top Picks and Insights for Seasoned Professionals - A Comprehensive Analysis by TechGuru</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fast-solution-resolve-dell-migration-issues-with-this-simple-alternative/"><u>Fast Solution: Resolve Dell Migration Issues with This Simple Alternative</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-from-winhttpdll-not-detected-errors-on-your-pc/"><u>How To Recover From 'Winhttp.dll Not Detected' Errors on Your PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-guide-tailoring-the-apple-control-center-on-your-iphone-expert-tips-from-zdnet/"><u>IOS 18 Guide: Tailoring the Apple Control Center on Your iPhone - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/locating-stored-passwords-on-your-mac-a-comprehensive-guide/"><u>Locating Stored Passwords on Your Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-ethernet-network-issues-on-your-windows-10windows-7-computer/"><u>Quick Fixes for Ethernet Network Issues on Your Windows 10/Windows 7 Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stream-the-latest-marvel-movie-spider-man-no-way-home-successfully/"><u>Stream the Latest Marvel Movie: Spider-Man: No Way Home Successfully</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-6-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 6</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-six-highly-effective-dietary-journaling-apps/"><u>Unveiling Six Highly Effective Dietary Journaling Apps</u></a></li>
+</ul></div>
 

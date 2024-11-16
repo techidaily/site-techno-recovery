@@ -1,7 +1,7 @@
 ---
 title: "Samsung Unpacked 2025 Countdown: Event Timeline, New Releases, and Juicy Rumors"
-date: 2024-09-16T18:58:50.280Z
-updated: 2024-09-20T16:33:50.351Z
+date: 2024-11-14T03:24:37.907Z
+updated: 2024-11-15T19:25:35.199Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung Unpacked 2025 Countdown: Event Timeline, New Releases, and Juicy Rumors"
@@ -32,36 +32,37 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### July 2024 Unpacked Event
@@ -81,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
  The Galaxy Buds come in two types. The main difference is that the regular Galaxy Buds 3 are an open type (the buds sit against your ear canal), while the Buds 3 are canal-type (the buds fit inside your ear canal). Both versions have dynamic equalization and noise-canceling, along with 24-bit audio, but only the Buds 3 Pro have a two-way speaker.
 
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest Samsung News
 
@@ -105,5 +113,18 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-movie-file-management-six-tips-for-the-modern-user-in-windows-11/"><u>[New] 2024 Approved Advanced Movie File Management - Six Tips for the Modern User in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-gastronomy-gurus-essential-chefs-to-subscribe-to/"><u>[Updated] Gastronomy Gurus Essential Chefs to Subscribe To</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlock-follower-growth-secrets-on-facebook-in-10-simple-ways/"><u>[Updated] In 2024, Unlock Follower Growth Secrets on Facebook in 10 Simple Ways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-generations-a-comparative-look-at-iphone-16-and-iphone-15-for-potential-apple-upgrades-zdnet/"><u>Choosing Between Generations: A Comparative Look at iPhone 16 and iPhone 15 for Potential Apple Upgrades | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elite-selection-of-keyboards-for-2t4y-in-depth-testing-and-expert-opinions-featured/"><u>Elite Selection of Keyboards for 2T4y: In-Depth Testing and Expert Opinions Featured</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 13 mini</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-swift-and-secure-video-shipment-sending-oversized-content-from-ios/"><u>In 2024, Swift & Secure Video Shipment Sending Oversized Content From iOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restoring-deleted-messages-in-ios-using-a-mac-easy-methods-explored/"><u>Restoring Deleted Messages in iOS Using a Mac: Easy Methods Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-expert-picks-for-enhancing-your-airpods-pro-experience-zdnet/"><u>The Ultimate Selection: Expert Picks for Enhancing Your AirPods Pro Experience | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-optimal-display-settings-for-your-samsung-qled-4k-television/"><u>Ultimate Guide: Optimal Display Settings for Your Samsung QLED 4K Television</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-potential-of-iphones-with-new-ai-powered-ios-18-updates-showcased-at-wwdc-2024-exclusive-insights-by-zdnet/"><u>Unlocking the Potential of iPhones with New AI-Powered iOS 18 Updates Showcased at WWDC 2024 | Exclusive Insights by ZDNET</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Seamless Collaboration in Apple Pages Files Through iCloud – Tips and Tricks From a Tech Expert at ZDNet
-date: 2024-11-01T16:12:46.122Z
-updated: 2024-11-05T16:59:10.961Z
+date: 2024-11-12T18:27:55.337Z
+updated: 2024-11-15T23:02:00.054Z
 tags:
   - apple
 categories:
@@ -33,16 +33,16 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -53,10 +53,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -67,14 +67,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-## Enable the Collaboration feature
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Enable the Collaboration feature
 
 ### 1\. Open an Apple Pages document
 
@@ -91,19 +91,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -122,6 +109,13 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -163,21 +157,17 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-implementing-real-time-transcriptions-in-reels-and-stories-for-2024/"><u>[New] Implementing Real-Time Transcriptions in Reels and Stories for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-getting-started-with-azures-speech-to-text-feature/"><u>[Updated] 2024 Approved Getting Started with Azure's Speech-to-Text Feature</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-youtube-secrets-to-effective-screen-recording/"><u>[Updated] Unlocking YouTube Secrets to Effective Screen Recording</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cross-platform-convenience-transferring-your-apple-music-playlists-to-youtube-music-guide/"><u>Cross-Platform Convenience: Transferring Your Apple Music Playlists to YouTube Music Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-apple-airpods-pro-and-max-unveiling-key-updates-in-the-latest-release-a-comprehensive-guide/"><u>Discovering Apple AirPods Pro & Max: Unveiling Key Updates in the Latest Release - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-organize-photo-album-on-iphone-and-icloud-for-2024/"><u>How To Organize Photo Album On iPhone And iCloud for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-filmforge-editor8x/"><u>In 2024, FilmForge Editor8X</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-spark-20-proplus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Spark 20 Pro+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-email-receive-gmail-alerts-directly-on-apple-watch/"><u>Mastering Email: Receive Gmail Alerts Directly on Apple Watch</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-4k-video-collection-must-watch-clips/"><u>New 2024 Approved The Ultimate 4K Video Collection Must-Watch Clips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reviving-focus-troubleshooting-techniques-for-iphone-cameras/"><u>Reviving Focus: Troubleshooting Techniques for iPhone Cameras</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-apple-watch-experience-with-these-simple-setup-tweaks-for-extended-battery-life-insights/"><u>Revolutionize Your Apple Watch Experience with These Simple Setup Tweaks for Extended Battery Life - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-syncing-your-firestick-with-the-perfect-remote-control/"><u>Ultimate Guide: Syncing Your Firestick with the Perfect Remote Control</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/unlocking-performance-in-depth-analysis-by-toms-hardware-expertise/"><u>Unlocking Performance: In-Depth Analysis by Tom's Hardware Expertise</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-mac-pages-files-for-pc-users-a-comprehensive-tutorial/"><u>Unlocking the Secrets of Mac Pages Files for PC Users – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-envisioned-masterpieces-iphones-top-10-photographic-rules/"><u>[New] Envisioned Masterpieces IPhone's Top 10 Photographic Rules</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-winter-wonderland-in-beijing-olympic-year-2022/"><u>[Updated] 2024 Approved Winter Wonderland in Beijing, Olympic Year 2022</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-taking-screenshots-on-chromebook-4-methods/"><u>2024 Approved Taking Screenshots on Chromebook [4 Methods]</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-3-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT 3 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-husqvarnas-skyward-leap-with-the-new-h501x4-drone-insights/"><u>In 2024, Husqvarna's Skyward Leap with the New H501X4 Drone Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-worth-the-upgrade-expert-opinions-on-why-you-should-or-shouldnt-choose-iphone-16-featuring-editors-from-zdnet/"><u>Is It Worth the Upgrade?: Expert Opinions on Why You Should or Shouldn't Choose iPhone 16 - Featuring Editors From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/proven-winners-the-elite-iphone-range-as-evaluated-by-industry-experts-engadget/"><u>Proven Winners: The Elite iPhone Range as Evaluated by Industry Experts | Engadget</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-your-preferred-text-editor-with-these-7-tips-for-windows-users/"><u>Reactivate Your Preferred Text Editor with These 7 Tips for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-36-unbeatable-apple-discounts-still-on-offer-during-prime-day-find-them-here/"><u>Top 36 Unbeatable Apple Discounts Still on Offer During Prime Day - Find Them Here!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranked-mac-software-picks-expert-reviews/"><u>Top-Ranked Mac Software Picks - Expert Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-keyboard-picks-for-2e24-professional-testing-and-reviews-unveiled-techzn/"><u>Top-Rated Keyboard Picks for 2E24: Professional Testing & Reviews Unveiled | TechZN</u></a></li>
 </ul></div>
 

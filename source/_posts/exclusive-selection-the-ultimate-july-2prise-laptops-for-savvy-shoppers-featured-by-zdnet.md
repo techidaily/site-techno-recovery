@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Selection: The Ultimate July 2Prise Laptops for Savvy Shoppers, Featured by ZDNet"
-date: 2024-10-30T21:01:31.629Z
-updated: 2024-11-05T19:07:16.076Z
+date: 2024-11-09T02:42:13.817Z
+updated: 2024-11-15T23:28:17.936Z
 tags:
   - apple
 categories:
@@ -95,19 +95,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3ece37eb-95f6-4d51-ae49-3f7d176d4dc0%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -123,13 +110,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3ece37eb-95f6-4d51-ae49-3f7d176d4dc0%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3ece37eb-95f6-4d51-ae49-3f7d176d4dc0%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -166,16 +146,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
@@ -199,22 +173,29 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
 When you're considering your budget for a new laptop, you have to consider what you want to use the device for. 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -226,6 +207,13 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -277,16 +265,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-effortlessly-create-engaging-youtube-thumbnails/"><u>[Updated] 2024 Approved Effortlessly Create Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-screen-mac-video-recording-guide/"><u>[Updated] Capturing Screen MAC Video Recording Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-gaiety-media-download-review/"><u>[Updated] Gaiety Media Download Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/analyst-reveals-apple-faces-software-challenges-postponing-launch-of-anticipated-arvr-headset-insights-from-zdnet/"><u>Analyst Reveals Apple Faces Software Challenges, Postponing Launch of Anticipated AR/VR Headset: Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/guia-paso-a-paso-para-recuperar-su-carpeta-de-descargas-desaparecida-en-chrome/"><u>Guía Paso a Paso Para Recuperar Su Carpeta De Descargas Desaparecida en Chrome</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-improve-image-quality-on-iphones-with-lower-megapixel-cameras/"><u>How to Improve Image Quality on iPhones with Lower Megapixel Cameras</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-drivers-for-samsungs-85evo-ssd-download-guides-and-software-tools/"><u>How to Update Drivers for Samsung's 85Evo SSD: Download Guides and Software Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-hype-key-questions-for-making-your-apple-vision-pro-pre-order-smart-expert-advice-by-zdnet/"><u>Navigating the Hype: Key Questions for Making Your Apple Vision Pro Pre-Order Smart | Expert Advice by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unintentional-warp-wonders-and-cyber-salutes-insights-on-vr-encounters-a-dive-into-digital-handshakes-techwise/"><u>Unintentional Warp Wonders & Cyber Salutes: Insights on VR Encounters - A Dive Into Digital Handshakes | TechWise</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-deeper-viewing-experiences-how-xr-glasses-overcome-apple-vision-limitations-and-get-you-a-whopping-140-discount-during-prime-day/"><u>Unlock Deeper Viewing Experiences: How XR Glasses Overcome Apple Vision Limitations & Get You a Whopping $140 Discount During Prime Day</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-clip-composition-blending-modes-techniques/"><u>[New] In 2024, Mastering Clip Composition Blending Modes Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-time-stamp-integration-on-youtube-videos/"><u>[New] Seamless Time-Stamp Integration on YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-macs-as-music-makers-a-look-inside/"><u>[Updated] In 2024, Macs as Music Makers A Look Inside</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-motivating-hr-chronicles-the-best-ten-vids-for-2024/"><u>[Updated] Motivating HR Chronicles - The Best Ten Vids for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-recording-real-time-action-in-overwatch/"><u>[Updated] Recording Real-Time Action in Overwatch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-enhancing-youtube-presence-creating-professional-thumbnails-from-smartphones/"><u>2024 Approved Enhancing YouTube Presence Creating Professional Thumbnails From Smartphones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximize-video-visibility-on-facebook-via-youtube/"><u>2024 Approved Maximize Video Visibility on Facebook via YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/busting-myths-and-saving-bucks-how-i-found-a-cheap-alternative-to-the-expensive-apple-vision-pro-fomo-with-xr-glasses/"><u>Busting Myths and Saving Bucks - How I Found a Cheap Alternative to the Expensive Apple Vision Pro FOMO With XR Glasses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-guide-crafting-personalized-imessage-stickers-from-your-image-collection/"><u>DIY Guide: Crafting Personalized iMessage Stickers From Your Image Collection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-regional-customization-tips-changing-location-preferences-easily/"><u>Iphone Regional Customization Tips: Changing Location Preferences Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/join-the-community-of-dissatisfied-users-post-ios-18-upgrade-my-story-and-more/"><u>Join the Community of Dissatisfied Users Post-iOS 18 Upgrade: My Story & More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-network-probing-a-step-by-step-guide-on-pinging-websites/"><u>Mastering the Art of Network Probing: A Step-by-Step Guide on Pinging Websites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sync-your-ca-drivers-license-with-digital-wallets-integrating-id-cards-in-apple-and-google-systems-for-residents-of-california/"><u>Sync Your CA Driver’s License with Digital Wallets: Integrating ID Cards in Apple & Google Systems for Residents of California</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-defender-for-your-iphone-se-in-202n-elite-selection-from-zdnets-reviews/"><u>The Best Defender for Your iPhone SE in 202N: Elite Selection From ZDNet's Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-samsung-unpacked-2025-timetable-breaking-news-and-expected-innovations/"><u>The Ultimate Guide to Samsung Unpacked 2025: Timetable, Breaking News & Expected Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-14-free-branding-software-picks-for-pc-professional-logo-design-tools/"><u>Top 14 Free Branding Software Picks for PC - Professional Logo Design Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-fixing-wpcapsddll-errors-in-windows/"><u>Troubleshooting Steps for Fixing wpcapsd.dll Errors in Windows</u></a></li>
 </ul></div>
 

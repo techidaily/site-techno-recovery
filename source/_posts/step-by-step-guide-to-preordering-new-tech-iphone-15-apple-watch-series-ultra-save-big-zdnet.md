@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Preordering New Tech: IPhone 15, Apple Watch Series Ultra - Save Big | ZDNET"
-date: 2024-11-01T18:25:17.450Z
-updated: 2024-11-05T17:45:50.015Z
+date: 2024-11-11T23:05:09.672Z
+updated: 2024-11-16T00:29:44.551Z
 tags:
   - apple
 categories:
@@ -35,16 +35,23 @@ But, even with all of this simplicity, you may still have questions. What if you
 
 **Also: [Want a new Apple Watch? We compared the 5 best models available](https://www.zdnet.com/article/best-apple-watch/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to set up an Apple Watch
 
 * **Materials needed**: The Apple Watch you wish to set up, and an iPhone owned by the watch's owner, or a family member.
 * **Estimated time**: 15 to 30 minutes (depending on how many apps need to be installed and if a backup is being restored).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 1: Charge your Apple Watch and bring it near your iPhone
@@ -60,6 +67,13 @@ Once it's on and near the iPhone you're using for setup, a message should pop up
 They don't have to be quite this close, but the closer they are the faster the required data can transfer. 
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Scan the Apple Watch animation with your iPhone's camera or begin manual pairing
 
@@ -85,13 +99,6 @@ It's much easier to restore from a backup if you have one for this watch, or an 
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 4: Sign in with your Apple ID to link the Apple watch to your iCloud account
 
 This step allows your new Apple Watch to sync your personal data, access Find My functionality, and maintain its Activation Lock (a security measure designed to ensure only you can use your Apple Watch). While you can skip this step and do it later in the Watch app on your iPhone, it's strongly recommended that you complete it as soon as possible. 
@@ -107,13 +114,6 @@ During this step you can choose a standard four-digit passcode, create a longer 
 Setting a passcode on your Apple Watch unlocks some functionality that might otherwise be restricted with this security measure.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 6: Customize your settings
 
@@ -144,10 +144,10 @@ Michael Gariffo/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can you set up an Apple Watch without an iPhone?
@@ -164,13 +164,6 @@ The process is almost identical to the steps above, but requires the use of an A
 
 The main differences you'll run into during family setups are the requirement to assign the watch to a member of your family, choosing whether or not that family member can buy apps without your permission, and a few parental control settings, like disabling most functionality during "Schooltime," or setting up movement goals. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can you set up an Apple Watch with an iPad?
 
 No. Unfortunately an iPhone is required to set up an Apple Watch, even if it won't remain connected to one constantly, like in the FAQ scenario above.
@@ -178,6 +171,13 @@ No. Unfortunately an iPhone is required to set up an Apple Watch, even if it won
 ## How can I change my watch face?
 
 We've got [a whole guide to help you](https://www.zdnet.com/article/how-to-change-your-apple-watch-face/) not only [swap out your Apple Watch face](https://www.zdnet.com/article/how-to-change-your-apple-watch-face/), but create the perfect one for your needs, complete with a video walkthrough. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I use Apple Music on my Apple Watch?
 
@@ -217,19 +217,16 @@ To do this, open the Watch app on your iPhone. Then, tap **My Watch**, followed 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-leveraging-time-stamps-for-enhanced-video-clarity-on-youtube-for-2024/"><u>[New] Leveraging Time Stamps for Enhanced Video Clarity on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-insta-likes-and-video-powerhouse-get-noticed-and-grow-your-instagram-fast/"><u>[Updated] 2024 Approved Insta Likes & Video Powerhouse Get Noticed & Grow Your Instagram [Fast!]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlined-steps-capturing-your-dell-screen-in-a-minute/"><u>[Updated] Streamlined Steps Capturing Your Dell Screen in a Minute</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/desktop-onedrive-verbindungen-effizienter-gestalten-fuhren-sie-nahtlos-die-dateisynchronisation-durch/"><u>Desktop-OneDrive-Verbindungen Effizienter Gestalten - Führen Sie Nahtlos Die Dateisynchronisation Durch!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/emerging-details-apples-progress-in-creating-budget-friendly-ar-spectacles/"><u>Emerging Details: Apple's Progress in Creating Budget-Friendly AR Spectacles</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-z-flip-5-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy Z Flip 5 Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-strength-of-details-why-hdr-triumphs-over-sdr/"><u>In 2024, The Strength of Details Why HDR Triumphs Over SDR</u></a></li>
-<li><a href="https://games-able.techidaily.com/rhythm-riddler-unravel-the-best-music-quiz-apps/"><u>Rhythm Riddler: Unravel the Best Music Quiz Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tailor-your-iphone-experience-on-ios-18-mastering-the-art-of-customizing-the-control-center-featuring-expert-tips/"><u>Tailor Your iPhone Experience on iOS 18: Mastering the Art of Customizing the Control Center, Featuring Expert Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/transforming-tiktok-viewers-into-your-facebook-likes/"><u>Transforming TikTok Viewers Into Your Facebook Likes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/triple-display-setup-a-comprehensive-guide-on-hooking-up-three-monitors/"><u>Triple Display Setup: A Comprehensive Guide on Hooking Up Three Monitors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-childrens-cell-phones-expert-picks-and-reviews/"><u>Ultimate Selection of Children's Cell Phones: Expert Picks and Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-im-holding-off-on-the-new-m4-mac-mini-the-game-changing-aspect-of-apples-upcoming-mac-studio/"><u>Why I'm Holding Off on the New M4 Mac Mini - The Game-Changing Aspect of Apple’s Upcoming Mac Studio</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discover-top-ranked-trivia-shows-for-24-for-2024/"><u>[Updated] Discover Top-Ranked Trivia Shows for '24 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722056168428-anticipating-the-release-of-chatgpt-desktop-version-discover-a-fantastic-free-ai-alternative/"><u>Anticipating the Release of ChatGPT Desktop Version? Discover a Fantastic Free AI Alternative</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/breakdown-of-features-in-the-new-nokia-31-best-pick-for-smartphone-novices/"><u>Breakdown of Features in the New Nokia 3.1 - Best Pick for Smartphone Novices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-backup-programs-a-comprehensive-guide-and-ratings/"><u>Discover the Best Free Backup Programs: A Comprehensive Guide & Ratings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuita-conversor-de-archivo-wma-y-flv-online-herramienta-gratuita-para-conversion-rapida-por-movavi/"><u>Gratuita Conversor De Archivo WMA Y FLV Online: Herramienta Gratuita Para Conversión Rápida Por Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-early-access-discover-where-to-preorder-new-ipads-and-stylus-with-hottest-promotions-zdnet-insider-tips/"><u>Securing Early Access: Discover Where to Preorder New iPads & Stylus with Hottest Promotions | ZDNET Insider Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shockingly-affordable-apple-slashes-prices-offering-m2-mac-mini-for-just-479-exclusive-insights/"><u>Shockingly Affordable: Apple Slashes Prices, Offering M2 Mac Mini for Just $479 - Exclusive Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-strategy-behind-apples-no-exclamation-mark-approach-insights-from-zdnet/"><u>The Strategy Behind Apple's No-Exclamation Mark Approach: Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-platforms-for-free-movie-subtitle-downloads-srt-format/"><u>Top Platforms for FREE Movie Subtitle Downloads (SRT Format)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-savings-unbeatable-apple-watch-offers-in-current-month/"><u>Top Savings: Unbeatable Apple Watch Offers in [Current Month]</u></a></li>
 </ul></div>
 

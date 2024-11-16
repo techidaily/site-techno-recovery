@@ -1,7 +1,7 @@
 ---
 title: "Avoid Distractions: Turning Off Crisis & Amber Warnings on Your iPhone Device"
-date: 2024-10-31T19:25:33.918Z
-updated: 2024-11-05T22:32:13.316Z
+date: 2024-11-09T03:31:45.517Z
+updated: 2024-11-16T03:40:31.083Z
 categories:
   - BestProducts
 description: "This Article Describes Avoid Distractions: Turning Off Crisis & Amber Warnings on Your iPhone Device"
@@ -40,14 +40,22 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 3. Select**Info** .  
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the confirmation pop up, tap**Block Contact** .  
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
@@ -64,21 +72,14 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stop Unwanted Group Texts on an iPhone
@@ -92,14 +93,14 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
  If everyone has an iPhone (blue message bubbles) and the chat has more than three other people in it, tap**Leave This Conversation** and then tap the confirmation pop-up.  
 ![A group chat on an iPhone with the name of the chat, the "Hide Alerts" option, and the "Leave this Conversation" commands highlighted](https://www.lifewire.com/thmb/HQ28TmHbL1M_I1yxXgoej2uiqFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Group-Text-options-1eb1d9e175f1471ea3a04ef674873699.jpg)
 
- Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
 ## Block Texts With the Do Not Call Registry
 
@@ -140,19 +141,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/xploring-effective-financial-gains-through-youtube-shorts-for-2024/"><u>[New] Exploring Effective Financial Gains Through YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-frostbite-fame-highlights-of-cold-climates-games/"><u>[New] Frostbite Fame Highlights of Cold Climates Games</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-precise-screen-record-azs-full-app-dissection-for-2024/"><u>[New] Precise Screen Record - AZ's Full App Dissection for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>[Updated] 2024 Approved Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-explore-the-best-free-online-video-capture-platforms/"><u>2024 Approved Explore the Best Free Online Video Capture Platforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-definitive-guide-to-valheim-agriculture/"><u>2024 Approved The Definitive Guide to Valheim Agriculture</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/onedrivessd/"><u>OneDriveと接続した外付けSSDへの最適なバックアップ戦略</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-lameencdll-errors-in-audacity-strategies-and-solutions-for-flawless-audio-processing/"><u>Overcoming lame_enc.dll Errors in Audacity: Strategies and Solutions for Flawless Audio Processing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-20-methods-to-resolve-netflix-issues-on-your-lg-television/"><u>Top 20 Methods to Resolve Netflix Issues on Your LG Television</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-dciman32dll-error-tips-and-solutions/"><u>Troubleshooting 'Missing' dciman32.dll Error: Tips and Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/twitter-language-explained-retweets-vs-re-tweets-are-they-the-same/"><u>Twitter Language Explained: Retweets Vs. Re-Tweets – Are They the Same?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-power-of-facebook-5-quick-tips-for-greater-productivity/"><u>Unlocking the Power of Facebook: 5 Quick Tips for Greater Productivity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-home-assistant-anticipated-cost-and-launch-timeline-revealed/"><u>Upcoming Apple Home Assistant: Anticipated Cost & Launch Timeline Revealed!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-gpu-renaissance-amd-radeon-redux/"><u>[New] GPU Renaissance AMD Radeon Redux</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easily-share-your-macbook-location-with-others-essential-tips-and-reasons-techguide/"><u>Easily Share Your MacBook Location with Others: Essential Tips & Reasons - TechGuide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970209482-easy-installation-for-your-hp-all-in-one-7520-free-printer-driver-downloads-ready-to-go/"><u>Easy Installation for Your HP All-in-One 7520: Free Printer Driver Downloads Ready to Go!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enjoy-24-discount-on-airpods-pro-2-the-new-earbuds-that-double-as-hearing-devices-today-only-exclusive-offer/"><u>Enjoy 24% Discount on AirPods Pro 2 - The New Earbuds that Double as Hearing Devices, Today Only! Exclusive Offer</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-steelseries-arctis-5-mic-back-on-track-troubleshooting-solutions-for-better-sound-quality/"><u>Get Your SteelSeries Arctis 5 Mic Back on Track: Troubleshooting Solutions for Better Sound Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-the-latest-iphone-12-enhances-wireless-power-with-new-qi2-technology-independent-of-magsafe-exclusive-coverage-by-zdnet/"><u>How the Latest iPhone 12 Enhances Wireless Power with New Qi2 Technology, Independent of MagSafe | Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a14-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A14 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-pick-of-vocal-transformation-apps-for-youtubers/"><u>In 2024, Top Pick of Vocal Transformation Apps for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/technique-for-anonymous-footage-via-image-smoothing-for-2024/"><u>Technique for Anonymous Footage via Image Smoothing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-how-apples-latest-m2-tablet-outshines-competitors-comprehensive-review/"><u>Top Picks : How Apple's Latest M2 Tablet Outshines Competitors | Comprehensive Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-tablets-comprehensive-reviews-by-tech-gurus-digital-trends/"><u>Top-Rated Tablets : Comprehensive Reviews by Tech Gurus | Digital Trends</u></a></li>
 </ul></div>
 

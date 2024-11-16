@@ -1,7 +1,7 @@
 ---
 title: "Overcome Game Errors: Solve Forza Horizon 4 Launch Issues | Essential Tips for Gamers"
-date: 2024-11-01T16:01:37.305Z
-updated: 2024-11-05T18:07:18.057Z
+date: 2024-11-09T17:25:16.547Z
+updated: 2024-11-16T03:49:41.393Z
 tags:
   - win11
   - win10
@@ -44,16 +44,16 @@ There is nothing more frustrating than buying a video game and not being able to
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-22-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Relaunch_BO4_ from the Blizzard.net app to test your issue.
 
@@ -103,16 +103,16 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-22_9-48-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-28_12-21-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -131,19 +131,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-34.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55.jpg)
@@ -151,13 +138,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_15-00-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click **Done** .
 
@@ -211,16 +191,10 @@ Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-14-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Right-click the resource-consuming process and select **End task** .
@@ -251,9 +225,23 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the **Services tab,** and then check the box next to **Hide all Microsoft services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Click **Disable all** .
 
@@ -262,6 +250,13 @@ If your issue continues to occur, try performing a clean boot on your PC.
 **6)** Click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)**  Click the **Startup tab.**
 
@@ -276,13 +271,6 @@ If your issue continues to occur, try performing a clean boot on your PC.
 **9)** Click **Restart** and wait for your computer to restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-45.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **10)**  After your computer restarts, relaunch your game to test your issue.
 
@@ -306,13 +294,6 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the button next to **Normal startup,**  and then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-37-21.jpg)
@@ -320,6 +301,13 @@ If your issue continues to occur, try performing a clean boot on your PC.
 **4)**  Click the **Services tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-38-25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Click **Enable all,** then click **OK** .
 
@@ -330,10 +318,10 @@ If your issue continues to occur, try performing a clean boot on your PC.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-40-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your game still won’t launch, move on to the next fix.
@@ -380,22 +368,22 @@ If the issue persists, try the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unveiling-the-world-of-wide-web-watching-via-fb/"><u>[New] 2024 Approved Unveiling the World of Wide Web Watching via FB</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-professionals-secret-utilizing-windows-movie-maker-expertly-in-windows-8-systems-for-2024/"><u>[New] The Professional's Secret Utilizing Windows Movie Maker Expertly in Windows 8 Systems for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ultimate-5-slow-motion-capturers/"><u>[New] Ultimate 5 Slow Motion Capturers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mp4avihevch265-winxvideo-ai-5/"><u>【無料お借り】動画コンバーターアプリケーション推薦 ✨MP4/AVI/HEVC（H265）を簡単変更 Winxvideo AI |5ページ目</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/citing-ai-assistance-formatting-references-for-chatgpt-use/"><u>Citing AI Assistance: Formatting References for ChatGPT Use</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/customizing-macos-finder-display-options-for-parent-and-child-directories/"><u>Customizing MacOS Finder Display Options for Parent and Child Directories</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-correct-opengl32dll-file-missing-errors/"><u>Effective Strategies to Correct OpenGL32.dll File Missing Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-create-a-restore-point-in-windows-7-and-vista/"><u>How to Create a Restore Point in Windows 7 & Vista</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-use-the-internet-in-your-home-theater-system/"><u>How to Use the Internet in Your Home Theater System</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y78t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y78t Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-top-picks-7-best-live-streaming-apps-to-upgrade-your-youtube-presence-iosandroid/"><u>In 2024, Top Picks 7 Best Live Streaming Apps to Upgrade Your YouTube Presence (iOS/Android)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-visual-prowess-meets-audio-excellence-top-5-hd-webcams/"><u>In 2024, Visual Prowess Meets Audio Excellence - Top 5 HD Webcams</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/securing-your-inbox-tips-for-enlisting-contacts-into-gmails-trusted-circle/"><u>Securing Your Inbox: Tips for Enlisting Contacts Into Gmail's Trusted Circle</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/simplify-image-editing-picart-background-shedding-for-2024/"><u>Simplify Image Editing PicArt Background Shedding for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streaming-tiktok-videos-the-ultimate-guide-to-viewing-on-your-television/"><u>Streaming TikTok Videos: The Ultimate Guide to Viewing on Your Television</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tips-for-watching-spider-man-no-way-home-online/"><u>Tips for Watching 'Spider-Man: No Way Home' Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-strategies-for-achieving-virality-on-instagram/"><u>Top 10 Strategies for Achieving Virality on Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-icy-images-a-detailed-look-at-monitoring-summer-snacks/"><u>[Updated] Icy Images A Detailed Look at Monitoring Summer Snacks</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-apple-watchs-step-count-problem-expert-tips-for-a-smooth-fix/"><u>Addressing Apple Watch's Step Count Problem: Expert Tips for a Smooth Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/asus-wi-fi-adapter-tutorial-how-to-efficiently-update-your-devices-drivers/"><u>ASUS Wi-Fi Adapter Tutorial: How To Efficiently Update Your Device's Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/defying-pressure-apples-steadfast-stance-on-iphone-regulations-in-europe-according-to-zdnet-analysis/"><u>Defying Pressure: Apple's Steadfast Stance on iPhone Regulations in Europe, According to ZDNet Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-lg-television-experience-with-exclusive-sound-improvements-a-match-made-in-heaven-for-apple-lovers-insights/"><u>Enhancing LG Television Experience with Exclusive Sound Improvements: A Match Made in Heaven for Apple Lovers! - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-running-and-understanding-chkdsk-on-windows-machines/"><u>Expert Tips: Running and Understanding Chkdsk on Windows Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-mail-problems-with-error-0x80072746/"><u>Fixing Windows Mail Problems with Error 0X80072746</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-phone-storage-with-these-simple-iphone-decluttering-steps-discover-the-free-up-techniques/"><u>Maximize Your Phone Storage with These Simple iPhone Decluttering Steps - Discover the Free Up Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/microsoft-sculpt-ergonomic-keyboard-review-a-great-value/"><u>Microsoft Sculpt Ergonomic Keyboard Review: A Great Value</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1726223866951-movavi/"><u>Movavi客户服务团队：专业帮助与技术指导</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-reviving-your-unresponsive-pc/"><u>Troubleshooting Steps: Reviving Your Unresponsive PC</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-guide-tweaking-epub-metadata-in-ibooks-on-mac-os-x-mavericks/"><u>Ultimate Guide: Tweaking ePub Metadata in iBooks on Mac OS X Mavericks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-threat-how-windows-updates-can-be-manipulated-to-reverse-security-fixes/"><u>Unraveling the Threat: How Windows Updates Can Be Manipulated to Reverse Security Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-nvidia-rtx-1080-driver-package-for-windows-1n-fast-and-easy-download-process/"><u>Updated NVIDIA RTX 1080 Driver Package for Windows 1N - Fast & Easy Download Process!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/when-is-the-playstation-portable-launching-costs-and-detailed-specifications-explored/"><u>When Is the PlayStation Portable Launching? Costs & Detailed Specifications Explored</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Most Anticipated iOS 18 Updates From WWDC 2023 - Delving Into Advanced AI Features and More | Digital Innovations Journal
-date: 2024-11-04T22:19:32.418Z
-updated: 2024-11-05T16:24:36.401Z
+date: 2024-11-09T23:49:52.187Z
+updated: 2024-11-15T19:02:02.457Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,21 +131,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-monitoring-and-measuring-igtv-video-performance/"><u>[New] 2024 Approved Monitoring and Measuring IGTV Video Performance</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-video-wizardry-your-guide-to-the-top-10-editing-hacks/"><u>[New] 2024 Approved Video Wizardry Your Guide to the Top 10 Editing Hacks</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-essential-insights-using-tiktok-web-on-macos-for-2024/"><u>[New] Essential Insights Using TikTok Web on macOS for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/converting-pal-dvds-to-ntsc-made-easy-a-comprehensive-tutorial-for-smooth-playback/"><u>Converting PAL DVDs to NTSC Made Easy – A Comprehensive Tutorial for Smooth Playback</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-the-midnight-mode-fixes-for-a-frozen-screen-on-your-android-device/"><u>Demystifying the Midnight Mode: Fixes for a Frozen Screen on Your Android Device</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ver-your-rhythm-assembling-tailored-youtube-playlists-for-the-digital-age-webmobile/"><u>Discover Your Rhythm Assembling Tailored YouTube Playlists for the Digital Age (Web/Mobile)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effective-ways-to-combine-animated-gifs-unveiling-the-best-free-and-paid-methods-gifcreation/"><u>Effective Ways to Combine Animated GIFs: Unveiling the Best FREE and PAID Methods #GifCreation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-leading-watershield-phones-cases-of-2024-reviewed/"><u>Expert Picks: Leading Watershield Phones Cases of 2024 Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ahead-of-the-curve-with-macos-15-sequoia-detailed-preview-on-release-and-innovations/"><u>Get Ahead of the Curve with macOS 15 (Sequoia): Detailed Preview on Release and Innovations</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improving-usability-for-the-visually-challenged-explore-these-t-iphone-features-top-8-picks/"><u>Improving Usability for the Visually Challenged: Explore These T- iPhone Features (Top 8 Picks)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-no-more-running-out-of-room-top-20-zero-cost-cloud-services-up-to-1tb/"><u>In 2024, No More Running Out of Room - Top 20 Zero-Cost Cloud Services (Up To 1TB)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-basics-of-new-hard-drive-installations-with-windows-10/"><u>Mastering the Basics of New Hard Drive Installations with Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/order-matters-discover-the-best-way-to-experience-the-how-to-train-your-dragon-movie-series/"><u>Order Matters! Discover the Best Way to Experience the How to Train Your Dragon Movie Series</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fixing-missing-launchdll-errors/"><u>Step-by-Step Guide to Fixing 'Missing Launch.dll' Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-and-mapping-network-drives-on-macos/"><u>Step-by-Step Guide: Setting Up and Mapping Network Drives on macOS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-superior-productivity-7-premier-note-taking-apps-tailored-for-ipad-and-pro-users/"><u>Unlock Superior Productivity: 7 Premier Note-Taking Apps Tailored for iPad and Pro Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-your-content-delivery-insights-on-igtv-and-youtube-for-2024/"><u>[New] Mastering Your Content Delivery Insights on IGTV and YouTube for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfecting-drone-captured-imagery-a-gimbal-journey/"><u>[New] Perfecting Drone-Captured Imagery A Gimbal Journey</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-enhancement-the-top-tactics-for-better-storytelling/"><u>[Updated] 2024 Approved Instagram Enhancement The Top Tactics for Better Storytelling</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-ultimate-handbook-to-tiktok-markers/"><u>[Updated] 2024 Approved The Ultimate Handbook to TikTok Markers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-intensive-investigation-the-gecata-game-logger/"><u>[Updated] Intensive Investigation The Gecata Game Logger</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-effective-strategies-for-capturing-online-gatherings-mac-pc/"><u>2024 Approved Effective Strategies for Capturing Online Gatherings (Mac, PC)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/adding-your-ca-drivers-license-to-digital-wallets-a-step-by-step-tutorial-for-apple-and-google-users/"><u>Adding Your CA Driver's License to Digital Wallets: A Step-by-Step Tutorial for Apple & Google Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-network-performance-a-closer-look-at-cat5-and-cat6-cabling/"><u>Comparing Network Performance: A Closer Look at Cat5 and Cat6 Cabling</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-understanding-netflixs-streaming-platform/"><u>Comprehensive Guide: Understanding Netflix's Streaming Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-future-of-your-devices-with-ai-unveiling-smart-innovations-in-upcoming-iphone-mac-and-ipad-models/"><u>Discover the Future of Your Devices with AI: Unveiling Smart Innovations in Upcoming iPhone, Mac & iPad Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-unveiling-key-features-of-apples-upcoming-airpods-4-variants-a-comparison-guide/"><u>Exploring the Latest: Unveiling Key Features of Apple's Upcoming AirPods 4 Variants - A Comparison Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-fun-with-junior-drivers/"><u>Navigating Fun with Junior Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-effective-troubleshooting-with-the-tracert-utility-in-microsoft-windows/"><u>Step-by-Step Strategies for Effective Troubleshooting with the Tracert Utility in Microsoft Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-teen-dramas-and-comedies-streaming-on-netflix-today/"><u>Top-Rated Teen Dramas and Comedies Streaming on Netflix Today</u></a></li>
 </ul></div>
 

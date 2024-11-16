@@ -1,7 +1,7 @@
 ---
 title: "Hurry! Limited-Time Promo: Buy a Favorite Nomad Case & Receive Another for Free – Shop Now at ZDNet"
-date: 2024-11-04T20:50:35.560Z
-updated: 2024-11-05T18:42:23.764Z
+date: 2024-11-08T19:38:53.934Z
+updated: 2024-11-16T03:16:29.998Z
 tags:
   - apple
 categories:
@@ -64,10 +64,10 @@ The iPhone 14 (left) and the iPhone 14 Plus (right).
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More screen for less money
@@ -88,6 +88,13 @@ I've really enjoyed using the iPhone 14 Plus and it's larger display over the la
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery life is king
 
 In my [review of the iPhone 14](https://www.zdnet.com/article/iphone-14-review/), I touted all of its new features and still-impressive performance, but I dinged it a bit on battery life. I could get through a full day of use, but just barely. This means that on days where I'm traveling for work, I'm going to have to rely on some sort of [external battery pack](https://www.zdnet.com/article/best-magsafe-battery/) or top off at the hotel -- not a bad practice in general, but something I'd rather not have to do. 
@@ -97,6 +104,13 @@ The [iPhone 14 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u
 After four days of use, I can confidently say the iPhone 14 Plus' battery life is an improvement over the iPhone 14\. I've been ending my days -- which typically start around 6 a.m and end after 10 p.m -- with 30% or more of battery left. That's with around 5 hours of screen on time, according to the Battery section in the settings app.
 
 **Review:** [**Apple Watch 8 is a sleeper hit, even if it doesn't match Samsung's sensors**](https://www.zdnet.com/article/apple-watch-series-8-review/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -115,13 +129,6 @@ During the over 3-hour flight from Dallas to New York, I caved and paid for Wi-F
 Moral of the story? The battery life on the iPhone 14 Plus is more than enough to get you through a rough day of travel, and probably even longer if you're not someone who is constantly on their phone like I am. 
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The iPhone 14 Pro Max really is for Pro users now
 
@@ -156,13 +163,6 @@ Performance, too, is the same if not slightly better than the iPhone 13 lineup d
 
 The [iPhone 14 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) offers more, with the [new Dynamic Island](https://www.zdnet.com/article/iphone-14-pro-makes-the-notch-come-alive-finally/), an upgraded camera system, and even longer battery life. But that also comes with a starting price tag of $1,099\. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## About that eSIM
 
 One area where the entire iPhone 14 lineup, including the 14 Plus, can cause frustration for some is with [Apple's switch to eSIM](https://www.zdnet.com/article/the-worst-thing-about-esim-only-iphone-14s/), instead of the more traditional plastic SIM card that's used to facilitate communication between your phone and wireless carrier. The setup process with the [iPhone 14 Plus and transferring my number over](https://www.zdnet.com/article/how-to-transfer-contacts-from-android-to-iphone/) was easy, but traveling abroad will likely cause some headaches in the near term as [more carriers adopt eSIM technology](https://www.zdnet.com/article/heres-how-the-major-carriers-are-handling-the-iphone-14-esim/).
@@ -172,10 +172,10 @@ One area where the entire iPhone 14 lineup, including the 14 Plus, can cause fru
 [iPhone 14 Plus $899 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-14&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -214,20 +214,20 @@ The 14 Plus slots nicely into Apple's lineup and makes more sense to me than the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-10-facebook-video-downloader-for-android-updated-for-2024/"><u>[New] Top 10 Facebook Video Downloader for Android - Updated for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-dive-into-360-videos-iphone-edition-for-facebook-posts/"><u>[Updated] 2024 Approved Dive Into 360 Videos IPhone Edition for Facebook Posts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-forcing-your-windows-machine-into-safe-mode-from-scratch/"><u>Comprehensive Guide: Forcing Your Windows Machine Into Safe Mode From Scratch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevating-exercise-how-apples-new-airpods-pro-can-become-your-personal-trainer-with-heart-sensor-capabilities-zdnet-analysis/"><u>Elevating Exercise: How Apple's New AirPods Pro Can Become Your Personal Trainer with Heart Sensor Capabilities | ZDNET Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-user-sentiments-the-key-factors-behind-peoples-return-of-the-apple-vision-pro-reddit-edition-zdnet/"><u>Exploring User Sentiments: The Key Factors Behind People's Return of the Apple Vision Pro – Reddit Edition | ZDNET</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus with IMEI Code?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-slideshow-mastery-unlocking-the-power-of-final-cut-pro/"><u>New In 2024, Slideshow Mastery Unlocking the Power of Final Cut Pro</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/resurrecting-deleted-drives-on-windows-11-a-comprehensive-4-step-tutorial/"><u>Resurrecting Deleted Drives on Windows 11: A Comprehensive 4-Step Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-all-new-generation-of-ipads-innovations-you-cant-miss/"><u>The All-New Generation of iPads: Innovations You Can't Miss</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-current-offers-on-amazon-september-2024-insights/"><u>Top Current Offers on Amazon - September 2024 Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-stylus-enabled-tablets-of-2024-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Guide to the Best Stylus Enabled Tablets of 2024: In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-how-can-i-share-ps4-screenshots-online/"><u>Updated 2024 Approved How Can I Share PS4 Screenshots Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/visionos-n-version-2-revealed-at-wwdc-examining-the-new-features-that-spark-enthusiasm-and-intrigue-on-zdnet/"><u>VisionOS N Version 2 Revealed at WWDC: Examining the New Features that Spark Enthusiasm and Intrigue on ZDNet</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/bes-edge-and-dailymotions-charms-an-in-depth-look/"><u>YouTube's Edge & Dailymotion's Charms An In-Depth Look</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-eternal-vision-recorder-tool-for-2024/"><u>[Updated] Eternal Vision Recorder Tool for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-how-to-install-and-use-the-xvid-codec-for-enhanced-video-playback-on-vlc-media-player/"><u>1. How to Install and Use the Xvid Codec for Enhanced Video Playback on VLC Media Player</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-10-review-the-top-3-features-that-impressed-a-doubter-insights/"><u>Apple Watch Series 10 Review: The Top 3 Features That Impressed a Doubter Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/assessing-the-latest-model-how-the-new-iphone-14-meets-consumer-demands-insights/"><u>Assessing the Latest Model: How the New iPhone 14 Meets Consumer Demands - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-innovation-iphone-16s-revolutionary-camera-button-unveiled-how-it-enhances-photography-experience-techzn/"><u>Discover the Latest Innovation: IPhone 16'S Revolutionary Camera Button Unveiled - How It Enhances Photography Experience | TechZN</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-troubleshooting-techniques-to-fix-linear-anomalies-in-televisions/"><u>DIY Troubleshooting Techniques to Fix Linear Anomalies in Televisions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-acer-monitor-drivers-latest-version/"><u>Download Acer Monitor Drivers - Latest Version</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-refresh-and-update-google-chromecast/"><u>Easy Steps to Refresh and Update Google Chromecast</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-note-13-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi Note 13 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experience-like-never-before-leading-10-vr-devices/"><u>In 2024, Experience Like Never Before Leading 10 VR Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-ride-how-photochromatic-lenses-enhance-bike-experience-with-hud-features-zdnet/"><u>Revolutionize Your Ride: How Photochromatic Lenses Enhance Bike Experience with HUD Features | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-d3dx940dll-file-absent-or-unrecognized-issues/"><u>Solutions for Resolving 'D3dx9_40.dll' File Absent or Unrecognized Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-0x80070643-update-issues-on-pcs/"><u>Troubleshooting Guide: Fixing the 0X80070643 Update Issues on PCs</u></a></li>
 </ul></div>
 

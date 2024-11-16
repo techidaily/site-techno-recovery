@@ -1,7 +1,7 @@
 ---
 title: "Top President's Day Bargains Extended: Score Savings at Amazon, Walmart & Best Buy - Updated Selection on ZDNet"
-date: 2024-10-29T18:00:27.820Z
-updated: 2024-11-05T21:58:23.916Z
+date: 2024-11-09T23:04:45.938Z
+updated: 2024-11-16T01:34:57.410Z
 tags:
   - apple
 categories:
@@ -64,6 +64,13 @@ June Wan/ZDNET
 * [Asus TUF Gameing A17 Laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmecha-gray-asus-tuf-gaming-f17-fa707xi-ns94%252Fp%252FN82E16834236430%253FItem%253DN82E16834236430): $1,350 (save $450 at Newegg)
 * [Asus Gaming Desktop Predator Orion 3000](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Facer-po3-650-ub91-predator-orion-3000%252Fp%252FN82E16883101905%253FItem%253DN82E16883101905): $700 (save $500 at Newegg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Presidents Day headphones deals still live
 
 Jason Hiner/ZDNET
@@ -77,19 +84,6 @@ Jason Hiner/ZDNET
 * [Jabra Elite 5 Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0B7ZNCXKZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07fe2471-e80f-4ad0-9122-3cf0fe702fd6%7Cdtp&dtb=1): $99 (save $51 at Amazon)
 * [Jabra Elite 4 Active Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09MVGQRDD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07fe2471-e80f-4ad0-9122-3cf0fe702fd6%7Cdtp&dtb=1): $90 (save $30 at Amazon)
 * [Jabra Elite 10 Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB91VRGV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07fe2471-e80f-4ad0-9122-3cf0fe702fd6%7Cdtp&dtb=1): $200 (save $50 at Amazon)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Presidents Day TV deals still live
 
@@ -105,6 +99,13 @@ Maria Diaz/ZDNET
 * [Hisense 75-inch 4K UHD Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHisense-75-Inch-Class-Smart-75U6HF%2Fdp%2FB0CHJ7GQ2Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07fe2471-e80f-4ad0-9122-3cf0fe702fd6%7Cdtp&dtb=1): $750 (save $400 at Amazon)
 * [Samsung 85-inch Class TU690T UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-85-class-tu690t-crystal-uhd-4k-smart-tizen-tv%2F6527338.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,000 (save $300 at Best Buy)
 * [Samsung 75-inch Class QN85C UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-75-class-qn85c-neo-qled-4k-uhd-smart-tizen-tv%2F6536416.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,800 (save $500 at Best Buy)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Presidents Day robot vacuum deals still live
 
@@ -123,10 +124,10 @@ Beth Mauder/ZDNET
 * [Roborock S8 Pro Vacuum and Mop](https://roborock.pxf.io/c/159047/1179705/14848?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fus.roborock.com%2Fproducts%2Froborock-s8-pro-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,400 (save $200 at Roborock)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Presidents Day home deals still live
@@ -146,29 +147,22 @@ Arlo
 
 President's Day is always celebrated on the third Monday of February. This year, it falls on Feb. 19\. 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When will these deals expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does Amazon have a Presidents' Day sale?
 
@@ -216,20 +210,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>2024 Approved Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unmatched-video-upload-aides-to-twitter/"><u>2024 Approved Unmatched Video Upload Aides to Twitter</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/achieve-impeccable-macbook-pro-video-capture-expert-tips-and-tricks-for-crystal-clear-results/"><u>Achieve Impeccable MacBook Pro Video Capture: Expert Tips and Tricks for Crystal Clear Results</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/camera-driver-setup-compatible-with-windows-11-10-8-and-7-systems/"><u>Camera Driver Setup: Compatible with Windows 11, 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-10-popular-free-email-providers/"><u>Discover the Ultimate List of 10 Popular Free Email Providers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-steps-to-correct-the-xinput1n-not-found-error-on-windows/"><u>Essential Steps to Correct the 'Xinput1_n Not Found' Error on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-your-options-is-a-blu-ray-player-right-for-you/"><u>Exploring Your Options: Is a Blu-Ray Player Right for You?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>In 2024, Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-there-a-global-glitch-investigating-possible-outages-with-the-nintendo-switch-online/"><u>Is There a Global Glitch? Investigating Possible Outages with the Nintendo Switch Online.</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/prime-edition-best-video-editing-apps-unveiled-for-2024/"><u>Prime Edition Best Video Editing Apps Unveiled for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-coredll-could-not-be-located-dilemma/"><u>Resolving the 'Core.dll Could Not Be Located' Dilemma</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-unpacked-ahead-detailed-news-roundup-for-the-upcoming-tech-extravaganza-of-2025/"><u>Samsung Unpacked Ahead: Detailed News Roundup for the Upcoming Tech Extravaganza of 2025</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-tips-locate-individuals-on-facebook-quickly/"><u>Simple Tips: Locate Individuals on Facebook Quickly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-8-mobile-gaming-apps-you-cant-miss/"><u>Top 8 Mobile Gaming Apps You Can't Miss</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-free-no-invasive-android-video-recorders/"><u>[New] In 2024, Best Free, No-Invasive Android Video Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-intricacies-of-whatsapp-audio-dialogue/"><u>[New] The Intricacies of WhatsApp Audio Dialogue</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-essential-tactics-for-dramatizing-success-stories-through-testimonials/"><u>[Updated] In 2024, Essential Tactics for Dramatizing Success Stories Through Testimonials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-messenger-features-without-linking-to-facebook-a-comprehensive-guide/"><u>Accessing Messenger Features without Linking to Facebook: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/brief-bliss-in-photo-collage-crafting-the-google-way/"><u>Brief Bliss in Photo Collage Crafting - The Google Way</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortlessly-power-and-chill-your-apple-gadgets-with-the-new-multi-functional-magsafe-station-exclusive-review-on-zdnet/"><u>Effortlessly Power and Chill Your Apple Gadgets with the New Multi-Functional MagSafe Station – Exclusive Review on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expanding-your-workspace-a-guide-to-connecting-two-monitors-on-macos/"><u>Expanding Your Workspace: A Guide to Connecting Two Monitors on macOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-the-safest-and-most-durable-phones-for-children-by-zdnet/"><u>Expert Picks: The Safest & Most Durable Phones for Children by ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-tele-loop-techniques-easy-endless-watching-on-television/"><u>In 2024, Tele-Loop Techniques Easy, Endless Watching on Television</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/patent-details-the-similarities-between-the-new-vision-pro-controller-and-apples-iconic-stylus-analysis/"><u>Patent Details: The Similarities Between the New Vision Pro Controller and Apple's Iconic Stylus | Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oneplus-open-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your OnePlus Open Phone Now with These Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-handy-guide-toolkits-tips-and-techniques-for-savvy-software-creation/"><u>Stellar's Handy Guide: Toolkits, Tips & Techniques for Savvy Software Creation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-setting-up-undetected-audio-devices-on-windows-10/"><u>Step-by-Step Guide: Setting Up Undetected Audio Devices on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-user-manual-to-apple-pay-unlock-the-power-of-convenient-shopping-anywhere/"><u>The Complete User Manual to Apple Pay: Unlock the Power of Convenient Shopping Anywhere!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-small-tablet-showdown-of-2024-thoroughly-tested-by-pros-gadgetsphere/"><u>Ultimate Guide to Small Tablet Showdown of 2024 - Thoroughly Tested by Pros | GadgetSphere</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-origins-how-windows-meltdown-became-crowdstrikes-historic-challenge-techinsights/"><u>Unveiling the Origins: How Windows Meltdown Became CrowdStrike's Historic Challenge | TechInsights</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/unveiling-the-secrets-of-mp4-video-files-a-comprehensive-guide/"><u>Unveiling the Secrets of MP4 Video Files: A Comprehensive Guide</u></a></li>
 </ul></div>
 

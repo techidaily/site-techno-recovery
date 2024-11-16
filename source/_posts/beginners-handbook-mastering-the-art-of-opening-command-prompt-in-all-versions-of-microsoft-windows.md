@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Handbook: Mastering the Art of Opening Command Prompt in All Versions of Microsoft Windows"
-date: 2024-09-18T23:27:30.509Z
-updated: 2024-09-21T03:57:08.622Z
+date: 2024-11-13T19:15:49.027Z
+updated: 2024-11-16T03:46:31.677Z
 categories:
   - BestProducts
 description: "This Article Describes Beginner's Handbook: Mastering the Art of Opening Command Prompt in All Versions of Microsoft Windows"
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c
 
  You must set up Google Maps before you start searching for electric charging stations. If you have it set up, skip the step below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Select the Charger Type for Your Car
 
  Choosing the correct charger plug-in Google Maps settings for your car can help you avoid confusion and reach the right station.
@@ -48,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c
 ![Settings, Electric vehicle settings, and plug types in the Google Maps app](https://www.lifewire.com/thmb/wMpdBksqOMkGz-2SiabokHxq8DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Maps-EV-setup-plugs-d2076a4c269b46cba08e894002ab9456.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search and Find Compatible EV Charging Stations
@@ -73,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c
 ![Filter options for EV charging stations in Google Maps](https://www.lifewire.com/thmb/kIqr0_Zyzxw2aMpRgZyvq_WcKpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EV-station-filters-9c5b18a3975d4359a6e533d1ba96624a.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add EV Charging Stations to Your Route
@@ -90,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c
  A red icon for the Charging stations category can also appear next to icons for other categories. Your**Engine type** must be set to "Electric" in the**Trip options** for this icon to be visible.  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Take a More Efficient Route With Trip Options
@@ -105,6 +98,26 @@ thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c
 16. Select**Electric** for**Engine type (car)** .  
 ![The "More" menu, Options heading, and "Prefer fuel-efficient routes" & Engine type options in Google Maps](https://www.lifewire.com/thmb/rQO9h7LEvVKQtN8Ic6b5xiJa1-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Efficient-route-options-Google-Maps-627d7d46908d4c65964001452e23f23f.jpg)
 17. Go back to the map.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip
 
@@ -137,5 +150,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-comprehensive-guide-to-focusing-on-your-iphone-camera/"><u>[New] 2024 Approved A Comprehensive Guide to Focusing on Your iPhone Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-study-motion-without-contact/"><u>2024 Approved In-Depth Study Motion Without Contact</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-7-alarm-apps-that-will-transform-your-mornings/"><u>Discover the Best 7 Alarm Apps That Will Transform Your Mornings!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-finest-festive-savings-7-prime-airpods-bargains-for-holiday-shoppers-spotlighted-by-zdnet/"><u>Discover the Finest Festive Savings: 7 Prime AirPods Bargains for Holiday Shoppers - Spotlighted by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-resolving-delays-in-logitech-mice-performance/"><u>Effective Solutions for Resolving Delays in Logitech Mice Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-graphics-enhancement-for-intels-g3000-win11/"><u>Effortless Graphics Enhancement for Intel's G3000 Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-system-when-it-cant-find-mfc42dll-file/"><u>Fix Your System When It Can't Find mfc42.dll File</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-your-destiny-2-game-running-smoothly-on-a-windows-computer/"><u>How to Get Your Destiny 2 Game Running Smoothly on a Windows Computer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exclusive-choice-of-cost-free-chat-apps-plus-desktop-viewing/"><u>In 2024, Exclusive Choice of Cost-Free Chat Apps + Desktop Viewing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-routines-to-alter-track-tempoplay-in-spotify/"><u>In 2024, Optimal Routines to Alter Track Tempoplay in Spotify</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audiovisual-updates-incorporating-sounds-in-avi-2023/"><u>New Mastering Audiovisual Updates Incorporating Sounds in AVI 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/users-share-their-greatest-disappointments-after-upgrading-to-iphone-ios-18-you-wont-be-surprised/"><u>Users Share Their Greatest Disappointments After Upgrading to iPhone iOS 18 – You Won’t Be Surprised</u></a></li>
+</ul></div>
 

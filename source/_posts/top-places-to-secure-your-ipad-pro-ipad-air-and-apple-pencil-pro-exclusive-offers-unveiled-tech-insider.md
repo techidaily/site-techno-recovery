@@ -1,7 +1,7 @@
 ---
 title: "Top Places to Secure Your iPad Pro, iPad Air & Apple Pencil Pro: Exclusive Offers Unveiled | Tech Insider"
-date: 2024-11-04T22:25:37.781Z
-updated: 2024-11-05T19:50:34.466Z
+date: 2024-11-09T03:31:39.014Z
+updated: 2024-11-15T22:44:00.739Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -91,6 +91,13 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
@@ -98,10 +105,10 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -109,10 +116,10 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -126,13 +133,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -168,14 +168,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/altering-screen-size-on-windows-11-an-achieved-solution/"><u>Altering Screen Size on Windows 11: An Achieved Solution</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-make-moments-last-longer-using-phantoms-slow-mo-magic-for-2024/"><u>How to Make Moments Last Longer Using Phantom's Slow Mo Magic for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y17s-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y17s Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unwind-with-youtube-tricks-for-reducing-playback-velocity-49-chars/"><u>In 2024, Unwind with YouTube Tricks for Reducing Playback Velocity (49 Chars)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/one-year-with-amazon-kindle-scribe-a-comprehensive-review-tech-insights/"><u>One Year with Amazon Kindle Scribe - A Comprehensive Review | Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/refuse-useless-conference-calls-5-effective-approaches-by-experts-at-zdnet/"><u>Refuse Useless Conference Calls: 5 Effective Approaches by Experts at ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-cold-season-tech-game-with-zdnets-top-unconventional-gadgets-for-fall-and-winter/"><u>Revolutionize Your Cold Season Tech Game with ZDNet's Top Unconventional Gadgets for Fall and Winter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamlessly-transition-from-office-machine-to-home-device-with-a-single-tap-insights-from-zdnet/"><u>Seamlessly Transition From Office Machine to Home Device with a Single Tap - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-revolutionary-tactics-for-enhanced-roi-in-animated-facebook-advertising/"><u>[New] In 2024, Revolutionary Tactics for Enhanced ROI in Animated Facebook Advertising</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unheard-voices-on-youtube-livestream-success-beyond-1000-supporters-for-2024/"><u>[New] Unheard Voices on YouTube Livestream Success Beyond 1000 Supporters for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/35-for-both-echo-pop-and-blink-doorbell-unbeatable-smart-device-bundle-captures-best-deal-spotlight-at-end-of-amazons-prime-day-sale-gadget-watch/"><u>$35 for Both Echo Pop and Blink Doorbell? Unbeatable Smart Device Bundle Captures Best Deal Spotlight at End of Amazon's Prime Day Sale | Gadget Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2021-ultimate-buyers-guide-score-the-best-deals-on-black-friday-and-cyber-monday-with-zdnet/"><u>2021 Ultimate Buyer's Guide: Score the Best Deals on Black Friday & Cyber Monday with ZDNet</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-glimpse-into-tomorrows-tech-how-ordering-apple-vision-pro-early-reveals-bright-prospects-zdnet/"><u>A Glimpse Into Tomorrow's Tech: How Ordering Apple Vision Pro Early Reveals Bright Prospects | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-creator-of-chatgpt-whos-behind-this-ai/"><u>Discover the Creator of ChatGPT: Who's Behind This AI?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-amds-gpio-drivers-for-direct-access-to-gpu-resources/"><u>Get the Latest Version of AMD's GPIO Drivers for Direct Access to GPU Resources</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-11-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 11 Pro without Password?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-stock-management-discover-how-ai-and-visual-tech-maintain-optimal-shelf-levels-in-retail/"><u>Innovative Stock Management: Discover How AI & Visual Tech Maintain Optimal Shelf Levels in Retail</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/post-discount-period-kicks-in-comcast-introduces-affordable-30-internet-plans/"><u>Post-Discount Period Kicks In, Comcast Introduces Affordable $30 Internet Plans</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/simplifying-image-reduction-creating-professional-thumbnails/"><u>Simplifying Image Reduction Creating Professional Thumbnails</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-purchasing-ebooks-on-amazons-kindle-platform/"><u>Step-by-Step Guide: Purchasing Ebooks on Amazon's Kindle Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-12-perfect-presents-for-cybersecurity-enthusiasts-ideas-from-zdnet/"><u>Top 12 Perfect Presents for Cybersecurity Enthusiasts: Ideas From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-how-warren-buffett-abandons-his-sole-indian-bet-with-paytms-downfall/"><u>ZDNet Exclusive: How Warren Buffett Abandons His Sole Indian Bet with Paytm's Downfall</u></a></li>
 </ul></div>
 

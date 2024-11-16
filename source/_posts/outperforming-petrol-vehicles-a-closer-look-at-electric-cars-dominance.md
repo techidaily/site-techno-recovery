@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Petrol Vehicles: A Closer Look at Electric Cars' Dominance"
-date: 2024-09-15T16:11:39.149Z
-updated: 2024-09-20T20:51:21.676Z
+date: 2024-11-10T03:07:12.520Z
+updated: 2024-11-15T22:18:24.605Z
 categories:
   - BestProducts
 description: "This Article Describes Outperforming Petrol Vehicles: A Closer Look at Electric Cars' Dominance"
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 Julie Bang
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Quiet Acceleration
 
  It's true that sportscars sound pretty good when revved up but there’s a beautiful simplicity in the way an EV sounds with so few moving parts. 
@@ -53,6 +66,13 @@ Some EVs can hit 60 mph from a stop in under 2.5 seconds.
  The average sedan (think of the generally athletic person) can sprint from a dead stop to 60 mph in 6 to 8 seconds while the average supercar (the sprinter) can do the same in under 4 seconds. The weight-lifter might take a few minutes to get there, fully-laden.
 
  Of course, depending on EV configuration, sprint time can vary, but some can hit 60 mph from a stop in under 2.5 seconds without scaring your neighbors. Whether you can do it without scaring yourself is another matter.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Efficiency Factor
 
@@ -83,12 +103,23 @@ Some EVs can hit 60 mph from a stop in under 2.5 seconds.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-best-introduction-maker-apps-ios-vs-android-comparison/"><u>[New] 2024 Approved Best Introduction Maker Apps IOS vs Android Comparison</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-comparing-obs-and-fraps-aimed-at-filmmakers/"><u>[New] In 2024, Comparing OBS and Fraps Aimed at Filmmakers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-streamline-your-game-logs-advanced-camcapturing-techniques/"><u>[Updated] 2024 Approved Streamline Your Game Logs Advanced CamCapturing Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ace-your-online-presence-youtubes-studio-command-center/"><u>[Updated] Ace Your Online Presence YouTube's Studio Command Center</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bridging-devices-move-images-and-videos-from-pc/"><u>[Updated] Bridging Devices Move Images & Videos From PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-premier-5-high-resolution-film-makers/"><u>2024 Approved Premier 5 High-Resolution Film Makers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-007s-legacy-a-step-by-step-guide-to-experiencing-all-bond-movies-in-order/"><u>Decoding 007'S Legacy: A Step-by-Step Guide to Experiencing All Bond Movies in Order</u></a></li>
+<li><a href="https://article-helps.techidaily.com/gently-ebbing-sounds-with-logic-pros-dimming-function-for-2024/"><u>Gently Ebbing Sounds with Logic Pro's Dimming Function for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-speaking-clarity-in-vr-expert-advice-for-utilizing-the-meta-quest-microphone-effectively/"><u>Maximizing Speaking Clarity in VR: Expert Advice for Utilizing the Meta Quest Microphone Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-the-world-of-3d-spatial-videos-with-apple-a-step-by-step-guide-for-meta-quest-3-users-zdnet/"><u>Navigate the World of 3D Spatial Videos with Apple - A Step-by-Step Guide for Meta Quest 3 Users | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-data-5-effective-backup-solutions/"><u>Protecting Your Data: 5 Effective Backup Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-essential-calendar-apps-perfect-for-managing-a-familys-schedule/"><u>Top 7 Essential Calendar Apps Perfect for Managing a Family's Schedule</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-kid-friendly-smartphones-the-ultimate-guide-by-zdnet/"><u>Top Kid-Friendly Smartphones: The Ultimate Guide by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-airtag-gear-of-2024-comprehensive-reviews-and-testing-by-tech-experts-zdnet/"><u>Top-Rated AirTag Gear of 2024: Comprehensive Reviews & Testing by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshoot-and-fix-ralink-wifi-connectivity-issues-with-windows-driver-update-instructions/"><u>Troubleshoot and Fix Ralink WiFi Connectivity Issues with Windows Driver Update Instructions</u></a></li>
+</ul></div>
 

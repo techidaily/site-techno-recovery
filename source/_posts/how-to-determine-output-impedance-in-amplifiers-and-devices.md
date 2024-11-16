@@ -1,7 +1,7 @@
 ---
 title: How to Determine Output Impedance in Amplifiers and Devices
-date: 2024-11-02T19:07:31.950Z
-updated: 2024-11-05T21:31:59.571Z
+date: 2024-11-13T03:36:06.086Z
+updated: 2024-11-16T01:44:25.614Z
 categories:
   - BestProducts
 description: This Article Describes How to Determine Output Impedance in Amplifiers and Devices
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
  This article explains how to[restart an iPhone](https://www.lifewire.com/how-to-restart-iphone-2000288) 15\. The instructions include how to do a soft restart for a simple shut down of the device and a force restart if the first methods don't work. The steps are the same for all iPhone 15 models.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Soft Restart an iPhone 15
@@ -38,24 +38,23 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 ![The volume (left) buttons and side button on an iPhone 15](https://www.lifewire.com/thmb/TmHUOU_P6SpM3wMTkgaBlQ6knbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Side-and-Volume-buttons-on-iPhone-15-Pro-ce7f29a6f4bb4cf3bb66ea8b0b928ba3.jpg)
 2. Drag the**Slide to Power Off** option to the right.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Settings to Restart iPhone 15
 
@@ -66,14 +65,15 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 3. Drag the**Slide to Power Off** option to the right.  
 ![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
 4. To turn your iPhone back on, press and hold the**Side** button on the right.  
- Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
 ## How to Turn Off an iPhone 15 With Siri
 
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 * "Shut down."
 
  Siri will confirm that you want to power down your phone; select**Power Off** to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Force Restart an iPhone 15
 
@@ -124,21 +131,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-selective-alarm-tones-optimal-websites-list/"><u>[New] 2024 Approved Selective Alarm Tones Optimal Websites List</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ioneers-in-the-realm-of-multimedia-synergy/"><u>[New] Pioneers in the Realm of Multimedia Synergy</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-recording-titans-collide/"><u>[Updated] 2024 Approved Recording Titans Collide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-essential-free-video-editing-apps-for-iphonesipads-for-2024/"><u>[Updated] Essential Free Video Editing Apps for iPhones/iPads for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-stability-in-the-click-quashing-jitter/"><u>2024 Approved Stability in the Click Quashing Jitter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experts-choice-for-ultimate-iphone-16-and-pro-max-cases-top-picks-of-2e-year-exclusive-tests/"><u>Experts' Choice for Ultimate iPhone 16 and Pro Max Cases - Top Picks of 2E Year Exclusive Tests</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-do-ipads-stand-out-from-other-tablet-devices/"><u>How Do iPads Stand Out From Other Tablet Devices?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-a15-4g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy A15 4G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-roles-of-every-crew-member-in-filming/"><u>In 2024, Roles of Every Crew Member in Filming</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximize-your-sound-experience-on-windows-e-volume-adjustment-tips/"><u>Maximize Your Sound Experience on Windows E: Volume Adjustment Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/personalizing-smart-home-experience-is-alexa-superior-to-google-assistant-for-you/"><u>Personalizing Smart Home Experience: Is Alexa Superior to Google Assistant for You?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-issues-with-a-non-functional-microsoft-edge-browser/"><u>Resolving Issues with a Non-Functional Microsoft Edge Browser</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simplify-your-inbox-master-the-one-step-method-to-clearing-outclutter-without-extra-accounts-learn-how/"><u>Simplify Your Inbox: Master the One-Step Method to Clearing Outclutter Without Extra Accounts - Learn How!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-48-stellar-prime-day-offers-on-apple-devices-snag-your-savings-before-time-runs-out/"><u>Top 48 Stellar Prime Day Offers on Apple Devices: Snag Your Savings Before Time Runs Out!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-tools-for-analyzing-and-conversing-on-text-files/"><u>Top 6 Tools for Analyzing and Conversing on Text Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-notch-tablet-picks-for-ultimate-note-taking-expert-reviews-and-comparisons-techradar/"><u>Top Notch Tablet Picks for Ultimate Note-Taking - Expert Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sonys-x1000v-detailed-recording-experience-review/"><u>[New] Sony's X1000V Detailed Recording Experience Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-pixelation-portraiture-sketching-a-playful-virtual-emblem/"><u>[Updated] 2024 Approved Pixelation Portraiture Sketching a Playful Virtual Emblem</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-efficient-live-gaming-broadcasting-on-xbox/"><u>[Updated] In 2024, Efficient Live Gaming Broadcasting on Xbox</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-15-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 15</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-your-ideal-apple-laptop-comparing-the-latest-m3-vs-m2-macbook-air-a-comprehensive-guide/"><u>Choosing Your Ideal Apple Laptop: Comparing the Latest M3 Vs. M2 MacBook Air - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminate-instagram-buffering-6-key-strategies-for-optimizing-app-performance-across-ios-and-android/"><u>Eliminate Instagram Buffering: 6 Key Strategies for Optimizing App Performance Across iOS and Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-advanced-ai-endeavors-with-groundbreaking-new-models-revealed-zdnet/"><u>Exploring Apple's Advanced AI Endeavors with Groundbreaking New Models Revealed | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-restroom-to-results-streamlined-health-screening-techniques-unveiled-at-zdnet/"><u>From Restroom to Results: Streamlined Health Screening Techniques Unveiled at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-vga-driver-updates-free-download/"><u>Latest VGA Driver Updates – Free Download</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-5-tiktok-voice-generators-you-should-try/"><u>New In 2024, Best 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/snicker-surgeons-top-7-sketches-for-youtube-laughter-aficionados/"><u>Snicker Surgeons Top 7 Sketches for YouTube Laughter Aficionados</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-smart-choice-why-skipping-the-iphone-16-makes-sense-for-tech-savvy-consumers-insights/"><u>The Smart Choice: Why Skipping the iPhone 16 Makes Sense for Tech-Savvy Consumers - Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-for-tablet-enthusiasts-detailed-review-of-the-kobo-clara-hd/"><u>Top Picks for Tablet Enthusiasts: Detailed Review of the Kobo Clara HD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-businesses-with-apple-vision-pro-5-leading-organizations-showcase-success-stories-powered-by-zdnet-analysis/"><u>Transforming Businesses with Apple Vision Pro: 5 Leading Organizations Showcase Success Stories | Powered by ZDNET Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-ipads-for-children-cnet-kids/"><u>Ultimate Guide to the Best iPads for Children | CNET Kids</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-apple-watch-savings-top-picks-from-july-2024/"><u>Unbeatable Apple Watch Savings: Top Picks From July 2024</u></a></li>
 </ul></div>
 

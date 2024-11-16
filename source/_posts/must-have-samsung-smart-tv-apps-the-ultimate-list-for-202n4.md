@@ -1,7 +1,7 @@
 ---
 title: "Must-Have Samsung Smart TV Apps: The Ultimate List for 202N4"
-date: 2024-09-19T01:28:25.987Z
-updated: 2024-09-20T18:50:22.590Z
+date: 2024-11-15T03:21:32.092Z
+updated: 2024-11-15T21:49:04.539Z
 categories:
   - BestProducts
 description: "This Article Describes Must-Have Samsung Smart TV Apps: The Ultimate List for 202N4"
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -57,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -90,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -99,19 +113,6 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -126,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -167,5 +168,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/outube-seo-the-path-to-more-audience-engagement-for-2024/"><u>[New] YouTube SEO The Path to More Audience Engagement for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-discover-the-elite-online-stores-where-gifts-meet-individuality/"><u>[Updated] In 2024, Discover the Elite Online Stores Where Gifts Meet Individuality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-simplified-background-editing-in-google-meet-chats/"><u>[Updated] Simplified Background Editing in Google Meet Chats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-finewoven-accessories-introduces-new-beats-case-collection-insights-from-zdnet/"><u>Apple Discontinues FineWoven Accessories, Introduces New Beats Case Collection - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-insights-on-the-ultimate-list-of-2024s-most-superior-stylus-tablets-zdnet/"><u>Expert Insights on the Ultimate List of 2024'S Most Superior Stylus Tablets | ZDNET</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-6-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 6 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-collaborative-music-streaming-achievable-with-the-spotify-app/"><u>Is Collaborative Music Streaming Achievable with the Spotify App?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-fix-for-error-0x8053906f-comprehensive-guide-to-restoring-jscriptdll-files/"><u>Mastering the Fix for Error 0X8053906F: Comprehensive Guide to Restoring JScript.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/prime-day-2024-unbeatable-deals-on-35plus-tablets-still-available-shop-now-with-zdnet/"><u>Prime Day 2024: Unbeatable Deals on 35+ Tablets Still Available – Shop Now with ZDNet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-communication-how-to-activate-google-duo-calls-in-gmail-for-ultimate-connectivity/"><u>Seamless Communication: How to Activate Google Duo Calls in Gmail for Ultimate Connectivity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-apps-for-making-lifelong-bonds-meet-your-future-pals-today/"><u>The Best Apps for Making Lifelong Bonds – Meet Your Future Pals Today!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-20-online-instagram-video-converters-to-mp4-format-for-2024/"><u>Top 20 Online Instagram Video Converters to MP4 Format for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-your-samsung-soundbar-a-step-by-step-guide/"><u>Troubleshooting Your Samsung Soundbar: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlock-the-value-of-viewership-a-clear-concise-guide-to-evaluating-youtube-earnings/"><u>Unlock the Value of Viewership A Clear, Concise Guide to Evaluating YouTube Earnings</u></a></li>
+</ul></div>
 

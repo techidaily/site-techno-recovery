@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Get Canon PRO 100 Up and Running on Windows"
-date: 2024-11-01T20:54:49.327Z
-updated: 2024-11-05T18:41:33.421Z
+date: 2024-11-11T23:14:26.187Z
+updated: 2024-11-16T05:00:37.370Z
 tags:
   - win11
   - win10
@@ -47,16 +47,10 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
  Searching and Downloading drivers manually can take forever. And it is possible to download the incompatible drivers. So instead of downloading Windows 10 drivers for Geforce GTX 1080 manually, you can use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help you automatically. With Driver Easy, you can expect that much time and energy will be saved on updating drivers.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Download Drivers with just 2 Clicks**
@@ -68,10 +62,10 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca1022f7b7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Click**Update** button to download the driver that you wish to install.
@@ -79,10 +73,10 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca27c67b42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With Free version, after download completes, you are required to install the driver manually. If you want to have the driver installed automatically, you can consider upgrading to the Paid version. The Paid version will provide you with higher download speed and full features. Moreover, you will enjoy free technical support. You can[contact our professional support team](https://tools.techidaily.com/drivereasy/download/) for further assistance regarding any driver issue you’ve met. And you will have 30-day money back guarantee. Just feel free to ask for a full refund if you are not satisfied with the product.
@@ -102,20 +96,14 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-behind-the-scenes-top-tactics-for-consistent-vlogging/"><u>[New] 2024 Approved Behind the Scenes Top Tactics for Consistent Vlogging</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-obtain-high-quality-photos-without-watermarks/"><u>[New] 2024 Approved Obtain High-Quality Photos Without Watermarks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fashion-finds-filled-with-fun-editing-for-hauls/"><u>[New] Fashion Finds Filled with Fun Editing for Hauls</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-boosting-video-content-with-effective-srt-file-management/"><u>[Updated] Boosting Video Content with Effective SRT File Management</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-instant-messaging-solutions-for-ios-users/"><u>Affordable Instant Messaging Solutions for iOS Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-tutorial-creating-and-activating-your-ps4ps5-online-id/"><u>Beginner's Tutorial: Creating and Activating Your PS4/PS5 Online ID</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-samsung-galaxy-z-fold-5-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Samsung Galaxy Z Fold 5.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-preventing-red-dead-online-pc-crashes-and-ensuring-smooth-gameplay/"><u>Expert Tips for Preventing Red Dead Online PC Crashes & Ensuring Smooth Gameplay</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-does-pope-francis-engage-in-electronic-mail-exchange/"><u>How Does Pope Francis Engage in Electronic Mail Exchange?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/how-to-install-and-use-snapchat-on-your-mac-in-2024/"><u>How to Install and Use Snapchat on Your Mac, In 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-network-troubleshooting-a-mac-users-handbook/"><u>Mastering the Art of Network Troubleshooting: A Mac User's Handbook</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-animated-logo-makers-top-picks-and-expert-design-tips/"><u>New Free Animated Logo Makers Top Picks and Expert Design Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722886475366-overcoming-the-missing-propsysdll-error-a-comprehensive-guide/"><u>Overcoming the Missing PropSys.DLL Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tackle-your-software-problems-a-user-friendly-approach-to-fixing-mfc42ddll-failures/"><u>Tackle Your Software Problems: A User-Friendly Approach to Fixing mfc42d.dll Failures</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-must-have-gps-navigation-applications-for-your-iphone/"><u>Top 5 Must-Have GPS Navigation Applications for Your iPhone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>[New] 2024 Approved Game Recorder Mastery Top 5 Techniques for Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-dollars-and-sense-profit-driven-techniques-for-fb-video-content/"><u>[Updated] 2024 Approved Dollars and Sense Profit-Driven Techniques for FB Video Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-implement-shutter-speed-blurring-in-psx/"><u>[Updated] Implement Shutter Speed Blurring in PSX</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-6-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 6 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-budget-friendly-high-quality-ae-templates/"><u>Best Budget-Friendly, High-Quality AE Templates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-to-experience-superman-saga-correctly/"><u>Essential Steps to Experience Superman Saga Correctly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-photography-revolutionized-capturing-live-events-in-ios-16-explained/"><u>IPhone Photography Revolutionized: Capturing Live Events in iOS 16 Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-airtag-wallet-picks-for-2/"><u>Top-Rated AirTag Wallet Picks for 2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-secrets-to-swapping-out-cellphones-glass-scratch-guard-successfully/"><u>Unveiling Secrets to Swapping Out Cellphone's Glass Scratch Guard Successfully</u></a></li>
 </ul></div>
 

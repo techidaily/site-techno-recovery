@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices on Hold: Smart Purchasing Decisions Revealed"
-date: 2024-11-03T18:14:51.339Z
-updated: 2024-11-05T18:00:17.084Z
+date: 2024-11-15T01:03:01.678Z
+updated: 2024-11-16T01:42:25.720Z
 tags:
   - apple
 categories:
@@ -59,6 +59,13 @@ Don't buy these devices:
 
 ## **The 'Nice' list**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple iPhone 16**
 
 iPhone 16
@@ -68,10 +75,10 @@ Jason Hiner/ZDNET
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
@@ -111,10 +118,10 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -148,10 +155,10 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
@@ -174,13 +181,6 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -222,17 +222,16 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-techniques-for-stunning-android-time-lapse-captures/"><u>2024 Approved Top Techniques for Stunning Android Time-Lapse Captures</u></a></li>
-<li><a href="https://win-guides.techidaily.com/acceso-sin-demora-guia-paso-a-paso-para-encontrar-y-restaurar-fotos-desaparecidas-de-tu-iphone/"><u>Acceso Sin Demora: Guía Paso a Paso Para Encontrar Y Restaurar Fotos Desaparecidas De Tu iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/detecting-unwanted-trail-methods-to-identify-if-your-privacy-is-compromised-by-apples-airtags-tech-insights/"><u>Detecting Unwanted Trail: Methods to Identify If Your Privacy Is Compromised by Apple's AirTags - Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/finding-your-passwords-in-macos-keychain-a-step-by-step-guide-tech-tips/"><u>Finding Your Passwords in macOS Keychain: A Step-by-Step Guide - Tech Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-does-the-latest-apple-watch-fitness-update-stack-against-traditional-gps-sports-watches-like-garmin/"><u>How Does the Latest Apple Watch Fitness Update Stack Against Traditional GPS Sports Watches Like Garmin?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-swiftly-resolve-freeze-and-crash-issues-with-tiktok-androidios/"><u>In 2024, Swiftly Resolve Freeze and Crash Issues with TikTok (Android/iOS)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-adobe-premiere-top-6-tricks-for-professional-video-editing-for-2024/"><u>New Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/pharmacogenomics-is-becoming-increasingly-important-in-understanding-individual-responses-to-beta-blockers-based-on-genetic-differences-in-drug-metabolism.m8/"><u>Pharmacogenomics Is Becoming Increasingly Important in Understanding Individual Responses to Beta Blockers Based on Genetic Differences in Drug Metabolism.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/testing-apples-push-towards-upgrading-my-iphone-a-firsthand-experience/"><u>Testing Apple's Push Towards Upgrading My iPhone - A Firsthand Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-the-latest-apple-studio-monitor-comprehensive-specs-cutting-edge-features-and-key-points-covered/"><u>The Complete Guide to the Latest Apple Studio Monitor: Comprehensive Specs, Cutting-Edge Features, and Key Points | Covered</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-techniques-for-sanitizing-your-tv-clicker-safely-and-effectively/"><u>The Ultimate Techniques For Sanitizing Your TV Clicker Safely & Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-windows-10-sound-issues-with-these-simple-steps/"><u>Troubleshoot Windows 10 Sound Issues with These Simple Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-cybernetic-odyssey-traversing-metaverse-universes-in-film-for-2024/"><u>[New] Cybernetic Odyssey Traversing Metaverse Universes in Film for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-altering-snapchat-audio-a-dual-approach-explained/"><u>[Updated] Altering Snapchat Audio A Dual Approach Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/22-efficient-ways-to-livestream-classes-without-paying-for-2024/"><u>22 Efficient Ways to Livestream Classes Without Paying for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-pick-for-no-fee-digital-faxing-compare-these-7-leading-platforms/"><u>Best Pick for No-Fee Digital Faxing: Compare These 7 Leading Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-improvements-required-how-apples-vision-pro-can-excel-in-the-corporate-arena-insights/"><u>Essential Improvements Required: How Apple's Vision Pro Can Excel in the Corporate Arena - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/googles-latest-event-on-horizon-unraveling-expectations-and-potential-reveals/"><u>Google's Latest Event on Horizon: Unraveling Expectations & Potential Reveals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-script-conversion-from-text-formats-to-engaging-srt-for-2024/"><u>Streamlining Script Conversion From Text Formats to Engaging SRT for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/supreme-select-iphone-customized-sound-crafting-for-2024/"><u>Supreme Select IPhone Customized Sound Crafting for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-buying-an-apple-vision-pro-insider-secrets-for-perfect-face-scans-and-ordering-tips/"><u>The Ultimate Guide to Buying an Apple Vision Pro: Insider Secrets for Perfect Face Scans and Ordering Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-picking-a-suitable-surge-protector-for-gadgets/"><u>The Ultimate Guide to Picking a Suitable Surge Protector for Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/walmarts-ultimate-christmas-and-new-year-bargains-explore-the-top-100-deals-on-zdnet/"><u>Walmart's Ultimate Christmas and New Year Bargains: Explore the Top 100 Deals on ZDNet</u></a></li>
 </ul></div>
 

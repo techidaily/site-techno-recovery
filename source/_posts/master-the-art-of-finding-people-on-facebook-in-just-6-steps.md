@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Finding People on Facebook in Just 6 Steps
-date: 2024-11-03T21:30:12.645Z
-updated: 2024-11-05T19:49:19.513Z
+date: 2024-11-12T22:37:49.349Z
+updated: 2024-11-15T16:52:29.507Z
 categories:
   - BestProducts
 description: This Article Describes Master the Art of Finding People on Facebook in Just 6 Steps
@@ -30,24 +30,25 @@ thumbnail: https://www.lifewire.com/thmb/hxWpzKcN-BiBu9bvDiyxKnNO4Us=/400x300/fi
 1. Press and hold the**Side** button on the right and either**Volume** button on the left at the same time.  
 ![The volume (left) buttons and side button on an iPhone 15](https://www.lifewire.com/thmb/TmHUOU_P6SpM3wMTkgaBlQ6knbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Side-and-Volume-buttons-on-iPhone-15-Pro-ce7f29a6f4bb4cf3bb66ea8b0b928ba3.jpg)
 2. Drag the**Slide to Power Off** option to the right.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Settings to Restart iPhone 15
 
@@ -60,19 +61,19 @@ thumbnail: https://www.lifewire.com/thmb/hxWpzKcN-BiBu9bvDiyxKnNO4Us=/400x300/fi
 4. To turn your iPhone back on, press and hold the**Side** button on the right.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Turn Off an iPhone 15 With Siri
@@ -124,24 +125,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-dive-deep-into-the-world-of-music-videos-best-apps-for-android/"><u>[New] 2024 Approved Dive Deep Into the World of Music Videos Best Apps for Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>[New] 2024 Approved Inside Triller An Oasis in the Sea of Standard Video Platforms</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-techniques-to-achieve-crystal-clear-youtube-soundtracks/"><u>[New] 2024 Approved Techniques to Achieve Crystal-Clear YouTube Soundtracks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-no-experience-no-obstacle-the-ultimate-guide-to-profits-on-reddit/"><u>[New] In 2024, No Experience? No Obstacle The Ultimate Guide to Profits on Reddit</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-initiate-online-interactions-with-this-guide-to-facebook-registration/"><u>[New] Initiate Online Interactions with This Guide to Facebook Registration</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-optimize-twitter-tweets-for-hd-viewing/"><u>[Updated] Optimize Twitter Tweets for HD Viewing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-on-activating-and-deactivating-your-iphones-recovery-mode/"><u>A Comprehensive Guide on Activating and Deactivating Your iPhone’s Recovery Mode</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-for-users-facing-text-message-delivery-problems-on-android-devices/"><u>Expert Advice for Users Facing Text Message Delivery Problems on Android Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/gaming-with-style-perfecting-your-steam-footage-for-2024/"><u>Gaming with Style - Perfecting Your Steam Footage for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-visuals-setting-up-your-samsung-4k-tv-for-the-best-picture/"><u>Maximizing Visuals: Setting Up Your Samsung 4K TV for the Best Picture</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/optimal-frequency-when-is-it-time-to-update-your-smartphone/"><u>Optimal Frequency: When Is It Time To Update Your Smartphone?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/precision-engagement-elevating-camera-angle-online/"><u>Precision Engagement Elevating Camera Angle Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-society-through-the-might-of-ai-technology/"><u>Revolutionizing Society Through the Might of AI Technology</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-enabling-and-using-android-apps-on-windows-11-pc/"><u>Step-by-Step Instructions: Enabling and Using Android Apps on Windows 11 PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-how-to-contact-an-anonymous-caller/"><u>Step-by-Step Tutorial on How to Contact an Anonymous Caller</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-to-remove-the-built-in-news-widget-from-windows-11/"><u>Steps to Remove the Built-In News Widget From Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unstick-your-unresponsive-media-player-proven-methods-for-fixing-non-eject-drives/"><u>Unstick Your Unresponsive Media Player: Proven Methods for Fixing Non-Eject Drives</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-14-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 14 Plus?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unveiling-panasonics-wearable-action-camera-magic/"><u>[New] In 2024, Unveiling Panasonic's Wearable Action Camera Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instagram-music-copyright-rules/"><u>[Updated] Instagram Music Copyright Rules</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhancing-smooth-playback-stop-frame-gaps-in-obs-for-2024/"><u>Enhancing Smooth Playback Stop Frame Gaps in OBS for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-to-resolve-python24dll-missing-from-your-system/"><u>Essential Steps to Resolve 'Python24.dll' Missing From Your System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-photochromic-smartglasses-transformed-my-biking-routine-a-game-changer-for-outdoor-enthusiasts-zdnet/"><u>How Photochromic Smartglasses Transformed My Biking Routine - A Game-Changer for Outdoor Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/probleme-deja-regle-difficultes-de-migration-des-donnees-avec-les-appareils-samsung/"><u>Problème Déjà Réglé : Difficultés De Migration Des Données Avec Les Appareils Samsung</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-5-applications-every-thriving-twitch-streamer-needs-to-succeed/"><u>Ultimate 5 Applications Every Thriving Twitch Streamer Needs to Succeed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlinking-from-facebook-a-guide-to-using-instant-chat-apps-solo/"><u>Unlinking From Facebook: A Guide to Using Instant Chat Apps Solo</u></a></li>
 </ul></div>
 

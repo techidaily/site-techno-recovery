@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Instructions to Purge DNS Cache on Your Mac Computer
-date: 2024-09-19T02:32:21.834Z
-updated: 2024-09-20T23:31:30.439Z
+date: 2024-11-09T04:21:49.684Z
+updated: 2024-11-15T17:31:18.197Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Instructions to Purge DNS Cache on Your Mac Computer
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/zSQcjmrvSKGApZnR2FXBp1D3DC4=/400x300/fi
 
  This article covers how to upload a new avatar on[Discord](https://www.lifewire.com/discord-4174046) using the desktop app, browser, and mobile apps.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Update Your Discord Avatar
 
  The process for adding or updating your profile picture is the same in a browser and the app. You can also remove the image; Discord doesn't require one.
@@ -33,10 +40,32 @@ thumbnail: https://www.lifewire.com/thmb/zSQcjmrvSKGApZnR2FXBp1D3DC4=/400x300/fi
 2. Click settings cog at the bottom left next to the current image.  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/CtVsFOH3NrM_Osbk4QgSVA-zC_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage1-be91f7e650f246a5b059b8808831e078.jpg)
 3. Select the three-dotted menu to the right of where the image goes.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Change Avatar** .  
  To delete your avatar, select**Delete Avatar** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/_ubg4ot8XIxsdRiJKl8yi2czZzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage3-ff81b24cf09447b1a89298c27ef9af4a.jpg)
 5. Choose an image.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/7p7WSfd6m8IiCjx-Vn3CrNBi5wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage4-a6205545762a49769b025839f0882ec9.jpg)
 6. You can resize or center the image as you see fit.
 7. Click**Apply** .  
@@ -57,6 +86,14 @@ thumbnail: https://www.lifewire.com/thmb/zSQcjmrvSKGApZnR2FXBp1D3DC4=/400x300/fi
 6. Select an image app.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/86Z7ytxgb26C9ZIg9qv92lbXy90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile4-6-e7f871a42b974f36a95af316c6f8d0c3.jpg)
 7. Choose an image and tap**Upload** . You can crop and zoom if you need to, but you have to do it before selecting the**Upload** button (there's a**Crop** button that shows up after you choose the image).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click the checkmark at the top right when you're satisfied if you cropped your image, then press**Save** to save the changes.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/VI2elSd14X27hKFsCroqVin3bEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile7-9-0291015a37e24a9b916667e373b615e4.jpg)
 
@@ -98,12 +135,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-step-by-step-techniques-for-earning-profits-on-vimeo/"><u>[New] 2024 Approved Step-by-Step Techniques for Earning Profits on Vimeo</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-tech-gear-webcams-that-take-your-streams-up-a-notch/"><u>[New] 2024 Approved Top Tech Gear Webcams That Take Your Streams Up a Notch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-detailed-breakdown-complete-test-of-gecata-tracker/"><u>[Updated] 2024 Approved Detailed Breakdown Complete Test of Gecata Tracker</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-starting-your-journey-as-an-online-gaming-star/"><u>[Updated] Starting Your Journey as an Online Gaming Star</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-launches-cutting-edge-artificial-intelligence-training-initiative-for-student-community-zdnet/"><u>Apple Launches Cutting-Edge Artificial Intelligence Training Initiative for Student Community - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-the-concept-of-output-impedance-in-electronics/"><u>Demystifying the Concept of Output Impedance in Electronics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-periodicity-of-phone-modernization/"><u>Evaluating Periodicity of Phone Modernization</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-macos-files-with-the-power-of-a-functional-path-bar-in-finder/"><u>Mastering MacOS Files with the Power of a Functional Path Bar in Finder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-iphone-storage-with-easy-decluttering-tips-save-gigabytes-now/"><u>Maximize Your iPhone Storage with Easy Decluttering Tips - Save Gigabytes Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-human-advantage-in-writing-beyond-ai-boundaries/"><u>The Human Advantage in Writing Beyond AI Boundaries</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-stylus-tablets-comprehensive-tests-and-reviews-by-tech-experts/"><u>Top-Rated Stylus Tablets : Comprehensive Tests & Reviews by Tech Experts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate List of 7 No-Cost Music Streamers for iOS and Android Users
-date: 2024-09-19T21:02:54.800Z
-updated: 2024-09-20T19:00:18.211Z
+date: 2024-11-11T19:54:37.936Z
+updated: 2024-11-16T04:34:03.246Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Ultimate List of 7 No-Cost Music Streamers for iOS and Android Users
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -73,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -91,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -106,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -133,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -161,5 +168,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-android-hacks-counterclockwise-video-stream/"><u>[New] 2024 Approved Android Hacks Counterclockwise Video Stream</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-high-quality-action-recorders-12-enhanced-with-gps-navigation/"><u>[New] In 2024, High-Quality Action Recorders 12, Enhanced with GPS Navigation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-hidden-instagram-techniques-that-lead-to-success/"><u>[Updated] Hidden Instagram Techniques That Lead to Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-multiplatform-iptv-encoding/"><u>[Updated] Multiplatform IPTV Encoding</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-three-simple-solutions-to-block-unwanted-messages-on-ios-devices/"><u>1. Three Simple Solutions to Block Unwanted Messages on iOS Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/capcut-pc/"><u>CapCut PC版使用時のビデオ連結テクニック</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-perfect-phone-for-your-child-expert-picks-and-reviews/"><u>Choosing the Perfect Phone for Your Child? Expert Picks & Reviews</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-dell-inspiron-3671-desktop-middle-ground-in-budget-computing/"><u>Comprehensive Evaluation of the Dell Inspiron 3671 Desktop: Middle Ground in Budget Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crushing-it-with-style-507-killer-instagram-captions-for-a-viral-year-of-2024/"><u>Crushing It With Style: 507 Killer Instagram Captions for a Viral Year of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-items-for-the-perfect-summer-everyday-carry-list/"><u>Essential Items for the Perfect Summer Everyday Carry List</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-fix-pathfinder-wrath-of-the-righteous-keyboard-not-working/"><u>How to Fix Pathfinder Wrath of the Righteous Keyboard Not Working</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-a18-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo A18 to iPod | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimizing-the-macos-sonoma-menu-bar-for-a-personal-touch-a-step-by-step-guide/"><u>Optimizing the MacOS Sonoma Menu Bar for a Personal Touch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/smooth-iphone-screen-recording-made-simple/"><u>Smooth iPhone Screen Recording Made Simple</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultra-compact-apple-vision-pro-carrier-half-the-bulk-full-of-style-zdnet-insights/"><u>The Ultra-Compact Apple Vision Pro Carrier: Half the Bulk, Full of Style (ZDNet Insights)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-mini-tablets-thoroughly-analyzed-by-tech-gurus-pcmag/"><u>Top Rated Mini Tablets - Thoroughly Analyzed by Tech Gurus | PCMag</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unbeatable-technological-savings-on-prime-day-at-amazon/"><u>Unbeatable Technological Savings on Prime Day at Amazon</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-emojis-a-step-by-step-guide-for-iphone-users/"><u>Unlock the Power of Emojis: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmissable-prime-day-2024-over-35-exceptional-tablet-deals-still-available-zdnets-complete-guide/"><u>Unmissable Prime Day 2024: Over 35 Exceptional Tablet Deals Still Available - ZDNET's Complete Guide</u></a></li>
+</ul></div>
 

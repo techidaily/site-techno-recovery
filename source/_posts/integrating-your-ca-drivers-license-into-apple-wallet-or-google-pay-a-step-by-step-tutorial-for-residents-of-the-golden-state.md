@@ -1,7 +1,7 @@
 ---
 title: "Integrating Your CA Driver’s License Into Apple Wallet or Google Pay: A Step-by-Step Tutorial for Residents of the Golden State"
-date: 2024-10-30T22:09:20.592Z
-updated: 2024-11-05T19:10:39.416Z
+date: 2024-11-14T21:22:27.206Z
+updated: 2024-11-16T02:43:35.210Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,18 +134,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-tips-for-maximum-digital-storage/"><u>[New] Advanced Tips for Maximum Digital Storage</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/raft-compelling-videos-utilize-no-cost-templates-and-samples/"><u>[New] Craft Compelling Videos Utilize No-Cost Templates & Samples</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-essential-guide-to-firefox-split-screen-feature/"><u>[New] Essential Guide to Firefox Split Screen Feature</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-seamless-integration-12-stream-app-experience/"><u>[Updated] 2024 Approved Seamless Integration 12 Stream App Experience</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-visual-aesthetics-mastering-vsco-styles-and-looks-for-2024/"><u>[Updated] Visual Aesthetics Mastering VSCO Styles and Looks for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-digital-culture-a-comprehensive-look-at-memes/"><u>Demystifying Digital Culture: A Comprehensive Look at Memes</u></a></li>
-<li><a href="https://facebook.techidaily.com/donald-trumps-legal-standoff-with-g-f-t-over-free-speech/"><u>Donald Trump's Legal Standoff with G-F-T Over Free Speech</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-visuals-revamping-hp-graphics-in-widgets/"><u>Improve Visuals: Revamping HP Graphics in WIDGETS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-pova-5-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Pova 5 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-15-insights-exceptional-performance-that-pros-and-enthusiasts-cant-ignore-zdnet/"><u>IPhone 15 Insights: Exceptional Performance That Pros and Enthusiasts Can't Ignore - ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-ipad-issues-preventing-brickage-with-ios-18-updates-techadvisor/"><u>Troubleshooting iPad Issues: Preventing Brickage with iOS 18 Updates | TechAdvisor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-perfect-apple-watch-protector-features-ratings-and-picks-by-zdnet/"><u>Ultimate Guide to Choosing the Perfect Apple Watch Protector - Features, Ratings & Picks by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-future-of-tablets-at-apples-latest-launch-meet-the-m1-ipad-pro-new-13-inch-ipad-air-and-enhanced-apple-pencil-insights/"><u>Unveiling the Future of Tablets at Apple’s Latest Launch: Meet the M1 iPad Pro, New 13-Inch iPad Air & Enhanced Apple Pencil | Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-secrets-how-to-dominate-fb-searches-with-these-10-hacks/"><u>[New] 2024 Approved Unveiling Secrets How to Dominate FB Searches with These 10 Hacks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-skyrocketing-your-earning-potential-a-vimeo-monetization-guide/"><u>[New] In 2024, Skyrocketing Your Earning Potential A Vimeo Monetization Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-no-cost-speedy-tips-for-exposing-deceptive-instagram-acquaintances/"><u>[Updated] 2024 Approved No-Cost, Speedy Tips for Exposing Deceptive Instagram Acquaintances</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-overcoming-absence-of-color-in-game-feed/"><u>[Updated] Overcoming Absence of Color in Game Feed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-optimizing-your-macos-monterey-experience-a-guide-to-enabling-and-using-the-low-power-mode/"><u>1. Optimizing Your MacOS Monterey Experience: A Guide to Enabling and Using the Low Power Mode</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-gt-5-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-refurbished-apple-tv-and-siri-remote-setup-at-just-75-insider-look-ahead-of-festive-rush/"><u>Affordable Refurbished Apple TV and Siri Remote Setup at Just $75 – Insider Look Ahead of Festive Rush</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-people-on-facebook-with-these-6-straightforward-techniques/"><u>Discover People On Facebook With These 6 Straightforward Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-top-non-apple-non-tile-brands-in-wearable-tech-a-closer-look-at-exceptional-wallet-airtags/"><u>Exploring Top Non-Apple, Non-Tile Brands in Wearable Tech: A Closer Look at Exceptional Wallet AirTags</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-your-hands-on-the-ios-16-public-beta-a-step-by-step-guide-for-early-access-but-proceed-with-caution/"><u>How To Get Your Hands On The IOS 16 Public Beta - A Step-by-Step Guide For Early Access, But Proceed With Caution</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-youtube-playlist-creation-tips-and-tricks-for-2024/"><u>Mastering YouTube Playlist Creation Tips and Tricks for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-sound-expert-guide-to-enabling-audio-in-facebook-video-streams-on-pc/"><u>Revive the Sound! Expert Guide to Enabling Audio in Facebook Video Streams on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamlessly-upgrade-your-workspace-with-a-second-thunderbolt-monitor-on-your-m1-mac-mini-expert-advice/"><u>Seamlessly Upgrade Your Workspace with a Second Thunderbolt Monitor on Your M1 Mac Mini | Expert Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722891599192-the-journey-through-macos-versions-whats-the-most-recent-update-complete-guide-available-here/"><u>The Journey Through macOS Versions: What's the Most Recent Update? Complete Guide Available Here</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-ultimate-guide-to-affordable-vector-design-websites/"><u>Your Ultimate Guide to Affordable Vector Design Websites</u></a></li>
 </ul></div>
 

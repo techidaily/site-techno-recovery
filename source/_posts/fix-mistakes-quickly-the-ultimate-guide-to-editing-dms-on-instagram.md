@@ -1,7 +1,7 @@
 ---
 title: "Fix Mistakes Quickly: The Ultimate Guide to Editing DMs on Instagram"
-date: 2024-11-04T22:08:30.928Z
-updated: 2024-11-05T18:35:17.801Z
+date: 2024-11-10T03:18:45.111Z
+updated: 2024-11-15T20:57:48.004Z
 categories:
   - BestProducts
 description: "This Article Describes Fix Mistakes Quickly: The Ultimate Guide to Editing DMs on Instagram"
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -56,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
@@ -71,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -135,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Was this page helpful?
@@ -170,18 +170,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionize-post-production-the-best-11-tutorials-on-color-workflow/"><u>[New] Revolutionize Post-Production The Best 11 Tutorials on Color Workflow</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-new-arvr-gear-misses-the-mark-for-a-workout-warrior-insights-from-zdnet/"><u>Apple's New AR/VR Gear Misses the Mark for a Workout Warrior | Insights From ZDNET</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/crafting-content-that-captivates-the-square-video-formula-on-fb-for-2024/"><u>Crafting Content That Captivates The Square Video Formula on FB for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-distance-collaboration-for-engineers-using-vr-and-digital-twins-articles-from-zdnet/"><u>Enhancing Distance Collaboration for Engineers Using VR and Digital Twins | Articles From ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-m14-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy M14 4G Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-innovative-bet-by-agog-co-founders-leveraging-arvrxr-tech-to-transform-social-good-exclusive-zdnet-coverage/"><u>The Innovative Bet by Agog Co-Founders: Leveraging AR/VR/XR Tech to Transform Social Good | Exclusive ZDNET Coverage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-the-iphone-13-pro/"><u>Top-Rated Protective Covers for the iPhone 13 Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-why-is-my-voice-chat-ignoring-the-content-warning/"><u>Troubleshooting: Why Is My Voice Chat Ignoring the Content Warning?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unbeatable-meta-quest-2-bargain-at-just-200-top-gadget-steal-this-holiday/"><u>Unbeatable Meta Quest 2 Bargain at Just $200 - Top Gadget Steal This Holiday!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unhappy-with-windows-10-photos-here-are-8-better-options/"><u>Unhappy with Windows 10 Photos? Here Are 8 Better Options</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-early-beta-trials-for-apple-vision-pro-with-testflight-comprehensive-guide-on-how-to-get-in-expert-tips-by-zdnet/"><u>Unlock Early Beta Trials for Apple Vision Pro with TestFlight - Comprehensive Guide on How to Get In | Expert Tips by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-metaverse-key-players-shaping-our-virtual-future/"><u>Unveiling the Metaverse: Key Players Shaping Our Virtual Future</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-gamefi-struggles-to-convert-gamer-audiences/"><u>Why GameFi Struggles to Convert Gamer Audiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>[New] In 2024, Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-launch-your-zoom-meeting-in-a-flash-on-your-android-smartphonetablet/"><u>[New] In 2024, Launch Your Zoom Meeting in a Flash on Your Android Smartphone/Tablet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>[New] Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-aligning-with-audience-habits-in-podcast-releases/"><u>[Updated] Aligning with Audience Habits in Podcast Releases</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-output-impedance-concepts-and-applications-explained/"><u>Demystifying Output Impedance: Concepts and Applications Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-journey-preventing-system-crash-during-dwarven-adventure/"><u>Ensuring Smooth Journey: Preventing System Crash During Dwarven Adventure</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-vision-the-introduction-of-a-domestic-robot-helper-a-glimpse-into-tomorrow-with-zdnet/"><u>Exploring Apple's Vision: The Introduction of a Domestic Robot Helper - A Glimpse Into Tomorrow with ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-macbook-organized-the-all-in-one-stand-and-charger-with-port-hub-at-an-unbeatable-price-of-just-102-exclusively-on-zdnet/"><u>Get Your MacBook Organized: The All-in-One Stand & Charger with Port Hub at an Unbeatable Price of Just $102 - Exclusively on ZDNet!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-nord-n30-se-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Nord N30 SE to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-activatingdeactivating-picture-in-picture-feature/"><u>In 2024, Activating/Deactivating Picture-in-Picture Feature</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-gt-neo-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme GT Neo 5 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-quest-vr-the-third-generation-covering-news-valuation-debut-date-and-hardware-info/"><u>Meta Quest VR: The Third Generation - Covering News, Valuation, Debut Date & Hardware Info</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-iphone-email-issues-a-comprehve-guide/"><u>Solutions for iPhone Email Issues: A Comprehve Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-discounted-iphone-apple-watch-and-ipad-bargains-in-july-2024-exclusive-offers-on-tech-gadgets/"><u>Top Discounted iPhone, Apple Watch, & iPad Bargains in July 2024 - Exclusive Offers on Tech Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-macbook-models-expert-reviews-and-ranking/"><u>Top Rated MacBook Models - Expert Reviews & Ranking</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-choice-in-apple-watch-defenders-expert-opinions-on-screen-protectors/"><u>Ultimate Choice in Apple Watch Defenders - Expert Opinions on Screen Protectors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6 Plus i Do? Get Answers here</u></a></li>
 </ul></div>
 

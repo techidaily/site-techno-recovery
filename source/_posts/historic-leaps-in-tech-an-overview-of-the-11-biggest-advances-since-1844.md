@@ -1,7 +1,7 @@
 ---
 title: "Historic Leaps in Tech: An Overview of the 11 Biggest Advances Since 1844"
-date: 2024-09-18T02:29:53.033Z
-updated: 2024-09-20T18:19:10.751Z
+date: 2024-11-11T16:59:28.212Z
+updated: 2024-11-16T00:05:17.578Z
 categories:
   - BestProducts
 description: "This Article Describes Historic Leaps in Tech: An Overview of the 11 Biggest Advances Since 1844"
@@ -41,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
  We can avoid ever being in the dark with[smart light bulbs](https://www.lifewire.com/smart-light-bulbs-4149561) that you can turn on and off with a virtual assistant like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) or[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Television — 1927
 
 ![Old television on stand, in front of curtain](https://www.lifewire.com/thmb/sT1Lb9obt08EDKCn3w7CXCy6tE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-television-on-stand--in-front-of-curtain-200453943-001-293b961ae282457791c4eed589eff3cb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Steven Errico / Getty Images
 
@@ -53,16 +67,16 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
  Many people watch movies and TV shows on their smartphones, tablets, or laptops, though flat-screen TVs are still popular.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Personal Computers — 1970s
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 EdnaM / Getty Images
 
@@ -72,6 +86,13 @@ EdnaM / Getty Images
 
  The personal computer we all know today exploded once IBM introduced the IBM PC in 1981\. Once businesses adopted it, the entire industry expanded to produce all the products we know and use today.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Global Positioning System — 1970s
 
 ![Satellite in foreground, Earth and rising Sun in background](https://www.lifewire.com/thmb/4j6-zIts28nfLPj-zcJ1Pt9zw3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1032649842-5c2d15de46e0fb0001ea64df.jpg)
@@ -79,13 +100,6 @@ EdnaM / Getty Images
  Launched in 1973, the Global Positioning System (GPS) became fully operational in 1995\. Originally called Navstar GPS, the U.S. government owns it, and the U.S. Air Force operates it.
 
  The system can triangulate data and pinpoint your location, and it powers the GPS devices and apps that people use now to get around.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Internet: ARPANET — 1973
 
@@ -103,6 +117,13 @@ ARPANET /Public domain
 
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Robert Alexander / Getty Images
 
  Thanks to GPS (see above), getting lost is becoming a more and more rare occurrence.
@@ -118,10 +139,10 @@ ARPANET /Public domain
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
@@ -133,10 +154,10 @@ ARPANET /Public domain
  Digital cameras are everywhere now, from security cameras to smartphones and laptop and desktop computers. Even the least expensive product with a camera embedded in it is far better than those cameras from the early days.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Web Browser — 1994
@@ -160,13 +181,6 @@ ARPANET /Public domain
 ## The Modern Smartphone — 2007
 
 ![Steve Jobs Unveils Apple iPhone At MacWorld Expo](https://www.lifewire.com/thmb/sdGuvRRk_ow4aOyoLK4f3ibKOwo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steve-jobs-unveils-apple-iphone-at-macworld-expo-72959794-9b26521ca5f743119fc6b509d51ec8cc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  David Paul Morris / Getty Images
 
@@ -205,5 +219,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-precision-in-action-3-methods-for-gaming-footage/"><u>[New] 2024 Approved Precision in Action 3 Methods for Gaming Footage</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssential-guide-9-cost-free-editing-tools-for-creatives/"><u>[New] Essential Guide 9 Cost-Free Editing Tools for Creatives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-a-step-by-step-guide-for-sharing-camera-roll-pictures-on-snapchat/"><u>[New] In 2024, A Step by Step Guide for Sharing Camera Roll Pictures on Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-leading-edge-apps-for-mobile-screen-recording/"><u>[Updated] Leading Edge Apps for Mobile Screen Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mememirror-app-mirror-the-worlds-laughter/"><u>2024 Approved MemeMirror App - Mirror the World's Laughter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comparative-study-of-immersive-technologies-ar-vr-mr-and-xr/"><u>A Comparative Study of Immersive Technologies: AR, VR, MR & XR</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-logic-pro-evolves-with-new-artificial-intelligence-features-transforming-ios-and-macos-music-production-as-covered-by-zdnet/"><u>Apple's Logic Pro Evolves with New Artificial Intelligence Features, Transforming iOS and macOS Music Production as Covered by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-it-when-an-instagram-story-isnt-uploading/"><u>How to Fix It When an Instagram Story Isn't Uploading</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-a-friendly-how-to-participating-in-tiktok-livestreams/"><u>In 2024, A Friendly How-To Participating in TikTok Livestreams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-cinema-experience-free-and-paid-iphones-app-list/"><u>Seamless Cinema Experience Free & Paid iPhones App List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unboxing-and-testing-the-latest-apple-airpods-3rd-gen-a-comprehensive-zdnet-review-with-fresh-upgrades-explored/"><u>Unboxing and Testing the Latest Apple AirPods (3Rd Gen): A Comprehensive ZDNET Review with Fresh Upgrades Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-top-5-revolutionary-ios-18-innovations-from-wwdc-2024-with-artificial-intelligence-taking-center-stage-zdnet/"><u>Unveiling Top 5 Revolutionary iOS 18 Innovations From WWDC 2024, With Artificial Intelligence Taking Center Stage | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-ps-vr-and-pc-integration-tutorial-how-to-connect-them-effortlessly/"><u>Wireless PS VR and PC Integration Tutorial: How To Connect Them Effortlessly</u></a></li>
+</ul></div>
 

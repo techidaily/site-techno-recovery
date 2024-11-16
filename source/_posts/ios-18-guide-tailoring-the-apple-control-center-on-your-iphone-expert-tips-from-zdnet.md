@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Guide: Tailoring the Apple Control Center on Your iPhone - Expert Tips From ZDNet"
-date: 2024-10-29T22:00:35.089Z
-updated: 2024-11-05T17:39:59.358Z
+date: 2024-11-08T18:11:06.036Z
+updated: 2024-11-15T21:20:03.361Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,24 +64,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -91,18 +85,24 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,20 +140,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-your-channels-subscribers-on-a-shoestring-budget/"><u>[Updated] 2024 Approved Boost Your Channel's Subscribers on a Shoestring Budget</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-netflixs-split-screen-functionality/"><u>[Updated] 2024 Approved Mastering Netflix's Split Screen Functionality</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>[Updated] In 2024, Crafting Audio Identity The Art of Adding Your Own Tones to Android</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>[Updated] Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-8-leading-free-software-for-drivers-updates-in-july-2024/"><u>Discover the 8 Leading Free Software for Drivers Updates in July 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-home-audiophile-secrets-how-to-safely-disinfect-and-clean-your-stereo-speakers/"><u>DIY Home Audiophile Secrets: How to Safely Disinfect and Clean Your Stereo Speakers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-methods-safeguard-your-information-with-5-effective-backup-techniques/"><u>Essential Methods: Safeguard Your Information with 5 Effective Backup Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-additions-to-the-macbook-lineup-2021-edition/"><u>Exploring the Latest Additions to the MacBook Lineup – 2021 Edition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Itel S23 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-link-airpods-to-my-nintendo-switch/"><u>Is It Possible to Link AirPods to My Nintendo Switch?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/overcoming-common-windows-10-photos-display-problems/"><u>Overcoming Common Windows 10 Photos Display Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-fm20dll-is-missing-error-quickly-and-easily/"><u>Troubleshooting the 'fm20.dll Is Missing Error' Quickly and Easily</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unlocking-facebooks-potential-with-top-video-strategies/"><u>Unlocking Facebook's Potential with Top Video Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-6-free-substitutes-for-the-popular-openai-sora-platform/"><u>Unveiling 6 Free Substitutes for the Popular OpenAI Sora Platform</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-film-craft-mastering-thumbnail-creation-on-mobiles-for-2024/"><u>YouTube Film Craft Mastering Thumbnail Creation on Mobiles for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-hidden-threat-illegitimate-support-on-digital-platforms-for-2024/"><u>[New] The Hidden Threat Illegitimate Support on Digital Platforms for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-influence-of-immersive-technology/"><u>[New] The Influence of Immersive Technology</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-10-no-cost-video-cutting-apps/"><u>[New] Top 10 No-Cost Video Cutting Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-virtual-racing-for-cyclists-for-2024/"><u>[Updated] Best Virtual Racing for Cyclists for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-taking-control-importing-snapchat-snaps-to-your-phones-gallery/"><u>[Updated] In 2024, Taking Control Importing Snapchat Snaps to Your Phone's Gallery</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tiktok-feasts-current-favorites-explored-for-2024/"><u>[Updated] TikTok Feasts Current Favorites Explored for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-elite-podcast-app-selection-top-6-list/"><u>2024 Approved Android's Elite Podcast App Selection Top 6 List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevating-video-branding-the-art-and-science-of-youtube-image-designs/"><u>2024 Approved Elevating Video Branding The Art and Science of Youtube Image Designs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-on-sending-steam-gift-cards-effortlessly/"><u>A Comprehensive Guide on Sending Steam Gift Cards Effortlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crafting-and-sharing-personalized-contact-posters-via-ios-17s-namedrop-feature-tech-guide/"><u>Crafting and Sharing Personalized Contact Posters via iOS 17'S NameDrop Feature | Tech Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-solutions-resolving-battlefield-1-game-crashes/"><u>Effortless Solutions: Resolving Battlefield 1 Game Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-iphone-capacity-expert-tips-for-freeing-up-valuable-gigabytes/"><u>Maximize Your iPhone Capacity: Expert Tips for Freeing Up Valuable Gigabytes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-capturing-and-sharing-images-from-your-nintendo-switch/"><u>Step-by-Step Guide: Capturing & Sharing Images From Your Nintendo Switch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-finest-compact-tablet-pcs-of-2024-expert-assessments-and-analyses/"><u>Ultimate Guide to the Finest Compact Tablet PCs of 2024 - Expert Assessments and Analyses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-efficient-magsafe-wallets-of-2023-expertly-reviewed-zdnet/"><u>Ultimate Guide to the Most Efficient MagSafe Wallets of 2023, Expertly Reviewed | ZDNET</u></a></li>
 </ul></div>
 

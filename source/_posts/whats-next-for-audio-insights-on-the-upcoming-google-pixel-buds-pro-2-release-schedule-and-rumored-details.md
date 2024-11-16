@@ -1,7 +1,7 @@
 ---
 title: "What's Next for Audio: Insights on the Upcoming Google Pixel Buds Pro 2, Release Schedule & Rumored Details"
-date: 2024-09-16T17:23:55.200Z
-updated: 2024-09-20T19:23:33.347Z
+date: 2024-11-14T19:35:27.009Z
+updated: 2024-11-16T02:35:57.544Z
 categories:
   - BestProducts
 description: "This Article Describes What's Next for Audio: Insights on the Upcoming Google Pixel Buds Pro 2, Release Schedule & Rumored Details"
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Price Rumors
 
  We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
@@ -47,10 +54,16 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro Fold** \- $1,799
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-Order Information
@@ -68,6 +81,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
@@ -82,13 +102,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
@@ -98,13 +111,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 MySmartPrice
 
@@ -127,16 +133,10 @@ MySmartPrice
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
@@ -160,5 +160,22 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-streamlining-videographs-for-instagram-via-mac/"><u>[New] 2024 Approved Streamlining Videographs for Instagram via Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-guide-to-whatsapp-vocal-exchange/"><u>[New] Comprehensive Guide to WhatsApp Vocal Exchange</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-windows-graphics-the-top-9-tools-for-capturing-animation-gifs/"><u>[New] In 2024, Mastering Windows Graphics The Top 9 Tools for Capturing Animation GIFs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-perfecteraser-premium-bg-erase-software-for-2024/"><u>[New] PerfectEraser Premium BG Erase Software for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-professional-audio-techniques-in-audacity-for-2024/"><u>[Updated] Professional Audio Techniques in Audacity for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-basics-professional-tips-from-vidas-features-for-2024/"><u>Beyond Basics Professional Tips From Vida's Features for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciding-on-your-next-macbook-air-compare-and-contrast-m3-with-m2-versions-wired/"><u>Deciding on Your Next MacBook Air? Compare and Contrast M3 with M2 Versions | Wired</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-gaming-rig-assembly-versus-off-the-shelf-computers-finding-your-perfect-match/"><u>DIY Gaming Rig Assembly versus Off-The-Shelf Computers: Finding Your Perfect Match</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-reno-10-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Reno 10 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/latest-ipad-release-discover-apples-most-recent-tablet-model/"><u>Latest iPad Release: Discover Apple's Most Recent Tablet Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sneak-peek-into-the-future-with-samsung-galaxy-s25-predictions-on-pricing-specs-and-release-day/"><u>Sneak Peek Into the Future with Samsung Galaxy S25 - Predictions on Pricing, Specs and Release Day!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stop-the-nuisance-quick-tips-for-blocking-spam-sms-on-your-iphone-digitalwise-blog/"><u>Stop the Nuisance: Quick Tips for Blocking Spam SMS on Your iPhone | DigitalWise Blog</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-breakdown-apples-potential-venture-into-ai-home-robotics-with-new-project-revealed-by-zdnet/"><u>Tech Breakdown: Apple's Potential Venture Into AI Home Robotics with New Project Revealed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-18-unbeatable-prime-day-promotions-on-premium-laptops-featuring-brands-like-hp-apple-and-razer-exclusive-scoop/"><u>Top 18 Unbeatable Prime Day Promotions on Premium Laptops - Featuring Brands Like HP, Apple & Razer - Exclusive Scoop</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Xiaomi Redmi A2 won’t play MKV movies</u></a></li>
+</ul></div>
 

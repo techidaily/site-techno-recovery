@@ -1,7 +1,7 @@
 ---
 title: "Innovating to Win: Analyzing Samsung's Galaxy AI Dominance Vs. Google’s Legal Battles in the Innovation Index"
-date: 2024-10-29T16:18:27.137Z
-updated: 2024-11-05T19:59:48.887Z
+date: 2024-11-13T17:46:45.310Z
+updated: 2024-11-16T00:07:08.975Z
 tags:
   - apple
 categories:
@@ -71,30 +71,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-maximizing-vimeo-video-watch-time/"><u>[New] 2024 Approved Maximizing Vimeo Video Watch Time</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-lg-360-camera-full-review/"><u>[New] LG 360 Camera Full Review</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-6-figure-videos-top-hashtag-trends/"><u>2024 Approved Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ambient-weathers-ws-1002-wifi-thermometer-assessed-excellent-specifications-for-those-willing-to-pay-more/"><u>Ambient Weather's WS-1002 WiFi Thermometer Assessed – Excellent Specifications for Those Willing to Pay More</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-captivating-ipad-and-iphone-games-that-challenge-like-the-room-and-myst/"><u>Discover Captivating iPad and iPhone Games That Challenge Like 'The Room' And 'Myst'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-moisture-defense-of-apples-latest-phone-the-waterproof-capabilities-of-the-iphone-15/"><u>Exploring the Moisture Defense of Apple's Latest Phone: The Waterproof Capabilities of the iPhone 15</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-zte-nubia-z60-ultra-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of ZTE Nubia Z60 Ultra on Windows??</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-breathing-life-into-your-ig-story-text-with-animation/"><u>In 2024, Breathing Life Into Your IG Story Text with Animation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-users-handbook-how-to-stop-invasive-messages-from-pesky-senders/"><u>IPhone Users' Handbook: How To Stop Invasive Messages From Pesky Senders</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-must-have-mobile-alarm-applications/"><u>Top 7 Must-Have Mobile Alarm Applications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gaming-bargains-during-the-2024-october-prime-shopping-event-spotted-on-zdnet/"><u>Top Gaming Bargains During the 2024 October Prime Shopping Event – Spotted on ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-launching-windows-powershell-with-administrative-privileges-on-windows-10/"><u>Ultimate Guide: Launching Windows PowerShell with Administrative Privileges on Windows 10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-full-sphere-videos-on-iphone-ideal-for-facebook-for-2024/"><u>[Updated] Crafting Full-Sphere Videos on iPhone, Ideal for Facebook for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-30-tones-where-to-find-classical-callouts/"><u>[Updated] In 2024, Top 30 Tones Where to Find Classical Callouts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-complete-playbook-for-broadcasting-spherical-content-on-youtube/"><u>2024 Approved The Complete Playbook for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-apples-latest-tech-marvel-the-airpods-4-with-enhanced-locator-and-modern-usb-c-port-zdnet-exclusive/"><u>Discover Apple's Latest Tech Marvel: The AirPods 4 with Enhanced Locator and Modern USB-C Port | ZDNET Exclusive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-identifying-and-correcting-a-408-server-timeout-problem/"><u>Expert Tips on Identifying and Correcting a 408 Server Timeout Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-marvel-universe-with-apple-vision-pro-get-ready-june-30th-experience-comic-book-magic/"><u>Explore the Marvel Universe with Apple Vision Pro – Get Ready June 30Th, Experience Comic Book Magic!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-watch-the-indiana-jones-series-in-order/"><u>How to Watch the Indiana Jones Series in Order</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-sonomas-latest-bug-fixes-10144-revealed-essential-info-for-smooth-update-guide/"><u>MacOS Sonoma's Latest Bug Fixes (10.14.4) Revealed: Essential Info for Smooth Update Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-craft-the-ultimate-guide-to-utilizing-mac-oss-best-document-management-solution-tips-and-tricks/"><u>Master Craft: The Ultimate Guide to Utilizing Mac OS's Best Document Management Solution - Tips and Tricks!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/revolutionizing-workouts-the-best-vr-treadmill-choices/"><u>Revolutionizing Workouts The Best VR Treadmill Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-fb-profile-again-without-standard-contact-info/"><u>Securing Your FB Profile Again Without Standard Contact Info</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/superhero-chronicles-watch-the-complete-saga-of-superman-films-correctly/"><u>Superhero Chronicles: Watch the Complete Saga of Superman Films Correctly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-blueprint-of-openai-innovation/"><u>The Blueprint of OpenAI Innovation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-smart-eyewear-innovations-of-2024/"><u>Top Rated Smart Eyewear Innovations of 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/transform-your-account-with-these-10-must-have-ig-tools/"><u>Transform Your Account with These 10 Must-Have IG Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-14-pro-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 14 Pro Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

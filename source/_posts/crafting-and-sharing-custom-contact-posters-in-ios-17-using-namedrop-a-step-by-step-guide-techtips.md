@@ -1,7 +1,7 @@
 ---
 title: Crafting and Sharing Custom Contact Posters in iOS 17 Using NameDrop - A Step-by-Step Guide | TechTips
-date: 2024-10-30T20:59:44.509Z
-updated: 2024-11-05T21:22:36.637Z
+date: 2024-11-11T02:09:55.991Z
+updated: 2024-11-16T02:54:13.208Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ Among them is the ability to create a 'poster' for each contact: A customizable 
 ## How to create a contact poster
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to your Contacts
@@ -42,19 +42,6 @@ Go to your iPhone's contacts and find the contact for which you want to create a
 **Also:** [**iPhone 15: Four features that make this year's Apple handsets truly matter**](https://www.zdnet.com/article/iphone-15-four-features-that-make-this-years-apple-handset-truly-matter/)
 
 To create a poster for one of your contacts, you must access and edit their contact card.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Choose Contact Photo & Poster
 
@@ -74,13 +61,6 @@ You have four options to choose from for a background:
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Edit your poster
 
 Once you've chosen your background style, there are some things you can do:  
@@ -93,10 +73,10 @@ If you selected a photo, you can crop it to fit the screen by pinching, expandin
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Preview poster
@@ -119,11 +99,25 @@ Maria Diaz/ZDNET
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Place iPhones close together
 
 To use NameDrop, hold both iPhones close together like you hold your iPhone to use Apple Pay during checkout. Although NameDrop is like an extension of AirDrop, it doesn't work the same way; the iPhones must be close to one another for NameDrop to detect them.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Receive and edit the contact
 
@@ -139,6 +133,13 @@ NameDrop makes it easy to quickly share your contact information without manuall
 
 Updating a contact poster on iOS 17 involves the same first steps you followed when you first created it. Open the Phone app and find the contact you want to edit, then tap on Contact Poster & Photo and make the updates you want.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I create a contact poster for myself on iOS 17?
 
 You can create your own contact card like any other contact, complete with a contact poster and photo. To do so, go to your Phone app and access your Contacts. Instead of choosing one of your contacts, tap on your name at the top, where it says My Card. Then, tap on Contact Poster & Photo and follow the same steps as above.
@@ -146,13 +147,6 @@ You can create your own contact card like any other contact, complete with a con
 **Also:** [**The Apple products you shouldn't buy this month**](https://www.zdnet.com/article/the-apple-products-you-shouldnt-buy-this-month/)
 
 Personal contact posters can be shared with your contacts, so they show up when you call or receive a call from someone with an iPhone. You can choose to have a contact poster and not automatically share it with others by going to your contact card and disabling the sharing of your contact poster and photo.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I receive contacts with NameDrop from an iPhone to an Android phone?
 
@@ -188,17 +182,22 @@ For now, NameDrop is available to share contacts between compatible Apple device
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-edge-enhancements-in-windows-10-release/"><u>[New] 2024 Approved The Edge Enhancements in Windows 10 Release</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/assessing-battery-life-span-in-evs-against-longevity-of-conventional-cars-whats-the-difference/"><u>Assessing Battery Life Span in EVs Against Longevity of Conventional Cars: What's the Difference?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-how-to-easily-take-screen-captures-on-xbox-one-console/"><u>Expert Advice: How To Easily Take Screen Captures on Xbox One Console</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-pop-8-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Pop 8 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-pro-tips-to-enhance-your-use-of-instagrams-query-symbol/"><u>In 2024, Pro Tips to Enhance Your Use of Instagram's Query Symbol</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ogm-file-conversion-made-easy-and-free-with-movavi-expertise-and-quality-assured/"><u>OGM File Conversion Made Easy & Free with Movavi - Expertise and Quality Assured!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1726809675936-top-rated-lawn-mowers-comprehensive-review-zdnet/"><u>Top Rated Lawn Mowers : Comprehensive Review - ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unexpected-excellence-the-d-link-ring-spotlight-cam-pros-superior-home-surveillance-revealed-by-zdnet/"><u>Unexpected Excellence: The D-Link Ring Spotlight Cam Pro's Superior Home Surveillance Revealed by ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-the-potential-elevating-your-tiktok-unboxing-contents-like-count-for-2024/"><u>Unleash the Potential Elevating Your TikTok Unboxing Content's Like Count for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-highest-quality-video-doorbells-of-2024-smart-home-essentials/"><u>ZDNET's Ultimate Guide to the Highest Quality Video Doorbells of 2024 | Smart Home Essentials</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-picks-for-premium-electric-grills-2023-edition/"><u>ZDNet's Ultimate Picks for Premium Electric Grills - 2023 Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-crimson-update-kit/"><u>[Updated] 2024 Approved Crimson Update Kit</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-live-gaming-snapshot-with-fraps-analysis/"><u>[Updated] 2024 Approved Live Gaming Snapshot with Fraps Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-ramps-up-artificial-intelligence-prowess-with-latest-innovations-discover-the-power-of-new-models/"><u>Apple Ramps Up Artificial Intelligence Prowess with Latest Innovations – Discover the Power of New Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-takes-on-spotify-revolutionary-update-allows-seamless-transfer-of-playlists-insights-from-zdnet/"><u>Apple Takes On Spotify: Revolutionary Update Allows Seamless Transfer of Playlists - Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cs2-stability-fixes-no-more-pc-crashing-in-counter-strike-2/"><u>CS2 Stability Fixes: No More PC Crashing in Counter Strike 2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-chatgpt-in-depth-information-for-curious-minds/"><u>Decoding ChatGPT: In-Depth Information for Curious Minds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 mini without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-70-lite-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor 70 Lite 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-studios-unique-feature-that-influences-my-decision-over-upgrading-to-a-fall-release-of-the-m4-mac-mini-zdnet-perspectives/"><u>Mac Studio’s Unique Feature that Influences My Decision over Upgrading to a Fall Release of the M4 Mac Mini | ZDNet Perspectives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-screen-recording-on-iphones-a-step-by-step-instructional-article/"><u>Mastering Screen Recording on iPhones: A Step-by-Step Instructional Article</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-hook-it-game-winning-podcast-beginnings/"><u>The Hook-It Game Winning Podcast Beginnings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-utilizing-photo-cutout-features-on-your-iphones-ios-16/"><u>The Ultimate Tutorial for Utilizing Photo Cutout Features on Your iPhone's iOS 16</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-unbelievably-impressive-features-of-the-new-ipad-air-why-it-could-make-you-rethink-your-choice-for-the-ipad-pro-tech-review-by-zdnet/"><u>The Unbelievably Impressive Features of the New iPad Air: Why It Could Make You Rethink Your Choice for the iPad Pro | Tech Review by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-reasons-why-snagging-a-discounted-apple-ipad-pro-pre-prime-day-is-a-must-expert-analysis-by-zdnet/"><u>Top Reasons Why Snagging a Discounted Apple iPad Pro Pre-Prime Day Is A Must | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722867866396-upgrade-your-device-with-ios-18-no-charge-for-the-latest-innovations-and-news-revealed/"><u>Upgrade Your Device with iOS 1#8: No Charge for the Latest Innovations & News Revealed!</u></a></li>
 </ul></div>
 

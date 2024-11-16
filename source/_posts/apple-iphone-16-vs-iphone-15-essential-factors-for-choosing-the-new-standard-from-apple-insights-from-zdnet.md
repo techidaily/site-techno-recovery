@@ -1,7 +1,7 @@
 ---
 title: "Apple iPhone 16 vs iPhone 15: Essential Factors for Choosing the New Standard From Apple - Insights From ZDNet"
-date: 2024-11-04T20:41:22.409Z
-updated: 2024-11-05T21:14:40.871Z
+date: 2024-11-09T04:30:53.133Z
+updated: 2024-11-16T02:30:23.491Z
 tags:
   - apple
 categories:
@@ -45,6 +45,13 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -61,10 +68,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -127,13 +134,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -148,13 +148,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -167,15 +160,22 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,18 +212,20 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/83127763-new-in-2024-unlock-brand-potential-access-50-banners-at-no-cost/"><u>[New] In 2024, Unlock Brand Potential - Access 50 Banners at No Cost</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-authenticity-on-instagrams-platform/"><u>[New] Mastering Authenticity on Instagram's Platform</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-zero-to-hero-profit-on-reddit-with-no-experience-top-13-for-2024/"><u>[Updated] From Zero to Hero Profit on Reddit with No Experience (Top 13) for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpods-pro-released-are-they-still-a-top-choice-for-audio-enthusiasts-insights-from-zdnets-latest-test/"><u>AirPods Pro (Released ): Are They Still a Top Choice for Audio Enthusiasts? Insights From ZDNET's Latest Test</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722096574848-can-you-count-on-chatgpt-for-reliable-text-summarization-think-again/"><u>Can You Count on ChatGPT for Reliable Text Summarization? Think Again</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/exploiter-au-mieux-le-potentiel-dune-entreprise-double-numerique-et-modelisation-procedurale/"><u>Exploiter Au Mieux Le Potentiel D'une Entreprise : Double Numérique Et Modélisation Procédurale</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-repair-d3d9dll-missing-errors-on-your-computer/"><u>How To Address & Repair 'd3d9.dll Missing' Errors on Your Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-battle-solutions-to-tackle-xbox-and-pcs-error-0-166-in-call-of-duty-warzone/"><u>Mastering the Battle: Solutions to Tackle Xbox and PC's Error 0-1^66 in Call of Duty: Warzone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-device-with-these-top-15-free-bootable-antivirus-programs-we-suggest/"><u>Secure Your Device with These Top 15 Free, Bootable Antivirus Programs We Suggest</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-solving-the-mystery-of-the-black-screen-during-your-facetime-calls/"><u>Ultimate Guide: Solving the Mystery of the Black Screen During Your FaceTime Calls</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-leading-wireless-chargers-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate List of Leading Wireless Chargers : In-Depth Analysis and Ratings | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-unbeatable-deal-enhance-audio-experience-and-ease-hearing-with-airpods-pro-2-now-just-24-cheaper-shop/"><u>Unlock Unbeatable Deal: Enhance Audio Experience and Ease Hearing with AirPods Pro 2, Now Just 24% Cheaper - Shop !</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-exclusive-enhancements-for-select-apple-airpod-models-arriving-this-autumn-a-close-look-at-the-three-key-updates/"><u>Upcoming Exclusive Enhancements for Select Apple AirPod Models Arriving This Autumn: A Close Look at the Three Key Updates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-elevate-youtube-broadcasts-select-the-right-webcam/"><u>[New] In 2024, How to Elevate YouTube Broadcasts Select the Right Webcam</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-settings-for-smooth-skype-video-streaming/"><u>[Updated] OBS Settings for Smooth Skype Video Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-top-5-iphone-podcast-software/"><u>[Updated] The Ultimate List of Top 5 iPhone Podcast Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-adolescent-adventures-available-on-netflix/"><u>Best Adolescent Adventures Available on Netflix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-concealed-smart-radios-in-apple-devices-do-you-own-a-mac-or-ipad-with-one/"><u>Discovering Concealed Smart Radios in Apple Devices: Do You Own a Mac or iPad with One?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-pdhdll-not-found-problem-on-your-pc/"><u>Effective Solutions for 'pdh.dll Not Found' Problem on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-how-to-ensure-smooth-play-in-starfield-without-any-interruptions/"><u>Expert Advice on How to Ensure Smooth Play in Starfield Without Any Interruptions!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-ios-18-on-iphone-14-a-game-changer-for-effortless-digital-media-production-techspot/"><u>Exploring iOS 18 on iPhone 14: A Game-Changer for Effortless Digital Media Production | TechSpot</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-unexpected-system-restarts-when-gaming-insights-and-solutions/"><u>Exploring Unexpected System Restarts When Gaming - Insights & Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-or-upgrade-brother-mfc-7860dw-printer-drivers-in-windows-1011/"><u>How to Install or Upgrade Brother MFC-7860DW Printer Drivers in Windows 10/11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-how-nest-audio-redefines-the-smart-speaker-market-for-melody-aficionados/"><u>In-Depth Review: How Nest Audio Redefines the Smart Speaker Market for Melody Aficionados</u></a></li>
+<li><a href="https://common-error.techidaily.com/is-your-netflix-not-working-heres-what-to-do/"><u>Is Your Netflix Not Working? Here's What To Do</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionary-apple-campaign-challenges-leading-internet-browser-a-deep-dive-into-their-new-approach-digitalworld-chronicles/"><u>Revolutionary Apple Campaign Challenges Leading Internet Browser - A Deep Dive Into Their New Approach | DigitalWorld Chronicles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/saving-strategies-how-apple-could-turn-around-troubles-for-disheartened-sonos-owners-insights/"><u>Saving Strategies: How Apple Could Turn Around Troubles for Disheartened Sonos Owners - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-insiders-blueprint-on-scoring-free-access-to-netflix-streams/"><u>The Insider's Blueprint on Scoring Free Access to Netflix Streams</u></a></li>
 </ul></div>
 

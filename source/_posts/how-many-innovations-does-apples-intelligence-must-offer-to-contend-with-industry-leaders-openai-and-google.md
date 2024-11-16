@@ -1,7 +1,7 @@
 ---
 title: How Many Innovations Does Apple's Intelligence Must Offer to Contend with Industry Leaders OpenAI and Google?
-date: 2024-10-29T17:32:15.953Z
-updated: 2024-11-05T17:23:34.480Z
+date: 2024-11-13T21:24:13.343Z
+updated: 2024-11-16T01:28:41.978Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -71,16 +71,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -90,10 +84,16 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -136,22 +136,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-quick-and-easy-the-5-best-tools-for-facebook-live-videos/"><u>[New] 2024 Approved Quick & Easy The 5 Best Tools for Facebook Live Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-analytics-mastery-measuring-success-on-your-instagram-videos/"><u>[New] Analytics Mastery Measuring Success on Your Instagram Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-novel-set-of-pertinent-probing-for-podcast-participants/"><u>[Updated] Novel Set of Pertinent Probing for Podcast Participants</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-apple-pay-later-introduces-new-financing-alternative-inside-story-tech-insider/"><u>Apple Discontinues 'Apple Pay Later', Introduces New Financing Alternative: Inside Story | Tech Insider</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-a-content-creator-operate-on-two-or-more-youtube-platforms-together/"><u>Can a Content Creator Operate on Two or More YouTube Platforms Together?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-locating-misplaced-airpods-and-preventing-future-losses-zdnet/"><u>Effective Strategies for Locating Misplaced AirPods and Preventing Future Losses | ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-moto-g34-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Moto G34 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/immortals-fenynix-rising-steps-to-resolve-frequent-game-malfunctions/"><u>Immortals: Fenynix Rising – Steps to Resolve Frequent Game Malfunctions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-way-to-add-a-hyperlink-to-enhance-your-tiktok-profile/"><u>In 2024, Masterful Way to Add a Hyperlink to Enhance Your TikTok Profile</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unlocking-potential-effective-use-of-zoom-on-win11-pcs/"><u>In 2024, Unlocking Potential Effective Use of Zoom on Win11 PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/integrating-photo-libraries-a-guide-to-shift-google-photos-to-icloud-storage/"><u>Integrating Photo Libraries: A Guide to Shift Google Photos to iCloud Storage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-16-update-unveiled-enhance-your-iphone-experience-with-expert-lock-screen-hacks/"><u>IOS 16 Update Unveiled: Enhance Your iPhone Experience with Expert Lock Screen Hacks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/projecting-your-favorite-tiktoks-onto-the-television-simple-methods-for-all-users/"><u>Projecting Your Favorite TikToks Onto the Television: Simple Methods for All Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-math-on-the-go-with-the-cutting-edge-ipad-calculator-why-youll-want-an-apple-pencil-too/"><u>Revolutionizing Math on the Go with The Cutting-Edge iPad Calculator - Why You'll Want an Apple Pencil Too!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-locations-to-secure-your-new-ipad-pro-ipad-air-and-apple-pencil-pro-with-exclusive-current-offers/"><u>Top Locations to Secure Your New iPad Pro, iPad Air & Apple Pencil Pro with Exclusive Current Offers!</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/troubleshooting-and-fix-how-to-show-windows-server-backup-r2-on-your-system/"><u>Troubleshooting and Fix: How to Show Windows Server Backup R2 on Your System</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/windows-live-movie-maker-tutorial-adding-slow-motion-to-your-videos/"><u>Windows Live Movie Maker Tutorial Adding Slow Motion to Your Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-preserve-your-legacy-transforming-older-images-into-modern-videos/"><u>[New] Preserve Your Legacy Transforming Older Images Into Modern Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-optimizing-livestream-videos-on-twitch/"><u>[Updated] In 2024, Optimizing Livestream Videos on Twitch</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-10-horizontal-and-vertical-igtv-editing-apps-reviewed/"><u>[Updated] In 2024, Top 10 Horizontal & Vertical IGTV Editing Apps Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>[Updated] In 2024, Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-comprehensive-apple-device-information-manuals-specifications-and-repair-instructions-all-under-one-roof/"><u>Access Comprehensive Apple Device Information: Manuals, Specifications & Repair Instructions - All Under One Roof</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/authoritative-guide-to-the-premier-tablets-of-2024-comprehensive-expert-reviews-zdnet/"><u>Authoritative Guide to the Premier Tablets of 2024 - Comprehensive Expert Reviews | ZDNET</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-royal-match-how-deep-does-it-go/"><u>Decoding Royal Match: How Deep Does It Go?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-ui-800-3-expert-tips-to-correctly-fix-netflixs-streaming-snags/"><u>Decoding UI-800-3: Expert Tips to Correctly Fix Netflix's Streaming Snags</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-music-video-platforms-you-must-see/"><u>Discover the Ultimate List of Music Video Platforms You Must See</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-beats-await-you-unveiling-7-amazing-music-streaming-apps-for-phones-and-tablets/"><u>Free Beats Await You: Unveiling 7 Amazing Music Streaming Apps for Phones and Tablets!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-standard-to-spectacular-your-guide-to-selecting-a-stellar-4k-display/"><u>In 2024, From Standard to Spectacular Your Guide to Selecting a Stellar 4K Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/infobox/"><u>Infobox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-iphone-storage-a-step-by-step-guide-to-clearing-out-the-clutter/"><u>Maximize Your iPhone Storage: A Step-by-Step Guide to Clearing Out the Clutter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-6-sites-to-stream-your-favorite-music-vids/"><u>Top 6 Sites to Stream Your Favorite Music Vids</u></a></li>
 </ul></div>
 

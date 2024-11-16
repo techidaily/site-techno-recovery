@@ -1,7 +1,7 @@
 ---
 title: "Silencing Spam: How to Prevent Unwanted Texts on iOS Devices"
-date: 2024-09-18T22:40:00.000Z
-updated: 2024-09-20T22:29:41.594Z
+date: 2024-11-13T03:17:22.245Z
+updated: 2024-11-15T16:45:48.835Z
 categories:
   - BestProducts
 description: "This Article Describes Silencing Spam: How to Prevent Unwanted Texts on iOS Devices"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
 
  This article provides methods to stop unwanted texts on an iPhone. These instructions apply to the iPhone's built-in Messages app and not third-party tools.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Stop Unwanted Political Text Messages on an iPhone
 
  Once political groups or campaigns have your phone number, it's very hard to[stop unwanted political text messages](https://www.lifewire.com/how-to-stop-political-texts-4691829) . That's because organizations share supporters' numbers with each other (or even sell them). The best you can do is to opt out of these texts when you get them to take you off of a group or campaign list. However, this option won't stop others who have your number.
@@ -40,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
 3. Select**Info** .  
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the confirmation pop up, tap**Block Contact** .  
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
@@ -56,15 +71,16 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
 3. Move the**Filter Unknown Senders** slider to on/green.  
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
-5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
-![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
+![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 ## How to Stop Unwanted Group Texts on an iPhone
 
@@ -80,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Block Texts With the Do Not Call Registry
@@ -123,5 +139,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-clarity-no-lag-just-precision-screen-snaps/"><u>[New] In 2024, Capture Clarity No Lag, Just Precision Screen Snaps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-reducing-background-melodies-windowsmac-guide/"><u>[New] Reducing Background Melodies Windows/Mac Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-proficient-use-of-obs-studio-on-your-android-phone/"><u>[Updated] In 2024, Proficient Use of OBS Studio on Your Android Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-missing-xinput1n3dll-files-in-gaming-controllers/"><u>Diagnosing and Repairing Missing xinput1_n_3.dll Files in Gaming Controllers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-look-the-amazing-iphone-16-enhancements-that-promise-an-unparalleled-upgrade-experience-tech-reviews-by-zdnet/"><u>Exclusive Look: The Amazing iPhone 16 Enhancements That Promise an Unparalleled Upgrade Experience | Tech Reviews by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-roaring-rumble-to-silent-streamline-correcting-issues-with-loud-computer-fans/"><u>From Roaring Rumble to Silent Streamline: Correcting Issues with Loud Computer Fans</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-facebook-video-integration-with-home-screen-apps/"><u>In 2024, Unlocking Facebook Video Integration with Home Screen Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-your-home-internet-innovative-features-explored-in-tp-link-deco-p9-review/"><u>Maximizing Your Home Internet: Innovative Features Explored in TP-Link Deco P9 Review</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-podcast-editing-101-how-to-edit-a-podcast/"><u>New 2024 Approved Podcast Editing 101 How to Edit a Podcast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-magic-how-to-view-the-lord-of-the-rings-saga-from-start-to-finish/"><u>Ordered Magic: How to View 'The Lord of the Rings' Saga From Start to Finish</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/t-mobiles-unlimited-data-plan-and-nationwide-roaming-features/"><u>T-Mobile's Unlimited Data Plan and Nationwide Roaming Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-unrepeating-content-on-tiktok-easily-explained/"><u>The Ultimate How-To: Unrepeating Content on TikTok Easily Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-latest-gratis-ai-upgrades-skyrocket-productivity-for-apple-programmers-zdnet/"><u>Unveiling the Latest: Gratis AI Upgrades Skyrocket Productivity for Apple Programmers - ZDNet</u></a></li>
+</ul></div>
 

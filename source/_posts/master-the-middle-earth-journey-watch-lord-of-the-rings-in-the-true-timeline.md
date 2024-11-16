@@ -1,7 +1,7 @@
 ---
 title: "Master the Middle-Earth Journey: Watch 'Lord of the Rings' In the True Timeline"
-date: 2024-09-20T04:24:14.268Z
-updated: 2024-09-20T21:59:39.392Z
+date: 2024-11-08T18:25:33.206Z
+updated: 2024-11-15T18:26:39.531Z
 categories:
   - BestProducts
 description: "This Article Describes Master the Middle-Earth Journey: Watch 'Lord of the Rings' In the True Timeline"
@@ -42,6 +42,13 @@ New Line Cinemas
 
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Order of Release
 
  Do you want to watch_The Lord of the Rings_ , including_The Hobbit_ , in the order they were released? Many people do this to experience how it felt to experience the Tolkien story in the way Director Peter Jackson told it on the screen. This is because there is information and elements of the story which make more sense to moviegoers who've already seen the LOTR trilogy.
@@ -57,6 +64,13 @@ New Line Cinemas
 | _The Hobbit: The Desolation of Smaug_               | December 13, 2013 | Max                 | [•](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ea9f6fe-4cd5-5dda-2f7d-e1b3a210317a?autoplay=1&ref%5F=atv%5Fcf%5Fstrg%5Fwb&tag=lifewire-onsite-prod-20&ascsubtag=5087754%7Cn82158aa69c064a6d9a0d29aff5c71c3b07%7C) Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube |
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Is the Right Order?
 
  While you could boil 'em, mash 'em, and stick 'em in a stew, some of the stories in_The Lord of the Rings_ set up the viewer for seeing those tales unfold in_The Hobbit_ trilogy. On the other hand, the actual storyline in The Hobbit itself serves as a backdrop to events that take place in LOTR.
@@ -64,10 +78,10 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Does 'The Rings of Power' Take Place?
@@ -77,10 +91,10 @@ New Line Cinemas
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is 'The Hunt for Gollum'?
@@ -129,5 +143,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-step-by-step-guide-to-creating-and-changing-igtv-cover-photos/"><u>[New] 2024 Approved Step-By-Step Guide to Creating & Changing IGTV Cover Photos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-step-by-step-looping-iphones-videos-effortlessly/"><u>[New] 2024 Approved Step-by-Step Looping iPhones Videos Effortlessly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-360-fb-live-broadcasts/"><u>[Updated] Mastering 360 FB Live Broadcasts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-syncopated-synths-selecting-top-quality-dj-templates-online/"><u>2024 Approved Syncopated Synths Selecting Top Quality DJ Templates Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-guide-to-cost-free-cgi-mastery-via-4-youtube-experts-insights/"><u>2024 Approved The Ultimate Guide to Cost-Free CGI Mastery via 4 YouTube Experts' Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chromecast-noise-trouble-heres-how-to-get-the-volume-back/"><u>Chromecast Noise Trouble? Here's How to Get the Volume Back!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-ultimate-selection-of-mac-applications-curated-by-zdnet/"><u>Explore the Ultimate Selection of Mac Applications - Curated by ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-s17e-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo S17e Through Google Earth?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-advanced-audacity-editing-adjusting-pitch-without-audio-degradation/"><u>New Advanced Audacity Editing Adjusting Pitch Without Audio Degradation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easily-remove-tiktok-watermarks-best-online-solutions/"><u>New Easily Remove TikTok Watermarks Best Online Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-camera-focus-woes-here-are-the-fixes-you-need/"><u>Troubleshooting iPhone Camera Focus Woes? Here Are The Fixes You Need!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-defense-elite-selection-of-iphone-16-and-pro-cases-for-2am-year-official-reviews-and-rankings/"><u>Ultimate Defense: Elite Selection of iPhone 16 & Pro Cases for 2Am Year, Official Reviews & Rankings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-2024s-leading-wireless-charger-picks-expert-ratings-and-reviews/"><u>Ultimate Guide to 2024'S Leading Wireless Charger Picks: Expert Ratings & Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-apple-band-options-for-your-smartwatch-tested-and-approved-by-specialists-zdnet/"><u>Ultimate Guide to the Best Apple Band Options for Your Smartwatch , Tested and Approved by Specialists | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-walkthrough-sending-messages-and-updates-via-apple-watch-for-easy-family-communication/"><u>ZDNet's Ultimate Walkthrough: Sending Messages & Updates via Apple Watch for Easy Family Communication</u></a></li>
+</ul></div>
 

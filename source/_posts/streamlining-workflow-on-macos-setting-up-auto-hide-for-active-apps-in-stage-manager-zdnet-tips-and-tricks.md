@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Workflow on macOS: Setting Up Auto-Hide for Active Apps in Stage Manager | ZDNET Tips & Tricks"
-date: 2024-11-04T17:27:10.757Z
-updated: 2024-11-05T19:10:12.088Z
+date: 2024-11-11T18:35:55.951Z
+updated: 2024-11-15T21:59:41.982Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -44,13 +51,6 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -61,23 +61,9 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -105,6 +91,13 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -121,13 +114,6 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -139,6 +125,13 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -176,6 +169,13 @@ In this way, I can power through my inbox, responding, assigning to to-do items,
 Now, to be fair, I have a slight email fetish, so I do check back in to my inbox, once or twice (or 20 or 30 times) a day. But now that my inbox is generally clean and empty, that practice doesn't have much to grab onto, and it's only a waste of a second or two. 
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
 
@@ -237,10 +237,10 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Blocking out time for my projects
@@ -286,22 +286,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-exclusive-12-video-hourly-livestream-service/"><u>[New] 2024 Approved Exclusive 12 Video Hourly Livestream Service</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-vanguards-choice-of-top-12-high-tech-action-cams-with-locators/"><u>[New] 2024 Approved Vanguard's Choice of Top 12 High-Tech Action Cams With Locators</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-inclusive-insight-easeus-professional-analysis/"><u>[New] Inclusive Insight EaseUS Professional Analysis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-advanced-android-screen-recording/"><u>[New] Unlocking Advanced Android Screen Recording</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-create-memes-for-free-with-the-meme-maker-tools/"><u>[Updated] In 2024, Create Memes for Free with the Meme Maker Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/avoid-costs-with-these-superior-verizon-device-upgrades-in-current-month/"><u>Avoid Costs with These Superior Verizon Device Upgrades in [Current Month]</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/avoiding-common-pitfalls-in-digital-marketing-journey-for-2024/"><u>Avoiding Common Pitfalls in Digital Marketing Journey for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/charting-a-path-to-monthly-earnings-from-youtube/"><u>Charting a Path to Monthly Earnings From YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elite-selection-ranking-the-worlds-8-best-mobile-game-titles/"><u>Elite Selection: Ranking the World's 8 Best Mobile Game Titles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experiencing-genuine-dolby-atmos-is-your-setup-up-to-par/"><u>Experiencing Genuine Dolby Atmos: Is Your Setup Up to Par?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/jiri-voblizka-founder-crystal-microphone-for-his-contribution-to-czech-culture-by-radio-prague/"><u>Jiří Vobližka (Founder) – Crystal Microphone for His Contribution to Czech Culture by Radio Prague</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/real-time-broadcasting-discover-manycams-advanced-virtual-camera-solutions/"><u>Real-Time Broadcasting: Discover ManyCam's Advanced Virtual Camera Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revealing-chatgpts-ownership-the-journey-to-microsoft/"><u>Revealing ChatGPT's Ownership - The Journey to Microsoft</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210685488-9781644117101-soul-journey-through-the-tarot/"><u>Soul Journey through the Tarot | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-battle-of-personal-computing-uncovering-the-true-variances-between-mac-and-windows-systems/"><u>The Battle of Personal Computing: Uncovering the True Variances Between Mac and Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-mystery-a-complete-guide-to-understanding-telegram/"><u>Unveiling the Mystery: A Complete Guide to Understanding Telegram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-technology-behind-dts-play-fi-systems/"><u>Unveiling the Technology Behind DTS Play-Fi Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-fast-fixes-for-chaotic-youtube-list-ordering/"><u>[New] In 2024, Fast Fixes for Chaotic YouTube List Ordering</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-stellar-sims-gameplay-recording/"><u>[Updated] 2024 Approved Unlocking the Secrets to Stellar Sims Gameplay Recording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>[Updated] In 2024, Best of Both Worlds Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/10-effective-fixes-for-overcoming-wireless-network-adaptor-malfunctions/"><u>10 Effective Fixes for Overcoming Wireless Network Adaptor Malfunctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-tips-for-keeping-your-tv-remote-hygienic-and-germ-free/"><u>Easy Tips for Keeping Your TV Remote Hygienic and Germ-Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ahead-with-apple-watch-series-10-preorder-perks-and-money-saving-strategies-exclusive-guide/"><u>Get Ahead with Apple Watch Series 10 Preorder Perks & Money-Saving Strategies, Exclusive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apple-bids-adieu-to-itunes-by-introducing-new-windows-based-media-applications-digitalworld-today/"><u>How Apple Bids Adieu to iTunes by Introducing New Windows-Based Media Applications | DigitalWorld Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-crystal-clear-viewing-by-removing-distracting-line-issues-on-tv-screens/"><u>How To Restore Crystal Clear Viewing by Removing Distracting Line Issues on TV Screens</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-nubia-red-magic-9-proplus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Nubia Red Magic 9 Pro+ to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-novice-to-pro-transforming-videos-using-vida/"><u>In 2024, From Novice to Pro Transforming Videos Using Vida</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-announce-a-donation-drive-a-step-by-step-guide/"><u>In 2024, How to Announce a Donation Drive A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-sony-digital-camcorder-video-editing-tutorial-for-beginners/"><u>New In 2024, Sony Digital Camcorder Video Editing Tutorial for Beginners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-for-choosing-a-quality-motherboard/"><u>The Ultimate Checklist for Choosing a Quality Motherboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranked-mac-maintenance-software-of-2022-expert-picks-and-reviews-techradar/"><u>Top-Ranked Mac Maintenance Software of 2022: Expert Picks & Reviews | TechRadar</u></a></li>
+<li><a href="https://win-tips.techidaily.com/wie-man-e-mails-und-termine-erfolgreich-aus-dem-microsoft-outlook-auf-eine-externe-festplatte-exportiert/"><u>Wie Man E-Mails Und Termine Erfolgreich Aus Dem Microsoft Outlook Auf Eine Externe Festplatte Exportiert</u></a></li>
 </ul></div>
 

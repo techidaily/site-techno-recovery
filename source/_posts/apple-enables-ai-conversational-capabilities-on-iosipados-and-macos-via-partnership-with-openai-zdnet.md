@@ -1,7 +1,7 @@
 ---
 title: Apple Enables AI Conversational Capabilities on iOS/iPadOS and macOS via Partnership with OpenAI | ZDNet
-date: 2024-10-31T16:46:23.904Z
-updated: 2024-11-05T19:00:01.409Z
+date: 2024-11-11T02:06:15.324Z
+updated: 2024-11-15T20:48:24.060Z
 tags:
   - apple
 categories:
@@ -77,31 +77,26 @@ Apple's iOS 18.1 is accessible currently as a developers beta and only for the P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-complete-action-camera-buying-guide-for-beginners-2023-update-for-2024/"><u>[New] Complete Action Camera Buying Guide For Beginners -2023 Update for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-cutting-edge-tools-for-online-subtitle-editing/"><u>2024 Approved Cutting-Edge Tools for Online Subtitle Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-the-transformative-shifts-from-gpt-35-to-gpt-4/"><u>A Deep Dive Into the Transformative Shifts From GPT-3.5 to GPT-4</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2522145-9781623170486-a-new-republic-of-the-heart/"><u>A New Republic of the Heart | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/automatic-sign-in-made-simple-for-windows-users-a-comprehensive-how-to/"><u>Automatic Sign-In Made Simple for Windows Users - A Comprehensive How-To</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-and-macbook-air-key-features-and-performance/"><u>Comparing IPad Pro and MacBook Air: Key Features & Performance</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-igtv-cover-photos-thumbnails/"><u>Crafting Captivating IGTV Cover Photos (Thumbnails)</u></a></li>
-<li><a href="https://win-web.techidaily.com/effective-actions-for-resolving-the-smart-status-malfunction-alert-on-your-device/"><u>Effective Actions for Resolving the SMART Status Malfunction Alert on Your Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-rid-of-your-twitch-account-for-good-detailed-instructions-inside/"><u>How To Get Rid of Your Twitch Account for Good: Detailed Instructions Inside</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-gamers-path-to-earnings-on-youtube/"><u>In 2024, Gamer's Path to Earnings on YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/keyboard-charms-how-to-effortlessly-type-heart-graphics-in-text/"><u>Keyboard Charms: How to Effortlessly Type Heart Graphics in Text</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-securely-through-windows-8s-safe-mode-for-graphics-cleanup/"><u>Navigating Securely Through Windows 8’S Safe Mode for Graphics Cleanup</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-premiered-7-techniques-for-nonchalant-vocal-suppression-online-and-offline/"><u>New Premiered 7 Techniques for Nonchalant Vocal Suppression Online & Offline</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-device-starting-problems-a-guide-to-fixing-code-10-errors/"><u>Overcoming Device Starting Problems: A Guide to Fixing 'Code 10' Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ranking-unmissable-athletic-dramas-for-your-next-cinema-experience/"><u>Ranking: Unmissable Athletic Dramas for Your Next Cinema Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-shopping-the-five-key-points-for-choosing-the-right-smartwatch/"><u>Smart Shopping: The Five Key Points for Choosing the Right Smartwatch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/teslas-game-changing-robo-cab-rumored-release-dates-and-cutting-edge-specs-uncovered/"><u>Tesla’s Game-Changing Robo-Cab: Rumored Release Dates and Cutting-Edge Specs Uncovered!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-strategies-for-creating-a-viral-sensation-on-tiktok/"><u>Top 10 Strategies for Creating a Viral Sensation on TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pivotal-moments-in-figure-skating-22-highlights/"><u>[Updated] Pivotal Moments in Figure Skating '22 Highlights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-choices-360-video-equipment-for-livestreaming-platforms/"><u>[Updated] Top Choices 360° Video Equipment for Livestreaming Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-best-mkv-player-for-pc-and-mobile/"><u>2024 Approved Best Mkv Player for PC and Mobile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facebook-free-chatting-navigating-the-use-of-messenger-without-a-social-network-account/"><u>Facebook-Free Chatting: Navigating the Use of Messenger without a Social Network Account</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-record-your-iphone-conversations-with-ios-18-no-more-third-party-dependence-zdnet-exploration/"><u>How to Record Your iPhone Conversations with iOS 18, No More Third-Party Dependence | ZDNET Exploration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-stop-yourself-from-watching-youtube-on-an-ipad-tips-and-tricks/"><u>How To Stop Yourself From Watching YouTube On An iPad – Tips & Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insights-on-the-forthcoming-tesla-mobile-device-speculated-price-points-release-dates-and-tech-specs-revealed/"><u>Insights on the Forthcoming Tesla Mobile Device - Speculated Price Points, Release Dates, and Tech Specs Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-connectivity-woes-making-your-astro-a50-compatible-with-command-center/"><u>Solutions for Connectivity Woes: Making Your Astro A50 Compatible with Command Center</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-kid-friendly-ipad-picks-of-2022-expert-reviews-and-features/"><u>Top 4 Kid-Friendly iPad Picks of 2022 - Expert Reviews & Features</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/undelete-your-lost-files-a-step-by-step-guide-on-retrieving-deleted-items-from-a-usb-drive-using-windows-1011/"><u>Undelete Your Lost Files: A Step-by-Step Guide on Retrieving Deleted Items From a USB Drive Using Windows 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-ai-integration-in-smartphones-clues-from-apples-recent-acquisition-strategy-zdnet/"><u>Upcoming AI Integration in Smartphones? Clues From Apple's Recent Acquisition Strategy - ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo V29 | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
