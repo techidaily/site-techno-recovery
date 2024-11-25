@@ -1,7 +1,7 @@
 ---
 title: Comprehensive List of iPhones Compatible with Apple’s Latest AI Enhancements, Including Next-Gen Siri
-date: 2024-11-14T00:59:16.295Z
-updated: 2024-11-16T04:12:18.060Z
+date: 2024-11-23T10:28:42.775Z
+updated: 2024-11-25T08:01:44.881Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,16 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -99,6 +94,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,10 +113,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -130,13 +126,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -147,6 +136,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -172,13 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,18 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-sony-xperia-5-v-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Sony Xperia 5 V to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-closer-look-at-the-growth-of-netflix-through-its-dvd-by-mail-program-phase/"><u>A Closer Look at the Growth of Netflix Through Its DVD-by-Mail Program Phase</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/cerebral-sanctuaries-exploring-elite-room-escapes-for-2024/"><u>Cerebral Sanctuaries Exploring Elite Room Escapes for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-leading-choices-for-cost-free-offline-motor-racing-entertainment/"><u>Explore the Leading Choices for Cost-Free Offline Motor Racing Entertainment</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-realme-c67-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme C67 4GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-implement-the-stellar-file-eraser-5-standard-edition-in-windows-with-a-customized-clean-up-calendar/"><u>How to Implement the Stellar File Eraser 5 Standard Edition in Windows with a Customized Clean-Up Calendar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-moto-g24-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola Moto G24 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-gmail-ultimate-guide-to-keyboard-commands/"><u>Mastering Gmail: Ultimate Guide to Keyboard Commands</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-physxloaderdll-is-missing-a-step-by-step-guide/"><u>Resolving 'PhysXLoader.DLL' Is Missing - A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-hidden-weapons-for-social-media-dominance-on-instagram/"><u>The Hidden Weapons for Social Media Dominance on Instagram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-network-discovery-controls-a-guide-for-windows-11-users/"><u>Unveiling the Secrets of Network Discovery Controls: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/verifying-true-dolby-atmos-effects-are-they-living-up-to-the-hype/"><u>Verifying True Dolby Atmos Effects: Are They Living Up to the Hype?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-detailed-review-of-vsco-editing-techniques-and-tools/"><u>[New] In 2024, Detailed Review of VSCO Editing Techniques and Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-much-a-youtube-promotion/"><u>[Updated] How Much a YouTube Promotion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-realistic-3d-text-photoshopping-style/"><u>2024 Approved Crafting Realistic 3D Text Photoshopping Style</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-innovations-that-make-av1-superior-to-vp9/"><u>2024 Approved The Innovations That Make AV1 Superior to VP9</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/4-proven-methods-to-perfect-instagram-video-loops-for-2024/"><u>4 Proven Methods to Perfect Instagram Video Loops for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpods-pro-2-with-built-in-hearing-aid-support-enjoy-an-exclusive-24-discount-today-spotted/"><u>AirPods Pro 2 with Built-In Hearing Aid Support: Enjoy an Exclusive 24% Discount Today - Spotted</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-submerge-an-iphone-15-pro-max-underwater/"><u>Can You Submerge an iPhone 15 Pro Max Underwater?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-instagram-tips-on-seeing-content-without-a-profile/"><u>Discovering Instagram: Tips on Seeing Content without a Profile</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-unlock-achieved-revised-security-configuration-allows-file-retrieval/"><u>Download Unlock Achieved: Revised Security Configuration Allows File Retrieval</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevating-your-wrist-tech-comparing-the-apple-watch-series-8-with-the-previous-generation/"><u>Elevating Your Wrist-Tech: Comparing the Apple Watch Series 8 with the Previous Generation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-800-strikes-back-your-comprehensive-fix-for-clientserver-vpn-malfunctions/"><u>Error 800 Strikes Back? Your Comprehensive Fix for Client/Server VPN Malfunctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/first-ever-on-android-phones-google-pixel-exclusive-satellite-sos-capability-as-spotlighted/"><u>First-Ever on Android Phones: Google Pixel eXclusive Satellite SOS Capability, as Spotlighted</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-accelerating-streamed-instagram-content-mobile-hacks/"><u>In 2024, Accelerating Streamed Instagram Content Mobile Hacks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-mic-problems-heres-how-to-get-it-working-again/"><u>Razer Man O' War Mic Problems? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-iphone-privacy-stop-sharing-your-journal-in-public-view-a-step-by-step-guide/"><u>Secure Your iPhone Privacy: Stop Sharing Your Journal in Public View - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-how-to-resolve-advrcntr2dll-not-found-in-nero-software/"><u>Troubleshooting: How to Resolve 'Advrcntr2.dll Not Found' In Nero Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/updating-your-mac-os-applications-a-tutorial-on-two-effective-methods-insights-from-zdnet/"><u>Updating Your Mac OS Applications: A Tutorial on Two Effective Methods - Insights From ZDNet</u></a></li>
 </ul></div>
 

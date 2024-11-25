@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Features in iOS 17.5 Beta 2: How Apple Now Allows EU Residents to Web Download Apps | Innovative Insights"
-date: 2024-11-11T04:29:12.998Z
-updated: 2024-11-15T17:45:06.441Z
+date: 2024-11-22T01:29:12.628Z
+updated: 2024-11-25T04:55:31.919Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How it works
 
 To download iOS apps from the web, the user must be on an iPhone running iOS 17.5 Beta 2\. If it's their first time downloading from a developer, tapping on the "Download" (or "Install") button of a website will ask the user to permit app downloads from their iPhone settings.
@@ -49,10 +53,7 @@ Allowing the external installation means you're agreeing to the developer's term
 As far as app updates go, as long as developers implement their web distribution and APIs correctly, apps downloaded from the web should update automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do developers qualify?
@@ -66,10 +67,7 @@ Developers should also be able to attest to IP disputes and government take-down
 Once qualification is asserted, Apple will give authorized app developers access to an API for web downloads. Apps downloaded from websites should look and act like other apps downloaded on the App Store. Users can back up, restore, and update these apps like any other.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why it's a big deal
@@ -112,24 +110,16 @@ As the DMA only covers the EU, the ability to sideload these apps is restricted 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-bypass-tradition-innovative-techniques-to-boost-your-tiktok-photos/"><u>[New] Bypass Tradition Innovative Techniques to Boost Your TikTok Photos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enlightening-editing-paths-to-audience-appealing-descriptors-for-2024/"><u>[Updated] Enlightening Editing Paths to Audience-Appealing Descriptors for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mirthful-methods-building-humor-in-a-click-for-2024/"><u>[Updated] Mirthful Methods Building Humor in a Click for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-step-into-simplicity-a-tailored-approach-to-creating-shorts-thumbnails/"><u>[Updated] Step Into Simplicity A Tailored Approach to Creating Shorts Thumbnails</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-s23-ultra-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy S23 Ultra to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-weekend-with-apple-vision-pro-top-three-insights-unveiled-detailed-review/"><u>A Weekend with Apple Vision Pro: Top Three Insights Unveiled - Detailed Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/access-top-10-trending-apps-with-google-play-store-on-your-firestick-or-fire-tablet/"><u>Access Top 10 Trending Apps with Google Play Store on Your Firestick or Fire Tablet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-online-tools-discover-the-top-10-choices-for-renters/"><u>Essential Online Tools - Discover the Top 10 Choices for Renters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-how-the-vision-pro-gamepad-mirrors-apples-iconic-stylus-according-to-latest-uspto-filings-tech-analysis/"><u>Exclusive: How the Vision Pro Gamepad Mirrors Apple's Iconic Stylus, According to Latest USPTO Filings | Tech Analysis</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-90-lite-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fun-and-educational-movies-for-kids-on-netflix/"><u>Fun & Educational Movies for Kids on Netflix</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/homemade-projector-screens-101-a-comprehensive-diy-instructional/"><u>Homemade Projector Screens 101 - A Comprehensive DIY Instructional</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-y100-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y100 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/march-2024s-ultimate-headset-offers-and-savings-check-out-the-latest-deals-on-zdnet/"><u>March 2024'S Ultimate Headset Offers & Savings - Check Out the Latest Deals on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-network-visibility-controls-for-windows-11-users/"><u>Mastering Network Visibility Controls for Windows 11 Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-mac-dub-master/"><u>New In 2024, Mac Dub Master</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-the-crash-issue-in-psychonauts-2-for-pc-gamers/"><u>Resolving the Crash Issue in Psychonauts 2 for PC Gamers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/satellite-emergency-sos-now-available-on-the-revolutionary-google-pixel-9-the-premier-android-device/"><u>Satellite Emergency SOS Now Available on the Revolutionary Google Pixel 9 - The Premier Android Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-2024s-must-have-macbook-peripherals-and-upgrades-in-depth-analysis-and-expert-ratings-zdnet/"><u>Ultimate Guide to 2024'S Must-Have MacBook Peripherals and Upgrades: In-Depth Analysis and Expert Ratings | ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-lesser-known-aspects-for-the-instagram-story-viewer/"><u>[New] 2024 Approved Lesser-Known Aspects for the Instagram Story Viewer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/roadcast-your-curated-playlist-with-ease/"><u>[New] Broadcast Your Curated Playlist with Ease</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oop-like-a-pro-detailed-methods-for-youtube-enthusiasts-for-2024/"><u>[New] Loop Like a Pro Detailed Methods for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-7-crucial-tiktok-utilities-for-enhanced-viral-progress-for-2024/"><u>[Updated] 7 Crucial TikTok Utilities for Enhanced Viral Progress for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-maximize-profitability-the-dos-and-donts-of-youtube-monetization/"><u>[Updated] In 2024, Maximize Profitability – The Do's and Don'ts of YouTube Monetization</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-x90s-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-introduces-its-revolutionary-new-iphone-join-us-live/"><u>Apple Introduces Its Revolutionary New iPhone – Join Us Live</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-newest-laptops-showdown-is-it-time-to-switch-from-your-m3-macbook-pro-to-the-advanced-m1-model-expert-insights-and-comparisons-zdnet/"><u>Apple's Newest Laptops Showdown: Is It Time to Switch From Your M3 MacBook Pro to the Advanced M1 Model? Expert Insights & Comparisons | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compare-and-conquer-a-detailed-look-at-ipad-pro-versus-ipad-air-for-tech-enthusiasts/"><u>Compare and Conquer: A Detailed Look at iPad Pro Versus iPad Air for Tech Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-keeping-your-plasma-tv-crystal-clear-with-safe-cleaning-techniques/"><u>Expert Advice: Keeping Your Plasma TV Crystal Clear with Safe Cleaning Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/surviving-a-splash-assessing-the-water-resistance-of-iphone-15-pro-max/"><u>Surviving a Splash: Assessing the Water Resistance of iPhone 15 Pro Max</u></a></li>
 </ul></div>
 

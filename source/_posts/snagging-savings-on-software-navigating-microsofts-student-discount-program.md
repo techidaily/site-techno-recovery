@@ -1,7 +1,7 @@
 ---
 title: "Snagging Savings on Software: Navigating Microsoft's Student Discount Program"
-date: 2024-09-14T16:13:45.511Z
-updated: 2024-09-15T16:14:16.769Z
+date: 2024-11-20T19:14:18.064Z
+updated: 2024-11-25T01:39:52.685Z
 categories:
   - BestProducts
 description: "This Article Describes Snagging Savings on Software: Navigating Microsoft's Student Discount Program"
@@ -23,10 +23,19 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 3. Select**Student Deals** from the list of store categories.  
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -37,6 +46,14 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 * Enrolled at a four-year university, two-year college, or a vocational school.
 
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Does Microsoft's Student Discount Get You?
 
@@ -50,16 +67,7 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does Microsoft Verify Student Enrollment?
@@ -99,5 +107,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-unleash-creativity-with-canons-time-lapse-capabilities/"><u>[New] Unleash Creativity with Canon's Time-Lapse Capabilities</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-5-exceptional-tiktok-to-gif-converter-software-listings-for-2024/"><u>[Updated] 5 Exceptional TikTok to GIF Converter Software Listings for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-remedies-for-when-you-encounter-an-mfplatdll-file-that-cant-be-found/"><u>Effective Remedies for When You Encounter an Mfplat.dll File That Can’t Be Found</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-video-content-on-instagram-with-background-music-techniques/"><u>Enhancing Video Content on Instagram with Background Music Techniques</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/error-404-pages-no-longer-available/"><u>Error 404: Pages No Longer Available</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ready-to-power-up-essential-anker-charging-gadgets-perfect-for-your-next-weeks-new-iphone-discover-at-zdnet/"><u>Get Ready to Power Up! Essential Anker Charging Gadgets Perfect for Your Next Week's New iPhone | Discover at ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-joyous-film-loader-assessment/"><u>In 2024, Joyous Film Loader Assessment</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-how-to-prevent-final-cut-pro-x-from-freezing-and-crashing-for-2024/"><u>New How to Prevent Final Cut Pro X From Freezing and Crashing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-early-access-discover-where-to-preorder-new-ipads-and-stylus-with-hottest-promotions-insider-tips/"><u>Securing Early Access: Discover Where to Preorder New iPads & Stylus with Hottest Promotions Insider Tips</u></a></li>
+</ul></div>
 

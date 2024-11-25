@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Typing the Universal Symbol of Love"
-date: 2024-09-12T16:08:15.673Z
-updated: 2024-09-15T16:09:59.315Z
+date: 2024-11-23T14:22:41.770Z
+updated: 2024-11-25T05:49:45.855Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Typing the Universal Symbol of Love"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -23,7 +27,16 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -43,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -65,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -91,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -122,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Was this page helpful?
 
 Thanks for letting us know!
@@ -156,5 +156,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-compreran-guide-to-creating-viral-ad-videos-for-free/"><u>[New] Your Compreran Guide to Creating Viral Ad Videos for Free</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-echoesexaminer-reviewing-recorded-voices/"><u>[Updated] EchoesExaminer Reviewing Recorded Voices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exploring-the-top-rated-ios-video-capture-apps-for-2024/"><u>[Updated] Exploring the Top-Rated iOS Video Capture Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-windows-lockout-duration-post-failed-logon/"><u>Altering Windows Lockout Duration Post-Failed Logon</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-laserjet-pro-mfp-m428fwd-driver-compatible-with-windows-11-10-and-windows-7/"><u>Download HP LaserJet Pro MFP M428fwd Driver: Compatible with Windows 11, 10 & Windows 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-take-on-iphone-15-top-features-that-impress-both-casual-and-professional-users-tech-insights/"><u>Expert Take on iPhone 15: Top Features That Impress Both Casual and Professional Users - Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-ksuserdll-errors-expert-strategies-for-quick-solutions/"><u>Fixing 'ksuser.dll' Errors: Expert Strategies for Quick Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-identify-key-qualities-before-purchasing-a-projector/"><u>How to Identify Key Qualities Before Purchasing a Projector</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50s-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Nubia Z50S Pro Phone without PIN</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-top-15-timeless-classics-in-stop-motion-cinema-history/"><u>In 2024, Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rumors-swirl-as-apple-explores-adding-breath-monitoring-feature-to-vision-pro-insights/"><u>Rumors Swirl as Apple Explores Adding Breath Monitoring Feature to Vision Pro: Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamlessly-transfer-images-from-google-photos-to-icloud-photos-a-simple-guide/"><u>Seamlessly Transfer Images From Google Photos to iCloud Photos - A Simple Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-mystery-of-undelivered-imessages-resolved-insights-from-zdnet-explained/"><u>The Mystery of Undelivered iMessages Resolved: Insights From ZDNet Explained</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-g22-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia G22 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-vehicle-a-step-by-step-guide-to-discovering-your-cars-radio-code/"><u>Unlocking Your Vehicle: A Step-by-Step Guide to Discovering Your Car's Radio Code</u></a></li>
+</ul></div>
 

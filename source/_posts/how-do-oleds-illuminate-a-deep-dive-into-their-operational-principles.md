@@ -1,7 +1,7 @@
 ---
 title: How Do OLEDs Illuminate? A Deep Dive Into Their Operational Principles
-date: 2024-09-10T16:04:37.043Z
-updated: 2024-09-15T16:13:10.400Z
+date: 2024-11-23T11:43:04.212Z
+updated: 2024-11-24T22:43:01.256Z
 categories:
   - BestProducts
 description: This Article Describes How Do OLEDs Illuminate? A Deep Dive Into Their Operational Principles
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/1ZTXrz-n58WPCIn3ootKgux8wNc=/540x405/fi
 ## How Do OLEDs Illuminate? A Deep Dive Into Their Operational Principles
  Acronyms aren't always easy to understand, especially in the world of home electronics. This article explains a light source used in a variety of electronic screens.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is OLED?
 
  OLED, an advanced form of[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) , stands for _organic light-emitting diode_ . Unlike LED, which uses a backlight to provide light to[pixels](https://www.lifewire.com/what-is-a-pixel-1846929) , OLED is defined as relying on an organic material made of hydrocarbon chains to emit light when in contact with electricity.
@@ -19,6 +23,10 @@ thumbnail: https://www.lifewire.com/thmb/1ZTXrz-n58WPCIn3ootKgux8wNc=/540x405/fi
  There are several advantages to this approach, particularly the ability for each and every pixel to make light on their own, producing an infinitely high contrast ratio, meaning blacks can be_completely_ black and whites extremely bright.
 
  This is the main reason more and more devices use OLED screens, including smartphones, wearables, TVs, tablets,[monitors](https://www.lifewire.com/what-is-a-monitor-2618155) , and digital cameras. Among those devices and others are two kinds of OLED displays that are controlled in different ways, called_active-matrix_ (AMOLED) and_passive-matrix_ (PMOLED).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How OLED Works
 
@@ -28,11 +36,19 @@ thumbnail: https://www.lifewire.com/thmb/1ZTXrz-n58WPCIn3ootKgux8wNc=/540x405/fi
 
 ![Photo of a smartphone taking a photo of strawberries](https://www.lifewire.com/thmb/PqVU54yGcABkraCEnq6HLdNQ0A0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  pbombaert / Getty Images
 
  The color of the light that's seen on the OLED display is affected by red, green, and blue layers attached to the substrate. When color is to be black, the pixel can be turned off to ensure that no light is generated for that pixel.
 
  This method to create black is very different than the one used with LED. When a to-be black pixel is set to black on an LED screen, the pixel shutter is closed but the backlight is still emitting light, meaning it never quite goes all the way dark.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OLED Pros
 
@@ -46,10 +62,7 @@ thumbnail: https://www.lifewire.com/thmb/1ZTXrz-n58WPCIn3ootKgux8wNc=/540x405/fi
 * The absence of any excess layers allows for curved and bendable displays.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OLED Cons
@@ -59,13 +72,6 @@ thumbnail: https://www.lifewire.com/thmb/1ZTXrz-n58WPCIn3ootKgux8wNc=/540x405/fi
 * Since part of the display is organic, OLEDs show color degradation over time, which affects the overall screen brightness and color balance. This gets worse with time since the material required for making blues decays at a quicker rate than reds and greens.
 * OLED screens are expensive to make, at least compared to older technology.
 * Both OLED and LED displays experience screen burn-in if particular pixels are used for too long over a long period of time, but the effect is greater on OLEDs. However, this effect is in part determined by the number of [pixels per inch](https://www.lifewire.com/how-many-pixels-in-an-inch-4125185) .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Information on OLED
 
@@ -119,5 +125,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-art-of-iphone-framing-finding-the-best-camera-positions/"><u>[New] In 2024, The Art of iPhone Framing Finding the Best Camera Positions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shake-and-smile-with-iphone-memes/"><u>[New] Shake & Smile with iPhone Memes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862791699-discover-the-future-with-samsungs-latest-upgrade-to-odyssey-and-view-series-now-infused-with-advanced-ai-tech/"><u>Discover the Future with Samsung's Latest Upgrade to Odyssey and View Series - Now Infused with Advanced AI Tech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-savings-like-never-before-grab-the-highly-anticipated-2022-ipad-pro-now-with-a-700-price-cut-on-labor-day-exclusive-news-from-zdnet/"><u>Experience Savings Like Never Before: Grab the Highly Anticipated 2022 iPad Pro Now with a $700 Price Cut on Labor Day | Exclusive News From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-the-best-price-for-apples-airtag-bundle-24-discounted-at-walmart-during-labor-day-insights-from-zdnet/"><u>Experience the Best Price for Apple's AirTag Bundle – $24 Discounted at Walmart During Labor Day | Insights From ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-13-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 13 5G Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-blaze-2-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Lava Blaze 2 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-easy-entry-into-cinematography-choosing-film-cameras-35mm-to-pands/"><u>In 2024, Easy Entry Into Cinematography Choosing Film Cameras (35Mm to P&S)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-logic-pros-efficient-approach-to-softening-audio-levels/"><u>In 2024, Logic Pro's Efficient Approach to Softening Audio Levels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-imessage-communication-on-your-pc-a-detailed-walkthrough-for-windows-by-zdnet-experts/"><u>Mastering iMessage Communication on Your PC: A Detailed Walkthrough for Windows by ZDNet Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-how-to-duplicate-a-gpt-partition-on-your-solid-state-drive/"><u>Step-by-Step Guide: How to Duplicate a GPT Partition on Your Solid State Drive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-handling-missing-mscorwksdll-files/"><u>The Ultimate Solution for Handling Missing mscorwks.dll Files</u></a></li>
+</ul></div>
 

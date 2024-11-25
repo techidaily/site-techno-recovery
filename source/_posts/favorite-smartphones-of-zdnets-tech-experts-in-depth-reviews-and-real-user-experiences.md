@@ -1,7 +1,7 @@
 ---
 title: "Favorite Smartphones of ZDNet's Tech Experts: In-Depth Reviews and Real User Experiences"
-date: 2024-11-14T05:02:55.882Z
-updated: 2024-11-15T17:23:11.033Z
+date: 2024-11-21T18:40:39.908Z
+updated: 2024-11-25T14:19:57.462Z
 tags:
   - apple
 categories:
@@ -33,6 +33,10 @@ June Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does the Vision Pro look and feel?
 
@@ -73,6 +77,10 @@ June Wan/ZDNET
 Users can control the headset with eye and hand tracking, a feature that's slowly being adopted by other headsets on the market, as well as voice commands. For example, users can pinch to select and flick to scroll.
 
 Vision Pro runs on a new Apple operating system, VisionOS, which resembles the iPadOS interface, bringing Apple's apps and services ecosystem to the headset. VisionOS was created specifically for spatial computing. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro AR or VR?
 
@@ -126,6 +134,10 @@ Vision Pro scanning a user.
 
 Screenshot by Christina Darby/ZDNET 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much does the Vision Pro cost?
 
 The Vision Pro has a hefty price tag of $3,499 for the 256GB base storage model, setting a premium category apart from [Meta](https://www.zdnet.com/article/meta-quest-3-unveiled-price-features-and-when-you-can-buy-metas-new-vr-headset/), [HTC](https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/), and other manufacturers that play in the sub-$1,000 range. 
@@ -160,6 +172,10 @@ However, Apple knows that people who wear glasses need to be able to see to use 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does the Apple Vision Pro have controllers?
 
 One of the standout features of the [Apple Vision Pro](https://www.zdnet.com/article/what-is-apples-vision-pro-price-features-hands-on-insights-and-everything-you-need-to-know/) is its advanced hand tracking, which allows users to forgo using controllers for a more immersive AR/VR experience. Unlike the Meta Quest 3, there is no optional controller. Instead, you rely entirely on hand tracking.
@@ -169,13 +185,6 @@ One of the standout features of the [Apple Vision Pro](https://www.zdnet.com/art
 However, if you want controllers in the future, you may be in luck. Apple recently applied for a [patent](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240069352) for Handheld Controllers with Charging and Storage Systems. One perk of controllers is that they offer much more precision, which is especially useful for working professionals such as engineers. Before you get your hopes up, it is worth noting companies file many patents every year, and only some of the tech ever sees the light of day.
 
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When is the Vision Pro available?
 
@@ -190,10 +199,7 @@ Yes, you can try the Vision Pro before purchasing by booking a one-on-one demo e
 **Also: [Apple Vision Pro's in-store demos are better than ever - here's why and how to book one](https://www.zdnet.com/article/apple-vision-pros-in-store-demos-are-better-than-ever-heres-why-and-how-to-book-one/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the return policy on the Apple Vision Pro?
@@ -205,13 +211,6 @@ The return policy on the Vision Pro is the same Standard Return Policy as any ot
 Now that it has been over two weeks since the Vision Pro's launch, some users have already returned the headset for several reasons, including design flaws or simply wanting to get their money back after trying the device. 
 
 **Also: [How to return the Apple Vision Pro](https://www.zdnet.com/article/how-to-return-the-apple-vision-pro/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Apple Vision Pro updates were announced at WWDC 2024?
 
@@ -226,13 +225,6 @@ There were many announcements, but some of the highlights included:
 * A guest user option that allows additional users to save their eye and hand data for 30 days
 
 If you want to see the full list, you can read the VisionOS 2 section of this article: [Every new feature Apple unveiled for iPhone, iPad, Mac, and more this fall (including AI)](https://www.zdnet.com/article/every-new-feature-apple-unveiled-for-iphone-ipad-mac-and-more-this-fall-including-ai/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Vision Pro better than Meta Quest 3?
 
@@ -291,24 +283,21 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-online-repositories-for-stylish-text-applications/"><u>[Updated] 2024 Approved Essential Online Repositories for Stylish Text Applications</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-channeling-tweets-to-facebook-viewers-efficiently/"><u>2024 Approved Channeling Tweets to Facebook Viewers Efficiently</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-essential-retro-filters-to-polish-video-pieces/"><u>2024 Approved Essential Retro Filters to Polish Video Pieces</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-nuances-of-softening-sounds-via-lumafusion/"><u>2024 Approved Mastering the Nuances of Softening Sounds via Lumafusion</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/iphone-x8/"><u>最新iPhone X/8情報チャージ！：ロコミレビュー、新機能分析、選び方のヒント集</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/android-vs-ios-a-comparison-of-five-key-areas-for-improvement-to-challenge-apples-dominance-according-to-experts-at-zdnet/"><u>Android Vs. IOS: A Comparison of Five Key Areas for Improvement to Challenge Apple's Dominance, According to Experts at ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/complete-strategies-for-legally-duplicating-data-on-dvds-and-cds-without-damage/"><u>Complete Strategies for Legally Duplicating Data on DVDs & CDs Without Damage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-captivating-ios-gaming-experiences-akin-to-the-room-and-myst/"><u>Discover Captivating iOS Gaming Experiences Akin to 'The Room' And 'Myst'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-history-and-functionality-of-aol-instant-messenger-aim/"><u>Exploring the History and Functionality of AOL Instant Messenger (AIM)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-unlocking-fullscreen-potential-in-adobe-premiere/"><u>In 2024, Unlocking Fullscreen Potential in Adobe Premiere</u></a></li>
-<li><a href="https://win-trending.techidaily.com/innovating-productivity-how-microsofts-latest-accessories-cater-to-the-evolving-hybrid-work-environment-businessintech/"><u>Innovating Productivity: How Microsoft's Latest Accessories Cater to the Evolving Hybrid Work Environment | BusinessInTech</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ipad-showdown-choosing-between-the-m1-and-m2-models-the-ultimate-guide-tech-reviews/"><u>IPad Showdown: Choosing Between the M1 and M2 Models - The Ultimate Guide Tech Reviews</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-speed-up-your-storytelling-how-to-create-engaging-time-lapse-videos-for-2024/"><u>New Speed Up Your Storytelling How to Create Engaging Time Lapse Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revive-your-internet-connection-the-ultimate-guide-to-mac-network-resets/"><u>Revive Your Internet Connection: The Ultimate Guide to Mac Network Resets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-triumph-apple-developers-ecstatic-as-their-key-software-receives-monumental-complimentary-ai-upgrade-explore/"><u>Tech Triumph: Apple Developers Ecstatic as Their Key Software Receives Monumental, Complimentary AI Upgrade - Explore !</u></a></li>
-<li><a href="https://article-tips.techidaily.com/theta-s-deep-dive-an-extensive-review/"><u>Theta S Deep Dive An Extensive Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/toggle-network-visibility-settings-in-windows-11-with-ease/"><u>Toggle Network Visibility Settings in Windows 11 with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-wet-proof-smart-timepieces-comprehensive-ratings-and-insights-by-tech-experts/"><u>Top-Rated Wet-Proof Smart Timepieces - Comprehensive Ratings & Insights by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-google-gathering-insider-information-and-latest-updates/"><u>Upcoming Google Gathering: Insider Information & Latest Updates</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-amplifying-impact-youtube-visibility-techniques-for-2024/"><u>[New] Amplifying Impact YouTube Visibility Techniques for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-blend-acoustic-elements-with-visual-content-in-premiere-pro/"><u>[New] Blend Acoustic Elements with Visual Content in Premiere Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-building-engagement-the-role-of-youtube-shorts-template-design-for-2024/"><u>[Updated] Building Engagement The Role of YouTube Shorts Template Design for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cultivating-a-visionary-channel-with-best-video-ideas-for-2024/"><u>[Updated] Cultivating a Visionary Channel with Best Video Ideas for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-explore-the-best-webcams-on-your-windows-10-pc-for-2024/"><u>[Updated] Explore the Best Webcams on Your Windows 10 PC for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/80-less-than-list-price-exploring-the-benefits-of-the-new-generation-apple-watch-se-post-prime-day-insights-from-zdnet/"><u>$80 Less Than List Price: Exploring the Benefits of the New Generation Apple Watch SE Post-Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-unraveling-the-mystery-of-phantom-taps-solutions-for-your-apple-watch-troubles/"><u>1: Unraveling the Mystery of 'Phantom Taps': Solutions for Your Apple Watch Troubles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>2024 Approved The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-blocking-unsolicited-emergency-messages-on-your-android-phone/"><u>Comprehensive Guide: Blocking Unsolicited Emergency Messages on Your Android Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-future-of-googles-camera-tech-projected-cost-release-info-and-unconfirmed-details-on-pixel-10/"><u>Exploring the Future of Google's Camera Tech: Projected Cost, Release Info, and Unconfirmed Details on Pixel 10</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-connection-a-step-by-step-guide-to-connecting-your-external-hard-drive-to-xbox-one/"><u>Mastering the Connection: A Step-by-Step Guide to Connecting Your External Hard Drive to Xbox One</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-keyword-strategies-for-youtube-success-for-2024/"><u>Navigating Keyword Strategies for YouTube Success for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/order-your-apple-watch-series-10-in-advance-tips-and-tricks-on-pre-ordering-plus-savings-techniques-insights/"><u>Order Your Apple Watch Series 10 in Advance: Tips & Tricks on Pre-Ordering Plus Savings Techniques – Insights</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/understanding-movavis-shipping-and-return-procedures-for-customer-satisfaction/"><u>Understanding Movavi's Shipping and Return Procedures for Customer Satisfaction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-best-smartwatches-of-2n24-in-depth-analysis-and-ratings/"><u>ZDNet's Ultimate Guide to the Best Smartwatches of 2N24 - In-Depth Analysis & Ratings</u></a></li>
 </ul></div>
 

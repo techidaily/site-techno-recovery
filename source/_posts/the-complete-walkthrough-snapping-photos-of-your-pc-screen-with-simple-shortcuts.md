@@ -1,7 +1,7 @@
 ---
 title: "The Complete Walkthrough: Snapping Photos of Your PC Screen with Simple Shortcuts"
-date: 2024-09-14T16:21:14.238Z
-updated: 2024-09-15T16:09:56.967Z
+date: 2024-11-23T09:55:54.086Z
+updated: 2024-11-25T00:00:19.683Z
 categories:
   - BestProducts
 description: "This Article Describes The Complete Walkthrough: Snapping Photos of Your PC Screen with Simple Shortcuts"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 ## The Complete Walkthrough: Snapping Photos of Your PC Screen with Simple Shortcuts
 
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  What to Know
 
@@ -29,6 +33,10 @@ Close
 * **Alt** +**PrtScn:** Press these buttons at the same time to take a screenshot of a single window that you're focused on. Select the window once to make sure it's in focus, and then press these keys.
 * **Win** +**PrtScn:** Using the Windows key with the print screen button (in Windows 8 and newer) will take a screenshot of the whole screen and then save it in the default Pictures folder in a subfolder called Screenshots (e.g.**C:\\Users\\\[user\]\\Pictures\\Screenshots** ).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Paste or Save a Screenshot 
 
  The easiest way to save a screenshot is to first paste it into the Microsoft Paint application. It's included with Windows by default.
@@ -41,16 +49,18 @@ Close
 3. With Microsoft Paint open, and the screenshot still saved in the clipboard, use**Ctrl** +**V** to paste it into Paint, or select**Paste** .  
 ![Screenshot of Paste button in Paint](https://www.lifewire.com/thmb/eY_JnmlU4nZDW3O3M9fb-WXW-rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mspaintpaste-055a89525bb94cf8923a30a3e044df3f.jpg)
 4. Press**Ctrl** +**S** , or select **File** \>**Save as** to save the screenshot.  
-!["Save as" selection in Paint](https://www.lifewire.com/thmb/jsFWbGEcpxz02bT2lKrhU9QKdlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mssaveas-3117783b3b4044e2a4e2861e24ac4b27.jpg)
-
- At this point, you may notice that the image you saved looks a bit off. If the image doesn't take up the_entire_  canvas in Paint, it will leave white space around it. To fix this, drag the bottom right corner of the canvas toward the top left of the screen until you reach the corners of your screenshot.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+!["Save as" selection in Paint](https://www.lifewire.com/thmb/jsFWbGEcpxz02bT2lKrhU9QKdlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mssaveas-3117783b3b4044e2a4e2861e24ac4b27.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ At this point, you may notice that the image you saved looks a bit off. If the image doesn't take up the_entire_  canvas in Paint, it will leave white space around it. To fix this, drag the bottom right corner of the canvas toward the top left of the screen until you reach the corners of your screenshot.
 
 ##  How to Take a Screenshot on PC With the Windows Snipping Tool 
 
@@ -62,14 +72,11 @@ Close
 
 ![Screenshot of Snipping Tool](https://www.lifewire.com/thmb/gvaURFm7e70fhDRPUiHnJfiWs-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Capture-dda252c0f1e74031bd28f4705d461c47.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [ How to Use Snip and Sketch ](https://www.lifewire.com/snip-and-sketch-windows-10-4774799) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatively, Download a Print Screen Program 
 
@@ -113,5 +120,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-and-proficiently-implementing-cc-copyrights/"><u>2024 Approved Understanding and Proficiently Implementing CC Copyrights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726226480080-m4aavi-movavi/"><u>無料オンラインM4AAVIファイル変換ツール – Movaviで簡単に変換可能</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-mysterious-issues-in-vision-pro-systems-practical-tips-for-handling-unanticipated-breakdowns/"><u>Dealing with Mysterious Issues in Vision Pro Systems: Practical Tips for Handling Unanticipated Breakdowns</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-ev-chargers-a-deep-dive-into-level-1-level-2-and-level-3-systems/"><u>Demystifying EV Chargers: A Deep Dive Into Level 1, Level 2 & Level 3 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/empowering-a-new-wave-of-tech-talent-thousands-benefit-from-apples-innovative-ai-learning-program-for-alumni-and-students-featured-on-zdnet/"><u>Empowering a New Wave of Tech Talent: Thousands Benefit From Apple's Innovative AI Learning Program for Alumni and Students | Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-engagement-the-ultimate-tutorial-for-adding-animated-reactions-to-your-instagram-comments/"><u>Enhancing Engagement: The Ultimate Tutorial for Adding Animated Reactions to Your Instagram Comments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-ipad-tools-for-boosting-productivity-expert-tips-to-refine-your-routine-featured-on-zdnet/"><u>Essential iPad Tools for Boosting Productivity: Expert Tips to Refine Your Routine - Featured on ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nubia-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nubia Unlock Without Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-post-production-excellence-with-these-11-top-tutorials/"><u>In 2024, Pioneering Post-Production Excellence with These 11 Top Tutorials</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/revolutionizing-youtube-success-through-smart-title-strategy-for-2024/"><u>Revolutionizing YouTube Success Through Smart Title Strategy for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-why-is-my-razer-kraken-mic-not-working-find-out-here/"><u>Solution Steps: Why Is My Razer Kraken Mic Not Working? Find Out Here!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-lowdown-what-to-expect-from-googles-pixel-buds-pro-2-rumored-pricing-scheduled-release-and-specs-breakdown/"><u>The Lowdown: What to Expect From Google's Pixel Buds Pro 2 – Rumored Pricing, Scheduled Release, and Specs Breakdown</u></a></li>
+</ul></div>
 

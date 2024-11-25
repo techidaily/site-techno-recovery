@@ -1,7 +1,7 @@
 ---
 title: No Display Despite Power On - Troubleshoot Steps for Restoring Visibility on Your Computer
-date: 2024-09-09T16:08:11.063Z
-updated: 2024-09-15T16:19:57.266Z
+date: 2024-11-21T02:14:04.487Z
+updated: 2024-11-25T13:56:10.656Z
 categories:
   - BestProducts
 description: This Article Describes No Display Despite Power On - Troubleshoot Steps for Restoring Visibility on Your Computer
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
  Microsoft calls this file the_Microsoft .NET Runtime Common Language Runtime - WorkStation_ .  
 
  The mscorwks.dll error message could apply to any program or system that might utilize the file on any of Microsoft's [operating systems](https://www.lifewire.com/operating-systems-2625912) , including[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) , [Windows 8](https://www.lifewire.com/windows-8-2626235) , [Windows 7](https://www.lifewire.com/windows-7-2626265) , [Windows Vista](https://www.lifewire.com/windows-vista-2626311) , [Windows XP](https://www.lifewire.com/windows-xp-2626354) , and Windows 2000.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Mscorwks.dll Errors
 
@@ -45,9 +49,17 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
  All the information on your hard drive will be erased during this step. Make sure you've made the best attempt possible to fix the error using a troubleshooting step prior to this one.
 14. [Troubleshoot for a hardware problem](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) if any mscorwks.dll errors persist. After a clean Windows installation, your DLL problem can only be hardware related.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, see [How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a lot more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Causes of Mscorwks.dll Errors
 
@@ -56,6 +68,10 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
  In some cases, mscorwks.dll errors could indicate a [registry](https://www.lifewire.com/windows-registry-2625992) problem, a virus or malware issue, or even a [hardware](https://www.lifewire.com/computer-hardware-2625895) failure.
 
 ![mscorwks DLL error message in Windows](https://www.lifewire.com/thmb/dZT1XNgoWLBUoRuEHJKvXPvozH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mscorwks-dll-error-message-5aa6a2aa875db90037fef419.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are several ways mscorwks.dll errors can show up on your computer. Here are some of the more common error messages you might see:
 
@@ -94,12 +110,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-uniting-your-favorite-sounds-a-complete-walkthrough-for-making-youtube-playlists-onlinemobile/"><u>[Updated] Uniting Your Favorite Sounds A Complete Walkthrough for Making YouTube Playlists Online/Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-uavs-the-basics-of-drone-operations/"><u>[Updated] Unveiling UAVs The Basics of Drone Operations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-standard-to-spectacular-your-guide-to-selecting-a-stellar-4k-display/"><u>2024 Approved From Standard to Spectacular Your Guide to Selecting a Stellar 4K Display</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-perfect-shots-effortless-streaming-dslr-on-pcmac/"><u>2024 Approved Perfect Shots, Effortless Streaming DSLR on PC/Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/circular-engine-kit-for-2024/"><u>Circular Engine Kit for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-a-roku-set-top-box-that-wont-start/"><u>Diagnosing and Repairing a Roku Set Top Box That Won't Start</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-batch-unfriend-users-on-snapchat-with-ease/"><u>How to Batch Unfriend Users on Snapchat with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-video-standards-focus-on-aspect-ratios/"><u>In 2024, Twitter's Video Standards Focus on Aspect Ratios</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-uncover-the-health-perks-of-asmr-sounds/"><u>In 2024, Uncover the Health Perks of ASMR Sounds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-apple-vision-pro-tips-and-tricks-for-flawless-screen-captures-and-recordings/"><u>Mastering Apple Vision Pro: Tips & Tricks for Flawless Screen Captures & Recordings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-the-savings-galaxy-a-complete-breakdown-of-amazon-prime-day-2024/"><u>Navigating Through The Savings Galaxy: A Complete Breakdown of Amazon Prime Day 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-ahead-of-the-curve-with-applen-date-announcements-insider-tips-and-upcoming-trends/"><u>Stay Ahead of the Curve with Apple'n': Date Announcements, Insider Tips & Upcoming Trends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-retrieve-deleted-messages-from-your-gmail-inbox/"><u>Steps to Retrieve Deleted Messages From Your Gmail Inbox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-2024s-best-iphones-in-depth-analysis-and-professional-opinions-zdnet/"><u>The Ultimate List of 2024'S Best iPhones: In-Depth Analysis and Professional Opinions | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mac-system-optimizers-of-2022-picking-the-perfect-app-from-expert-reviews-techradar/"><u>Top Mac System Optimizers of 2022: Picking the Perfect App From Expert Reviews | TechRadar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncovering-hidden-potential-with-google-photos/"><u>Uncovering Hidden Potential with Google Photos</u></a></li>
+</ul></div>
 

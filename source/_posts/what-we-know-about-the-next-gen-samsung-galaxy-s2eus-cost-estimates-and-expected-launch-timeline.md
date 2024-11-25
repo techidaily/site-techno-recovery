@@ -1,7 +1,7 @@
 ---
 title: "What We Know About the Next-Gen Samsung Galaxy S2eus: Cost Estimates & Expected Launch Timeline"
-date: 2024-09-08T16:09:32.591Z
-updated: 2024-09-15T16:31:55.737Z
+date: 2024-11-20T16:04:28.443Z
+updated: 2024-11-25T02:38:15.209Z
 categories:
   - BestProducts
 description: "This Article Describes What We Know About the Next-Gen Samsung Galaxy S2eus: Cost Estimates & Expected Launch Timeline"
@@ -47,18 +47,15 @@ January or February 2025 is our best guess right now.
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  Samsung Galaxy S25 pre-orders will start when the phones are announced early next year.
 
  Interested in a foldable phone? Samsung's[Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) and[Z Flip 6](https://www.lifewire.com/samsung-galaxy-z-flip-6-8621840) are coming this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy S25 Features
 
@@ -78,16 +75,7 @@ January or February 2025 is our best guess right now.
  Aside from the possibility of some slight design changes (that's all we've heard; no details yet), here are the bigger changes we're looking forward to:  
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Newer Processor
@@ -97,10 +85,7 @@ January or February 2025 is our best guess right now.
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Larger Displays
@@ -119,11 +104,19 @@ January or February 2025 is our best guess right now.
 
  It also looks like[the battery isn't changing either](https://www.androidauthority.com/leak-samsung-galaxy-25-battery-3451473/) . The same 4000mAh battery found in the S24 might be used for at least another year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Other Changes
 
 * In addition to faster RAM, these phones might come with faster hard drives,[potentially doubling the speed to 8 GB/s](https://www.sammobile.com/news/next-gen-samsung-galaxy-phones-faster-storage/) . This, again, is useful for everything you do on your phone but is especially beneficial for all the local AI smarts the S25 lineup will surely include.
 * The S24 supports fast wired charging at 25W, which is a bit slower than similar devices like the Pixel 8 which is rated for 27W. We haven't seen any leaks about this changing next year, but we can still hope for the best.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Latest News About Samsung Galaxy S25
 
@@ -148,5 +141,26 @@ January or February 2025 is our best guess right now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-guide-to-muting-instagram-accounts/"><u>[New] 2024 Approved Guide to Muting Instagram Accounts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-ultimate-guide-to-choosing-a-top-tier-gif-maker/"><u>[Updated] In 2024, Ultimate Guide to Choosing a Top-Tier GIF Maker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-stops-issuing-sales-forecasts-due-to-major-client-order-cancellations/"><u>Asetek Stops Issuing Sales Forecasts Due to Major Client Order Cancellations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-effortlessly-upgrading-to-a-new-iphone-tips-and-tricks-by-zdnet-professionals/"><u>Expert Advice on Effortlessly Upgrading to a New iPhone: Tips and Tricks by ZDNet Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-creme-de-la-creme-of-computers-in-2er-2024-a-head-to-head-comparison-between-apple-and-others-on-zdnet/"><u>Exploring the Crème De La Crème of Computers in 2Er 2024: A Head-to-Head Comparison Between Apple and Others on ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-visual-anomalies-a-comprehensive-tutorial-for-screen-distortion-and-uneven-colors/"><u>Fixing Visual Anomalies - A Comprehensive Tutorial for Screen Distortion & Uneven Colors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/multimedia-annotator/"><u>Multimedia Annotator</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/newbie-friendly-tutorial-install-and-enjoy-windows-11-on-your-latest-hard-disk-setup/"><u>Newbie-Friendly Tutorial: Install and Enjoy Windows 11 on Your Latest Hard Disk Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-innovation-essential-ai-traits-for-apples-success-against-industry-leaders/"><u>The Future of Innovation: Essential AI Traits for Apple's Success Against Industry Leaders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-digital-wave-unleashing-potential-with-verizons-5g-innovation/"><u>The Next Digital Wave: Unleashing Potential with Verizon's 5G Innovation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-players-handbook-on-how-to-dominate-in-the-royal-match-challenge/"><u>The Player's Handbook on How to Dominate in the Royal Match Challenge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-25-unbeatable-christmas-tablet-offers-hunt/"><u>Top 25 Unbeatable Christmas Tablet Offers: Hunt</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-honor-70-lite-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Honor 70 Lite 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-by-tech-experts-cnet/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews by Tech Experts - CNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-display-quality-at-a-bargain-premium-lightweight-laptop-sale-alert/"><u>Unbeatable Display Quality at a Bargain - Premium Lightweight Laptop Sale Alert!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-how-to-disable-pin-locking-in-windows-11/"><u>Unlock the Secrets: How to Disable Pin Locking in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V30 | Dr.fone</u></a></li>
+</ul></div>
 

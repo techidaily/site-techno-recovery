@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside!
-date: 2024-09-08T16:13:14.951Z
-updated: 2024-09-15T16:03:54.106Z
+date: 2024-11-23T11:29:30.275Z
+updated: 2024-11-24T17:15:14.443Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside!
@@ -21,9 +21,18 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -43,13 +52,6 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -64,13 +66,6 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -82,6 +77,10 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -91,6 +90,10 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -123,10 +126,7 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Was this page helpful?
@@ -156,5 +156,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-metaverse-muse-a-reflective-collection-of-thoughts-arvr/"><u>[New] Metaverse Muse A Reflective Collection of Thoughts [AR/VR]</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ranchers-revelry-best-friendly-farming-titles-for-gathering-pals-for-2024/"><u>[Updated] Ranchers' Revelry Best Friendly Farming Titles for Gathering Pals for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/15-for-your-next-tech-leap-zdnet/"><u>15 for Your Next Tech Leap | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-electric-cars-match-the-lifespan-of-traditional-gasoline-models-insights-into-ev-endurance/"><u>Can Electric Cars Match the Lifespan of Traditional Gasoline Models? Insights Into EV Endurance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-improvements-for-androids-ascension-as-the-preferred-os-over-ios-insights-from-tech-experts/"><u>Essential Improvements for Android's Ascension as the Preferred OS Over iOS - Insights From Tech Experts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-easy-mp3-conversion-from-mp3-files-to-youtube-videos-3-ways/"><u>In 2024, Easy MP3 Conversion From MP3 Files to YouTube Videos [3 Ways]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y100-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y100 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-and-easy-avi-file-merger-for-windows-11-8-and/"><u>Quick and Easy AVI File Merger for Windows 11, 8 &</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-halo-3-from-exiting-unexpectedly-a-comprehensive-troubleshooting-guide-for-gamers/"><u>Stop Halo 3 From Exiting Unexpectedly: A Comprehensive Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranked-mac-maintenance-tools-of-2022-the-editors-picks-featured/"><u>Top-Ranked Mac Maintenance Tools of 2022: The Editors' Picks Featured</u></a></li>
+</ul></div>
 

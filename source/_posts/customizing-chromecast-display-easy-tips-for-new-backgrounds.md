@@ -1,7 +1,7 @@
 ---
 title: "Customizing Chromecast Display: Easy Tips for New Backgrounds"
-date: 2024-09-11T16:05:18.453Z
-updated: 2024-09-15T16:14:08.657Z
+date: 2024-11-23T16:59:57.674Z
+updated: 2024-11-25T06:52:38.221Z
 categories:
   - BestProducts
 description: "This Article Describes Customizing Chromecast Display: Easy Tips for New Backgrounds"
@@ -23,6 +23,10 @@ Close
 
  There is no way to select specific personal photos for Chromecast to display in Ambient Mode. It can display your photos, but Chromecast uses machine learning to automatically curate the best images instead of allowing you to select specific images.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Do I Put Pictures on My Chromecast Backdrop? 
 
  By default, Chromecast displays a slideshow of featured images from Google whenever you aren’t casting anything. This is called Ambient Mode. The background images displayed during Ambient Mode fit into several categories, like nature, art, and landscapes. Since no single image stays on the screen for very long, this feature acts as a screensaver.
@@ -34,6 +38,10 @@ Close
 * **Google Photos** : These are your photos on your phone or uploaded to Google. You can choose to see photo highlights or pictures of specific people.
 * **Art Gallery** : This is the default option. It automatically pulls curated images from many categories, but you can choose to only see specific images, like fine art, for example, if you prefer.
 * **Experimental** : This setting changes from time to time and allows you to select new sources and content, like a low bandwidth mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do I Change the Background on My Chromecast? 
 
@@ -47,12 +55,22 @@ Close
 4. Tap**Google Photos** .  
 ![Chromecast > Personalize Ambient > Google Photos in app](https://www.lifewire.com/thmb/WGYadP41V_EpAPSuUDSlZKHV_A0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW34-8bb163c5ad6e44e3a7b8a3836b4487f6.jpg)  
  Want to customize a selection of Google-curated images?**Skip to step 11** instead of tapping Google Photos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. To use a selection of your best photos, tap**Recent highlights** .  
  If you tap Recent Highlights, you can close Google Home and your photos will be displayed on your Chromecast. If you prefer photos of people, continue to the next step.
 6. To use photos of people, tap**Family & friends** .
 7. Tap the**people** you want to include in your slideshow.  
 ![Recent Highlights, Family & Friends, and selected photos in Chromecast app](https://www.lifewire.com/thmb/61z8TFTOealSgZ3j_EUM2WGkjgA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW35-24ac6e83e9e240908ce717ed5b8134b3.jpg)
 8. Tap**Confirm** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Tap**Continue** .
 10. Your Chromecast will now display photos of your selected family and friends during Ambient Mode. If you want to select from Google curated images instead, tap the**back arrow** .  
 ![Confirm > Continue, and back arrow in Chromecast app](https://www.lifewire.com/thmb/o-kLAJjl6Ac58RaEO5kDuvohdYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW-cf9fbe4b987a47788a1bef9a4a74851e.jpg)
@@ -62,34 +80,19 @@ Close
 13. When you’re satisfied with your selections, tap the**back arrow** .  
 ![Art gallery, selected image, and back arrow in Chromecast app](https://www.lifewire.com/thmb/20q4xHx_KtSWHu5_7jXHcm-DUPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW1-77ab3ae446f440a89d7e79a2fd7d2a93.jpg)
 14. Ambient Mode will now display the images you want on your Chromecast background. If you want to adjust additional Ambient Mode settings, swipe up to scroll down.
-15. Tap**Hide** under Personal Photo Data to hide personal information in Ambient Mode. Tap**Live Albums Only** to use just your live albums. Tap a display time to change your slideshow speed.  
-![Hide personal data, Live albums only, and slideshow speed in Chromecast app](https://www.lifewire.com/thmb/EpMujR313_dPd0O6nLNQy3VVA-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW2-ca759fbff31b43f38bafc658da596862.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+15. Tap**Hide** under Personal Photo Data to hide personal information in Ambient Mode. Tap**Live Albums Only** to use just your live albums. Tap a display time to change your slideshow speed.  
+![Hide personal data, Live albums only, and slideshow speed in Chromecast app](https://www.lifewire.com/thmb/EpMujR313_dPd0O6nLNQy3VVA-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW2-ca759fbff31b43f38bafc658da596862.jpg)
 
 ##  How Do I Get Chromecast to Show My Pictures? 
 
  If you select the Recent Highlights or Family & Friends options using the process described above, Chromecast will show your pictures during Ambient Mode. However, there is no way to have it show specific pictures. You can adjust which pictures are displayed in a limited way by only allowing live albums in Ambient Mode settings in the Google Home app, but you can’t choose specific photos.
 
  If you want to display a specific picture, you need to[ cast photos to your Chromecast](https://www.lifewire.com/how-to-cast-google-photos-using-chromecast-5187994) from your phone or computer. You can accomplish this by opening an image in the Google Photos website on your computer or Google Photos app on your phone and clicking or tapping the cast icon. The selected photo will then appear on the TV or monitor your Chromecast is connected to.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Where Do Google Featured Photos Come From? 
 
@@ -129,5 +132,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-japanese-aesthetics-on-the-go-applying-anime-filters-to-snaps-for-2024/"><u>[New] Japanese Aesthetics on the Go Applying Anime Filters to Snaps for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-essential-enhancements-what-apples-vision-pro-must-do-to-triumph-professionally-insights/"><u>1. Essential Enhancements: What Apple's Vision Pro Must Do to Triumph Professionally - Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-quantum-hdr-techniques-for-professionals/"><u>2024 Approved Mastering Quantum HDR Techniques for Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pencil-showdown-unpacking-the-features-of-apple-pencil-pro-vs-apple-pencil-2-to-boost-your-ipad-experience-insights/"><u>Apple Pencil Showdown: Unpacking the Features of Apple Pencil Pro Vs. Apple Pencil 2 to Boost Your iPad Experience Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-apple-vision-pro-anxiety-for-less-unveiling-effective-budget-friendly-xr-glasses/"><u>Beat Apple Vision Pro Anxiety for Less: Unveiling Effective, Budget-Friendly XR Glasses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-your-business-communication-by-connecting-chatgpt-and-whatsapp/"><u>Boosting Your Business Communication by Connecting ChatGPT and WhatsApp</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-water-resistance-of-the-latest-iphone-model/"><u>Exploring the Water Resistance of the Latest iPhone Model</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/st-quality-screen-time-movie-hits-list-for-2024/"><u>Highest-Quality Screen Time Movie Hits List for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-effortlessly-signal-emails-as-read-on-gmail/"><u>How to Effortlessly Signal Emails as Read on Gmail</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-wireless-lan-software-installers-windows-11107-downloads-available/"><u>Intel Wireless LAN Software Installers: Windows 11/10/7 Downloads Available</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-numbers-with-gpt-3-6-efficient-methodologies/"><u>Streamlining Numbers with GPT-3: 6 Efficient Methodologies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-101-eliminating-subwoofer-feedback-and-distortions-effectively/"><u>Troubleshooting 101: Eliminating Subwoofer Feedback and Distortions Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-corrupted-files-with-windows-system-file-checker-and-deployment-image-service/"><u>Troubleshooting Tips: Fixing Corrupted Files with Windows System File Checker & Deployment Image Service</u></a></li>
+</ul></div>
 

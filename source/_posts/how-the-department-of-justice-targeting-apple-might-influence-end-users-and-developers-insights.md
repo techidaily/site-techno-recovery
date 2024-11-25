@@ -1,7 +1,7 @@
 ---
 title: How the Department of Justice Targeting Apple Might Influence End-Users & Developers, Insights
-date: 2024-11-08T20:22:27.139Z
-updated: 2024-11-16T03:35:19.677Z
+date: 2024-11-19T08:22:42.657Z
+updated: 2024-11-24T19:45:39.423Z
 tags:
   - apple
 categories:
@@ -55,10 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Security and privacy implications
@@ -78,13 +75,6 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## App Store changes
 
 Apple's financial model heavily depends on App Store commissions, which may undergo significant changes due to this lawsuit, judgment, or settlement. These changes could lead to a more dynamic market, providing consumers with more competitive pricing and a wider range of innovative app offerings. Fundamentally, it could alter the economic structure of the entire digital marketplace.
@@ -94,6 +84,10 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Reduction in App Store fees:** Antitrust rulings may require Apple to reduce its upfront commission and yearly subscription fee, which could negatively impact its revenue. However, this may lead to lower app prices for consumers and increased developer earnings.
 * **Competitive app marketplace:** If iOS is opened to third-party app stores, it could break Apple's monopoly on app distribution and create a more competitive environment where different app marketplaces fight for developer and consumer attention.
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
 
@@ -110,10 +104,7 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -126,10 +117,7 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -141,6 +129,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 > "At Apple, we innovate every day to make technology people love—designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple—where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it."
 
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -178,21 +170,16 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-maximize-viewer-interest-with-best-post-schedule/"><u>[Updated] 2024 Approved Maximize Viewer Interest with Best Post Schedule</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-influence-of-immersive-technology/"><u>[Updated] In 2024, The Influence of Immersive Technology</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-ai-enhanced-photoshop-suite-for-2024/"><u>[Updated] Top AI Enhanced Photoshop Suite for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-reveals-a-batch-of-new-features-for-fall-devices-showcasing-ai-advancements-in-iphone-ipad-and-mac-products/"><u>Apple Reveals a Batch of New Features for Fall Devices, Showcasing AI Advancements in iPhone, iPad, and Mac Products</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-mac-gif-capture-top-10-edition/"><u>Best Mac GIF Capture Top 10 Edition</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-15-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 15 with iTunes | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-16-apple-reveals-enhanced-repairability-compared-to-earlier-models-insights-from-zdnet/"><u>IPhone 16: Apple Reveals Enhanced Repairability Compared to Earlier Models - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/latest-netgear-device-password-compilation-july-2024/"><u>Latest NETGEAR Device Password Compilation (July 2024)</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-air-showdown-comparing-the-power-of-m3-vs-m2-processors-your-ultimate-buying-guide/"><u>MacBook Air Showdown: Comparing the Power of M3 Vs. M2 Processors - Your Ultimate Buying Guide!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-craft-the-ultimate-macos-document-editor-explained-tips-and-tricks/"><u>Mastering Craft: The Ultimate MacOS Document Editor Explained - Tips & Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/meta-quest-3-vs-apple-vision-pro-showdown-unpacking-zuckerbergs-insights-a-deep-dive-by-zdnet/"><u>Meta Quest 3 Vs. Apple Vision Pro Showdown: Unpacking Zuckerberg's Insights - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-complete-archive-exploring-the-most-compelling-cartoon-noise-files-new-arrivals/"><u>New In 2024, The Complete Archive Exploring the Most Compelling Cartoon Noise Files (New Arrivals)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-fixing-the-non-functional-microphone-on-steelseries-arctis-prime-headset/"><u>Solution Found: Fixing the Non-Functional Microphone on SteelSeries Arctis Prime Headset</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-the-msvbvm50dll-file-cannot-be-located-issue/"><u>Solutions for Resolving the 'Msvbvm50.dll' File Cannot Be Located Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-preordering-new-tech-iphone-15-apple-watch-series-ultra-save-big/"><u>Step-by-Step Guide to Preordering New Tech: IPhone 15, Apple Watch Series Ultra - Save Big</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-harnessing-famebits-secrets-to-thrive-with-key-channel-sponsors/"><u>[New] 2024 Approved Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-how-to-unset-security-access-code-in-windows-11/"><u>Complete Tutorial: How to Unset Security Access Code in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-ev-charging-points-near-you-using-google-maps-tips-and-tricks/"><u>Discover EV Charging Points Near You Using Google Maps – Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apple-defines-outdated-gadgets-as-vintage-insights-and-consequences-explored/"><u>How Apple Defines Outdated Gadgets as Vintage: Insights and Consequences Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icons-vanish-from-every-mobile-app-on-your-iphone-explore-fixes-and-restore-them/"><u>Icons Vanish From Every Mobile App on Your iPhone? Explore Fixes and Restore Them!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-noworrycapture-quick-and-easy-win11-recordings/"><u>In 2024, NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-bathroom-breaks-a-new-app-offers-free-health-screening-during-restroom-visits-exploring-the-future-of-wellness-monitoring/"><u>Revolutionizing Bathroom Breaks: A New App Offers Free Health Screening During Restroom Visits - Exploring the Future of Wellness Monitoring</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-pioneer-bdr-xs06-uniting-high-performance-with-easy-transportation/"><u>The Ultimate Guide to the Pioneer BDR-XS06 - Uniting High Performance with Easy Transportation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mobile-phone-offers-on-the-4th-of-july-discover-savings-with-zdnet/"><u>Top Mobile Phone Offers on the 4Th of July - Discover Savings with ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-iphones-of-2024-unveiled-and-evaluated-by-tech-gurus-zdnet/"><u>Top-Ranking iPhones of 2024 Unveiled & Evaluated by Tech Gurus | ZDNet</u></a></li>
 </ul></div>
 

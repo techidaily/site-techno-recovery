@@ -1,7 +1,7 @@
 ---
 title: "Guide: Setting Customized Finder Preferences for Main & Nested Folders"
-date: 2024-09-09T16:25:21.346Z
-updated: 2024-09-15T16:02:01.005Z
+date: 2024-11-19T14:04:58.231Z
+updated: 2024-11-25T10:22:32.641Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Setting Customized Finder Preferences for Main & Nested Folders"
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 * Use**Automator** to assign a group of sub-folders to the same Finder view as parent folder.
 
  This article describes how to adjust Finder settings so that you see folders and sub-folders exactly as you wish in Mac OS X 10.4 and later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set the Default Finder View
 
@@ -44,6 +48,11 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 3. To make it permanent, select**View, Show View Options** from the Finder menu or press**Command+J** on your keyboard.  
 ![The Show View Options command in macOS](https://www.lifewire.com/thmb/pa3daxhKJu4nBG1OQJTHafyFXm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-set-finder-views-for-folders-and-subfolders-2260912-cfee9380fe544f30b08f2f1634898dc0.jpg)
 4. Place a checkmark in the box labeled**Always open in X view** (where X is the name of the current Finder view).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Always open in" option in View Options](https://www.lifewire.com/thmb/4DbfFW-ZOUY0COxAwi8ys2lPXXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-set-finder-views-for-folders-and-subfolders-2260912-0ec13e3d03ef4a6cac9cad6099c28e78.jpg)
 5. This folder will always use the view you just selected whenever you open it.
 
@@ -60,80 +69,73 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 2. Use the**view icons** to set the view you want to use for this folder and its subfolders.  
 ![The View option icons](https://www.lifewire.com/thmb/UqVmkk-2oHIJuSSaoYIMEQ8FPRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-set-finder-views-for-folders-and-subfolders-2260912-72f81c5a0b0849ba9fd3b4b36ee9ee94.jpg)
 3. Open the**Show View Options** window by selecting it under the**View** menu or pressing**Command+J** on your keyboard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Show View Options command in macOS](https://www.lifewire.com/thmb/pa3daxhKJu4nBG1OQJTHafyFXm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-set-finder-views-for-folders-and-subfolders-2260912-cfee9380fe544f30b08f2f1634898dc0.jpg)
 4. Place a checkmark in the box labeled**Always open in X view** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The "Always open in" option in View Options](https://www.lifewire.com/thmb/4DbfFW-ZOUY0COxAwi8ys2lPXXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-set-finder-views-for-folders-and-subfolders-2260912-0ec13e3d03ef4a6cac9cad6099c28e78.jpg)
 5. Once the parent folder's Finder view is set, launch**Automator** , located in the**Applications** folder.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Automator in Finder](https://www.lifewire.com/thmb/3hgtKvexjG7TVG9wUZYWGbF1m1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2019-12-09at2.08.59PM-10bbaa6bed1147de9902a94bfbddb248.jpg)
 6. If this option appears, select**New Document** when Automator opens.  
  In Automator for earlier versions of macOS, this window doesn't open. If you don't see New Document, skip to step 7.  
 ![The New Document button in Automator](https://www.lifewire.com/thmb/nSaA1Q2751THCNCSo-OR1yO-j_g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-set-finder-views-for-folders-and-subfolders-2260912-820edce75aa1450f95c9ccc9aaaf6d6a.jpg)
 7. Select the**Workflow** template from the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Workflow template in Automator](https://www.lifewire.com/thmb/vEsmZ8hBClBDBwirlnhHW8nlJQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-set-finder-views-for-folders-and-subfolders-2260912-430150d5983d448f937588f1c1727c3d.jpg)
 8. Click the**Choose** button.  
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Choose button in Automator](https://www.lifewire.com/thmb/DMfYE3l2XB7E5wMkecpYsinNfws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-set-finder-views-for-folders-and-subfolders-2260912-0b8dfe90cc5546c5a7b9ab48b454f642.jpg)
 9. Select the**Files & Folders** item in the**Library** of available actions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Files & Folders option in Library](https://www.lifewire.com/thmb/0-NPiltIjrAb8-NfrI5bpO-v58M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-set-finder-views-for-folders-and-subfolders-2260912-665024da0e5b42b3b84657cd9df18206.jpg)
 10. In the second column, grab the**Get Specified Finder Items** action and drag it to the workflow pane.  
 ![Drag the "Get Specified Finder Items" command into the workspace](https://www.lifewire.com/thmb/dewyOOktcexpx0dUwod7gyBb4q0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-set-finder-views-for-folders-and-subfolders-2260912-91676dcdd80d423087883a60583321ee.jpg)
 11. Click the**Add** button in the**Get Specified Finder Items** action you just placed in the workflow pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Add button in Automator workflow](https://www.lifewire.com/thmb/izLQ3NLAYyrwpXifXGBUKrD1fGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-set-finder-views-for-folders-and-subfolders-2260912-e30e925fd2a44068bd06de09b71a78b3.jpg)
 12. Browse to the folder whose view settings you wish to propagate to all of its sub-folders, and then click the**Add** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Add button](https://www.lifewire.com/thmb/Qtq5KmQ7teLtjNi700TZBDLGJV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012-set-finder-views-for-folders-and-subfolders-2260912-8bb02bae6a634124ba61a5cd21444de9.jpg)
 13. Return to the Library pane and drag the**Set Folder Views** action to the**Workflow** pane. Drop the action just below the**Get Specified Finder Items** action already in the**Workflow** pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Drag the "Set Folder View" action to the workspace](https://www.lifewire.com/thmb/sDznFjuE-2coeUgl7RmxA1Mf3Sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013-set-finder-views-for-folders-and-subfolders-2260912-c6ea4922f3894a29b1c4d79bed4d48af.jpg)
 14. Use the options displayed in the**Set Folder Views** action to tweak how you want the specified folder to display. It should already show the current folder's configuration for views, but you can fine-tune some parameters here.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Folder View drop-down menu in Automator](https://www.lifewire.com/thmb/Wczpaly2z_-R8jUPy97yLstOMZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014-set-finder-views-for-folders-and-subfolders-2260912-8fd62636eb484099a3395c5d25df3043.jpg)
 15. Place a checkmark in the**Apply Changes to Subfolders** box.  
 ![The "Apply Changes to Sub-folders" box](https://www.lifewire.com/thmb/xyedZj16jkocYMXP-P_mXHFUnfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/015-set-finder-views-for-folders-and-subfolders-2260912-4db50e63fc264b5483b4b4d05255dc69.jpg)
 16. Once you have everything configured the way you want it, click the**Run** button in the top-right corner.  
 ![The Run button](https://www.lifewire.com/thmb/rJ1zY42vwk5PJ5JAM_Py8L5QgTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/016-set-finder-views-for-folders-and-subfolders-2260912-8445f658719f410499ac65fe1e3d996f.jpg)
 17. The**Finder View** options will copy to all sub-folders.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How to Enable and Use the Hidden Finder Path Bar](https://www.lifewire.com/use-macs-hidden-finder-path-bar-2260868)
 
@@ -164,5 +166,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-youtube-buffering-busted-stream-uninterrupted-new-techniques/"><u>[New] 2024 Approved YouTube Buffering Busted - Stream Uninterrupted (New Techniques)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-expert-advice-on-achieving-high-quality-gopro-videos-for-2024/"><u>[New] Expert Advice on Achieving High-Quality GoPro Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-step-by-step-guide-to-youtube-image-branding/"><u>[Updated] In 2024, A Step-by-Step Guide to YouTube Image Branding</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipate-apples-innovative-buying-experience-the-all-new-vision-pro-set-to-arrive-in-february-as-revealed/"><u>Anticipate Apple's Innovative Buying Experience: The All-New Vision Pro Set to Arrive in February, As Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-blueprint-for-configuring-your-new-ipad-insights-by-zdnet/"><u>Beginner's Blueprint for Configuring Your New iPad: Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-guide-by-zdnet-to-find-out-which-is-ideal-for-you/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Guide by ZDNet to Find Out Which Is Ideal For You</u></a></li>
+<li><a href="https://fox-info.techidaily.com/essential-tools-for-creative-video-content/"><u>Essential Tools for Creative Video Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-marvel-world-through-apple-vision-pro-on-its-launch-day-may-30-reported/"><u>Explore Marvel World Through Apple Vision Pro on Its Launch Day, May 30 | Reported</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-digital-growth-spurring-interest-in-physical-commerce-ventures/"><u>Facebook’s Digital Growth Spurring Interest in Physical Commerce Ventures</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-connecting-friends-to-global-community-facebook-as-meta-reimagined/"><u>From Connecting Friends to Global Community - Facebook as Meta Reimagined</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-to-instagram-leadership-for-2024/"><u>Step-by-Step Guide to Instagram Leadership for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tech-picks-of-2024-in-depth-comparison-of-leading-brands-like-apple-and-dell-insights/"><u>Top Tech Picks of 2024: In-Depth Comparison of Leading Brands Like Apple & Dell - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-ieframedll-issues/"><u>Ultimate Guide: Resolving IEFrame.DLL Issues</u></a></li>
+</ul></div>
 

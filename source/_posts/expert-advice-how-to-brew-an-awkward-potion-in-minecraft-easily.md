@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: How to Brew an Awkward Potion in Minecraft Easily"
-date: 2024-11-08T16:18:26.619Z
-updated: 2024-11-15T20:45:11.934Z
+date: 2024-11-18T14:59:57.764Z
+updated: 2024-11-24T16:09:16.013Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: How to Brew an Awkward Potion in Minecraft Easily"
@@ -32,30 +32,39 @@ thumbnail: https://thmb.techidaily.com/5b77fd5a0fde79a2c2eb70c6784e4159441548e49
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -67,10 +76,7 @@ Apple, Inc / USPTO
 * Microphones for commands, user identification, and calibration.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Directional Audio
@@ -81,37 +87,11 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -138,19 +118,24 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-chuckle-chronicles-hilarious-meme-crafting-simplified/"><u>[New] In 2024, Chuckle Chronicles Hilarious Meme Crafting Simplified</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-harmonizing-imagery-and-tunes-on-social-media-platforms/"><u>[New] In 2024, Harmonizing Imagery & Tunes on Social Media Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-champion-steadicams-for-uav-filmmaking-excellence/"><u>[Updated] Champion Steadicams for UAV Filmmaking Excellence</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96181019-9781401954864-crystal-blueprint/"><u>Crystal Blueprint | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/empower-your-work-from-home-setup-ipad-pro-integration-strategies-for-productivity-boosts-by-zdnet/"><u>Empower Your Work-From-Home Setup: IPad Pro Integration Strategies for Productivity Boosts by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-correct-d3dx925dll-file-is-missing-on-your-computer/"><u>How to Address and Correct 'd3dx9_25.dll File Is Missing' On Your Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-redeem-a-generous-150-apple-gift-card-when-purchasing-a-new-mac-or-ipad-for-academics-zdnets-guide/"><u>How to Redeem a Generous $150 Apple Gift Card When Purchasing a New Mac or iPad for Academics - ZDNet's Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-poco-m6-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Poco M6 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-creating-luts/"><u>In 2024, Innovative Methods for Creating LUTs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insider-tips-to-keep-an-eye-on-your-internet-service-consumption/"><u>Insider Tips to Keep an Eye on Your Internet Service Consumption</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ipados-16-revealed-top-5-new-features-unpacked-for-upcoming-ipads-showcased-at-wwdc-2024-insights-from-zdnet/"><u>IPadOS 16 Revealed: Top 5 New Features Unpacked for Upcoming iPads Showcased at WWDC 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/pemulihan-gambarfay-dasar-onedrive-yang-kembali-ke-null-setelah-sincronisasi/"><u>Pemulihan Gambar/Fay Dasar OneDrive Yang Kembali Ke Null Setelah Sincronisasi</u></a></li>
-<li><a href="https://windows11.techidaily.com/sidestepping-windows-update-error-code-0x80242016/"><u>Sidestepping Windows Update Error Code 0X80242016</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-realme-c67-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme C67 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-turn-backwards-youtube-content-inversion-tips/"><u>[New] In 2024, Turn Backwards YouTube Content Inversion Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eamless-transitions-in-vlogs-with-jump-cuts-magic/"><u>[New] Seamless Transitions in Vlogs with Jump Cuts Magic</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-tutorial-implementing-gamers-channel-banners-for-2024/"><u>[New] Ultimate Tutorial Implementing Gamers' Channel Banners for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-dissecting-the-social-media-landscape-the-case-of-triller-and-tiktok/"><u>2024 Approved Dissecting the Social Media Landscape The Case of Triller & TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-the-nuances-zoom-and-youtube-live-streaming-explored/"><u>2024 Approved Navigating the Nuances Zoom and YouTube Live Streaming Explored</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-safeguarding-and-recovering-private-snap-content/"><u>2024 Approved Safeguarding and Recovering Private Snap Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-the-m1-and-m3-macbook-pro-models-is-it-time-for-an-upgrade-insights-from-zdnet/"><u>Comparing the M1 and M3 MacBook Pro Models: Is It Time for an Upgrade? - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-virtual-terms-the-essential-differences-between-ar-vr-mr-and-xr/"><u>Decoding Virtual Terms: The Essential Differences Between AR, VR, MR and XR</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dragon-training-the-ultimate-guide-to-watching-the-how-to-train-your-dragon-series/"><u>Dragon Training: The Ultimate Guide to Watching the How to Train Your Dragon Series</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-entertainment-advanced-settings-for-the-best-apple-tv-experience/"><u>Elevate Your Entertainment: Advanced Settings for the Best Apple TV Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-assistants-how-apple-plans-to-enhance-siri-by-2025-insights/"><u>Future-Proofing Assistants: How Apple Plans to Enhance Siri by 2025 - Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-discord-from-crashing-during-live-streams-solutions-unveiled/"><u>How to Stop Discord From Crashing During Live Streams - Solutions Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-investing-in-appextract-worth-the-cost-exploring-potential-subscription-rates-of-20month/"><u>Is Investing in AppeXtract Worth the Cost? Exploring Potential Subscription Rates of $20/Month</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-p55-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel P55 Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-emails-a-comprehensive-tutorial-on-setting-up-gmails-2fa-feature/"><u>Protecting Your Emails: A Comprehensive Tutorial on Setting Up Gmail's 2FA Feature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sns-vs-competitors-a-critical-hdr-software-comparison/"><u>SNS vs Competitors A Critical HDR Software Comparison</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-building-an-oculus-questquest-2-profile-from-scratch/"><u>Ultimate Tutorial: Building an Oculus Quest/Quest 2 Profile From Scratch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-wireless-protocols-an-in-depth-look-at-80211be-80211ac-and-more/"><u>Unveiling Wireless Protocols: An In-Depth Look at 802.11Be, 802.11Ac, and More</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-7-easy-ways-to-merge-videos-without-watermarks-or-logos/"><u>Updated 7 Easy Ways to Merge Videos Without Watermarks or Logos</u></a></li>
 </ul></div>
 

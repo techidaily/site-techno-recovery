@@ -1,7 +1,7 @@
 ---
 title: "Mastering Voice Commands: A Guide to Enable Siri's Text-to-Speech on iPhone & Mac"
-date: 2024-09-11T16:01:38.532Z
-updated: 2024-09-15T16:23:24.197Z
+date: 2024-11-17T20:35:23.822Z
+updated: 2024-11-24T17:12:42.889Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Voice Commands: A Guide to Enable Siri's Text-to-Speech on iPhone & Mac"
@@ -27,11 +27,20 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
 3. Enable**Speak Screen** to hear the entire screen with a two-finger swipe from the top to the bottom of the screen.  
 ![An iOS user accesses the Spoken Content settings](https://www.lifewire.com/thmb/Bjn_gbyvBF3yjtHF41HyJxb4Qso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOSSpokenContent-0e71ddcbef89402b8ec0cbc5f1a3329f.jpg)
 4. Select**Speech Controller** and enable the**Show Controller** toggle button. The Speak Controller gives you quick access to the Speak Screen and Speak on Touch features with the help of an overlay on the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Spoken content settings in iOS](https://www.lifewire.com/thmb/ylf2BNsi37DP0v0NYOn9kvBA30E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOSSpokenContent2-09a5b83596ff4e6989b85938657427ad.jpg)
 5. The other settings on the Spoken Content screen allow you to select**Voices** and adjust the**Speaking Rate** . Use**Pronunciations** to add difficult words to a list and have them voiced precisely.**Typing Feedback** is another accessibility feature that provides voice feedback as it spells each character, entire words, auto-corrections, auto-capitalizations, and typing predictions. Enable this only if necessary.
 6. [To use Siri](https://www.lifewire.com/use-siri-on-iphone-12-5084595) , long-press the button on the right side or trigger it with the “Hey Siri” voice command. Say something like “Speak screen” to make Siri read text on the screen. Alternatively, select the text you want Siri to read and then tap**Speak** .
 
  Enabling**Highlight Content** in the**Spoken Content** settings helps you follow the words as Siri read them. Change the highlight colors if you don’t like the default blue. It’s a handy feature for reviewing documents on the phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make Siri Read Text on macOS
 
@@ -42,10 +51,25 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
 2. Select**Accessibility** \>**Spoken Content** . Check the**Speak selection** box.  
 ![Mac accessibility settings with the Spoken Content option highlighted](https://www.lifewire.com/thmb/c0bq7RNNBDrxDv0vfw_qc6WWYJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent2-9f3887c708684f8b9cfec0b0e387a86f.jpg)
 3. Select**Options** to change the keyboard shortcut if required.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![macOS Accessibility Options](https://www.lifewire.com/thmb/I7B33RXXHsUmsee6IPS_Ab4Rq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Accessibility-Options-978adbae8c8049ee8577a2f30724ffe4.jpg)
 4. Leave the other options to their defaults or change them to have words, sentences, or both highlighted as your Mac speaks. Underlined or highlighted sentences mark the spoken sentences to help your eyes track them. Select the pop-up menu for**Highlight content** and choose**Never** to disable highlighted text.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Highlight Content options in Mac with "Never" highlighted](https://www.lifewire.com/thmb/0jTMxiH3ijI6Sd2taHnCjACVvGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent3-bea1792702df4aacbd9dadfd0458b9e1.jpg)
 5. Select the**Show controller** pop-up menu to choose the behavior of the controller. By default, the controller will appear with the spoken content and allow you to set the speed. Use the buttons to play, pause, skip ahead or back, or stop the narration. The**turtle** icon on the left slows down the speaking rate while the**rabbit** boosts it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mac Show Controller menu options with 'Automatically' highlighted](https://www.lifewire.com/thmb/0Sz__njRMCAB-J-Y3iumEA-7bSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent4-aefe0f45f6be477c9210d77742d541ce.jpg)
 6. Use the keyboard shortcut**Option** +**Esc** to make macOS read the selected text.
 
@@ -85,12 +109,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-digital-picture-perfect-with-audio-touches/"><u>[New] 2024 Approved Digital Picture Perfect with Audio Touches</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-iosplusandroid-tips-for-uninterrupted-youtube-viewing/"><u>[New] 2024 Approved IOS+Android Tips for Uninterrupted YouTube Viewing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-core-virtual-reality-cinematic-gems-for-2024/"><u>[Updated] Core Virtual Reality Cinematic Gems for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-no-cost-sms-services-on-apple-devices/"><u>Best No-Cost SMS Services on Apple Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragons-dogma-2-crashes-on-pc-solutions-to-get-you-playing-again/"><u>Dragon's Dogma 2 Crashes on PC: Solutions to Get You Playing Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-list-of-disneypluss-highest-rated-movies-right-now/"><u>Exclusive List of Disney+'s Highest Rated Movies Right Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-addition-to-iphone-16-phones-the-new-camera-buttons-features-revealed-by-zdnet/"><u>Exploring the Latest Addition to iPhone 16 Phones: The New Camera Button's Features Revealed by ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/harmonizing-content-with-ig-beats/"><u>Harmonizing Content with IG Beats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-create-360-degree-photosimages-with-fisheye-lens/"><u>How to Create 360 Degree Photos/Images with Fisheye Lens</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-5-free-m4a-editor-software/"><u>In 2024, Top 5 Free M4A Editor Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/projector-buying-checklist-key-aspects-to-evaluate-before-making-your-purchase/"><u>Projector Buying Checklist: Key Aspects to Evaluate Before Making Your Purchase</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-gen-samsung-flip-phone-all-about-the-upcoming-galaxy-z-flip-model-specs-and-release-insights/"><u>The Next-Gen Samsung Flip Phone? All About the Upcoming Galaxy Z Flip Model - Specs and Release Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Get Rid of the Blue Cast on Screen – 8 Proven Fixes
-date: 2024-09-14T16:08:40.364Z
-updated: 2024-09-15T16:03:46.575Z
+date: 2024-11-21T11:19:16.607Z
+updated: 2024-11-24T17:20:34.400Z
 categories:
   - BestProducts
 description: This Article Describes How to Get Rid of the Blue Cast on Screen – 8 Proven Fixes
@@ -27,16 +27,35 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
 2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
 ![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
  In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
 4. Plug your MacBook into power.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Connect your MacBook to an external monitor using an adapter if necessary.
 6. You can now close your MacBook without the external display turning off. Note that the display on the MacBook itself does turn off, just not the external monitor.
 
  If you want to use your MacBook in this configuration permanently, you can use the Mac sleep scheduler to have it sleep and night and wake up in the morning automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does My MacBook Sleep When I Close the Lid?
 
@@ -45,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
@@ -93,5 +109,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-insta-reel-power-mimicking-high-flying-tiktok-methods/"><u>[New] 2024 Approved Insta Reel Power Mimicking High-Flying TikTok Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-revolutionize-your-workflow-the-top-7-digital-tokens-makers/"><u>[Updated] 2024 Approved Revolutionize Your Workflow - The Top 7 Digital Tokens Makers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-value-for-money-4k-video-tools/"><u>[Updated] Value for Money 4K Video Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-accessory-guide-for-apple-airtags-expert-insights-and-ratings-zdnet/"><u>2024'S Ultimate Accessory Guide for Apple AirTags: Expert Insights and Ratings | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-key-considerations-to-make-when-selecting-a-pre-owned-ipad-tablet/"><u>5 Key Considerations to Make When Selecting a Pre-Owned iPad Tablet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-apple-watch-bargains-for-july-22024-exclusive-deals-curated-by-zdnet/"><u>Discover the Ultimate Apple Watch Bargains for July 2^[/2024 | Exclusive Deals Curated by ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-logged-ideport0-control-defect/"><u>Error Logged: Ideport0 Control Defect</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-huawei-nova-y71-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Huawei Nova Y71</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hing-a-sports-vlog-on-apple-computers/"><u>Launching a Sports Vlog on Apple Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversal-of-extra-privileges-win11-standardization-tutorial/"><u>Reversal of Extra Privileges: Win11 Standardization Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streaming-newbies-watch-this-influenced-by-lifewires-recent-movie-picks/"><u>Streaming Newbies, Watch This! Influenced by Lifewire's Recent Movie Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-electric-demystifying-the-inner-workings-of-modern-electric-motorbikes/"><u>The Future Is Electric: Demystifying the Inner Workings of Modern Electric Motorbikes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-wireless-charging-solutions-in-depth-reviews-and-comparisons-by-tech-experts-pcmag/"><u>Top-Rated Wireless Charging Solutions : In-Depth Reviews and Comparisons by Tech Experts | PCMag</u></a></li>
+</ul></div>
 

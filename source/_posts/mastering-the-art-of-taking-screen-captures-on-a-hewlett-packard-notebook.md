@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Taking Screen Captures on a Hewlett-Packard Notebook
-date: 2024-11-12T19:38:15.392Z
-updated: 2024-11-16T04:31:32.430Z
+date: 2024-11-24T03:13:03.748Z
+updated: 2024-11-24T19:38:43.981Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Taking Screen Captures on a Hewlett-Packard Notebook
@@ -23,6 +23,10 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 
  This article teaches you how to purge the internet browser cache in[popular browsers](https://www.lifewire.com/top-internet-browsers-4589106) like Chrome, Firefox, Safari, Opera, Edge, and Vivaldi, plus their respective mobile browser apps.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Clear Cache in Chrome
 
  Assuming you use a keyboard, the quickest way to the**Clear browsing data** window in Google Chrome is by using the Windows keyboard shortcut**Ctrl** +**Shift** +**Del** . If you're[wiping the Chrome cache on a Mac](https://www.lifewire.com/clear-cache-chrome-mac-5211561) , the shortcut is**Command** +**Shift** +**Delete** .  
@@ -37,10 +41,7 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 ![The cached images and files checkbox in Chrome's Clear Browsing Data prompt](https://www.lifewire.com/thmb/koYvaD17zNjG2ivlceG6uNqoKBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-clear-cached-images-files-b5adb033e0a94b35bf6e353477d5ebd5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Clear Cache in the Chrome Mobile App
@@ -54,6 +55,10 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 5. Tap**Clear data** \>**Clear** on Android, or**Delete Browsing Data** \>**Delete Browsing Data** on iOS.  
 ![The Clear browsing data screen in the Chrome mobile app](https://www.lifewire.com/thmb/PgBnwC8X79xf4XgE7ZcpYBdj_Rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-app-clear-cache-8431483fb047400cb98ea15cdf52e745.png)  
  Chrome on Android will suggest keeping data from sites you visit often. The choice is yours but to delete_all_ of Chrome's cache, you'll need to keep those items selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Clear the Firefox Cache
 
@@ -71,16 +76,14 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 ![The Firefox menu in Windows](https://www.lifewire.com/thmb/D8-cMayZxLKdXZ4-m6_U2i0-W0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-menu-2516fa793c7c4037b7195c85ad0ad39e.png)
 2. Choose**Privacy & Security** from the left, then scroll to**Cookies and Site Data** on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Select**Clear Data** .  
 ![A screenshot of Firefox Privacy & Security settings with the Clear Data button highlighted](https://www.lifewire.com/thmb/305zytHAvtTSwvpHVrJleyrOKPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-clear-cache-2617980-fcf21f4998eb49a4ba554b437480495b.jpg)
 4. In the Clear Data screen that opens, select**Cached Web Content** . The other option, if selected, will delete the cookies in Firefox.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of Firefox's Clear Data screen with the "Cached Web Content" option highlighted](https://www.lifewire.com/thmb/bRYm9w2R5MGWJFdUszJpBw5bfvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-clear-cache-2617980-2ad341e9aad648e0a802ad67de99bea8.jpg)
 5. Choose**Clear** .  
 ![A screenshot of Firefox's Clear Data screen with the Clear button highlighted](https://www.lifewire.com/thmb/d_d8vxFEeGzd47bAlUlzNfN63B4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-clear-cache-2617980-68fece98261142bfa992277033e0898b.jpg)
@@ -105,6 +108,10 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 ![Safari window showing Develop > Empty Caches](https://www.lifewire.com/thmb/7PJ9p7azS1KiHkCpd8srSLt-LiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-clear-cache-2617980-193b017602454678abc4ba5c7685d41f.jpg)
 
  If you don't see**Develop** on your Safari menu bar, go to**Safari** \>**Preferences** \>**Advanced** , and then select**Show Develop menu in menu bar** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache in the Safari Mobile App
 
@@ -144,6 +151,10 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 5. Select**Clear data** on Android, or**Clear** on iOS.  
 ![Opera app Settings, Privacy & Security, and Clear Data screens](https://www.lifewire.com/thmb/R2V9Xdno9Yjf7y80Bd1ca8duVpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-cache-purge-android-app-1b5d8f0113b7474b8d5f92bc5a170a00.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Clear Browsing Data for Edge
 
  Clearing the cache in Microsoft Edge is done via the**Delete browsing data** menu.
@@ -159,35 +170,16 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 2. Select**Privacy, search, and services** on the left followed by**Choose what to clear** on the right.  
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Privacy, Search, and Services tab selected in the Edge browser](https://www.lifewire.com/thmb/CW8mbgslkfinSW15SA4Bi0Vez9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-privacy-settings-9658d15cdccf4b46b41eddf5d7d40c5c.png)
 3. To purge the browsing cache in Edge, make sure**Cached images and files** is selected, then click**Clear now** . You can also clear the cookies, browsing history, and more.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The cached images and files option chosen in the Edge delete browsing data prompt](https://www.lifewire.com/thmb/xxLrSqvF_B_JmonmgYMDBwmToSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-clear-cache-files-98bb06bbb1354b76b7ebec2211543348.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Clear Cache in the Edge Mobile Browser
@@ -214,17 +206,7 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 3. Choose**Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Clear Cache in the Vivaldi Mobile Browser
@@ -246,10 +228,7 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
  Having a local copy of a web page makes for quick loading on your next visit because your computer or mobile device doesn't have to download it from the internet again. Over time, however, the cache may take up a big chunk of your computer's storage.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Do You Have to Clear Cache?
@@ -313,24 +292,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars/"><u>[New] 2024 Approved How to Skip the Slip-Ups The 8 Must-Avoid Mistakes for New YouTube Stars</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-overcoming-obstacles-to-display-videos-prominently/"><u>[New] 2024 Approved Overcoming Obstacles to Display Videos Prominently</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-exploring-tech-worlds-dissecting-ar-mr-and-vr-for-2024/"><u>[New] Exploring Tech Worlds Dissecting AR, MR, & VR for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-spotifys-marketplace-for-ultimate-ad-success/"><u>[Updated] 2024 Approved Mastering Spotify's Marketplace for Ultimate Ad Success</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-best-practices-for-filming-and-sharing-immersive-content-on-fb/"><u>[Updated] In 2024, Best Practices for Filming and Sharing Immersive Content on FB</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-how-to-download-tiktok-musically-videos-quickly/"><u>[Updated] In 2024, How to Download TikTok (Musical.ly) Videos Quickly?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2023s-ultimate-guide-to-apple-watch-screen-protectors-the-best-choices-as-reviewed/"><u>2023'S Ultimate Guide to Apple Watch Screen Protectors: The Best Choices, as Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-unveils-latest-ai-innovations-at-wwdc-expectation-vs-reality/"><u>Apple Unveils Latest AI Innovations at WWDC - Expectation Vs. Reality</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-ev-home-charger-setup-all-inclusive-tips-and-tricks/"><u>DIY EV Home Charger Setup: All-Inclusive Tips and Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/forget-rice-apple-recommends-these-methods-to-revive-your-wet-smartphone-exclusive-guide/"><u>Forget Rice, Apple Recommends These Methods to Revive Your Wet Smartphone | Exclusive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-apples-vision-pro-might-transform-your-sky-high-experience-in-economy-class/"><u>How Apple's Vision Pro Might Transform Your Sky-High Experience in Economy Class</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-poco-f5-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Poco F5 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-v30-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo V30 Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-sonos-s2-with-the-latest-app-update-features-and-hidden-drawbacks-revealed-zdnet/"><u>Mastering Sonos S2 with the Latest App Update - Features & Hidden Drawbacks Revealed | ZDNet</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/nikon-video-editing-made-easy-a-beginners-guide-to-pro-results-for-2024/"><u>Nikon Video Editing Made Easy A Beginners Guide to Pro Results for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stream-and-watch-in-stunning-detail-with-hitachis-4k-smart-televisions-and-built-in-roku-technology/"><u>Stream & Watch in Stunning Detail with Hitachi's 4K Smart Televisions and Built-In Roku Technology</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-accessories-comprehensive-reviews-by-experts/"><u>Top Rated MagSafe Accessories : Comprehensive Reviews by Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-upgrading-to-an-apple-watch-series-10-is-unnecessary-a-look-at-the-enduring-value-of-my-series-7/"><u>Why Upgrading to an Apple Watch Series 10 Is Unnecessary - A Look at the Enduring Value of My Series ^[7]</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-e-identity-revamp-personal-cartoon-character-blueprint/"><u>[New] 2024 Approved E-Identity Revamp Personal Cartoon Character Blueprint</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-worlds-confrontation-metaverse-vs-omniverse-explored/"><u>[New] Immersive Worlds Confrontation Metaverse Vs. Omniverse Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-revolutionize-your-farm-life-stardews-best-7-game-updates/"><u>[New] Revolutionize Your Farm Life Stardew's Best 7 Game Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-10-smartphone-vr-gadgets-uncovered-for-2024/"><u>[New] Top 10 Smartphone VR Gadgets Uncovered for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-in-class-extensive-sweep-cameras/"><u>[Updated] Best in Class Extensive Sweep Cameras</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/iso/"><u>创建硬盘ISO镜像文件：四种全新方法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/budget-glamour-premium-tech-treasures-within-reach/"><u>Budget Glamour: Premium Tech Treasures Within Reach</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-your-screen-a-simple-guide-to-taking-screenshots-on-an-hp-laptop/"><u>Capturing Your Screen: A Simple Guide to Taking Screenshots on an HP Laptop</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-internal-audio-problems-in-audacity-for-windows-1111/"><u>Fixing Internal Audio Problems in Audacity for Windows 11/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-impact-of-google-gemini-on-making-iphones-smarter-what-you-need-to-know/"><u>The Impact of Google Gemini on Making iPhones Smarter - What You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-cellular-providers-an-insight-into-mobile-network-operators/"><u>Understanding Cellular Providers: An Insight Into Mobile Network Operators</u></a></li>
 </ul></div>
 

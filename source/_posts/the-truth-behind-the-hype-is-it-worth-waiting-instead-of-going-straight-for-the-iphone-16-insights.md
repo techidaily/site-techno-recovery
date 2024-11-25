@@ -1,7 +1,7 @@
 ---
 title: "The Truth Behind the Hype: Is It Worth Waiting Instead of Going Straight for the iPhone 16? Insights"
-date: 2024-11-10T05:11:42.171Z
-updated: 2024-11-16T04:34:28.445Z
+date: 2024-11-22T07:55:50.208Z
+updated: 2024-11-25T08:45:22.111Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -39,10 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,16 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -87,10 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,16 +124,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-short-form-spectrum-youtube-meets-tiktok/"><u>[New] Short-Form Spectrum YouTube Meets TikTok</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-12-best-html5-video-players-you-should-know/"><u>[Updated] 12 Best Html5 Video Players You Should Know</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-harness-the-power-of-video-editing-cropping-to-perfect-instagram-posts-for-2024/"><u>[Updated] Harness the Power of Video Editing Cropping to Perfect Instagram Posts for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/p-editing-apps-at-no-cost-online/"><u>10 Top Editing Apps at No Cost Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-scrutiny-of-elite-parrot-ar-20/"><u>Comprehensive Scrutiny of Elite Parrot AR 2.0</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-run-game-the-essential-10-techniques-for-subway-surfers-success/"><u>Elevate Your Run Game: The Essential 10 Techniques for Subway Surfers Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-two-premium-nomad-iphone-cases-at-no-extra-cost-bogo-offer-live-on-zdnet/"><u>Get Two Premium Nomad iPhone Cases at No Extra Cost - BOGO Offer Live on ZDNet!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/new-features-alert-discover-the-exciting-enhancements-coming-to-specific-apple-airpod-models-this-fall-techzdnet/"><u>New Features Alert! Discover the Exciting Enhancements Coming to Specific Apple AirPod Models This Fall | TechZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pros-and-cons-of-switching-to-iphone-16-insights-experts/"><u>Pros & Cons of Switching to iPhone 16: Insights Experts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/simplifying-technology-stellars-data-recovery-makeover/"><u>Simplifying Technology: Stellar's Data Recovery Makeover</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/snag-your-picks-of-best-travel-ready-iphone-covers-with-our-bogo-deal-instantly/"><u>Snag Your Picks of Best Travel-Ready iPhone Covers with Our BOGO Deal Instantly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-dynamic-delivery-dissection-episode-8-revision-for-2024/"><u>[New] Dynamic Delivery Dissection - Episode 8 Revision for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unveiling-secrets-for-instagram-chat-success/"><u>[New] In 2024, Unveiling Secrets for Instagram Chat Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlocking-success-with-youtube-on-facebook/"><u>[Updated] In 2024, Unlocking Success with YouTube on Facebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-leveraging-social-media-giants-to-skyrocket-your-marketing-game/"><u>[Updated] Leveraging Social Media Giants to Skyrocket Your Marketing Game</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-launch-apple-integrates-next-gen-m4-silicon-for-enhanced-ai-on-all-mac-devices-timeline-revealed-techbuzz/"><u>Anticipated Launch: Apple Integrates Next-Gen M4 Silicon for Enhanced AI on All Mac Devices - Timeline Revealed | TechBuzz</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-ios-18-now-compatible-iphone-models-and-installation-guide-tech-insights/"><u>Download IOS 18 Now: Compatible iPhone Models and Installation Guide | Tech Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-dialogues-keys-to-a-loving-podcast-following/"><u>Dynamic Dialogues Keys to a Loving Podcast Following</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-a-steal-get-your-hands-on-an-apple-m2-macbook-air-at-amazons-early-sale-price-of-800-exclusive-insight-by-zdnet/"><u>Score a Steal: Get Your Hands on an Apple M2 MacBook Air at Amazon's Early Sale Price of $800! Exclusive Insight by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-to-cure-persistent-screen-ghosting-effects/"><u>Step-by-Step Solutions to Cure Persistent Screen Ghosting Effects</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-edge-40-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Edge 40</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-deal-alert-apples-newly-discounted-m2-mac-mini-available-for-just-479/"><u>Unbeatable Deal Alert: Apple's Newly Discounted M2 Mac Mini Available for Just $479</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-you-should-consider-the-new-ipad-air-unveiling-four-strong-arguments-for-your-next-tech-purchase/"><u>Why You Should Consider the New iPad Air - Unveiling Four Strong Arguments for Your Next Tech Purchase</u></a></li>
 </ul></div>
 

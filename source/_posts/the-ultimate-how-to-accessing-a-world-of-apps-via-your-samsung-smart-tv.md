@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate How-To: Accessing a World of Apps via Your Samsung Smart TV"
-date: 2024-11-12T22:25:22.515Z
-updated: 2024-11-15T17:01:59.965Z
+date: 2024-11-18T10:06:47.297Z
+updated: 2024-11-25T09:16:56.507Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate How-To: Accessing a World of Apps via Your Samsung Smart TV"
@@ -26,6 +26,11 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
@@ -56,18 +61,15 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -81,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -98,16 +97,7 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -119,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -146,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,20 +163,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-navigating-the-world-of-audio-with-apods/"><u>[New] 2024 Approved Navigating the World of Audio with APods</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-updating-your-skills-regularly-for-2024/"><u>[New] Updating Your Skills Regularly for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhanced-connectivity-sending-social-media-content-between-facebook-and-whatsapp/"><u>2024 Approved Enhanced Connectivity Sending Social Media Content Between Facebook & WhatsApp</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-erasing-every-message-on-your-gmail-account-via-mobile/"><u>Complete Guide: Erasing Every Message on Your Gmail Account via Mobile</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-horizons-in-tablets-apple-event-highlights-including-the-powerhouse-m4-ipad-pro-extended-battery-life-with-the-13-inch-ipad-air-and-revolu163/"><u>Exploring the New Horizons in Tablets: Apple Event Highlights Including The Powerhouse M4 iPad Pro, Extended Battery Life with the 13-Inch iPad Air & Revolutionary Apple Pencil Pro – Detailed Insights From ZDNet!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-install-windows-10-on-a-new-hard-drive/"><u>How to Install Windows 10 on a New Hard Drive</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigate-through-naraka-bladesport-lag-proven-fixes-and-advice/"><u>Navigate Through Naraka Bladesport Lag: Proven Fixes and Advice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/next-week-you-get-a-new-iphone-enhance-your-experience-with-top-pick-anker-gadgets-featured/"><u>Next Week, You Get a New iPhone? Enhance Your Experience with Top-Pick Anker Gadgets Featured</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/premium-dj-visuals-library-seamless-download-experience/"><u>Premium DJ Visuals Library - Seamless Download Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pro-phones-showdown-google-pixel-answers-to-your-questions-and-clarifications-question-answer/"><u>Pro Phones Showdown: Google Pixel # Answers to Your Questions and Clarifications! # QUESTION # ANSWER</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-c02-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after C02 has been deleted</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transition-to-quietude-guiding-gradual-volume-reduction-in-premiere/"><u>Transition to Quietude Guiding Gradual Volume Reduction In Premiere</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultimate-picks-for-top-rated-free-srt-translation-tools/"><u>Ultimate Picks for Top-Rated Free SRT Translation Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unforgettable-communications-mastering-the-art-of-recovering-accidentally-deleted-emails-from-your-outlook-inbox/"><u>Unforgettable Communications: Mastering the Art of Recovering Accidentally Deleted Emails From Your Outlook Inbox</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-multi-monitor-support-for-your-m3-macbook-pro-inspired-by-the-versatile-m3-macbook-air-insights/"><u>Unlocking Multi-Monitor Support for Your M3 MacBook Pro, Inspired by the Versatile M3 MacBook Air | Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-leading-biz-youtube-sites-why-they-rule-for-2024/"><u>[New] 10 Leading Biz YouTube Sites Why They Rule for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unveiling-the-secrets-of-superior-tiktok-captions-top-5-strategies/"><u>[New] Unveiling the Secrets of Superior TikTok Captions (Top 5 Strategies)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-create-professional-movies-on-youtube-quickly/"><u>[Updated] Create Professional Movies on YouTube Quickly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>[Updated] In 2024, GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-deep-dive-into-youtube-writers-workshop-space/"><u>2024 Approved A Deep Dive Into YouTube’ Writers' Workshop Space</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggle-genie-selecting-the-finest-jokes-makers/"><u>2024 Approved Giggle Genie Selecting the Finest Jokes Makers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-your-ultimate-guide-to-effortless-xbox-one-image-snaps/"><u>2024 Approved Your Ultimate Guide to Effortless Xbox One Image Snaps</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728491246102-windows-11/"><u>如何在Windows 11上逆向操作：回到以前日期的两种技巧</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-5-must-have-pinterest-bot-tools-for-better-engagement/"><u>Discover These 5 Must-Have Pinterest Bot Tools for Better Engagement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-groundbreaking-synergy-between-artifice-intelligence-and-the-new-m4-ipad-pro-at-wwdc/"><u>Exploring the Groundbreaking Synergy Between Artifice Intelligence and the New M4 iPad Pro at WWDC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-relationship-between-memory-rates-delays-and-pc-agility/"><u>Exploring the Relationship Between Memory Rates, Delays, and PC Agility</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improved-system-stability-and-performance-enhancements-to-prevent-frequent-freezing-or-crashing-incidents/"><u>Improved System Stability and Performance Enhancements to Prevent Frequent Freezing or Crashing Incidents.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16-markedly-improves-on-user-repairability-apple-reveals-comparisons-with-previous-models/"><u>IPhone 16 Markedly Improves on User Repairability, Apple Reveals Comparisons with Previous Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/should-you-leap-to-the-latest-trend-a-detailed-review-of-the-iphone-16-pro-against-its-predecessor-the-14-pro-zdnet/"><u>Should You Leap to the Latest Trend? A Detailed Review of the iPhone 16 Pro Against Its Predecessor, the 14 Pro | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722863807612-troubleshooting-and-fixes-for-everyday-tv-glitches/"><u>Troubleshooting & Fixes for Everyday TV Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-showdown-assessing-the-samsung-galaxy-watch-ultra-against-apples-version-find-your-perfect-fit-cnet-reviews/"><u>Ultimate Showdown: Assessing the Samsung Galaxy Watch Ultra Against Apple's Version - Find Your Perfect Fit! | CNET Reviews</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/wie-wechsle-ich-mein-system-mit-windows-amo-ssd-laufwerk-effizient-um-die-top-2-strategien/"><u>Wie Wechsle Ich Mein System Mit Windows Amo SSD-Laufwerk Effizient Um? - Die Top 2 Strategien</u></a></li>
 </ul></div>
 

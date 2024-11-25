@@ -1,7 +1,7 @@
 ---
 title: The Rise and Fall of Yahoo! Messenger – Unveiling the History Behind Its Termination
-date: 2024-09-08T16:23:39.168Z
-updated: 2024-09-15T16:14:27.619Z
+date: 2024-11-20T09:13:03.948Z
+updated: 2024-11-25T10:06:23.699Z
 categories:
   - BestProducts
 description: This Article Describes The Rise and Fall of Yahoo! Messenger – Unveiling the History Behind Its Termination
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/3mm_dM6h5KbNMD16kmjaUSnjazs=/400x300/fi
 
 New Line Cinemas
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Chronological Order
 
  One way to watch_The Lord of the Rings_ is to watch them in the chronological order Tolkien told the tale. As Bilbo Baggins wrote, "Down from the door where it began. Now, far ahead the road has gone, and I must follow if I can."
@@ -37,6 +41,10 @@ New Line Cinemas
 
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Order of Release
 
  Do you want to watch_The Lord of the Rings_ , including_The Hobbit_ , in the order they were released? Many people do this to experience how it felt to experience the Tolkien story in the way Director Peter Jackson told it on the screen. This is because there is information and elements of the story which make more sense to moviegoers who've already seen the LOTR trilogy.
@@ -52,6 +60,10 @@ New Line Cinemas
 | _The Hobbit: The Desolation of Smaug_               | December 13, 2013 | Max                 | [•](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ea9f6fe-4cd5-5dda-2f7d-e1b3a210317a?autoplay=1&ref%5F=atv%5Fcf%5Fstrg%5Fwb&tag=lifewire-onsite-prod-20&ascsubtag=5087754%7Cn82158aa69c064a6d9a0d29aff5c71c3b07%7C) Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube |
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Right Order?
 
  While you could boil 'em, mash 'em, and stick 'em in a stew, some of the stories in_The Lord of the Rings_ set up the viewer for seeing those tales unfold in_The Hobbit_ trilogy. On the other hand, the actual storyline in The Hobbit itself serves as a backdrop to events that take place in LOTR.
@@ -59,10 +71,7 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does 'The Rings of Power' Take Place?
@@ -72,10 +81,7 @@ New Line Cinemas
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is 'The Hunt for Gollum'?
@@ -124,5 +130,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unleashing-virality-steps-to-skyrocket-your-instagram-content/"><u>[New] In 2024, Unleashing Virality Steps to Skyrocket Your Instagram Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[New] In 2024, Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-factors-to-weigh-when-looking-for-your-ideal-handheld-gaming-console/"><u>Deciding Factors to Weigh When Looking for Your Ideal Handheld Gaming Console</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-elon-musks-latest-venture-inside-insights-on-truthgpt/"><u>Exploring Elon Musk's Latest Venture: Inside Insights on TruthGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-black-ops-how-to-overcome-the-error-code-0xc0000005-challenge/"><u>Fixing Black Ops: How to Overcome the 'Error Code 0xC0000005' Challenge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-iphone-16-revolutionizes-photography-with-apples-own-version-of-google-lens-visual-smarts-according-to-zdnet/"><u>How iPhone 16 Revolutionizes Photography with Apple’s Own Version of Google Lens Visual Smarts, According to ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unlocking-the-potential-storing-insta-media-on-your-phone/"><u>In 2024, Unlocking the Potential Storing Insta Media on Your Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ordered-viewing-guide-the-ultimate-sequence-for-watching-x-men-films/"><u>Ordered Viewing Guide: The Ultimate Sequence for Watching X-Men Films</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-honor-90-gt-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Honor 90 GT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-early-bird-access-to-ipad-proairpencil-pro-with-premium-discounts-insider-info/"><u>Secure Early Bird Access to iPad Pro/Air/Pencil Pro with Premium Discounts - Insider Info</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-value-showdown-get-iphone-ipad-apple-watch-airpods-and-mac-cheaper-than-vision-pro-zdnet-insights/"><u>Tech Value Showdown: Get iPhone, iPad, Apple Watch, AirPods, and Mac Cheaper than Vision Pro | ZDNET Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Academic Savings on Tech: Navigating Through Lenovo's Student Price Cuts"
-date: 2024-09-13T16:01:48.626Z
-updated: 2024-09-15T16:24:32.886Z
+date: 2024-11-21T10:51:26.272Z
+updated: 2024-11-24T18:58:07.834Z
 categories:
   - BestProducts
 description: "This Article Describes Academic Savings on Tech: Navigating Through Lenovo's Student Price Cuts"
@@ -19,14 +19,32 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 1. Go to the[Microsoft Student and Military Discounts site](https://www.microsoft.com/en-us/store/r/student-discounts) , log in with your Microsoft account, and click**Shop Now** .  
 ![A screenshot of the Microsoft Student and Military Discounts site.](https://www.lifewire.com/thmb/X2vwXV9ttV8LhYs5flrq2E9F4I4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-get-a-microsoft-store-student-discount-c8d2274843014bbb90c744cecc473495.jpg)
 2. The site tells you you're eligible for special pricing. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -50,10 +68,7 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does Microsoft Verify Student Enrollment?
@@ -93,5 +108,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-maximize-impact-mastering-instagram-video-transforms-into-mp4/"><u>[Updated] In 2024, Maximize Impact Mastering Instagram Video Transforms Into MP4</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/designing-an-editorial-epilogue/"><u>Designing an Editorial Epilogue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207855632-how-to-fix-windows-update-error-code-0x8024002e-easily/"><u>How to Fix Windows Update Error Code 0X8024002E Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 15 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-note-12t-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi Note 12T Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/itunes-retires-exploring-apples-latest-windows-compatible-media-suite-announced/"><u>ITunes Retires: Exploring Apple's Latest Windows-Compatible Media Suite Announced</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shop-the-latest-from-wwdc-top-3-apple-releases-available-immediately-find-out-where-and-how-to-pre-order-techinsights/"><u>Shop the Latest From WWDC: Top 3 Apple Releases Available Immediately - Find Out Where and How to Pre-Order | TechInsights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-models-of-2024-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Apple Watch Models of 2024: Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-linking-your-laptop-to-television-with-an-hdmi-cable/"><u>Ultimate Guide: Linking Your Laptop to Television with an HDMI Cable</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-positivity-with-our-selection-of-the-11-greatest-inspirational-movie-gems/"><u>Unleash Positivity with Our Selection of the 11 Greatest Inspirational Movie Gems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-mystery-a-guide-on-returning-calls-from-unknown-numbers/"><u>Unlocking the Mystery: A Guide on Returning Calls From Unknown Numbers</u></a></li>
+<li><a href="https://solve-help.techidaily.com/860evo/"><u>ショックとスリリングなサムスン860EVOのファイルバックアップ無料ツール！簡単設定で自動的クローニングが可能</u></a></li>
+</ul></div>
 

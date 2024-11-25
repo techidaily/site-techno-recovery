@@ -1,7 +1,7 @@
 ---
 title: "Preventing Distractions: How to Hide YouTube From Your iPad Screen"
-date: 2024-11-11T18:24:53.156Z
-updated: 2024-11-16T02:56:45.455Z
+date: 2024-11-17T16:37:29.050Z
+updated: 2024-11-24T16:41:34.801Z
 categories:
   - BestProducts
 description: "This Article Describes Preventing Distractions: How to Hide YouTube From Your iPad Screen"
@@ -28,35 +28,40 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 3. Fill in your country, university (options will populate as you type), first and last name, date of birth, and email address. Check the box to agree to the verification process.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/RbANARHcGpEqx7ykFJQlw7ekb88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent3-a3e301e3cb8145d0af9590f894384169.jpg)
 4. Click**NEXT** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/7tGfuyn3esdJ6s8C_cTF0COO_i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent4-7c7525111bd04feca4169668a01cd7fa.jpg)
 5. Sometimes SheerID needs more information like a scan of your student ID, transcript, or other documentation from your university. Upload the files and click**SUBMIT** . YouTube says you'll get an email notification about your status within 20 minutes if you live in the U.S., and within 48 hours if you live elsewhere.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/07ZCByqXzt1wu2K99BIv8tMj010=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent5-2a7e2d362d164245b62e94a36e7b923b.jpg)
 6. If the verification is successful, SheerID will redirect you back to the YouTube Premium sign-up page. You might need to log into your YouTube account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click your profile picture.
 8. Select**Paid memberships** and follow the on-screen prompts.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/-WpwGJr3fmxf4xJ9IARe9kgVYiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent6-1b4b0214a68a4ab9849880fcedaff3b3.jpg)
 9. Click**LEARN MORE** .  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/1tWG3IuFBa1j6bGZYup9DK1N9a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent7-38cbeb35f7d9480d81a44d3d8ddc4a18.jpg)
 10. Choose a payment method or add a new one. Click**START 1-MONTH TRIAL** . After the first month, YouTube will start billing you.  
-![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/A_h1uMjvVexpll2JqR730jpwQQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent8-4fe99ffd2800473d83a5e2610d0623a0.jpg)  
- This screen is for the regular free trial. You will click 1-MONTH TRIAL.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/A_h1uMjvVexpll2JqR730jpwQQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent8-4fe99ffd2800473d83a5e2610d0623a0.jpg)  
+ This screen is for the regular free trial. You will click 1-MONTH TRIAL.
 
 ## Who Is Eligible for a YouTube Premium Student Discount?
 
  Students can sign up for a YouTube Music Premium or YouTube Premium membership at a discount. Students must be enrolled full-time at an eligible higher education institution in the U.S. and 60-plus other countries to qualify. The discounted subscriptions are valid for up to four years, and students must re-verify their eligibility each year. A company called SheerID does the verification.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the YouTube Premium Student Discount Include?
@@ -64,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
  Students get a 1-month free trial and pay about half of the monthly subscription amount. The membership includes the same benefits as a non-discounted membership. Members get access to both YouTube and YouTube Music Premium, ad-free videos and music, video and music downloads for offline viewing and listening, and the ability to play videos in the background while using other apps or when your screen is locked.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Happens When You Finish School?
@@ -105,24 +107,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-straightstreamerw11-ultra-simple-pc-screenshot-software/"><u>[New] 2024 Approved StraightStreamerW11 Ultra-Simple PC Screenshot Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-saying-goodbye-to-instagram-forever-a-detailed-walkthrough/"><u>[Updated] In 2024, Saying Goodbye to Instagram Forever A Detailed Walkthrough</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/airpods-reset-ultimate-technique-revealed-know-when-its-time-to-do-so/"><u>AirPods Reset Ultimate Technique Revealed! Know When It's Time to Do So .</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/an-introduction-to-instagram-social-media-explained-for-beginners/"><u>An Introduction to Instagram: Social Media Explained for Beginners</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-iphone-models-whats-new-in-the-iphone-15-pro-vs-iphone-14-pro-tech-insights/"><u>Comparing iPhone Models: What's New in the iPhone 15 Pro Vs. IPhone 14 Pro | Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-deep-learnings-concealed-mechanisms-ai-black-boxes-revealed/"><u>Exploring Deep Learning's Concealed Mechanisms: AI Black Boxes Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/getting-started-with-vision-pros-travel-mode-a-comprehensive-guide-for-first-timers-zdnet/"><u>Getting Started with Vision Pro's Travel Mode: A Comprehensive Guide for First-Timers | ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-a-comprehensive-guide-to-high-quality-live-streaming-with-logitech-camera/"><u>In 2024, A Comprehensive Guide to High-Quality Live Streaming with Logitech Camera</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-worth-switching-to-ios-17-a-comprehensive-guide/"><u>Is It Worth Switching to iOS 17: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-the-apple-watch-se-second-generation-a-bargain-at-80-discounted-exploring-options-after-prime-day-zdnet-analysis/"><u>Is the Apple Watch SE Second Generation a Bargain at $80 Discounted? Exploring Options After Prime Day | ZDNet Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-the-new-ipad-9th-generation-at-a-bargain-price-of-250-following-apples-most-recent-launch-tech-news/"><u>Secure the New iPad (9Th Generation) at a Bargain Price of $250 Following Apple’s Most Recent Launch | Tech News</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/shocking-advertising-strategy-by-apple-targets-leading-web-browser-explore-the-full-story-on-zdnet/"><u>Shocking Advertising Strategy by Apple Targets Leading Web Browser – Explore the Full Story on ZDNet.</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-vigilance-justified-trump-suspension-not-permanent/"><u>Social Media Vigilance: Justified Trump Suspension, Not Permanent</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-replacing-your-ipads-battery/"><u>Step-by-Step Guide: Replacing Your iPad's Battery</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/sustaining-youtube-cc-status-to-boost-engagement-for-2024/"><u>Sustaining YouTube CC Status to Boost Engagement for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-elegant-compact-sony-ps-lx310bt-unveiled/"><u>The Elegant, Compact Sony PS-LX310BT Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-science-behind-bass-management-explained-for-optimal-sound-quality/"><u>The Science Behind Bass Management Explained for Optimal Sound Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-disburses-refunds-to-eligible-macbook-buyers-under-recent-class-action-agreement-tech-news/"><u>Apple Disburses Refunds to Eligible MacBook Buyers Under Recent Class Action Agreement - Tech News</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-british-tv-dramas-available-on-netflix-this-week/"><u>Best British TV Dramas Available on Netflix This Week</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-classic-cinematography-step-by-step-guide/"><u>Crafting Classic Cinematography Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-realme-11-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Realme 11 5G.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-clean-your-home-stereo-speakers/"><u>How to Clean Your Home Stereo Speakers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-3dr-solo-unveiling-the-single-user-experience/"><u>In 2024, '3DR Solo' Unveiling the Single User Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-money-map-a-3-step-guide-for-calculating-your-youtube-income/"><u>In 2024, Unveiling the Money Map A 3-Step Guide for Calculating Your YouTube Income</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210809641-9780875168951-just-being-at-the-piano/"><u>JUST BEING AT THE PIANO | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-setting-up-a-fully-equipped-home-office-with-your-ipad-pro-insights-and-tips/"><u>Maximizing Productivity: Setting Up a Fully Equipped Home Office with Your iPad Pro - Insights & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/preserving-digital-legacy-a-beginners-handbook-on-how-to-search-and-explore-archived-websites-with-the-wayback-machine/"><u>Preserving Digital Legacy: A Beginner's Handbook on How to Search and Explore Archived Websites with the Wayback Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-your-handheld-tech-essential-the-9gen-ipad-for-a-bargain-250-post-apple-event-expert-analysis/"><u>Score Your Handheld Tech Essential: The 9Gen iPad for a Bargain $250 Post-Apple Event - Expert Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simply-connect-samsung-soundbar-comprehensive-instructions-for-tv-enthusiasts/"><u>Simply Connect Samsung Soundbar: Comprehensive Instructions for TV Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secret-a-guide-to-activating-and-utilizing-the-stealthy-file-explorer-shortcut/"><u>Unveiling the Secret: A Guide to Activating & Utilizing the Stealthy File Explorer Shortcut</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100 5G | Dr.fone</u></a></li>
 </ul></div>
 

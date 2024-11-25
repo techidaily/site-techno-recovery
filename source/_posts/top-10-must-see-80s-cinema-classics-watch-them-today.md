@@ -1,7 +1,7 @@
 ---
 title: Top 10 Must-See '80S Cinema Classics - Watch Them Today
-date: 2024-09-12T16:12:05.561Z
-updated: 2024-09-15T16:12:39.580Z
+date: 2024-11-18T06:34:50.056Z
+updated: 2024-11-25T11:07:54.997Z
 categories:
   - BestProducts
 description: This Article Describes Top 10 Must-See '80S Cinema Classics - Watch Them Today
@@ -30,8 +30,17 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 6. Select an Apple Store from the map, and then choose**Schedule** .  
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using the Apple Store App to Make Appointments
 
@@ -42,6 +51,11 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 3. On the next screen, tap**Find a store** .  
 ![Profile pic, Reservations option, and Find a Store in the Apple Store app](https://www.lifewire.com/thmb/McTZyDh1dHEy4jPR7CZmGNKvI5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-01-9cacdcf93f3a41d3851b1a2cca991204.jpg)
 4. Search for your closest Apple Store, or select one under**Nearby Stores** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose**Make a reservation** under**Genius Bar** .
 6. You'll go to Apple's support website, where you can describe your problem in the box under**Tell us what's happening** .  
  If you have the Apple Support app on your phone, the Apple Store app will direct you there instead of the website.  
@@ -51,10 +65,19 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 9. Find your Apple Store on the map.  
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
 13. Your appointment is set. You'll receive a confirmation at your email address (and by phone, if you entered it in Step 10).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Fix An iPhone That Won't Turn Off](https://www.lifewire.com/fix-iphone-wont-turn-of-4134989)
 
@@ -92,12 +115,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/outube-studio-edits-demystified-for-aspiring-filmmakers/"><u>[New] YouTube Studio Edits Demystified for Aspiring Filmmakers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-earnings-escalation-leveraging-your-youtube-channel-on-mobile-devices/"><u>[Updated] Earnings Escalation Leveraging Your YouTube Channel on Mobile Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-animation-in-instagram-stories-a-step-by-step-guide/"><u>[Updated] Mastering Animation in Instagram Stories A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-quick-tips-for-ios-screen-record/"><u>[Updated] Quick Tips for iOS Screen Record</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-art-of-amassing-attention-on-ig-a-guide-for-a-thousand-likesmonth/"><u>[Updated] The Art of Amassing Attention on IG A Guide for a Thousand Likes/Month</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-amazon-fire-stick-to-projector-easy-instructions-for-users/"><u>Connect Amazon Fire Stick to Projector – Easy Instructions for Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exciting-visionos-upgrades-to-anticipate-a-glimpse-into-potential-announcements-at-this-weeks-wwdc-zdnet/"><u>Exciting VisionOS Upgrades to Anticipate: A Glimpse Into Potential Announcements at This Week's WWDC | ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-poco-x6-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Poco X6 Pattern Lock Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/successfully-running-tiny-tinas-wonderlands-on-pc-with-bug-fixes/"><u>Successfully Running Tiny Tina's Wonderlands on PC with Bug Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-downloading-and-applying-new-fonts-on-your-ios-device/"><u>The Ultimate Guide to Downloading & Applying New Fonts on Your iOS Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-seleccion-de-aplicaciones-para-grabado-de-pantalla-en-computadores-con-windows-11-8-o-7-como-capturar-completamente-tu-escenario/"><u>Top Selección De Aplicaciones Para Grabado De Pantalla en Computadores Con Windows 11, 8 O 7: Cómo Capturar Completamente Tu Escenario</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-libgdk-win32-20-0dll-errors-on-windows/"><u>Troubleshooting Missing libgdk-win32-2.0-0.dll Errors on Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking Google Pixel 10 on the Horizon: Projections for Cost, Release Moment and Teasers From Inside Scoop"
-date: 2024-09-11T16:17:45.885Z
-updated: 2024-09-15T16:10:38.257Z
+date: 2024-11-22T01:49:01.370Z
+updated: 2024-11-24T18:55:03.180Z
 categories:
   - BestProducts
 description: "This Article Describes Groundbreaking Google Pixel 10 on the Horizon: Projections for Cost, Release Moment and Teasers From Inside Scoop"
@@ -64,6 +64,10 @@ A September 2025 release date seems like a lock.
 * Physically larger phones
 * More AI features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screen
 
  The iPhone 17 series screen is rumored to receive three notable upgrades.
@@ -78,13 +82,6 @@ A September 2025 release date seems like a lock.
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
@@ -92,10 +89,7 @@ A September 2025 release date seems like a lock.
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Camera
@@ -110,19 +104,24 @@ A September 2025 release date seems like a lock.
 
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Phone Size
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI
 
  While there are no specific rumors about the use of[AI](https://www.lifewire.com/artificial-intelligence-and-science-6386405) in the iPhone 17 yet, it's an absolute certainty that that model, and its version of the iOS, will feature lots of new AI tools. What they are depends on[what features debut with the iPhone 16/iOS 18 in 2024](https://www.lifewire.com/apple-is-using-ai-everywhere-7509132) , and how the rapidly changing AI field evolves, but count on some new artificial intelligence enhancements.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Latest News About iPhone 17
@@ -152,5 +151,21 @@ A September 2025 release date seems like a lock.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-film-to-instagram-editing-tall-videos-on-fcpx/"><u>[New] In 2024, From Film to Instagram Editing Tall Videos on FCPX</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-vcs-vidcapture-review-full-examination/"><u>[Updated] 2024 Approved VCS VidCapture Review Full Examination</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-achieve-impact-innovative-imovie-techniques-for-youtube-startups/"><u>[Updated] In 2024, Achieve Impact Innovative iMovie Techniques for YouTube Startups</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-forgetful-fun-mobile-idle-escapes/"><u>[Updated] Top 10 Forgetful Fun Mobile Idle Escapes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-solution-approach-for-fixing-the-tear-down-app-crash-problems/"><u>Comprehensive Solution Approach for Fixing the 'Tear Down' App Crash Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-step-by-step-download-of-hp-designjet-500-printer-drivers/"><u>Easy Step-by-Step Download of HP DesignJet 500 Printer Drivers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-your-twitch-experience-with-youtube-integration/"><u>In 2024, Tailoring Your Twitch Experience with YouTube Integration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-apple-vision-pro-tips-and-tricks-for-flawless-screen-captures-and-recordings/"><u>Mastering Apple Vision Pro: Tips & Tricks for Flawless Screen Captures & Recordings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-the-savings-galaxy-a-complete-breakdown-of-amazon-prime-day-2024/"><u>Navigating Through The Savings Galaxy: A Complete Breakdown of Amazon Prime Day 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-ahead-of-the-curve-with-applen-date-announcements-insider-tips-and-upcoming-trends/"><u>Stay Ahead of the Curve with Apple'n': Date Announcements, Insider Tips & Upcoming Trends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-retrieve-deleted-messages-from-your-gmail-inbox/"><u>Steps to Retrieve Deleted Messages From Your Gmail Inbox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-2024s-best-iphones-in-depth-analysis-and-professional-opinions-zdnet/"><u>The Ultimate List of 2024'S Best iPhones: In-Depth Analysis and Professional Opinions | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mac-system-optimizers-of-2022-picking-the-perfect-app-from-expert-reviews-techradar/"><u>Top Mac System Optimizers of 2022: Picking the Perfect App From Expert Reviews | TechRadar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visualizing-time-the-hyperlapse-filmmakers-guide/"><u>Visualizing Time The Hyperlapse Filmmaker's Guide</u></a></li>
+</ul></div>
 

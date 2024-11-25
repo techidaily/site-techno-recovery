@@ -1,7 +1,7 @@
 ---
 title: Top Choice of Small Form Factor Gaming PCs
-date: 2024-09-13T16:25:08.976Z
-updated: 2024-09-15T16:04:56.818Z
+date: 2024-11-22T10:10:32.758Z
+updated: 2024-11-25T05:34:08.271Z
 categories:
   - BestProducts
 description: This Article Describes Top Choice of Small Form Factor Gaming PCs
@@ -30,6 +30,11 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
@@ -49,16 +54,11 @@ These instructions apply to PCs running Windows 10 and up.
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
@@ -68,6 +68,10 @@ These instructions apply to PCs running Windows 10 and up.
  Things work a little differently on Macs, as the Apple keyboard uses option keys to insert symbols. However, you’ll have to change your keyboard settings to use the Unicode Hex Input method to do this.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
 
@@ -80,14 +84,12 @@ These instructions apply to PCs running Windows 10 and up.
 3. Check**Turn on numeric key pad** .  
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
-![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
@@ -135,5 +137,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-asus-proart-excellence-in-4k-hdr-monitoring/"><u>[New] ASUS ProArt Excellence in 4K HDR Monitoring</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-lightroom-for-android-a-complete-guide/"><u>[New] Unveiling Lightroom for Android A Complete Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>[Updated] GoPro Time Lapse Tips Create Epic Time Lapse Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-tools-for-animating-with-3d-models-for-2024/"><u>Best Tools for Animating with 3D Models for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-we-trust-chatgpt-with-our-private-details/"><u>Can We Trust ChatGPT With Our Private Details?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cracking-the-code-retrieving-lost-wi-fi-access-on-windows-11-systems/"><u>Cracking the Code: Retrieving Lost Wi-Fi Access on Windows 11 Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211111965-9798988507000-innermore/"><u>Innermore | Free Book</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-holds-the-correct-way-to-carry-iphone-and-airpods-revealed/"><u>Revolutionize Your Holds: The Correct Way to Carry iPhone & AirPods Revealed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-network-july-2024s-revised-default-passwords-for-d-link-devices/"><u>Secure Your Network: July 2024'S Revised Default Passwords for D-Link Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streaming-with-ease-how-to-watch-fubotv-on-amazons-firestick/"><u>Streaming with Ease: How to Watch FuboTV on Amazon's Firestick</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-macbook-enhancements-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated MacBook Enhancements : Comprehensive Reviews & Ratings by Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transferring-macbook-data-in-a-flash-discover-simple-methods-with-tips-experts/"><u>Transferring MacBook Data in a Flash? Discover Simple Methods with Tips Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-for-successfully-upgrading-chromecast-firmware/"><u>Ultimate Tips for Successfully Upgrading Chromecast Firmware</u></a></li>
+</ul></div>
 

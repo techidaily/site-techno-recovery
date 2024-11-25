@@ -1,7 +1,7 @@
 ---
 title: Top Mobile Phone Offers on the 4Th of July - Discover Savings with ZDNet
-date: 2024-11-11T23:18:10.961Z
-updated: 2024-11-15T23:05:17.261Z
+date: 2024-11-20T19:39:28.551Z
+updated: 2024-11-24T20:21:38.699Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -47,10 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,16 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -122,20 +114,16 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-strategic-approach-to-embedding-youtube-links-in-insta-stories/"><u>[Updated] The Strategic Approach to Embedding YouTube Links in Insta Stories</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-quick-convert-facebook-videos-to-mp4-opting-for-hd-variants/"><u>2024 Approved Quick-Convert Facebook Videos to MP4, Opting for HD Variants</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722855504728-breaking-down-the-blueprint-to-correct-a-restricted-resource-faulty-code/"><u>Breaking Down the Blueprint to Correct a Restricted Resource Faulty Code</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f14-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F14 5G?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-upcoming-innovations-on-iphone-ipad-mac-and-related-devices-in-fall-spotlighting-artificial-intelligence-enhancements/"><u>Comprehensive Guide: Upcoming Innovations on iPhone, iPad, Mac, & Related Devices in Fall - Spotlighting Artificial Intelligence Enhancements</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-users-with-likes-a-guide-to-tracking-saves-on-instagram/"><u>Discovering Users with Likes: A Guide to Tracking Saves on Instagram</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-the-best-of-wonderfox-complimentary-mobile-app-to-convert-your-dvds-on-the-go/"><u>Get the Best of WonderFox: Complimentary Mobile App to Convert Your DVDs on The Go!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/getting-ahead-with-apple-vision-pro-my-pre-order-experience-and-its-implications-for-enthusiasts/"><u>Getting Ahead with Apple Vision Pro: My Pre-Order Experience and Its Implications for Enthusiasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-valheim-low-fps-2024-tips/"><u>How to Fix Valheim Low FPS - 2024 Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-file-a-refund-claim-on-steam-platform/"><u>How to Successfully File a Refund Claim on Steam Platform</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-celebrated-20-independent-pubg-photo-sequences/"><u>In 2024, Celebrated 20 Independent PUBG Photo Sequences</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/savor-the-seeds/"><u>Savor the Seeds</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-4-ipad-pro-units-worth-skipping-in-current-market-conditions-expert-analysis/"><u>The Ultimate List of 4 iPad Pro Units Worth Skipping in Current Market Conditions - Expert Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-affordable-tunes-securing-a-student-discount-on-apple-music/"><u>Unlocking Affordable Tunes: Securing a Student Discount on Apple Music</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-explore-tiktoks-curated-collection-books-and-beyond/"><u>[New] Explore TikTok's Curated Collection Books & Beyond</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-techniques-to-apply-meta-ai-features-effectively-on-instagram/"><u>Advanced Techniques to Apply Meta AI Features Effectively on Instagram</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/architects-of-online-marvel-adventures-for-2024/"><u>Architects of Online Marvel Adventures for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-leading-mesh-wireless-networks-for-2n4/"><u>Discover the Leading Mesh Wireless Networks for 2N4!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ready-for-strange-times-how-zooms-arrival-on-the-vision-pro-headset-is-changing-meetings-forever-insights/"><u>Get Ready for Strange Times: How Zoom's Arrival on the Vision Pro Headset Is Changing Meetings Forever | Insights .</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/m2-or-m3-macbook-air-in-depth-comparison-and-buyers-guide-to-apples-newest-laptops-cnet/"><u>M2 or M3 MacBook Air? In-Depth Comparison and Buyer's Guide to Apple's Newest Laptops | CNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/retweet-vs-re-tweet-do-they-mean-the-same-thing-on-social-media/"><u>Retweet Vs. Re-Tweet: Do They Mean the Same Thing on Social Media?</u></a></li>
+<li><a href="https://facebook.techidaily.com/scrutinizing-(securityfbcom)-is-it-real-fb-safety-email/"><u>Scrutinizing @<security@fb.com>: Is It Real FB Safety Email?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-for-sending-and-receiving-text-messages-on-an-ipad/"><u>The Ultimate Walkthrough for Sending and Receiving Text Messages on an iPad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-pros-and-cons-of-joining-minecraft-realms/"><u>Unveiling the Pros and Cons of Joining Minecraft Realms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reveals-apple-abandons-its-apple-pay-later-plans-to-launch-a-new-financial-offering-soon/"><u>ZDNet Reveals: Apple Abandons Its 'Apple Pay Later', Plans to Launch a New Financial Offering Soon</u></a></li>
 </ul></div>
 

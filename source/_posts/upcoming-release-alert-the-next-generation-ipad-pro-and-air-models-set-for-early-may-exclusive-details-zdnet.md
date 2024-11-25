@@ -1,7 +1,7 @@
 ---
 title: Upcoming Release Alert! The Next Generation iPad Pro and Air Models Set for Early May - Exclusive Details | ZDNET
-date: 2024-11-14T16:30:17.751Z
-updated: 2024-11-16T03:46:39.824Z
+date: 2024-11-22T02:38:14.461Z
+updated: 2024-11-25T06:23:25.593Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -46,22 +50,12 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -70,6 +64,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -98,10 +96,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -116,13 +111,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -130,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -165,19 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-maximizing-your-social-media-impact-group-photosvideos-on-ig/"><u>[New] 2024 Approved Maximizing Your Social Media Impact Group Photos/Videos on IG</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-transforming-images-on-snapchat-an-editors-playbook/"><u>[New] 2024 Approved Transforming Images on Snapchat An Editor's Playbook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-studio-sound-techniques-mac-basics/"><u>[Updated] In 2024, Studio Sound Techniques Mac Basics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-is-investing-in-views-worth-the-potential-risks/"><u>2024 Approved Is Investing in Views Worth the Potential Risks?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-how-to-get-started-with-microsoft-365-on-your-desktop/"><u>Comprehensive Guide: How to Get Started with Microsoft 365 on Your Desktop</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-facebook-how-it-started-what-draws-users-in-and-its-unique-traits/"><u>Exploring the World of Facebook: How It Started, What Draws Users In, And Its Unique Traits</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-samsung-reclaimed-the-lead-over-apples-shipments-as-competitors-narrow-the-gap-insights/"><u>How Samsung Reclaimed the Lead Over Apple's Shipments as Competitors Narrow the Gap – Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oneplus-open-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From OnePlus Open to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtube-conversion-made-simple-learn-how-without-spending-a-dime/"><u>In 2024, YouTube Conversion Made Simple – Learn How Without Spending a Dime</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/m2-vs-m3-macbook-air-face-off-which-apple-laptop-reigns-supreme-insights/"><u>M2 vs M3 MacBook Air Face-Off: Which Apple Laptop Reigns Supreme? Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stadia-headset-woes-heres-how-you-can-re-establish-the-connection/"><u>Stadia Headset Woes? Here’s How You Can Re-Establish the Connection!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unexpected-longevity-discover-the-actual-age-of-your-apple-watch-battery-insights-from-zdnet/"><u>Unexpected Longevity: Discover the Actual Age of Your Apple Watch Battery - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-experts-take-on-magix-video-pro-x-for-2024/"><u>[New] Expert's Take on Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unveiling-the-mechanism-behind-cross-audio-blending/"><u>[Updated] 2024 Approved Unveiling the Mechanism Behind Cross-Audio Blending</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-tips-for-restarting-disrupted-fb-live-videos/"><u>[Updated] In 2024, Tips for Restarting Disrupted FB Live Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-elite-waterproof-smartwatch-selection-in-depth-reviews-and-performance-analysis-by-industry-specialists-zdnet/"><u>2024'S Elite Waterproof Smartwatch Selection: In-Depth Reviews and Performance Analysis by Industry Specialists | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-next-venture-affordable-vision-glasses-and-augmented-reality-spectacles-in-development-insights-from-zdnet/"><u>Apple's Next Venture: Affordable Vision Glasses & Augmented Reality Spectacles in Development - Insights From ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/buying-powerful-plr-content-made-easy-where-why-and-how-using-massmail-solutions/"><u>Buying Powerful PLR Content Made Easy – Where, Why, and How Using MassMail Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-steps-for-crafting-video-based-gifs-on-mobiledesktop-for-2024/"><u>Essential Steps for Crafting Video-Based GIFs on Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-brew-an-awkward-potion-in-minecraft-easily/"><u>Expert Advice: How to Brew an Awkward Potion in Minecraft Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-wake-up-call-with-our-top-7-alarm-app-picks/"><u>Find Your Perfect Wake-Up Call with Our Top 7 Alarm App Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-enhancing-pets-eyes-in-images-with-editing-techniques/"><u>Guide: Enhancing Pets' Eyes in Images with Editing Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nizing-cityscapes-and-nature-the-role-of-green-spaces-for-2024/"><u>Harmonizing Cityscapes and Nature The Role of Green Spaces for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-missing-or-corrupt-shell32dll-files-on-your-pc/"><u>How to Repair Missing or Corrupt Shell32.dll Files on Your PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-x-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone X</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-rdo-errors-masterful-fixes-to-eliminate-pc-game-interruptions-and-crashes/"><u>Say Goodbye to RDO Errors: Masterful Fixes to Eliminate PC Game Interruptions and Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sharing-your-mac-os-location-efficiently-the-complete-guide-and-benefits/"><u>Sharing Your Mac OS Location Efficiently: The Complete Guide & Benefits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-hurdles-in-audacity-with-these-effective-5-techniques/"><u>Troubleshoot Audio Hurdles in Audacity with These Effective 5 Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-waterproof-wearables-comprehensive-tests-and-expert-opinions/"><u>Ultimate Selection of Waterproof Wearables : Comprehensive Tests and Expert Opinions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiled-score-the-new-apple-watch-series-10-before-everyone-else-ordering-steps-plus-smart-discounts-inside/"><u>Unveiled: Score the New Apple Watch Series 10 Before Everyone Else - Ordering Steps + Smart Discounts Inside</u></a></li>
 </ul></div>
 

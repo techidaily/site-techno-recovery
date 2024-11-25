@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Innovations: A Comparative Look at Apple's New AirPods 4 Versus Earlier Generations | ZDNET Insights"
-date: 2024-11-14T03:38:22.685Z
-updated: 2024-11-15T20:12:05.859Z
+date: 2024-11-23T05:22:40.499Z
+updated: 2024-11-25T02:40:27.215Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -49,10 +53,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -64,10 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,22 +122,21 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-in-depth-exploration-of-morphvox-for-precise-sound-alteration/"><u>[New] 2024 Approved In-Depth Exploration of MorphVOX for Precise Sound Alteration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-color-techniques-for-professional-visual-narratives/"><u>[New] Expert Color Techniques for Professional Visual Narratives</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-gaming-and-video-content-showdown-twitch-and-youtube-compared-for-2024/"><u>[New] Gaming and Video Content Showdown Twitch & YouTube Compared for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guidelines-to-erase-youtube-recordings-on-pc/"><u>[Updated] 2024 Approved Guidelines to Erase YouTube Recordings on PC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-craft-captivating-narratives-the-best-of-the-best-10-igtv-strategies-for-brands/"><u>[Updated] Craft Captivating Narratives The Best of the Best 10 IGTV Strategies for Brands</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unraveling-the-enigma-instagram-story-follower-secrets-revealed/"><u>2024 Approved Unraveling the Enigma Instagram Story Follower Secrets Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-devotees-experience-phantom-swipes-and-taps-on-wearables-expert-fixes-inside/"><u>Apple Devotees Experience Phantom Swipes & Taps on Wearables – Expert Fixes Inside!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-innovative-leap-introducing-camera-equipped-airpods-expected-in-2026-insights-from-zdnet/"><u>Apple's Innovative Leap: Introducing Camera-Equipped AirPods Expected in 2026 - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/battle-royale-concrete-fists-vs-digital-screens/"><u>Battle Royale Concrete Fists vs Digital Screens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-true-expense-what-you-pay-for-a-complimentary-phone-from-your-cell-carrier-explored/"><u>Decoding the True Expense: What You Pay for a 'Complimentary' Phone From Your Cell Carrier - Explored</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-enhanced-snapping-with-iphone-16s-innovative-camera-button-unraveling-its-capabilities-according-to-zdnet/"><u>Explore Enhanced Snapping with iPhone 16'S Innovative Camera Button | Unraveling Its Capabilities According to ZDNET</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-essence-of-android-perfection-with-the-google-pixel-3-review/"><u>Exploring the Essence of Android Perfection with the Google Pixel 3 Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-yours-top-3-new-products-unveiled-by-apple-at-wwdc-available-immediately-for-purchase-find-stores-plus-preorder-info-on-zdnet/"><u>Get Yours: Top 3 New Products Unveiled by Apple at WWDC - Available Immediately for Purchase | Find Stores + Preorder Info on ZDNet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-live-broadcasts-a-step-by-step-guide-for-fb-users-for-2024/"><u>Mastering Live Broadcasts A Step-by-Step Guide for FB Users for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-dealing-with-missing-or-corrupt-mscorwksdll-files/"><u>Step-by-Step Tutorial: Dealing with Missing or Corrupt Mscorwks.dll Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-upgrades-for-android-how-it-can-surpass-ios-as-the-preferred-choice-insights/"><u>Top 5 Essential Upgrades for Android: How It Can Surpass iOS as the Preferred Choice - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-for-accessing-and-managing-quick-settings-on-android-phones/"><u>Ultimate Tips for Accessing and Managing Quick Settings on Android Phones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-10-best-no-cost-live-streaming-tools-android-and-iphone-guide/"><u>[Updated] 2024 Approved 10 Best No-Cost Live Streaming Tools Android & iPhone Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-firefoxs-social-media-edge-top-downloader-extensions-and-addons-for-fb-content/"><u>[Updated] FireFox's Social Media Edge Top Downloader Extensions and Addons for FB Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transforming-speeches-learn-no-cost-audio-effect-techniques-here-for-2024/"><u>[Updated] Transforming Speeches Learn No-Cost Audio Effect Techniques Here for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-intensive-analysis-sonys-high-def-action-cam/"><u>2024 Approved Intensive Analysis Sony's High-Def Action Cam</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-high-quality-finewoven-case-series-introduces-exclusive-beats-bands-the-latest-news/"><u>Apple Discontinues High-Quality FineWoven Case Series, Introduces Exclusive Beats Bands: The Latest News</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-with-smart-slack-reminder-tips-and-tricks/"><u>Boost Your Productivity with Smart Slack Reminder Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-send-and-receive-imessages-from-android-find-out-here/"><u>Can You Send and Receive iMessages From Android? Find Out Here</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comprehensive-tutorial-switching-your-pdf-reader-preferences-in-windows-10/"><u>Comprehensive Tutorial: Switching Your PDF Reader Preferences in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-insights-where-to-snag-the-best-current-offers-for-ipad-pro-ipad-air-and-apple-pencil-pro-expert-tips/"><u>Exclusive Insights: Where to Snag the Best Current Offers for iPad Pro, iPad Air, and Apple Pencil Pro - Expert Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Bootloader Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-reviewing-the-gopro-hero5-session-series/"><u>In 2024, Reviewing the GoPro Hero5 Session Series</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-10-essential-ipad-hacks-and-configurations-for-novices-and-experts-alike-insights-from-zdnet/"><u>Ultimate Guide: 10 Essential iPad Hacks & Configurations for Novices & Experts Alike - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-step-by-step-process-to-restore-your-samsung-television/"><u>Ultimate Guide: Step-by-Step Process to Restore Your Samsung Television</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-the-future-elite-key-locators-ranked/"><u>Unlocking the Future: Elite Key Locators Ranked</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-tech-reveal-apples-latest-lineup-includes-2023-macbook-air-and-next-gen-ipads-set-for-early-launch/"><u>Upcoming Tech Reveal? Apple's Latest Lineup Includes 2023 MacBook Air and Next-Gen iPads Set for Early Launch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxdvd-die-bevorzugte-software-zum-extrahieren-verbessern-and-konvertieren-von-dvd-inhalten-unter-beibehaltung-hochster-qualitat-perfekt-fur-iphone-and-and5/"><u>WinXDVD: Die Bevorzugte Software Zum Extrahieren, Verbessern & Konvertieren Von DVD-Inhalten Unter Beibehaltung Höchster Qualität – Perfekt Für iPhone & Android</u></a></li>
 </ul></div>
 

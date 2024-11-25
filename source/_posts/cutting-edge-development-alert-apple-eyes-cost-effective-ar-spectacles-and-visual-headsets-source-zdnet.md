@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Development Alert: Apple Eyes Cost-Effective AR Spectacles and Visual Headsets | Source ZDNET"
-date: 2024-11-14T21:04:51.111Z
-updated: 2024-11-16T00:59:25.007Z
+date: 2024-11-20T21:50:51.841Z
+updated: 2024-11-25T10:35:20.845Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Let's explore the potential consequences of Apple's antitrust lawsuit and what i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Apple user experience at a crossroads
 
 The success of the lawsuit against Apple could result in an era where users have more choices, including access to alternative app stores and many apps outside of Apple's curated selection. 
@@ -55,10 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Security and privacy implications
@@ -77,13 +78,6 @@ Sideloading increases the risk of malware infections, phishing attacks, data lea
 Sideloading could circumvent iOS's privacy controls, allowing apps to access and share user data without proper oversight. Apps obtained outside of the App Store might not receive timely updates, exposing users to unpatched security vulnerabilities.
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## App Store changes
 
@@ -110,10 +104,7 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -124,6 +115,10 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Payment, wallet, and digital identity diversification:** In addition to new open transaction and digital identity platforms like OpenWallet, we might see further diversification in the digital wallet and payment systems market, reducing Apple's control over financial transactions with the predominance of Apple Pay on iOS devices, and potentially lowering transaction fees.
 * **Integration of open source applications:** Easier installation and use of open source software on iOS devices, broadening the range of available tools and apps.
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
 
@@ -136,10 +131,7 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -178,20 +170,18 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-essential-tips-for-zooming-on-snapchat-shots/"><u>[New] Essential Tips for Zooming on Snapchat Shots</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-an-in-depth-look-at-video-apps-for-iphone-and-android-users/"><u>[New] In 2024, An In-Depth Look at Video Apps for iPhone & Android Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-leading-edge-vertical-mouse-picks-for-enhanced-productivity-and-comfort/"><u>2024'S Leading Edge Vertical Mouse Picks for Enhanced Productivity and Comfort</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-evaluation-of-the-ecovacs-deebot-x2-omni-robotic-vacuum-mastery-in-home-cleaning/"><u>Comprehensive Evaluation of the Ecovacs Deebot X2 Omni Robotic Vacuum: Mastery in Home Cleaning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discounted-phones-and-digital-locks-a-discourse-on-cybersecurity/"><u>Discounted Phones and Digital Locks: A Discourse on Cybersecurity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/everything-you-should-know-about-the-new-apple-studio-display-full-specs-and-key-attributes/"><u>Everything You Should Know About the New Apple Studio Display - Full Specs & Key Attributes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-cutting-edge-capabilities-of-the-latest-m4-ipad-pro-and-the-role-of-artificial-intelligence-showcased-at-apples-worldwide-developers-conferenc116/"><u>Exploring the Cutting-Edge Capabilities of the Latest M4 iPad Pro & The Role of Artificial Intelligence Showcased at Apple's Worldwide Developers Conference | Insights</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-zero-cost-movie-previews-download-youtube-cover-arts-easy/"><u>In 2024, Zero-Cost Movie Previews Download YouTube Cover Arts Easy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-new-tongues-our-favorite-no-cost-language-apps/"><u>Mastering New Tongues: Our Favorite No-Cost Language Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-your-connectivity-with-this-mighty-handheld-8-in-1-adapter-at-an-unbeatable-price-featured-by-zdnet/"><u>Maximize Your Connectivity with This Mighty Handheld 8-in-1 Adapter at an Unbeatable Price, Featured by ZDNet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-best-mirrorless-cams-top-picks-for-your-next-vlog-project-for-2024/"><u>The Best Mirrorless Cams Top Picks for Your Next Vlog Project for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-on-wheels-exploring-reasons-for-adopting-ev-technology/"><u>The Future on Wheels: Exploring Reasons for Adopting EV Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/the-new-contender-asuss-answer-to-rog-ally/"><u>The New Contender: ASUS's Answer to ROG Ally</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-the-affordable-iphone-14-ultra-is-a-game-changer-for-your-wallet-and-daily-use-in-depth-analysis/"><u>Why the Affordable iPhone 14 Ultra Is a Game Changer for Your Wallet and Daily Use - In Depth Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fabricate-comical-artwork-adobe-style/"><u>[New] Fabricate Comical Artwork, Adobe Style</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-go-frame-by-frame-on-youtube-video-5-methods-for-2024/"><u>[Updated] How to Go Frame by Frame on YouTube Video? [5 Methods] for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-apple-watchs-battery-performance-top-8-essential-settings-adjustments/"><u>Boost Your Apple Watch's Battery Performance: Top 8 Essential Settings Adjustments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-image-editing-simplified-mastering-the-art-of-cropping/"><u>Digital Image Editing Simplified Mastering the Art of Cropping</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-5-apps-for-turning-spotify-listens-into-youtube-videos/"><u>In 2024, Top 5 Apps for Turning Spotify Listens Into YouTube Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16-innovations-unveiled-multi-dimensional-spatial-capture-and-slimmed-designs-across-every-model/"><u>IPhone 16 Innovations Unveiled: Multi-Dimensional Spatial Capture & Slimmed Designs Across Every Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-screenshot-capture-guide-mastering-screen-recording-features/"><u>IPhone Screenshot Capture Guide: Mastering Screen Recording Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-grope-to-combat-excessive-resource-use-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows Grope to Combat Excessive Resource Use by Microsoft Compatibility Telemetry</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-camon-20-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Camon 20 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-reasons-behind-the-move-towards-electric-automobiles/"><u>Unveiling the Reasons Behind the Move Towards Electric Automobiles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-you-should-consider-getting-an-apple-watch-a-wearable-tech-specialists-perspective-with-6-key-reasons/"><u>Why You Should Consider Getting an Apple Watch: A Wearable Tech Specialist's Perspective with 6 Key Reasons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-favorite-phones-how-our-team-chooses-and-utilizes-their-devices-daily/"><u>ZDNet's Favorite Phones: How Our Team Chooses and Utilizes Their Devices Daily</u></a></li>
 </ul></div>
 

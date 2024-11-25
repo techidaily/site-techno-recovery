@@ -1,7 +1,7 @@
 ---
 title: "Unlock Online Functionality: Instructions to Turn on Browser Cookie Permissions"
-date: 2024-09-08T16:25:49.746Z
-updated: 2024-09-15T16:30:37.607Z
+date: 2024-11-24T08:52:25.150Z
+updated: 2024-11-24T22:24:25.554Z
 categories:
   - BestProducts
 description: "This Article Describes Unlock Online Functionality: Instructions to Turn on Browser Cookie Permissions"
@@ -45,13 +45,14 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -66,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 7, Vista, or XP
@@ -92,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
@@ -109,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -152,5 +151,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>[Updated] 2024 Approved Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/sns/"><u>「オンラインストレージやSNS向けに最適化された多様なコンテンツ配信手法」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-showdown-unpacking-the-differences-between-series-8-and-upcoming-series-10-zdnet/"><u>Apple Watch Showdown: Unpacking the Differences Between Series 8 and Upcoming Series 10 | ZDNET</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/confrontation-of-dusk-defender-and-dawn-protector-for-2024/"><u>Confrontation of Dusk Defender and Dawn Protector for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-set-up-sandisk-ssd-driver-software/"><u>Easy Steps to Download and Set Up Sandisk SSD Driver Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-the-nintendo-switch-wireless-headset-friendly-with-airpods-integration/"><u>Is The Nintendo Switch Wireless Headset Friendly With AirPods Integration?</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-error-code-0x80070570-repair-corrupted-filesdirectories/"><u>Reversing Error Code 0X80070570: Repair Corrupted Files/Directories</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-soundscape-on-your-computer-simple-steps-to-restore-audio/"><u>Revive the Soundscape on Your Computer - Simple Steps to Restore Audio</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-automatic-song-switching-on-apple-music-with-these-simple-steps/"><u>Turn Off Automatic Song Switching on Apple Music with These Simple Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-airtag-wallets-of/"><u>Ultimate Guide to the Best AirTag Wallets Of</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-affordable-apple-m3-macbook-pro-is-a-must-have-for-professionals-unveiling-its-single-compelling-feature-zdnet/"><u>Why the Affordable Apple M3 MacBook Pro Is a Must-Have for Professionals: Unveiling Its Single Compelling Feature | ZDNet</u></a></li>
+</ul></div>
 

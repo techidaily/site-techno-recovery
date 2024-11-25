@@ -1,7 +1,7 @@
 ---
 title: "All You Need to Know About the Next Google Pixel: Anticipated Price, Launch Date & Specs - Rumors Included!"
-date: 2024-09-09T16:16:56.915Z
-updated: 2024-09-15T16:23:18.098Z
+date: 2024-11-22T17:38:05.164Z
+updated: 2024-11-25T10:53:25.259Z
 categories:
   - BestProducts
 description: "This Article Describes All You Need to Know About the Next Google Pixel: Anticipated Price, Launch Date & Specs - Rumors Included!"
@@ -26,9 +26,17 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Pixel 9 Price Rumors
 
@@ -56,13 +64,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
@@ -77,6 +78,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
@@ -87,31 +92,21 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -122,10 +117,7 @@ MySmartPrice
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
@@ -149,5 +141,21 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-livestran-vs-screen-capture-titans-battle-of-software-giants-obs-and-bandicam/"><u>[New] 2024 Approved Livestran vs Screen Capture Titans Battle of Software Giants, OBS & Bandicam</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-bargain-ball-games-free-recording-and-editing-techniques-for-2024/"><u>[New] Bargain Ball Games Free Recording & Editing Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-10-top-rated-digital-video-cutting-tools/"><u>[Updated] In 2024, 10 Top-Rated Digital Video Cutting Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-continuous-unintentional-mouse-double-click-issue/"><u>Fixes for Continuous Unintentional Mouse Double-Click Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-communications-how-apple-strengthens-imessage-defenses-for-tomorrows-risks-featured-on-zdnet/"><u>Future-Proofing Communications: How Apple Strengthens iMessage Defenses for Tomorrow's Risks, Featured on ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-prepare-and-launch-your-brand-new-ipad-with-ease-tips/"><u>How to Prepare and Launch Your Brand-New iPad with Ease - Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-skills-for-efficient-zoom-podcasting/"><u>In 2024, Essential Skills for Efficient Zoom Podcasting</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-illustrators-journey-navigating-for-success-in-designing/"><u>In 2024, The Illustrator's Journey Navigating for Success in Designing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-savings-top-tips-for-purchasing-pre-owned-apple-computers-and-sidestepping-frauds/"><u>Secure Your Savings: Top Tips for Purchasing Pre-Owned Apple Computers & Sidestepping Frauds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-rebooting-your-airpods-know-when-and-how-to-do-it-right-digitalsavvy/"><u>The Ultimate Guide to Rebooting Your AirPods: Know When & How to Do It Right | DigitalSavvy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-for-responsibly-sharing-your-location-on-an-iphone/"><u>Tips for Responsibly Sharing Your Location on an iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unveiling-the-allure-of-community-based-backup-systems/"><u>Unveiling the Allure of Community-Based Backup Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-skin-perfection-without-the-price-tag-fcpx-plugin-free-tutorial/"><u>Updated In 2024, Skin Perfection without the Price Tag FCPX Plugin-Free Tutorial</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Third Gen Apple AirPods: Notable Upgrades and Performance Insights | CNET Reviews"
-date: 2024-11-12T17:14:47.130Z
-updated: 2024-11-15T21:33:13.312Z
+date: 2024-11-22T12:44:09.525Z
+updated: 2024-11-25T07:35:04.797Z
 tags:
   - apple
 categories:
@@ -34,6 +34,10 @@ Still, I went to an Apple store, ready to be excited, stunned, and -- indeed -- 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Thin ain't what it used to be
 
 Apple stores haven't changed much over the last many years, so the iPads, being the newest new things, were placed near the front door.
@@ -65,10 +69,7 @@ Please remember, though, that Apple had [inserted thinness in my mind](https://w
 So as I picked them up, I was primed to believe in the thin new world.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thinly-veiled confusion?
@@ -96,10 +97,7 @@ I couldn't resist, however, checking how much heavier it was than the 11-inch 10
 It's a fulsome 0.23 pounds heavier, yet curiously it's 0.08 pounds lighter than the new 13-inch iPad Air.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I was sold
@@ -152,16 +150,18 @@ They're great at laying it on thick, you know.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-cost-effective-action-cams-unveiled/"><u>[New] Cost-Effective Action Cams Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-effortless-multiroom-music-setup-the-pros-and-cons-of-the-newly-released-sonos-s2-app-insights-from-zdnets-latest-review/"><u>Discover Effortless Multiroom Music Setup: The Pros and Cons of the Newly Released Sonos S2 App - Insights From ZDNet's Latest Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-the-affordable-349-ipad-stole-the-show-at-apples-innovative-let-loose-event-according-to-zdnet-coverage/"><u>Discover How the Affordable $349 iPad Stole the Show at Apple's Innovative Let Loose Event, According to ZDNET Coverage</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-workflow-in-windows-11-drag-and-drop-tabs-for-efficiency/"><u>Enhance Workflow in Windows 11: Drag & Drop Tabs for Efficiency</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a05-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A05 FRP?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-reno-10-proplus-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo Reno 10 Pro+ 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-information-on-the-upcoming-apple-showcase-when-its-happening-what-to-expect-and-latest-gossip/"><u>Inside Information on the Upcoming Apple Showcase: When It's Happening, What To Expect & Latest Gossip</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/jumpstart-your-latvian-language-learning-today/"><u>Jumpstart Your Latvian Language Learning Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-revelation-how-apple-engineers-a-fortified-os-to-power-its-artificial-intelligence-and-data-hubs-in-depth-report/"><u>Tech Revelation: How Apple Engineers a Fortified OS to Power Its Artificial Intelligence and Data Hubs | In-Depth Report</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-41-unbeatable-christmas-apple-bargains-a-comprehensive-guide-by-zdnet/"><u>Top 41 Unbeatable Christmas Apple Bargains: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-vmware-esxi-80s-minimum-system-specifications-and-setup-tips/"><u>Understanding VMware ESXi 8.0'S Minimum System Specifications and Setup Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-visionary-graphics-best-cards-in-4k-space-for-2024/"><u>[New] Visionary Graphics Best Cards in 4K Space for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-seamless-shoot-and-stream-perfecting-dslr-broadcasts-from-home-pcsmacs/"><u>[Updated] In 2024, Seamless Shoot & Stream Perfecting DSLR Broadcasts From Home PCs/Macs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ai-integration-with-apples-next-gen-m4-processors-for-all-mac-devices-release-date-revealed/"><u>AI Integration with Apple's Next-Gen M4 Processors for All Mac Devices: Release Date Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-missing-zlibdll-error-on-your-computer-efficiently/"><u>Fixing the Missing zlib.dll Error on Your Computer Efficiently</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-compelling-online-livestreams-from-a-single-source/"><u>In 2024, Crafting Compelling Online Livestreams From a Single Source</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-youtube-videos-integrating-into-ppt-4-techniques/"><u>Mastering YouTube Videos Integrating Into PPT (4 Techniques)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/scan-activation-error-resolved-in-win11/"><u>Scan Activation Error Resolved in Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722891570209-step-by-step-solution-overcoming-windows-bsod-challenges-effectively/"><u>Step-by-Step Solution: Overcoming Windows BSOD Challenges Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-watching-netflix-on-a-nintendo-switch-console/"><u>Step-by-Step Tutorial for Watching Netflix on a Nintendo Switch Console</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-snapping-screen-images-from-your-hp-notebook/"><u>Step-by-Step Tutorial: Snapping Screen Images From Your HP Notebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-secret-to-knowing-when-an-email-is-read-in-gmail-a-comprehensive-tutorial/"><u>The Secret to Knowing When an Email Is Read in Gmail - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/vob-to-mp4-5/"><u>プロフェッショナルVOB to MP4コンバーター - フリーではありませんが、上位5つをご紹介！</u></a></li>
 </ul></div>
 

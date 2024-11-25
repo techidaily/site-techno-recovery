@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Best AI Alternatives to ChatGPT - Countdown of 10!
-date: 2024-09-12T16:02:32.210Z
-updated: 2024-09-15T16:16:44.330Z
+date: 2024-11-18T14:12:02.905Z
+updated: 2024-11-25T04:30:50.896Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Best AI Alternatives to ChatGPT - Countdown of 10!
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -24,6 +28,10 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -51,6 +59,10 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -67,13 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -96,10 +101,7 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -114,6 +116,10 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -121,13 +127,6 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -156,5 +155,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-top-tactics-eliminate-fbs-intrusive-video-ads/"><u>[New] Top Tactics Eliminate FB's Intrusive Video Ads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-universal-guide-hulu-recording-on-pc-apple-ios-and-android-for-2024/"><u>[New] Universal Guide Hulu Recording on PC, Apple, iOS & Android for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-boost-engagement-through-best-thumbnail-practices/"><u>[Updated] In 2024, Boost Engagement Through Best Thumbnail Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-compreenasolutiontowindowss-lsass-problem-step-by-step-guide/"><u>A CompreenasolutiontoWindows's Lsass Problem: Step by Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-ways-to-live-stream-the-exciting-samsung-unpacked-event-from-anywhere/"><u>Best Ways to Live Stream the Exciting Samsung Unpacked Event From Anywhere</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/enhance-online-presence-efficiently-using-the-innovative-features-of-cookiebot-solutions/"><u>Enhance Online Presence Efficiently Using the Innovative Features of Cookiebot Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-your-wrist-in-depth-comparison-between-the-apple-watch-ultra-and-series-8-to-find-your-ideal-match/"><u>Future-Proofing Your Wrist: In-Depth Comparison Between The Apple Watch Ultra & Series 8 to Find Your Ideal Match</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-great-sound-on-a-shoestring-the-senso-way/"><u>Get Great Sound on a Shoestring: The Senso Way</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-xs-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone XS Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-a38-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo A38 Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-air-comparison-m3-vs-m2-processors-choosing-your-ideal-apple-laptop/"><u>MacBook Air Comparison: M3 Vs. M2 Processors – Choosing Your Ideal Apple Laptop</u></a></li>
+<li><a href="https://facebook.techidaily.com/peeking-at-potential-renaming-scheme-of-facebook/"><u>Peeking at Potential Renaming Scheme of Facebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/perfecting-visuals-how-to-remove-images-edges-in-canva/"><u>Perfecting Visuals How to Remove Images' Edges in Canva</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-discounted-ipad-9gen-for-just-250-following-apples-fresh-announcement-zdnet/"><u>Secure Your Discounted iPad (9Gen) for Just $250 Following Apple's Fresh Announcement | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-messaging-for-iphones-how-to-arrange-scheduled-text-sending-features/"><u>Smart Messaging for iPhones: How to Arrange Scheduled Text Sending Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-working-with-telnet-clients-on-your-pc/"><u>Step-by-Step Instructions: Working with Telnet Clients on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/teslas-upcoming-robotaxi-unveiling-the-latest-gossip-on-pricing-launch-timeline-and-technical-details/"><u>Tesla's Upcoming Robotaxi - Unveiling the Latest Gossip on Pricing, Launch Timeline & Technical Details</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-protectors-for-your-new-iphone-16-and-16-pro-industry-experts-reveal-the-choices-techguardian/"><u>Top-Rated Protectors for Your New iPhone 16 & 16 Pro - Industry Experts Reveal the Choices | TechGuardian</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-secrets-a-step-by-step-guide-to-finding-passwords-in-mac-os-x-keychain/"><u>Unlocking Your Secrets: A Step-by-Step Guide to Finding Passwords in Mac OS X Keychain</u></a></li>
+</ul></div>
 

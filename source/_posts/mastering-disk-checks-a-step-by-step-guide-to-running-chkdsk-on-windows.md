@@ -1,7 +1,7 @@
 ---
 title: "Mastering Disk Checks: A Step-by-Step Guide to Running Chkdsk on Windows"
-date: 2024-09-14T16:12:15.648Z
-updated: 2024-09-15T16:10:58.668Z
+date: 2024-11-21T01:29:45.630Z
+updated: 2024-11-24T19:58:29.275Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Disk Checks: A Step-by-Step Guide to Running Chkdsk on Windows"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
  Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
@@ -28,11 +32,19 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
 [How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
@@ -53,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -63,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
@@ -113,5 +126,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-avoiding-disclosure-in-digital-footage/"><u>[New] 2024 Approved Avoiding Disclosure in Digital Footage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-transforming-challenges-into-triumphs-with-these-30-tips/"><u>[New] Transforming Challenges Into Triumphs with These 30 Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-your-ultimate-2024-camcorder-selection-compiled-here/"><u>[Updated] Your Ultimate 2024 Camcorder Selection Compiled Here</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/decrypting-your-usb-drive-recover-from-exe-file-conversion-and-eliminate-ransomware-threats/"><u>Decrypting Your USB Drive: Recover From EXE File Conversion & Eliminate Ransomware Threats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-hiking-companion-accessories-at-a-discount-20-off-all-nomad-inspired-iphone-cases-portable-chargers-and-apple-watch-straps-exclusive-deal/"><u>Get Your Hiking Companion Accessories at a Discount: 20% Off All Nomad-Inspired iPhone Cases, Portable Chargers & Apple Watch Straps - Exclusive Deal !</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guidelines-to-mend-crushed-video-formats/"><u>Guidelines to Mend Crushed Video Formats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-repair-binkw32dll-not-detected-problems-on-windows/"><u>How to Address and Repair 'binkw32.dll Not Detected' Problems on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/julys-top-discounted-apple-gadgets-iphones-to-ipads-special-deals-revealed/"><u>July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/newest-airpods-arrival-predicted-insights-and-how-to-secure-your-preorder-zdnets-guide/"><u>Newest AirPods Arrival Predicted: Insights & How to Secure Your Preorder | ZDNet's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spinning-stars-olympic-ice-celebrations/"><u>Spinning Stars Olympic Ice Celebrations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-enjoying-top-8-free-roku-channels-this-year/"><u>The Ultimate Guide to Enjoying Top 8 Free Roku Channels This Year</u></a></li>
+<li><a href="https://win-superb.techidaily.com/tre-metodi-facili-e-ottimali-per-bloccare-la-porta-tcp/"><u>Tre Metodi Facili E Ottimali per Bloccare La Porta TCP</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-the-power-of-preview-on-your-mac-a-beginners-guide-to-masterful-imagery/"><u>Unlocking the Power of Preview on Your Mac: A Beginner's Guide to Masterful Imagery</u></a></li>
+</ul></div>
 

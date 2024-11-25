@@ -1,7 +1,7 @@
 ---
 title: "Inside the Apple Event at WWDC: Exploring Upcoming Features in AI, Siri Enhancements & iOS 18 Innovations - ZDNet's Insight"
-date: 2024-11-14T00:19:47.450Z
-updated: 2024-11-16T03:47:25.542Z
+date: 2024-11-24T14:51:02.895Z
+updated: 2024-11-25T02:15:48.351Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is expected at WWDC 2024?
 
 WWDC is typically the event in which Apple takes the wraps off the next major versions of its assorted operating systems. That means we should anticipate demos of iOS 18, iPadOS 18, MacOS 15, WatchOS 11, tvOS 18, and VisionOS 2.0\. 
@@ -49,10 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,19 +128,24 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-sierra-icloud-drives-a-complete-overview/"><u>[New] Exploring Sierra iCloud Drives – A Complete Overview</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-visionary-artistry-breakdown-studio-25-explored-in-detail-2023/"><u>[New] In 2024, Visionary Artistry Breakdown Studio 25 Explored in Detail, 2023</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-best-mics-on-the-market-for-podcasts/"><u>[New] The Best Mics on the Market, For Podcasts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>[Updated] 2024 Approved How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-most-effective-10-sound-recorders-for-spotify-fans/"><u>[Updated] 2024 Approved The Most Effective 10 Sound Recorders for Spotify Fans</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-apple-watchs-endurance-top-8-settings-tweaks-that-enhance-battery-performance-insights-from-zdnet/"><u>Boost Your Apple Watch's Endurance: Top 8 Settings Tweaks That Enhance Battery Performance - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chronological-cinematic-journey-through-the-transformers-universe/"><u>Chronological Cinematic Journey Through The Transformers Universe</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-overcoming-directx-compatibility-problems-in-battlefield-2042/"><u>Comprehensive Guide: Overcoming DirectX Compatibility Problems in Battlefield 2042</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-connecting-and-using-an-external-storage-device-with-your-xbox-one/"><u>Guide: Connecting and Using an External Storage Device with Your Xbox One</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-from-novice-to-vlogger-top-tips-to-enhance-your-tiktok-videos/"><u>In 2024, From Novice to Vlogger Top Tips to Enhance Your TikTok Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/photo-trickery-how-faces-decipher-on-apple-and-samsung-gadgets/"><u>Photo Trickery How Faces Decipher on Apple & Samsung Gadgets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/switching-sides-how-the-top-3-iphone-16-innovations-could-persuade-an-android-lover/"><u>Switching Sides: How the Top 3 iPhone 16 Innovations Could Persuade an Android Lover</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-ultimate-iphone-selection-for-2eplus24-authoritative-ratings-and-analysis-zdnet/"><u>Unveiling the Ultimate iPhone Selection for 2E+24: Authoritative Ratings and Analysis | ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-spring-recorder-rising-a-comprehensive-analysis/"><u>[New] In 2024, Spring Recorder Rising A Comprehensive Analysis</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-best-practices-in-confirming-your-youtube-access-for-2024/"><u>[Updated] Best Practices in Confirming Your YouTube Access for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-get-it-right-screencast-tips-from-ezvid-video-maker-pros-for-2024/"><u>[Updated] Get It Right Screencast Tips From EZvid Video Maker Pros for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-3-twitter-video-tools-for-easy-uploads/"><u>[Updated] In 2024, Top 3 Twitter Video Tools for Easy Uploads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-time-manipulation-for-professional-videos/"><u>[Updated] Seamless Time Manipulation for Professional Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-your-quick-guide-to-successful-online-television-archiving-for-2024/"><u>[Updated] Your Quick Guide to Successful Online Television Archiving for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-crucial-considerations-when-shopping-for-your-next-activity-monitor/"><u>5 Crucial Considerations When Shopping for Your Next Activity Monitor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bring-life-to-your-desktop-changing-the-color-of-the-taskbar-in-windows-11-made-simple/"><u>Bring Life to Your Desktop: Changing the Color of the Taskbar in Windows 11 Made Simple</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/face-off-analysis-zuckerberg-reviews-meta-quest-3-and-apple-vision-pro-expert-take/"><u>Face-Off Analysis: Zuckerberg Reviews Meta Quest 3 and Apple Vision Pro | Expert Take</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-7-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 7 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-x7b-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor X7b Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-loyalty-in-tech-can-apple-provide-a-lifeline-to-disappointed-sonos-customers-insights/"><u>Reviving Loyalty in Tech: Can Apple Provide a Lifeline to Disappointed Sonos Customers? Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-photography-apple-introduces-an-innovative-ai-feature-editing-images-based-on-user-provided-descriptions-insights/"><u>Revolutionizing Photography: Apple Introduces an Innovative AI Feature Editing Images Based on User-Provided Descriptions - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-why-your-iphone-wont-ring-and-how-to-fix-it/"><u>Step-by-Step Solution: Why Your iPhone Won't Ring and How to Fix It</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-correcting-failed-java-setup-in-windows/"><u>Techniques for Correcting Failed Java Setup in Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ommercial-side-of-casual-videography/"><u>The Commercial Side of Casual Videography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-interactions-with-technology-discover-how-apple-empowers-iphone-users-through-expanded-nfc-features-in-app-ecosystem/"><u>Transforming Interactions with Technology: Discover How Apple Empowers iPhone Users Through Expanded NFC Features in App Ecosystem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-methods-tracking-observers-of-your-youtube-channels/"><u>Unveiling the Methods: Tracking Observers of Your YouTube Channels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reviews-why-apples-new-m2-powered-ipad-air-stands-out-as-the-preferred-option-for-consumers/"><u>ZDNet Reviews: Why Apple's New M2-Powered iPad Air Stands Out as the Preferred Option for Consumers</u></a></li>
 </ul></div>
 

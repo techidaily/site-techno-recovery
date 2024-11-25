@@ -1,7 +1,7 @@
 ---
 title: Declutter Your Email Effortlessly - Learn How One Smart Trick Can Clean Up Chaos Without Multiple Accounts Or Complex Rules, According To ZDNET
-date: 2024-11-11T00:12:24.444Z
-updated: 2024-11-15T18:12:37.977Z
+date: 2024-11-18T23:35:48.320Z
+updated: 2024-11-25T09:19:25.331Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -61,10 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,21 +146,22 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-free-top-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>[New] FREE Top 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-best-10-free-image-transformers-jpg-to-gif-edition/"><u>[New] In 2024, Best 10 FREE Image Transformers JPG to GIF Edition</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-fixes-enhancing-your-snaps-with-snapchat-edits-for-2024/"><u>[New] Quick Fixes Enhancing Your Snaps with Snapchat Edits for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-excellent-sd-cards-compatible-with-gopro-hero-7-and-8/"><u>[Updated] In 2024, Excellent SD Cards Compatible with GoPro Hero 7 & 8</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectacular-screen-showdown-sj6-vs-the-4k-innovators-of-xiaomi/"><u>2024 Approved Spectacular Screen Showdown SJ6 Vs. The 4K Innovators of Xiaomi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-huawei-nova-y71-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Huawei Nova Y71?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oneplus-ace-2-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of OnePlus Ace 2 Without PUK Codes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-apple-event-at-wwdc-exploring-upcoming-features-in-ai-siri-enhancements-and-ios-18-innovations-insight/"><u>Inside the Apple Event at WWDC: Exploring Upcoming Features in AI, Siri Enhancements & iOS 18 Innovations Insight</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-your-ipad-unlocking-advanced-settings-and-hacks-every-apple-enthusiast-should-know-get-smart-with-our-top-10-tips/"><u>Master Your iPad: Unlocking Advanced Settings and Hacks Every Apple Enthusiast Should Know - Get Smart with Our Top 10 Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/most-beneficial-linkedin-training-programs-for-personal-growth-in/"><u>Most Beneficial LinkedIn Training Programs for Personal Growth in 지난해</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-hurdle-0x80004005-effective-strategies-for-fixing-the-issue/"><u>Overcoming Hurdle 0X80004005: Effective Strategies for Fixing the Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/setting-up-multiple-network-profiles-on-macos-for-enhanced-connectivity-options-techradar/"><u>Setting Up Multiple Network Profiles on macOS for Enhanced Connectivity Options | TechRadar</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723010027491-smooth-as-silk-eliminating-lag-in-your-guilty-gear-strive-matches/"><u>Smooth as Silk: Eliminating Lag in Your Guilty Gear -Strive- Matches!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-essential-enhancements-for-the-apple-vision-pros-success-in-the-enterprise-zdnet-insights/"><u>Top 7 Essential Enhancements for the Apple Vision Pro's Success in the Enterprise | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1727792674441-top-rated-iphone-12-and-pro-protective-covers-expert-picks/"><u>Top-Rated iPhone 12 & Pro Protective Covers - Expert Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncovering-apples-top-ai-breakthrough-for-wwdc-why-the-low-key-revelation-is-a-game-changer/"><u>Uncovering Apple's Top AI Breakthrough for WWDC – Why the Low-Key Revelation Is a Game Changer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-master-the-art-of-captivating-instagram-video-audiences/"><u>[Updated] 2024 Approved Master the Art of Captivating Instagram Video Audiences</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-become-a-livestream-king-the-best-webcams-for-youtube-stars-for-2024/"><u>[Updated] Become a Livestream King The Best Webcams for YouTube Stars for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-top-non-apple-non-anker-magsafe-wallet-deal-of-the-year-exclusive-review-and-sale-info-techinsights/"><u>1. Top Non-Apple, Non-Anker MagSafe Wallet Deal of the Year - Exclusive Review & Sale Info | TechInsights</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/comment-sauvegarder-en-securite-vos-donnees-avec-la-solution-de-secours-pour-les-disques/"><u>Comment Sauvegarder en Sécurité Vos Données Avec La Solution De Secours Pour Les Disques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-ipad-pro-assessment-understanding-why-it-exceeds-as-a-tablet-but-falls-short-of-replacing-my-macbook-insights/"><u>Comprehensive iPad Pro Assessment: Understanding Why It Exceeds as a Tablet but Falls Short of Replacing My MacBook - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/families-and-the-world-of-generative-ai/"><u>Families and the World of Generative AI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-adjust-your-android-settings-to-prevent-amber-warning-displays/"><u>How To Adjust Your Android Settings to Prevent Amber Warning Displays</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-13-ultra-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi 13 Ultra?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-gt-10-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix GT 10 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lost-airpods-heres-how-you-can-retrieve-them-and-avoid-misplacement-in-the-future-digital-solutions-blog/"><u>Lost AirPods? Here's How You Can Retrieve Them and Avoid Misplacement in the Future | Digital Solutions Blog</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/m4a-to-wav-conversion-guide-for-windows-operating-systems-11-10-8-and/"><u>M4A to WAV Conversion Guide for Windows Operating Systems (11, 10, 8 &</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-messy-mailboxes-unlock-a-stress-free-solution-that-keeps-your-email-organized-with-just-one-trick-find-out-more-here/"><u>Say Goodbye to Messy Mailboxes: Unlock a Stress-Free Solution that Keeps Your Email Organized with Just One Trick - Find Out More Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-watching-apple-tv-plus-content-on-your-chromecast-unit/"><u>Seamless Streaming: Watching Apple TV Plus Content on Your Chromecast Unit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-early-access-buy-apple-watch-series-10-before-release-exclusive-savings-guide-techbargains/"><u>Secure Your Early Access: Buy Apple Watch Series 10 Before Release - Exclusive Savings Guide | TechBargains</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/strategies-for-effectively-swapping-gender-identity-in-digital-media-images/"><u>Strategies for Effectively Swapping Gender Identity in Digital Media Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-selecting-an-optimal-mobile-case-that-suits-your-style-and-needs/"><u>The Ultimate Guide to Selecting an Optimal Mobile Case that Suits Your Style and Needs</u></a></li>
 </ul></div>
 

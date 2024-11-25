@@ -1,7 +1,7 @@
 ---
 title: "Syncing Your Mac Computer to Your TV: A Comprehensive Walkthrough of Using AirPlay Connections"
-date: 2024-09-14T16:13:17.336Z
-updated: 2024-09-15T16:22:55.842Z
+date: 2024-11-21T21:28:15.783Z
+updated: 2024-11-25T00:15:46.168Z
 categories:
   - BestProducts
 description: "This Article Describes Syncing Your Mac Computer to Your TV: A Comprehensive Walkthrough of Using AirPlay Connections"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 ---
 
 ## Syncing Your Mac Computer to Your TV: A Comprehensive Walkthrough of Using AirPlay Connections
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Choose your TV from**Control Center** \>**Screen Mirroring** , or select the**AirPlay status** icon in the menu bar.
@@ -18,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  This article explains how to AirPlay from Mac to a TV. Instructions apply to Macs running macOS Mojave (10.14) and later. Once you’ve turned on AirPlay on your Mac, you can cast from your Mac to your Apple TV or compatible smart TV with a few clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to AirPlay From a Mac to a TV in macOS 11 and Later
 
  Access AirPlay on a Mac running macOS Big Sur (11.0) and later in the Control Center. You need an Apple TV device or an AirPlay-compatible smart TV on the same network as the Mac.
@@ -25,6 +34,11 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 1. In the Mac menu bar, select the**Control Center** icon.  
 ![Mac running macOS 12 with Control Center icon highlighted in the menu bar](https://www.lifewire.com/thmb/DbHKuyc7sRbbj4o6HxrEi0zeaHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-airplay-from-mac-to-tv-5191732-f24081c9525a424b930ab17d621791d5.jpg)
 2. In the Control Center, choose**Screen Mirroring** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screen Mirroring highlighted in the Mac Control Center](https://www.lifewire.com/thmb/nodomC8QQbozgZPMfj8PzwkyrNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-airplay-from-mac-to-tv-5191732-65d41bb6af8f4083b1e112df272f6975.jpg)
 3. To start displaying your Mac's screen on your TV, select**Apple TV** or the name of your smart TV.  
 ![Apple TV selected in the Mac Screen Mirroring menu](https://www.lifewire.com/thmb/PTv_lLD58PvHZcn-aS4rWJqhTis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-airplay-from-mac-to-tv-5191732-5a0b12d976554a44be665bf038db0f71.jpg)
@@ -46,6 +60,11 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 9. Under AirPlay To, choose the Apple TV or AirPlay-compatible TV.  
 ![AirPlay status icon and AirPlay To devices highlighted from the macOS menu bar.](https://www.lifewire.com/thmb/6exsEZ4gsCJ5GTKsBnBaLszMFNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-airplay-from-a-mac-to-tv_5191732-bc8ec7fdf0b74dc98731f4477eaf2781.jpg)
 10. Alternatively, open**Control Center** , select**Screen Mirroring** and choose the name of your Apple TV or AirPlay-compatible TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. If it’s your first time connecting to your smart TV, input the_code_ you see on your TV when prompted on your Mac.  
 ![AirPlay Device Code box that appears on a Mac when connecting to a smart TV.](https://www.lifewire.com/thmb/EPNisXy2HXKSoVsvA59esOGgZlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-airplay-from-a-mac-to-tv_5191732-cb9264410ed04ab1859e603cf5e30a6c.jpg)  
 
@@ -59,20 +78,15 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 14. To change mirroring to your Mac’s built-in display, select**Mirror** **Built-in** _Display\_Name_ .  
 ![The option to match a Mac's built-in display size while mirroring highlighted from the AirPlay drop-down menu on a Mac.](https://www.lifewire.com/thmb/LlK2cKHBq0VYdKmJDmJbLJl3mXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-airplay-from-a-mac-to-tv_5191732-e71a826f637e41abbe773ab96cfc1038.jpg)
 15. If you want to mirror the content from a particular app or video with AirPlay functionality, select the**AirPlay** icon and choose your smart TV from the list of available devices.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AirPlay icon and device options highlighted from within an AirPlay-enabled app on a Mac.](https://www.lifewire.com/thmb/SMlnEpG_1VEImUPg0CLSTXQjOSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-airplay-from-a-mac-to-tv_5191732-17745c68ee7148c5b54c32da7d11134d.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I AirPlay From My Mac to My Smart TV Without Apple TV?  
@@ -116,5 +130,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-techniques-for-streaming-seminars-on-a-fee-free-basis/"><u>[New] 2024 Approved Techniques for Streaming Seminars on a Fee-Free Basis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ultimate-guide-to-online-portals-for-text-artistry/"><u>[New] Ultimate Guide to Online Portals for Text Artistry</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-audio-recording-solutions-for-educators-using-apple-products/"><u>[Updated] Audio Recording Solutions for Educators Using Apple Products</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-comprehensively-reviewing-top-10-no-cost-video-communication-apps-for-professional-and-academic-needs/"><u>[Updated] Comprehensively Reviewing Top 10 No-Cost Video Communication Apps for Professional and Academic Needs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-delving-into-the-world-of-asmr-soundscapes/"><u>[Updated] In 2024, Delving Into the World of ASMR Soundscapes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/anniversary-special-by-digiarty-a-journey-through-18-years/"><u>Anniversary Special by DigiArty - A Journey Through 18 Years</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-now-on-amazon-with-exceptional-one-time-deal-save-200-limited-offer-alert/"><u>Apple Vision Pro Now on Amazon with Exceptional One-Time Deal: Save $200 - Limited Offer Alert!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/budget-friendly-tablet-picks-for-202-in-depth-comparisons-and-ratings-zdnet/"><u>Budget-Friendly Tablet Picks for 202^ - In-Depth Comparisons and Ratings | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-apple-airpods-pro-gen-3-analysis-noteworthy-enhancements-explored-zdnet/"><u>Comprehensive Apple AirPods Pro Gen 3 Analysis - Noteworthy Enhancements Explored | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dive-into-the-tech-book-fusion-a-journey-with-laptops-phones-and-epics/"><u>Dive Into the Tech-Book Fusion: A Journey with Laptops, Phones, & Epics!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/double-the-defense-with-our-recommended-nomad-mobile-shields-exclusive-2-for-1-offer-now-live-s-insider-savings/"><u>Double the Defense with Our Recommended Nomad Mobile Shields - Exclusive 2 for 1 Offer Now Live 'S Insider Savings!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y100i-power-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y100i Power 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>In 2024, Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionary-tech-mastery-exploring-the-superiority-of-iphone-12-by-apple/"><u>Revolutionary Tech Mastery: Exploring the Superiority of iPhone 12 by Apple</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-for-when-alexa-isnt-answering-your-calls/"><u>Step-by-Step Fixes for When Alexa Isn't Answering Your Calls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-elite-apple-watches-in-2vee-expertly-evaluated-and-critiqued/"><u>Ultimate List of Elite Apple Watches in 2Vee: Expertly Evaluated and Critiqued</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-purpose-of-google-hangouts-a-comprehensive-overview/"><u>Understanding the Purpose of Google Hangouts: A Comprehensive Overview</u></a></li>
+</ul></div>
 

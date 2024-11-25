@@ -1,7 +1,7 @@
 ---
 title: "Bridging Platforms: A Step-by-Step Tutorial for Using Android Apps on Windows 11"
-date: 2024-09-14T16:04:54.657Z
-updated: 2024-09-15T16:22:36.556Z
+date: 2024-11-23T03:01:06.083Z
+updated: 2024-11-24T20:52:51.708Z
 categories:
   - BestProducts
 description: "This Article Describes Bridging Platforms: A Step-by-Step Tutorial for Using Android Apps on Windows 11"
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/82378f8f7280345f4bdbfe88330aef6297f2b5615
 ![Adventure Escape Mysteries in BlueStacks on Windows](https://www.lifewire.com/thmb/thd-CsxDeNrlug6x-XD8VO8i_uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bluestacks-android-app-623f1060def640978b9d0bb5ffe47002.png)  
 [The 12 Best Apps for 2024](https://www.lifewire.com/best-mobile-apps-4157439)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use AirDroid to Mirror Android on Windows 10  
 
  AirDroid is a free app that runs on Android, so you need an Android device to use this method. Once it's installed, you can view your phone live on your computer screen. If you enable remote control, you can even control your phone from Windows 10.
@@ -47,10 +51,25 @@ thumbnail: https://thmb.techidaily.com/82378f8f7280345f4bdbfe88330aef6297f2b5615
 13. Tap the toggle next to**Allow display over other apps** .  
 ![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
 14. Return to AirDroid and go to**Remote Control** \>**Enable remote control** \>**Still enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
 15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
 16. Return to AirDroid and tap**Grant permissions** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
@@ -58,10 +77,20 @@ thumbnail: https://thmb.techidaily.com/82378f8f7280345f4bdbfe88330aef6297f2b5615
 20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
 ![Done, Transfer, AirDroid Web, and Option 2 paragraph highlighted in AirDroid.](https://www.lifewire.com/thmb/8yoCK74talFlTYj-YCYm5lIzqdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B17-RunAndroidAppsonWindows10-annotated-093199afced14217a49962e06818d393.jpg)
 21. When AirDroid opens on your computer, use one of the sign in options at the bottom to log in to the same account you signed in to from your phone.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
 22. Select your Android device from the**Choose a device** prompt.  
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
@@ -104,18 +133,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-efficient-viewing-strategies-for-instagram-content/"><u>[Updated] In 2024, Efficient Viewing Strategies for Instagram Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quick-tips-for-nvidia-screen-capturing/"><u>[Updated] Quick Tips for NVIDIA Screen Capturing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-live-streaming-with-manycam-top-virtual-camera-software/"><u>1. Live Streaming with ManyCam: Top Virtual Camera Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-users-manual-how-to-free-yourself-from-copilot-in-windows-11/"><u>A User’s Manual: How To Free Yourself From Copilot in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ai-revolution-at-apple-insider-view-on-upcoming-robotic-home-assistants-and-exclusive-product-highlights/"><u>AI Revolution at Apple: Insider View on Upcoming Robotic Home Assistants and Exclusive Product Highlights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-slashes-prices-on-entry-level-series-se-watch-anticipated-upgrades-revealed/"><u>Apple Slashes Prices on Entry-Level Series SE Watch: Anticipated Upgrades Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-legacy-to-modernity-the-evolution-of-802-11-wireless-standards-be-ax-ac-and-beyond/"><u>From Legacy to Modernity: The Evolution of 802. 11 Wireless Standards (Be, Ax, Ac, and Beyond)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-lava-yuva-2-screen-sharing-drfone-by-drfone-android/"><u>How To Do Lava Yuva 2 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/master-the-meter-elevate-your-instagram-metrics-by-1kmnth-for-2024/"><u>Master the Meter Elevate Your Instagram Metrics by 1K/Mnth for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-phone-lifecycles-ideal-intervals-for-tech-refreshes/"><u>Navigating Phone Lifecycles: Ideal Intervals for Tech Refreshes</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/restore-lost-hard-drive-partitions-in-windows-step-by-step-solutions-for-data-recovery-success/"><u>Restore Lost Hard Drive Partitions in Windows: Step-by-Step Solutions for Data Recovery Success!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-by-tech-experts/"><u>Top Rated MagSafe Wallets : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-bargains-on-iphone-apple-watch-and-ipad-exclusive-offers-for-june-july-2024-techsavvy/"><u>Unbeatable Bargains on iPhone, Apple Watch & iPad - Exclusive Offers for June-July 2024 | TechSavvy</u></a></li>
+</ul></div>
 

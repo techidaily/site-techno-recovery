@@ -1,7 +1,7 @@
 ---
 title: "Mastering Network Configuration on Your Mac: Tips for Establishing Separate Locations for Better Internet Access"
-date: 2024-11-08T18:33:13.614Z
-updated: 2024-11-15T21:48:51.890Z
+date: 2024-11-19T13:56:34.880Z
+updated: 2024-11-25T14:26:49.653Z
 tags:
   - apple
 categories:
@@ -28,20 +28,21 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -57,6 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -64,10 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -78,13 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,16 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-leading-links-to-googles-advertising-networks-on-videos/"><u>[New] 2024 Approved Leading Links to Google's Advertising Networks on Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-ideal-ios-platform-for-psp-emulation-our-top-5-list-of-2023-for-2024/"><u>[Updated] Ideal iOS Platform for PSP Emulation - Our Top 5 List of 2023 for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-progopro-enhancing-footage-and-stability/"><u>[Updated] In 2024, ProGoPro Enhancing Footage & Stability</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-refining-your-tiktok-end-screen-elements/"><u>[Updated] Refining Your TikTok End Screen Elements</u></a></li>
-<li><a href="https://facebook.techidaily.com/big-tech-backs-health-5m-to-combat-virus-outbreak/"><u>Big Tech Backs Health: $5M to Combat Virus Outbreak</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-resolving-pre-os-startup-malfunctions/"><u>Effective Strategies for Resolving Pre-OS Startup Malfunctions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exclusive-got-ringtones-where-to-find-them-online/"><u>Exclusive GoT Ringtones - Where to Find Them Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-effortless-multi-tasking-with-macbook-airs-split-screen-feature/"><u>Expert Tips for Effortless Multi-Tasking with MacBook Air's Split Screen Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-diagnosing-and-fixing-error-messages-on-your-wi-fi-routers-access-point/"><u>Expert Tips: Diagnosing and Fixing Error Messages on Your Wi-Fi Router's Access Point</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/robo-taxis-by-tesla-approaching-launch-find-out-about-the-cost-release-date-and-whats-under-the-hood/"><u>Robo-Taxis by Tesla Approaching Launch - Find Out About the Cost, Release Date & What's Under the Hood</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rugged-nikon-camera-at-an-unbeatable-price/"><u>Rugged Nikon Camera at an Unbeatable Price</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-adding-soundtracks-to-instagram-visuals/"><u>[New] The Art of Adding Soundtracks to Instagram Visuals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-regain-control-recovering-after-a-facebook-breach-for-2024/"><u>[Updated] Regain Control Recovering After a Facebook Breach for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres-for-2024/"><u>Advanced 3D Shaping Crafting Perfect MC Circles & Spheres for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-surpasses-samsung-as-leading-player-in-worldwide-smartphone-distribution-insights-from-zdnet/"><u>Apple Surpasses Samsung as Leading Player in Worldwide Smartphone Distribution - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-why-experts-say-its-time-for-an-iphone-16-upgrade-the-top-features-you-cant-miss-according-to-zdnet/"><u>Discover Why Experts Say It's Time for an iPhone 16 Upgrade: The Top Features You Can't Miss, According to ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dissecting-the-ultra-clear-aesthetic-of-lgs-4k-screen/"><u>Dissecting the Ultra-Clear Aesthetic of LG's 4K Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/legal-victory-for-macbook-enthusiasts-apple-distributes-compensation-under-settlement-terms-silicon-valley-update/"><u>Legal Victory for MacBook Enthusiasts: Apple Distributes Compensation Under Settlement Terms | Silicon Valley Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-apple-studio-display-maintenance-with-our-in-depth-firmware-update-tutorial-digital-gadget-weekly/"><u>Master the Art of Apple Studio Display Maintenance with Our In-Depth Firmware Update Tutorial – Digital Gadget Weekly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-missing-driver-alert-finding-and-installing-supported-drives-in-windows-1087/"><u>Resolve Missing Driver Alert: Finding & Installing Supported Drives in Windows 10/8/7</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-15-plus-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 15 Plus Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ffxiv-resolving-incomplete-version-verification-issues/"><u>Troubleshooting FFXIV: Resolving Incomplete Version Verification Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-behind-biometric-systems-and-their-functions/"><u>Unveiling the Secrets Behind Biometric Systems and Their Functions</u></a></li>
 </ul></div>
 

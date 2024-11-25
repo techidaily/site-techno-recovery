@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mornings: The Best Erseus in Greek Mythology?"
-date: 2024-09-09T16:28:31.843Z
-updated: 2024-09-15T16:16:39.668Z
+date: 2024-11-22T18:40:37.956Z
+updated: 2024-11-24T21:59:44.444Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Mornings: The Best Erseus in Greek Mythology?"
@@ -21,9 +21,18 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -35,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 * **Forward a message (F)** : Press**F** to forward an open message.
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reply to Email
 
@@ -50,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 * **Scroll down an email list (J)** : Press the**J** key to scroll down.
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
 
@@ -76,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -102,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -120,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -156,5 +156,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-pivotal-software-in-shaping-a-vtubers-sound-identity/"><u>[New] 2024 Approved Pivotal Software in Shaping a Vtuber's Sound Identity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-monotonous-to-magical-applying-video-effects-in-zoom/"><u>[Updated] From Monotonous to Magical Applying Video Effects in Zoom</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-highest-ranking-youtube-tracker-for-popular-video-insight/"><u>[Updated] Highest-Ranking YouTube Tracker for Popular Video Insight</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-historical-youtube-hubs-essential-viewing-for-students-and-enthusiasts/"><u>2024 Approved Top 10 Historical YouTube Hubs Essential Viewing For Students & Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enhanced-chrome-extensions-for-superior-productivity-ranked/"><u>AI-Enhanced Chrome Extensions for Superior Productivity Ranked</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipate-apples-innovative-buying-experience-the-all-new-vision-pro-set-to-arrive-in-february-as-revealed/"><u>Anticipate Apple's Innovative Buying Experience: The All-New Vision Pro Set to Arrive in February, As Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-blueprint-for-configuring-your-new-ipad-insights-by-zdnet/"><u>Beginner's Blueprint for Configuring Your New iPad: Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-guide-by-zdnet-to-find-out-which-is-ideal-for-you/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Guide by ZDNet to Find Out Which Is Ideal For You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dive-into-the-tech-book-fusion-a-journey-with-laptops-phones-and-epics/"><u>Dive Into the Tech-Book Fusion: A Journey with Laptops, Phones, & Epics!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-marvel-world-through-apple-vision-pro-on-its-launch-day-may-30-reported/"><u>Explore Marvel World Through Apple Vision Pro on Its Launch Day, May 30 | Reported</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-review-of-the-newly-released-apple-tv-hd-4k-series-3/"><u>In-Depth Review of the Newly Released Apple TV HD 4K Series 3</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oppo-a18-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Oppo A18</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-of-discovery-plus-in-july-2024-top-tv-shows-you-dont-want-to-miss/"><u>The Best of Discovery Plus in July 2024 - Top TV Shows You Don't Want to Miss!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-missing-pieces-of-apple-vision-pro-top-two-apps-you-wont-find-on-the-revolutionary-device-revealed/"><u>The Missing Pieces of Apple Vision Pro – Top Two Apps You Won’t Find on the Revolutionary Device Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tech-picks-of-2024-in-depth-comparison-of-leading-brands-like-apple-and-dell-insights/"><u>Top Tech Picks of 2024: In-Depth Comparison of Leading Brands Like Apple & Dell - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-persistent-black-screen-issue/"><u>Ultimate Guide: Resolving Call of Duty Warzone's Persistent Black Screen Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-power-of-your-camera-with-google-maps-live-view/"><u>Unlock the Power of Your Camera with Google Maps Live View</u></a></li>
+</ul></div>
 

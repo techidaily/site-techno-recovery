@@ -1,7 +1,7 @@
 ---
 title: "Crafting the Best Summer EDC Kit: 7 Crucial Components to Include"
-date: 2024-11-11T16:46:57.194Z
-updated: 2024-11-15T20:58:08.953Z
+date: 2024-11-23T12:00:30.606Z
+updated: 2024-11-24T16:29:28.058Z
 categories:
   - BestProducts
 description: "This Article Describes Crafting the Best Summer EDC Kit: 7 Crucial Components to Include"
@@ -15,6 +15,11 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 >
 
 ## Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Alt+3** on your keyboard to instantly type a heart symbol (must have Number Pad).
@@ -35,6 +40,11 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
@@ -49,23 +59,18 @@ These instructions apply to PCs running Windows 10 and up.
 ![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
@@ -88,31 +93,14 @@ These instructions apply to PCs running Windows 10 and up.
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Get the White Heart Emoji on Your Keyboard?
@@ -159,18 +147,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-a-comprehensible-guide-to-integrating-zoom-with-win10/"><u>[New] In 2024, A Comprehensible Guide to Integrating Zoom with Win10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-techniques-for-iphone-sideways-shots/"><u>2024 Approved Innovative Techniques for iPhone Sideways Shots</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-headset-driver-enhancement-for-logitech/"><u>Accelerate Headset Driver Enhancement for Logitech</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/future-proofing-imessage-how-apple-enhances-security-with-forward-thinking-tech-strategies-zdnet-insights/"><u>Future-Proofing iMessage: How Apple Enhances Security with Forward-Thinking Tech Strategies | ZDNet Insights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-lava-yuva-2-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Lava Yuva 2 Pro Through Google Earth?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-x6-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco X6 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/magic-of-the-go-how-this-triple-function-magsafe-charging-solution-became-my-ultimate-travel-companion-powered-by-qi2/"><u>Magic of the Go: How This Triple-Function MagSafe Charging Solution Became My Ultimate Travel Companion - Powered by QI2!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-childrens-tablets-parents-swear-by-expert-review-by-zdnet/"><u>Top-Rated Children's Tablets Parents Swear By - Expert Review by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-steam-disk-write-failure-step-by-step-solutions/"><u>Troubleshooting the Steam Disk Write Failure - Step-by-Step Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-for-overcoming-netflix-error-code-ui-8/"><u>Troubleshooting Tips for Overcoming Netflix Error Code UI-8</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unexpected-glitches-in-visionpro-app-expert-tips-and-fixes-for-sudden-crashes-insights/"><u>Unexpected Glitches in VisionPro App? Expert Tips & Fixes for Sudden Crashes Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-facebook-imagery-with-our-image-search-techniques/"><u>Unlock the Power of Facebook Imagery with Our Image Search Techniques</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-7-optimized-support-lenovo-ideapad-y470/"><u>Windows 7 Optimized Support: Lenovo IdeaPad Y470</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-techniques-for-stunning-shadow-photography-on-your-iphone/"><u>[New] In 2024, Techniques for Stunning Shadow Photography on Your iPhone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-social-network-video-download-for-audio-conversion/"><u>2024 Approved Social Network Video Download for Audio Conversion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypass-the-hiccups-simple-ways-to-fix-a-malfunctioning-magic-mouse-tracker/"><u>Bypass the Hiccups: Simple Ways to Fix a Malfunctioning Magic Mouse Tracker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-network-performance-a-closer-look-at-cat5-and-cat6-cabling/"><u>Comparing Network Performance: A Closer Look at Cat5 and Cat6 Cabling</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-guide-to-updating-the-microsoft-sculpt-ergonomic-keyboard-driver-with-ease/"><u>Comprehensive Guide to Updating the Microsoft Sculpt Ergonomic Keyboard Driver with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-understanding-netflixs-streaming-platform/"><u>Comprehensive Guide: Understanding Netflix's Streaming Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/determining-the-optimal-speed-for-your-personal-computer-a-guide/"><u>Determining the Optimal Speed for Your Personal Computer: A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-future-of-your-devices-with-ai-unveiling-smart-innovations-in-upcoming-iphone-mac-and-ipad-models/"><u>Discover the Future of Your Devices with AI: Unveiling Smart Innovations in Upcoming iPhone, Mac & iPad Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-on-inshot-film-splits-for-2024/"><u>Expert Tips on Inshot Film Splits for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-70-lite-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor 70 Lite 5G Face Lock?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leadership-shakeup-at-openai-whats-next-for-gpt/"><u>Leadership Shakeup at OpenAI - What's Next For GPT?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/say-goodbye-to-watermarks-filmora-removal-techniques-for-2024/"><u>Say Goodbye to Watermarks Filmora Removal Techniques for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-producing-youtube-trailers-using-filmora/"><u>Step-by-Step Producing YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ate-movie-watchlists-streamlining-screen-time-for-2024/"><u>Ultimate Movie Watchlists Streamlining Screen Time for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-next-for-tech-enthusiasts-rumors-about-the-google-pixel-9-release-schedule-and-cost-estimates/"><u>What's Next for Tech Enthusiasts? Rumors About the Google Pixel 9 - Release Schedule and Cost Estimates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reviews-apples-latest-creation-vision-pro-transforming-the-future-of-home-entertainment/"><u>ZDNet Reviews Apple's Latest Creation - Vision Pro: Transforming the Future of Home Entertainment</u></a></li>
 </ul></div>
 

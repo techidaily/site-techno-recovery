@@ -1,7 +1,7 @@
 ---
 title: Exclusive List of Disney+'s Highest Rated Movies Right Now!
-date: 2024-11-13T01:01:24.945Z
-updated: 2024-11-16T03:35:26.836Z
+date: 2024-11-21T23:08:08.649Z
+updated: 2024-11-25T14:16:04.466Z
 categories:
   - BestProducts
 description: This Article Describes Exclusive List of Disney+'s Highest Rated Movies Right Now!
@@ -28,7 +28,16 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -56,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -81,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -97,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -106,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -119,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -133,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -170,18 +163,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-virtualitys-voyage-an-overview/"><u>[New] In 2024, Virtuality’s Voyage An Overview</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-get-started-with-ease-facebook-insight-basics/"><u>[Updated] In 2024, Get Started with Ease Facebook Insight Basics</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlabs-vs-top-embedding-platforms/"><u>[Updated] Streamlabs Vs. Top Embedding Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-mpos-apple-computers-upgraded-fedora-linux-available-excluding-the-lone-exception-zdnet-insights/"><u>All mPOS Apple Computers Upgraded: Fedora Linux Available, Excluding the Lone Exception | ZDNet Insights</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-8-cutting-edge-skins-perfect-for-your-laptop/"><u>In 2024, 8 Cutting-Edge Skins Perfect for Your Laptop</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-2-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze 2 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-integration-of-fb-and-whatsapp-for-video-sharing/"><u>In 2024, Seamless Integration of FB & WhatsApp for Video Sharing</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/mantaukan-data-anda-seperti-hadiah-gratis-proses-mudah-untuk-pemulihan-gigi-hdd-yang-tercoret/"><u>Mantaukan Data Anda Seperti Hadiah Gratis - Proses Mudah Untuk Pemulihan Gigi Hdd Yang Tercoret</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revamped-iphone-services-apples-new-policy-enables-recycled-parts-use-in-selective-repairs/"><u>Revamped iPhone Services: Apple's New Policy Enables Recycled Parts Use in Selective Repairs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seamless-connectivity-overcoming-wireless-hurdles-in-windows/"><u>Seamless Connectivity: Overcoming Wireless Hurdles in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-4-idevices-on-hold-what-you-need-to-know-before-purchasing-tech-insights/"><u>Top 4 iDevices on Hold: What You Need To Know Before Purchasing | Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-i-made-the-switch-to-these-budget-friendly-xr-glasses-after-returning-my-apple-vision-and-meta-quest-3-heres-why-you-should-too/"><u>Why I Made the Switch to These Budget-Friendly XR Glasses After Returning My Apple Vision and Meta Quest 3 - Here's Why You Should Too!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-livetv-and-facebook-integrating-fb-livestreams/"><u>[New] 2024 Approved LiveTV and Facebook Integrating FB Livestreams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-androids-best-moba-games-roundup-10-edition/"><u>[New] Android's Best MOBA Games Roundup - #10 Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-christian-hymnal-options-for-ringtone-customization/"><u>[New] In 2024, Christian Hymnal Options for Ringtone Customization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/01618770-2024-approved-boost-your-visibility-with-a-cutting-edge-set-of-banners/"><u>2024 Approved Boost Your Visibility with a Cutting-Edge Set of Banners</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-premium-steadicam-models-to-transform-your-dslr-filmmaking-experience/"><u>2024 Approved Premium Steadicam Models to Transform Your DSLR Filmmaking Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ahead-with-these-must-have-anker-accessories-for-your-new-iphone-arrival-cuttingedgegizmos/"><u>Get Ahead with These Must-Have Anker Accessories for Your New iPhone Arrival | CuttingEdgeGizmos</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-choose-the-right-app-for-total-data-wipe-off-on-your-apple-devices-top-1-cups/"><u>How to Choose the Right App for Total Data Wipe-Off on Your Apple Devices: Top 1 Cups</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-how-to-turn-a-tiktok-sound-into-your-ringtone-a-detailed-guidance/"><u>In 2024, How To Turn A TikTok Sound Into Your Ringtone? A Detailed Guidance</u></a></li>
+<li><a href="https://win-webster.techidaily.com/kostenlos-und-sicher-top-alternativen-zu-shadowprotect-im-jahr-2024/"><u>Kostenlos Und Sicher – Top-Alternativen Zu ShadowProtect Im Jahr 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/managing-diverse-networking-scenarios-in-macos-a-step-by-step-guide-expert-advice-from-zdnet/"><u>Managing Diverse Networking Scenarios in macOS: A Step-by-Step Guide | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated Apple Watch Accessories : Comprehensive Reviews by Tech Specialists</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whatsapp-vs-signal-a-comprehensive-comparison-of-messaging-apps/"><u>WhatsApp vs Signal: A Comprehensive Comparison of Messaging Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/white-noise-machines-or-ambient-sounds/"><u>White Noise Machines or Ambient Sounds:</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Link to Shared Resources: A Mac User's Guide to Mapping Drives"
-date: 2024-09-11T16:21:54.789Z
-updated: 2024-09-15T16:21:31.969Z
+date: 2024-11-20T01:38:58.559Z
+updated: 2024-11-25T04:43:02.158Z
 categories:
   - BestProducts
 description: "This Article Describes Efficiently Link to Shared Resources: A Mac User's Guide to Mapping Drives"
@@ -19,6 +19,10 @@ In This Article
 * [Frequently Asked Questions](https://www.lifewire.com/#toc-frequently-asked-questions-c6fed4bb-9136-4083-9e82-76db0f224b34)
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Must-Haves: Computers, Laptops and Peripherals
 
@@ -38,11 +42,19 @@ In This Article
 
 ![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Skynesher/Getty
 
  For example, if your child is a STEM kid or a graphic artist, more power and storage are necessary overall. On the other hand, kids who just need to manage basic projects and complete homework on time will probably do fine with a standard Chromebook.  
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Look for Student Discounts
 
@@ -59,6 +71,10 @@ Skynesher/Getty
 [Computer & Laptop Reviews & Top Picks](https://www.lifewire.com/best-laptops-to-buy-4043650)
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Connections: The Power of Phones and Smartwatches
 
@@ -87,10 +103,7 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using Apps and Sites Can Support Good Study Habits
@@ -98,13 +111,6 @@ Skynesher/Getty
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
 
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
@@ -158,5 +164,17 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-superior-third-ranked-ipad-recording-apps/"><u>[Updated] 2024 Approved Superior Third-Ranked iPad Recording Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlocking-potential-integrating-snapchat-into-business-models/"><u>2024 Approved Unlocking Potential Integrating Snapchat Into Business Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-ordered-to-pay-19-billion-by-european-commission-over-app-store-monopoly-concerns-coverage/"><u>Apple Ordered to Pay €1.9 Billion by European Commission Over App Store Monopoly Concerns | Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pros-performance-during-a-full-shift-insights-from-my-eight-hour-experience/"><u>Apple Vision Pro's Performance During a Full Shift - Insights From My Eight-Hour Experience.</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-mystery-of-msdia80dll-essential-insights-for-secure-system-management/"><u>Deciphering the Mystery of msdia80.dll - Essential Insights for Secure System Management</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminating-your-suggested-posts-on-instagram-a-step-by-step-guide/"><u>Eliminating Your Suggested Posts on Instagram: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-efficiency-at-play-reducing-youtube-video-length/"><u>In 2024, Efficiency at Play Reducing YouTube Video Length</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlock-your-screen-androids-premier-free-recorder-tools-for-2024/"><u>Unlock Your Screen Android's Premier Free Recorder Tools for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-latest-innovation-explore-the-potential-of-its-revolutionary-game-mode-feature/"><u>Unveiling Apple's Latest Innovation: Explore the Potential of Its Revolutionary Game Mode Feature</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-windows-10s-finest-best-webcam-recording-software-revealed/"><u>Updated Windows 10S Finest Best Webcam Recording Software Revealed</u></a></li>
+</ul></div>
 

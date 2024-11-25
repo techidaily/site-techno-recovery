@@ -1,7 +1,7 @@
 ---
 title: "Mastering Line Creation in Word: A Comprehensive Tutorial"
-date: 2024-09-13T16:16:22.464Z
-updated: 2024-09-15T16:26:34.956Z
+date: 2024-11-17T19:57:34.331Z
+updated: 2024-11-24T22:22:36.189Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Line Creation in Word: A Comprehensive Tutorial"
@@ -36,6 +36,14 @@ Close
 
 ![A list of several line types added to a Word document](https://www.lifewire.com/thmb/MDLUprJnAbH7BQyqUycsvB42OEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Word_linetypes-3121d46c463b4445837ff9fcb06c8471.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use the Horizontal Line Tool to Insert a Line in Word 
 
  Another way to make a line in your document is with the built-in Horizontal Line tool, accessible via the Borders feature.
@@ -59,28 +67,28 @@ Close
 ![Microsoft Word Insert tab.](https://www.lifewire.com/thmb/AmvL8LzlWgX_2I57w2XZn6gOis8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WordInsertMenu-de03eaa14bbd4045aa6181fee02093fb.jpg)
 2. In the**Illustrations** group, select the**Shapes** drop-down arrow.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Microsoft Word with the Shapes menu highlighted](https://www.lifewire.com/thmb/72Xdq0nPvB0M_OMVxNg6gSySsJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-annotating-an-image-in-microsoft-word-3539867-86870dbe0bd54a33b6a00e16532bd93c.jpg)
 3. In the**Lines** group, choose a line shape.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Word's Shapes menu with the Lines section highlighted](https://www.lifewire.com/thmb/faFUu5tlfOe8GC9iGabZ5dqDEak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-horizontal-lines-in-word-4169481-4499f0e5ad0144809c06d04742850cae.jpg)
 4. Drag across the document where you want the line to appear.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Inserting a line in Word.](https://www.lifewire.com/thmb/5RtK3vkEoasdq3bveWGRqZIA-Rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WordInsertLine-2b65a57665274cb58fb688c41dfb4be0.jpg)
 5. To change how the line appears, select it to enable the**Shape Format** tab (called**Format** in some versions of Word). It's there that you can edit its color, use a different line style, and apply effects.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Word Shape Format tab.](https://www.lifewire.com/thmb/69pvq98lXahA03qAFKr8ox7fBaM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Word_linedesign-56270eba450549208dc1a55a4203b1f7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [  How to Insert Source Code Into a Word Document ](https://www.lifewire.com/insert-source-code-into-word-document-3994582) 
 
@@ -120,5 +128,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-comparative-study-samsung-vs-traditional-photo-tools/"><u>[New] 2024 Approved Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-exclusive-list-of-8-best-apps-to-enhance-facebook-likes/"><u>[New] Exclusive List of 8 Best Apps To Enhance Facebook Likes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-strategies-for-soaring-up-the-youtube-ranks-list/"><u>[New] In 2024, Strategies for Soaring Up the YouTube Ranks List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-cybersecurity-50-phone-safety-and-understanding-ransomware-a-look-inside-chatgpts-impact-on-our-series/"><u>Affordable Cybersecurity: $50 Phone Safety & Understanding Ransomware - A Look Inside ChatGPT's Impact on Our Series</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipation-builds-the-latest-rumors-confirm-new-ipad-models-set-for-release-in-spring-of-2024-zdnet-insights/"><u>Anticipation Builds: The Latest Rumors Confirm New iPad Models Set for Release in Spring of 2024 - ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-apples-offering-update-to-watchos-11-identifying-compatible-and-incompatible-apple-watch-models/"><u>Comprehensive Guide: Apples Offering Update to WatchOS 11 - Identifying Compatible and Incompatible Apple Watch Models</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-dynamics-redefined-the-top-4-platform-driven-changes-afoot/"><u>Digital Dynamics Redefined: The Top 4 Platform-Driven Changes Afoot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-latest-visionos-enhancements-transforming-personas-and-beyond-discover-the-updates/"><u>Exploring Apple's Latest VisionOS Enhancements: Transforming Personas and Beyond - Discover the Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-helperdll-files-fixing-common-system-errors/"><u>How to Restore Helper.dll Files - Fixing Common System Errors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-14-plus-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 14 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-safe-and-legal-ways-to-get-filmora-for-free-no-torrent-viruses-for-2024/"><u>New Safe and Legal Ways to Get Filmora for Free (No Torrent Viruses) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-on-free-3d-video-extraction-secrets-to-download-premium-hd-videos-from-youtube-and-vimeo-effortlessly/"><u>Step-by-Step Guide on Free 3D Video Extraction: Secrets to Download Premium HD Videos From YouTube and Vimeo Effortlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-sending-voice-notes-with-your-iphone/"><u>Step-by-Step Guide: Sending Voice Notes with Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-se-cases-of-2022-secure-and-shield-with-style-techradar/"><u>Top-Rated iPhone SE Cases of 2022 - Secure & Shield with Style | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-full-potential-on-macos-monterey-tailoring-custom-concentration-settings-to-dodge-distractions-techniques-spotlighted/"><u>Unlocking Your Full Potential on macOS Monterey: Tailoring Custom Concentration Settings to Dodge Distractions - Techniques Spotlighted</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728498844897-windows-10-pc/"><u>Windows 10 のスタートアップ修復で PC 起動に成功：コマンドプロンプト操作ガイド</u></a></li>
+</ul></div>
 
