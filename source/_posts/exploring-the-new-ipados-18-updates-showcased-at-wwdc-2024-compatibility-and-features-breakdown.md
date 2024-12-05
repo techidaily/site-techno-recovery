@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown
-date: 2024-11-24T06:13:57.746Z
-updated: 2024-11-25T13:00:07.055Z
+date: 2024-12-01T00:39:23.627Z
+updated: 2024-12-05T00:40:03.358Z
 tags:
   - apple
 categories:
@@ -26,11 +26,11 @@ This year, Apple upgraded each of its operating systems significantly, introduci
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## The best iPadOS 18 features announced at WWDC
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## The best iPadOS 18 features announced at WWDC
 
 ## 1\. Apple Intelligence on the iPad
 
@@ -52,10 +52,6 @@ iPad users can also leverage [generative AI](https://www.zdnet.com/article/what-
 
 Other new Apple Intelligence features on the iPad include redesigning the Photos app, enhanced Siri with gesture control via AirPods Pro, and more. These features will give iPad users a more intuitive tablet with better hands-free control and multitasking capabilities. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. A built-in Calculator for iPad
 
 During WWDC, Apple announced that the Calculator app finally will be included as a native app with iPadOS 18\. It will also get a redesign, as the Mac Calculator will now resemble the iPhone app, with round buttons instead of square ones, and will feature new capabilities with Apple Pencil integrations.
@@ -71,7 +67,7 @@ Until now, iPad users looking for a calculator had to download third-party apps 
 A built-in Calculator app eliminates the need to download a third-party app and allows Apple to leverage the iPad's larger screen to offer complex calculations and advanced visualizations. This feature enables everyday users, like students, to use the iPad more effectively for math and science queries. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. An intuitive Notes app
@@ -83,7 +79,7 @@ The Notes app for iPad also has been redesigned, with Smart Script in Notes for 
 Smart Script in Notes also lets users erase portions of notes by scratching them out. This feature also draws from the Calculator on iPad, letting users make calculations and graphs like they would in the Calculator. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Passwords app
@@ -95,6 +91,10 @@ Apple has used the iCloud Keychain for years now, a way to store passwords and l
 Apple is making the new Passwords app available for iOS and iPadOS, giving users a more user-friendly way to access, edit, share, and autofill their passwords. Instead of digging through the iPad's Settings to find the iCloud Keychain, users will have a separate app called Passwords, which works much like LastPass and 1Password. 
 
 As a longtime LastPass user and Keychain disdainer, I look forward to testing this app and enjoying centralized password management with an enhanced user interface. I expect the Passwords app for iPad will greatly improve security for many users, making the access and management of passwords more convenient. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What we didn't get: An 'always on' display
 
@@ -119,7 +119,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPads will support iPadOS 18?
@@ -163,18 +163,18 @@ Here are the iPad models that will be updated to iPadOS 18 when available:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-subtitles-that-shine-discover-the-best-free-online-tools/"><u>[New] Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-xperia-1-v-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Xperia 1 V.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-career-5-proven-steps-for-aspiring-managers-featured-on-zdnet/"><u>Elevate Your Career: 5 Proven Steps for Aspiring Managers Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/emerging-skills-in-artifice-intelligence-and-internet-of-things-get-the-spotlight-in-singapores-strategic-workforce-planning-zdnet-exclusive/"><u>Emerging Skills in Artifice Intelligence & Internet of Things Get the Spotlight in Singapore's Strategic Workforce Planning - ZDNET Exclusive</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/eradicate-the-chromium-threat-comprehensive-guide-to-cleaning-your-pc-with-malwarefox/"><u>Eradicate the Chromium Threat: Comprehensive Guide to Cleaning Your PC with MalwareFox</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-y36-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo Y36 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expanding-creative-horizons-with-ae-fonts/"><u>In 2024, Expanding Creative Horizons with AE Fonts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ntly-accessible-music-mixes-assembling-youtube-playlists-webmobile-style/"><u>Instantly Accessible Music Mixes Assembling YouTube Playlists Web/Mobile Style</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-focus-for-remote-professionals-proven-strategies-revealed-by-zdnet/"><u>Maximizing Focus for Remote Professionals: Proven Strategies Revealed by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-future-with-generative-ai-the-birth-of-innovative-software-leadership-roles-zdnet/"><u>Navigating the Future with Generative AI: The Birth of Innovative Software Leadership Roles | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-intersection-of-math-and-business-growth-in-the-age-of-artificial-intelligence-insights-from-zdnet/"><u>The Intersection of Math & Business Growth in the Age of Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-list-of-pro-level-gamer-audio-devices/"><u>Ultimate List of Pro-Level Gamer Audio Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-elite-recording-equipment-headset-screen-preferred/"><u>[New] 2024 Approved Elite Recording Equipment Headset Screen Preferred</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-effortless-and-easy-video-snapshots-of-win11/"><u>[New] Effortless & Easy Video Snapshots of Win11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-gotomeeting-precision-capture-across-all-platforms-for-2024/"><u>[New] GoToMeeting Precision Capture Across All Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-perfecting-presentations-choosing-from-top-10-free-screen-captures-for-mac/"><u>[Updated] In 2024, Perfecting Presentations Choosing From Top 10 Free Screen Captures for Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-sierra-comprehensive-icloud-drives/"><u>[Updated] Unlocking Sierra Comprehensive iCloud Drives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/vating-content-with-a-click-phones-and-youtube-for-2024/"><u>Captivating Content with a Click Phones & YouTube for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/examining-the-new-microsoft-surface-laptop-user/"><u>Examining the New Microsoft Surface Laptop # User</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/moneyminded-cloud-vault-capacious-cost-effective/"><u>MoneyMinded Cloud Vault - Capacious, Cost-Effective</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-meta-quest-3-experience-the-must-have-50-eyeglass-companion-insights-from-zdnet/"><u>Revolutionize Your Meta Quest 3 Experience: The Must-Have $50 Eyeglass Companion - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-windows-interface-managing-firewall-zones-discreetly/"><u>Secure Windows Interface: Managing Firewall Zones Discreetly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-innovative-bet-by-agog-co-founders-leveraging-arvrxr-tech-to-transform-social-good-exclusive-zdnet-coverage/"><u>The Innovative Bet by Agog Co-Founders: Leveraging AR/VR/XR Tech to Transform Social Good | Exclusive ZDNET Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-meta-quest-2-bargain-at-just-200-top-gadget-steal-this-holiday/"><u>Unbeatable Meta Quest 2 Bargain at Just $200 - Top Gadget Steal This Holiday!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-early-beta-trials-for-apple-vision-pro-with-testflight-comprehensive-guide-on-how-to-get-in-expert-tips-by-zdnet/"><u>Unlock Early Beta Trials for Apple Vision Pro with TestFlight - Comprehensive Guide on How to Get In | Expert Tips by ZDNET</u></a></li>
 </ul></div>
 

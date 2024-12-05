@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Sound Problems During PowerPoint Slideshow
-date: 2024-09-13T16:28:18.522Z
-updated: 2024-09-15T16:22:57.389Z
+date: 2024-12-03T17:20:12.995Z
+updated: 2024-12-05T08:35:03.992Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting Sound Problems During PowerPoint Slideshow
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/WGjurT6eL6LVcjZabSkhr5_rq7I=/400x300/fi
  Mfc42d.dll errors are caused by situations that lead to the removal or corruption of the mfc42d[DLL file](https://www.lifewire.com/what-is-a-dll-file-2625852) , which is the debug version of[mfc42.dll](https://www.lifewire.com/how-to-fix-mfc42-dll-not-found-or-missing-errors-2623635) .  
   
  This error could apply to any program or system that might utilize the file on any of Microsoft's[operating systems](https://www.lifewire.com/operating-systems-2625912) , including[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) ,[Windows 8](https://www.lifewire.com/windows-8-2626235) , etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Mfc42d.dll Errors
 
@@ -42,15 +46,27 @@ thumbnail: https://www.lifewire.com/thmb/WGjurT6eL6LVcjZabSkhr5_rq7I=/400x300/fi
  All the information on your hard drive will be erased during this step. Make sure you've made the best attempt possible to fix the mfc42d.dll error using a troubleshooting step prior to this one.
 14. [Troubleshoot for a hardware problem](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) if any mfc42d.dll errors persist. After a clean Windows installation, your DLL problem can only be hardware related.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, see[How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a lot more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Causes of Mfc42d.dll Errors
 
  In some cases, mfc42d.dll errors could indicate a[registry](https://www.lifewire.com/windows-registry-2625992) problem, a virus or malware issue, or even a[hardware](https://www.lifewire.com/computer-hardware-2625895) failure.
 
 ![mfc42d DLL error message in Windows](https://www.lifewire.com/thmb/9-OyBiAFlHzu5wxvtGlgn_zNcpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mfc42d-dll-error-message-5af067e543a10300367c0381.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are several ways mfc42d.dll errors can show up on your computer. Here are some of the more common error messages you might see:
 
@@ -89,12 +105,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-optimizing-video-playback-loops-for-comfortable-viewing-on-tv/"><u>[New] 2024 Approved Optimizing Video Playback Loops for Comfortable Viewing on TV</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-transforming-ordinary-sessions-into-visual-extravaganzas-in-zoom/"><u>[New] 2024 Approved Transforming Ordinary Sessions Into Visual Extravaganzas in Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-10-free-recorders-enhancing-virtual-meetings/"><u>[New] In 2024, Top 10 Free Recorders Enhancing Virtual Meetings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-seamlessly-saving-your-screen-premium-choices-on-pc-and-mac-for-2024/"><u>[New] Seamlessly Saving Your Screen Premium Choices on PC & Mac for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/battle-of-the-titans-how-to-decide-between-a-google-pixel-watch-and-an-apple-watch-series-nine-for-unmatched-smartwatch-excellence/"><u>Battle of the Titans: How to Decide Between a Google Pixel Watch and an Apple Watch Series Nine for Unmatched Smartwatch Excellence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-these-6-creative-applications-for-chatgpts-advanced-coding-feature/"><u>Explore These 6 Creative Applications for ChatGPT's Advanced Coding Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-adding-several-locations-with-pin-drops-on-google-maps/"><u>Guide: Adding Several Locations with Pin Drops on Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apples-cutting-edge-artificnial-intelligence-elevates-siri-and-customizes-user-experience-on-the-home-screen-expert-analysis-by-zdnet/"><u>How Apple's Cutting-Edge Artificnial Intelligence Elevates Siri and Customizes User Experience on the Home Screen | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-sync-apple-homepod-with-your-television-device/"><u>How to Seamlessly Sync Apple HomePod With Your Television Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-itel-p55plus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Itel P55+ to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/step-into-the-stream-a-guide-to-roku-and-facebook-live-broadcasts-for-2024/"><u>Step Into the Stream A Guide to ROKU & Facebook Live Broadcasts for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tiny-but-mighty-exploring-performance-and-portability-of-apples-latest-m4-powered-mac-mini-tech-insights-on-zdnet/"><u>Tiny but Mighty: Exploring Performance & Portability of Apple's Latest M4-Powered Mac Mini | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-9-optimizados-gratis-herramientas-online-para-producir-contenido-inigualable-en-youtube/"><u>Top 9 Optimizados Gratis Herramientas Online Para Producir Contenido Inigualable en Youtube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-iphone-devices-unveiled-by-tech-experts-comprehensive-reviews/"><u>Top-Ranking iPhone Devices Unveiled by Tech Experts - Comprehensive Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-non-functional-search-in-windows-10/"><u>Troubleshooting Non-Functional Search in Windows 10?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-eradicating-permanent-display-impressions-on-screens/"><u>Ultimate Guide: Eradicating Permanent Display Impressions on Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-our-selection-of-leading-learning-applications/"><u>Unveiling Our Selection of Leading Learning Applications</u></a></li>
+</ul></div>
 

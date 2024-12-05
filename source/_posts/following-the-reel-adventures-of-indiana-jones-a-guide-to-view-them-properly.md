@@ -1,7 +1,7 @@
 ---
 title: "Following the Reel Adventures of Indiana Jones: A Guide to View Them Properly"
-date: 2024-09-09T09:13:55.510Z
-updated: 2024-09-10T09:13:55.510Z
+date: 2024-12-02T03:01:03.149Z
+updated: 2024-12-05T06:48:21.030Z
 categories:
   - BestProducts
 description: "This Article Describes Following the Reel Adventures of Indiana Jones: A Guide to View Them Properly"
@@ -18,26 +18,12 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 
 ![Coverart from the Lord of the Rings movies.](https://www.lifewire.com/thmb/JQ_b14Z5k98fMwaVF5JhQ5JI0JM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/461bcc6e1289cdfa5dda4ac06f441d83-03e90ffe75dc4e1d9ab42de12ef069b7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 New Line Cinemas
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Chronological Order
 
  One way to watch_The Lord of the Rings_ is to watch them in the chronological order Tolkien told the tale. As Bilbo Baggins wrote, "Down from the door where it began. Now, far ahead the road has gone, and I must follow if I can."
@@ -56,11 +42,9 @@ New Line Cinemas
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Order of Release
 
  Do you want to watch_The Lord of the Rings_ , including_The Hobbit_ , in the order they were released? Many people do this to experience how it felt to experience the Tolkien story in the way Director Peter Jackson told it on the screen. This is because there is information and elements of the story which make more sense to moviegoers who've already seen the LOTR trilogy.
@@ -77,17 +61,9 @@ New Line Cinemas
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Is the Right Order?
 
  While you could boil 'em, mash 'em, and stick 'em in a stew, some of the stories in_The Lord of the Rings_ set up the viewer for seeing those tales unfold in_The Hobbit_ trilogy. On the other hand, the actual storyline in The Hobbit itself serves as a backdrop to events that take place in LOTR.
@@ -95,11 +71,9 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Does 'The Rings of Power' Take Place?
 
  Amazon's original series_The Rings of Power_ happens thousands of years before both_The Lord of the Rings_ and_The Hobbit_ . In fact, it's in a wholly different era of Middle-earth: the Second Age. Despite that, it does include some returning characters from the later stories, including Galadriel and Elrond (elves are immortal, remember).
@@ -107,17 +81,9 @@ New Line Cinemas
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is 'The Hunt for Gollum'?
 
  In May 2024, Warner Bros. announced it had started development two more Middle-earth films. The first of these,_The Hunt for Gollum_ , will be out in 2026 and bring the writers of the original trilogy back. Andy Serkis, who played Gollum in four movies, will direct (and likely reprise the role, given the title).
@@ -157,8 +123,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +130,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-tier-80s-visual-tricks-for-elevated-editing/"><u>[New] 2024 Approved Top-Tier 80S Visual Tricks for Elevated Editing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-premium-bargains-no-cost-screen-recorder-extensions-for-chromeos-for-2024/"><u>[Updated] Premium Bargains No-Cost Screen Recorder Extensions for ChromeOS for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tailoring-content-advanced-pc-video-editing-methods-for-youtube/"><u>[Updated] Tailoring Content Advanced PC Video Editing Methods for YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-process-for-making-a-stellar-podcast-launch-video/"><u>2024 Approved Step-By-Step Process for Making a Stellar Podcast Launch Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-choosing-the-right-microphone-for-mac-devices-a-compreenas/"><u>In 2024, Choosing the Right Microphone for Mac Devices (A Compreenas)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-transform-engagement-crafted-queries-for-personalized-ig-stories/"><u>In 2024, Transform Engagement Crafted Queries for Personalized IG Stories</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/quick-tips-for-seamless-pdf-file-transfer-between-iphone-and-ipad/"><u>Quick Tips for Seamless PDF File Transfer Between iPhone and iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-complimentary-vpn-options-for-your-iphone-expert-insights-from-zdnet/"><u>Top 4 Complimentary VPN Options for Your iPhone: Expert Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-vpns-to-enhance-your-torrenting-experience-a-comprehensive-review-by-zdnet/"><u>Top 4 VPNs to Enhance Your Torrenting Experience: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-recommended-vpn-services-for-students-insights-from-zdnet/"><u>Top 5 Recommended VPN Services for Students : Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-prime-day-bargain-metas-51er-new-quest-vr-headset-with-512gb-capacity-on-special-offer-limited-availability-now-zdnet/"><u>Top October Prime Day Bargain: Meta's 51Er New Quest VR Headset with 512GB Capacity on Special Offer - Limited Availability Now | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-uk-vpn-services-of-2022-expert-review-by-zdnet/"><u>Top-Rated UK VPN Services of 2022 - Expert Review by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-vpn-apps-for-ios-devices-comprehensive-reviews-by-experts-choose-the-optimal-protection/"><u>Top-Rated VPN Apps for iOS Devices: Comprehensive Reviews by Experts - Choose the Optimal Protection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862654706-unbeatable-deal-m3-macbook-air-with-16gb-ram-and-13-display-at-just-1149/"><u>Unbeatable Deal: M3 MacBook Air with 16GB RAM & 13 Display at Just $1,149</u></a></li>
+</ul></div>
 

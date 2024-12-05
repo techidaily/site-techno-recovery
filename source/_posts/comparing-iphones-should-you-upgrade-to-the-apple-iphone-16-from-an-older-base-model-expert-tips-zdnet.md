@@ -1,7 +1,7 @@
 ---
 title: "Comparing iPhones: Should You Upgrade to the Apple iPhone 16 From an Older Base Model? Expert Tips | ZDNET"
-date: 2024-11-23T21:54:59.851Z
-updated: 2024-11-25T13:07:37.237Z
+date: 2024-12-02T09:09:25.538Z
+updated: 2024-12-04T17:21:14.272Z
 tags:
   - apple
 categories:
@@ -41,13 +41,13 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
 
@@ -56,6 +56,10 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 **Also: [iPhone 16 Pro hands-on: My 3 favorite things about this ridiculously overpowered supercomputer](https://www.zdnet.com/article/iphone-16-pro-hands-on/)**
 
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. You'd like to get your hands on the bigger screen
 
@@ -66,7 +70,7 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
@@ -79,17 +83,9 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy (or keep) the iPhone 14 Pro if…
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
 
@@ -98,6 +94,10 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 **Also: [iPhone 14 Pro review: More innovation for the same price as the iPhone 13 Pro](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)**
 
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. You just finished paying it off
 
@@ -110,7 +110,7 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 [iPhone 14 Pro (Pre-owned) $634.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%2Fref%3Dasc%5Fdf%5FB0BN95FRW91727002800000%3Fcreative%3D395261%26creativeASIN%3DB0BN95FRW9%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2524cbb6-cbb0-4497-aac0-46108dd432d2%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -147,22 +147,17 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-integrating-advanced-movie-capture-on-diverse-tech-environments/"><u>[New] 2024 Approved Integrating Advanced Movie Capture on Diverse Tech Environments</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-efficiently-producing-quality-videos-on-the-latest-windows-os/"><u>[New] In 2024, Efficiently Producing Quality Videos on the Latest Windows OS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pc-playback-protocol-for-consoles-an-instructive-path-for-2024/"><u>[New] PC Playback Protocol for Consoles An Instructive Path for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/budget-friendly-power-station-revolutionizes-road-trips-a-firsthand-review-zdnet/"><u>Budget-Friendly Power Station Revolutionizes Road Trips: A Firsthand Review - ZDNet</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/convert-and-save-your-favorite-limelight-streams-in-high-quality-formats-like-mp4-avi-and-more-with-easy-video-extractor/"><u>Convert and Save Your Favorite Limelight Streams in High-Quality Formats Like MP4, AVI & More with Easy Video Extractor</u></a></li>
-<li><a href="https://win-updates.techidaily.com/demystifying-the-mrbeast-prize-scheme-tips-for-staying-safe-from-potential-frauds/"><u>Demystifying the MrBeast Prize Scheme: Tips for Staying Safe From Potential Frauds</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experts-choice-for-optimal-home-ev-charger-solutions-in-202n-insights-by-zdnet/"><u>Experts' Choice for Optimal Home EV Charger Solutions in 202N - Insights by ZDNET</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-poco-c55-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Poco C55 Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-greek-mythology-various-constellations-were-named-after-heroes-and-creatures-from-their-myths-such-as-orion-the-hunter-pegasus-the-winged-horse-and-andro63/"><u>In Greek Mythology, Various Constellations Were Named After Heroes and Creatures From Their Myths, Such as Orion (the Hunter), Pegasus (the Winged Horse), and Andromeda (a Princess Saved by Perseus).</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/powering-your-entire-house-how-the-ecoflow-portable-generator-saved-my-day-during-recent-blackouts-insights-from-zdnet/"><u>Powering Your Entire House: How the EcoFlow Portable Generator Saved My Day During Recent Blackouts - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/shop-now-get-your-anker-ebrillion-powered-charger-for-799-only-zdnet/"><u>Shop Now: Get Your Anker Ebrillion-Powered Charger for $799 Only! | ZDNET</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-mac-user-writers-guide-to-dynamic-srt-adjustment-for-2024/"><u>The Mac User’ Writers Guide to Dynamic SRT Adjustment for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-automotive-jump-starters-of-2024-comprehensive-reviews-by-tech-experts-autoreviewz/"><u>Top-Rated Automotive Jump Starters of 2024 - Comprehensive Reviews by Tech Experts | AutoReviewZ</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-led-flashlights-comprehensive-review-by-professionals-techspot/"><u>Top-Rated LED Flashlights - Comprehensive Review by Professionals | TechSpot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-led-flashlights-comprehensive-review-by-tech-experts-gizmo-central/"><u>Top-Rated LED Flashlights - Comprehensive Review by Tech Experts | Gizmo Central</u></a></li>
-<li><a href="https://fox-info.techidaily.com/visualizing-creativity-to-perfection-with-magix-video-pro-x/"><u>Visualizing Creativity to Perfection with Magix Video Pro X</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-prime-phone-video-and-image-capturing-best-apps-for-iphones-and-android/"><u>[New] In 2024, Prime Phone Video & Image Capturing Best Apps for iPhones and Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-hobbits-guide-watching-the-epic-middle-earth-story-in-proper-order/"><u>A Hobbit's Guide: Watching the Epic Middle-Earth Story in Proper Order</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhance-post-strategy-with-these-top-8-ios-and-android-planners/"><u>Enhance Post Strategy with These Top 8 iOS & Android Planners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-dark-side-of-language-models-on-code/"><u>Exploring the Dark Side of Language Models on Code</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-home-management-how-to-delete-connected-gadgets-easily/"><u>Google Home Management: How to Delete Connected Gadgets Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-by-drfone-android/"><u>How to Bypass FRP from Nokia?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 13 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-pip-functionality-in-microsoft-edge/"><u>In 2024, Navigating PIP Functionality in Microsoft Edge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-display-detection-woes-top-techniques-to-ensure-your-external-screen-works-flawlessly/"><u>Mac Display Detection Woes: Top Techniques to Ensure Your External Screen Works Flawlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/series-8-vs-series-10-which-apple-watch-is-right-for-your-needs-insights-from-zdnet/"><u>Series 8 vs Series 10: Which Apple Watch Is Right for Your Needs – Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-tutorial-for-splitting-mp4mov-videos-on-windows-and-mac/"><u>Step-by-Step Tutorial for Splitting MP4/MOV Videos on Windows and Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-pressure-five-items-for-a-wise-fitness-tracker-investment/"><u>The Ultimate Checklist: Pressure Five Items for a Wise Fitness Tracker Investment</u></a></li>
 </ul></div>
 

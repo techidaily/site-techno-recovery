@@ -1,7 +1,7 @@
 ---
 title: "Apple Event Highlights: Exploring Anticipated Features of Siri, iOS 18 at Today's WWDC Presentation | Tech Innovations Blog"
-date: 2024-11-20T14:58:03.304Z
-updated: 2024-11-25T07:47:48.975Z
+date: 2024-11-28T17:33:59.103Z
+updated: 2024-12-04T16:56:27.283Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,17 +128,20 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-featured-social-media-exchange-for-2024/"><u>[New] Discovering Featured Social Media Exchange for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-engagement-through-effective-video-strategies-on-fb/"><u>[New] Enhancing Engagement Through Effective Video Strategies on FB</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-heavy-duty-drone-powerhouses/"><u>[Updated] The Ultimate Guide to Heavy-Duty Drone Powerhouses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-prime-vs-business-prime-showdown-evaluating-costs-perks-and-key-differences-on-zdnet/"><u>Amazon Prime vs Business Prime Showdown: Evaluating Costs, Perks, and Key Differences on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/breaking-news-on-alexas-milestone-more-than-100-million-matter-compatible-echo-units-as-reported-by-zdnet/"><u>Breaking News on Alexa’s Milestone: More than 100 Million Matter-Compatible Echo Units, As Reported by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-you-trust-your-purchases-on-tiktok-shops-a-positive-shopping-experience-shared-by-zdnet/"><u>Can You Trust Your Purchases on TikTok Shops? A Positive Shopping Experience Shared by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-scribes-leveraging-ai-for-dynamic-game-dialogue-writing/"><u>Digital Scribes: Leveraging AI for Dynamic Game Dialogue Writing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/empowering-small-online-retailers-unveiling-how-alibaba-utilizes-generative-ai-for-enhanced-testing-methods/"><u>Empowering Small Online Retailers: Unveiling How Alibaba Utilizes Generative AI for Enhanced Testing Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/green-playtime-top-8-eco-conscious-ar-games/"><u>Green Playtime: Top 8 Eco-Conscious AR Games</u></a></li>
-<li><a href="https://solve-news.techidaily.com/top-rangierte-kostenlose-h265-hevc-uhd-videospieler-fur-das-jahr-2022-neueste-liste/"><u>Top-Rangierte Kostenlose H.265 HEVC UHD-Videospieler Für Das Jahr 2022 - Neueste Liste</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-great-debate-final-cut-pro-vs-lumafusion-for-video-editing/"><u>Updated 2024 Approved The Great Debate Final Cut Pro vs LumaFusion for Video Editing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/utilizing-ai-how-a-modern-store-maintains-stock-with-machine-learning-and-computer-vision-techniques-insights-from-zdnet/"><u>Utilizing AI: How a Modern Store Maintains Stock with Machine Learning & Computer Vision Techniques - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-brand-awareness-with-tailored-engaging-youtube-banners/"><u>[New] In 2024, Elevating Brand Awareness with Tailored, Engaging YouTube Banners</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-effortless-fusion-of-youtube-audio-with-imovie-masterpieces/"><u>2024 Approved Effortless Fusion of YouTube Audio with iMovie Masterpieces</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clearing-up-cannot-be-opened-as-developer-cant-be-verified-mac-troubleshooting-tips-and-solutions/"><u>Clearing Up 'Cannot Be Opened as Developer Can’t Be Verified': Mac Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-understanding-lg-channels/"><u>Comprehensive Guide to Understanding LG Channels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-ultimate-free-subtitles-convertors/"><u>Discover the Ultimate Free Subtitles Convertors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eject-a-sim-from-your-iphone-without-special-tools-a-guide/"><u>Eject a SIM From Your iPhone without Special Tools – A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-confirm-if-youre-actually-enjoying-dolby-atmos-surround-sound/"><u>How to Confirm If You're Actually Enjoying Dolby Atmos Surround Sound</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-next-gen-portable-play-top-gba-on-android/"><u>In 2024, Next-Gen Portable Play Top GBA on Android</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/official-installation-guide-intels-iris-plus-graphics-with-hd-graphics-510-driver-on-windows-11/"><u>Official Installation Guide: Intel's Iris Plus Graphics with HD Graphics 510 Driver on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/restoring-clarity-resolving-iphones-blurry-photos-for-2024/"><u>Restoring Clarity Resolving iPhone's Blurry Photos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-collection-of-upcoming-psvr-2-games-full-lineup-unveiled/"><u>The Ultimate Collection of Upcoming PSVR 2 Games - Full Lineup Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-fuhrende-programme-zum-ausschneiden-von-dvds-kopierschutz-freie-software/"><u>Top 10 Führende Programme Zum Ausschneiden Von DVDs - Kopierschutz-Freie Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-guide-to-top-12-action-cams-with-satellite-based-locators-for-2024/"><u>Ultimate Guide to Top 12 Action Cams with Satellite-Based Locators for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-cross-compatibility-running-your-favorite-android-apps-on-windows-10-machines/"><u>Unlocking Cross-Compatibility: Running Your Favorite Android Apps on Windows 10 Machines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-when-android-texting-stops-working-a-step-by-step-guide/"><u>What to Do When Android Texting Stops Working: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

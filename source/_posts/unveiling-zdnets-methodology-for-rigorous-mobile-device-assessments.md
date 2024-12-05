@@ -1,7 +1,7 @@
 ---
 title: Unveiling ZDNet's Methodology for Rigorous Mobile Device Assessments
-date: 2024-11-22T21:07:43.370Z
-updated: 2024-11-25T09:33:54.071Z
+date: 2024-12-04T04:13:20.243Z
+updated: 2024-12-05T00:17:58.983Z
 tags:
   - apple
 categories:
@@ -22,16 +22,12 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7180d390-9bc6-4241-aa0a-063f43d34455%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best small tablets of 2024
@@ -50,10 +46,14 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -86,11 +86,11 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Fire 7 Tablet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best budget small tablet
 
@@ -152,7 +152,7 @@ Cons
 * No warm light option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
@@ -244,6 +244,10 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
@@ -258,23 +262,19 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are mini Android tablets worth it?
 
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,18 +322,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elite-fighters-unleashed-selecting-superior-street-fighter-clones/"><u>[New] 2024 Approved Elite Fighters Unleashed Selecting Superior Street Fighter Clones</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-quick-steps-to-become-a-9gag-meme-genius/"><u>[New] 2024 Approved Quick Steps to Become a 9GAG Meme Genius</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-ideal-winter-settings-for-warmer-yt-videos/"><u>[New] Ideal Winter Settings for Warmer YT Videos</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1-wie-kunt-u-onrechtvaardig-geaanvaarde-speicherruimte-herinneren-op-uw-usb-stick-3-efficiense-methoden/"><u>1. Wie Kunt U Onrechtvaardig Geaanvaarde Speicherruimte Herinneren Op Uw USB Stick? - 3 Efficiënse Methoden</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/color-perfection-the-essential-list-of-best-luts-for-lightroom-users/"><u>Color Perfection The Essential List of Best LUTs for LightRoom Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-cursor-display-clarity-in-windows-oses/"><u>Improving Cursor Display Clarity in Windows OSes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210102822-9781071558683-mindfulness-para-gestantes/"><u>Mindfulness para gestantes | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pixel-watch-vs-apple-watch-the-ultimate-showdown-between-googles-and-apples-latest-timepieces/"><u>Pixel Watch Vs. Apple Watch - The Ultimate Showdown Between Google's and Apple's Latest Timepieces</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-10t-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme 10T 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-find-techniques-for-efficient-file-retrieval-in-google-drive-insights-from-zdnet/"><u>Quick-Find Techniques for Efficient File Retrieval in Google Drive - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-unattainable-tech-gem-exploring-the-exceptional-features-of-the-iqoo-9t-zdnets-review/"><u>The Unattainable Tech Gem? Exploring the Exceptional Features of the iQOO 9T | ZDNET's Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-verdict-on-oneplus-10ts-blistering-pace-does-it-lead-the-pack-in-smartphone-speeds-expert-review-at-zdnet/"><u>Ultimate Verdict on OnePlus 10T's Blistering Pace: Does It Lead the Pack in Smartphone Speeds? | Expert Review at ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-comprehensive-guide-surface-duo-2-with-enhanced-durability-the-ultimate-pen-cover-and-wireless-charging-review/"><u>ZDNet's Comprehensive Guide: Surface Duo 2 with Enhanced Durability - The Ultimate Pen Cover & Wireless Charging Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-motorcycles-viewfinder-gems-top-5-helmets-with-hats-for-the-modern-rider/"><u>[New] In 2024, Motorcycle's Viewfinder Gems – Top 5 Helmets with Hats for the Modern Rider</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-snap-to-stunning-photo-editing-secrets/"><u>[Updated] From Snap to Stunning Photo Editing Secrets</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-make-thumbnails-for-youtube-with-mobile-phones-for-2024/"><u>[Updated] How to Make Thumbnails for YouTube With Mobile Phones for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-x-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone X in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/cd-and-dvd-device-failures-decoded-fixing-error-code-39-with-ease/"><u>CD & DVD Device Failures Decoded - Fixing Error Code 39 with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-apples-revolutionary-3d-spatial-video-content-on-your-meta-quest-3-a-step-by-step-guide-zdnet/"><u>Experience Apple's Revolutionary 3D Spatial Video Content on Your Meta Quest 3 - A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-the-ultimate-apple-vision-demo-improved-features-and-easy-booking-guide-tech-insights/"><u>Experience the Ultimate Apple Vision Demo: Improved Features & Easy Booking Guide | Tech Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-getting-payday-2-running-smoothly-on-desktop-computers/"><u>Expert Tips for Getting Payday 2 Running Smoothly on Desktop Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-a-hidden-gem-in-vrar-entertainment-affordable-and-functional-xr-hub-reviewed-by-zdnet/"><u>Explore a Hidden Gem in VR/AR Entertainment: Affordable and Functional XR Hub Reviewed by ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/game-capture-made-easy-with-5-methods-on-windows-11/"><u>Game Capture Made Easy with 5 Methods on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-navigating-the-world-of-cost-free-text-animation-techniques/"><u>In 2024, Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/iphone-lens-wisdom-stunning-image-secrets/"><u>IPhone Lens Wisdom Stunning Image Secrets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-tech-innovations-ai-chatbot-applications-and-augmented-reality-dominate-this-weeks-headlines-insights-from-zdnet/"><u>Leading Tech Innovations: AI, Chatbot Applications & Augmented Reality Dominate This Week's Headlines - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-quest-3-analysis-by-experts-why-its-the-preferred-vr-device-on-the-market-zdnet-insights/"><u>Meta Quest 3 Analysis by Experts: Why It's the Preferred VR Device on the Market | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-quest-series-enhances-with-spatial-video-playback-as-tech-community-awaits-the-vision-pro-exclusive-details-on-zdnet/"><u>Meta Quest Series Enhances with Spatial Video Playback as Tech Community Awaits the Vision Pro - Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/my-apple-vision-pro-odyssey-with-a-cherished-tv-show-marvelous-bizarre-yet-draining-tales-tech-review/"><u>My Apple Vision Pro Odyssey with a Cherished TV Show: Marvelous, Bizarre, Yet Draining Tales | Tech Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-metas-latest-changes-unlocking-hidden-features-in-popular-quest-audio-devices-with-simple-fixes/"><u>Navigating Meta's Latest Changes: Unlocking Hidden Features in Popular Quest Audio Devices with Simple Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-the-workplace-how-xr-and-advanced-computing-elevate-user-experience-expert-guide-from-zdnet/"><u>Revolutionizing the Workplace: How XR and Advanced Computing Elevate User Experience | Expert Guide From ZDNET</u></a></li>
+<li><a href="https://fox-links.techidaily.com/strategy-unveiled-masterful-box-opening-tactics-for-2024/"><u>Strategy Unveiled Masterful Box-Opening Tactics for 2024</u></a></li>
 </ul></div>
 

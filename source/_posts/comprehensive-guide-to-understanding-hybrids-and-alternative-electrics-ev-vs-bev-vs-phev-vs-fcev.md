@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Understanding Hybrids & Alternative Electrics: EV vs BEV vs PHEV vs FCEV"
-date: 2024-09-09T09:13:53.607Z
-updated: 2024-09-10T09:13:53.607Z
+date: 2024-12-03T08:30:36.970Z
+updated: 2024-12-05T07:11:17.306Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Guide to Understanding Hybrids & Alternative Electrics: EV vs BEV vs PHEV vs FCEV"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes Comprehensive Guide to Understanding Hybrids & 
 thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f03caf08035754438a176d190.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comprehensive Guide to Understanding Hybrids & Alternative Electrics: EV vs BEV vs PHEV vs FCEV
 
  Electric vehicles come in a wide array of flavors, from all-electric battery electric vehicles (BEV) to gasoline-reliant hybrid-electric vehicles (HEV), with a whole rainbow of variations between. Some electric vehicles even rely on fuel cells or gasoline generators to provide electricity instead of powerful battery banks.
@@ -33,6 +27,10 @@ Julie Bang
 * **EREV** : Extended-range electric vehicles are hybrids that are designed to run entirely on the electric motor, and they don’t include a traditional internal combustion engine. Instead, they have a gasoline generator that can provide electricity to the batteries and electric motor when needed to extend the overall range.
 * **FCEV** : Fuel cell electric vehicles are different from other electric vehicles. Instead of a rechargeable battery, they use fuel cells that generate electricity through a reaction between hydrogen and oxygen. They have to be refueled at hydrogen charging stations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Electric Vehicles (EV) and Battery Electric Vehicles (BEV) 
 
  Battery electric vehicles are purely electric. Unlike other types of EVs, BEVs rely only on battery power. These vehicles don’t have internal combustion engines, don’t have tailpipes, and produce zero emissions during operation. Since there is no internal combustion engine, the battery needs to be charged by plugging it in.
@@ -40,11 +38,9 @@ Julie Bang
 ![Close Up Of Electric Motor In Engine Bay Of Electric Car](https://www.lifewire.com/thmb/ffwwoE4gDDdyP2WtPjkGPtd0ffQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVenginecloseup_mokeybusinessimages_iStock_GettyImagesPlus-44213dd675b54cf9851b2d793638aa74.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Close up of electric motor. 
 
 monkeybusinessimages/iStock/Getty Images Plus
@@ -55,12 +51,6 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  Since BEVs have to be plugged in, and charging can take a long time without a fast charging station, it’s only natural to be concerned about range. BEV range has increased a lot in recent years though, with some driving up to 400 miles on a single charge. Even the most affordable BEVs provide around 100 miles on a charge though, making them well-suited to city driving and moderate commutes. Longer trips can require some pre-planning depending on the range of the BEV, but charging stations are widely available in most areas.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hybrid Electric Vehicles (HEV) 
 
  The reason that the term EV gets applied to vehicles that aren’t, strictly speaking, pure electric vehicles is that hybrid electrics were the first to reach the mainstream. These hybrid electric vehicles are a lot like traditional gas-powered vehicles with similar drivetrains, except they include both an electric motor and an internal combustion engine (ICE).
@@ -68,6 +58,10 @@ monkeybusinessimages/iStock/Getty Images Plus
  The electric motor and ICE work in concert, and the presence of an electric motor usually allows the ICE to be smaller than it would be in a non-electric vehicle.
 
 ![A hybrid car engine.](https://www.lifewire.com/thmb/uVPkl2cTlSiqQLXZPZWImBUQd1o=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Hybridcarengine_cipango27_istock_GettyImagesPlus-cf4ab821bf0046169f1cb7bd2fa1982c.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A hybrid car engine. 
 
@@ -79,12 +73,6 @@ cipango27/iStock/Getty Images Plus
 
  The main benefit of an HEV is convenience. From the perspective of the driver, an HEV is no different from an ICE vehicle. You still fill it up with gas like a traditional ICE vehicle, and the electric part takes place under the hood and out of sight with no input from the driver. The downside is that they still burn fossil fuel and still produce a significant amount of carbon emissions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Plug-in Hybrids (PHEV): Parallel and Series 
 
  Plug-in hybrid electric vehicles come in two flavors: parallel and series. The parallel type is usually just referred to as PHEV, while the series variation can be referred to as extended range electric vehicles (EREV).
@@ -97,12 +85,6 @@ cipango27/iStock/Getty Images Plus
 
 ![Close up of plug-in hybrid port of an Hybrid Electric Vehicle (PHEV).](https://www.lifewire.com/thmb/UZwtFdgGMf7WVcSLy44woscGk-A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PHEVpluginport_Boy_Anupong_Moment_Getty-663b083340fb44b5a8105fd74beffb53.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Close up of the plug-in/gas port of an Hybrid Electric Vehicle (PHEV). 
 
 Boy\_Anupong/Moment/Getty
@@ -115,6 +97,10 @@ Boy\_Anupong/Moment/Getty
 
  When an EREV is run in all-electric mode, without the gas generator running, they produce no tailpipe emissions, just like BEVs. However, they do produce carbon emissions whenever the gas generator is running. The catch is that the all-electric range typically tops out at around 80 miles, with some models providing even less.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fuel Cell Electric Vehicles 
 
  Fuel cell technology is intriguing, because it generates electricity without carbon emissions. There have been a number of different fuel cell technologies over the years, but the FCEVs that are available today all rely on a reaction between hydrogen and oxygen. Fuel cells are charged with hydrogen, which then reacts with oxygen to generate electricity as needed. The electricity powers an electric motor, similar to the way batteries power electric motors in BEVs, and the only byproducts are water vapor and warm air.
@@ -122,6 +108,10 @@ Boy\_Anupong/Moment/Getty
  Since fuel cells rely on hydrogen to operate, they need to be periodically charged with hydrogen similar to the way you have to fuel up an ICE vehicle with gasoline or diesel. The difference is that while gas stations are abundant, hydrogen fueling stations are only found in a small handful of markets in California.
 
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  HydroGen 3 Fuel Cell Minivan Engine. 
 
@@ -131,12 +121,6 @@ Arctic-Images/The Image Bank Unreleased
 
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.
@@ -171,8 +155,6 @@ Arctic-Images/The Image Bank Unreleased
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +162,22 @@ Arctic-Images/The Image Bank Unreleased
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-translate-speech-to-text-the-right-way-with-google-translate/"><u>[New] Translate Speech to Text the Right Way with Google Translate</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-deep-dive-sonys-s6700-updates-review-for-2024/"><u>[Updated] Deep Dive Sony's S6700 Updates Review for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-video-output-box-vob-files-to-3gp-format-in-just-3-simple-steps-pc-guide/"><u>Convert Video Output Box (VOB) Files to 3GP Format in Just 3 Simple Steps - PC Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dark-theme-activation-expert-steps-for-iphone-users/"><u>Dark Theme Activation: Expert Steps for iPhone Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-features-of-thunderbird-52-by-mozilla-enhance-your-communication/"><u>Discover the Latest Features of Thunderbird 52 by Mozilla - Enhance Your Communication!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-productivity-a-comprehensive-tutorial-for-using-picture-in-picture-on-android-phones/"><u>Enhance Productivity: A Comprehensive Tutorial for Using Picture-in-Picture on Android Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ghoul-gags-generator-for-2024/"><u>Ghoul Gags Generator for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-windows-10-tools-for-exquisite-video-editing/"><u>Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-s17e-frp-by-drfone-android/"><u>How Can We Bypass Vivo S17e FRP?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-105-classic-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia 105 Classic to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-x100-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo X100 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-on-acquiring-elite-hdr-cameras/"><u>In 2024, Step-by-Step Guide on Acquiring Elite HDR Cameras</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-changes-in-applen-first-visionos-update-a-deep-dive-into-revamped-personalizations-and-new-features-insights-from-zdnet/"><u>Unveiling Changes in Apple'n First VisionOS Update: A Deep Dive Into Revamped Personalizations & New Features | Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-tvos-18-elevating-your-apple-tvs-sound-quality-tips-and-tricks/"><u>Unveiling TVOS 18: Elevating Your Apple TV's Sound Quality - Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-leading-mp3-devices-in-202n4/"><u>ZDNet's Ultimate Guide to the Leading MP3 Devices in 202N4</u></a></li>
+</ul></div>
 

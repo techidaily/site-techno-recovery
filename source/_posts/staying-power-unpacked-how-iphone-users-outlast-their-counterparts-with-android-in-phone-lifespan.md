@@ -1,7 +1,7 @@
 ---
 title: "Staying Power Unpacked: How iPhone Users Outlast Their Counterparts with Android in Phone Lifespan"
-date: 2024-11-20T13:47:08.397Z
-updated: 2024-11-25T05:48:43.133Z
+date: 2024-12-03T04:51:42.132Z
+updated: 2024-12-04T20:31:28.008Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,19 +126,14 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-free-online-photo-tools-ranked-15/"><u>[New] Best Free Online Photo Tools Ranked #15</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-legal-aspects-and-ethical-considerations-of-recording-whatsapp/"><u>[Updated] In 2024, Legal Aspects and Ethical Considerations of Recording WhatsApp</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-luminous-likes-three-proven-ways-for-insta-highlights-for-2024/"><u>[Updated] Luminous Likes Three Proven Ways for Insta Highlights for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-understanding-a-symbol-the-purpose-of-facebooks-blue-emoji/"><u>[Updated] Understanding a Symbol The Purpose of Facebook's Blue Emoji</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/30-off-amazons-echo-dot-a-cost-effective-solution-for-enhancing-your-home-automation-experience-insights-from-zdnet/"><u>$30 Off Amazon's Echo Dot: A Cost-Effective Solution for Enhancing Your Home Automation Experience - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-your-best-match-a-comparative-review-of-amazons-alexa-powered-echo-pop-and-echo-dot-speakers-zdnet-insights/"><u>Choosing Your Best Match: A Comparative Review of Amazon's Alexa-Powered Echo Pop & Echo Dot Speakers | ZDNET Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-look-at-amazon-echo-studio-maintaining-its-reign-as-the-ultimate-smart-speaker-option-zdnet-insights/"><u>In-Depth Look at Amazon Echo Studio: Maintaining Its Reign as the Ultimate Smart Speaker Option | ZDNet Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reawaken-your-audio-resolving-the-no-sound-issue-with-conexant-smartaudio-hd-on-windows-1nk/"><u>Reawaken Your Audio: Resolving the No Sound Issue with Conexant SmartAudio HD on Windows 1Nk</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/save-up-to-40-get-your-hands-on-an-lg-portable-speaker-today-at-unbeatable-prices-discovered-via-zdnet/"><u>Save Up to 40%: Get Your Hands on an LG Portable Speaker Today at Unbeatable Prices! - Discovered via ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-rise-of-alternative-ideologies-such-as-islamist-theocracy-and-nationalism-suggest-that-liberal-democracy-is-not-universally-accepted-or-desirable/"><u>The Rise of Alternative Ideologies Such as Islamist Theocracy and Nationalism Suggest that Liberal Democracy Is Not Universally Accepted or Desirable</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/yamahas-budget-friendly-soundbar-triumphs-over-1000-jbl-counterpart-in-audio-quality-zdnet-review/"><u>Yamaha's Budget-Friendly Soundbar Triumphs Over $1,000 JBL Counterpart in Audio Quality – ZDNet Review</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210764972-9786069344255-your-future-by-numerology/"><u>Your Future by Numerology | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-audio-analysis-is-the-apple-homepod-superior-to-the-mini-find-out-here/"><u>ZDNet's Audio Analysis: Is the Apple HomePod Superior to the Mini? Find Out Here!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-innovative-finger-sets-taking-vr-to-new-heights/"><u>[New] 2024 Approved Innovative Finger Sets Taking VR to New Heights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nhancing-youtube-watching-with-list-rearrangement/"><u>[New] Enhancing YouTube Watching with List Rearrangement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fine-tune-youtube-video-pacing-desktopmobile-for-2024/"><u>[New] Fine-Tune YouTube Video Pacing - Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/180-discounted-price-why-the-arlo-pro-5s-could-be-your-ideal-choice-for-ultimate-security-cameras-zdnet-insights/"><u>$180 Discounted Price! Why the Arlo Pro 5S Could Be Your Ideal Choice for Ultimate Security Cameras - ZDNET Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/farm-fun-and-fellowship-the-ultimate-agritainment-guide-for-2024/"><u>Farm Fun & Fellowship The Ultimate Agritainment Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/steer-clear-of-virtual-reality-sickness-for-2024/"><u>Steer Clear of Virtual Reality Sickness for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-review-of-the-tesla-cybertruck-for-gardening-exceeds-expectations/"><u>ZDNET's In-Depth Review of the Tesla Cybertruck for Gardening - Exceeds Expectations!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-leading-ride-on-mowers-of-2ebuary-2024/"><u>ZDNet's Ultimate Guide to the Leading Ride-On Mowers of 2Ebuary 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-showdown-comparing-the-best-automatic-mowers-of-2024-expert-testing-results/"><u>ZDNet's Ultimate Showdown: Comparing the Best Automatic Mowers of 2024 | Expert Testing Results</u></a></li>
 </ul></div>
 

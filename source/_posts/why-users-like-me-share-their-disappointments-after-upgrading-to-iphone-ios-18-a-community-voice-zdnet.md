@@ -1,7 +1,7 @@
 ---
 title: Why Users Like Me Share Their Disappointments After Upgrading to iPhone iOS 18 - A Community Voice | ZDNet
-date: 2024-11-20T22:33:17.067Z
-updated: 2024-11-24T20:45:50.328Z
+date: 2024-12-03T01:41:08.688Z
+updated: 2024-12-05T00:41:57.614Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -86,6 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,24 +158,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-navigating-partner-selection-for-youtube-joint-ventures/"><u>[Updated] In 2024, Navigating Partner Selection for YouTube Joint Ventures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-twilight-tones-adobe-premiere-blackouts/"><u>[Updated] Twilight Tones Adobe Premiere Blackouts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-get-1k-followers-every-month-on-instagram/"><u>2024 Approved How to Get 1K Followers Every Month on Instagram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-list-of-highly-effective-ev-wall-charger-units-for-your-household-expert-insights-from-zdnet/"><u>2024’S Ultimate List of Highly Effective EV Wall Charger Units for Your Household | Expert Insights From ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experts-choice-for-ultimate-illumination-top-flashlights-of-2024-analyzed-cnet/"><u>Experts' Choice for Ultimate Illumination: Top Flashlights of 2024 Analyzed | CNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-anker-is-revolutionizing-home-power-consumption-with-their-latest-innovation-solix-detailed-analysis-by-zdnet/"><u>How Anker Is Revolutionizing Home Power Consumption with Their Latest Innovation, Solix – Detailed Analysis by ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-12-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi 12 Through Google Earth?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-onedrive-files-on-pc-without-internet/"><u>Mastering OneDrive Files on PC without Internet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-efficiency-with-our-top-rated-power-strip-now-available-for-a-steal-on-amazon-zdnets-picks/"><u>Maximize Efficiency with Our Top-Rated Power Strip, Now Available for a Steal on Amazon (ZDNET's Picks)!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/orion/"><u>Orion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-simple-guide-to-downloading-mp3s-from-your-videos-gratis/"><u>Quick and Simple Guide to Downloading MP3s From Your Videos, Gratis!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-xiaomi-13t-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Xiaomi 13T Pro to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-comprehensive-analysis-and-latest-tech-insights/"><u>Tom's Hardware Review: Comprehensive Analysis & Latest Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-leaf-blowers-expert-picks-and-reviews-gizmoblog/"><u>Top Rated Electric Leaf Blowers : Expert Picks & Reviews - GizmoBlog</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-budget-friendly-portable-chargers-comprehensive-reviews-by-tech-gurus-cnet/"><u>Top-Rated Budget-Friendly Portable Chargers - Comprehensive Reviews by Tech Gurus | CNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-samsungs-ambitious-vision-for-matter-technology-to-revamp-domestic-living-spaces/"><u>Unveiling Samsung's Ambitious Vision for Matter Technology to Revamp Domestic Living Spaces</u></a></li>
-<li><a href="https://facebook.techidaily.com/when-will-your-messages-be-private-with-fb-messenger-e2ee/"><u>When Will Your Messages Be Private with FB Messenger E2EE?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-the-efficient-and-cost-effective-smart-ev-charging-solutions-by-emporia-energy-advanced-telemetry-for-savvy-consumers/"><u>ZDNet Explores the Efficient and Cost-Effective Smart EV Charging Solutions by Emporia Energy: Advanced Telemetry for Savvy Consumers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-danger-lurking-online-spotting-the-falsehood-of-fake-viewers-on-youtube/"><u>[New] 2024 Approved Danger Lurking Online Spotting the Falsehood of Fake Viewers on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/avigating-through-youtubes-adsense-revenue-understanding-payments-per-thousand-views-for-2024/"><u>[New] Navigating Through Youtube’s AdSense Revenue Understanding Payments per Thousand Views for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-missing-or-lost-user32dll-tips-and-strategies-for-quick-recovery/"><u>Dealing with Missing or Lost User32.dll: Tips and Strategies for Quick Recovery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-apples-future-wearable-projected-specs-pricing-and-release-dates-of-watch-x-revealed/"><u>Decoding Apple's Future Wearable: Projected Specs, Pricing & Release Dates of Watch X Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-user-experience-with-the-newly-redesigned-grid-layout-of-the-windows-11-start-menu/"><u>Enhancing User Experience with the Newly Redesigned Grid Layout of the Windows 11 Start Menu.</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-fix-a-broken-motherboard-checksum-issue/"><u>How to Successfully Fix a Broken Motherboard Checksum Issue</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hope-on-the-big-screen-top-10-cinematic-power-ups/"><u>In 2024, Hope on the Big Screen Top 10 Cinematic Power-Ups</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-world-of-multi-screen-leveraging-pip-on-android-smartphones/"><u>Inside the World of Multi-Screen: Leveraging PiP on Android Smartphones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-ev-purchase-process-with-these-9-important-questions/"><u>Navigating the EV Purchase Process with These 9 Important Questions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/onetastic-upgrade-guide-elevating-your-productivity-with-microsoft-onenote-plugin/"><u>Onetastic Upgrade Guide: Elevating Your Productivity with Microsoft OneNote Plugin</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/overcoming-console-barriers-methods-for-accessing-region-locked-titles-across-nintendo-switch-playstation-and-xbox-platforms/"><u>Overcoming Console Barriers: Methods for Accessing Region-Locked Titles Across Nintendo Switch, PlayStation, and Xbox Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/spotify-trouble-here-are-13-fixes-to-get-your-tunes-running-again-in-android-auto-mode/"><u>Spotify Trouble? Here Are 13 Fixes to Get Your Tunes Running Again in Android Auto Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/syncing-emails-made-easy-adding-gmail-to-your-apple-watch/"><u>Syncing Emails Made Easy: Adding Gmail to Your Apple Watch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-gen-iphone-released-in-teasers-pricing-arrival-dates-and-speculations-on-its-advances/"><u>The Next-Gen iPhone Released in Teasers: Pricing, Arrival Dates and Speculations on Its Advances!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/understanding-not-found-how-to-fix-a-missing-webpage/"><u>Understanding 'Not Found': How to Fix a Missing Webpage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-fdm-resin-and-economy-3d-printers-of-2024-your-comprehensive-list/"><u>Unveiling the Top FDM, Resin, and Economy 3D Printers of 2024: Your Comprehensive List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-picks-best-free-tunes-streaming-apps-on-android-and-ios/"><u>Unveiling the Top Picks: Best Free Tunes Streaming Apps on Android & iOS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Plans & Promotions for May 2024 - Exclusive Offers
-date: 2024-11-22T07:57:17.404Z
-updated: 2024-11-25T00:40:42.089Z
+date: 2024-12-01T23:23:09.794Z
+updated: 2024-12-04T21:56:48.426Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best AT&T deals
@@ -144,6 +144,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -155,7 +159,7 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
@@ -163,7 +167,7 @@ When we made our selection for the best AT&T deals, we wanted to include options
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
@@ -174,17 +178,13 @@ In general, there is no difference in how much money you save whether you shop o
 
 ZDNET experts split out the latest and greatest deals for you below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -236,22 +236,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-limitless-design-gratuitous-premiere-pro-templates/"><u>[Updated] 2024 Approved Limitless Design Gratuitous Premiere Pro Templates</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-6-ways-to-increase-audience-retention-on-youtube-filmora/"><u>[Updated] 6 Ways To Increase Audience Retention on YouTube - Filmora</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/advancing-digital-evolution-unveiling-how-edge-to-cloud-catalyzes-modern-transformations-zdnet-insights/"><u>Advancing Digital Evolution: Unveiling How Edge-to-Cloud Catalyzes Modern Transformations | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/akamai-enhances-edge-cloud-services-with-linode-integration-a-leap-into-advanced-computing-insights-from-zdnet/"><u>Akamai Enhances Edge Cloud Services with Linode Integration: A Leap Into Advanced Computing - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beyond-ai-breakthroughs-exploring-the-swift-advancements-of-a-new-technological-era-with-zdnet/"><u>Beyond AI Breakthroughs: Exploring the Swift Advancements of a New Technological Era with ZDNET</u></a></li>
-<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-rmvb-a-mp4-online-con-movavi-registrati-ora/"><u>Conversione Gratuita Da RMVB a MP4 Online Con Movavi - Registrati Ora!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/embracing-change-in-artificer-times-the-promise-of-ongoing-progress-by-it-professionals/"><u>Embracing Change in Artificer Times: The Promise of Ongoing Progress by IT Professionals</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/essential-tips-for-navigating-discord-spoilers/"><u>Essential Tips for Navigating Discord Spoilers</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-netflix-app-when-it-stops-working-in-windows/"><u>How to Fix the Netflix App When It Stops Working in Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-c22-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia C22</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/mastering-your-sound-on-the-go-best-ios-apps-for-editing-2023-edition/"><u>Mastering Your Sound on the Go Best iOS Apps for Editing, 2023 Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-migration-of-businesses-to-the-cloud-frontier-are-we-prepared/"><u>The Migration of Businesses to the Cloud Frontier: Are We Prepared?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleashing-potential-how-boosted-edge-computing-is-shaping-future-careers-insights-from-zdnet/"><u>Unleashing Potential: How Boosted Edge Computing Is Shaping Future Careers - Insights From ZDNet</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-20-time-saving-adobe-premiere-shortcuts-every-editor-should-know-for-2024/"><u>Updated 20 Time-Saving Adobe Premiere Shortcuts Every Editor Should Know for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/upping-the-volume-effective-methods-to-boost-sounds-in-windows-10/"><u>Upping the Volume: Effective Methods to Boost Sounds in Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-with-raspberry-pi-executive-revolutionary-70-artificial-intelligence-kit-unveiled-defining-era-for-the-company/"><u>ZDNet Exclusive with Raspberry Pi Executive: Revolutionary $70 Artificial Intelligence Kit Unveiled – Defining Era for the Company</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-highlights-top-5-innovations-in-5g-and-edge-technology-poised-to-shape-our-future/"><u>ZDNet Highlights Top 5 Innovations in 5G and Edge Technology Poised to Shape Our Future</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-virtual-shopfront-user-testing-for-2024/"><u>[Updated] Virtual Shopfront User Testing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-compelling-podcast-summaries-explained/"><u>2024 Approved The Art of Compelling Podcast Summaries Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-7-note-taking-applications-for-ios-tablets-ipad-ipad-pro-edition/"><u>Best 7 Note-Taking Applications for iOS Tablets: IPad, iPad Pro Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/crafting-captivating-content-with-screencast-tactics-for-2024/"><u>Crafting Captivating Content with Screencast Tactics for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/guida-rapida-alla-risoluzione-e-ripulitura-del-tuo-sistema-mai-spegnete-mai/"><u>Guida Rapida Alla Risoluzione E Ripulitura Del Tuo Sistema - Mai Spegnete Mai!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-wii-cannot-read-disc-error-for-seamless-gaming-experience/"><u>How to Fix 'Wii Cannot Read Disc' Error for Seamless Gaming Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-quickly-snap-screenshots-with-these-4-techniques-in-windows-nineteen/"><u>How to Quickly Snap Screenshots with These 4 Techniques in Windows Nineteen</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-top-ten-os-agnostic-video-players/"><u>In 2024, Unveiling Top Ten OS-Agnostic Video Players</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-have-summer-edc-items-the-complete-guide/"><u>Must-Have Summer EDC Items: The Complete Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nurturing-ai-relationships-our-top-choices-for-exceptional-prompt-makers/"><u>Nurturing AI Relationships: Our Top Choices for Exceptional Prompt Makers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-search-microsofts-new-ai-features-for-bing-explained/"><u>Revolutionizing Search: Microsoft's New AI Features for Bing Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-face-off-examining-performance-and-capabilities-of-ipad-pro-102-m4-vs-macbook-air-m3/"><u>Tech Face-Off: Examining Performance & Capabilities of iPad Pro 10.2 M4 Vs. MacBook Air (M3)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tips-for-viewing-real-time-coverage-of-the-2024-olympic-games/"><u>Top Tips for Viewing Real-Time Coverage of the 2024 Olympic Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-resolving-the-504-gateway-timeout-issue/"><u>Troubleshooting Tips: Resolving the 504 Gateway Timeout Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-step-by-step-process-for-disinfecting-your-television-remote/"><u>Ultimate Guide: Step-by-Step Process for Disinfecting Your Television Remote</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/why-picshot-makes-photo-collage-easier-for-2024/"><u>Why Picshot Makes Photo Collage Easier for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/windowsmac-tutorials-for-skype-audio-and-video-archive/"><u>Windows/Mac Tutorials for Skype Audio & Video Archive</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Definitive Breakdown of the 2024 CrowdStrike-Windows Crisis - Insights From History
-date: 2024-11-19T01:42:53.398Z
-updated: 2024-11-24T19:40:40.769Z
+date: 2024-12-02T01:47:52.632Z
+updated: 2024-12-05T00:54:53.197Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,20 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-beauty-brows-to-perfect-portraits-crafting-your-cosmetic-chanel-for-2024/"><u>[Updated] From Beauty Brows to Perfect Portraits Crafting Your Cosmetic Chanel for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-battlefield-bliss-exploring-the-7-best-massive-wars/"><u>2024 Approved Battlefield Bliss Exploring the 7 Best Massive Wars</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-poco-m6-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Poco M6 5G Unlock Without Password</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-productivity-with-gmails-quick-text-expansion-avoid-errors-and-spare-yourself-hours-of-writing-techradar/"><u>Boost Productivity with Gmail's Quick Text Expansion: Avoid Errors and Spare Yourself Hours of Writing | TechRadar</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/bringing-your-ideas-to-life-vo-plus-ppt-perfection/"><u>Bringing Your Ideas to Life VO + PPT Perfection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-eco-friendly-home-automation-ecobee-vs-nest-thermostats-an-in-depth-review/"><u>Comparing Eco-Friendly Home Automation: Ecobee Vs. Nest Thermostats - An In-Depth Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-the-latest-tech-is-it-time-to-upgrade-from-pixel-6-to-pixel/"><u>Comparing the Latest Tech: Is It Time to Upgrade From Pixel 6 to Pixel 🧐?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-analysis-on-unihertz-titan-slim-by-zdnet-in-depth-product-reveal/"><u>Expert Analysis on Unihertz Titan Slim by ZDNET – In-Depth Product Reveal</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-offline-navigation-on-wearos-devices-can-you-use-google-maps-tech-insights/"><u>Exploring Offline Navigation on WearOS Devices - Can You Use Google Maps? | Tech Insights</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nokia-130-music-is-unlocked-by-drfone-android/"><u>How To Check if Your Nokia 130 Music Is Unlocked</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-y27s-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo Y27s FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-x5-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco X5 Pro FRP</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-the-upgrade-from-samsung-galaxy-s22-ultra-to-s23-ultra-significant-enough-worth-switching-this-year-cnet-analysis/"><u>Is the Upgrade From Samsung Galaxy S22 Ultra to S23 Ultra Significant Enough Worth Switching This Year? | CNET Analysis</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-strategies-for-syncing-your-data-moving-files-and-folders-to-google-drive-in-windows-server-2008/"><u>Top Strategies for Syncing Your Data: Moving Files and Folders to Google Drive in Windows Server 2008</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-tips-for-optimizing-network-speed-in-cs2-how-to-minimize-lag-and-low-ping-times-on-windows/"><u>Top Tips for Optimizing Network Speed in CS2: How to Minimize Lag and Low Ping Times on Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ffortless-conversions-selecting-the-10-prime-flv-to-youtubes-options-for-2024/"><u>[New] Effortless Conversions Selecting the 10 Prime Flv to YouTubes Options for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elevate-your-visual-storytelling-with-lut-techniques-in-premiere/"><u>[Updated] Elevate Your Visual Storytelling with LUT Techniques in Premiere</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-vocabulary-kit-for-vietnam-exploration/"><u>Essential Vocabulary Kit for Vietnam Exploration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-8-outstanding-html-coding-apps-completely-gratis-and-for-pc/"><u>Explore These 8 Outstanding HTML Coding Apps, Completely Gratis and For PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-crystal-clear-digital-broadcasts-with-our-top-pick-for-indoor-antennas/"><u>Get Crystal Clear Digital Broadcasts with Our Top Pick for Indoor Antennas</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-8-plus-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 8 Plus and Android Phones</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>New Top 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-installing-the-wacom-intuos-pro-drivers-on-windows-11/"><u>Simple Steps: Installing the Wacom Intuos Pro Drivers on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-perform-a-fresh-start-on-your-samsung-soundbar/"><u>Step-by-Step Tutorial: How to Perform a Fresh Start on Your Samsung Soundbar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-essential-criteria-for-selecting-the-perfect-motherboard/"><u>Top 7 Essential Criteria for Selecting the Perfect Motherboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-windows-11-on-fresh-hardware/"><u>Ultimate Guide: Setting Up Windows 11 on Fresh Hardware</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/y-a-t-il-un-moyen-pour-la-restauration-de-systemes-de-recuperation-permanente-des-fichiers-supprimes/"><u>Y A-T-Il Un Moyen Pour La Restauration De Systèmes De Récupération Permanente Des Fichiers Supprimés ?</u></a></li>
 </ul></div>
 

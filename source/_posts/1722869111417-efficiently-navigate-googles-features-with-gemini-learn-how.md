@@ -1,7 +1,7 @@
 ---
 title: Efficiently Navigate Google's Features with Gemini - Learn How
-date: 2024-11-22T19:21:02.302Z
-updated: 2024-11-24T20:09:55.092Z
+date: 2024-11-29T07:46:57.549Z
+updated: 2024-12-04T21:43:13.217Z
 categories:
   - BestProducts
 description: This Article Describes Efficiently Navigate Google's Features with Gemini - Learn How
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  This article will show you how to use the conversational[Google Gemini](https://www.lifewire.com/what-is-google-bard-7151624) AI chatbot, from signing up to crafting effective prompts and getting the most out of its features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Note
 
  This article uses the free Gemini app. The steps are the same if you have signed up for Gemini Advanced. The latter is a subscription service but allows you to upload documents and other features.
@@ -37,19 +33,11 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  You can sign up on the web with your Google account or use the Android mobile app. Both methods are straightforward and offer a clean interface for interacting with Gemini.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Using the Web App
 
  Go to the dedicated[Google Gemini homepage](https://gemini.google.com/) and use your Google personal account to sign in. You can also create a new Google account if you don't have one yet (or don't want your primary account tied to Gemini).
 
  The web app is supported in most browsers, such as Chrome, Safari, Firefox, Opera, or Edge. Gemini supports 40 languages and is available in over 230 countries.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using the Mobile Apps on Android and iOS
 
@@ -60,7 +48,11 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 ![Google Gemini in iOS](https://www.lifewire.com/thmb/9i8u4Mbuaiwb1oioPFtMAGMytEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-iOS-bf356a55a5cd4d01afecd0dc2f5b6da2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Use Gemini AI?
@@ -70,15 +62,25 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 1. In the Gemini chat window, begin typing your request in the**Enter your prompt here** field.  
 ![The prompt field in the Google Gemini web interface](https://www.lifewire.com/thmb/df8I0SZWORbiyM8-BLz2rxN2m8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-prompt-field-94528b5550664e2f9c5c489c7ba2cd98.jpg)
 2. As a multi-modal chatbot, you can speak to the chatbot, upload an image, write code, or ask it to process information from an online video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make your prompt specific while giving Gemini as much context as you can about your query.
 4. Ask follow-up questions and carry out a conversation with the chatbot.
 5. Select the pencil icon next to your query to edit the original question, and then choose**Update** .  
 ![The "Edit text" button in a Google Gemini conversation thread](https://www.lifewire.com/thmb/_04NldjfAsFL2Pg-aF1dc1XxgBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Edit-text-on-Google-Gemini-b0d9f137d7e14ee2958822fb9d6f92fa.jpg)
 6. You can ask Gemini to generate images with words like "draw," "generate," and "create."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip
@@ -100,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)
 5. Gemini can be error-prone. Select the**Google** button at the foot of the response to double-check the answers. The AI checks with a Google Search and highlights content similar to (Green highlight) or different (Orange highlight) from Gemini's statements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Extensions in Gemini
 
  With Gemini's extensions, you can tap into Google's ecosystem of apps to cover a wider variety of everyday uses. Most extensions are on by default, but you may need to give Gemini permission to use them in your prompt.
@@ -109,16 +115,12 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 2. Enable or disable your choice of extensions with the toggle switch.
 3. To automatically use any Google services as an extension, mention it in the prompt. Alternatively, enter @ and select the extension to allow Gemini to use a specific extension.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip
 
  Gemini is a handy way to summarize YouTube videos you don't want to watch till the end. Ask Gemini multiple questions to dig deeper into the video's content in half the time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Tips for Using Gemini Effectively
@@ -160,22 +162,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-achieve-pro-level-results-with-these-top-obs-edits-for-2024/"><u>[New] Achieve Pro-Level Results with These Top OBS Edits for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-flexicam-soft-cam-covering-pad-for-2024/"><u>[New] FlexiCam Soft Cam Covering Pad for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-leveraging-hashtags-to-enhance-fb-user-engagement/"><u>[New] Leveraging Hashtags to Enhance FB User Engagement</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-integration-into-google-meet-participants/"><u>[Updated] In 2024, Integration Into Google Meet Participants</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-nuances-of-gamers-channel-templates/"><u>[Updated] Navigating the Nuances of Gamers' Channel Templates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easing-your-journey-in-acquiring-artificial-intelligence-expertise-insights-from-zdnet/"><u>Easing Your Journey in Acquiring Artificial Intelligence Expertise - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/emerging-leadership-in-the-age-of-generative-ai-how-new-software-management-positions-are-shaping-up-zdnet/"><u>Emerging Leadership in the Age of Generative AI: How New Software Management Positions Are Shaping Up | ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oppo-reno-10-proplus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Oppo Reno 10 Pro+ 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/learn-sustainable-energy-practices-in-this-affordable-engineering-bootcamp-now-available-at-just-40-detailed-review-and-offer/"><u>Learn Sustainable Energy Practices in This Affordable Engineering Bootcamp Now Available at Just $40 - Detailed Review & Offer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/no-coding-required-to-excel-at-ai-why-a-varied-educational-approach-is-key-for-understanding-complex-networks-zdnet/"><u>No Coding Required to Excel at AI! Why a Varied Educational Approach Is Key for Understanding Complex Networks | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/review-alert-mastering-team-cohesion-in-remote-and-in-person-work-environments-with-bridging-the-gap/"><u>Review Alert: Mastering Team Cohesion in Remote and In-Person Work Environments with 'Bridging the Gap'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secrets-to-successfully-arranging-information-rich-conversations-with-experts-a-non-intrusive-guide-by-zdnet/"><u>Secrets to Successfully Arranging Information-Rich Conversations With Experts - A Non-Intrusive Guide by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/thousands-gain-access-to-apples-revolutionary-ai-education-program-for-alumni-and-current-students-zdnet-insight/"><u>Thousands Gain Access to Apple's Revolutionary AI Education Program for Alumni & Current Students - ZDNet Insight</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-free-artificial-intelligence-learning-programs-is-investing-in-an-ai-certificate-beneficial-zdnet-insights/"><u>Top Free Artificial Intelligence Learning Programs: Is Investing in an AI Certificate Beneficial? - ZDNet Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unveiling-the-true-income-potential-in-podcasting-for-2024/"><u>[New] Unveiling the True Income Potential in Podcasting for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-evaluating-the-effectiveness-of-shake-reduction-in-adobe-photos/"><u>[Updated] 2024 Approved Evaluating the Effectiveness of 'Shake' Reduction in Adobe Photos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016025357-easy-audio-fix-techniques-for-a-silent-pc-get-sound-back-now/"><u>Easy Audio Fix Techniques for a Silent PC - Get Sound Back Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-swiftly-delivered-shipments-reflect-consumer-desire-for-the-latest-apple-xr-headset-gadgetflow/"><u>How Swiftly Delivered Shipments Reflect Consumer Desire for the Latest Apple XR Headset | GadgetFlow</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-poco-x6-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Poco X6 Pro FRP Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-hushed-collaboration-qualcomm-unveils-its-joint-venture-with-samsung-and-google-on-ar-smart-glasses-a-dive-into-the-future/"><u>Inside the Hushed Collaboration: Qualcomm Unveils Its Joint Venture with Samsung & Google on AR Smart Glasses - A Dive Into the Future</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-impact-of-metas-new-image-recognition-ai-model-on-technology-and-society-zdnet-insights/"><u>The Impact of Meta's New Image-Recognition AI Model on Technology and Society | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-insights-from-the-ifixit-analysis-of-apple-vision-pros-internal-design-a-deep-dive-zdnet/"><u>Top 5 Insights From the iFixit Analysis of Apple Vision Pro's Internal Design: A Deep Dive - ZDNet</u></a></li>
 </ul></div>
 

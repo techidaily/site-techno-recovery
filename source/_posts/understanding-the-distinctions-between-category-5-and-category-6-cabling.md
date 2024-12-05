@@ -1,7 +1,7 @@
 ---
 title: Understanding the Distinctions Between Category 5 and Category 6 Cabling
-date: 2024-09-09T09:13:51.148Z
-updated: 2024-09-10T09:13:51.148Z
+date: 2024-11-29T17:35:09.758Z
+updated: 2024-12-05T02:07:40.977Z
 categories:
   - BestProducts
 description: This Article Describes Understanding the Distinctions Between Category 5 and Category 6 Cabling
@@ -9,23 +9,15 @@ excerpt: This Article Describes Understanding the Distinctions Between Category 
 thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cat5-vs-Cat6-2f777fcbf2c64bf8bd24039074314422.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Effective Techniques for Repairing Hardware Exceptions – Understanding and Fixing the WHEeE Error in Windows
  The Windows Hardware Error Architecture (WHEA) uncorrectable error is a Windows[stop code](https://www.lifewire.com/what-is-a-stop-code-2625685) displayed on a[blue screen](https://www.lifewire.com/blue-screen-of-death-bsod-2625816) . When this error occurs, your computer will typically compile some diagnostic data then reset. If the root problem persists, your computer will eventually crash again with the same WHEA uncorrectable error message.
 
  WHEA uncorrectable errors are usually associated with faulty hardware, but they can also be caused by driver conflicts, missing Windows updates, and even[overclocking](https://www.lifewire.com/what-is-overclocking-a-computer-4092341) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How the WHEA Uncorrectable Error Appears
 
  When this error occurs, you'll usually see a message like one of these:
@@ -36,11 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/fi
  WHEA\_UNCORRECTABLE\_ERROR
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the WHEA Uncorrectable Error
 
  The WHEA uncorrectable error is a stop code displayed during blue screen crashes and is usually due to hardware failure. A failing hard drive, defective memory, improperly seated CPU, and a variety of other hardware issues can all result in a WHEA uncorrectable error.
@@ -50,17 +40,9 @@ thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/fi
  In some cases, overclocking can also cause this error to appear due to the extra strain overclocking puts on your CPU.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix a WHEA Uncorrectable Error
 
  Since most WHEA uncorrectable errors are caused by hardware failure, fixing this error usually involves tracking down the problem component and replacing it. However, the best place to start is on the software end because that's easier and less expensive.
@@ -86,11 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/RNVj6oXzE1DLT732xZgxrTd1lvg=/400x300/fi
  If you reset Windows and still experience the WHEA uncorrectable error, you have a hardware issue. Carefully inspect your hardware again, and seek professional assistance if you can't determine which piece of hardware has failed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Blue Screen Problems Like the WHEA Uncorrectable Error
 
  The WHEA uncorrectable error is just one of many errors that can cause Windows to display the blue screen of death. If you're experiencing blue screen issues, we have a[complete list of blue screen error codes](https://www.lifewire.com/blue-screen-error-codes-4065576) that can help you get to the bottom of your problem.
@@ -126,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +113,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-transform-your-viewers-experience-with-top-mac-streamers/"><u>[New] 2024 Approved Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unmatched-tech-elevation-through-srs-enhancement/"><u>[New] 2024 Approved Unmatched Tech Elevation Through SRS Enhancement</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-androids-gaming-revolution-experience-the-power-of-kinemaster-app-for-2024/"><u>[New] Android's Gaming Revolution Experience the Power of KineMaster App for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-4k-all-in-one-touch-screen-desktops-for-2024/"><u>Best 4K All-in-One Touch Screen Desktops for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-apples-limits-uncover-the-ultimate-charged-airtag-for-wallet-safety-insights-from-zdnet/"><u>Beyond Apple's Limits: Uncover the Ultimate Charged AirTag for Wallet Safety - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-apples-latest-powerhouses-mac-mini-with-m2-vs-mac-studio-on-m1-which-takes-the-crown/"><u>Comparing Apple's Latest Powerhouses: Mac Mini with M2 vs Mac Studio on M1 - Which Takes the Crown?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-xbox-game-pass-0x800700e9-error-in-windows-11-and-11/"><u>How to Fix the Xbox Game Pass 0X800700e9 Error in Windows 11 & 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-force-windows-to-restart-in-safe-mode/"><u>How to Force Windows to Restart in Safe Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-hack-how-to-program-and-schedule-outgoing-texts-with-ease/"><u>IPhone Hack: How to Program and Schedule Outgoing Texts with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-productivity-leveraging-swift-operations-with-macos-finder-techrepublic/"><u>Maximize Productivity: Leveraging Swift Operations with MacOS Finder | TechRepublic</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-ever-wondered-about-the-similarity-you-bear-with-an-anime-character-if-you-have-not-yet-looked-into-this-exciting-aspect-of-motion-graphic-desig/"><u>New In 2024, Ever Wondered About the Similarity You Bear with an Anime Character? If You Have Not yet Looked Into This Exciting Aspect of Motion Graphic Design, You Can Very Well Break the Ice Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/should-you-invest-in-chatgpt-plus-see-these-compelling-advantages/"><u>Should You Invest in ChatGPT Plus? See These Compelling Advantages!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-superman-character-glitch-in-pc-games/"><u>Solving the 'Superman' Character Glitch in PC Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essentials-of-patch-tuesday-for-it-professionals-explained/"><u>The Essentials of Patch Tuesday for IT Professionals Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-pc-issues-solutions-for-overcoming-vertical-raycasting-vray-stutters/"><u>Troubleshooting PC Issues: Solutions for Overcoming Vertical Raycasting (VRay) Stutters</u></a></li>
+</ul></div>
 

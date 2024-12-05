@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 12 and 12 Pro Cases in 202E | Reviews by Tech Experts
-date: 2024-11-19T03:46:11.016Z
-updated: 2024-11-25T11:19:13.895Z
+date: 2024-12-04T05:38:36.453Z
+updated: 2024-12-05T00:21:42.897Z
 tags:
   - apple
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -46,6 +50,10 @@ Cons
 
 ## Pela case
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best iPhone 12 case overall
 
 Pela cases are made of Flaxstic, a plastic alternative made of flax straw that's non-toxic and free of phthalates, BPA, cadmium, and lead. The material is soft to the touch, flexible, and able to survive a 20-foot drop test. That means Pela cases are both shock-absorbing and biodegradable. And when you no longer need it, you can send it back to Pela. The company will turn it into a new product or compost it to promote a circular economy. The case is also packaged in recycled paper material (no plastic!).
@@ -67,10 +75,6 @@ Cons
 * Pricier
 
 ## Apple Silicone Case with MagSafe
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best MagSafe iPhone 12 case
 
@@ -95,10 +99,6 @@ Pros
 
 Cons 
 * Clear design may yellow
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bodyguardz Ace Pro
 
@@ -148,6 +148,10 @@ Pros
 Cons 
 * May still yellow over time
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ESR Air Armor
 
 ### Best clear iPhone 12 case
@@ -174,6 +178,10 @@ Pros
 Cons 
 * Price varies
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Incipio Organicore
 
 ### Best eco-friendly iPhone 12 case
@@ -197,15 +205,7 @@ Pros
 Cons 
 * May show scratches easily
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Nomad Rugged case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best leather iPhone 12 case
 
@@ -261,7 +261,7 @@ Cons
 ## Totallee case
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best slim iPhone 12 case
@@ -304,10 +304,6 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What should I look for in an iPhone case?
 
 If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll likely want to protect it. There are many features you can look for, but I consider protection, size, style, and features the most important:
@@ -318,12 +314,16 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 * **Features:** The cases on this list come with a number of added features, including antimicrobial protection and MagSafe compatibility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does wireless charging work with a case?
 
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which case is best for iPhone 12?
 
@@ -333,20 +333,20 @@ The Pela case is my favorite because it combines drop protection with environmen
 
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the safest case for iPhone 12 Pro?
 
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do you need a case for iPhone 12?
 
 Apple markets the iPhone 12 as durable enough to handle tough use. However, if you want to avoid scratches and cracks, you need a case. The iPhone is slick, which means it's easy to drop. You can survive without a case, but if you want to keep your iPhone in the best shape possible, you should go with a case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative iPhone 12 cases worth considering?
@@ -389,14 +389,17 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-cloud-costs-2024s-top-storages-and-cheapest-options/"><u>[Updated] Cloud Costs 2024'S Top Storages & Cheapest Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-public-dns-servers-available-online-now/"><u>Discover the Best Free Public DNS Servers Available Online Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eco-unfriendly-sites-top-ten-harmful-urls-damaging-our-planet-tech-reviews/"><u>Eco-Unfriendly Sites: Top Ten Harmful URLs Damaging Our Planet | Tech Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-uber-dominates-self-driving-deliveries-insights-from-zdnet/"><u>How Uber Dominates Self-Driving Deliveries – Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-f5-pro-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco F5 Pro 5G Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-crossfade-audio-transitions/"><u>In 2024, Understanding Crossfade Audio Transitions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-shopping-on-temu-safe-and-reliable-essential-info-for-newcomers-tech-review/"><u>Is Shopping on Temu Safe and Reliable? Essential Info for Newcomers | Tech Review</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/ultimate-guide-seamless-mp3-to-ogg-transformation-tools-for-windows/"><u>Ultimate Guide: Seamless MP3 to OGG Transformation Tools for Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unusual-ask-from-southwest-their-latest-customer-directive-might-have-you-chuckling-insights-for-tech-zdnet/"><u>Unusual Ask From Southwest? Their Latest Customer Directive Might Have You Chuckling - Insights for Tech | ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-crafting-time-lapses-on-a-canon/"><u>[New] 2024 Approved Step-by-Step Crafting Time-Lapses on a Canon</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-best-practices-mastering-livestreams-with-manycam-professional-virtual-camera-solutions/"><u>1. Best Practices: Mastering Livestreams with ManyCam - Professional Virtual Camera Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazing-deal-alert-sony-ps5-slim-with-marvels-spider-man-2-game-now-at-record-lows/"><u>Amazing Deal Alert: Sony PS5 Slim with Marvel's Spider-Man 2 Game Now at Record Lows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-4-free-cad-tools-available-today/"><u>Best 4 Free CAD Tools Available Today</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/cloaked-story-crafting-your-ultimate-snapguide-manual-for-2024/"><u>Cloaked Story Crafting Your Ultimate Snapguide Manual for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-capturing-and-sharing-images-on-your-nintendo-switch/"><u>Complete Guide: Capturing & Sharing Images on Your Nintendo Switch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-video-quality-game-complete-guide-to-enhancer-22/"><u>Elevate Your Video Quality Game Complete Guide to Enhancer 2.2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-watch-tiktok-on-your-tv/"><u>How to Watch TikTok on Your TV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/i-piu-efficienti-tecniche-di-registrazione-audio-su-computer-con-windows-10-una-guida-completa/"><u>I Più Efficienti Tecniche Di Registrazione Audio Su Computer Con Windows 10: Una Guida Completa</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ipaddvd3/"><u>IPad上のDVD再生のコツ：使いやすいテクニック3つをご紹介</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/max-documentary-highlights-for-july-2024-you-cant-miss/"><u>Max Documentary Highlights for July 2024 You Can't Miss!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-new-july-2024s-latest-windows-system-enhancements-and-patches/"><u>What's New: July 2024'S Latest Windows System Enhancements & Patches</u></a></li>
 </ul></div>
 

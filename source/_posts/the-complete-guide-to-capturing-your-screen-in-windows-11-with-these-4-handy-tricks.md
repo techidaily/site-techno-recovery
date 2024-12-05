@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Capturing Your Screen in Windows 11 with These 4 Handy Tricks
-date: 2024-09-09T09:13:50.418Z
-updated: 2024-09-10T09:13:50.418Z
+date: 2024-11-28T05:42:30.918Z
+updated: 2024-12-04T16:18:02.365Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Guide to Capturing Your Screen in Windows 11 with These 4 Handy Tricks
@@ -9,12 +9,6 @@ excerpt: This Article Describes The Complete Guide to Capturing Your Screen in W
 thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/screen-capture-23236-47e45676433d42c688d14b9d5bcd2f89.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Complete Chronological Viewing Plan for The Fellowship of the Ring, Two Towers & Return of the King
  If you want to enter a magical world of dwarves, elves, and orcs, you can do no better than slipping into the world of_The Lord of the Rings_ . This film series is made up of two trilogies, both of which show the end of the Third Age of J.R.R. Tolkien's Middle-earth.
 
@@ -27,17 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 New Line Cinemas
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Chronological Order
 
  One way to watch_The Lord of the Rings_ is to watch them in the chronological order Tolkien told the tale. As Bilbo Baggins wrote, "Down from the door where it began. Now, far ahead the road has gone, and I must follow if I can."
@@ -56,17 +42,9 @@ New Line Cinemas
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Order of Release
 
  Do you want to watch_The Lord of the Rings_ , including_The Hobbit_ , in the order they were released? Many people do this to experience how it felt to experience the Tolkien story in the way Director Peter Jackson told it on the screen. This is because there is information and elements of the story which make more sense to moviegoers who've already seen the LOTR trilogy.
@@ -83,11 +61,9 @@ New Line Cinemas
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Is the Right Order?
 
  While you could boil 'em, mash 'em, and stick 'em in a stew, some of the stories in_The Lord of the Rings_ set up the viewer for seeing those tales unfold in_The Hobbit_ trilogy. On the other hand, the actual storyline in The Hobbit itself serves as a backdrop to events that take place in LOTR.
@@ -95,17 +71,9 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Does 'The Rings of Power' Take Place?
 
  Amazon's original series_The Rings of Power_ happens thousands of years before both_The Lord of the Rings_ and_The Hobbit_ . In fact, it's in a wholly different era of Middle-earth: the Second Age. Despite that, it does include some returning characters from the later stories, including Galadriel and Elrond (elves are immortal, remember).
@@ -113,11 +81,9 @@ New Line Cinemas
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is 'The Hunt for Gollum'?
 
  In May 2024, Warner Bros. announced it had started development two more Middle-earth films. The first of these,_The Hunt for Gollum_ , will be out in 2026 and bring the writers of the original trilogy back. Andy Serkis, who played Gollum in four movies, will direct (and likely reprise the role, given the title).
@@ -157,8 +123,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +130,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-eliminate-youtube-shorts-permanent-guide/"><u>[New] 2024 Approved Eliminate YouTube Shorts Permanent Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-no-money-no-problem-free-pinterest-video-extractors/"><u>[New] 2024 Approved No Money? No Problem! Free Pinterest Video Extractors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-ten-instagram-feeds-blending-funny-and-sentimental-posts-for-2024/"><u>[New] Ten Instagram Feeds Blending Funny & Sentimental Posts for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-unveils-groundbreaking-ai-technology-for-enhanced-siri-performance-via-intuitive-home-screen-analysis-zdnet-coverage/"><u>Apple Unveils Groundbreaking AI Technology for Enhanced Siri Performance via Intuitive Home Screen Analysis | ZDNET Coverage</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-mfc-7360n-flawless-driver-setup-on-windows-11-8-or-7-a-hassle-free-guide/"><u>Brother MFC-7360N: Flawless Driver Setup on Windows 11, 8 or 7 - A Hassle-Free Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-on-fixing-a-glitchy-phasmophobia-virtual-reality-experience/"><u>Expert Guide on Fixing a Glitchy Phasmophobia Virtual Reality Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-converting-mac-image-types-a-step-by-step-process/"><u>In 2024, Converting Mac Image Types A Step-by-Step Process</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-itel-p55plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Itel P55+ to New Phone | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/introducing-the-simplified-audio-experience-of-sonos-new-s2-app-but-dont-overlook-these-key-limitations-zdnet/"><u>Introducing the Simplified Audio Experience of Sonos' New S2 App - But Don't Overlook These Key Limitations | ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-y28-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo Y28 5G FRP Without Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-dns-cleanup-for-a-faster-mac-browsing-experience/"><u>Master the Art of DNS Cleanup for a Faster Mac Browsing Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-iphone-se-cases-find-the-perfect-match-for-safety-and-fashion-digital-trends/"><u>Ultimate Guide to iPhone SE Cases : Find the Perfect Match for Safety & Fashion | Digital Trends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-leading-mp3-players-ranked-by-zdnet-experts/"><u>Ultimate Guide: Leading MP3 Players Ranked by ZDNet Experts</u></a></li>
+</ul></div>
 

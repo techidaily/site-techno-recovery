@@ -1,7 +1,7 @@
 ---
 title: "Tracing the Development of iOS Platform: An In-Depth Look From Version 1.0 to 18.0"
-date: 2024-09-09T16:29:42.681Z
-updated: 2024-09-15T16:17:23.037Z
+date: 2024-11-29T04:25:56.788Z
+updated: 2024-12-04T18:09:33.674Z
 categories:
   - BestProducts
 description: "This Article Describes Tracing the Development of iOS Platform: An In-Depth Look From Version 1.0 to 18.0"
@@ -18,6 +18,10 @@ Close
  Below you'll find a history of each version of iOS when it was released, and what it added to the platform. Follow the links for more in-depth information about that version.
 
  See our article[ What is iOS?](https://www.lifewire.com/what-is-ios-1994355) for a lot more on this innovative mobile operating system and how it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18 
 
@@ -50,6 +54,10 @@ Close
  Updates include new Messages features, SharePlay availability in FaceTime and Messages, and upgrades for Apple Wallet including Apple Pay Later and Apple Order Tracking.
 
  iOS 16 also featured an Apple Maps redesign and new features, such as cycling, lookaround, and multi-stop routing. The iOS upgrade also offers improvements to Spatial Audio that allow for the personalization of audio on AirPods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 15 
 
@@ -126,6 +134,10 @@ Apple
 
 * None. iOS 14 supports the same set of devices as iOS 13
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ iOS 13](https://www.lifewire.com/ios-13-4586609) 
 
 ![An array of iOS 13 screenshots on iPhones](https://www.lifewire.com/thmb/09vYI34mTgNoQ3N2N-Bn09JecpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-13-ed889386f01841408610f9362b47ba25.jpg) 
@@ -156,6 +168,10 @@ Apple Inc.
 * 6th Gen. iPod touch
 * iPhone 6 series
 * iPhone 5S
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ iOS 12](https://www.lifewire.com/ios-12-4169622) 
 
@@ -211,6 +227,10 @@ Apple Inc.
 * [ iPhone 5](https://www.lifewire.com/compare-iphone-models-1999430)
 * iPad 4
 * iPad 3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ iOS 10](https://www.lifewire.com/what-devices-compatible-ios-10-4053167) 
 
@@ -272,6 +292,10 @@ Apple, Inc.
 
 ![iPhone 5s with iOS 8](https://www.lifewire.com/thmb/zi_LhQ-7cFRXzy0FrNnFdA-ZHnI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone5-ios8-56a5352e3df78cf77286eecf.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple, Inc. 
 
 **Support ended:** 2016  
@@ -298,22 +322,13 @@ Apple, Inc.
 
 * iPhone 4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ iOS 7](https://www.lifewire.com/is-iphone-compatible-with-ios-7-2000226) 
 
 ![Material design in iOS 7](https://www.lifewire.com/thmb/NBSZqBzI5HlyCyrOTwS0mCE36fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-7-598c78e0054ad90011729fb8.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Corbis News / Getty Images
 
@@ -340,13 +355,6 @@ Corbis News / Getty Images
 * iPhone 3GS
 * ​iPhone 4, iPhone 4S, 3rd gen. iPad, and iPad 2 couldn't use all features of iOS 7
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iOS 6 
 
 ![Screenshot of iOS 6](https://www.lifewire.com/thmb/SD_9xRCw9TcGf31icSpQQ5LQkQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-6-598c7e60b501e80012fa1a48.jpg) 
@@ -372,13 +380,6 @@ marco\_1186 / Flickr
 **Dropped Support For:** 
 
 * ​None, but iPhone 3GS, iPhone 4, and iPad 2 couldn't use all features of iOS 6
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [ iOS 5](https://www.lifewire.com/compare-iphone-models-1999430) 
 
@@ -410,16 +411,13 @@ Francis Dean / Getty Images
 * 2nd gen. iPod touch
 * 3rd gen. iPod touch
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [ iOS 4](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) 
 
 ![iPhone 4 in black](https://www.lifewire.com/thmb/thaO7rMhgmPNvfHVT7NvyTLXHXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-4-598c7fba054ad9001173586b.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ramin Talaie / Getty Images
 
@@ -451,6 +449,10 @@ Ramin Talaie / Getty Images
 
 ![iPhone 3GS in the box](https://www.lifewire.com/thmb/315GtEY4darI4H7pYOII3SIsxI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3GS-598884eb0d327a00113cd98f.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Sullivan / Getty Images News
 
 **Support ended:**  2012  
@@ -470,6 +472,10 @@ Justin Sullivan / Getty Images News
 ## iOS 2 
 
 ![iPhone 3G in an Apple Store](https://www.lifewire.com/thmb/e7btg9umq1lis3_Un_1HBtbg3qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3G-598c809baf5d3a0011e1cfd7.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Kempin / Getty Images
 
@@ -491,19 +497,6 @@ Jason Kempin / Getty Images
 ## iOS 1 
 
 ![Original iPhone](https://www.lifewire.com/thmb/cIRcqbxNRi2yVJtxV2sQGKdY3qg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/original-iphone-598c81a1396e5a001026cc8b.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple Inc.
 
@@ -562,5 +555,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-navigating-through-mixed-reality-an-overview/"><u>[New] In 2024, Navigating Through Mixed Reality An Overview</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-effortless-steps-transitioning-your-laptops-operating-system-from-hdd-to-ssd/"><u>1. Effortless Steps: Transitioning Your Laptop's Operating System From HDD to SSD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breaking-down-the-principles-of-net-neutrality-what-you-need-to-know/"><u>Breaking Down the Principles of Net Neutrality: What You Need to Know</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-iphone-13-analysis-features-performance-and-more/"><u>Comprehensive iPhone 13 Analysis: Features, Performance & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-manage-your-yard-with-the-latest-wireless-lawnmower-technology-discover-how-zdnet/"><u>Effortlessly Manage Your Yard with the Latest Wireless Lawnmower Technology - Discover How | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-tracking-and-managing-your-online-data-use/"><u>Guide: Tracking and Managing Your Online Data Use</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-magic-6-lite-messages-recovery-recover-deleted-messages-from-honor-magic-6-lite-by-fonelab-android-recover-messages/"><u>Honor Magic 6 Lite Messages Recovery - Recover Deleted Messages from Honor Magic 6 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-a59-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Oppo A59 5G.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-key-top-10-modifications-for-terraria/"><u>In 2024, Key Top 10 Modifications for Terraria</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-models-unveiled-a-comprehensive-review-of-the-regular-plus-pro-and-pro-max-versions-for-informed-purchasing-decisions-insights-from-zdnet/"><u>IPhone 15 Models Unveiled: A Comprehensive Review of the Regular, Plus, Pro, and Pro Max Versions for Informed Purchasing Decisions - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-a-portion-from-the-25m-apple-family-sharing-litigation-payout-expert-tips/"><u>Securing a Portion From the $25M Apple Family Sharing Litigation Payout: Expert Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sticking-with-my-iphone-14-top-4-reasons-im-skipping-the-upgrade-to-an-iphone-16-pro-zdnet-review/"><u>Sticking with My iPhone 14: Top 4 Reasons I'm Skipping the Upgrade to an iPhone 16 Pro | ZDNET Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-buzz-around-teslas-new-mobile-device-unveiling-potential-launch-dates-price-points-and-next-gen-features-innovatively-designed-for-the-future/"><u>The Buzz Around Tesla's New Mobile Device: Unveiling Potential Launch Dates, Price Points & Next-Gen Features Innovatively Designed for the Future</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-mac-vpn-services-comprehensive-tests-and-reviews-by-experts-find-your-perfect-match/"><u>Top-Ranking Mac VPN Services: Comprehensive Tests & Reviews by Experts - Find Your Perfect Match</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: Apple Eyes New Buds and Over-Ear Headphones - Tech News"
-date: 2024-11-22T00:30:38.326Z
-updated: 2024-11-24T16:32:51.530Z
+date: 2024-12-04T00:35:09.024Z
+updated: 2024-12-04T22:14:31.629Z
 tags:
   - apple
 categories:
@@ -48,7 +48,7 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
@@ -60,7 +60,7 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -70,7 +70,7 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the AirPods 4 (mid-tier) if...
@@ -86,7 +86,7 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -100,7 +100,7 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -137,18 +137,22 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-discovering-2023s-best-stories-on-the-worldwide-web/"><u>[New] 2024 Approved Discovering 2023'S Best Stories on the Worldwide Web</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-boost-engagement-with-free-intro-templates/"><u>[New] Boost Engagement with Free Intro Templates</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-kinemaster-written-in-5-steps-plus-best-digital-editors-online-for-2024/"><u>[New] Mastering KineMaster' Written in 5 Steps + Best Digital Editors Online for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-symphony-of-screens-how-music-enhances-vimeo-content-for-2024/"><u>[New] Symphony of Screens How Music Enhances Vimeo Content for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-reviewing-free-screen-recorder-tools-for-pc-for-2024/"><u>[Updated] Reviewing Free Screen Recorder Tools for PC for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-tips-for-green-screen-cinematography-success/"><u>[Updated] Step-by-Step Tips for Green Screen Cinematography Success</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-methods-to-securely-accept-card-payments-in-your-startup-according-to-industry-experts/"><u>Essential Methods to Securely Accept Card Payments in Your Startup, According to Industry Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/grubhub-now-delivered-via-amazon-easy-food-orders-with-just-one-click/"><u>Grubhub Now Delivered via Amazon: Easy Food Orders with Just One Click</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-amazons-small-act-of-kindness-won-me-over-an-unexpected-story-featured-by-zdnet/"><u>How Amazon's Small Act of Kindness Won Me Over: An Unexpected Story Featured by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-crucial-data-contributes-to-driving-sea-regions-e-commerce-and-tech-boom-zdnet/"><u>How Crucial Data Contributes to Driving SEA Region's E-Commerce and Tech Boom | ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy F14 5G Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/new-era-of-integration-how-apples-enhanced-iphone-nfc-access-for-third-party-applications-boosts-your-experience-insights-from-zdnet/"><u>New Era of Integration: How Apple's Enhanced iPhone NFC Access for Third-Party Applications Boosts Your Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-demystifying-the-digital-canvas-a-complete-guide-to-beginners-chroma-keying/"><u>[New] In 2024, Demystifying the Digital Canvas A Complete Guide to Beginner's Chroma Keying</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-dissecting-backwards-image-trails-on-social-media-giant-facebook-for-2024/"><u>[Updated] Dissecting Backwards Image Trails on Social Media Giant Facebook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>[Updated] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10-movie-maker/"><u>使用Windows 10 Movie Maker编辑电影 - 系统要求与步骤指南</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-tips-crafting-effective-gpt-call-outs-to-enrich-personal-ai-conversations-on-any-platform/"><u>Advanced Tips: Crafting Effective GPT Call-Outs to Enrich Personal AI Conversations on Any Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-repairing-issues-with-internet-explorer-not-working/"><u>Expert Tips on Repairing Issues with Internet Explorer Not Working</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/latest-sweet-deals-to-get-you-the-perfect-ipad-at-a-bargain-price/"><u>Latest Sweet Deals to Get You the Perfect iPad at a Bargain Price</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-flat-tv-care-a-comprehensive-cleaning-guide/"><u>Mastering the Art of Flat TV Care - A Comprehensive Cleaning Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-photoshop-scratch-disk-full-issue-step-by-step-guide/"><u>Solving Photoshop Scratch Disk Full Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-code-43-troubleshooting-a-step-by-step-guide/"><u>Solving the Mystery of Code 43 Troubleshooting: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-pick-our-choice-of-best-iphone-gps-apps/"><u>The Ultimate Pick: Our Choice of Best iPhone GPS Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-vcompdll-not-found-issues-on-your-pc/"><u>The Ultimate Solution for 'vcomp.dll' Not Found Issues on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-linking-your-pinterest-and-facebook-presence-seamlessly/"><u>The Ultimate Tutorial: Linking Your Pinterest and Facebook Presence Seamlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-cutting-edge-technology-presents-insights-from-zdnet/"><u>Top 10 Cutting-Edge Technology Presents - Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-pop-7-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Pop 7 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-shortcut-how-to-configure-auto-sign-in-for-your-account/"><u>Windows Shortcut: How to Configure Auto-Sign In for Your Account</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Is Biometrics? Unveiling Identity Verification Techniques
-date: 2024-09-09T09:13:52.591Z
-updated: 2024-09-10T09:13:52.591Z
+date: 2024-12-03T18:34:19.376Z
+updated: 2024-12-05T08:13:02.590Z
 categories:
   - BestProducts
 description: This Article Describes What Is Biometrics? Unveiling Identity Verification Techniques
@@ -10,12 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/Hp1aczjkzKCMVbsWqWaEHnnqXWs=/400x300/fi
 ---
 
 ## Efficiently Batch Edit Your Gmail Conversations with This Simple Selection Trick
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What to Know
 
 * To select every email, click the**checkbox** above the messages, then click**Select all \[#\] conversations** .
@@ -25,17 +24,9 @@ thumbnail: https://www.lifewire.com/thmb/Hp1aczjkzKCMVbsWqWaEHnnqXWs=/400x300/fi
  This article explains how to select every Gmail email at once from the desktop website. Doing so lets you apply a new label to the selected messages, bulk-delete emails,[mark them as read](https://www.lifewire.com/how-to-mark-email-read-in-gmail-1171945) , and more.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select All Emails in Gmail
 
  Once you find the emails you want to manage, highlighting all of them is a simple, two-step process.
@@ -44,27 +35,14 @@ thumbnail: https://www.lifewire.com/thmb/Hp1aczjkzKCMVbsWqWaEHnnqXWs=/400x300/fi
 2. Right below the search bar and above your emails, click the**checkbox** to select all the messages that are currently displayed. Or, select the**arrow** next to this checkbox to choose the types of emails to be selected, such as Read, Unread, Starred, or Unstarred.  
 ![Screenshot of Select All button in Gmail](https://www.lifewire.com/thmb/nDxAo7ifTPWhhJHpwNwtDS2jSIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_select-all-messages-in-a-gmail-label-collection-or-search-1172098-5baea535c9e77c002636c2bc.jpg)  
  At this point, you have only selected the messages that are visible on the screen.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. To select every email in Gmail, including those that are not currently displayed, look at the top of your email list for an additional button, and select it. It look like this:**Select all \[#\] conversations in \[label\]** .  
 ![A list of emails selected in Gmail](https://www.lifewire.com/thmb/4VAxqfY1MDMB8VrzP3z18uSp99Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-gmail-messages-59c38ca927ab46cbb225ebda805c03cc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select All Gmail Emails From a Search
 
  Gmail provides some powerful[search tools to help you find emails quickly](https://www.lifewire.com/how-to-search-mail-in-gmail-1172081) . For example, you can locate your biggest emails, look for messages that have attachments, or find emails that arrived on a specific date.
@@ -77,11 +55,13 @@ thumbnail: https://www.lifewire.com/thmb/Hp1aczjkzKCMVbsWqWaEHnnqXWs=/400x300/fi
 ![Gmail emails highlighted from a search](https://www.lifewire.com/thmb/n2qAQZOsSxNaeRsOvsrHDnmIFoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-conversations-match-search-b3214279e6b44aa89ebcfb82199b23f9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Can Do With Selected Emails
 
  Anything you can do with a single email, Gmail lets you do with a selection of messages. Here are some actions you can take when you select lots of emails at once:
@@ -134,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +121,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-master-live-broadcast-setup-using-obs-studio-pc-mac-laptop-for-2024/"><u>[New] Master Live Broadcast Setup Using OBS Studio (PC, Mac, Laptop) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-distributes-rebates-to-affected-macbook-customers-under-newest-class-action-resolution-tech-news-on-zdnet/"><u>Apple Distributes Rebates to Affected MacBook Customers Under Newest Class Action Resolution - Tech News on ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-enhancing-mouse-interaction-via-clicklock/"><u>Expert Guide to Enhancing Mouse Interaction via ClickLock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722897717620-explore-the-ultimate-film-guide-11-uplifting-cinema-hits-for-a-positive-vibe/"><u>Explore the Ultimate Film Guide: 11 Uplifting Cinema Hits for a Positive Vibe</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-the-x3daudiodll-not-detected-or-absent-problem/"><u>How To Address The x3daudio.dll Not Detected or Absent Problem</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-f04-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy F04?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-defy-2-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Motorola Defy 2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-listening-experience-into-a-learning-adventure-with-podcasts/"><u>In 2024, Transform Your Listening Experience Into a Learning Adventure (With Podcasts)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-subtitle-craft-with-the-best-online-resources-today-for-2024/"><u>Mastering Subtitle Craft with The Best Online Resources Today for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-pcs-potential-with-these-proven-techniques-for-windows-nx-enhancements/"><u>Maximize Your PC's Potential with These Proven Techniques for Windows nX Enhancements</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-savings-on-the-powerful-macbook-pro-m1-max-exclusive-offer-inside-bandhs-black-friday-bonanza-spotlight-by-zdnet/"><u>Maximize Your Savings on the Powerful MacBook Pro M1 Max – Exclusive Offer Inside B&H's Black Friday Bonanza, Spotlight by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-on-premium-tablets-during-amazons-prime-day-2n-2024-hot-offers-available-for-under-35-zdnet/"><u>Save Big on Premium Tablets During Amazon's Prime Day 2N 2024: Hot Offers Available for Under $35 | ZDnet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1727791305690-top-rated-magsafe-wallets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+</ul></div>
 

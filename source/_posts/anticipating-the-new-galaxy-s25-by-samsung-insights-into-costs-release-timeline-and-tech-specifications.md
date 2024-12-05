@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the New Galaxy S25 by Samsung: Insights Into Costs, Release Timeline & Tech Specifications"
-date: 2024-09-09T09:13:53.710Z
-updated: 2024-09-10T09:13:53.710Z
+date: 2024-12-03T19:18:01.525Z
+updated: 2024-12-04T22:56:25.053Z
 categories:
   - BestProducts
 description: "This Article Describes Anticipating the New Galaxy S25 by Samsung: Insights Into Costs, Release Timeline & Tech Specifications"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes Anticipating the New Galaxy S25 by Samsung: Ins
 thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022df1dd84ca222ff30839f7f0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Anticipating the New Galaxy S25 by Samsung: Insights Into Costs, Release Timeline & Tech Specifications
 
  In This Article
@@ -28,28 +22,20 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
  Since[the latest Samsung Galaxy phones](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) were launched just this year, there's not a lot in the way of Galaxy S25 leaks. Nevertheless, we have some ideas about this upcoming smartphone pair and will keep this page updated as we uncover new rumors and leaks throughout the year.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Samsung Galaxy S25 Be Released?
 
  Samsung consistently releases its Galaxy S series phones during the first half of each year. With a track record of unveiling new models every year since 2010, there's no need for speculation about the arrival of new Samsung phones.
 
  Since the Galaxy S24 debuted in 2024, we can expect the Galaxy S25 and S25+ to land in 2025.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 January or February 2025 is our best guess right now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Price Rumors
 
  Nobody knows for sure what Samsung will charge for the Galaxy S25 and S25+. Official prices won't be revealed until the phones are formally announced next year. However, if we look at the pricing trend of the latest phones, we can estimate how much the Galaxy S25 might cost:
@@ -65,6 +51,10 @@ January or February 2025 is our best guess right now.
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Samsung Galaxy S25 pre-orders will start when the phones are announced early next year.
@@ -72,11 +62,9 @@ January or February 2025 is our best guess right now.
  Interested in a foldable phone? Samsung's[Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) and[Z Flip 6](https://www.lifewire.com/samsung-galaxy-z-flip-6-8621840) are coming this year.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Features
 
 [Android 15 will arrive later this year](https://www.lifewire.com/android-15-7547471) , so the Galaxy S25 will run that version of the Android OS (with the[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7 skin). Samsung will likely support the S25 for the same length of time as in past years, meaning you'll get major Android operating system updates and security fixes for seven years.
@@ -87,6 +75,10 @@ January or February 2025 is our best guess right now.
 * **Seamless updates** : Background updates let you continue using your phone while a new version of the OS gets installed. This, surprisingly, has not been the case for Samsung phones[until recently](https://twitter.com/MishaalRahman/status/1770827713567158730) , so it looks like we'll see this change when the Galaxy S25 phones arrive.
 
 [Is Samsung an Android? Yes, Here’s What You Need to Know](https://www.lifewire.com/is-samsung-an-android-5215944)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy S25 Specs and Hardware
 
@@ -100,24 +92,16 @@ January or February 2025 is our best guess right now.
 
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Larger Displays
 
 [If this rumor is true](https://twitter.com/TheGalox%5F/status/1782058803468423431) , next year's phones could be a little bigger. The X/Twitter post states that the Galaxy S25 will increase from a 6.2-inch display to a 6.36-inch one. It's not a_huge_ change, but it could usher in more than just a bigger screen.
 
  The Galaxy S25+ could be bigger, too, but we haven't seen any supporting leaks. The current model is 6.7 inches and we don't see that changing unless the Galaxy S25 Ultra_also_ increases in size, since it's already 6.8 inches.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Better Image Quality
 
  A larger phone, overall, means Samsung could stuff a bigger battery into the phone or work in some different cameras. Currently, Samsung and other phone makers use Samsung's ISOCELL sensor for their phone cameras.
@@ -134,12 +118,6 @@ January or February 2025 is our best guess right now.
 * The S24 supports fast wired charging at 25W, which is a bit slower than similar devices like the Pixel 8 which is rated for 27W. We haven't seen any leaks about this changing next year, but we can still hope for the best.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest News About Samsung Galaxy S25
 
  You[read more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more about Samsung and Android specifically.
@@ -156,8 +134,6 @@ January or February 2025 is our best guess right now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +141,17 @@ January or February 2025 is our best guess right now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/acquiring-high-quality-copyright-free-images-for-2024/"><u>Acquiring High-Quality Copyright-Free Images for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expertly-charged-hero5-black-batteries-authenticity-and-counterparts-for-2024/"><u>Expertly Charged Hero5 Black Batteries - Authenticity & Counterparts for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-false-friend-requests/"><u>Identifying Inauthentic Connections: A Guide to Recognizing False Friend Requests</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-mastery-streaming-google-meet-directly-to-youtube-for-2024/"><u>Meeting Mastery Streaming Google Meet Directly to YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/staying-informed-in-the-micromobility-sphere-key-dates-latest-headlines-whispers-and-beyond/"><u>Staying Informed in the Micromobility Sphere: Key Dates, Latest Headlines, Whispers & Beyond</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-reviving-a-broken-samsung-soundbar/"><u>Step-by-Step Solutions for Reviving a Broken Samsung Soundbar</u></a></li>
+<li><a href="https://article-tips.techidaily.com/systematic-upgrade-procedures-for-macos-sierra-users-for-2024/"><u>Systematic Upgrade Procedures for macOS Sierra Users for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-7-solutions-when-windows-explorer-continually-fails-explore-with-revouninstaller/"><u>Top 7 Solutions When Windows Explorer Continually Fails – Explore With RevoUninstaller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-choose-after-iphone-13-15-pro-exit-the-stage-expert-picks-zdnet/"><u>What to Choose After iPhone 13, 15 Pro Exit the Stage - Expert Picks | ZDNet</u></a></li>
+</ul></div>
 

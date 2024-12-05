@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day Analysis"
-date: 2024-11-22T17:52:16.095Z
-updated: 2024-11-24T16:51:13.483Z
+date: 2024-11-28T05:34:08.132Z
+updated: 2024-12-04T16:23:47.590Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca6dc8bba-2259-4841-91ea-e1c02f1a6381%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,21 +71,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-5-digital-videography-devices/"><u>[Updated] 2024 Approved Leading 5 Digital Videography Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-initial-trial-ideal-accessories-to-boost-your-gopro-footage-for-2024/"><u>[Updated] Initial Trial Ideal Accessories to Boost Your GoPro Footage for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories/"><u>2024 Approved An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-quick-tips-for-smooth-ipad-screen-capture/"><u>2024 Approved Quick Tips for Smooth iPad Screen Capture</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-simplifying-the-image-blur-process-for-iphone-enthusiasts/"><u>2024 Approved Simplifying the Image Blur Process for iPhone Enthusiasts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-se-2022-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone SE (2022) When Its Locked Within Seconds</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-checklist-for-a-successful-work-from-home-setup-insights-from-zdnet/"><u>Complete Checklist for a Successful Work-From-Home Setup - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-duolingo-appraisal-enjoyable-and-gratuitous-linguistic-mastery-insights-from-zdnet/"><u>Comprehensive Duolingo Appraisal: Enjoyable & Gratuitous Linguistic Mastery - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/confronting-imposter-thoughts-to-excel-professionally-a-guide-to-building-unshakable-confidence-at-work/"><u>Confronting Imposter Thoughts to Excel Professionally – A Guide to Building Unshakable Confidence at Work</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/efficient-strategies-for-streamlining-ai-expertise-acquisition-insights-from-zdnet/"><u>Efficient Strategies for Streamlining AI Expertise Acquisition: Insights From ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-securing-a-tech-internship-insider-tips-from-zdnets-comprehensive-manual/"><u>Master the Art of Securing a Tech Internship: Insider Tips From ZDNet's Comprehensive Manual</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-gesture-control-a-comprehensive-overview/"><u>Mastering Gesture Control A Comprehensive Overview</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-your-pathway-into-apples-workforce-expert-advice-from-zdnet/"><u>Mastering Your Pathway Into Apple's Workforce: Expert Advice From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/supercharge-productivity-by-embracing-a-coders-perspective-strategies-from-zdnet/"><u>Supercharge Productivity by Embracing a Coder’s Perspective – Strategies From ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-beats-with-free-dji-luts-for-minis-and-air-devices-for-2024/"><u>Transform Your Beats with Free DJI LUTs for Minis & Air Devices for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-creative-substitutes-for-windows-video-editing-tools/"><u>[Updated] Creative Substitutes for Windows Video Editing Tools</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-v30t-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-htcs-vision-of-the-metaverse-a-cost-free-guide-zdnet/"><u>Discovering HTC's Vision of the Metaverse - A Cost-Free Guide | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-screen-hurdle-sonic-frontiers-win-on-w11/"><u>Fixing the Screen Hurdle: Sonic Frontiers Win on W11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-construct-a-robust-digital-twin-framework-for-your-business-with-ai-integration-insights-zdnet/"><u>How to Construct a Robust Digital Twin Framework for Your Business with AI Integration Insights | ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-your-sims-4-live-action/"><u>In 2024, Perfecting Your Sims 4 Live Action</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-ultimate-gaming-queens-top-10-female-youtubers/"><u>In 2024, Ultimate Gaming Queens Top 10 Female YouTubers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-vs-apple-in-the-vr-arena-exploring-metas-secret-tech-advantage-with-zdnets-in-depth-analysis/"><u>Meta Vs. Apple in the VR Arena: Exploring Meta's Secret Tech Advantage with ZDNet's In-Depth Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-seeking-the-ideal-audio-sample-of-a-brushing-motion/"><u>New Seeking the Ideal Audio Sample of a Brushing Motion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/should-you-preorder-the-new-apple-vision-pro-top-5-essential-factors-to-consider-insights-from-zdnet/"><u>Should You Preorder the New Apple Vision Pro? Top 5 Essential Factors to Consider - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unpacking-the-resemblance-how-vision-pros-new-controller-might-mirror-apple-pencil-according-to-recent-patents-zdnet/"><u>Unpacking the Resemblance: How Vision Pro's New Controller Might Mirror Apple Pencil, According to Recent Patents | ZDNet</u></a></li>
 </ul></div>
 

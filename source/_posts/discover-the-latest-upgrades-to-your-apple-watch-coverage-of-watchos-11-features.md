@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Upgrades to Your Apple Watch Coverage of WatchOS 11 Features
-date: 2024-11-22T17:55:06.191Z
-updated: 2024-11-25T08:15:28.276Z
+date: 2024-12-03T19:07:56.005Z
+updated: 2024-12-05T06:24:29.589Z
 tags:
   - apple
 categories:
@@ -38,13 +38,13 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -56,10 +56,6 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -69,10 +65,6 @@ Apple is adding one for Shazam, Photos, Distance, and more. Plus, Smart Stack ca
 Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live events, Ubers, food orders, and more on your wrist.
 
 Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
 
@@ -92,6 +84,10 @@ Jason Hiner/ZDNET
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Tap to Cash for quick payments
 
 Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. Tap to Cash lets you hold your Apple Watch near another watch or iPhone to quickly send Apple Cash to someone else.
@@ -99,7 +95,7 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
@@ -110,12 +106,16 @@ Apple is adding the Translate app to WatchOS 11, allowing you to translate in an
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
@@ -152,20 +152,19 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-game-streamers-for-your-watchlist/"><u>[New] In 2024, Essential Game Streamers for Your Watchlist</u></a></li>
-<li><a href="https://win-able.techidaily.com/discord-crashes-on-stream-a-step-by-step-solution-for-uninterrupted-broadcasting/"><u>Discord Crashes on Stream? A Step-by-Step Solution for Uninterrupted Broadcasting</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/filmora-x-takes-a-giant-leap-introducing-arm-compatibility/"><u>Filmora X Takes a Giant Leap Introducing ARM Compatibility</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y100t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y100t Safely | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-restore-absence-of-critical-dxgidll-in-win11/"><u>How to Restore Absence of Critical Dxgi.dll in Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/luminous-transformations-for-android-videos-step-by-step/"><u>Luminous Transformations for Android Videos Step by Step</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-recent-cash-app-and-square-downtime-essential-insights-for-small-business-owners-zdnet/"><u>Navigating the Recent Cash App and Square Downtime: Essential Insights for Small Business Owners | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/prime-day-alert-secure-the-best-smart-deal-with-the-affordable-echo-pop-and-blink-video-doorbell-combo-why-zdnet-says-its-a-must-have/"><u>Prime Day Alert: Secure the Best Smart Deal with the Affordable Echo Pop & Blink Video Doorbell Combo – Why ZDNET Says It's a Must-Have!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/profit-strategies-for-promoting-beloved-amazon-deals-during-prime-day-events/"><u>Profit Strategies for Promoting Beloved Amazon Deals During Prime Day Events</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-threat-of-tesla-and-elon-musks-free-speech-stance-to-indias-vulnerable-groups-revealed-wired/"><u>The Threat of Tesla and Elon Musk's Free Speech Stance to India's Vulnerable Groups Revealed | Wired</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-troubleshooting-tips-how-to-repair-your-computer-when-it-wont-start-properly/"><u>Ultimate Troubleshooting Tips: How to Repair Your Computer When It Won't Start Properly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-creative-gifting-solutions-with-googles-cutting-edge-artificial-intelligence-technology-techradar/"><u>Unlocking Creative Gifting Solutions with Google's Cutting-Edge Artificial Intelligence Technology | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unpacking-pinterests-bold-move-to-dominate-e-commerce-a-deep-dive-into-their-game-changing-tactics-digital-marketing-today/"><u>Unpacking Pinterest's Bold Move to Dominate E-Commerce: A Deep Dive Into Their Game-Changing Tactics | Digital Marketing Today</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-strumento-perfezionatore-multiforme-per-i-video-miglioramento-stabilizzazione-conversione-e-modifica/"><u>Winxvideo AI: Strumento Perfezionatore Multiforme per I Video - Miglioramento, Stabilizzazione, Conversione E Modifica</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-content-protection-can-you-record-playbacks-for-2024/"><u>[New] YouTube Content Protection Can You Record Playbacks for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-hacking-the-scale-large-props-in-tiktok-filmmaking/"><u>[Updated] Hacking the Scale Large Props in TikTok Filmmaking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-overcoming-unseen-thumbnails-in-youtube-shorts/"><u>[Updated] Overcoming Unseen Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-top-8-best-tripods-for-4k-camera/"><u>2024 Approved Top 8 Best Tripods for 4K Camera</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-correct-the-libcurldll-error-on-your-pc/"><u>Easy Steps to Correct the libcurl.dll Error on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-troubleshooting-techniques-for-wireless-adapter-and-access-point-failures/"><u>Essential Troubleshooting Techniques for Wireless Adapter and Access Point Failures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-ranking-the-most-reliable-youtube-mp3-converters/"><u>In 2024, Ranking the Most Reliable YouTube Mp3 Converters</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-magic-6-lite-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor Magic 6 Lite Phone Hassle-Free</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-urdu-mastery-daily-click-here/"><u>Quick Urdu Mastery Daily – Click Here!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-when-you-cant-locate-the-nspr-4dll-file/"><u>Step-by-Step Solutions for When You Can't Locate the Nspr 4.dll File</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-13-mini-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 13 mini on MetroPCS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-what-to-do-if-microsoft-edge-wont-start/"><u>Troubleshooting Guide: What to Do If Microsoft Edge Won't Start</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-people-behind-likes-on-your-youtube-videos-tips-and-tricks/"><u>Unveiling the People Behind Likes on Your YouTube Videos: Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zooms-performance-technical-glitch-or-user-experience/"><u>Zoom's Performance: Technical Glitch or User Experience?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Management: Enabling & Using Your Computer's Secret Sidebar"
-date: 2024-09-09T09:13:52.440Z
-updated: 2024-09-10T09:13:52.440Z
+date: 2024-12-02T21:42:20.893Z
+updated: 2024-12-04T17:25:15.186Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering File Management: Enabling & Using Your Computer's Secret Sidebar"
@@ -10,12 +10,11 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 ---
 
 ## Mastering the Hidden Treasure of Finder Path Bars in MacOS - Enable and Utilize Now
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What to Know
 
 * Enable the Finder Path Bar: Open Finder and select**Show Path Bar** in the View menu.
@@ -24,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
  This article explains how to show the Mac Finder Path Bar. Information in this article applies to macOS Catalina (10.15) through OS X (10.5) Leopard.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable the Finder Path Bar
 
  The Finder Path Bar is disabled by default, but it only takes a few seconds to enable it.
@@ -37,44 +30,18 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 1. Start by opening a Finder window on your Mac. An easy way to do this is to click the Finder icon in the Dock.  
 ![The Finder icon in the Mac Dock](https://www.lifewire.com/thmb/2QNXKtS5EG8dbjln489L9HSZn3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-Finder-path-bar-2260868-f47faca690fa46a381805077c635608a.jpg)
 2. With a Finder window open, select**Show Path Bar** from the**View** menu.  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Show Path Bar selection from Finder View menu](https://www.lifewire.com/thmb/p8hmSvudrGj6bJbYTBG0C2oeKis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-use-macs-hidden-finder-path-bar-2260868-9d9472a91acd4a1b90d481c5b2d16f97.jpg)
 3. The Path Bar displays at the bottom of all your Finder windows showing the path to any file or folder you choose.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Path Bar at bottom of Finder window](https://www.lifewire.com/thmb/gbXg4tnHLHCs1fJYTDgWyaog8vQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-use-macs-hidden-finder-path-bar-2260868-bfdde3c3e82b4222972d05afbe604e6c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is the Finder Path Bar?
 
  The Finder Path Bar is a small pane located at the bottom of a[Finder window](https://www.lifewire.com/use-mac-finder-2260739) , just below where files and folders are listed. The Path Bar shows you the path from the folder you're currently viewing to the top of the file system. To put it another way, it shows you the path you created when you clicked through the Finder to get to the current folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off the Finder Path Bar
 
  If you decide you prefer the more minimalistic Finder window, you can turn the Path Bar off just as quickly as you turned it on.
@@ -82,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 1. Open a Finder window.
 2. Select**Hide Path Bar** from the**View** menu.  
 ![Hide Path Bar selected in Finder View menu](https://www.lifewire.com/thmb/6TcHzm-tbM5wrShNj4W63rNiBLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-use-macs-hidden-finder-path-bar-2260868-4a4198e2ffef4e8bbe0352fa791bbe2e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Path Bar disappears.
 
@@ -100,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
  The Path Bar is handy, but there are other ways to display the path to an item. One method is to[add the Path icon to the Finder's toolbar](https://www.lifewire.com/customize-finder-toolbar-2260859) by selecting**View** in the Finder menu bar and choosing**Customize Toolbar** .
 
 ![Customize Toolbar chosen from Finder View menu](https://www.lifewire.com/thmb/85T2ZFHx5DifChRTc-RY-crMIzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-use-macs-hidden-finder-path-bar-2260868-5029e6be5ffb4a7e8d878b81376c7b6b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Drag the**Path** icon to the top of the Finder window.
 
@@ -125,17 +100,9 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
  The Finder restarts, after which any Finder window displays the long pathname to the current location of a folder.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off the Display of the Full Pathname
 
  If you decide you don't like the Finder always displaying the long pathname, you can turn the feature off with the following Terminal commands:
@@ -176,8 +143,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +150,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-adding-allure-selecting-the-best-borders-and-frames-for-ig-shots/"><u>[New] 2024 Approved Adding Allure Selecting the Best Borders & Frames for IG Shots</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-achieving-flawless-audio-to-text-translation-using-google/"><u>[Updated] 2024 Approved Achieving Flawless Audio to Text Translation Using Google</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-artisans-guide-to-blending-sound-with-visual-media-on-youtube/"><u>[Updated] In 2024, The Artisan's Guide to Blending Sound with Visual Media on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-samsung-image-maker-insights-and-overview-2023-for-2024/"><u>[Updated] Samsung Image Maker Insights & Overview 2023 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/blindsmagic-smart-motorized-roller-shades-unveiled-an-ultimate-step-by-step-diy-review-for-smart-home-enthusiasts/"><u>BlindsMagic Smart Motorized Roller Shades Unveiled: An Ultimate Step-by-Step DIY Review for Smart Home Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-submerge-your-iphone-15-pro-max-in-water-comprehensive-guide/"><u>Can You Submerge Your iPhone 15 Pro Max in Water? Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-approved-iphone-hacks-transform-your-device-using-stealthy-voice-shortcuts-featured/"><u>Expert-Approved iPhone Hacks! Transform Your Device Using Stealthy Voice Shortcuts - Featured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-iphone-vpn-solutions-a-detailed-analysis-of-performance-by-industry-professionals/"><u>Leading iPhone VPN Solutions: A Detailed Analysis of Performance by Industry Professionals</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-c51-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme C51</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-bulky-power-discover-the-new-speedster-magsafe-charger-thats-stylish-too/"><u>Say Goodbye to Bulky Power: Discover the New Speedster MagSafe Charger That's Stylish, Too!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sequential-screenings-your-guide-to-watching-star-wars-in-the-right-order-on-disneyplus/"><u>Sequential Screenings: Your Guide to Watching 'Star Wars' In the Right Order on Disney+</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-cddvdbd-drives-stuck-in-closed-position/"><u>Step-by-Step Solutions for CD/DVD/BD Drives Stuck in Closed Position</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-gif-grabbers-handbook-a-comprehensible-guide-to-downloading-twitter-gifs/"><u>The GIF Grabber's Handbook A Comprehensible Guide to Downloading Twitter GIFs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-free-iphone-music-applications-the-ultimate-guide/"><u>Top 8 Free iPhone Music Applications: The Ultimate Guide</u></a></li>
+</ul></div>
 

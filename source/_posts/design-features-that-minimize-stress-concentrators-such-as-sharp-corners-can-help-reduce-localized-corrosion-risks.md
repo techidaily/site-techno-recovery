@@ -1,7 +1,7 @@
 ---
 title: Design Features that Minimize Stress Concentrators, Such as Sharp Corners, Can Help Reduce Localized Corrosion Risks.
-date: 2024-11-18T20:56:53.216Z
-updated: 2024-11-24T21:09:50.760Z
+date: 2024-12-03T01:52:46.621Z
+updated: 2024-12-04T16:22:03.897Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Writing tools
@@ -45,7 +45,7 @@ Jason Hiner/ZDNET
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Photo features
@@ -53,10 +53,6 @@ Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Note
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -72,17 +68,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Mail assistance
 
@@ -106,11 +94,23 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What will come later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image wand
 
@@ -158,20 +158,22 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-navigating-filmmaker-fascination-filmoras-essential-traits/"><u>[New] In 2024, Navigating Filmmaker Fascination Filmora's Essential Traits</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-spotting-sham-followers-on-business-pages-for-2024/"><u>[Updated] Spotting Sham Followers on Business Pages for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-essential-2023-social-media-video-exploration-for-2024/"><u>[Updated] The Essential 2023 Social Media Video Exploration for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-photography-insiders-top-picks-for-6-premium-4k-dslrs/"><u>2024 Approved Pro Photography Insiders Top Picks for 6 Premium 4K DSLRs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/evaluating-the-10-monthly-amazon-grocardis-delivery-test-is-it-a-bargain/"><u>Evaluating the $10 Monthly Amazon Grocardis Delivery Test - Is It a Bargain?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expanded-bank-compatibility-google-wallet-adds-access-to-40-new-financial-institutions-for-mobile-payments-is-it-time-to-ditch-your-debit-card/"><u>Expanded Bank Compatibility: Google Wallet Adds Access to 40 New Financial Institutions for Mobile Payments – Is It Time to Ditch Your Debit Card?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-the-impeccable-design-and-value-of-the-google-pixelbook-go/"><u>Expert Analysis: The Impeccable Design & Value of the Google Pixelbook Go</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-download-the-most-recent-dell-network-driver-version-for-windows-7-systems/"><u>Find and Download the Most Recent Dell Network Driver Version for Windows 7 Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-yet-misguided-move-how-southwest-airlines-new-idea-baffled-and-frustrated-customers-zdnet-insight/"><u>Innovative Yet Misguided Move? How Southwest Airlines' New Idea Baffled and Frustrated Customers | ZDNet Insight</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/joyful-initiatives-by-amazon-overshadowed-by-workforce-reductions-insights-from-zdnet/"><u>Joyful Initiatives by Amazon Overshadowed by Workforce Reductions | Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revamped-amazon-product-rating-system-an-unhelpful-update/"><u>Revamped Amazon Product Rating System: An Unhelpful Update?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-shopping-how-to-prevent-overbuying-on-prime-day-with-expert-advice-from-zdnets-top-10-strategies/"><u>Smart Shopping: How to Prevent Overbuying on Prime Day with Expert Advice From ZDNet's Top 10 Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-driver-setup-mishaps-in-user-preferences/"><u>Troubleshooting Tips for Overcoming Driver Setup Mishaps in User Preferences</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-behind-temus-extremely-low-prices-an-insightful-guide/"><u>Unveiling the Secrets Behind Temu’s Extremely Low Prices: An Insightful Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-cut-the-clutter-advanced-techniques-with-youtube-studio-editor/"><u>[New] 2024 Approved Cut the Clutter Advanced Techniques with YouTube Studio Editor</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-ultimate-smartphone-list-for-optimal-gear-vr-functionality-2-written-by-john-doe-mba-expert-in-strategic-business-planning-and-mar/"><u>[Updated] 2024 Approved The Ultimate Smartphone List for Optimal Gear VR Functionality (2 Written By John Doe, MBA | Expert in Strategic Business Planning and Marketing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-x50-gt-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor X50 GT Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-mastering-the-art-of-safelisting-emails-on-gmail/"><u>A Step-by-Step Guide: Mastering the Art of Safelisting Emails on Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-your-amazon-firestick-a-step-by-step-guide-using-mobile-hotspots/"><u>Connecting Your Amazon Firestick: A Step-by-Step Guide Using Mobile Hotspots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-bad-gateway-responses-effective-strategies-for-swift-recovery-and-maintenance/"><u>Demystifying Bad Gateway Responses: Effective Strategies for Swift Recovery & Maintenance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-basics-understanding-what-a-dac-is-and-its-importance-in-your-audio-setup/"><u>Exploring the Basics: Understanding What a DAC Is and Its Importance in Your Audio Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-device-not-existing-issues-on-pcs/"><u>How to Rectify Device Not Existing Issues on PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-xs-max-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone XS Max by restoring</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-xcover-7-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy XCover 7 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976655321-overuse-and-misuse-of-antibiotics-contribute-significantly-to-the-development-and-spread-of-resistant-strains/"><u>Overuse and Misuse of Antibiotics Contribute Significantly to the Development and Spread of Resistant Strains.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps-vr2-game-lineup-every-confirmed-title-to-date/"><u>PS VR2 Game Lineup: Every Confirmed Title to Date</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nokia-c12-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nokia C12 Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-communication-incorbing-google-duo-into-your-gmail-experience/"><u>Seamless Communication: Incorbing Google Duo Into Your Gmail Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-coredll-file-not-found-expert-troubleshooting-steps/"><u>Solving the 'core.dll' File Not Found: Expert Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/symbols-as-economic-prophets/"><u>Symbols as Economic Prophets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-electric-bike-technology-understanding-how-they-operate/"><u>Unveiling the Secrets of Electric Bike Technology: Understanding How They Operate</u></a></li>
 </ul></div>
 

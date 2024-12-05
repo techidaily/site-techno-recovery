@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Recording Calls with iOS & Understanding the Legality by Region"
-date: 2024-11-20T05:18:19.591Z
-updated: 2024-11-25T15:08:18.512Z
+date: 2024-12-04T03:35:15.537Z
+updated: 2024-12-04T16:13:14.878Z
 tags:
   - apple
 categories:
@@ -42,15 +42,7 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to send and receive iMessages on Windows
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
 
@@ -64,10 +56,6 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -75,7 +63,7 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -94,15 +82,15 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -138,6 +126,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -150,11 +142,19 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,22 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-hash-playbook-for-video-gamers-on-youtube/"><u>[Updated] In 2024, The Ultimate Hash Playbook for Video Gamers on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-voice-memos-inspectors-handbook/"><u>[Updated] In 2024, Voice Memos Inspector's Handbook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-dual-life-of-a-professional-youtuber-and-employee-for-2024/"><u>[Updated] The Dual Life of a Professional YouTuber & Employee for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-perfect-panning-crossfading-in-logic-pro-x/"><u>2024 Approved Perfect Panning Crossfading in Logic Pro X</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/asia-paves-the-way-for-a-16t-surge-in-cashless-transactions-insights-from-zdnet/"><u>Asia Paves the Way for a $1.6T Surge in Cashless Transactions - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expand-your-shopping-horizons-with-amazon-prime-rewards-a-step-by-step-guide-to-benefits-beyond-amazon/"><u>Expand Your Shopping Horizons with Amazon Prime Rewards – A Step-by-Step Guide to Benefits Beyond Amazon</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/expert-netflix-tips-maximizing-screenshots-with-your-mac/"><u>Expert Netflix Tips Maximizing Screenshots with Your Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-superior-face-masks-to-combat-covid-spread-insights-from-zdnet/"><u>Expert Picks for Superior Face Masks to Combat COVID Spread: Insights From ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-singapores-ambitions-in-international-digital-currency-ventures-insights-on-future-prospects/"><u>Exploring Singapore's Ambitions in International Digital Currency Ventures - Insights on Future Prospects</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/free-methods-of-creating-qr-codes-a-comprehensive-guide/"><u>Free Methods of Creating QR Codes: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-130-music-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia 130 Music Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-playlist-rearrangement-made-simple/"><u>In 2024, YouTube Playlist Rearrangement Made Simple</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/nook-glowlight-3-by-barnes-and-noble-ultimate-review-for-evening-readers/"><u>Nook GlowLight 3 by Barnes & Noble: Ultimate Review for Evening Readers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/setting-up-easy-digital-downloads-with-wordpress-a-comprehensive-guide/"><u>Setting Up Easy Digital Downloads with WordPress: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/some-happy-meal-enthusiasts-rejoice-mcdonalds-unveils-surprising-perk-insights-from-zdnet/"><u>Some Happy Meal Enthusiasts Rejoice: McDonald's Unveils Surprising Perk - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-12-unusual-october-cyber-monday-bizarre-gadget-discounts-you-cant-miss-checked-by-zdnet/"><u>Top 12 Unusual October Cyber Monday Bizarre Gadget Discounts You Can't Miss – Checked by ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-for-screencasting-games-on-the-playstation-frwnderz/"><u>Ultimate Tutorial for Screencasting Games on the PlayStation ˈfɔːrwʌndərz</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlock-video-communication-using-whatsapp-browser-on-your-notebook-pc-for-2024/"><u>[New] Unlock Video Communication Using WhatsApp Browser on Your Notebook PC for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhance-your-online-skills-a-guide-to-youtube-editing-via-sony-vegas/"><u>[Updated] 2024 Approved Enhance Your Online Skills A Guide to YouTube Editing via Sony Vegas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-professional-hdr-images-with-adobe-ps-for-2024/"><u>Achieving Professional HDR Images with Adobe PS for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/detailed-tips-for-fixing-the-d3dx941dll-missing-error-on-your-pc/"><u>Detailed Tips for Fixing the d3dx9_41.dll Missing Error on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosis-and-repair-tips-dealing-with-dysfunctional-apps-on-your-samsung-set-top-box/"><u>Diagnosis & Repair Tips: Dealing with Dysfunctional Apps on Your Samsung Set-Top Box</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898942370-dive-deeper-10-intriguing-facts-about-everyday-emojis-you-wont-believe/"><u>Dive Deeper: 10 Intriguing Facts About Everyday Emojis You Won't Believe</u></a></li>
+<li><a href="https://fox-links.techidaily.com/insights-on-engaging-top-tier-visual-storytellers/"><u>Insights on Engaging Top-Tier Visual Storytellers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/kindle-paperwhite-troubleshooting-setting-and-adjusting-the-device-clock-correctly/"><u>Kindle Paperwhite Troubleshooting: Setting and Adjusting the Device Clock Correctly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-ps4-video-recording-a-step-by-step-tutorial/"><u>Mastering the Art of PS4 Video Recording: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-voicemail-a-step-by-step-guide-to-sending-audio-notes-on-your-iphone/"><u>Mastering Voicemail: A Step-by-Step Guide to Sending Audio Notes on Your iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-selection-8-best-free-mobile-mp3-downloaders-for-2024/"><u>Prime Selection - 8 Best Free Mobile MP3 Downloaders for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-game-sound-resolving-no-audio-in-hearthstone-issues/"><u>Restore Your Game Sound: Resolving No Audio in Hearthstone Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/saving-the-day-for-your-drenched-igadget-a-comprehensive-fix-guide/"><u>Saving the Day for Your Drenched iGadget: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-tackle-missing-device-driver-issue-on-windows-startup/"><u>Steps to Tackle Missing Device Driver Issue on Windows Startup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-the-elusive-nspr4dll-file-not-found-mishap/"><u>The Ultimate Fix for the Elusive nspr4.dll File Not Found Mishap</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/zooming-in-on-sound-excellence-techniques-for-top-tier-quality-for-2024/"><u>Zooming In on Sound Excellence Techniques for Top-Tier Quality for 2024</u></a></li>
 </ul></div>
 

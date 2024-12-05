@@ -1,7 +1,7 @@
 ---
 title: Exploring Apple's Subtle Yet Powerful AI Innovations Headlining This Year's WWDC
-date: 2024-11-24T07:13:36.339Z
-updated: 2024-11-25T04:44:04.491Z
+date: 2024-12-02T03:17:07.837Z
+updated: 2024-12-04T19:25:55.622Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,24 +126,24 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-ultimate-guide-how-to-make-money-from-instagram/"><u>[New] 2024 Approved Ultimate Guide How to Make Money From Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-demystifying-youtubes-keyword-power-play/"><u>[New] In 2024, Demystifying YouTube's Keyword Power Play</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-get-hooked-our-curated-12-best-pc-clicker-titles/"><u>[Updated] 2024 Approved Get Hooked Our Curated 12 Best PC Clicker Titles</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-with-precision-to-uncover-ideal-discord-spaces/"><u>[Updated] 2024 Approved Navigating with Precision to Uncover Ideal Discord Spaces</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-ensure-no-loss-of-frames-during-recording-for-2024/"><u>[Updated] How To Ensure No Loss of Frames During Recording for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-tips-for-sims-game-capture-for-2024/"><u>[Updated] Professional Tips for Sims Game Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fb-hd-streaming-made-simple-instructions/"><u>2024 Approved FB HD Streaming Made Simple Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/banking-tech-leader-urges-more-innovation-in-ai-reject-complacency-for-daring-intellects-over-easy-prompt-creators/"><u>Banking Tech Leader Urges More Innovation in AI: Reject Complacency for Daring Intellects Over Easy-Prompt Creators</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-oratory-expertise-15-key-techniques-featured-by-zdnet/"><u>Boost Your Oratory Expertise: 15 Key Techniques Featured by ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-tips-for-effortless-access-to-youtube-comments/"><u>Expert Tips for Effortless Access to YouTube Comments</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a24-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A24 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-enhancing-logic-pro-x-8-top-ranked-free-and-premium-plugins/"><u>In 2024, The Ultimate Guide to Enhancing Logic Pro X - 8 Top-Ranked Free & Premium Plugins</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-early-career-overwhelm-tips-to-dodge-burnout-for-recent-university-alumni-advice-from-zdnet/"><u>Navigating Early Career Overwhelm: Tips to Dodge Burnout for Recent University Alumni - Advice From ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-tech-careers-discovering-5-key-non-technical-skills-highlighted-by-zdnet/"><u>Navigating Tech Careers: Discovering 5 Key Non-Technical Skills Highlighted by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/perfecting-the-final-pitch-effective-strategies-to-answer-any-questions-in-an-interview-setting-career-advice-by-zdnet/"><u>Perfecting the Final Pitch: Effective Strategies to Answer 'Any Questions?' In an Interview Setting | Career Advice by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revamp-your-profession-top-5-strategies-for-a-significant-career-advancement-zdnet/"><u>Revamp Your Profession: Top 5 Strategies for a Significant Career Advancement | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/specialized-cloud-experts-earn-more-yet-generalist-it-pros-remain-relevant/"><u>Specialized Cloud Experts Earn More - Yet Generalist IT Pros Remain Relevant</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-steps-to-achieving-success-in-the-data-industry-insights-from-zdnet/"><u>Top 5 Essential Steps to Achieving Success in the Data Industry: Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-chief-ai-officers-duties-path-to-securing-this-essential-tech-leadership-role-zdnet-insights/"><u>Understanding the Chief AI Officer's Duties - Path to Securing This Essential Tech Leadership Role | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>[New] Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-samples-the-finest-free-after-effects-templates/"><u>[Updated] 2024 Approved Essential Samples The Finest Free After Effects Templates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-set-up-an-impromptu-zoom-meeting-with-your-android-smartphone/"><u>[Updated] How to Set Up an Impromptu Zoom Meeting with Your Android Smartphone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-essence-of-vimeo-user-friendly-video-service/"><u>[Updated] The Essence of Vimeo User-Friendly Video Service</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-skys-dynamic-range-wonders-top-10-sites-guide/"><u>2024 Approved Sky's Dynamic Range Wonders - Top 10 Sites Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-time-historic-drop-meta-reduces-meta-quest-2-costs-again-latest-update-reviewed-by-zdnet/"><u>All-Time Historic Drop: Meta Reduces Meta Quest 2 Costs Again; Latest Update Reviewed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beating-apple-vision-pro-limitations-with-budget-friendly-xr-glasses-explore-the-zdnet-review/"><u>Beating Apple Vision Pro Limitations with Budget-Friendly XR Glasses | Explore the ZDNET Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-matterport-axis-analysis-insights-from-zdnet/"><u>Comprehensive Matterport Axis Analysis - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-converter-convert-wmampe-files-with-ease-using-movavi/"><u>Free Online Converter: Convert WMA/MPE Files with Ease Using Movavi</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-the-heart-a-beginners-guide-to-making-a-valentines-day-video-for-your-loved-one-for-2024/"><u>From the Heart A Beginners Guide to Making a Valentines Day Video for Your Loved One for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1154433-9781577313502-handbook-for-the-spirit/"><u>Handbook for the Spirit | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immersive-tv-show-adventures-with-apple-vision-pro-bring-joy-bizarre-moments-and-exhaustion-an-in-depth-review-by-techexpertcom/"><u>Immersive TV Show Adventures with Apple Vision Pro Bring Joy, Bizarre Moments & Exhaustion - An In-Depth Review by TechExpert.com</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-digital-twin-integration-identifying-and-conquering-key-business-barriers-with-strategic-solutions-expert-advice-from-zdnet/"><u>Mastering Digital Twin Integration: Identifying and Conquering Key Business Barriers with Strategic Solutions | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-text-editing-on-apple-vision-pro-tips-for-effortless-select-copy-and-paste-with-hand-movements-zdnet-insights/"><u>Navigating Text Editing on Apple Vision Pro: Tips for Effortless Select, Copy, and Paste with Hand Movements | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snag-your-meta-quest-2-for-a-steal-at-200-during-the-2023-festive-season-zdnets-expert-picks/"><u>Snag Your Meta Quest 2 for a Steal at $200 During the 2023 Festive Season | ZDNET's Expert Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-truth-about-apple-vision-pro-revealed-stunning-features-vs-critical-flaws-and-improvements-needed-zdnet-insight/"><u>The Truth About Apple Vision Pro Revealed: Stunning Features Vs. Critical Flaws and Improvements Needed | ZDNET Insight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-vr-experience-the-revolutionary-50-meta-quest-3-lens-clip-for-eyeglass-wearers-insights-from-zdnet/"><u>Transform Your VR Experience: The Revolutionary $50 Meta Quest 3 Lens Clip for Eyeglass Wearers - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-finding-and-downloading-the-correct-hp-networking-drivers-for-your-windows-operating-system-windows-1178/"><u>Ultimate Guide: Finding and Downloading the Correct HP Networking Drivers for Your Windows Operating System (Windows 11/7/8)</u></a></li>
 </ul></div>
 

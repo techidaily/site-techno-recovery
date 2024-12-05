@@ -1,7 +1,7 @@
 ---
 title: "Inside Apple's Top-Secret Project: An OS Designed Specifically for Fortifying Its AI Driven Data Centers"
-date: 2024-11-24T13:49:40.672Z
-updated: 2024-11-25T13:34:10.809Z
+date: 2024-11-30T21:27:19.618Z
+updated: 2024-12-05T07:52:37.456Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## What Apple Intelligence will bring to the company's operating system platforms
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## What Apple Intelligence will bring to the company's operating system platforms
 
 ### AI on the device and in the cloud
 
@@ -79,7 +79,7 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -97,7 +97,7 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
@@ -109,7 +109,7 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The developer story
@@ -137,7 +137,7 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -180,18 +180,17 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-youtubes-latest-revenue-guidelines/"><u>[Updated] 2024 Approved Exploring YouTube's Latest Revenue Guidelines</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-travel-companion-how-this-budget-friendly-generator-transformed-my-road-trips-insights-from-zdnet/"><u>Affordable Travel Companion: How This Budget-Friendly Generator Transformed My Road Trips - Insights From ZDNET</u></a></li>
-<li><a href="https://win-dash.techidaily.com/canon-mp280-driver-download-for-windows-1187/"><u>Canon MP280 Driver Download for Windows 11/8/7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/embark-on-a-metaverse-adventure-with-these-top-8-helmets-and-headsets/"><u>Embark on a Metaverse Adventure with These Top 8 Helmets & Headsets</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-to-overcome-guilty-gear-strike-eternal-crashing-problems-on-your-laptop/"><u>Expert Advice to Overcome Guilty Gear Strike Eternal Crashing Problems on Your Laptop</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/kein-qualitatsverlust-wie-du-mp4-filme-drehen-kannst-schlusselworter-fur-eine-drehung-von-90-180-oder-270-grad/"><u>Kein Qualitätsverlust: Wie Du MP4-Filme Drehen Kannst - Schlüsselwörter Für Eine Drehung Von 90, 180 Oder 270 Grad</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/reviving-classics-the-art-of-enhancing-your-vhs-tapes-clarity-and-quality/"><u>Reviving Classics: The Art of Enhancing Your VHS Tapes' Clarity and Quality</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-hp-display-dimming-troubles/"><u>Solving HP Display Dimming Troubles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-ideal-electric-leaf-blower-for-your-yard-ranked-best-of-2022-hometechpros/"><u>Ultimate Guide to Choosing the Ideal Electric Leaf Blower for Your Yard, Ranked Best of 2022 - HomeTechPros</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-magic-6s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor Magic 6s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-full-spectrum-insight-into-nero-audiowaveeditor/"><u>Updated In 2024, Full Spectrum Insight Into Nero AudioWaveEditor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ursa-major/"><u>Ursa Major</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-showcases-affordable-smart-charging-with-enhanced-features-from-emporia-energys-new-ev-charger-range-zdnet/"><u>ZDnet Showcases Affordable Smart Charging with Enhanced Features From Emporia Energy's New EV Charger Range | ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-image-techniques-for-engaging-views/"><u>[New] YouTube Image Techniques for Engaging Views</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-video-grabber-win-mac-and-mobile/"><u>[Updated] FB Video Grabber - Win, Mac & Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-google-meet-broadcast-simplified-youtube-steps/"><u>[Updated] In 2024, Google Meet Broadcast Simplified YouTube Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-playbook-for-youtube-growth-and-recognition/"><u>[Updated] The Ultimate Playbook for YouTube Growth and Recognition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-location-accuracy-learn-how-to-activate-and-use-live-view-on-google-maps/"><u>Boost Your Location Accuracy: Learn How to Activate and Use Live View on Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/common-fixes-for-a-samsung-soundbar-that-wont-turn-on-or-work-properly/"><u>Common Fixes for a Samsung Soundbar That Won't Turn On or Work Properly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-best-price-for-apples-airtag-bundle-24-discounted-at-walmart-during-labor-day-insights/"><u>Experience the Best Price for Apple's AirTag Bundle – $24 Discounted at Walmart During Labor Day | Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-1er-free-video-services-as-alternatives-to-netflix/"><u>Explore These 1Er Free Video Services As Alternatives to Netflix</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-much-wealth-can-you-generate-on-youtube-using-cpm-for-2024/"><u>How Much Wealth Can You Generate on YouTube Using CPM for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-drawing-lines-in-microsoft-word/"><u>Step-by-Step Guide: Drawing Lines in Microsoft Word</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-resolving-power-issues-with-your-roku-television/"><u>Troubleshooting Tips: Resolving Power Issues with Your Roku Television</u></a></li>
+<li><a href="https://win-dash.techidaily.com/universal-sm-bus-controller-drivers-available-installation-files-for-windows-111087-download-now/"><u>Universal SM Bus Controller Drivers Available – Installation Files for Windows 11/10/8/7 Download Now!</u></a></li>
 </ul></div>
 

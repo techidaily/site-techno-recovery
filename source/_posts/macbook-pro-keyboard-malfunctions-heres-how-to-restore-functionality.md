@@ -1,7 +1,7 @@
 ---
 title: MacBook Pro Keyboard Malfunctions? Here's How to Restore Functionality
-date: 2024-09-09T09:13:53.422Z
-updated: 2024-09-10T09:13:53.422Z
+date: 2024-12-04T05:57:08.888Z
+updated: 2024-12-05T08:05:16.792Z
 categories:
   - BestProducts
 description: This Article Describes MacBook Pro Keyboard Malfunctions? Here's How to Restore Functionality
@@ -9,23 +9,15 @@ excerpt: This Article Describes MacBook Pro Keyboard Malfunctions? Here's How to
 thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbookkeyboarddoesntwork-bce5ae119176465f8a1353121aa8ffa9.JPG
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keyboard Malfunctions? Here's How to Get It Back in Working Order
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9 Ways to Fix the Problem
 
  A number of issues could be causing the keyboard to stop typing. Here are some solutions we've seen work:  
@@ -51,11 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -70,17 +60,9 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bryan Natanael / Unsplash
 
  FAQ
@@ -110,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +99,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-bringing-text-to-life-a-guide-to-dynamic-animation-methods/"><u>[New] 2024 Approved Bringing Text to Life A Guide to Dynamic Animation Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-vs-video-edition-is-gopro-writes-better-stories-than-cube/"><u>[Updated] In 2024, Vs. Video Edition Is GoPro' Writes Better Stories Than Cube?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-windows-11-a-deep-dive-into-zoom-usage/"><u>[Updated] Navigating Windows 11 A Deep Dive Into Zoom Usage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-rumored-domestic-companion-robot-projected-pricing-expected-launch-date-and-specs-what-we-know-so-far/"><u>Apple's Rumored Domestic Companion Robot: Projected Pricing, Expected Launch Date & Specs – What We Know So Far</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-macpc-screenshot-toolkit-for-desktops-for-2024/"><u>Best MacPC Screenshot Toolkit for Desktops for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-creativity-filmoras-favorite-features-explored/"><u>Cutting Edge Creativity Filmora's Favorite Features Explored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discounted-deal-get-a-50-refund-with-alienwares-elite-wireless-gaming-board/"><u>Discounted Deal: Get a $50 Refund with Alienware's Elite Wireless Gaming Board</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-ultra-thin-tech-can-008-inches-redefine-sleekness-with-apples-newest-ipad-design/"><u>Exploring Ultra-Thin Tech: Can 0.08 Inches Redefine Sleekness with Apple's Newest iPad Design?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-watch-the-james-bond-movies-in-order/"><u>How to Watch the James Bond Movies in Order</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-c300-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia C300 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-apples-top-secret-project-an-os-designed-specifically-for-fortifying-its-ai-driven-data-centers/"><u>Inside Apple's Top-Secret Project: An OS Designed Specifically for Fortifying Its AI Driven Data Centers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-1751-security-patch-effectively-eliminates-persistent-old-photo-glitch-says-zdnet/"><u>IOS 17.5.1 Security Patch Effectively Eliminates Persistent Old-Photo Glitch, Says ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-17-window-based-software-solutions-for-high-quality-stichotype-pano-images-by-movavi/"><u>The Best 17 Window-Based Software Solutions for High-Quality Stichotype Pano Images by Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-atandt-mobile-plans-and-promotions-for-may-2024-exclusive-offers/"><u>Top AT&T Mobile Plans & Promotions for May 2024 - Exclusive Offers</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-rectifying-the-cannot-start-application-error-0xc000003e/"><u>Understanding and Rectifying the Cannot Start Application Error 0XC000003E</u></a></li>
+</ul></div>
 

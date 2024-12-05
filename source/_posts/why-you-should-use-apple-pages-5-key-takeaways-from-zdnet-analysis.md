@@ -1,7 +1,7 @@
 ---
 title: "Why You Should Use Apple Pages: 5 Key Takeaways From ZDNet Analysis"
-date: 2024-11-23T16:13:52.465Z
-updated: 2024-11-24T17:48:47.121Z
+date: 2024-12-04T06:56:59.023Z
+updated: 2024-12-05T04:09:01.534Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comments and track changes best the competition
@@ -53,7 +53,7 @@ However, when the editor sent me the first round of edits for the first manuscri
 I was on a deadline and knew I had to try something else. So, I opened the file in Apple Pages and everything worked as expected. What really surprised me was the quality of track changes and comments in Apple Pages. Not only are changes and comments well laid out and easy to manage, but it's also easy to hide or show the comments sidebar and deal with changes. No other word processor that I've used can match how seamlessly Apple Pages handles comments and track changes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The sharing system simplifies collaboration
@@ -67,7 +67,7 @@ All I have to do is share a document to iCloud, set it to collaborate, set the s
 If you've used the sharing feature in previous iterations, it's worth noting that Apple has changed and simplified the process. You also will need to make sure that Pages is enabled for iCloud sharing in the System Settings app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Large template library
@@ -79,7 +79,7 @@ If you're someone who makes use of templates, Apple Pages has a great library. A
 The nice thing about the templates is they include basic covers and boilerplate text, such as for the title page, legal information, dedication, and chapters, which makes it easy to write your first novel without the added stress of formatting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Inclusive export
@@ -89,7 +89,7 @@ Apple Pages makes it possible to export your text to numerous formats. By defaul
 One thing I can say is that, when exporting to a Word format, I've never had a complaint from an editor about formatting in a document, which speaks highly to Apple Pages' transferability.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's hardware doesn't hurt
@@ -130,17 +130,20 @@ And there you have it, my friends: five reasons why Apple Pages is a must-have f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-ice-cream-viewer-tech-overview/"><u>[New] 2024 Approved Ultimate Ice Cream Viewer Tech Overview</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-gecata-analyzer-report/"><u>[Updated] In 2024, Ultimate GECATA Analyzer Report</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/10-popular-cartoon-characters-that-should-top-your-list-for-2024/"><u>10 Popular Cartoon Characters That Should Top Your List for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-filmmaking-foundations-understanding-screenplays/"><u>2024 Approved Filmmaking Foundations Understanding Screenplays</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-revamps-rating-visuals-causing-confusion-among-shoppers-analysis-by-zdnet/"><u>Amazon Revamps Rating Visuals, Causing Confusion Among Shoppers | Analysis by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/balancing-act-amazons-growth-and-layoffs-of-10000-positions-explored-zdnet-analysis/"><u>Balancing Act: Amazon's Growth and Layoffs of 10,000 Positions Explored | ZDNet Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/evaluating-the-authenticity-of-temu-comprehensive-guide-and-pre-purchase-insights/"><u>Evaluating the Authenticity of Temu - Comprehensive Guide & Pre-Purchase Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-video-player-for-high-quality-avi-on-devices-for-2024/"><u>Exclusive Video Player for High-Quality AVI on Devices for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expanding-beyond-amazon-use-your-prime-membership-benefits-on-other-online-stores-today/"><u>Expanding Beyond Amazon? Use Your Prime Membership Benefits on Other Online Stores Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-unfilled-niche-markets-leveraging-ai-model-building-for-new-competitors/"><u>Exploring Unfilled Niche Markets: Leveraging AI Model Building for New Competitors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/phasmophobia-stability-improvements-and-crash-fixes-whats-new-in-the-2024-update/"><u>Phasmophobia Stability Improvements & Crash Fixes: What's New in the 2024 Update?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-essential-guide-to-understanding-and-using-instagrams-music-features-for-2024/"><u>The Essential Guide to Understanding and Using Instagram's Music Features for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-dslrmirrorless-guide-top-ten-gimbal-choices/"><u>[Updated] DSLR/Mirrorless Guide Top Ten Gimbal Choices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>[Updated] In 2024, Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-elite-selection-of-image-based-voicemail-applications/"><u>2024'S Elite Selection of Image-Based Voicemail Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-the-web-freely-top-methods-beyond-traditional-phone-lines/"><u>Accessing the Web Freely: Top Methods Beyond Traditional Phone Lines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-repairing-halinitializationfailed-stop-error-0x00000a005c/"><u>Expert Advice on Repairing HAL_INITIALIZATION_FAILED STOP Error 0X00000^A005C</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-unlike-all-songs-on-spotify/"><u>How to Unlike All Songs on Spotify</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-realme-12-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Realme 12 Pro 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>In 2024, Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-upcoming-google-event-expectations-vs-surprises/"><u>Inside Look at Upcoming Google Event – Expectations Vs. Surprises</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimizing-audio-input-the-ultimate-guide-to-meta-quests-built-in-microphone/"><u>Optimizing Audio Input: The Ultimate Guide to Meta Quest's Built-In Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-setting-synchronization-on-geforce-software/"><u>Overcoming Challenges with Setting Synchronization on GeForce Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/pro-level-perfection-iphone-xs-photographic-breakthroughs-for-2024/"><u>Pro-Level Perfection IPhone X's Photographic Breakthroughs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-creating-your-new-x-social-media-profile/"><u>Step-by-Step Guide: Creating Your New X Social Media Profile</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-2evolution-behind-the-creative-sound-blaster-zxr-expert-insight-on-the-2013-audio-powerhouse/"><u>The 2Evolution Behind the Creative Sound Blaster ZxR - Expert Insight on the 2013 Audio Powerhouse</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 11F 5G | Dr.fone</u></a></li>
 </ul></div>
 

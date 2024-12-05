@@ -1,7 +1,7 @@
 ---
 title: "IPhone 15 Evaluation: Convincing Pros and Enthusiasts Alike - The Ultimate Tech Guide"
-date: 2024-11-22T09:00:37.686Z
-updated: 2024-11-25T04:19:16.411Z
+date: 2024-12-03T08:11:37.083Z
+updated: 2024-12-04T19:18:58.563Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -48,6 +48,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -64,10 +68,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
@@ -75,7 +75,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -133,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -167,7 +167,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -204,18 +204,16 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-for-text-superimposition-on-video-using-windows-photos/"><u>[New] Step-by-Step Guide for Text Superimposition on Video Using Windows Photos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-voice-logging-devices-scrutiny/"><u>[Updated] 2024 Approved Voice Logging Devices Scrutiny</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-top-rated-tech-gadgets-and-software-2023-exclusive-picks-by-zdnet-reviews/"><u>1. Top-Rated Tech Gadgets & Software 2023: Exclusive Picks by ZDNet Reviews</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-videos-impact-with-customizable-youtube-thumbnails-for-2024/"><u>Elevate Your Video's Impact with Customizable YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-video-in-canva/"><u>In 2024, How to Loop Video in Canva</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-18-update-revolutionizes-smart-home-control-a-game-changer-revealed-by-zdnet/"><u>IOS 18 Update Revolutionizes Smart Home Control - A Game Changer Revealed by ZDNet</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/resolve-your-iphones-invisibility-issue-on-windows-pc-a-guide-with-6-effective-solutions/"><u>Resolve Your iPhone's Invisibility Issue on Windows PC: A Guide with 6 Effective Solutions</u></a></li>
-<li><a href="https://win-best.techidaily.com/schritt-fur-schritt-anleitung-zur-wiederherstellung-eines-verlorenen-iphone-backups-von-einem-anderen-speichergerat/"><u>Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Eines Verlorenen iPhone-Backups Von Einem Anderen Speichergerät</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-gadget-reviews-and-advice/"><u>Tom's Tech Insights: In-Depth Gadget Reviews & Advice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-how-to-organize-an-unforgettable-labor-day-celebration-tips-and-tricks-from-zdnet/"><u>Ultimate Guide: How to Organize an Unforgettable Labor Day Celebration - Tips & Tricks From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unmatched-audio-experience-discovered-beyond-bose-and-polk-top-speaker-find-revealed-by-zdnet/"><u>Unmatched Audio Experience Discovered Beyond Bose & Polk – Top Speaker Find Revealed by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unmatched-audio-experience-non-sony-non-jbl-brand-outshines-giants-discover-at-zdnet/"><u>Unmatched Audio Experience: Non-Sony, Non-JBL Brand Outshines Giants - Discover at ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-premier-pc-sound-systems-of-2024-a-comparison-including-logitech-and-audioengine-models-gizmodo/"><u>Unveiling the Premier PC Sound Systems of 2024: A Comparison Including Logitech and Audioengine Models | Gizmodo</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-guide-to-youtube-video-resolutions-and-aspects-for-2024/"><u>[New] Essential Guide to YouTube Video Resolutions & Aspects for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fast-tracking-social-scanning-mastering-fb-profiles/"><u>[New] In 2024, Fast-Tracking Social Scanning Mastering FB Profiles</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-integrating-whatsapp-into-your-twitter-video-sharing-routine/"><u>[New] Integrating WhatsApp Into Your Twitter Video Sharing Routine</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/convert-avi-videos-to-wav-format-quickly-and-for-free-a-comprehensive-guide/"><u>Convert AVI Videos to WAV Format Quickly & for Free: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficient-guide-installing-new-epson-printer-drivers-in-windows-11-environment/"><u>Efficient Guide: Installing New Epson Printer Drivers in Windows 11 Environment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-choice-in-seed-shipping-find-the-best-solutions-on-zdnet/"><u>Expert Choice in Seed Shipping: Find the Best Solutions on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-the-ultimate-zero-turn-ride-on-mowers-of-2024-zdnet/"><u>Expert Picks for the Ultimate Zero-Turn Ride-On Mowers of 2024 | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-review-of-the-leading-global-seed-distribution-companies/"><u>Expert Review of the Leading Global Seed Distribution Companies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-xcover-7-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/futureproof-your-adventures-with-the-ultimate-portable-solar-panels-for-2n3-expert-picks-from-zdnet/"><u>Futureproof Your Adventures with the Ultimate Portable Solar Panels for 2N3 - Expert Picks From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gift-the-future-a-guide-to-donating-carbon-offsets-this-festive-season-insights-from-zdnet/"><u>Gift the Future: A Guide to Donating Carbon Offsets This Festive Season - Insights From ZDNet</u></a></li>
 </ul></div>
 

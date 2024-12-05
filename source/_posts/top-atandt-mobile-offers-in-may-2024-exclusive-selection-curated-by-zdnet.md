@@ -1,7 +1,7 @@
 ---
 title: "Top AT&T Mobile Offers in May 2024: Exclusive Selection Curated by ZDNet"
-date: 2024-11-18T03:17:09.259Z
-updated: 2024-11-25T11:29:44.927Z
+date: 2024-12-04T02:45:12.456Z
+updated: 2024-12-04T23:53:51.346Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ Below, you'll find the best iPhone deals currently available through US carriers
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best iPhone deals
 
@@ -103,7 +99,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [View now at T-Mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Fwww.t-mobile.com%2Fcell-phone%2Fapple-iphone-14) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Apple iPhone deals
@@ -134,6 +130,10 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 
 [Refurbished iPhones at Apple (save $100+) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Frefurbished%2Fiphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPhone accessory deals
 
 [Apple iPhone 15 Pro Max silicone case with MagSafe deal for $44 (save $5) $44 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-Silicone-Case-MagSafe%2Fdp%2FB0CHX149WM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C46aa6ff3-3bf2-47a4-8563-49ed820153e9%7Cdtp&dtb=1)
@@ -148,10 +148,6 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these iPhone deals?
 
 While researching the best Apple iPhone deals, we scoured the web and checked out major US retailers and telecoms' promotional prices, including Verizon, AT&T, and T-Mobile. 
@@ -165,7 +161,7 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock, unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone?
@@ -173,7 +169,7 @@ Factors influencing our recommendations include:
 The best iPhone currently on the market is the iPhone 15 Pro Max. The 6.7-inch model is the largest of the iPhone 15 line and comes stacked with Apple's latest features, such as a strong, lightweight titanium design, Dynamic Island, an A17 Pro chip, and a 48MP Main camera that shoots detailed imagery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will the iPhone 16 come out?
@@ -181,6 +177,10 @@ The best iPhone currently on the market is the iPhone 15 Pro Max. The 6.7-inch m
 While it's too early for us to know any definitive details, Apple typically refreshes its smartphone lineup once a year. 
 
 However, if the iPad and iPhone maker follows its usual schedule, considering the iPhone 15 was launched in September 2023, we can expect an iPhone 16 to appear around September 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best tech deals in 2024?
 
@@ -238,14 +238,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-masterclass-in-live-streaming-integrating-dslr-into-your-digital-space-for-2024/"><u>[New] Masterclass in Live Streaming Integrating DSLR Into Your Digital Space for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-climb-the-popularity-ladder-essential-youtube-seo-practices-uncovered-for-2024/"><u>[Updated] Climb the Popularity Ladder Essential YouTube SEO Practices Uncovered for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/analyzing-t-series-youtube-financial-gains-for-2024/"><u>Analyzing T-Series Youtube Financial Gains for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-ideal-list-manager-microsoft-to-do-or-google-tasks-a-comprehensive-review-by-zdnet/"><u>Choosing the Ideal List Manager: Microsoft To Do or Google Tasks? A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chrome-introduces-exclusive-os-administrator-certification-program-zdnet/"><u>Chrome Introduces Exclusive OS Administrator Certification Program - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebots-innovative-solutions-for-effective-website-tracking-and-analytics/"><u>Cookiebot's Innovative Solutions for Effective Website Tracking and Analytics</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-analysis-t-mobile-revvl-6-pro-unveiled-a-powerhouse-for-just-220-zdnet-insights/"><u>Expert Analysis: T-Mobile REVVL 6 Pro Unveiled - A Powerhouse for Just $220 | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-google-docs-version-control-a-step-by-step-guide-zdnet/"><u>Mastering Google Docs Version Control: A Step-by-Step Guide [ZDNet]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-big-with-these-3-superior-under-1k-laptop-bargains-at-costco-amazon-and-dell-during-cyber-monday-2022-zdnet/"><u>Save Big with These 3 Superior Under $1K Laptop Bargains at Costco, Amazon & Dell During Cyber Monday 2022 - ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-effortless-and-secure-transferring-of-huge-files-iphone-to-macos/"><u>[New] 2024 Approved Effortless & Secure Transferring of Huge Files IPhone to macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-archive-in-minutes-with-these-tools/"><u>[New] Instagram Archive in Minutes with These Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-tonal-trails-the-journey-of-audio-blending/"><u>[Updated] 2024 Approved Tonal Trails The Journey of Audio Blending</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpod-not-charging-9-effective-strategies-you-need-to-try-now/"><u>AirPod Not Charging? 9 Effective Strategies You Need To Try Now!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/creating-emotional-depth-scriptwriting-tips-for-2024/"><u>Creating Emotional Depth Scriptwriting Tips for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722863403254-get-ready-for-android-16-insiders-guide-to-pricing-availability-and-features-free-trial/"><u>Get Ready for Android 16: Insider's Guide to Pricing, Availability & Features - Free Trial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-p40plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel P40+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-the-power-of-cookiebot-for-targeted-user-interactions-and-growth/"><u>Harnessing the Power of Cookiebot for Targeted User Interactions and Growth</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oneplus-open-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to OnePlus Open Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-powerpoint-updates-a-comprehensive-tutorial/"><u>Mastering PowerPoint Updates: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/order-of-the-how-to-train-your-dragon-films-a-comprehensive-guide/"><u>Order of the How to Train Your Dragon Films - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snap-into-action-on-pc-how-to-navigate-snapchat-without-a-phone/"><u>Snap Into Action on PC: How to Navigate Snapchat Without a Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fix-a-non-operational-optical-disk-reader/"><u>Step-by-Step Guide to Fix a Non-Operational Optical Disk Reader</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-free-computer-aided-design-cad-tools-you-cant-miss/"><u>Top 4 Free Computer-Aided Design (CAD) Tools You Can't Miss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-no-display-issues-in-booted-computers/"><u>Troubleshooting Steps: Resolving No Display Issues in Booted Computers</u></a></li>
 </ul></div>
 

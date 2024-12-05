@@ -1,7 +1,7 @@
 ---
 title: Discover the Best Apps for Optimizing Your Daily Commute!
-date: 2024-09-09T16:33:22.291Z
-updated: 2024-09-15T16:16:56.572Z
+date: 2024-11-29T23:43:55.976Z
+updated: 2024-12-05T02:03:01.653Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Best Apps for Optimizing Your Daily Commute!
@@ -25,6 +25,10 @@ thumbnail: https://www.lifewire.com/thmb/8ziNxh6ZtHYFGqfVckeCRJ0pJCU=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -36,6 +40,10 @@ thumbnail: https://www.lifewire.com/thmb/8ziNxh6ZtHYFGqfVckeCRJ0pJCU=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -44,10 +52,7 @@ thumbnail: https://www.lifewire.com/thmb/8ziNxh6ZtHYFGqfVckeCRJ0pJCU=/400x300/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
@@ -75,13 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/8ziNxh6ZtHYFGqfVckeCRJ0pJCU=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -92,6 +90,10 @@ thumbnail: https://www.lifewire.com/thmb/8ziNxh6ZtHYFGqfVckeCRJ0pJCU=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -101,19 +103,6 @@ thumbnail: https://www.lifewire.com/thmb/8ziNxh6ZtHYFGqfVckeCRJ0pJCU=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -134,6 +123,10 @@ thumbnail: https://www.lifewire.com/thmb/8ziNxh6ZtHYFGqfVckeCRJ0pJCU=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -162,5 +155,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-eyes-in-the-sky-full-review-of-djis-phantom-4-pro/"><u>[New] 2024 Approved Eyes in the Sky Full Review of DJI's Phantom 4 Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/unny-faces-crafting-7-cheeky-youtube-comedy-videos-for-2024/"><u>[New] Funny Faces Crafting 7 Cheeky YouTube Comedy Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-deciphering-numbers-an-introduction-to-facebook-insight/"><u>[New] In 2024, Deciphering Numbers An Introduction to Facebook Insight</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-low-cost-leverage-to-youtube-lore-sponsorship-hacks-for-small-spheres/"><u>[New] Low-Cost Leverage to YouTube Lore Sponsorship Hacks for Small Spheres</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-craft-the-ultimate-guide-to-mac-oss-top-tier-document-creation-app/"><u>Mastering Craft: The Ultimate Guide to Mac OS's Top-Tier Document Creation App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/maximize-space-with-iphone-images-scaling-for-2024/"><u>Maximize Space with iPhone Images Scaling for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-successful-screen-reflection-with-lg-televisions/"><u>Step-by-Step Instructions for Successful Screen Reflection with LG Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-enthusiasts-guide-unveiling-potential-pricing-and-specifications-of-the-rumored-new-tesla-phone/"><u>Tech Enthusiasts' Guide: Unveiling Potential Pricing & Specifications of the Rumored New Tesla Phone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-entrepreneurs-lifeline-critical-items-every-startup-needs-right-now/"><u>The Entrepreneur's Lifeline Critical Items Every Startup Needs Right Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-tips-overcoming-the-ios-17-update-installation-hurdle-for-iphone-and-ipad-users/"><u>Troubleshooting Tips: Overcoming the iOS 17 Update Installation Hurdle for iPhone and iPad Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-budget-friendly-side-apple-slashes-prices-of-m2-macbook-air-to-a-sizzling-low-of-799-surpassing-expected-early-prime-day-discounts-digital-inn138/"><u>Unveiling the Budget-Friendly Side: Apple Slashes Prices of M2 MacBook Air to a Sizzling Low of $799, Surpassing Expected Early Prime Day Discounts | Digital Innovation Hub</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-ipads-set-for-a-mid-year-debut-latest-forecasts-predict-marchapril-launches-gadget-analysis-hub/"><u>Upcoming iPads Set for a Mid-Year Debut? Latest Forecasts Predict March/April Launches | Gadget Analysis Hub</u></a></li>
+</ul></div>
 

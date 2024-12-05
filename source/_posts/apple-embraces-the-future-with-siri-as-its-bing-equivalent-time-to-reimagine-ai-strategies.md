@@ -1,7 +1,7 @@
 ---
 title: Apple Embraces the Future with Siri as Its Bing-Equivalent | Time to Reimagine AI Strategies
-date: 2024-11-24T07:47:03.772Z
-updated: 2024-11-25T00:23:49.309Z
+date: 2024-11-29T16:16:32.963Z
+updated: 2024-12-05T00:16:56.537Z
 tags:
   - apple
 categories:
@@ -27,6 +27,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay online and in stores
 
@@ -62,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -70,10 +78,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -81,10 +85,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -100,10 +100,6 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -116,16 +112,12 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is NFC?
 
@@ -140,6 +132,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,20 +197,17 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-unlock-your-devices-full-potential-with-io-screener/"><u>[New] Unlock Your Device's Full Potential with IO Screener</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvd-mp4-h264hevc/"><u>简单顺利地将 DVD 数据转换为 MP4 H.2^64/HEVC格式及错误修复技巧</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/aligning-the-future-alibabas-strategic-move-to-divide-and-conquer-cloud-unit-spinoff-and-dual-company-ipos/"><u>Aligning the Future: Alibaba's Strategic Move to Divide and Conquer - Cloud Unit Spinoff & Dual Company IPOs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-you-trust-temus-single-layer-of-protection-a-deep-dive-into-the-risks-for-online-consumers/"><u>Can You Trust Temu's Single Layer of Protection: A Deep Dive Into the Risks for Online Consumers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-tech-analysis-the-best-screen-recorder-roundup/"><u>Cutting Edge Tech Analysis The Best Screen Recorder Roundup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-october-prime-time-smartphone-bargains-our-top-picks-for-tech-savvy-shoppers-curated-by-zdnet/"><u>Discover the Ultimate October Prime Time Smartphone Bargains: Our Top Picks for Tech Savvy Shoppers - Curated by ZDNet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/easy-steps-setting-up-matrix-aios-boys-add-on-in-your-kodi-device/"><u>Easy Steps: Setting Up Matrix AIO's Boys Add-On in Your Kodi Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-panera-bread-deliveries-alexas-new-feature-that-eases-meal-orders/"><u>Effortless Panera Bread Deliveries: Alexa's New Feature That Eases Meal Orders!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-your-custom-sized-oura-smart-ring-from-target-and-more-tips-inside-articles-by-zdnet/"><u>Get Your Custom-Sized Oura Smart Ring From Target & More Tips Inside | Articles by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/mute-to-noise-fixing-your-google-meet-mic-on-windows-pc/"><u>Mute to Noise? Fixing Your Google Meet Mic on Windows PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-sony-xperia-10-v-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Sony Xperia 10 V Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-new-era-of-processors-dive-into-the-apple-m4-chip-specifications-and-launch-timeline/"><u>The New Era of Processors: Dive Into the Apple M4 Chip Specifications and Launch Timeline</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unmissable-september-october-cyber-monday-discounts-on-samsung-products-find-and-save-today/"><u>Unmissable September-October Cyber Monday Discounts on Samsung Products – Find & Save Today!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ling-the-secrets-to-effortless-youtube-sharing-on-fb-groups-for-2024/"><u>Unveiling the Secrets to Effortless YouTube Sharing on FB Groups for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/us-and-singapore-join-forces-against-internet-fraud-a-look-at-their-collaborative-efforts/"><u>US & Singapore Join Forces Against Internet Fraud: A Look at Their Collaborative Efforts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-simplified-steps-for-posting-tweets-on-facebook/"><u>[New] In 2024, Simplified Steps for Posting Tweets on Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cam-showdown-spectacle-ultimate-legendary-sj6-meets-yis-visionary-4k/"><u>[Updated] Cam Showdown Spectacle Ultimate Legendary SJ6 Meets Yi's Visionary 4K</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-email-readability-pinning-gmail-bar-on-pc/"><u>Boosting Email Readability: Pinning Gmail Bar on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-dell-touchpad-driver-issue-for-windows-7/"><u>Fix Dell Touchpad Driver Issue for Windows 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-for-controlling-visual-cues-in-windows-11-search/"><u>Guide for Controlling Visual Cues in Windows 11 Search</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-activatedeactivate-onscreen-typewriter-feature-in-windows-10/"><u>How to Activate/Deactivate Onscreen Typewriter Feature in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-your-google-home-experience-a-guide-to-using-the-pc-application/"><u>Mastering Your Google Home Experience: A Guide to Using the PC Application</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96330992-9780824860899-shamans-nostalgias-and-the-imf/"><u>Shamans, Nostalgias, and the IMF | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-401-unauthorized-mistake-a-step-by-step-guide/"><u>Solving the 401 Unauthorized Mistake: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-5-critical-considerations-for-your-next-set-of-stereo-speakers-purchase/"><u>Ultimate Guide: 5 Critical Considerations for Your Next Set of Stereo Speakers Purchase</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo K11 5G | Dr.fone</u></a></li>
 </ul></div>
 

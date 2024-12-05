@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Showdown: Features, Benefits & Differences Between Apple Watch Ultra Vs. Series 8 | ZDNET Guide"
-date: 2024-11-19T22:55:08.254Z
-updated: 2024-11-25T06:12:50.852Z
+date: 2024-11-29T02:57:23.831Z
+updated: 2024-12-04T21:14:32.205Z
 tags:
   - apple
 categories:
@@ -43,13 +43,13 @@ Still, the two watches do have plenty of differences. How do you decide which on
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the Apple Watch Series 9 if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You're looking to save a little money
 
@@ -58,12 +58,16 @@ Given that both watches deliver a fair number of upgrades from their [previous g
 **Also: [Best smartwatches: Expert tested and reviewed](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want more options
 
 Both watches have a plethora of bands available in materials and colors, but the Series 9 has options for the watch itself, including size and material. The S9 has an aluminum finish with Ion-X strengthened glass display and a stainless steel finish with a sapphire crystal display option plus a choice of sizes: 41mm or 45mm. Counting all finishes and colors available, the S9 offers a total of eight options. When it comes to the Ultra, there's one finish and color. You're just choosing a band. If you want a watch where you have a little flexibility in the device itself, go with the S9\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You're buying your first smartwatch and you want the latest tech
 
@@ -81,13 +85,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the Apple Watch Ultra 2 if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'll be using it outdoors
 
@@ -97,16 +101,12 @@ The Ultra 2 packs some features that are especially appealing to people who enjo
 
 This is also Apple's brightest watch ever at 3,000 nits (both the original Ultra and the new Series 9 max out at 2,000 nits), making it easier to see outdoors in bright sunlight. The Ultra 2, like the original Ultra, also has a customizable action button that the S9 lacks. You can assign a task to this button, such as starting/stopping a workout, timing with a stopwatch, turning on the flashlight, etc. The "outdoor-friendly" features are easily the single biggest selling point of the Ultra 2 compared to the Series 9\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You like a bigger watch face
 
 If you're looking for a big, bold watch, consider the Ultra 2\. The Series 9 comes in 41mm and 45mm options while the Ultra 2 looms large at 49mm. Anything around the 45 mm mark or more is considered a large men's watch by most fashion standards, so the size of the Ultra 2 is definitely eye-catching. This is the same size as the current Ultra watch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You need a longer battery life
@@ -149,22 +149,24 @@ While technically one of the "outdoors" features, this difference applies to mos
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-persistent-flicker-on-dell-laptop/"><u>[Fixed]: Persistent Flicker on Dell Laptop</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-the-art-of-obtaining-markless-photos/"><u>[New] Mastering the Art of Obtaining Markless Photos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-budget-friendly-sky-vault-optimal-large-file-haven/"><u>[Updated] In 2024, Budget-Friendly Sky Vault Optimal Large File Haven</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-strategy-stories-the-leading-10-rogue-classics-for-2024/"><u>[Updated] Strategy Stories The Leading 10 Rogue Classics for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-unbeatable-chromebook-top-6-benefits-that-make-it-ideal-for-everyone/"><u>1. Unbeatable Chromebook: Top 6 Benefits That Make It Ideal for Everyone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/access-the-gemini-live-experience-now-tips-and-insights-on-why-you-shouldnt-miss-out-technews/"><u>Access the Gemini Live Experience Now: Tips and Insights on Why You Shouldn't Miss Out | TechNews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-historical-web-pages-easier-than-ever-google-integrates-with-wayback-machine-bringing-the-past-at-your-fingertips/"><u>Discover Historical Web Pages Easier Than Ever: Google Integrates With Wayback Machine, Bringing the Past at Your Fingertips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exceptional-value-in-mobile-tech-rising-star-android-device-beats-the-competition-for-under-200-excluding-samsung/"><u>Exceptional Value in Mobile Tech: Rising Star Android Device Beats the Competition for Under $200 (Excluding Samsung)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-camon-30-pro-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Camon 30 Pro 5G Through Google Earth?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-tcl-stylus-5g-analysis-the-best-under-300-smartphone-with-pen-techradar/"><u>In-Depth TCL Stylus 5G Analysis - The Best Under $300 Smartphone with Pen | TechRadar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-choices-for-voicemail-with-visual-features-2024-edition/"><u>Leading Choices for Voicemail with Visual Features - 2024 Edition</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/oamenii-favorite-lista-decem-legii-de-serii-tv-mai-uimitoare-pe-movaviro/"><u>Oamenii Favorite - Lista Decem Legii De Serii TV Mai Uimitoare Pe Movavi.ro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-vehicle-home-charging-stations-professional-picks-from-zdnet/"><u>Top Rated Electric Vehicle Home Charging Stations : Professional Picks From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-nonfunctional-updown-arrows-on-your-keyboard-here/"><u>Troubleshoot Nonfunctional Up/Down Arrows on Your Keyboard Here</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unstick-your-sea-of-thieves-game-from-the-loading-phase-expert-advice-and-tips/"><u>Unstick Your Sea of Thieves Game From the Loading Phase: Expert Advice and Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-comprehensive-guide-to-the-framework-chromebook-a-revolution-in-durability-and-upgradability/"><u>ZDNet's Comprehensive Guide to the Framework Chromebook: A Revolution in Durability and Upgradability</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-unbiased-review-reveals-stunning-results-exceptional-smart-thermostats-outperforming-ecobee-and-amazon-brands/"><u>ZDNet's Unbiased Review Reveals Stunning Results: Exceptional Smart Thermostats Outperforming Ecobee and Amazon Brands</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-beijings-frigid-triumph-in-winter-sports-2022/"><u>[New] 2024 Approved Beijing's Frigid Triumph in Winter Sports, 2022</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-tiktok-malfunctions-resetting-or-repairing/"><u>[New] 2024 Approved TikTok Malfunctions Resetting or Repairing?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-artistry-at-heart-best-10-free-easy-mac-drawers-for-2024/"><u>[Updated] Artistry at Heart Best 10 Free, Easy Mac Drawers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-creating-impactful-outros-top-6-free-tools/"><u>[Updated] In 2024, Creating Impactful Outros Top 6 FREE Tools</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mkv20247/"><u>【MKV剪接工具】2024年7月专业使用者高度推崇的编辑软件列表</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/clearview-recording-toolkit/"><u>ClearView Recording Toolkit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-transforming-your-discord-user-image-easily/"><u>DIY: Transforming Your Discord User Image Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-versatility-of-smartwatches-what-can-these-wrist-companions-do/"><u>Exploring the Versatility of Smartwatches: What Can These Wrist Companions Do?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-the-unresponsive-volume-control-in-windows-10/"><u>Guide to Fixing the Unresponsive Volume Control in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-use-a-selfie-light/"><u>How to Use a Selfie Light</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-20-pro-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 20 Pro 5G Phone FRP Lock</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unlocking-xboxs-video-call-potential-with-zoom/"><u>In 2024, Unlocking Xbox's Video Call Potential with Zoom</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-use-airpods-as-headphones-for-the-nintendo-switch/"><u>Is It Possible to Use AirPods as Headphones for the Nintendo Switch?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-windows-cli-executing-commands-from-specific-folders/"><u>Mastering Windows CLI: Executing Commands From Specific Folders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-correct-a-security-warning-unsecure-connection-error-fixes/"><u>Steps to Correct a Security Warning: Unsecure Connection Error Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-skype-problems-try-these-essential-techniques/"><u>Troubleshooting Skype Problems? Try These Essential Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-oculus-quest-2-headset-with-mobile-device/"><u>Ultimate Guide: Connecting Your Oculus Quest 2 Headset with Mobile Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlocking-video-content-free-downloader-apps-guide/"><u>Unlocking Video Content Free Downloader Apps Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-yahoo-messenger-origins-and-reasons-behind-its-closure/"><u>Unveiling Yahoo! Messenger: Origins and Reasons Behind Its Closure</u></a></li>
 </ul></div>
 

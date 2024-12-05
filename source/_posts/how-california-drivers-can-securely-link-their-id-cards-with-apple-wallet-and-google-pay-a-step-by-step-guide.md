@@ -1,7 +1,7 @@
 ---
 title: "How California Drivers Can Securely Link Their ID Cards with Apple Wallet and Google Pay: A Step-by-Step Guide"
-date: 2024-11-21T11:49:03.569Z
-updated: 2024-11-25T00:55:51.798Z
+date: 2024-11-30T05:45:21.339Z
+updated: 2024-12-04T21:15:44.310Z
 tags:
   - apple
 categories:
@@ -34,15 +34,7 @@ Whether you're a [developer](https://www.zdnet.com/article/the-data-confirms-gen
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Productivity & Workflow Enhancements
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Regenerative AI (RAG) APIs & AI Writing Tools
 
@@ -57,7 +49,7 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 **Use Case**: A legal professional drafting a contract could use AI to generate text based on legal standards and pull relevant case law or references from secure corporate databases. Similarly, a medical researcher could enhance their papers with precise terminology and industry knowledge, all sourced and verified by a specialized AI model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Voice-based AI Workflow Automation & Proactive Notifications
@@ -72,11 +64,11 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Security & Privacy Enhancements
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enhanced AI Privacy and Security Controls
 
@@ -91,7 +83,7 @@ As AI becomes more integrated into daily use, Apple can enhance its privacy and 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Financial Management and Security
@@ -160,10 +152,14 @@ AI could further [enhance accessibility for users with disabilities](https://www
 
 **Also: [Your AirPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cross-Ecosystem & Personalization
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 9\. Gen AI Store & Broader AI Features for IoT Devices
@@ -189,6 +185,10 @@ AI could make Apple devices more intuitive by learning from user habits and beha
 **Use Case:** AI could recognize when a user typically works out, automatically suggesting their preferred workout playlist and adjusting device settings like Do Not Disturb to enhance focus. Similarly, AI could learn a user's work routine and suggest apps or contacts frequently used during work hours, streamlining daily tasks.
 
 **Also: [Two reasons why I'm thrilled that there's no new Apple Watch Ultra or AirPods Pro](https://www.zdnet.com/article/two-reasons-why-im-thrilled-that-theres-no-new-apple-watch-ultra-or-airpods-pro/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The future
 
@@ -228,17 +228,24 @@ While Apple's focus on privacy and on-device processing sets it apart, the compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-pushing-boundaries-innovative-hdr-portrait-techniques/"><u>[New] In 2024, Pushing Boundaries Innovative HDR Portrait Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-the-mystique-of-moonlit-portraits-for-2024/"><u>[New] Mastering the Mystique of Moonlit Portraits for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enhance-your-laptops-look-with-these-8-choices/"><u>[Updated] 2024 Approved Enhance Your Laptop's Look with These 8 Choices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/1716183955146-updated-in-2024-how-to-reverse-image-search-instagram/"><u>[Updated] In 2024, How to Reverse Image Search Instagram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-prime-day-sale-save-40-on-the-latest-echo-spot-with-built-in-alarm-exclusive-deals/"><u>Amazon Prime Day Sale: Save 40% on the Latest Echo Spot with Built-In Alarm - Exclusive Deals!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beyond-sony-and-jbl-discover-the-ultimate-immersive-speakers-recommended-by-zdnets-tech-guru/"><u>Beyond Sony and JBL: Discover the Ultimate Immersive Speakers Recommended by ZDNet's Tech Guru</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/immerse-yourself-in-superior-sounds-unveiling-a-non-vizio-non-jbl-soundbar-masterpiece-zdnet-insiders-pick/"><u>Immerse Yourself in Superior Sounds: Unveiling a Non-Vizio, Non-JBL Soundbar Masterpiece | ZDNET Insider's Pick</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-learning-the-ropes-of-lunapics-user-interface/"><u>In 2024, Learning the Ropes of LunaPic's User Interface</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-quick-access-to-xps-movie-making-tools/"><u>In 2024, Quick Access to XP's Movie Making Tools</u></a></li>
-<li><a href="https://win-help.techidaily.com/incorporating-audio-tracks-into-your-flipbook-projects/"><u>Incorporating Audio Tracks Into Your FlipBook Projects</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/quick-and-effective-methods-to-eliminate-black-backdrops-in-images-expert-advice/"><u>Quick & Effective Methods to Eliminate Black Backdrops in Images: Expert Advice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/surprisingly-great-alternative-to-bose-and-jbl-found-in-our-latest-bluetooth-speaker-tests-zdnet/"><u>Surprisingly Great Alternative to Bose & JBL Found in Our Latest Bluetooth Speaker Tests | ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-maximizing-impact-strategies-for-going-viral-on-instagram/"><u>[Updated] 2024 Approved Maximizing Impact Strategies for Going Viral on Instagram</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-essentials-of-mobile-based-youtube-channel-creation-for-personalbusiness-use/"><u>[Updated] In 2024, The Essentials of Mobile-Based YouTube Channel Creation for Personal/Business Use</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-sony-xperia-1-v-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Sony Xperia 1 V Phones with/without a PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-x50-gt-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor X50 GT Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-15-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 15 Pro without Password?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-techniques-for-your-windows-11-walls-for-2024/"><u>Innovative Techniques for Your Windows 11 Walls for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/logmein-decides-to-create-independent-entity-with-lastpass-zdnet-news/"><u>LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-tech-picks-the-ultimate-source-for-hardware-advice-toms-resource/"><u>Mastering Tech Picks: The Ultimate Source for Hardware Advice - Tom's Resource</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonoma-macos-a-deep-dive-into-apples-game-mode-efficiency-boost/"><u>Sonoma macOS: A Deep Dive Into Apple's Game Mode Efficiency Boost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tired-of-traditional-shoveling-discover-the-game-changing-electric-snow-blower-for-harsh-northeast-climates-on-zdnet/"><u>Tired of Traditional Shoveling? Discover the Game-Changing Electric Snow Blower for Harsh Northeast Climates on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-budget-friendly-prefab-homes-under-50000-exploring-modular-living-on-a-dime-techradar/"><u>Top 5 Budget-Friendly Prefab Homes Under $50,000: Exploring Modular Living on a Dime | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-must-have-inflatables-the-ultimate-guide-to-the-simplest-setup-pool-models/"><u>Top 5 Must-Have Inflatables: The Ultimate Guide to the Simplest Setup Pool Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-premium-gas-grills-of-2024-expert-reviews-and-comparisons/"><u>Top 5 Premium Gas Grills of 2024 - Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-premium-hot-tubs-reviews-and-picks-by-zdnet/"><u>Top 5 Premium Hot Tubs - Reviews and Picks by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-solar-charger-reviews-and-buying-guide-techradar/"><u>Top 5 Solar Charger Reviews & Buying Guide - TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-solar-power-banks-comprehensive-review-techradar/"><u>Top 5 Solar Power Banks : Comprehensive Review - TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-solar-powered-lanterns-features-and-reviews-techradar/"><u>Top 5 Solar-Powered Lanterns : Features & Reviews - TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-automated-lawn-irrigation-systems-of-2022-featuring-rachio-rainmachine-and-wyze-expert-reviews-by-zdnet/"><u>Top-Ranking Automated Lawn Irrigation Systems of 2022: Featuring Rachio, RainMachine & Wyze - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-winstore-hurdle-microsoft-error-0x80072f17/"><u>Unraveling WinStore Hurdle: Microsoft Error 0X80072F17</u></a></li>
 </ul></div>
 

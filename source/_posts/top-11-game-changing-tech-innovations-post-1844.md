@@ -1,7 +1,7 @@
 ---
 title: Top 11 Game-Changing Tech Innovations Post-1844
-date: 2024-09-09T09:13:51.340Z
-updated: 2024-09-10T09:13:51.340Z
+date: 2024-11-30T02:08:57.085Z
+updated: 2024-12-04T23:37:49.724Z
 categories:
   - BestProducts
 description: This Article Describes Top 11 Game-Changing Tech Innovations Post-1844
@@ -9,21 +9,13 @@ excerpt: This Article Describes Top 11 Game-Changing Tech Innovations Post-1844
 thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-119705368-5c7f279dc9e77c00011c8462.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the Issue of Non-Responsive Search in Windows 11 – Top Tips
  It's hard to find files and apps when the Windows 10 search bar is not working. Below are all the different ways we've been able to fix this problem.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Search Is Not Working in Windows 10
 
  It's more common than you might think for the Windows search box to stop working. This means there are several possible causes, like a temporary glitch or an unresolved software bug. Another possible reason Windows search isn't working like you want it to is that a very specific setting has been switched off.
@@ -31,17 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 ![Windows search not working](https://www.lifewire.com/thmb/eUOincgBNCFIDt1gubIW-meSdKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windowssearchfix06-5bdc331846e0fb002d90f052.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Windows 10 Search Problems
 
  You'll use a lot of the same methods to fix problems with search as you would other minor errors. Here are some options to try and get the Windows search bar working again:
@@ -93,8 +81,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +88,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-video-editor-battle-is-inshot-reigning-supreme/"><u>[New] In 2024, Top Video Editor Battle Is InShot Reigning Supreme?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-way-the-insider-guide-to-youtube-video-management-hub/"><u>[Updated] 2024 Approved Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-potential-editing-after-the-upload-process/"><u>[Updated] 2024 Approved Unlocking YouTube Potential Editing After the Upload Process</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-eternal-display-documentation/"><u>2024 Approved Eternal Display Documentation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-redefining-cinematic-boundaries-with-360-video/"><u>2024 Approved Redefining Cinematic Boundaries with 360 Video</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/duckduckgo-unveiled-how-it-works-and-its-safety-features/"><u>DuckDuckGo Unveiled: How It Works and Its Safety Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/game-changing-breakthroughs-unveiled-discover-how-new-ipads-final-cut-pro-enhancements-empower-filmmakers-like-never-before/"><u>Game-Changing Breakthroughs Unveiled: Discover How New iPad's Final Cut Pro Enhancements Empower Filmmakers Like Never Before!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-time-to-consider-upgrading-a-critical-review-of-ipad-air-that-may-challenge-your-loyalty-to-ipad-pro-zdnet/"><u>Is It Time to Consider Upgrading? A Critical Review of iPad Air That May Challenge Your Loyalty to iPad Pro | ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-unexpected-stop-issue-on-cod-mw3/"><u>Troubleshooting Guide: Fixing the Unexpected Stop Issue on COD MW3</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-you-cant-resist-the-new-ipad-air-unveiling-4-top-reasons-from-apple-tech-insights/"><u>Why You Can't Resist the New iPad Air - Unveiling 4 Top Reasons From Apple | Tech Insights</u></a></li>
+</ul></div>
 
