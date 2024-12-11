@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple Innovations for Consumers: How SoC, M1 Through M3 Chips Transform Computing Experiencuence"
-date: 2024-12-01T04:49:13.497Z
-updated: 2024-12-04T17:08:11.146Z
+date: 2024-12-05T17:13:03.580Z
+updated: 2024-12-10T16:22:11.986Z
 tags:
   - apple
 categories:
@@ -34,10 +34,6 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Writing tools
 
 Jason Hiner/ZDNET
@@ -49,10 +45,6 @@ Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Note
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -69,16 +61,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Mail assistance
 
@@ -103,14 +91,22 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What will come later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image wand
 
@@ -119,6 +115,10 @@ The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -158,24 +158,24 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-pixelation-portraiture-sketching-a-playful-virtual-emblem/"><u>[New] 2024 Approved Pixelation Portraiture Sketching a Playful Virtual Emblem</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-streamline-task-management-with-safaris-picture-in-picture/"><u>[New] Streamline Task Management with Safari's Picture In Picture</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ransforming-youtube-content-for-igtv-success/"><u>[New] Transforming YouTube Content for IGTV Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-voice-logging-access-and-evaluation/"><u>[New] Voice Logging Access & Evaluation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-your-ultimate-guide-to-polarr-image-editing-software-for-2024/"><u>[New] Your Ultimate Guide to Polarr Image Editing Software for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-boundless-imagination-with-these-android-graphics-tools/"><u>2024 Approved Boost Your Boundless Imagination with These Android Graphics Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2024s-elite-list-of-magsafe-wallets-thoroughly-tested-and-reviewed-for-optimal-compatibility-zdnet/"><u>2024'S Elite List of MagSafe Wallets: Thoroughly Tested & Reviewed for Optimal Compatibility | ZDNET</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/building-your-brand-setting-up-a-business-on-instagram/"><u>Building Your Brand Setting Up a Business on Instagram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/compact-and-powerful-discover-the-new-m4-enhanced-mac-mini-tiny-but-mighty-like-an-apple-tv/"><u>Compact and Powerful: Discover the New M4-Enhanced Mac Mini - Tiny but Mighty Like an Apple TV</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-new-alliances-whos-joining-forces-with-the-apple-card-and-how-it-affects-consumers/"><u>Exploring New Alliances: Who's Joining Forces With the Apple Card, And How It Affects Consumers?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/free-youtube-subtitled-content-download-without-paying-for-2024/"><u>Free YouTube Subtitled Content Download Without Paying for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-call-recording-guide-is-it-legal-step-by-step-process-covered-by-zdnet/"><u>IPhone Call Recording Guide: Is It Legal? Step-by-Step Process Covered by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/labor-day-blowout-sale-snag-a-second-gen-apple-pencil-for-only-95-on-zdnets-exclusive-offer/"><u>Labor Day Blowout Sale: Snag a Second-Gen Apple Pencil for Only $95 on ZDNet's Exclusive Offer!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-d3dx940dll-file-not-found-a-comprehensive-guide/"><u>Solving the d3dx9_40.dll File Not Found: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-what-to-do-when-you-encounter-msstdfmtdll-is-missing-error/"><u>Solving the Problem: What to Do When You Encounter 'msstdfmt.dll' Is Missing Error</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear-for-2024/"><u>Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-total-capacitance-in-series-ctotal-is-less-than-any-individual-capacitors-capacitance-in-the-series/"><u>The Total Capacitance in Series (C_total) Is Less than Any Individual Capacitor's Capacitance in the Series.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-dealing-with-the-missing-rockaldlldll-error/"><u>Troubleshooting Tips: Dealing with the MISSING rockaldll.dll Error</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-step-by-step-guide-to-radial-blur-effect-on-images/"><u>[New] In 2024, Step-by-Step Guide to Radial Blur Effect on Images</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revolutionize-your-content-with-innovative-tagging-approaches/"><u>[New] Revolutionize Your Content with Innovative Tagging Approaches</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-tricks-to-simulate-quantum-leap-phenomena/"><u>[New] Tricks to Simulate Quantum Leap Phenomena</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-annotation-best-smartphone-apps-reviewed/"><u>[Updated] Creative Annotation Best Smartphone Apps Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-distractions-with-personalized-mac-focus-modes-in-macos-monterey-tips-and-tricks/"><u>Avoiding Distractions with Personalized Mac Focus Modes in macOS Monterey - Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cite-ai-correctly-expert-tips-on-how-to-include-chatgpt-as-a-reference-source/"><u>Cite AI Correctly: Expert Tips on How to Include ChatGPT as a Reference Source</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/glow-dynamics-enhancing-visual-storytelling-through-lighting-for-2024/"><u>Glow Dynamics Enhancing Visual Storytelling Through Lighting for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enjoy-shared-spotify-sessions-with-another-person/"><u>How to Enjoy Shared Spotify Sessions with Another Person?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immerse-yourself-in-marvel-magic-through-apple-vision-pro-launch-expected-may-30-zdnet/"><u>Immerse Yourself in Marvel Magic Through Apple Vision Pro - Launch Expected May 30 | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-gadgets-to-reduce-camera-jiggle-effects/"><u>In 2024, Best Gadgets to Reduce Camera Jiggle Effects</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-70-lite-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 70 Lite 5G Phone FRP Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-a-discounted-new-ipad-9th-generation-at-only-250-following-apple-event-insights-from-zdnet/"><u>Score a Discounted New iPad (9Th Generation) at Only $250 Following Apple Event - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-scrapping-how-to-clear-your-profiles-blemishes/"><u>Social Media Scrapping: How to Clear Your Profile's Blemishes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-face-off-deciding-on-your-ideal-timepiece-a-comparison-of-the-google-pixel-watch-3-and-apple-watch-series-vee/"><u>Tech Face-Off: Deciding on Your Ideal Timepiece – A Comparison of the Google Pixel Watch 3 & Apple Watch Series Vee</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-generation-of-display-tech-unpacking-what-the-ipad-pros-tandem-oled-reveals-for-tomorrows-gadgets/"><u>The Next Generation of Display Tech: Unpacking What the iPad Pro's Tandem OLED Reveals for Tomorrow's Gadgets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformation-de-fichiers-alaw-a-la-version-numerique-gratuite-movavi/"><u>Transformation De Fichiers ALAW À La Version Numérique Gratuite - Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-buyers-guide-to-the-most-reliable-waterproof-wearables-of-2024-industry-expert-ratings-devicemasters/"><u>Ultimate Buyer's Guide to the Most Reliable Waterproof Wearables of 2024 - Industry Expert Ratings | DeviceMasters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-your-apple-watchs-lifespan-uncover-unexpected-battery-health-insights/"><u>Unlocking the Secrets of Your Apple Watch's Lifespan: Uncover Unexpected Battery Health Insights!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-revolutionizing-music-production-a-look-at-the-leading-audio-editing-suites/"><u>Updated Revolutionizing Music Production A Look at the Leading Audio Editing Suites</u></a></li>
 </ul></div>
 

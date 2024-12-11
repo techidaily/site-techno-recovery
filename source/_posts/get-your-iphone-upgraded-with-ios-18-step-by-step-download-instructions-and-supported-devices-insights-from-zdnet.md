@@ -1,7 +1,7 @@
 ---
 title: Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights From ZDNET
-date: 2024-11-28T21:14:10.069Z
-updated: 2024-12-04T16:38:17.636Z
+date: 2024-12-09T20:38:15.141Z
+updated: 2024-12-11T08:46:45.140Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -37,16 +33,12 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -56,6 +48,10 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -63,10 +59,6 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -78,6 +70,10 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -85,6 +81,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -98,7 +98,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -161,18 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-sdr-to-hdr-ultimate-guide-on-sdr-to-hdr-video-conversion/"><u>[New] In 2024, SDR to HDR Ultimate Guide on SDR to HDR Video Conversion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-language-of-cinema-writing-as-an-art/"><u>[New] The Language of Cinema Writing as an Art</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-get-royalty-free-clip-art/"><u>[Updated] In 2024, How to Get Royalty Free Clip Art?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/6-awesome-free-webcam-games-for-computer/"><u>6 Awesome Free Webcam Games for Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-tips-for-navigating-and-playing-pokemon-go-like-a-pro/"><u>Beginner's Tips for Navigating and Playing Pokémon Go Like a Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/budget-friendly-tech-alert-get-the-new-299-ipad-10gen-during-post-prime-day-sales-zdnet-insights/"><u>Budget-Friendly Tech Alert: Get the New $299 iPad (10Gen) During Post-Prime Day Sales | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/global-phone-rankings-shaken-as-iphone-captures-top-seven-positions-for-the-first-time-ever-gizmoworld-update/"><u>Global Phone Rankings Shaken as iPhone Captures Top Seven Positions for the First Time Ever | GizmoWorld Update</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-gt-10-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix GT 10 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smartphone-showdown-pixel-9-pro-xl-challenges-iphone-15-pros-camera-dominance-surprising-results-revealed-gizmodigest/"><u>Smartphone Showdown: Pixel 9 Pro XL Challenges iPhone 15 Pro's Camera Dominance - Surprising Results Revealed | GizmoDigest</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/standout-revelation-from-apples-let-loose-presentation-a-compelling-349-ipad-that-stands-out/"><u>Standout Revelation From Apple’s ‘Let Loose’ Presentation - A Compelling $349 iPad That Stands Out</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-ios-devotees-how-to-refresh-the-firmware-on-an-apple-studio-display-zdnet/"><u>Step-by-Step Tutorial for iOS Devotees: How to Refresh the Firmware on an Apple Studio Display | ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unleash-adventure-with-the-nikon-waterproof-rugged-w100/"><u>Unleash Adventure with the Nikon Waterproof, Rugged W100</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-advantages-of-switching-to-sonoma/"><u>Unpacking the Advantages of Switching to Sonoma</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-strategy-breakthroughs-in-packaging/"><u>[New] In 2024, Strategy Breakthroughs in Packaging</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-rapid-races-recap-olympic-2022-short-track-sprints-for-2024/"><u>[Updated] Rapid Races Recap Olympic 2022 Short-Track Sprints for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-essential-productivity-techniques-and-apps-to-optimize-your-everyday-task-management-zdnet/"><u>5 Essential Productivity Techniques & Apps to Optimize Your Everyday Task Management | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/big-news-for-apple-developers-unveiling-enhanced-complimentary-artificial-intelligence-integration-in-key-development-tools/"><u>Big News for Apple Developers: Unveiling Enhanced, Complimentary Artificial Intelligence Integration in Key Development Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-camera-drivers-for-windows-users-win111087/"><u>Easy Guide to Downloading & Installing Camera Drivers for Windows Users (Win11/10/8/7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-take-on-iphone-15-top-picks-and-insights-for-seasoned-professionals-a-comprehensive-analysis-by-techguru/"><u>Expert Take on iPhone 15: Top Picks and Insights for Seasoned Professionals - A Comprehensive Analysis by TechGuru</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-ultimate-magsafe-upgrades-of-2024-in-depth-analysis-by-zdnet/"><u>Exploring the Ultimate MagSafe Upgrades of 2024: In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pros-finest-tools-free-and-exceptional-quality/"><u>In 2024, Premiere Pro's Finest Tools - Free & Exceptional Quality</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-tutorial-access-and-converse-via-imessage-on-your-windows-or-mac-computer/"><u>Step-by-Step Tutorial: Access and Converse via iMessage on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-most-anticipated-ios-18-updates-from-wwdc-2023-delving-into-advanced-ai-features-and-more-digital-innovations-journal/"><u>The Most Anticipated iOS 18 Updates From WWDC 2023 - Delving Into Advanced AI Features and More | Digital Innovations Journal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-resolving-unresponsive-alexa-issues/"><u>Troubleshooting Steps: Resolving Unresponsive Alexa Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-six-highly-effective-dietary-journaling-apps/"><u>Unveiling Six Highly Effective Dietary Journaling Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-pinnacle-studio-for-mac-explore-these-excellent-alternative-options/"><u>Updated Pinnacle Studio for Mac Explore These Excellent Alternative Options</u></a></li>
 </ul></div>
 

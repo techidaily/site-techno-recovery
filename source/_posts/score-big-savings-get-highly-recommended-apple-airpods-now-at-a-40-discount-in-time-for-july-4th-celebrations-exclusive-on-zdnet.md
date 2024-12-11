@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Get Highly Recommended Apple AirPods Now at a $40 Discount in Time for July 4Th Celebrations | Exclusive on ZDNet"
-date: 2024-11-28T03:19:51.456Z
-updated: 2024-12-04T16:28:10.626Z
+date: 2024-12-05T09:26:26.485Z
+updated: 2024-12-11T08:02:10.395Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C263960fc-40a4-4146-bad9-7a5792e11265%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,24 +62,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-10-best-instagram-meme-accounts-to-make-you-laugh-with-tears/"><u>[New] In 2024, 10 Best Instagram Meme Accounts to Make You Laugh (with Tears)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-your-daily-diary-staying-fresh-and-avoiding-common-mistakes/"><u>[Updated] 2024 Approved Your Daily Diary Staying Fresh & Avoiding Common Mistakes</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1726028553586-windows/"><u>「Windows フォト」と動画編集:失敗したらどうする?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/102-special-offer-transform-your-macbook-setup-with-the-multi-functional-charger-stand-and-ports-organizer-featured-on-zdnet-now/"><u>$102 Special Offer: Transform Your MacBook Setup with the Multi-Functional Charger, Stand, and Ports Organizer Featured on ZDNET Now!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-windows-11-pro-prime-video-cameras-for-pcs/"><u>2024 Approved Windows 11 Pro Prime Video Cameras for PCs</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-10-gratuitous-online-transformers-for-srt-files-for-2024/"><u>Best 10 Gratuitous Online Transformers for Srt Files for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-reno-8t-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Reno 8T 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-internet-equality-the-ins-and-outs-of-net-neutrality/"><u>Demystifying Internet Equality: The Ins and Outs of Net Neutrality</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-gaming-mobile-devices-for-202n-expert-review/"><u>Discover the Leading Gaming Mobile Devices for 202N - Expert Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-greatest-free-film-download-platforms-a-list-of-11-sites/"><u>Explore the Greatest Free Film Download Platforms: A List of 11 Sites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-ios-172-resolves-iphone-connectivity-and-slow-wi-fi-woes-expected-launch-date-insights-zdnet/"><u>How iOS 17.2 Resolves iPhone Connectivity and Slow Wi-Fi Woes – Expected Launch Date Insights | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-migrate-pictures-effortlessly-between-google-and-icloud-the-comprehensive-tutorial/"><u>How to Migrate Pictures Effortlessly Between Google and iCloud: The Comprehensive Tutorial</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-insightful-rank-trackers-unlock-your-videos-potential/"><u>In 2024, Insightful Rank Trackers - Unlock Your Video's Potential</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-joy-con-control-swapping-out-old-joystick/"><u>Mastering Joy-Con Control: Swapping Out Old Joystick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/phone-testing-processes-unveiled-by-zdnet/"><u>Phone Testing Processes Unveiled by ZDNet</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/shaping-imagery-the-most-innovative-vector-designers-ranked-for-2024/"><u>Shaping Imagery The Most Innovative Vector Designers Ranked for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/sonic-spellbook-can-you-alter-your-speech-discover-different-magical-solutions/"><u>Sonic Spellbook Can You Alter Your Speech? Discover Different Magical Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-sideloading-can-you-install-unofficial-ios-apps-and-will-apple-impose-charges/"><u>Understanding Sideloading: Can You Install Unofficial iOS Apps & Will Apple Impose Charges?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-the-iphone-16-pro-is-the-ultimate-choice-over-the-max-apples-persuasion/"><u>Why the iPhone 16 Pro Is the Ultimate Choice Over the Max - Apple's Persuasion</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-sharing-tweets-with-facebook-friends/"><u>[Updated] 2024 Approved Sharing Tweets with Facebook Friends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-distributes-rebates-to-affected-macbook-customers-under-newest-class-action-resolution-tech-news-on-zdnet/"><u>Apple Distributes Rebates to Affected MacBook Customers Under Newest Class Action Resolution - Tech News on ZDNET</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/bulk-deletion-of-images-from-your-plus-sized-iphone-a-step-by-step-guide/"><u>Bulk Deletion of Images From Your Plus-Sized iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-started-with-updated-thinkpad-thunderbolt-3-dock-compatibility-and-setup-instructions/"><u>Get Started with Updated ThinkPad Thunderbolt 3 Dock - Compatibility and Setup Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-the-x3daudiodll-not-detected-or-absent-problem/"><u>How To Address The x3daudio.dll Not Detected or Absent Problem</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-combine-videos-online-without-spending-a-dime-top-5-tools/"><u>In 2024, Combine Videos Online Without Spending a Dime Top 5 Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-creating-a-lasting-impression-the-ultimate-youtube-live-thumbnail-guide/"><u>In 2024, Creating a Lasting Impression The Ultimate YouTube Live Thumbnail Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-12-now-features-enhanced-qi2-wireless-charger-without-magsafe-requirement-zdnet/"><u>IPhone 12 Now Features Enhanced Qi2 Wireless Charger without MagSafe Requirement | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-savings-on-the-powerful-macbook-pro-m1-max-exclusive-offer-inside-bandhs-black-friday-bonanza-spotlight-by-zdnet/"><u>Maximize Your Savings on the Powerful MacBook Pro M1 Max – Exclusive Offer Inside B&H's Black Friday Bonanza, Spotlight by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-on-premium-tablets-during-amazons-prime-day-2n-2024-hot-offers-available-for-under-35-zdnet/"><u>Save Big on Premium Tablets During Amazon's Prime Day 2N 2024: Hot Offers Available for Under $35 | ZDnet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sony-afeela-car-unveiling-the-latest-updates-on-price-and-launch-date-plus-key-features/"><u>Sony Afeela Car: Unveiling the Latest Updates on Price & Launch Date + Key Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1727791305690-top-rated-magsafe-wallets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Lenovo's Academic Offers: Steps to Secure Student Pricing Benefits"
-date: 2024-09-04T00:28:08.301Z
-updated: 2024-09-05T00:28:08.301Z
+date: 2024-12-05T23:44:35.693Z
+updated: 2024-12-11T08:59:59.024Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Lenovo's Academic Offers: Steps to Secure Student Pricing Benefits"
@@ -24,9 +24,17 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 [ChatGPT vs. Gemini: What's the Difference?](https://www.lifewire.com/chatgpt-vs-bard-7504876)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Sign Up for Google Gemini
 
  You can sign up on the web with your Google account or use the Android mobile app. Both methods are straightforward and offer a clean interface for interacting with Gemini.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using the Web App
 
@@ -34,18 +42,6 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
  The web app is supported in most browsers, such as Chrome, Safari, Firefox, Opera, or Edge. Gemini supports 40 languages and is available in over 230 countries.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Using the Mobile Apps on Android and iOS
 
  Install the[Gemini mobile app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) from the Google Play store on Android. The Gemini app is available only in English in the U.S. You must have an Android phone with 2 GB of RAM or more, running Android 10 or newer. If you opt-in to use Gemini, it will replace your Google Assistant as the primary assistant on the phone.
@@ -55,11 +51,9 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 ![Google Gemini in iOS](https://www.lifewire.com/thmb/9i8u4Mbuaiwb1oioPFtMAGMytEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-iOS-bf356a55a5cd4d01afecd0dc2f5b6da2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Use Gemini AI?
 
  Gemini relies on[generative AI](https://www.lifewire.com/what-is-generative-ai-7510795) to take your natural language queries and turn them into detailed answers. You can start a conversation and get any content, like text, images, music, language, 3D models, and more, with the help of a simple prompt.
@@ -72,36 +66,17 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 5. Select the pencil icon next to your query to edit the original question, and then choose**Update** .  
 ![The "Edit text" button in a Google Gemini conversation thread](https://www.lifewire.com/thmb/_04NldjfAsFL2Pg-aF1dc1XxgBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Edit-text-on-Google-Gemini-b0d9f137d7e14ee2958822fb9d6f92fa.jpg)
 6. You can ask Gemini to generate images with words like "draw," "generate," and "create."
-7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
+
 ### Tip
 
  Google suggests several[tips for getting the best results with your prompts](https://support.google.com/a/users/answer/14200040?hl=en) . Download the free[Gemini for Workspace prompt guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html) if you use Google Workspace with other tools in the suite.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Review Gemini's Answer With More Features
 
  You don't have to accept Gemini's original answer. The generative AI chatbot offers a few extra methods to change the style of the answer.  
@@ -112,23 +87,24 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 3. The**Modify response** filter pop-up helps you adjust the length, simplify the language, and change the tone of a response. Use this to tailor the answers for your intended audience or finetune them.  
 ![The "Modify response" option in Google Gemini](https://www.lifewire.com/thmb/tM5Ik6bHqWlxMYpKv-VT30BTI2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Modify-response-in-Google-Gemini-c53c46000aea49879f6ad313767b5a33.jpg)
 4. Instead of making Gemini rewrite the entire content, you can modify parts of the generated responses. Highlight any part of the text and select the**Modify selected text** icon.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Enter a fresh prompt in the Modify with a prompt field to describe how you want the selected text to change, and then press**Enter** . The other options of**Regenerate** ,**Shorter** ,**Longer** , and**Remove** are self-explanatory.  
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)  
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Gemini can be error-prone. Select the**Google** button at the foot of the response to double-check the answers. The AI checks with a Google Search and highlights content similar to (Green highlight) or different (Orange highlight) from Gemini's statements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Extensions in Gemini
 
  With Gemini's extensions, you can tap into Google's ecosystem of apps to cover a wider variety of everyday uses. Most extensions are on by default, but you may need to give Gemini permission to use them in your prompt.
@@ -136,20 +112,8 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 1. Go to**Settings** \>**Extensions** .  
 ![The Settings > Extensions options in Google Gemini](https://www.lifewire.com/thmb/pccAkIep3BpKkhVuV-2YYAWwlYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extensions-in-Google-Gemini-08e89dd23f4940048feb9db7f2cf1f17.jpg)
 2. Enable or disable your choice of extensions with the toggle switch.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. To automatically use any Google services as an extension, mention it in the prompt. Alternatively, enter @ and select the extension to allow Gemini to use a specific extension.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip
 
  Gemini is a handy way to summarize YouTube videos you don't want to watch till the end. Ask Gemini multiple questions to dig deeper into the video's content in half the time.
@@ -184,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +155,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-music-merger-for-engaging-fb-video-content/"><u>[New] The Music Merger for Engaging FB Video Content</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-beats-at-breakneck-speed-the-fastest-rising-tiktok-hits/"><u>[Updated] Beats at Breakneck Speed The Fastest-Rising TikTok Hits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/becoming-a-savvy-vr-tour-connoisseur-for-2024/"><u>Becoming a Savvy VR Tour Connoisseur for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crack-the-code-to-college-savings-how-students-can-leverage-discount-opportun-cuities-with-dell-electronics/"><u>Crack the Code to College Savings: How Students Can Leverage Discount Opportun Cuities with Dell Electronics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-non-reactive-rust-code-errors/"><u>Expert Advice: Overcoming Non-Reactive Rust Code Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-i-access-netflix-content-through-my-nintendo-switch-console/"><u>How Do I Access Netflix Content Through My Nintendo Switch Console?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/securing-your-system-expert-tips-to-defend-against-cyber-threats-from-yl-computing/"><u>Securing Your System: Expert Tips to Defend Against Cyber Threats From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-apple-watch-straps-for-2n4-elite-tested-and-analyzed/"><u>The Ultimate Selection of Apple Watch Straps for 2N4: Elite Tested and Analyzed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-productivity-ipad-applications-streamline-and-enhance-your-efficiency-with-expert-picks/"><u>Top Productivity iPad Applications: Streamline and Enhance Your Efficiency with Expert Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-efficient-wireless-charging-devices-of-2024-in-depth-analysis-from-industry-professionals-zdnet/"><u>Ultimate Guide to the Most Efficient Wireless Charging Devices of 2024: In-Depth Analysis From Industry Professionals | ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubes-short-form-videos-10-tactics-for-dominance-in-views-for-2024/"><u>Youtube's Short-Form Videos - 10 Tactics for Dominance in Views for 2024</u></a></li>
+</ul></div>
 

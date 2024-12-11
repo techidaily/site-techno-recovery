@@ -1,7 +1,7 @@
 ---
 title: Score an Apple Pencil (Gen 2) for Only $95 - Save Big During Labor Day Sales Tech Deals
-date: 2024-11-28T18:45:33.879Z
-updated: 2024-12-05T06:16:09.947Z
+date: 2024-12-08T05:42:25.167Z
+updated: 2024-12-10T20:43:08.500Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,18 +71,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-camera-buying-made-easy-for-film-novices/"><u>[Updated] In 2024, Camera Buying Made Easy for Film Novices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2023s-elite-selection-of-apple-watch-screenshields-reviewed-by-wirecutter/"><u>2023'S Elite Selection of Apple Watch Screenshields Reviewed by Wirecutter</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/alte-fotos-auf-facebook-wiederfinden-schnelle-und-effektive-losungen-fur-die-wiederherstellung-vergangener-erinnerungen-im-netz/"><u>Alte Fotos Auf Facebook Wiederfinden: Schnelle Und Effektive Lösungen Für Die Wiederherstellung Vergangener Erinnerungen Im Netz</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-apples-airpods-pro-still-the-top-choice-after-two-years-a-comprehensive-review-from-launch-in/"><u>Are Apple's AirPods Pro Still the Top Choice After Two Years? A Comprehensive Review From Launch In</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-seven-alarm-clock-app-choices-for-smartphones/"><u>Best Seven Alarm Clock App Choices for Smartphones</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-learn-the-ins-and-outs-of-adding-gifs-on-instagram-in-4-steps/"><u>In 2024, Learn the Ins and Outs of Adding GIFs on Instagram in 4 Steps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-lava-blaze-2-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Lava Blaze 2 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/kobo-clara-hd-unveiled-a-perfect-travel-buddy-for-avid-readers-detailed-review-inside/"><u>Kobo Clara HD Unveiled: A Perfect Travel Buddy for Avid Readers - Detailed Review Inside!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722968713188-n-drivers-on-windows-1087-quick-guide/"><u>N Drivers on Windows 10/8/7 - Quick Guide!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-spark-10-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Spark 10 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pros-and-cons-of-choosing-a-locally-focused-llm-what-are-the-benefits/"><u>Pros and Cons of Choosing a Locally-Focused LLM - What Are the Benefits?</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y28-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo Y28 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/save-big-on-mobile-plans-this-4th-of-july-exclusive-deals-unveiled/"><u>Save Big on Mobile Plans This 4Th of July: Exclusive Deals Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-easy-routines-for-capturing-youtube-streams/"><u>[Updated] 2024 Approved Easy Routines for Capturing YouTube Streams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-designing-a-trailer-blueprint-to-amplify-channel-income/"><u>[Updated] In 2024, Designing a Trailer Blueprint to Amplify Channel Income</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-reactivate-windows-photo-viewer-with-ease-win-11/"><u>[Updated] In 2024, Reactivate Windows Photo Viewer with Ease (Win 11)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/20-anker-battery-pack-the-ultimate-solution-for-your-portable-charger-woes-insights/"><u>$20 Anker Battery Pack: The Ultimate Solution for Your Portable Charger Woes - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-the-ideal-chromebook-for-academics-in-depth-analysis-by-experts/"><u>Choosing the Ideal Chromebook for Academics: In-Depth Analysis by Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-repair-techniques-for-handling-blue-screen-error-0x0000005c/"><u>DIY Repair Techniques for Handling Blue Screen Error 0X0000005C</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210642052-9781788179515-energy-rules/"><u>Energy Rules | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-adding-expressive-gifs-to-your-insta-conversations/"><u>Guide: Adding Expressive GIFs to Your Insta Conversations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/next-gen-online-meeting-apps-azoom-no-more-for-2024/"><u>Next-Gen Online Meeting Apps Azoom No More for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rethinking-upgrades-expert-opinion-on-apples-iphone-16-and-smartphone-ai-capabilities-zdnet-analysis/"><u>Rethinking Upgrades: Expert Opinion on Apple's iPhone 16 and Smartphone AI Capabilities - ZDNet Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-poco-x5-by-drfone-android/"><u>Three Ways to Sim Unlock Poco X5</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-computer-boot-issues-in-windows-11-effective-solutions-for-forced-shutdown-problems/"><u>Troubleshooting Computer Boot Issues in Windows 11 - Effective Solutions for Forced Shutdown Problems</u></a></li>
 </ul></div>
 

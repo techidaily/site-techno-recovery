@@ -1,7 +1,7 @@
 ---
 title: Upcoming Xbox VR Gear - Insight on Costs, Official Release Timeline, and Potential Features
-date: 2024-09-04T00:30:57.722Z
-updated: 2024-09-05T00:30:57.722Z
+date: 2024-12-04T18:31:12.661Z
+updated: 2024-12-10T23:37:58.392Z
 categories:
   - BestProducts
 description: This Article Describes Upcoming Xbox VR Gear - Insight on Costs, Official Release Timeline, and Potential Features
@@ -22,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 
  The Xbox VR Headset is in the works. It's the first confirmed third-party headset built on Meta's open-source Meta Horizon OS, now open to and in use by other tech companies—including Asus, Lenovo, and ROG. Beyond a[ confirmation from Meta](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/) about a "limited-edition Meta Quest, inspired by Xbox," details are slim. But here's what we know and speculate about this first-ever VR Headset for Xbox.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Will the Xbox VR Headset Be Released? 
 
  The Xbox VR Headset release date hasn’t been announced yet, but judging by the announcements of the Meta Quest 2, Meta Quest Pro, and Meta Quest 3, we think it’s safe to expect an October release of the VR Headset for Xbox.
@@ -32,48 +36,22 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 
  We might know more availability specifics if and when the Meta Quest Gaming Showcase happens (no word yet about dates). Last year’s event was announced in May and held June 1.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  An early October 2024 Xbox VR Headset release date is a fair bet based on past Meta Quest releases.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Xbox VR Headset Price Rumors 
 
  Pricing information isn’t yet circulating, but we’ll make sure it lands here as soon as there’s more chatter or official word.
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="540" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  No pre-order details for the Xbox VR Headset are available at this point, though we know it’s billed as a limited-edition model. As soon as we learn more, we’ll update this story with details.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Xbox VR Headset Features 
 
  Much like everything else related to this forthcoming Xbox VR Headset, we’re still waiting on details about which features this device will offer. 
@@ -83,23 +61,15 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 ![Built with Meta Horizon OS label.](https://www.lifewire.com/thmb/8RsIhPXACIuKmLBSxjTJJGIZO_s=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/meta-horizon-os-announcement-1fea7d89b3e04280872bbe45b2a1afa6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Meta
 
 * **Signature Xbox design** : While not an official product rendering, the image Meta offered in its announcement about Meta Horizon OS shows a black and green VR headset, a hallmark color scheme across Xbox gaming consoles.
 * **Access to more content** : Another way Meta Horizon OS is expanding to third parties is by opening its Store to developers with software that meets basic requirements. The ultimate goal is that users will have access to and can play games on any headset built on Horizon OS.
 * **Game Pass and Xbox controller** : In an Instagram stream announcing Meta Horizon OS, Mark Zuckerberg also alluded to the inclusion of[ Game Pass](https://www.lifewire.com/xbox-game-pass-4178809) and an Xbox controller shipped with Xbox Horizon OS headsets.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Xbox VR Headset Specs and Hardware 
 
  There’s some speculation that the[ VR headset for Xbox will take shape mostly as a version of Meta Quest 3](https://www.theverge.com/2024/4/22/24137334/xbox-vr-headset-microsoft-meta-quest-limited-edition) . If that’s the case, we might see the following:
@@ -113,20 +83,16 @@ Meta
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%273000%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) ![Patent sketches for a Microsoft mixed-reality headset](https://www.lifewire.com/thmb/5-feBQK2PypVrm-2Vb0Dnc5tXUU=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Patent-Sketches-Microsoft-Headset-1fce31ef622f4dda9d9b741cf8446fa3.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  PHOTO:
 
 Microsoft / USPTO
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Latest News About the Xbox VR Headset 
 
@@ -146,8 +112,6 @@ Microsoft / USPTO
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +119,20 @@ Microsoft / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-facebooks-copyright-enforcement-on-live-feeds/"><u>[New] In 2024, Navigating Facebook's Copyright Enforcement on Live Feeds</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-art-of-drone-video-recording/"><u>[New] In 2024, The Art of Drone Video Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-7-high-impact-workout-videos-that-engage-and-energize-audiences/"><u>[Updated] In 2024, 7 High-Impact Workout Videos That Engage and Energize Audiences</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-creative-trail-steps-towards-thriving-as-a-designer/"><u>[Updated] In 2024, The Creative Trail Steps Towards Thriving as a Designer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-in-class-a-thorough-assessment-of-recuva-for-file-resurrection-and-safety/"><u>Best in Class: A Thorough Assessment of Recuva for File Resurrection and Safety</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-look-ups-for-gopro-movies-select-15-luts-for-2024/"><u>Best Look-Ups for GoPro Movies Select 15 LUTs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-stopping-unknown-numbers-from-disturbing-you-on-your-iphone/"><u>Easy Guide: Stopping Unknown Numbers From Disturbing You on Your iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-windows-11-file-transfers-that-halt/"><u>How to Resolve Windows 11 File Transfers That Halt</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-tapestry-transitions-loom-recording-steps/"><u>In 2024, Tapestry Transitions Loom Recording Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-soft-ending-sounds-in-premiere-pro/"><u>In 2024, The Art of Soft-Ending Sounds in Premiere Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfecting-video-frames-for-instagram-shares-for-2024/"><u>Perfecting Video Frames for Instagram Shares for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/qualified-macbook-users-rewarded-by-apple-in-landmark-class-action-resolution-zdnet/"><u>Qualified MacBook Users Rewarded by Apple in Landmark Class-Action Resolution - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-alternatives-to-skype-for-free-video-conferencing/"><u>The Best Alternatives to Skype for Free Video Conferencing</u></a></li>
+</ul></div>
 

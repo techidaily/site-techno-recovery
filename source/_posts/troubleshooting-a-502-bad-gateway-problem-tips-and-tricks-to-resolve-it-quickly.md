@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a 502 Bad Gateway Problem - Tips and Tricks to Resolve It Quickly
-date: 2024-11-27T23:37:17.142Z
-updated: 2024-12-04T16:13:02.235Z
+date: 2024-12-05T18:31:09.123Z
+updated: 2024-12-10T18:00:04.679Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting a 502 Bad Gateway Problem - Tips and Tricks to Resolve It Quickly
@@ -18,10 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -44,7 +40,7 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
@@ -52,7 +48,7 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
@@ -64,10 +60,14 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -76,7 +76,7 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Causes of the iPhone Not Ringing Problem
@@ -127,18 +127,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-key-fb-video-plays-for-optimal-engagement/"><u>[New] Key FB Video Plays for Optimal Engagement</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-selecting-audio-for-your-movie-trailer/"><u>[New] Selecting Audio for Your Movie Trailer</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-gamer-wealth-wave-the-year-ahead/"><u>[Updated] Gamer Wealth Wave The Year Ahead</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-step-by-step-guide-to-achieving-the-perfectly-loops-youtube-videos/"><u>2024 Approved Step-By-Step Guide to Achieving the Perfectly Loops YouTube Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-there-recent-updates-affecting-microsoft-teams-accessibility/"><u>Are There Recent Updates Affecting Microsoft Teams Accessibility?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/celebrating-life-across-languages-birthday-expressions/"><u>Celebrating Life Across Languages: Birthday Expressions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-make-excel-2016-hyperlinks-working-stellar-by-stellar-guide/"><u>Easy Steps to Make Excel 2016 Hyperlinks Working | Stellar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/forget-rice-apple-recommends-these-methods-to-revive-your-wet-smartphone-exclusive-guide/"><u>Forget Rice, Apple Recommends These Methods to Revive Your Wet Smartphone | Exclusive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-when-your-ipad-wont-recognize-the-printer/"><u>How to Fix When Your iPad Won't Recognize the Printer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-sonos-s2-with-the-latest-app-update-features-and-hidden-drawbacks-revealed-zdnet/"><u>Mastering Sonos S2 with the Latest App Update - Features & Hidden Drawbacks Revealed | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-wholesome-cooking-through-chatbot-assistance-is-chatgpt-the-key/"><u>Mastering the Art of Wholesome Cooking Through Chatbot Assistance: Is ChatGPT the Key?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-motorola-razr-40-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Motorola Razr 40</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-c53-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme C53 Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-add-music-in-premiere-pro/"><u>[New] 2024 Approved Add Music In Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2023-update-sony-bdp-s3700-in-depth-analysis/"><u>2023 Update Sony BDP-S3700 in Depth Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-level-3d-watching-ultimate-guide-to-blu-ray-players/"><u>2024 Approved Next-Level 3D Watching Ultimate Guide to Blu-Ray Players</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>2024 Approved Unleash Your Potential Top 6 Head-Mounted Cameras by GoPro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-apples-latest-powerhouses-mac-mini-with-m2-vs-mac-studio-on-m1-which-takes-the-crown/"><u>Comparing Apple's Latest Powerhouses: Mac Mini with M2 vs Mac Studio on M1 - Which Takes the Crown?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-video-editing-applications-our-expert-picks-for-top-software-solutions/"><u>Essential Video Editing Applications: Our Expert Picks for Top Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-an-insider-look-at-the-quirky-ultra-comfy-199-case-for-apple-vision-pro-a-surprising-find-by-zdnet/"><u>Get an Insider Look at the Quirky, Ultra-Comfy $199 Case for Apple Vision Pro - A Surprising Find by ZDNET!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-force-windows-to-restart-in-safe-mode/"><u>How to Force Windows to Restart in Safe Mode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-phantom-v-flip-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Phantom V Flip Without Password?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-picks-for-free-virtual-conferencing-and-screensharing-software/"><u>In 2024, Top Picks for FREE Virtual Conferencing & Screensharing Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-hack-how-to-program-and-schedule-outgoing-texts-with-ease/"><u>IPhone Hack: How to Program and Schedule Outgoing Texts with Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-acer-display-driver-software-free-download-now/"><u>Latest Acer Display Driver Software Free Download Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-productivity-leveraging-swift-operations-with-macos-finder-techrepublic/"><u>Maximize Productivity: Leveraging Swift Operations with MacOS Finder | TechRepublic</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/selecting-a-streamer-how-does-roku-express-stack-up-against-the-classic-stick/"><u>Selecting a Streamer: How Does Roku Express Stack Up Against the Classic Stick?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-discontinuing-your-apple-music-subscription-independently-from-itunes-insights/"><u>Step-by-Step Guide: Discontinuing Your Apple Music Subscription Independently From iTunes - Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transforming-raw-audio-into-high-quality-youtube-videos-for-2024/"><u>Transforming Raw Audio Into High-Quality YouTube Videos for 2024</u></a></li>
 </ul></div>
 

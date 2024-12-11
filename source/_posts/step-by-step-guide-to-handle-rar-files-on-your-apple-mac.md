@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Handle RAR Files on Your Apple Mac
-date: 2024-12-01T03:33:57.026Z
-updated: 2024-12-04T23:21:46.429Z
+date: 2024-12-06T04:17:52.282Z
+updated: 2024-12-10T23:59:25.408Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Handle RAR Files on Your Apple Mac
@@ -15,6 +15,11 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 >
 
 ## Revamp Your File Organizer's Appearance - Changing Folder Colors on a Mac
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * First,**copy** folder >**Preview app** \> go to**File** \>**New from Clipboard** \>**Markup tool** icon.
@@ -34,7 +39,7 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 * **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Folder Color on Mac Using Preview
@@ -50,7 +55,7 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
@@ -62,22 +67,14 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 ![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
 8. Select the**Markup tool** (looks like the tip of a pencil).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
 9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
@@ -86,13 +83,13 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 ![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
 12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 13. Click the folder in the Folder Info box, and press**Command+V** .  
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Customizing Folders With Images and Icons
 
@@ -101,6 +98,10 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
  Instead of pasting a copy of your original folder into Preview, you need to open a photo or icon with Preview, and copy it. You can then paste it into the Folder Info box just like you did in step 11 above.
 
  These steps will replace the original folder icon with a custom photo or any other icon you like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Changing Folder Colors on Mac With Apps
 
@@ -146,22 +147,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/kyrocketing-subscribers-on-youtube-step-by-step/"><u>[New] Skyrocketing Subscribers on YouTube Step-by-Step</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free-for-2024/"><u>[Updated] From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-capturing-attention-the-power-of-these-top-10-tags/"><u>2024 Approved Capturing Attention The Power of These Top 10 Tags</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-laptops-showdown-in-depth-comparison-of-macbook-pro-and-macbook-air-for-optimal-user-satisfaction/"><u>Apple Laptops Showdown: In-Depth Comparison of MacBook Pro and MacBook Air for Optimal User Satisfaction</u></a></li>
-<li><a href="https://win11.techidaily.com/audio-amplifiers-4-essential-tools-that-push-pc-sounds-past-100/"><u>Audio Amplifiers: 4 Essential Tools that Push PC Sounds Past 100%</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-adolescent-adventures-available-on-netflix/"><u>Best Adolescent Adventures Available on Netflix</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-apples-newly-enhanced-carplay-top-features-unveiled-at-wwdc-2024-covered/"><u>Discover Apple's Newly Enhanced CarPlay: Top Features Unveiled at WWDC 2024 Covered</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-to-address-and-repair-forza-horizon-3s-pc-crash-problem/"><u>Effective Ways to Address and Repair Forza Horizon 3'S PC Crash Problem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-ios-18-on-iphone-14-a-game-changer-for-effortless-digital-media-production-techspot/"><u>Exploring iOS 18 on iPhone 14: A Game-Changer for Effortless Digital Media Production | TechSpot</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-time-to-switch-a-detailed-analysis-of-iphone-16-vs-iphone-15-before-you-trade-in-cnet/"><u>Is It Time to Switch? A Detailed Analysis of iPhone 16 Vs. IPhone 15 Before You Trade In | CNET</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reactivate-your-iphones-standby-4-proven-fixes-for-better-battery-management/"><u>Reactivate Your iPhone's Standby: 4 Proven Fixes for Better Battery Management</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionary-apple-campaign-challenges-leading-internet-browser-a-deep-dive-into-their-new-approach-digitalworld-chronicles/"><u>Revolutionary Apple Campaign Challenges Leading Internet Browser - A Deep Dive Into Their New Approach | DigitalWorld Chronicles</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-resolve-error-0x80041015-in-ms-word-and-excel/"><u>Strategies to Resolve Error 0X80041015 in MS Word & Excel</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-insiders-blueprint-on-scoring-free-access-to-netflix-streams/"><u>The Insider's Blueprint on Scoring Free Access to Netflix Streams</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-14-engaging-text-movies-for-creative-experimentation-for-2024/"><u>Top 14 Engaging Text Movies for Creative Experimentation for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-boosting-your-iphones-audio-during-calls/"><u>Troubleshooting Tips: Boosting Your iPhone's Audio During Calls</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-wolfenstein-2-no-start-windows-compatibility/"><u>[CORRECTED] Wolfenstein 2 No Start - Windows Compatibility</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-secure-photos-the-best-apps-decoded/"><u>[New] Secure Photos The Best Apps Decoded</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-screencapture-essential-techniques-for-2024/"><u>[Updated] Mastering ScreenCapture Essential Techniques for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-the-hype-the-reasons-behind-not-choosing-an-iphone-16-despite-advanced-apple-ai/"><u>Avoiding the Hype: The Reasons Behind Not Choosing an iPhone 16, Despite Advanced Apple AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-big-apple-barriers-a-guide-to-personal-success/"><u>Bypassing Big Apple Barriers: A Guide to Personal Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-inbox-with-this-uncomplicated-email-hack-no-extra-accounts-needed/"><u>Simplify Your Inbox with This Uncomplicated Email Hack – No Extra Accounts Needed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-to-fix-a-black-screen-on-facetime-connections/"><u>Step-by-Step Solutions to Fix a Black Screen on FaceTime Connections</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-lava-blaze-curve-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Lava Blaze Curve 5G Location | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-i-prefer-apples-miniature-marvel-the-iphone-16-pro-over-the-max-variant-a-closer-look-by-zdnet/"><u>Why I Prefer Apple's Miniature Marvel: The iPhone 16 Pro Over the Max Variant - A Closer Look by ZDNet</u></a></li>
 </ul></div>
 

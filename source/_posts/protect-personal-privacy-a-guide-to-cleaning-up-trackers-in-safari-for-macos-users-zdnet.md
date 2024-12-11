@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Privacy: A Guide to Cleaning Up Trackers in Safari for macOS Users | ZDNet"
-date: 2024-11-30T06:56:07.662Z
-updated: 2024-12-04T21:47:43.012Z
+date: 2024-12-09T06:16:38.034Z
+updated: 2024-12-10T19:59:55.954Z
 tags:
   - apple
 categories:
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,14 +119,24 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-strategies-to-make-your-video-stand-out-with-effective-end-screens/"><u>[Updated] Step-by-Step Strategies to Make Your Video Stand Out with Effective End Screens</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-enabling-autoplay-youtube-without-alerts/"><u>2024 Approved Enabling Autoplay YouTube Without Alerts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-restroom-to-results-streamlined-health-screening-techniques-unveiled-at-zdnet/"><u>From Restroom to Results: Streamlined Health Screening Techniques Unveiled at ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-the-infamous-code-31-error-on-your-pc/"><u>Step-by-Step Guide: Correcting the Infamous Code 31 Error on Your PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-creative-dall-e-3-image-generation-ideas/"><u>Top 8 Creative DALL-E 3 Image Generation Ideas</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-businesses-with-apple-vision-pro-5-leading-organizations-showcase-success-stories-powered-by-zdnet-analysis/"><u>Transforming Businesses with Apple Vision Pro: 5 Leading Organizations Showcase Success Stories | Powered by ZDNET Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-heat-in-windows-11-pcs/"><u>Troubleshooting Heat in Windows 11 PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unbeatable-apple-watch-savings-top-picks-from-july-2024/"><u>Unbeatable Apple Watch Savings: Top Picks From July 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xpert-tips-for-crafting-immersive-soundscapes-in-youtube-for-2024/"><u>[New] Expert Tips for Crafting Immersive Soundscapes in YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-videos-on-facebook-the-transfer-guide/"><u>[New] In 2024, Twitter Videos on Facebook The Transfer Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-list-of-15-youtube-openers/"><u>[Updated] 2024 Approved The Ultimate List of 15 YouTube Openers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choose-wisely-a-focus-on-7-important-aspects-of-motherboards/"><u>Choose Wisely: A Focus on 7 Important Aspects of Motherboards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comparing-the-macbook-pro-and-air-retina-advantages-and-disadvantages-revealed/"><u>Comparing the MacBook Pro and Air Retina: Advantages and Disadvantages Revealed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/crucial-aspects-for-your-next-dash-cam-decision/"><u>Crucial Aspects for Your Next Dash Cam Decision</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cutting-edge-techniques-for-captivate-content/"><u>Cutting-Edge Techniques for Captivate Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-intrigue-of-apples-hidden-homeos-in-new-tv-software-what-developers-need-to-know-zdnet-reports/"><u>Exploring the Intrigue of Apple's Hidden 'homeOS' In New TV Software: What Developers Need to Know | ZDNet Reports</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-time-to-pre-order-the-apple-vision-pro-answer-these-crucial-5-questions-first-insights/"><u>Is It Time to Pre-Order the Apple Vision Pro? Answer These Crucial 5 Questions First - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/june-2024s-most-unbeatable-best-buy-deals-revealed-by-zdnet/"><u>June 2024'S Most Unbeatable Best Buy Deals Revealed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/labor-day-blowout-score-the-2nd-gen-apple-pencil-for-just-95-limited-time-deal-on-zdnet/"><u>Labor Day Blowout! Score the 2Nd Gen Apple Pencil for Just $95 – Limited Time Deal on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-airpod-maintenance-the-right-time-for-a-reset-expert-advice-by-zdnet/"><u>Mastering AirPod Maintenance: The Right Time for a Reset | Expert Advice by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-devices-the-crucial-fix-for-airtags-flawed-battery-safety-feature/"><u>Protect Your Devices: The Crucial Fix for AirTags’ Flawed Battery Safety Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-audio-on-a-budget-how-the-new-beats-solo-earbuds-challenge-airpods-pricing-expert-analysis/"><u>Revolutionizing Audio on a Budget: How the New Beats Solo Earbuds Challenge AirPods Pricing | Expert Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-get-canon-pro-100-up-and-running-on-windows/"><u>Step-by-Step Tutorial: Get Canon PRO 100 Up and Running on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-honor-x50i-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor X50i Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-windows-movie-maker-tutorial-from-beginner-to-pro/"><u>Updated In 2024, Windows Movie Maker Tutorial From Beginner to Pro</u></a></li>
 </ul></div>
 

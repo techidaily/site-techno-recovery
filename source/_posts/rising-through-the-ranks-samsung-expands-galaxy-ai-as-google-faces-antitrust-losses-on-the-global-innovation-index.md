@@ -1,7 +1,7 @@
 ---
 title: "Rising Through the Ranks: Samsung Expands Galaxy AI as Google Faces Antitrust Losses on the Global Innovation Index"
-date: 2024-11-28T23:35:57.532Z
-updated: 2024-12-05T09:23:54.122Z
+date: 2024-12-03T18:35:24.880Z
+updated: 2024-12-10T17:43:46.625Z
 tags:
   - apple
 categories:
@@ -71,25 +71,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-compilation-of-top-10-budget-friendly-photo-savers/"><u>[Updated] Exclusive Compilation of Top 10 Budget-Friendly Photo Savers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-navigating-your-way-through-macos-11-big-sur-upgrade-for-2024/"><u>[Updated] Navigating Your Way Through macOS 11 Big Sur Upgrade for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfected-pixel-panache-packages/"><u>2024 Approved Perfected Pixel Panache Packages</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/through-techniques-in-youtube-content-creation/"><u>Breakthrough Techniques in YouTube Content Creation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/compact-computing-giants-the-ultimate-list-of-portable-gaming-machines/"><u>Compact Computing Giants: The Ultimate List of Portable Gaming Machines</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-affordable-iphone-14plus-with-unbeatable-all-day-battery-performance-top-reasons-to-choose-this-gem/"><u>Discover the Affordable iPhone 14+ With Unbeatable All-Day Battery Performance – Top Reasons to Choose This Gem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-why-experts-recommend-switching-to-iphone-16-the-essential-four-features-you-cant-miss-technology-today/"><u>Discover Why Experts Recommend Switching to iPhone 16: The Essential Four Features You Can't Miss | Technology Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-look-at-iphones-latest-safety-upgrade-in-ios-18-messages-ai-free-tech-insights-on-zdnet/"><u>Exclusive Look at iPhone’s Latest Safety Upgrade in iOS 18 Messages (AI-Free) | Tech Insights on ZDNET</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-techniques-optimizing-obs-streams-for-your-fb-audience/"><u>Expert Techniques Optimizing OBS Streams for Your FB Audience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oneplus-nord-n30-se-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked OnePlus Nord N30 SE Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/six-pivotal-reasons-for-picking-arabic-and-mondly/"><u>Six Pivotal Reasons for Picking Arabic & Mondly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fix-dnssddll-missing-or-mismatched-errors/"><u>Step-by-Step Guide to Fix dnssd.dll Missing or Mismatched Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-to-turn-off-the-windows-11-news-feature/"><u>Steps to Turn Off the Windows 11 News Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-windows-10-power-and-sleep-settings-a-comprehensive-guide/"><u>Understanding the Windows 10 Power & Sleep Settings: A Comprehensive Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unleashing-creativity-quick-lens-building-on-snapchat-for-2024/"><u>Unleashing Creativity Quick Lens Building on Snapchat for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-acoustic-architects-leading-sites-to-buy-skype-tones/"><u>[New] In 2024, Acoustic Architects Leading Sites to Buy Skype Tones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-on-set-questions-answered-quickly/"><u>[New] In 2024, On-Set Questions Answered Quickly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-achieving-prominence-in-online-gaming-content/"><u>[Updated] In 2024, Achieving Prominence in Online Gaming Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-tech-basics-essential-equipment-guide/"><u>[Updated] YouTube Tech Basics Essential Equipment Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-zooming-in-enhance-your-tiktok-videos/"><u>2024 Approved Zooming In Enhance Your TikTok Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/battle-of-the-titans-how-to-decide-between-a-google-pixel-watch-and-an-apple-watch-series-nine-for-unmatched-smartwatch-excellence/"><u>Battle of the Titans: How to Decide Between a Google Pixel Watch and an Apple Watch Series Nine for Unmatched Smartwatch Excellence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-list-18-premier-freeware-video-compressors-for-pc-and-mac/"><u>Discover the Ultimate List: 18 Premier Freeware Video Compressors for PC and Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/essential-list-critical-6-fb-lite-downloads-for-2024/"><u>Essential List Critical 6 FB Lite Downloads for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-adding-several-locations-with-pin-drops-on-google-maps/"><u>Guide: Adding Several Locations with Pin Drops on Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apples-cutting-edge-artificnial-intelligence-elevates-siri-and-customizes-user-experience-on-the-home-screen-expert-analysis-by-zdnet/"><u>How Apple's Cutting-Edge Artificnial Intelligence Elevates Siri and Customizes User Experience on the Home Screen | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Smart 7 HD</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pixiz-masterclass-merging-photography-and-motion-for-2024/"><u>Pixiz Masterclass Merging Photography and Motion for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tiny-but-mighty-exploring-performance-and-portability-of-apples-latest-m4-powered-mac-mini-tech-insights-on-zdnet/"><u>Tiny but Mighty: Exploring Performance & Portability of Apple's Latest M4-Powered Mac Mini | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-iphone-devices-unveiled-by-tech-experts-comprehensive-reviews/"><u>Top-Ranking iPhone Devices Unveiled by Tech Experts - Comprehensive Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-non-functional-search-in-windows-10/"><u>Troubleshooting Non-Functional Search in Windows 10?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-eradicating-permanent-display-impressions-on-screens/"><u>Ultimate Guide: Eradicating Permanent Display Impressions on Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-our-selection-of-leading-learning-applications/"><u>Unveiling Our Selection of Leading Learning Applications</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

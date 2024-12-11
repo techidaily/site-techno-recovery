@@ -1,7 +1,7 @@
 ---
 title: Apple Targets Top Browser with Bone-Chilling Campaign Revealed
-date: 2024-12-01T03:10:07.464Z
-updated: 2024-12-04T21:18:44.867Z
+date: 2024-12-10T01:14:34.938Z
+updated: 2024-12-11T09:17:33.171Z
 tags:
   - apple
 categories:
@@ -73,18 +73,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-video-size-adjustments-on-igtv-for-2024/"><u>[New] Mastering Video Size Adjustments on IGTV for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-seamless-printing-with-the-latest-hp-officejet-pro-9015-drivers-download/"><u>Ensure Seamless Printing with the Latest HP Officejet Pro 9015 Drivers Download</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-and-most-effective-android-watch-apps/"><u>Essential and Most Effective Android Watch Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-for-taskbar-implementation-in-windows-11-tablets/"><u>Essential Steps for Taskbar Implementation in Windows 11 (Tablets)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/future-proofing-communication-apple-bolsters-imessage-security-for-upcoming-challenges/"><u>Future-Proofing Communication: Apple Bolsters iMessage Security for Upcoming Challenges</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-the-perfect-footage-editor-hero-vs-the-cube/"><u>In 2024, Selecting the Perfect Footage Editor Hero Vs. The Cube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-update-version-1751-fixes-weird-glitch-bringing-back-archived-images-tech-insights-zdnet/"><u>IOS Update Version 17.5.1 Fixes Weird Glitch Bringing Back Archived Images - Tech Insights | ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-your-conversations-gpt-plus-a-premium-plan-for-us-citizens-20mth/"><u>Master Your Conversations: GPT-Plus, a Premium Plan for US Citizens ($20/Mth)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-face-swapping-features-the-hidden-trick-to-transform-your-apple-watch-selfies-insights/"><u>Unlocking Face-Swapping Features: The Hidden Trick to Transform Your Apple Watch Selfies - Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-android-video-capture-the-best-5-picks-for-2024/"><u>[New] Essential Android Video Capture The Best 5 Picks for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-prime-viewer-iosandroidwindows-compatible-for-2024/"><u>[Updated] Prime Viewer IOS/Android/Windows Compatible for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-rush-release-channeling-playlist-hits-online-for-2024/"><u>[Updated] Rush Release Channeling Playlist Hits Online for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-backdrops-setting-the-stage-for-streaming/"><u>2024 Approved Excellent Backdrops Setting the Stage for Streaming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-filmmakers-must-visit-list-free-visual-effect-and-editing-websites-reviewed/"><u>A Filmmaker's Must-Visit List Free Visual Effect & Editing Websites Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-dvr-technology-exploring-features-and-benefits/"><u>All About DVR Technology: Exploring Features and Benefits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-event-highlights-exploring-anticipated-features-of-siri-ios-18-at-todays-wwdc-presentation-tech-innovations-blog/"><u>Apple Event Highlights: Exploring Anticipated Features of Siri, iOS 18 at Today's WWDC Presentation | Tech Innovations Blog</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-top-16-gratuitous-online-sign-language-courses/"><u>Discover Top 16 Gratuitous Online Sign Language Courses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-for-free-the-15-leading-antivirus-utilities-in-image-format-we-suggest/"><u>Download for Free: The 15 Leading Antivirus Utilities in Image Format We Suggest</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/eight-in-one-recorders-free-fast-and-flexible-for-android-users/"><u>Eight-in-One Recorders Free, Fast, and Flexible for Android Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-9a-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-add-bots-to-your-discord-channels/"><u>How To Seamlessly Add Bots to Your Discord Channels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-avoid-abrupt-jumps-perfecting-inshot-transitions/"><u>In 2024, Avoid Abrupt Jumps Perfecting Inshot Transitions</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-disk-space-wisely-recognizing-huge-file-and-folder-use/"><u>Managing Disk Space Wisely: Recognizing Huge File & Folder Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-why-your-mac-isnt-recognizing-an-outside-monitor/"><u>Solving the Issue: Why Your Mac Isn't Recognizing an Outside Monitor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-budget-friendly-notebook-bargains-in-july-2024-explore-the-latest-offers/"><u>Top Rated Budget-Friendly Notebook Bargains in July 2024 - Explore the Latest Offers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-biking-adventures-with-smart-photochromic-glasses-a-game-changing-hud-feature-reviewed/"><u>Transforming Biking Adventures with Smart Photochromic Glasses: A Game-Changing HUD Feature Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-privacy-with-vpns-on-apple-vision-pro-a-comprehensive-walkthrough-and-its-advantages-digitalguardian/"><u>Unlocking Privacy with VPNs on Apple Vision Pro: A Comprehensive Walkthrough and Its Advantages | DigitalGuardian</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-guide-to-isolating-and-removing-audio-tracks-in-video-editing-using-premiere-pro/"><u>Updated 2024 Approved Guide to Isolating and Removing Audio Tracks in Video Editing Using Premiere Pro</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

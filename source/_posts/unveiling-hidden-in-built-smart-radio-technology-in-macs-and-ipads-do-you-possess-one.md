@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden In-Built Smart Radio Technology in Macs & iPads: Do You Possess One?"
-date: 2024-11-28T16:09:36.640Z
-updated: 2024-12-05T03:47:02.806Z
+date: 2024-12-05T18:22:06.563Z
+updated: 2024-12-11T10:35:19.476Z
 tags:
   - apple
 categories:
@@ -58,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
@@ -75,7 +71,7 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Access the Apple FCC database
@@ -86,19 +82,11 @@ You can access the Apple FCC database by clicking [FCC.Report/company/Apple](htt
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Click on the device's report
 
 Clicking on the device's report will bring up a list of all the reports created for the device available through the FCC.
 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Find the Thread testing report
 
@@ -106,11 +94,11 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Thread?
 
@@ -136,6 +124,10 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why would Apple give some iPads and Macs Thread radios and not all?
 
 No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](https://fcc.report/FCC-ID/BCGA2902/) or the [13-inch M3 Macbook Air](https://fcc.report/FCC-ID/BCGA3113/). This doesn't guarantee that a Thread radio isn't included in these devices, but Apple likely used a simpler chip for these starter models.
@@ -152,6 +144,10 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the iPad a smart home hub?
 
 Not currently. The iPad used to be a smart home hub for HomeKit, but iPadOS 16 removed this capability. With that software update, Apple upgraded the Home app significantly and stopped supporting the iPad for new HomeKit features and automations. 
@@ -163,6 +159,10 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -204,22 +204,22 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-10-nintendo-switch-fighting-games/"><u>[New] 2024 Approved Top 10 Nintendo Switch Fighting Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-apple-watchs-battery-performance-with-these-8-key-setting-tweaks/"><u>Boost Your Apple Watch's Battery Performance with These 8 Key Setting Tweaks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/comprehensively-understanding-instagram-video-restrictions-for-2024/"><u>Comprehensively Understanding Instagram Video Restrictions for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-alternative-to-rice-for-saving-water-damaged-iphones-as-recommended-by-apple/"><u>Effective Alternative to Rice for Saving Water-Damaged iPhones, as Recommended by Apple</u></a></li>
-<li><a href="https://techtrends.techidaily.com/evolving-excellence-apple-unveils-the-upgraded-mac-studio-beyond-the-classic-mac-mini/"><u>Evolving Excellence: Apple Unveils the Upgraded Mac Studio, Beyond the Classic Mac Mini</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-implications-of-apples-tandem-oled-on-future-tablet-screen-innovations-insights/"><u>Exploring the Implications of Apple's Tandem OLED on Future Tablet Screen Innovations: Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/extend-your-apple-watchs-lifeline-discover-the-ultimate-8-settings-tweaks-for-enhanced-battery-performance-by-tech-experts-at-zdnet/"><u>Extend Your Apple Watch's Lifeline: Discover the Ultimate 8 Settings Tweaks for Enhanced Battery Performance by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fast-and-economical-snag-your-elegoo-neptune-4-pro-today-for-up-to-20-quicker-and-save-75/"><u>Fast & Economical: Snag Your Elegoo Neptune 4 Pro Today for Up to 20% Quicker and Save $75</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-silence-to-serenades-how-to-transform-your-living-room-into-a-karaoke-hotspot/"><u>From Silence to Serenades: How to Transform Your Living Room Into a Karaoke Hotspot</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 15 Plus?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-xbox-game-pass-ultimate-a-swift-introduction-to-cloud-gaming-mastery/"><u>Navigating Xbox Game Pass Ultimate: A Swift Introduction to Cloud Gaming Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premier-6-titans-the-mega-model-arena/"><u>Premier 6 Titans: The Mega-Model Arena</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-affordable-mobile-phone-plans/"><u>Top 7 Affordable Mobile Phone Plans</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-a79-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo A79 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vector-graphics-innovation-top-apps-to-transform-your-creations/"><u>Vector Graphics Innovation Top Apps to Transform Your Creations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/wireless-watch-enabling-disneyplus-casting-feature-on-chromecast-devices/"><u>Wireless Watch: Enabling Disney+ Casting Feature on Chromecast Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-visual-verdict-top-8k-tvs-reviewed-and-rated-thoroughly/"><u>[New] 2024 Approved Visual Verdict Top 8K TVs Reviewed & Rated Thoroughly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-film-at-a-leisurely-pace-with-your-iphone/"><u>[Updated] Film at a Leisurely Pace with Your iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-and-leveraging-influencers-on-snapchat/"><u>[Updated] Understanding and Leveraging Influencers on Snapchat</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-vibrance-in-video-summaries-with-neons-on-thumbnails/"><u>[Updated] Unleash Vibrance in Video Summaries with Neons on Thumbnails</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chromecast-noise-trouble-heres-how-to-get-the-volume-back/"><u>Chromecast Noise Trouble? Here's How to Get the Volume Back!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-ultimate-selection-of-mac-applications-curated-by-zdnet/"><u>Explore the Ultimate Selection of Mac Applications - Curated by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-the-world-of-mp3s-an-in-depth-look-at-digital-music-formats/"><u>Exploring the World of MP3s: An In-Depth Look at Digital Music Formats</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-direct-transfer-of-youtube-playlists-stepwise-processing/"><u>In 2024, Direct Transfer of YouTube Playlists - Stepwise Processing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-x-fold-2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo X Fold 2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-naar-aac-konverteren-vrije-onlinelastigheid-movivid/"><u>MP3 Naar AAC Konverteren Vrije Onlinelastigheid - MoviVid</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722884429771-navigating-the-digital-world-must-have-gadgets-including-laptops-and-smartphones-and-your-next-book/"><u>Navigating the Digital World: Must-Have Gadgets Including Laptops & Smartphones & Your Next Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/proper-acknowledgment-techniques-crediting-ai-sources-like-chatgpt/"><u>Proper Acknowledgment Techniques: Crediting AI Sources Like ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlining-your-facebook-memories-how-to-add-multiple-photos-at-once/"><u>Streamlining Your Facebook Memories: How to Add Multiple Photos at Once</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-defense-elite-selection-of-iphone-16-and-pro-cases-for-2am-year-official-reviews-and-rankings/"><u>Ultimate Defense: Elite Selection of iPhone 16 & Pro Cases for 2Am Year, Official Reviews & Rankings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-2024s-leading-wireless-charger-picks-expert-ratings-and-reviews/"><u>Ultimate Guide to 2024'S Leading Wireless Charger Picks: Expert Ratings & Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-walkthrough-sending-messages-and-updates-via-apple-watch-for-easy-family-communication/"><u>ZDNet's Ultimate Walkthrough: Sending Messages & Updates via Apple Watch for Easy Family Communication</u></a></li>
 </ul></div>
 

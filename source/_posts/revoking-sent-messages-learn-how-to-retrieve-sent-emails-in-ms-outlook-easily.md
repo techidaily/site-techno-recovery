@@ -1,7 +1,7 @@
 ---
 title: Revoking Sent Messages? Learn How to Retrieve Sent Emails in MS Outlook Easily!
-date: 2024-09-04T00:27:40.396Z
-updated: 2024-09-05T00:27:40.396Z
+date: 2024-12-09T10:04:49.418Z
+updated: 2024-12-10T19:49:42.650Z
 categories:
   - BestProducts
 description: This Article Describes Revoking Sent Messages? Learn How to Retrieve Sent Emails in MS Outlook Easily!
@@ -25,6 +25,11 @@ thumbnail: https://www.lifewire.com/thmb/pyjnfgaLVO9_AU3Ypujx7HQS4Uc=/400x300/fi
 1. Open Settings, then select**Personalization** on the left, followed by**Fonts** on the right. Another way to get there is through the Run command:**ms-settings:fonts** .  
 ![The Personalization settings in Windows 11](https://www.lifewire.com/thmb/SJdYi81a1Rm29jJ6p7V24JP49ss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/personalization-settings-windows-11-83afd8d0867d4d39a1b87dff59dd8fae.png)
 2. Scroll down to**Available fonts** , and find and select the font you're interested in using.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't see the font you want, you can take this time to download it. Lots of websites have free fonts, but you can also[buy fonts online](https://www.lifewire.com/buy-fonts-for-desktop-publishing-1077714) . Then, return to this area of Settings to see it. Our[How to Install Fonts in Windows 11](https://www.lifewire.com/install-fonts-in-windows-11-5192443) guide can help if you need it.
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
@@ -43,21 +48,29 @@ thumbnail: https://www.lifewire.com/thmb/pyjnfgaLVO9_AU3Ypujx7HQS4Uc=/400x300/fi
 5. In the last line of the document, replace**Franklin Gothic Medium** with the name of the font you recorded in Step 3 (keep the quotes around the name).  
 ![Franklin Gothic Medium highlighted in Windows Notepad with REG file contents](https://www.lifewire.com/thmb/5UM6sKcUZ5_xlc9vkHeFpUtlwpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-change-the-font-in-windows-11-6827640-babf346069c14d8caa00e4c43d7992b6.jpg)
 6. If you're using Notepad, go to**File** \>**Save as** , and type a name in the**File name** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Choose**All files** from the**Save as type** menu.
 8. Type**.reg** at the end of the file name. Our example reads**Franklin Gothic.reg** , but yours can be called whatever you want; just make sure it ends with that file extension.
 9. Choose a folder on your computer to save the file (the Desktop folder works), and then select**Save** .  
 ![FranklinGothic.reg and Save highlighted in a Notepad document with REG file extension](https://www.lifewire.com/thmb/4p0dmSoOCDSVSqxK6o9QnPtNX1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-change-the-font-in-windows-11-6827640-9563197f19ae4d848482def07b741adc.jpg)
 10. Close the text editor, and then double-click or double-tap the REG file from the folder you just saved it to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Press**Yes** on the User Account Control window, then**Yes** again on the Registry Editor prompt (pictured below), and finally**OK** on the success message.  
 ![Yes highlighted in the Registry Editor prompt in Windows 11](https://www.lifewire.com/thmb/tViUCj2SD1eHRKNxSY2gP3-IusQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-change-the-font-in-windows-11-6827640-acbf618a85854ff58bb4ca6f3a0d7384.jpg)
 12. [Reboot your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see the font changes. The quickest method is to right-click the Start button and go to**Shut down or sign out** \>**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Changing the System Font Do?
 
  Changing the computer font in Windows 11 will switch up the way text looks throughout the operating system. Desktop icon text and the links in Control Panel are a couple of examples, but it's most obvious in other areas, such as the Run dialog box.
@@ -65,21 +78,13 @@ thumbnail: https://www.lifewire.com/thmb/pyjnfgaLVO9_AU3Ypujx7HQS4Uc=/400x300/fi
 ![Windows 11 font type change in Run and Control Panel](https://www.lifewire.com/thmb/eN6m7hD9Mgh_sWhJB-Jl9QOeR2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-changed-font-type-control-panel-run-desktop-365bc4a2e315498f96aa4115713f7d59.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, not every part of Windows will change to the new font. All the text within Settings, Start menu, Clock, Quick Settings, and numerous other areas aren't affected.
 
 [Troubleshooting Installed Fonts That Won't Work](https://www.lifewire.com/cant-use-installed-fonts-1074154)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restore the Default Font in Windows 11
 
  The best way to get the original Windows 11 font back is to reverse the registry tweak that changed it in the first place. To do that, repeat the steps from above, but replace the Notepad text with different code.
@@ -117,12 +122,6 @@ thumbnail: https://www.lifewire.com/thmb/pyjnfgaLVO9_AU3Ypujx7HQS4Uc=/400x300/fi
 
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Changing Other Fonts in Windows 11
 
  The method outlined in this article isn't how it typically works when you want to use a new font in Windows. The directions explained above are unique for two reasons: Windows doesn't have a built-in way to change the system font, and you're changing the_system_ font, not just the font type for a single app.
@@ -166,8 +165,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +172,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-innovative-streamer-titling-cutting-through-the-clutter/"><u>[Updated] Innovative Streamer Titling Cutting Through the Clutter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722856765435-android-blackout-heres-how-to-restore-your-devices-visibility/"><u>Android Blackout? Here's How to Restore Your Device's Visibility!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-hdcp-errors-insightful-explanation-and-step-by-step-fixes/"><u>Demystifying HDCP Errors: Insightful Explanation and Step-by-Step Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-boundaries-of-mobile-connectivity-with-metro-by-t-mobile-nationwide-coverage/"><u>Explore the Boundaries of Mobile Connectivity with Metro by T-Mobile Nationwide Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-the-new-ipad-software-patch-resolves-the-quirky-issue-of-restored-deleted-photos-ios-1751-tech-analysis-by-zdnet/"><u>How the New iPad Software Patch Resolves the Quirky Issue of Restored Deleted Photos (iOS 17.5.1) | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-personal-monitoring-by-apples-airtag-expert-guide/"><u>Identifying Personal Monitoring by Apple's AirTag - Expert Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blitz-photo-screening-for-windows-users/"><u>In 2024, Blitz Photo Screening for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-techniques-faking-your-mobiles-geographic-locations-with-ease/"><u>In-Depth Techniques: Faking Your Mobile's Geographic Locations with Ease</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nalizing-public-vs-private-settings-on-youtube/"><u>Personalizing Public vs Private Settings on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-apple-watch-usage-with-8-key-battery-saving-tweaks-detailed-guide/"><u>Revolutionize Apple Watch Usage with 8 Key Battery Saving Tweaks - Detailed Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/solved-how-to-fix-the-stardew-valley-game-crash-issue/"><u>Solved! How to Fix the Stardew Valley Game Crash Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-accepting-an-icloud-photo-sharing-album-request-on-your-iphone/"><u>Step-by-Step Guide: Accepting an iCloud Photo Sharing Album Request on Your iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-manual-on-deleting-a-defunct-linkedin-profile/"><u>The Complete Manual on Deleting a Defunct LinkedIn Profile</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-top-8-choices-mirrorless-cameras-for-excellent-vlogs-for-2024/"><u>The Top 8 Choices Mirrorless Cameras for Excellent Vlogs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-streaming-online-content-on-your-tv-setup/"><u>The Ultimate Tutorial: Streaming Online Content on Your TV Setup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-10-essential-animation-software-for-modern-education-for-2024/"><u>Updated 10 Essential Animation Software for Modern Education for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/user-reviews-and-insights-on-mapmyride-platform/"><u>User Reviews & Insights on MapMyRide Platform</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-music-recovery-recover-deleted-music-from-xiaomi-by-fonelab-android-recover-music/"><u>Xiaomi Music Recovery - Recover Deleted Music from Xiaomi</u></a></li>
+</ul></div>
 

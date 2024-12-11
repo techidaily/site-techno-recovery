@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Bike Ride: How Photo-Adaptive Lenses and Cutting-Edge Display Technology Changed the Game"
-date: 2024-12-04T06:36:10.431Z
-updated: 2024-12-05T04:29:43.057Z
+date: 2024-12-08T01:59:01.271Z
+updated: 2024-12-11T03:42:52.175Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -52,10 +52,6 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Foldables are getting better (and cheaper)
 
 The Motorola Razr 2023 was the most affordable foldable phone last year, selling for as low as $499.
@@ -71,6 +67,10 @@ Now that the major players have entered the competition, the big question this y
 "Foldable products have a structure that is inevitably expensive compared to general bar types, even in terms of display alone," adds Jene Park, senior analyst at Counterpoint Research.
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
 
@@ -89,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -111,7 +111,7 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -168,20 +168,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-sound-selection-secrets-top-7-free-effects-for-youtube/"><u>[New] 2024 Approved Sound Selection Secrets Top 7 Free Effects for YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-crafting-unique-composition-through-montages-for-2024/"><u>[New] Crafting Unique Composition Through Montages for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-how-to-navigate-the-treasure-trove-of-pexels-picture-paradise/"><u>[Updated] In 2024, How to Navigate the Treasure Trove of Pexels' Picture Paradise</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-best-practices-for-fb-video-advertising-for-2024/"><u>[Updated] Navigating the Best Practices for FB Video Advertising for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-smart-strategies-for-securely-saving-movie-moments-across-gadgets/"><u>[Updated] Smart Strategies for Securely Saving Movie Moments Across Gadgets</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dyson-unveils-ontrac-wireless-a-potential-challenger-to-apples-airpods-pro-explore-the-innovation/"><u>Dyson Unveils OnTrac Wireless: A Potential Challenger to Apple's AirPods Pro? - Explore the Innovation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-extract-drm-from-azw4-ebooks-a-comprehensive-guide/"><u>How to Extract DRM From AZW4 eBooks: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/m3-or-m2-macbook-air-expert-review-and-buyers-guide-to-determine-apples-newest-laptop-contender/"><u>M3 or M2 MacBook Air? Expert Review & Buyer’s Guide to Determine Apple's Newest Laptop Contender</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-like-a-pro-the-finest-5-gps-apps-for-iphones-unveiled/"><u>Navigate Like a Pro: The Finest 5 GPS Apps for iPhones Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/preserve-your-iphone-articles-pristine-appearance-with-these-three-must-have-accessories-insights-from-zdnet/"><u>Preserve Your iPhone ([Article])'s Pristine Appearance with These Three Must-Have Accessories - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionary-non-brick-design-the-new-magsafe-battery-pack-with-rapid-charging-capabilities/"><u>Revolutionary Non-Brick Design: The New MagSafe Battery Pack with Rapid Charging Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-successful-printer-driver-updates-on-dells-2330-series-monochrome-lasers/"><u>Step-by-Step Guide to Successful Printer Driver Updates on Dell's 2330 Series Monochrome Lasers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-leap-in-home-automation-apples-vision-of-a-robot-assistant-revealed-insights/"><u>The Next Leap in Home Automation: Apple’s Vision of a Robot Assistant Revealed | Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-screen-recording-face-off-obs-studio-vs-fraps-comparison/"><u>[New] In 2024, Screen Recording Face-Off OBS Studio Vs Fraps Comparison</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-fusing-visuals-with-acoustic-expressionism/"><u>[Updated] Fusing Visuals with Acoustic Expressionism</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-psyche-up-with-customized-console-voices/"><u>[Updated] Psyche Up with Customized Console Voices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-15-pro-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 15 Pro Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-iphone-16-pro-and-iphone-14-pro-justifying-the-leap-in-tech-insights-for-consumers/"><u>Comparing iPhone 16 Pro and iPhone 14 Pro: Justifying the Leap in Tech - Insights for Consumers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-solutions-for-fixing-ieframedll-problems/"><u>Comprehensive Solutions for Fixing ieframe.dll Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-essential-tools-for-following-hashtags-on-twitter-a-comprehensive-guide/"><u>Discover Essential Tools for Following Hashtags on Twitter: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-quick-start-secrets-for-rookie-users-of-x-previously-twitter/"><u>Essential Quick-Start Secrets for Rookie Users of X (Previously Twitter)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-embark-on-a-google-meet-journey/"><u>In 2024, Embark on a Google Meet Journey</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-meizu-21-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Meizu 21 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-pushing-boundaries-with-film-color-grading-these-7/"><u>In 2024, Pushing Boundaries with Film Color Grading (These 7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-update-a-step-by-step-guide-to-tailoring-your-iphones-control-center/"><u>IOS 18 Update: A Step-by-Step Guide to Tailoring Your iPhone's Control Center</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-securing-a-video-game-refund-on-steam/"><u>Master the Art of Securing a Video Game Refund on Steam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-advantages-of-using-claude-3-why-its-time-to-move-on-from-chatgpt/"><u>The Advantages of Using Claude 3 - Why It's Time to Move On From ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-advancements-necessary-for-apples-artificial-intelligence-ecosystem-to-rivet-with-powerhouses-openai-and-google-featuring-expert-insights-from-zdnet.125/"><u>Top 10 Advancements Necessary for Apple's Artificial Intelligence Ecosystem to Rivet with Powerhouses OpenAI and Google, Featuring Expert Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-ios-175s-photo-resurrection-feature-apples-insights-and-user-actions-explained-zdnet/"><u>Understanding iOS 17.5'S Photo Resurrection Feature - Apple's Insights and User Actions Explained | ZDNET</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unlock-your-iphone-top-4-methods-to-bypass-the-icloud-activation-barrier-without-a-passcode/"><u>Unlock Your iPhone: Top 4 Methods to Bypass the iCloud Activation Barrier without a Passcode</u></a></li>
 </ul></div>
 

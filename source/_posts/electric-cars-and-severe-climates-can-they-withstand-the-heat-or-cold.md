@@ -1,7 +1,7 @@
 ---
 title: "Electric Cars & Severe Climates: Can They Withstand the Heat or Cold?"
-date: 2024-09-09T09:13:56.296Z
-updated: 2024-09-10T09:13:56.296Z
+date: 2024-12-04T19:48:38.575Z
+updated: 2024-12-11T05:58:45.258Z
 categories:
   - BestProducts
 description: "This Article Describes Electric Cars & Severe Climates: Can They Withstand the Heat or Cold?"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes Electric Cars & Severe Climates: Can They Withs
 thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b455745b734da2cba3671e13.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Electric Cars & Severe Climates: Can They Withstand the Heat or Cold?
 
  In This Article 
@@ -29,21 +23,13 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
  Electric vehicle range in extreme cold and heat may not be as dire as you expect though and, for the record, gas-powered vehicles aren’t immune from temperature extremes either. Still, it's advantageous to understand how heat and cold impact EVs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Temperature Generally Affects Electric Car Batteries 
 
 ![An overhead view of an EV's lithium ion battery.](https://www.lifewire.com/thmb/PCIEIMaVKLmsy8FYcB1gH5PmQks=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/LithiumionbatteryofanEV_Westend61_Getty-de12313f778243f1ae701060be61c5a3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Westend61/Getty
 
  Overall, EVs can and do perform well in all types of weather. Some weather conditions, just like with gasoline-powered vehicles, do mean that EV owners need to pay a little closer attention to the way they drive and conserve battery energy.
@@ -84,11 +70,9 @@ Westend61/Getty
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%271500%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  PHOTO:
 
 Bailey Mariner
@@ -98,17 +82,9 @@ Bailey Mariner
  According to the U.S. Department of Energy,[ a gas-powered car can have its range decreased by over 25 percent](https://www.fueleconomy.gov/feg/hotweather.shtml) when running the A/C in extremely hot weather. In comparison, the average EV can be expected to reach about 80 percent of its rated range in conditions where the ambient temperature is 104 degrees. In that particular situation, an EV is likely to beat a gas-powered vehicle in terms of retaining more of its range.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Heat Pumps vs. Resistive Heaters in EVs 
 
  Both resistive heaters and heat pumps can be used in EVs. The benefit of using a heat pump in an EV instead of a resistive heater is that heat pumps are simply more energy efficient. 
@@ -121,6 +97,10 @@ Bailey Mariner
 
  Heat pumps are typically capable of operating in EVs in temperatures down to about 25 to 30 degrees Fahrenheit, although efficiency does drop off the colder it gets. In even colder temperatures, it becomes more efficient to switch over to a resistive heater.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9 Ways to Manage Range in Extreme Weather Conditions 
 
  While it’s true that EV range can be reduced by both extremely hot and cold weather, there are a number of things you can do to improve the range of an EV in extreme weather conditions: 
@@ -128,11 +108,9 @@ Bailey Mariner
 ![A thermometer showing Celsius and Fahrenheit temps against a blue sky with light clouds.](https://www.lifewire.com/thmb/tDbSwvUy-6HtJbQj-IVHx1Jsd1U=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Thermometor_celsiusandF_Kameleon007_Getty-765dddd365544edfbcfd93b31bcf4342.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Kameleon007/Getty
 
 1. **Reduce the use of air conditioning in hot weather.** Set the A/C at the highest temperature you’re comfortable with, and consider cooling off with other methods like a portable battery-powered fan and an ice chest full of cool drinks when going on long road trips.
@@ -153,8 +131,6 @@ Kameleon007/Getty
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +138,20 @@ Kameleon007/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-easy-audio-capturing-on-non-rooted-android-devices/"><u>[New] In 2024, Easy Audio Capturing on Non-Rooted Android Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-tailored-obs-tweaks-for-affordable-systems/"><u>[New] In 2024, Tailored OBS Tweaks for Affordable Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook/"><u>[New] Navigate Your Way to the Best iDevice Apps for Extracting Content From Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compatibility-guide-all-iphones-supporting-ios-18-and-the-exceptions-unveiled-by-zdnet/"><u>Compatibility Guide: All iPhones Supporting iOS 18 and the Exceptions - Unveiled by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immersing-the-future-assessing-the-water-resilient-features-of-the-iphone-15-pro-max/"><u>Immersing the Future: Assessing the Water-Resilient Features of the iPhone 15 Pro Max</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-in-class-8-webcams-perfect-for-streaming-professionals/"><u>In 2024, Best-in-Class 8 Webcams Perfect For Streaming Professionals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-showdown-which-size-suits-you-best-11-or-12n-inch-powered-by-m1-and-m2-insights-from-zdnets-latest-review/"><u>IPad Pro Showdown: Which Size Suits You Best - 11 or 12.n Inch Powered by M1 & M2? Insights From ZDNET's Latest Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-podcast-release-schedules/"><u>Mastering Podcast Release Schedules</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/quick-guide-applying-on-screen-captions-to-photos-videos/"><u>Quick Guide Applying On-Screen Captions to Photos Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-apple-watch-longevity-discover-the-8-key-configuration-changes-for-extended-battery-performance/"><u>Revolutionize Apple Watch Longevity: Discover the 8 Key Configuration Changes for Extended Battery Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-epson-scanner-downloads-for-optimal-performance/"><u>Step-by-Step Guide to Epson Scanner Downloads for Optimal Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-story-behind-yahoo-messenger-from-inception-to-its-ultimate-shutdown/"><u>The Story Behind Yahoo! Messenger - From Inception to Its Ultimate Shutdown</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-how-the-new-google-pixel-watch-3-addresses-key-concerns-in-wearable-tech/"><u>ZDNet Explores How the New Google Pixel Watch 3 Addresses Key Concerns in Wearable Tech</u></a></li>
+</ul></div>
 

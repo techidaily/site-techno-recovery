@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's Core Innovations: The Impact of Silicon, Rosetta Translation, and M-Series Chips on Modern Computing - Insights for Consumers"
-date: 2024-11-28T22:54:02.323Z
-updated: 2024-12-04T18:21:07.591Z
+date: 2024-12-09T10:55:46.596Z
+updated: 2024-12-11T06:17:16.585Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -48,10 +52,6 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -61,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -71,6 +71,10 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -89,7 +93,7 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -99,6 +103,10 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -110,10 +118,6 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -122,10 +126,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,18 +171,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-journey-through-the-land-of-costless-image-mastery-for-2024/"><u>[New] Journey Through the Land of Costless Image Mastery for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-masterclasses-in-livestreaming-and-recording-sport-views/"><u>[New] Masterclasses in Livestreaming and Recording Sport Views</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-animations-how-to-craft-engaging-professional-looking-gifs/"><u>[New] YouTube Animations How To Craft Engaging, Professional-Looking GIFs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-inspire-your-brand-with-smart-channel-name-genesis/"><u>[Updated] Inspire Your Brand with Smart Channel Name Genesis</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-designing-custom-youtube-music-sequences/"><u>2024 Approved Designing Custom YouTube Music Sequences</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/defending-your-videos-against-youtube-copyright-strikes/"><u>Defending Your Videos Against YouTube Copyright Strikes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/panasonics-value-proposition-the-lumix-fz80/"><u>Panasonic's Value Proposition: The Lumix FZ80</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-a-guide-to-linking-disneyplus-with-your-chromecast/"><u>Seamless Streaming: A Guide to Linking Disney+ with Your Chromecast</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/sweet-indulgence-recording-a-compreran-analysis-for-2024/"><u>Sweet Indulgence Recording A Compreran Analysis for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ipad-productivity-apps-enhance-efficiency-and-streamline-tasks-recommendations/"><u>Top iPad Productivity Apps: Enhance Efficiency & Streamline Tasks – Recommendations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-mp3-devices-comprehensive-reviews-by-techradar/"><u>Top Rated MP3 Devices : Comprehensive Reviews by TechRadar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-your-inner-storyteller-using-chatgpt-the-ultimate-strategy/"><u>Unleash Your Inner Storyteller Using ChatGPT: The Ultimate Strategy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-covert-wi-fi-chips-enabling-smart-home-features-on-macs-and-ipads-is-yours-equipped-zdnet-insights/"><u>Unveiling Covert Wi-Fi Chips Enabling Smart Home Features on Macs and iPads | Is Yours Equipped? - ZDNet Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-quick-recovery-of-twitch-broadcasts/"><u>[New] 2024 Approved The Quick Recovery of Twitch Broadcasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-channel-milestone-hurdle-cross-the-10k-view-threshold-fast-for-2024/"><u>[New] Channel Milestone Hurdle – Cross the 10K View Threshold Fast for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ceased-shorts-missing-on-youtube-screen/"><u>[New] In 2024, Ceased Shorts Missing on YouTube Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-c32-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia C32 Activity | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-entering-and-exiting-iphones-recovery-mode/"><u>A Step-by-Step Guide: Entering and Exiting iPhone's Recovery Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/code-19-error-fixes-for-windows-users-quick-solutions-unveiled/"><u>Code 19 Error Fixes for Windows Users: Quick Solutions Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-12r-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 12R Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-pdf-not-responding-error-and-save-your-data-stellar-by-stellar-guide/"><u>How to fix PDF not responding error and save your data | Stellar</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8715-printer-drivers-free-downloads-for-windows-11-10-and-8/"><u>HP Officejet Pro 8715 Printer Drivers: Free Downloads for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-temporaryfreeze-immediate-recording-guide/"><u>In 2024, TemporaryFreeze Immediate Recording Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-vs-samsungs-newest-contender-the-s2n-ultra-a-detailed-comparison/"><u>IPhone 15 Pro Max Vs. Samsung's Newest Contender – The S2n Ultra: A Detailed Comparison</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-fix-for-windows-boot-manager-error-with-these-proven-methods/"><u>Master the Fix for Windows Boot Manager Error with These Proven Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-have-tech-specials-for-this-years-amazon-prime-day-sale/"><u>Must-Have Tech Specials for This Year’s Amazon Prime Day Sale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roblox-access-hiccups-how-to-tell-if-theres-a-service-interruption-or-just-your-network/"><u>Roblox Access Hiccups: How to Tell if There’s a Service Interruption or Just Your Network</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rust-display-issues-addressed-eliminating-pixelation-and-distortion-problems/"><u>Rust Display Issues Addressed - Eliminating Pixelation and Distortion Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-implementing-gpt-4-with-current-chatgpt-platforms/"><u>Step-by-Step Tutorial: Implementing GPT-4 with Current ChatGPT Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-event-key-details-on-date-latest-rumors-and-insights/"><u>Upcoming Apple Event: Key Details on Date, Latest Rumors & Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-a-sufficiently-quick-pc-performance/"><u>What Is a Sufficiently Quick PC Performance?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-ultimate-guide-to-playstation-portal-whens-it-drops-how-much-cash-tech-inside-and-buying-sites-exposed/"><u>Your Ultimate Guide to PlayStation Portal – When's It Drops? How Much Cash? Tech Inside & Buying Sites Exposed!</u></a></li>
 </ul></div>
 

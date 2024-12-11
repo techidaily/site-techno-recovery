@@ -1,7 +1,7 @@
 ---
 title: "Compatibility Check: Can You Jump Straight Into PS4 Gaming with Your PS5?"
-date: 2024-09-04T00:30:45.581Z
-updated: 2024-09-05T00:30:45.581Z
+date: 2024-12-04T03:10:26.895Z
+updated: 2024-12-10T20:44:10.139Z
 categories:
   - BestProducts
 description: "This Article Describes Compatibility Check: Can You Jump Straight Into PS4 Gaming with Your PS5?"
@@ -13,12 +13,20 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * Choose a digital game from the PlayStation 5 game hub or insert a PS4 game disc into the PS5 console.
 * The Game Catalog in the Extra and Deluxe tiers of[ PlayStation Plus](https://www.lifewire.com/what-is-playstation-plus-4772152) is also an option.
 
  This article explains how you can play[ PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) games on[ PlayStation 5](https://www.lifewire.com/playstation-5-4778089) and what games are incompatible with the PlayStation 5\. The vast majority of PS4 games can be played on the PS5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Play a PS4 Game on PlayStation 5 
 
@@ -34,11 +42,9 @@ This step can be skipped if you own the game digitally.
  For all PS4 digital games you've purchased in the past, they're available within your games library via the PlayStation Store. Download them as you would on your PlayStation 4, and you can play them. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Is PlayStation 5 Backward Compatibility? 
 
  PlayStation 5 backward compatibility refers to the latest game console's ability to play older games, such as those available for the PlayStation 4 or previous PlayStation game consoles. 
@@ -48,11 +54,9 @@ This step can be skipped if you own the game digitally.
  Sony has shut down PlayStation Now and folded its library into premium tiers of its PlayStation Plus service. The Extra level provides access to the Game Catalog, which includes some PS4 titles. The Deluxe membership includes both the Game and Classics Catalogs, the latter of which offers games from even older generations of PlayStation.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Are PS4 Games Different on PlayStation 5? 
 
  Most PS4 games will be near-identical on the PlayStation 5\. Sony has warned that some games may suffer from minor issues or glitches but these are expected to be fixed over time. 
@@ -64,17 +68,9 @@ This step can be skipped if you own the game digitally.
 [ The PS5 Exclusive Games List ](https://www.lifewire.com/ps5-games-list-5076154) 
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="150" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What PS4 Games Won't Play on the PS5? 
 
  Sony has released a list of a select number of games that are playable on PS4 only and can't be played on the PlayStation 5\. The list comprises of:
@@ -112,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +115,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-leveraging-periscope-for-real-time-engagement/"><u>[New] In 2024, Leveraging Periscope for Real-Time Engagement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cite-ai-correctly-expert-tips-on-how-to-include-chatgpt-as-a-reference-source/"><u>Cite AI Correctly: Expert Tips on How to Include ChatGPT as a Reference Source</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-duo-photography-and-musical-composition/"><u>Dynamic Duo Photography & Musical Composition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immerse-yourself-in-marvel-magic-through-apple-vision-pro-launch-expected-may-30-zdnet/"><u>Immerse Yourself in Marvel Magic Through Apple Vision Pro - Launch Expected May 30 | ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-google-pixel-8-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Google Pixel 8 Fingerprint Lock</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-blaze-curve-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Blaze Curve 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-photo-editing-blur-or-eliminate-unwanted-borders/"><u>In 2024, Professional Photo Editing Blur or Eliminate Unwanted Borders</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-now-updated-msi-auditory-device-drivers-for-pcs/"><u>Install Now: Updated MSI Auditory Device Drivers for PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-face-off-deciding-on-your-ideal-timepiece-a-comparison-of-the-google-pixel-watch-3-and-apple-watch-series-vee/"><u>Tech Face-Off: Deciding on Your Ideal Timepiece – A Comparison of the Google Pixel Watch 3 & Apple Watch Series Vee</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-generation-of-display-tech-unpacking-what-the-ipad-pros-tandem-oled-reveals-for-tomorrows-gadgets/"><u>The Next Generation of Display Tech: Unpacking What the iPad Pro's Tandem OLED Reveals for Tomorrow's Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-buyers-guide-to-the-most-reliable-waterproof-wearables-of-2024-industry-expert-ratings-devicemasters/"><u>Ultimate Buyer's Guide to the Most Reliable Waterproof Wearables of 2024 - Industry Expert Ratings | DeviceMasters</u></a></li>
+</ul></div>
 

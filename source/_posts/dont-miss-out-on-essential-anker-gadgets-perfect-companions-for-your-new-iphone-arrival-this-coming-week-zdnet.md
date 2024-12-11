@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out on Essential Anker Gadgets - Perfect Companions for Your New iPhone Arrival This Coming Week | ZDNet
-date: 2024-12-02T20:08:28.104Z
-updated: 2024-12-04T16:46:39.414Z
+date: 2024-12-07T05:55:30.550Z
+updated: 2024-12-10T23:07:29.263Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -49,12 +45,16 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -65,10 +65,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -78,7 +74,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -103,6 +99,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You don't require the generative AI capabilities
 
 All of the bells and whistles on the iPhone 16 are certainly nice, but are they must-haves? To many people, probably not. Generative AI still has its' issues despite advancing rapidly in the past couple of years. Apple Intelligence and the new Siri may be great, but we wouldn't be surprised to see users encounter performance problems or hallucinations.
@@ -112,7 +112,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -157,21 +157,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-perfecti-top-photo-and-video-display-programming/"><u>[New] 2024 Approved Perfecti Top Photo & Video Display Programming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-smile-stashers-the-ultimate-list-of-meme-makers/"><u>[New] 2024 Approved Smile Stashers The Ultimate List of Meme Makers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-screen-snapshot-tool-for-android-all-ages-for-2024/"><u>[New] Premium Screen Snapshot Tool for Android, All Ages for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/10-2024/"><u>卒業記念曲トップ10 〜鮮烈に残る歌のリコメンド:2024年 - 明るさと情感が調和した選曲、合唱で思い出を作る</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-agrees-to-compensate-eligible-macbook-users-in-class-action-resolution-techcrunch/"><u>Apple Agrees to Compensate Eligible MacBook Users in Class-Action Resolution | TechCrunch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-securing-and-activating-the-most-recent-ios-update/"><u>Comprehensive Guide: Securing and Activating the Most Recent iOS Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-ai-breath-of-life-to-virtual-queries/"><u>Conversational AI: Breath of Life to Virtual Queries</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/easy-tips-and-tricks-how-to-change-your-mka-files-into-mp3s-efficiently/"><u>Easy Tips and Tricks: How To Change Your MKA Files Into MP3s Efficiently</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-how-electric-bicycles-function-and-operate-efficiently/"><u>Exploring How Electric Bicycles Function and Operate Efficiently</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/googles-next-smartwatch-innovation-expected-price-range-release-forecast-and-tech-specs-rumor-buzzes/"><u>Google's Next Smartwatch Innovation: Expected Price Range, Release Forecast & Tech Specs - Rumor Buzzes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/introducing-the-new-airpods-pro-featuring-find-my-speaker-and-upgraded-usb-c-charging-by-apple-latest/"><u>Introducing the New AirPods Pro: Featuring 'Find My Speaker' & Upgraded USB-C Charging by Apple - Latest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ipad-pro-unveiled-embracing-its-unique-strengths-despite-not-being-a-macbook-insights-from-zdnet/"><u>IPad Pro Unveiled: Embracing Its Unique Strengths, Despite Not Being a MacBook | Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-smart-eyewear-your-ultimate-guide/"><u>Top-Rated Smart Eyewear : Your Ultimate Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-adjusting-picture-settings-on-a-samsung-ultra-hd-tv/"><u>Ultimate Guide to Adjusting Picture Settings on a Samsung Ultra HD TV</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-mystery-of-free-graphic-imagery-for-2024/"><u>Unveiling the Mystery of Free Graphic Imagery for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-capture-the-essence-of-your-favorite-series-with-these-extractors/"><u>[New] 2024 Approved Capture the Essence of Your Favorite Series with These Extractors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-video-capture-without-extras-for-2024/"><u>[Updated] Premium Video Capture Without Extras for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-rogelikes-past-present-and-emerging-futures-for-2024/"><u>[Updated] Rogelikes Past, Present, & Emerging Futures for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-pc-updated-nvidia-geforce-driver-for-10-windows/"><u>Boost Your PC: Updated NVIDIA GeForce Driver for 10 Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-the-non-ringing-problem-on-your-ios-device/"><u>Diagnosing & Repairing the Non-Ringing Problem on Your iOS Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-ultimate-precision-the-sabrent-mini-travelers-guide-to-wireless-high-accuracy-typing-anywhere/"><u>Experience Ultimate Precision: The Sabrent Mini Traveler's Guide to Wireless, High-Accuracy Typing Anywhere</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-how-t-mobile-handles-local-network-roaming/"><u>Exploring How T-Mobile Handles Local Network Roaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-next-big-thing-in-apples-ecosystem-macos-sequoia-features-and-arrival-forecast/"><u>Exploring the Next Big Thing in Apple's Ecosystem: MacOS Sequoia Features & Arrival Forecast</u></a></li>
+<li><a href="https://extra-information.techidaily.com/identifying-the-best-iphone-watermarks-a-complete-guide/"><u>Identifying the Best iPhone Watermarks A Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-connection-tips-for-flawless-pairing-of-bose-soundlink-systems/"><u>Master the Connection: Tips for Flawless Pairing of Bose Soundlink Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-apple-carplay-enhancements-unveiled-at-wwdc-2024-top-innovations-revealed-by-zdnet/"><u>New Apple CarPlay Enhancements Unveiled at WWDC 2024: Top Innovations Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pushing-boundaries-beyond-the-original-turing-test/"><u>Pushing Boundaries: Beyond the Original Turing Test</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/scoring-a-complimentary-macbook-air-m3-from-best-buy-the-ingenious-strategy-unveiled/"><u>Scoring a Complimentary MacBook Air M3 From Best Buy: The Ingenious Strategy Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-in-depth-testing-and-expert-opinions/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024: In-Depth Testing & Expert Opinions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-your-macs-potential-mastering-hot-corners-for-enhanced-productivity-learn-the-insider-secrets/"><u>Unleash Your Mac's Potential: Mastering Hot Corners for Enhanced Productivity - Learn the Insider Secrets !</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wireless-data-transfer-wie-man-daten-vom-iphone-zum-iphone-14-uberspielt/"><u>Wireless Data Transfer: Wie Man Daten Vom iPhone Zum iPhone 14 Überspielt</u></a></li>
 </ul></div>
 

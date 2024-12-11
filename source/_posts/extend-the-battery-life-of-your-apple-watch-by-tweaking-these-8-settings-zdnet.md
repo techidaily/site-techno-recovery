@@ -1,7 +1,7 @@
 ---
 title: Extend the Battery Life of Your Apple Watch by Tweaking These 8 Settings | ZDNet
-date: 2024-12-03T00:37:45.201Z
-updated: 2024-12-04T21:04:27.017Z
+date: 2024-12-06T21:38:16.024Z
+updated: 2024-12-11T04:18:34.715Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn off the always-on display
@@ -46,6 +46,10 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -53,10 +57,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **How to:** Lift your Apple Watch and press the side button to bring up the quick settings menu. Tap your battery percentage, then hit the "Low Power Mode" button. From there, scroll down through the list of features that Apple says the feature will disable. Then, tap the yellow "Turn On" button. You can also schedule it to turn off after a while, if you want.
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
 
@@ -85,7 +85,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -95,7 +95,7 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -105,6 +105,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -119,10 +123,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,20 +165,20 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-moto-g13-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Moto G13 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-of-the-best-ultimate-modemrouter-sets-for-superior-connectivity/"><u>Best of the Best: Ultimate Modem/Router Sets for Superior Connectivity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-air-4-and-ipad-air-n-pros-cons-and-when-to-upgrade-cnet-gadgets/"><u>Choosing Between iPad Air 4 and iPad Air N: Pros, Cons & When to Upgrade | CNET Gadgets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discerning-outages-from-hiccups-confirming-if-discords-offline-or-not/"><u>Discerning Outages From Hiccups: Confirming If Discord's Offline or Not</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-best-15-cost-free-photo-editors/"><u>Explore Best 15 Cost-Free Photo Editors</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo to Protect Your Individual Information</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/huge-discount-alert-for-gaming-enthusiasts-dell-s3222dgm-32-inch-monitor-now-just-a-steal-at-279-over-the-weekend/"><u>Huge Discount Alert for Gaming Enthusiasts – Dell S3222DGM 32-Inch Monitor Now Just a Steal at $279 Over the Weekend</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x50-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X50 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/telechargez-des-films-en-4k-et-hd-avec-le-meilleur-outil-mac-gratuit/"><u>Téléchargez Des Films en 4K Et HD Avec Le Meilleur Outil Mac Gratuit</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-cellphones-endorsed-editors-real-world-usage-revealed/"><u>Top Cellphones Endorsed Editors: Real-World Usage Revealed</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/top-off-your-printing-experience-latest-aio-updates-in-windows-7/"><u>Top Off Your Printing Experience: Latest AIO Updates in WIndows 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-listening-experience-get-the-latest-airpods-pro-2-with-hearing-aid-support-for-a-limited-time-offer-of-24-off/"><u>Transform Your Listening Experience – Get the Latest AirPods Pro 2 with Hearing Aid Support for a Limited Time Offer of 24% Off .</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-samsung-smart-tvs-remote-access-features/"><u>Ultimate Guide: Mastering Samsung Smart TV's Remote Access Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-convenient-watching-pairing-disneyplus-with-your-chromecast-device/"><u>Unlock Convenient Watching: Pairing Disney+ with Your Chromecast Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-digital-content-streamers-defining-and-explaining-their-functionality/"><u>Unveiling the Secrets of Digital Content Streamers: Defining and Explaining Their Functionality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>[New] 2024 Approved Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-turning-pinterest-video-into-downloadable-mp3-files/"><u>[New] 2024 Approved Turning Pinterest Video Into Downloadable MP3 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-top-4-gratuites-meilleures-extracteur-de-dvd-en-2023-pour-mac-os-catalina-64-and-32-bit/"><u>1. Top 4 Gratuites Meilleures Extracteur De DVD en 2023 Pour Mac OS Catalina - 64 & 32 Bit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-searching-skills-unlock-additional-free-filters/"><u>2024 Approved Instagram Searching Skills – Unlock Additional Free Filters</u></a></li>
+<li><a href="https://win-great.techidaily.com/1728491158342-windows-10/"><u>完全なWindows 10オペレーティングシステムを保護するためのガイド</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/behebt-euch-bei-fehlenden-outlook-pst-dateien-wie-und-warum/"><u>Behebt Euch Bei Fehlenden Outlook-PST-Dateien, Wie Und Warum?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypassing-wow-problem-fix-51900319/"><u>Bypassing WoW Problem: Fix #51900319</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-features-for-the-latest-generation/"><u>Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-methods-for-dusting-and-wiping-down-your-hdtv-screens-safely/"><u>Comprehensive Methods for Dusting and Wiping Down Your HDTV Screens Safely</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-iphone-15-to-iphone-prise-the-following-points-in-your-answer/"><u>From iPhone 15 to iPhone Prise the Following Points in Your Answer:</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy S23 Tactical Edition Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-12-and-12-pro-protectors-the-ultimate-case-guide-zdnet/"><u>Top-Rated iPhone 12 & 12 Pro Protectors: The Ultimate Case Guide - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-comparison-samsung-galaxy-book-3-ultra-vs-apple-macbook-pro-the-definitive-guide-for-power-users/"><u>Ultimate Comparison: Samsung Galaxy Book 3 Ultra Vs. Apple MacBook Pro - The Definitive Guide for Power Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-your-handling-skills-the-right-methods-to-wield-iphones-and-airpods-in-unison-smart-advice/"><u>Upgrade Your Handling Skills: The Right Methods to Wield iPhones and AirPods in Unison | Smart Advice</u></a></li>
 </ul></div>
 

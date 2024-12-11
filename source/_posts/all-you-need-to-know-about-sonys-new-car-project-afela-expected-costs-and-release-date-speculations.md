@@ -1,7 +1,7 @@
 ---
 title: All You Need to Know About Sony's New Car Project (AFELA) - Expected Costs and Release Date Speculations
-date: 2024-12-01T05:32:48.003Z
-updated: 2024-12-04T16:42:35.191Z
+date: 2024-12-09T02:33:54.638Z
+updated: 2024-12-10T20:32:10.495Z
 categories:
   - BestProducts
 description: This Article Describes All You Need to Know About Sony's New Car Project (AFELA) - Expected Costs and Release Date Speculations
@@ -33,16 +33,12 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 
  Orders will be taken in the first half of next year, potentially allowing US drivers to be behind the wheel by spring 2026.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Lifewire's Release Date Estimate
 
  The Afeela looks poised to be available in North America by spring 2026.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Sony Car (Afeela) Price Rumors
@@ -53,15 +49,15 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 
  As concept-to-production details take shape, we expect to hear more rumors about pricing, so stay tuned.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Sony Car pre-ordering looks like it will start in the first few months of 2025\. All signs point to US orders first, followed by pre-orders and debuts in the Japanese and European markets. 
 
  We’ll make updates here as we learn more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sony Car (Afeela) Features
 
@@ -76,7 +72,7 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 ![Sony Honda Mobility and Epic Games collaboration demo in the Afeela prototype.](https://www.lifewire.com/thmb/l9bUlpS2wIPA00FBpEUvK6M-tPw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-Hond-Car-Afeela-EpicGames-Collaboration-4978e86ca0f048c2858c0bd4e757562c.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 AR navigation. 
@@ -96,7 +92,7 @@ Sony Interactive Entertainment
 [  Electric Vehicles: A Short History Lesson ](https://www.lifewire.com/electric-vehicles-a-short-history-lesson-5202203) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Sony Car (Afeela) Specs and Hardware
@@ -116,6 +112,10 @@ Sony Interactive Entertainment
  On the safety and mobility fronts, we also know that the Sony car will use 45 cameras and sensors for a full-picture traffic view, sense when drivers approach the vehicle and open the door automatically, and self-park after the driver exits.
 
  Check back for updates about the Sony car release date and more features and specs chatter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Latest News About the Sony Car (Afeela)
 
@@ -144,24 +144,24 @@ Sony Interactive Entertainment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-how-to-reverse-videos-on-android/"><u>[New] How to Reverse Videos on Android ?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-charting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings/"><u>[New] In 2024, Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-guide-to-youtube-earnings-on-any-device-for-2024/"><u>[Updated] The Essential Guide to YouTube Earnings on Any Device for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unlocking-the-potential-of-videoleaps-zoom-functionality/"><u>[Updated] Unlocking the Potential of VideoLeap's Zoom Functionality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mirthful-user-sign-up-saga/"><u>2024 Approved Mirthful User Sign-Up Saga</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-preventing-non-displayed-images-in-youtubes-shorts/"><u>2024 Approved Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-factors-for-upgrading-to-the-latest-entry-level-apple-device-expert-insights/"><u>Choosing Between iPhone 16 and iPhone 15? Key Factors for Upgrading to the Latest Entry-Level Apple Device - Expert Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/do-apples-airpods-pro-hold-up-since-their-launch-in-202-cuffs-assessing-worthiness-and-value-zdnet/"><u>Do Apple's AirPods Pro Hold Up Since Their Launch in 202 Cuffs? Assessing Worthiness and Value | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-roundup-most-effective-tablets-of-the-year-2024-tested-and-analyzed-for-consumers/"><u>Exclusive Roundup: Most Effective Tablets of the Year 2024 Tested & Analyzed for Consumers</u></a></li>
-<li><a href="https://win-hot.techidaily.com/fotos-von-itunes-auf-ihren-iphone-modellen-11-14-ubertragen-lernen/"><u>Fotos Von iTunes Auf Ihren iPhone Modellen 11-14 Übertragen Lernen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-control-and-disable-amber-and-emergency-alerts-on-iphones-efficiently/"><u>How to Control and Disable Amber & Emergency Alerts on iPhones Efficiently</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-spark-10-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Spark 10 4G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-water-resistant-smartwatch-models-in-depth-analysis-and-reviews-by-experts-techradar/"><u>Top Rated Water-Resistant Smartwatch Models - In-Depth Analysis & Reviews by Experts | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-wireless-charging-devices-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Wireless Charging Devices : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/trading-expensive-tech-why-i-switched-from-apple-vision-pro-and-meta-quest-3-to-budget-friendly-xr-glasses-read-on-at-zdnet/"><u>Trading Expensive Tech: Why I Switched From Apple Vision Pro and Meta Quest 3 to Budget-Friendly XR Glasses - Read on at ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed-for-2024/"><u>Transform Sound with Cloud Tools Top 5 Online Text-to-Speech Services Reviewed for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-requesting-trustedinstaller-control-in-windows-10/"><u>Ultimate Guide to Requesting TrustedInstaller Control in Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-power-of-your-iphone-install-non-apple-apps-safely-and-easily-no-jailbreak-required/"><u>Unlocking the Power of Your iPhone: Install Non-Apple Apps Safely and Easily (No Jailbreak Required)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-a-review-free-meme-makers-to-use-for-2024/"><u>[Updated] A Review Free Meme Makers to Use for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-gunners-gratitude-discovering-our-top-7-shooter-games/"><u>[Updated] In 2024, Gunner's Gratitude Discovering Our Top 7 Shooter Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtubes-edge-and-dailymotions-charms-an-in-depth-look/"><u>[Updated] In 2024, YouTube's Edge & Dailymotion's Charms An In-Depth Look</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-expert-techniques-for-streaming-facebook-live-2023/"><u>2024 Approved Expert Techniques for Streaming Facebook Live, 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-harness-the-power-of-look-up-tables-luts-for-professionals/"><u>2024 Approved Harness the Power of Look-Up Tables (LUTs) for Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-top-picks-for-cutting-edge-ceiling-sound-solutions-a-comprehensive-review/"><u>2024'S Top Picks for Cutting-Edge Ceiling Sound Solutions - A Comprehensive Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ai-features-in-meta-quest-3-beats-vision-pro-activation-guide-for-early-adopters/"><u>AI Features in Meta Quest 3 Beats Vision Pro: Activation Guide for Early Adopters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-y36i-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo Y36i Activity | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-spark-20c-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Spark 20C working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-disneyplus-film-choices-to-watch-right-now/"><u>Leading Disney+ Film Choices to Watch Right Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-plot-coders-space/"><u>Leading Plot Coders Space</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-high-engagement-on-apple-tv-platforms/"><u>Mastering the Art of High Engagement on Apple TV Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-convenience-of-apple-pay-a-comprehensive-guide-to-using-it-in-store-and-online-insights/"><u>Mastering the Convenience of Apple Pay: A Comprehensive Guide to Using It In-Store & Online - Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/pickus-impact-on-mobile-photography-a-comparative-study-for-2024/"><u>PickU's Impact on Mobile Photography – A Comparative Study for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-a-silent-roku-tv-getting-it-back-online/"><u>Step-by-Step Solutions for a Silent Roku TV - Getting It Back Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-successfully-boot-windows-11-on-your-brand-new-ssdhdd/"><u>Steps to Successfully Boot Windows 11 on Your Brand-New SSD/HDD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1727785976677-top-rated-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Smartwatches : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-smartphones-endorsed-editors-real-world-usage-insights/"><u>Top Smartphones Endorsed Editors - Real-World Usage Insights</u></a></li>
 </ul></div>
 

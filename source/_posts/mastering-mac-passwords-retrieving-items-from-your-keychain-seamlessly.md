@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Passwords: Retrieving Items From Your Keychain Seamlessly"
-date: 2024-12-04T08:51:25.732Z
-updated: 2024-12-05T01:37:09.384Z
+date: 2024-12-07T02:53:22.261Z
+updated: 2024-12-11T10:07:52.923Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -39,7 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -53,7 +53,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -70,10 +70,6 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -81,6 +77,10 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,16 +113,22 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-inside-look-key-aspects-of-srt-mastery/"><u>[New] In 2024, Inside Look Key Aspects of SRT Mastery</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-snapshot-styles-a-guide-to-using-old-school-vhs-in-modern-editing-for-2024/"><u>[New] Snapshot Styles A Guide to Using Old-School VHS in Modern Editing for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-picture-perfect-software-and-websites-to-amp-up-your-photos/"><u>[Updated] In 2024, Picture Perfect Software and Websites to Amp Up Your Photos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-to-setting-up-your-new-ipad-tips-and-tricks-zdnet/"><u>Complete Guide to Setting Up Your New iPad: Tips & Tricks - ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-gopro-video-editing-a-step-by-step-guide-for-2024/"><u>Effortless GoPro Video Editing A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/error-800-strikes-back-your-comprehensive-fix-for-clientserver-vpn-malfunctions/"><u>Error 800 Strikes Back? Your Comprehensive Fix for Client/Server VPN Malfunctions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expand-your-viewing-realm-on-youtube-platforms/"><u>In 2024, Expand Your Viewing Realm on YouTube Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-how-to-resolve-advrcntr2dll-not-found-in-nero-software/"><u>Troubleshooting: How to Resolve 'Advrcntr2.dll Not Found' In Nero Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncovering-the-secret-displaying-non-apple-apps-again-on-iphone/"><u>Uncovering the Secret: Displaying Non-Apple Apps Again on iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-connectivity-troubles-is-the-delay-in-microsoft-teams-due-to-server-maintenance/"><u>Understanding Connectivity Troubles: Is the Delay in Microsoft Teams Due to Server Maintenance?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/updating-your-mac-os-applications-a-tutorial-on-two-effective-methods-insights-from-zdnet/"><u>Updating Your Mac OS Applications: A Tutorial on Two Effective Methods - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expert-guide-to-optimizing-solo-play-in-apex-legends/"><u>[New] 2024 Approved Expert Guide to Optimizing Solo Play in Apex Legends</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-personalize-speakability-changing-your-tone-on-instagram-posts/"><u>[Updated] 2024 Approved Personalize Speakability Changing Your Tone on Instagram Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-analysis-of-cleanmymac-x-based-on-the-expert-reviews-at-zdnet/"><u>Comprehensive Analysis of CleanMyMac X Based on the Expert Reviews at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-reviews-ultimate-guide-to-the-best-ram-upgrades-of-2023-for-professionals-and-gamers/"><u>Expert Reviews: Ultimate Guide to the Best RAM Upgrades of 2023 for Professionals and Gamers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-7-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 7 Smoothly</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 15 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-stop-chrome-from-skipping-playback-of-facebook-videos/"><u>In 2024, Stop Chrome From Skipping Playback of Facebook Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-discord-down-or-is-it-just-you/"><u>Is Discord Down... Or Is It Just You?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mozillas-newest-release-unveiling-thunderbird-version-asterisk-52-and-its-key-upgrades/"><u>Mozilla's Newest Release - Unveiling Thunderbird Version Asterisk 52 and Its Key Upgrades</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-power-face-off-choosing-between-the-google-pixel/"><u>Pixel Power Face-Off: Choosing Between the Google Pixel</u></a></li>
+<li><a href="https://facebook.techidaily.com/protect-your-vr-identity-meta-vs-facebook-compared/"><u>Protect Your VR Identity: Meta Vs. Facebook Compared</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rapid-maturation-of-multilingual-abilities/"><u>Rapid Maturation of Multilingual Abilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-2023-update-facebooks-new-landscape-explained/"><u>The 2023 Update Facebook's New Landscape Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-13-ultimate-free-disk-check-utilities-latest-picks-of-july-2024/"><u>Top 13 Ultimate Free Disk Check Utilities: Latest Picks of July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-ups-systems-the-ultimate-selection/"><u>Top-Ranking UPS Systems: The Ultimate Selection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-apples-new-vintage-mode-implications-for-outdated-devices-zdnet/"><u>Understanding Apple's New 'Vintage Mode': Implications for Outdated Devices | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-silent-settings-expert-advice-to-make-your-iphone-rings-again/"><u>Unlock Silent Settings: Expert Advice to Make Your iPhone Rings Again</u></a></li>
 </ul></div>
 

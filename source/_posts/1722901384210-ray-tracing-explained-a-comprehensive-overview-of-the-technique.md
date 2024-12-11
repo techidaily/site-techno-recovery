@@ -1,7 +1,7 @@
 ---
 title: "Ray Tracing Explained: A Comprehensive Overview of the Technique"
-date: 2024-09-04T00:26:58.144Z
-updated: 2024-09-05T00:26:58.144Z
+date: 2024-12-08T01:38:13.411Z
+updated: 2024-12-10T23:34:47.092Z
 categories:
   - BestProducts
 description: "This Article Describes Ray Tracing Explained: A Comprehensive Overview of the Technique"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,11 +278,9 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -286,11 +292,9 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -319,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -328,4 +330,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-edge-5k-displays-the-best-8-selections-for-you/"><u>[Updated] In 2024, Cutting-Edge 5K Displays The Best 8 Selections for You</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-elite-car-beat-merging-software-for-mac-platforms/"><u>2024 Approved Elite Car Beat Merging Software for Mac Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pencil-inspired-design-patented-for-vision-pro-controller-a-closer-look-revealed-on-zdnet/"><u>Apple Pencil-Inspired Design Patented for Vision Pro Controller: A Closer Look Revealed on ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y27-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y27 4G FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-apple-watch-longevity-with-these-easy-adjustments-to-power-consumption-settings/"><u>Maximize Apple Watch Longevity with These Easy Adjustments to Power Consumption Settings</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/most-innovative-vertical-trackball-mouse-reviews-of-2024/"><u>Most Innovative Vertical Trackball Mouse Reviews of 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outdated-systems-alert-windows-781-support-cuts-off-by-microsoft/"><u>Outdated Systems Alert: Windows 7/8.1 Support Cuts Off by Microsoft</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-optimizing-your-slow-internet-speed/"><u>Quick Fixes for Optimizing Your Slow Internet Speed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-galaxy-ai-growth-dominates-as-google-faces-antitrust-challenges-in-latest-tech-rankings-insight/"><u>Samsung’s Galaxy AI Growth Dominates as Google Faces Antitrust Challenges in Latest Tech Rankings - Insight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-1110-audio-glitches-successfully/"><u>Solving Windows 11/10 Audio Glitches Successfully</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138570822-9781450237116-soul-contracts/"><u>Soul Contracts | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-ways-apples-ai-must-evolve-to-challenge-openai-and-google-insights/"><u>Top 10 Ways Apple's AI Must Evolve to Challenge OpenAI & Google: Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-new-levels-of-performance-the-impact-of-photochromic-glasses-on-my-biking-adventure-zdnet-insights/"><u>Unlocking New Levels of Performance: The Impact of Photochromic Glasses on My Biking Adventure | ZDNET Insights</u></a></li>
+</ul></div>
 

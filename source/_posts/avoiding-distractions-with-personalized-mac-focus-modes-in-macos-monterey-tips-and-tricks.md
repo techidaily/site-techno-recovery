@@ -1,7 +1,7 @@
 ---
 title: Avoiding Distractions with Personalized Mac Focus Modes in macOS Monterey - Tips & Tricks
-date: 2024-12-04T01:52:37.832Z
-updated: 2024-12-05T03:39:42.295Z
+date: 2024-12-05T20:46:54.220Z
+updated: 2024-12-11T06:52:42.480Z
 tags:
   - apple
 categories:
@@ -102,6 +102,10 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -115,7 +119,7 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -127,10 +131,6 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -140,7 +140,7 @@ On a Mac, open **System Preferences**, then select **Software Update**.
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
@@ -152,7 +152,7 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your Mac
@@ -184,7 +184,7 @@ Screenshot by Jason Cipriani/ZDNet
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
@@ -239,20 +239,24 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-audioanalyzer-reaction-to-recordings/"><u>[New] In 2024, AudioAnalyzer Reaction to Recordings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-versatile-10-applications-beyond-official-game-bar/"><u>[New] In 2024, Versatile 10 Applications Beyond Official Game Bar</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-streamline-creative-filmmaking-with-instagrams-background-swap/"><u>2024 Approved Streamline Creative Filmmaking with Instagram's Background Swap</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-agrees-to-reimburse-eligible-macbook-users-in-landmark-settlement-inside-app-store-news/"><u>Apple Agrees to Reimburse Eligible MacBook Users in Landmark Settlement – Inside App Store News</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-k70e-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi K70E is off? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-restricting-youtube-viewing-on-ios-tablets/"><u>Expert Tips for Restricting YouTube Viewing on iOS Tablets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-persistent-war-thunder-game-crashes-expert-solutions/"><u>How To Fix Persistent War Thunder Game Crashes - Expert Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-newest-software-for-your-corsair-h80i-v2-heatsink-fans/"><u>Install Newest Software for Your Corsair H80i v2 Heatsink Fans</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/introduction-to-basic-storytelling-constructs-for-2024/"><u>Introduction to Basic Storytelling Constructs for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-g54-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola G54 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/make-a-statement-with-these-online-photo-and-video-collage-tools-for-2024/"><u>Make a Statement with These Online Photo and Video Collage Tools for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/making-the-switch-pros-and-cons-of-upgrading-from-ipad-air-4-to-ipad-air-navigating-the-latest-apple-tablets-gizmodo/"><u>Making the Switch: Pros & Cons of Upgrading From iPad Air 4 to iPad Air Navigating the Latest Apple Tablets | Gizmodo</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-non-apple-rechargeable-alternatives-to-the-ideal-airtag-for-wallets-discover/"><u>Top Non-Apple, Rechargeable Alternatives to the Ideal AirTag for Wallets - Discover</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-to-expect-from-the-new-apple-domestic-aide-bot-price-release-timeline-and-features-revealed/"><u>What to Expect From the New Apple Domestic Aide-Bot: Price, Release Timeline & Features Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-iphone-14-plus-is-a-steal-top-reasons-including-endless-battery-life-and-exceptional-value-zdnet/"><u>Why iPhone Ⓜ️️ 14 Plus Is a Steal: Top Reasons Including Endless Battery Life & Exceptional Value | ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-enhancing-text-realism-with-illustrators-tools/"><u>[Updated] 2024 Approved Enhancing Text Realism with Illustrator's Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-gameplay-recording-must-haves/"><u>[Updated] Gameplay Recording Must-Haves</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-cutting-edge-techniques-in-3d-lut-making/"><u>[Updated] In 2024, Cutting-Edge Techniques in 3D LUT Making</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-accelerated-photography-browser-for-11-os-users/"><u>2024 Approved Accelerated Photography Browser for 11 OS Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-tips-for-obtaining-pristine-photos-without-payment/"><u>2024 Approved Top Tips for Obtaining Pristine Photos Without Payment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazing-ipad-air-assessment-surpasses-expectations-making-me-question-my-ipad-pro-choice-a-deep-dive/"><u>Amazing iPad Air Assessment: Surpasses Expectations, Making Me Question My iPad Pro Choice! - A Deep Dive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-secure-operating-system-initiative-for-enhanced-ai-server-performance-insights-and-updates/"><u>Apple's Secure Operating System Initiative for Enhanced AI Server Performance – Insights & Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/empowering-education-discover-the-top-9-technological-essentials-for-todays-learners/"><u>Empowering Education: Discover the Top 9 Technological Essentials for Today's Learners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-solutions-what-to-do-when-skype-fails-to-start/"><u>Essential Solutions: What To Do When Skype Fails to Start</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-selection-the-ultimate-july-2prise-laptops-for-savvy-shoppers-featured/"><u>Exclusive Selection: The Ultimate July 2Prise Laptops for Savvy Shoppers, Featured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-marvels-realm-with-apple-vision-pro-exclusive-access-revealed-may-30th-update-on-zdnet/"><u>Explore Marvel's Realm with Apple Vision Pro: Exclusive Access Revealed - May 30Th Update on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apple-can-improve-its-vision-pro-for-better-business-performance-lessons-from-zdnet-analysis/"><u>How Apple Can Improve Its Vision Pro for Better Business Performance - Lessons From ZDNet Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-live-streaming-360-video-to-youtube-for-2024/"><u>How to Live Streaming 360 Video to Youtube for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-pioneers-in-artificial-intelligence-amidst-googles-legal-setback-climbing-up-the-tech-innovation-rankings-zdnet/"><u>Samsung Pioneers in Artificial Intelligence Amidst Google's Legal Setback - Climbing Up the Tech Innovation Rankings | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-showdown-alexa-against-google-assistant-for-personalized-user-experience/"><u>The Ultimate Showdown: Alexa Against Google Assistant for Personalized User Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mobile-picks-of-tech-reviewers-at-zdnet-real-world-device-usage-insights/"><u>Top Mobile Picks of Tech Reviewers at ZDNet: Real-World Device Usage Insights</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-get-final-cut-pro-for-less-take-advantage-of-educational-pricing-for-2024/"><u>Updated Get Final Cut Pro for Less Take Advantage of Educational Pricing for 2024</u></a></li>
 </ul></div>
 

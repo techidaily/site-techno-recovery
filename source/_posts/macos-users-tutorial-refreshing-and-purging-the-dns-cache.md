@@ -1,7 +1,7 @@
 ---
 title: "MacOS Users' Tutorial: Refreshing and Purging the DNS Cache"
-date: 2024-11-30T17:08:05.869Z
-updated: 2024-12-04T22:41:07.236Z
+date: 2024-12-07T19:43:39.540Z
+updated: 2024-12-11T05:58:34.904Z
 categories:
   - BestProducts
 description: "This Article Describes MacOS Users' Tutorial: Refreshing and Purging the DNS Cache"
@@ -26,7 +26,7 @@ New Line Cinemas
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Watch 'The Lord of the Rings' in Chronological Order
@@ -47,7 +47,7 @@ New Line Cinemas
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Watch 'The Lord of the Rings' in Order of Release
@@ -66,7 +66,7 @@ New Line Cinemas
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Is the Right Order?
@@ -76,7 +76,7 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does 'The Rings of Power' Take Place?
@@ -86,7 +86,7 @@ New Line Cinemas
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is 'The Hunt for Gollum'?
@@ -137,24 +137,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-1-chart-conversion-software/"><u>[New] No. 1 Chart Conversion Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-procuring-gratis-picture-frame-media/"><u>[New] Secrets to Procuring Gratis Picture Frame Media</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-comprehensive-guide-to-storing-itunes-video-files-for-2024/"><u>[Updated] Comprehensive Guide to Storing iTunes Video Files for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-stardew-essentials-unveiling-ginger-islands-secrets/"><u>[Updated] In 2024, Stardew Essentials Unveiling Ginger Island's Secrets</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-advanced-google-slides-techniques-adding-youtube-media/"><u>2024 Approved Advanced Google Slides Techniques Adding YouTube Media</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-free-and-premium-wav-converter-tools-top-picks-for-superior-audio-quality/"><u>Best Free and Premium WAV Converter Tools: Top Picks for Superior Audio Quality</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/disabling-the-audio-narration-feature-in-your-samsung-television/"><u>Disabling the Audio Narration Feature in Your Samsung Television</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/distinguishing-features-how-does-an-ipad-stand-out-from-regular-tablets/"><u>Distinguishing Features: How Does an iPad Stand Out From Regular Tablets?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-itel-p55-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Itel P55 5G</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/exclusive-online-cam-dance-duels/"><u>Exclusive Online Cam Dance Duels</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-back-to-streaming-flawlessly-top-19-fixes-for-netflix-problems-on-lg-televisions/"><u>Get Back to Streaming Flawlessly: Top 19 Fixes for Netflix Problems on LG Televisions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/google-pixel-watch-and-apple-watch-series-eight-showdown-a-detailed-review-to-help-you-decide/"><u>Google Pixel Watch and Apple Watch Series Eight Showdown: A Detailed Review to Help You Decide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-in-depth-look-screen-capture-tools-for-mac/"><u>In 2024, In-Depth Look Screen Capture Tools for Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/m3-vs-m2-macbook-air-an-in-depth-review-to-determine-apples-top-laptop-pick/"><u>M3 Vs. M2 MacBook Air: An In-Depth Review to Determine Apple’s Top Laptop Pick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-pairing-process-how-to-attach-a-samsung-remote-to-any-tv/"><u>Mastering the Pairing Process: How to Attach a Samsung Remote to Any TV</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/save-big-on-top-rated-traveler-essentials-iphone-accessories-and-charger-deals-at-20-off-exclusive/"><u>Save Big on Top-Rated Traveler Essentials: IPhone Accessories & Charger Deals at 20% OFF! Exclusive</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-enabling-googles-advanced-account-security-for-gmail-users/"><u>Step by Step Tutorial on Enabling Google's Advanced Account Security for Gmail Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-wallets-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallets - Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-steps-to-perform-a-full-system-restore-on-your-lenovo-computer/"><u>Ultimate Guide: Steps to Perform a Full System Restore on Your Lenovo Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screencapture-simplified-the-comprehensive-camstudio-review/"><u>[New] 2024 Approved ScreenCapture Simplified The Comprehensive CamStudio Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-streaming-showdown-face-off-between-obs-and-shadowtoolkit/"><u>2024 Approved Screen Streaming Showdown Face Off Between OBS & ShadowToolKit</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-toolwiz-revolutionizes-camera-use-a-comprehensive-review-for-photographers/"><u>2024 Approved Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effective-methods-for-merging-first-and-last-names-with-microsoft-excel/"><u>Effective Methods for Merging First & Last Names with Microsoft Excel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exciting-comeback-alert-discover-the-new-and-improved-mophie-juice-pack-on-zdnet/"><u>Exciting Comeback Alert! Discover the New-and-Improved Mophie Juice Pack on ZDNet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-fixing-kernel-inpage-errors-and-preventing-them/"><u>Expert Advice on Fixing Kernel Inpage Errors and Preventing Them</u></a></li>
+<li><a href="https://article-posts.techidaily.com/find-your-next-favorite-free-video-player-in-our-top-12-picks-pcmobile-for-2024/"><u>Find Your Next Favorite Free Video Player in Our Top 12 Picks (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-preventing-the-sims-4-from-crashing-on-windows-a-comprehensive-guide/"><u>Fixes for Preventing The Sims 4 From Crashing on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-hiking-companion-accessories-at-a-discount-20-off-all-nomad-inspired-iphone-cases-portable-chargers-and-apple-watch-straps-exclusive-deal/"><u>Get Your Hiking Companion Accessories at a Discount: 20% Off All Nomad-Inspired iPhone Cases, Portable Chargers & Apple Watch Straps - Exclusive Deal !</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-repair-binkw32dll-not-detected-problems-on-windows/"><u>How to Address and Repair 'binkw32.dll Not Detected' Problems on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-sierra-icloud-drives-a-complete-overview/"><u>In 2024, Exploring Sierra iCloud Drives – A Complete Overview</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-infinix-hot-30-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Infinix Hot 30 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/julys-top-discounted-apple-gadgets-iphones-to-ipads-special-deals-revealed/"><u>July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/newest-airpods-arrival-predicted-insights-and-how-to-secure-your-preorder-zdnets-guide/"><u>Newest AirPods Arrival Predicted: Insights & How to Secure Your Preorder | ZDNet's Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-troubleshooting-companion-restoring-srt-functionality-in-premiere/"><u>The Troubleshooting Companion Restoring SRT Functionality in Premiere</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-enjoying-top-8-free-roku-channels-this-year/"><u>The Ultimate Guide to Enjoying Top 8 Free Roku Channels This Year</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-3-essentials-for-maintaining-an-immaculate-appearance-on-your-iphone-13-insights-from-zdnet/"><u>Top 3 Essentials for Maintaining an Immaculate Appearance on Your iPhone 13 - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Utilizing Apple Pay: Enhance Your Shopping Experience Both Offline & Online - Insights"
-date: 2024-11-28T08:16:22.010Z
-updated: 2024-12-04T17:04:18.830Z
+date: 2024-12-10T05:37:49.606Z
+updated: 2024-12-10T21:33:21.033Z
 tags:
   - apple
 categories:
@@ -28,12 +28,16 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
@@ -66,6 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -81,10 +89,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -102,10 +106,6 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I set up Apple Pay from my iPhone Settings?
 
 To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
@@ -115,21 +115,17 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,18 +197,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-does-recording-your-viewed-youtube-content-violate-laws/"><u>[Updated] 2024 Approved Does Recording Your Viewed YouTube Content Violate Laws?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-crystal-clear-on-screen-discovering-the-cg318-4k-monitor/"><u>2024 Approved Crystal Clear on Screen Discovering the CG318-4K Monitor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-on-inshot-film-splits/"><u>2024 Approved Expert Tips on Inshot Film Splits</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-edge-gadgets-for-elite-gamers-for-2024/"><u>Cutting-Edge Gadgets for Elite Gamers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-narzo-60-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme Narzo 60 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-aficionados-compilation-ranking-the-leading-11-game-dealers/"><u>Game Aficionados' Compilation: Ranking the Leading 11 Game Dealers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-top-tips-for-planning-a-memorable-labor-day-celebration-insights-from-zdnet/"><u>Ultimate Guide: Top Tips for Planning a Memorable Labor Day Celebration - Insights From ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unbeatable-choice-why-the-waterproof-blink-mini-2-is-a-superior-pick-over-other-wyze-cams-insights-from-zdnet/"><u>Unbeatable Choice: Why the Waterproof Blink Mini 2 Is a Superior Pick Over Other Wyze Cams - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleash-the-sunlight-exploring-the-best-solar-charger-options-for-2-as-of-2024-by-zdnet/"><u>Unleash the Sunlight: Exploring the Best Solar Charger Options for 2# as of 2024 by ZDNET</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-sound-drivers-on-windows-11/"><u>Updating Sound Drivers on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-the-ecoflow-river-3-outshines-its-competitors-as-a-premier-portable-battery-option-a-tech-reviewers-perspective/"><u>Why the EcoFlow River ^3 Outshines Its Competitors as a Premier Portable Battery Option - A Tech Reviewer's Perspective</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/your-next-bbq-companion-exclusive-offer-on-e-bikes-with-built-in-grills/"><u>Your Next BBQ Companion: Exclusive Offer on E-Bikes with Built-In Grills</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-picks-the-top-gas-grills-for-outdoor-cooking-in-202/"><u>ZDNet's Expert Picks: The Top Gas Grills for Outdoor Cooking in 202</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-direct-tweeted-media-to-your-ears-in-mp3/"><u>[New] Direct Tweeted Media to Your Ears in MP3</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>[New] In 2024, Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-conversion-techniques-youtube-to-mpeg-encoding/"><u>[Updated] Best Conversion Techniques YouTube to MPEG Encoding</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-autoplay-features-on-apple-music-for-a-better-listening-experience/"><u>Avoiding Autoplay Features on Apple Music for a Better Listening Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bending-words-in-media-landscapes/"><u>Bending Words in Media Landscapes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-screen-with-your-logitech-keyboard-a-step-by-step-guide/"><u>Capturing Screen with Your Logitech Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effective-strategies-for-organizing-installed-programs-via-windows-control-panel-masterclass-by-yl-software-professionals/"><u>Effective Strategies for Organizing Installed Programs via Windows Control Panel | Masterclass by YL Software Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expertly-chosen-find-the-best-15-free-applications-to-efficiently-uninstall-software/"><u>Expertly Chosen: Find the Best 15 Free Applications to Efficiently Uninstall Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-crystal-clear-photos-overcoming-auto-focus-challenges-on-an-iphone/"><u>Get Crystal Clear Photos: Overcoming Auto-Focus Challenges on an iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-started-with-x-previously-known-as-twitter-user-registration-tips/"><u>Getting Started with X (Previously Known as Twitter): User Registration Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-msi-afterburner-failure-to-recognize-your-graphics-card-in-windows-10-or-11/"><u>How to Fix MSI Afterburner Failure to Recognize Your Graphics Card in Windows 10 or 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-microphone-errors-in-xbox-app-on-windows-11-systems/"><u>Navigating Microphone Errors in Xbox App on Windows 11 Systems</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/quick-guide-restoring-lost-projects-in-eclipse-with-minimal-hassle/"><u>Quick Guide: Restoring Lost Projects in Eclipse with Minimal Hassle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722895238557-step-by-step-guide-eliminating-unwanted-colors-and-deformities-from-pc-screens/"><u>Step-by-Step Guide: Eliminating Unwanted Colors and Deformities From PC Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-kid-friendly-films-streaming-on-netflix-right-now/"><u>Top Kid-Friendly Films Streaming on Netflix Right Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-ups-battery-solutions/"><u>Top-Ranking UPS Battery Solutions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-fb-ad-success-no-cost-for-video-creation-tools/"><u>Unlocking FB Ad Success No Cost for Video Creation Tools</u></a></li>
 </ul></div>
 

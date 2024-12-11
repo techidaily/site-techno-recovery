@@ -1,7 +1,7 @@
 ---
 title: "Pros' Choice: A Comprehensive Ranking of the Leading Compact Tablets in 202^[4 - Expert Reviews & Insights"
-date: 2024-12-04T03:15:33.412Z
-updated: 2024-12-05T07:37:07.189Z
+date: 2024-12-05T08:51:25.071Z
+updated: 2024-12-10T23:46:28.376Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ more buying choices
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -45,7 +45,7 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,7 +63,7 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -73,7 +73,7 @@ Over the past week and a half, I've used (or attempted to use) the 11-inch iPad 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
@@ -114,6 +114,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What I'd like to see in the next model
 
 **More flexible software:** The limitations of iPadOS remain with every generation of iPad reviewed; I can talk all day about how lovely it'd be to have native apps that give me something remotely close to their desktop counterparts or how every iPadOS update feels like another small step towards an ever-distant [touchscreen MacBook dream](https://www.zdnet.com/article/touchscreen-macbook-4-reasons-why-we-love-the-idea-and-4-reasons-why-we-dont/).
@@ -137,10 +141,6 @@ Of course, slimming down the iPad Pro means Apple likely won't move towards addi
 Apple's tablet lineup is ultimately (and has always been) confined by an operating system that promotes flexibility and ease of use over high-power multitasking. That balance may shift come WWDC, should the company pitch a more ambitious, AI-driven version of iPadOS.
 
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe8ca889-25e4-45e8-8c60-5312be920c4b%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -176,17 +176,18 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-mac-video-frames-catalog-max-156-chars/"><u>[New] Ultimate Mac Video Frames Catalog (Max 156 Chars)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-swiftly-flip-your-movie-with-vlcs-rotation-feature/"><u>[Updated] 2024 Approved Swiftly Flip Your Movie with VLC's Rotation Feature</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-elevate-small-screen-experience-with-these-leading-and-affordable-tools-to-download-youtubes-tiny-videos-for-2024/"><u>[Updated] Elevate Small Screen Experience with These Leading & Affordable Tools to Download YouTubes' Tiny Videos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-edit-drone-videos/"><u>2024 Approved How to Edit Drone Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-faces-legal-battle-as-doj-files-lawsuit-implications-for-iphone-enthusiasts-and-ios-app-creators-insights/"><u>Apple Faces Legal Battle as DOJ Files Lawsuit: Implications for iPhone Enthusiasts & iOS App Creators - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-steps-for-setting-up-your-new-ipad-tips-and-tricks/"><u>Essential Steps for Setting Up Your New iPad - Tips & Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-create-an-individualistic-meme-masterpiece/"><u>In 2024, Create an Individualistic Meme Masterpiece</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-moto-g73-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Moto G73 5G FRP Without Computer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-understanding-the-functionality-of-m1-max-clips/"><u>In 2024, Understanding the Functionality of M1 Max Clips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/incorporating-background-scenes-for-visual-depth-for-2024/"><u>Incorporating Background Scenes for Visual Depth for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-elegance-top-rated-titanium-apple-watch-band-reviewed-on-zdnet/"><u>Ultimate Elegance: Top-Rated Titanium Apple Watch Band Reviewed on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-enigmatic-homeos-a-glimpse-through-the-latest-tvos-dev-beta-insights-by-zdnet/"><u>Unveiling Apple's Enigmatic 'HomeOS': A Glimpse Through the Latest tvOS Dev Beta - Insights by ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-which-should-you-use-obs-studio-or-bandicam-in-2024/"><u>[New] Which Should You Use, OBS Studio or Bandicam, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-moto-e13-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Moto E13 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-technical-dive-into-gesture-and-movement-sensors/"><u>2024 Approved A Technical Dive Into Gesture and Movement Sensors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comctl32dll-unavailable-or-lost-heres-how-to-fix-it/"><u>Comctl32.dll Unavailable or Lost? Here's How to Fix It!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cutting-edge-features-explored-in-apples-latest-airpods-review-by-zdnet-generation-3-reimagined/"><u>Cutting Edge Features Explored in Apple's Latest AirPods Review by ZDNET – Generation 3 Reimagined!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-photography-top-tips-for-better-iphoneipad-shots/"><u>Enhancing Photography: Top Tips for Better iPhone/iPad Shots</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-engagement-in-discord-servers-with-bot-technology-a-how-to/"><u>Maximizing Engagement in Discord Servers with Bot Technology: A How-To</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-sharing-video-captures-of-ps5-games/"><u>Step-by-Step Instructions for Sharing Video Captures of PS5 Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamers-handbook-understanding-the-intricacies-of-twitch-chat-for-new-users/"><u>Streamer's Handbook: Understanding the Intricacies of Twitch Chat for New Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-cheat-sheet-6-ways-chatgpt-can-revolutionize-your-job-hunt/"><u>The Ultimate Cheat Sheet: 6 Ways ChatGPT Can Revolutionize Your Job Hunt</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-s23-ultra-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy S23 Ultra Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-labor-day-offer-grab-a-24-discount-on-apples-airtags-at-walmart-zdnet-exclusive-deal/"><u>Unbeatable Labor Day Offer: Grab a $24 Discount on Apple's AirTags at Walmart | ZDNET Exclusive Deal!</u></a></li>
 </ul></div>
 

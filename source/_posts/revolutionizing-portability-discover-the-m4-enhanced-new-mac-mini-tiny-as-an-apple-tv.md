@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Portability: Discover the M4-Enhanced New Mac Mini, Tiny as an Apple TV!"
-date: 2024-12-02T06:13:36.194Z
-updated: 2024-12-04T22:40:06.046Z
+date: 2024-12-04T10:04:15.764Z
+updated: 2024-12-10T23:24:05.957Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
@@ -35,7 +31,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -53,7 +49,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -73,7 +69,7 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -93,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -113,6 +109,10 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,18 +168,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nfographic-social-video-marketing-tips-for-small-business/"><u>[New] [Infographic] Social Video Marketing Tips for Small Business</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/7-of-our-favorite-note-taking-apps-for-ipad-and-ipad-pro/"><u>7 of Our Favorite Note-Taking Apps for iPad and iPad Pro</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-comprehensive-look-at-youtuber-snippets-for-2024/"><u>A Comprehensive Look at Youtuber Snippets for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-note-12t-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi Note 12T Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/converti-file-tga-a-formato-jpeg-online-gratuitamente-con-movavi/"><u>Converti File TGA a Formato JPEG Online Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cuff-blood-pressure-monitors-digital-thermometers-and-glucose-meters-that-can-sync-data-with-smartphone-apps/"><u>Cuff Blood Pressure Monitors, Digital Thermometers, and Glucose Meters that Can Sync Data with Smartphone Apps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-nokia-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Nokia PIN</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-tecno-pop-7-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Tecno Pop 7 Pro Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/introducing-the-simplified-sonos-s2-app-easy-sound-mastery-with-hidden-drawbacks-zdnet/"><u>Introducing the Simplified Sonos S2 App: Easy Sound Mastery with Hidden Drawbacks | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-battle-the-unexpected-outcome-revealed-tech-innovations/"><u>Pixel 9 Pro XL Vs. IPhone 15 Pro Photography Battle: The Unexpected Outcome Revealed | Tech Innovations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-beginners-path-to-broadcasting-your-gaming-adventures-on-ps4/"><u>The Beginner's Path to Broadcasting Your Gaming Adventures on PS4</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-generation-of-connectivity-embracing-verizon-5g/"><u>The Next Generation of Connectivity: Embracing Verizon 5G</u></a></li>
-<li><a href="https://win-lab.techidaily.com/wechseln-sie-von-android-zu-iphone-transferieren-von-daten-mit-diesen-5-einfachen-schritten/"><u>Wechseln Sie Von Android Zu iPhone: Transferieren Von Daten Mit Diesen 5 Einfachen Schritten</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-10-essential-tips-for-achieving-wealth-through-youtube-video-views/"><u>[New] 2024 Approved 10 Essential Tips for Achieving Wealth Through YouTube Video Views</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unlock-your-potential-mastering-the-art-of-youtube-edits/"><u>[New] 2024 Approved Unlock Your Potential Mastering the Art of YouTube Edits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-pages-for-stylish-shiny-3d-type-creations-for-2024/"><u>[New] Top Pages for Stylish, Shiny 3D Type Creations for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-enhancing-accessibility-with-vimeo-subtitles/"><u>[Updated] 2024 Approved Enhancing Accessibility with Vimeo Subtitles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-prevent-harmful-consequences-from-an-overlooked-battery-protection-mechanism-affecting-airtags-and-more-zdnet/"><u>How to Prevent Harmful Consequences From an Overlooked Battery Protection Mechanism Affecting AirTags & More | ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-pathway-to-prosperity-a-graphic-designers-journey/"><u>In 2024, The Pathway to Prosperity A Graphic Designer's Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-installing-fandango-on-your-amazon-fire-tv/"><u>Step-by-Step Guide to Installing Fandango on Your Amazon Fire TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-handling-windows-11s-read-only-files/"><u>Strategies for Handling Windows 11'S Read-Only Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-big-advantages-of-sticking-with-apple-watch-series-e-a-comparison-against-series-10-analysis-by-zdnets-senior-editor/"><u>The Big Advantages of Sticking with Apple Watch Series E: A Comparison Against Series 10 | Analysis by ZDNet's Senior Editor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-non-opening-applications-on-your-mac/"><u>Troubleshooting Steps: Resolving Non-Opening Applications on Your Mac</u></a></li>
 </ul></div>
 

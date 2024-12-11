@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: A Comprehensive Guide to Using It In-Store & Online - Insights"
-date: 2024-12-01T06:34:55.408Z
-updated: 2024-12-05T05:18:39.251Z
+date: 2024-12-05T05:10:34.346Z
+updated: 2024-12-11T00:53:06.990Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -39,6 +43,10 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -63,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
@@ -73,6 +81,10 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -98,10 +110,6 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I set up Apple Pay from my iPhone Settings?
 
 To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
@@ -111,17 +119,9 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is NFC?
 
@@ -137,10 +137,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -148,6 +144,10 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -197,20 +197,20 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-captured-discourse-inspection-for-2024/"><u>[New] Captured Discourse Inspection for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-deal-on-iphones-unveiling-the-affordable-iphone-14-plus-with-exceptional-all-day-battery-top-features-that-will-win-your-heart/"><u>Discover the Ultimate Deal on iPhones! Unveiling the Affordable iPhone 14 Plus with Exceptional All-Day Battery: Top Features That Will Win Your Heart</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-guide-keeping-your-airpods-pristine-the-complete-cleaning-and-sanitizing-process/"><u>Essential Guide: Keeping Your AirPods Pristine - The Complete Cleaning & Sanitizing Process</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-power-of-location-aware-technology-on-your-iphone-xr-or-later-models-thanks-to-apples-latest-vision-pro-update/"><u>Explore the Power of Location-Aware Technology on Your iPhone XR or Later Models Thanks to Apple's Latest Vision Pro Update</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-era-of-driving-with-upgraded-apple-carplay-features-revealed-at-wwdc-2024-insights-for-auto-enthusiasts-zdnet/"><u>Exploring the New Era of Driving with Upgraded Apple CarPlay Features Revealed at WWDC 2024 | Insights for Auto Enthusiasts | ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-game-nightmares-dealing-with-star-wars-jedi-fallen-order-not-starting/"><u>Fix Your Game Nightmares: Dealing with Star Wars Jedi: Fallen Order Not Starting</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-get-your-wireless-keyboard-working-again-on-a-pc-with-windows/"><u>How to Get Your Wireless Keyboard Working Again on a PC with Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s18-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S18 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-upcoming-samsung-galaxy-z-flip-6-what-to-expect-on-price-availability-and-innovation/"><u>Inside the Upcoming Samsung Galaxy Z Flip 6 – What to Expect on Price, Availability, and Innovation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lenovofrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your LenovoFRP Lock</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/limited-time-offer-get-the-new-apple-pencil-2nd-generation-at-a-steep-discount-only-95-this-labor-day-shop-now/"><u>Limited Time Offer: Get the New Apple Pencil (2Nd Generation) at a Steep Discount - Only $95 This Labor Day! Shop Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/roku-tv-troubleshooting-how-to-navigate-without-a-physical-remote/"><u>Roku TV Troubleshooting: How to Navigate Without a Physical Remote</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-streaming-disneyplus-on-your-smart-tv-with-chromecast/"><u>Step-by-Step Guide: Streaming Disney+ on Your Smart TV with Chromecast</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-error-30005-failed-file-creation-code-32/"><u>Steps to Correct Error 30005: Failed File Creation, Code 32</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-mastering-subtitle-addition-and-removal-with-handbrake/"><u>The Ultimate Tutorial: Mastering Subtitle Addition and Removal with Handbrake</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-luxury-makeup-techniques-unveiled/"><u>[Updated] 2024 Approved Luxury Makeup Techniques Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-virtual-presence-in-ms-teams/"><u>[Updated] Fine-Tuning Virtual Presence in MS Teams</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-the-savings-game-in-tech-obtaining-student-only-deals-at-the-microsoft-store/"><u>Ace the Savings Game in Tech: Obtaining Student-Only Deals at the Microsoft Store</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/aural-tapestry-weaving-sounds-into-cinematic-threads/"><u>Aural Tapestry Weaving Sounds Into Cinematic Threads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/combine-fortnite-profiles-effortlessly-with-this-simple-method/"><u>Combine Fortnite Profiles Effortlessly with This Simple Method</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decode-the-access-denied-error-resolving-error-code-0x05-on-windows-updates-easily/"><u>Decode the Access Denied Error: Resolving Error Code 0X05 on Windows Updates Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-ios-181-beta-with-advanced-apple-intelligence-join-the-public-trial-now/"><u>Discover the Latest iOS 18.1 Beta with Advanced Apple Intelligence - Join the Public Trial Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977643458-get-your-hp-designjet-500-driver-instantly-free-download/"><u>Get Your HP DesignJet 500 Driver Instantly, FREE Download</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-security-alert-apple-warns-against-rising-threat-of-hired-assassin-malware-is-your-device-at-risk/"><u>IPhone Security Alert: Apple Warns Against Rising Threat of Hired Assassin Malware - Is Your Device at Risk?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-youtube-gaming-live-stream-basics-for-2024/"><u>Navigating YouTube Gaming Live Stream Basics for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-chronological-viewing-plan-for-the-fellowship-of-the-ring-two-towers-and-return-of-the-king/"><u>The Complete Chronological Viewing Plan for The Fellowship of the Ring, Two Towers & Return of the King.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-smart-tvs-how-internet-connectivity-changes-your-viewing-experience/"><u>Understanding Smart TVs: How Internet Connectivity Changes Your Viewing Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unravel-word-mysteries-quickly-with-windows-11/"><u>Unravel Word Mysteries Quickly with Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-release-anticipated-launch-of-new-airpods-lite-followed-by-airpods-max-in-the-near-future-tech-news/"><u>Upcoming Release: Anticipated Launch of New 'AirPods Lite', Followed by AirPods Max in the Near Future | Tech News</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-how-to-freeze-frame-in-a-video-easily/"><u>Updated In 2024, How to Freeze Frame in a Video Easily</u></a></li>
 </ul></div>
 

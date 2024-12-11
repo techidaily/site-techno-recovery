@@ -1,7 +1,7 @@
 ---
 title: Is It Possible to Use Your PS4 Games with the New PS5 Console?
-date: 2024-09-04T00:27:22.044Z
-updated: 2024-09-05T00:27:22.044Z
+date: 2024-12-03T17:56:15.341Z
+updated: 2024-12-10T20:11:29.882Z
 categories:
   - BestProducts
 description: This Article Describes Is It Possible to Use Your PS4 Games with the New PS5 Console?
@@ -17,6 +17,10 @@ thumbnail: https://www.lifewire.com/thmb/Dw0MiDkV5BWC7VOpOtsXRx5eoaY=/400x300/fi
 * WhatsApp: Go to**Settings** \>**Privacy** and toggle**Read receipts** on. Group chats use read receipts by default.
 
  Here's how to tell if someone read your text on Android and iOS smartphones. This article also covers WhatsApp, Facebook Messenger, and Instagram.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Read Receipts on iPhone
 
@@ -35,11 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/Dw0MiDkV5BWC7VOpOtsXRx5eoaY=/400x300/fi
  If you don't want people to know that when you read their messages,[turn off read receipts on your iPhone or Android](https://www.lifewire.com/turn-read-receipts-on-or-off-on-iphone-and-android-5074420) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Read Receipts on Android Smartphones
 
  The process is similar on Android. The[Google Messages app](https://www.lifewire.com/use-android-messages-app-4177697) supports read receipts, but the carrier must also support this feature. Your recipient must have read receipts activated for you to see if they read your message.
@@ -53,18 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/Dw0MiDkV5BWC7VOpOtsXRx5eoaY=/400x300/fi
 3. Tap the toggle next to the read receipts options, which might be called**Send read receipts** ,**Read receipts** , or**Request receipt** , depending on the device you have.  
 ![The Google Messages menu, Settings screen, and RCS chats options](https://www.lifewire.com/thmb/B7JVQg4q7aeE8dmAE_ap6ttFnuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-read-receipts-rcs-chats-19d035e50fc3487ba50f8d7d782765fa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## WhatsApp Read Receipts
 
  WhatsApp uses built-in read receipts. The status of sent messages[is tracked through check marks next to messages](https://www.lifewire.com/how-to-track-messages-with-whatsapp-check-marks-4781495) . One grey check mark means the message was sent; two grey check marks mean the message was delivered, and two blue check marks mean the message was read.
@@ -73,12 +63,6 @@ thumbnail: https://www.lifewire.com/thmb/Dw0MiDkV5BWC7VOpOtsXRx5eoaY=/400x300/fi
 
  WhatsApp read receipts are a two-way street. If you disable read receipts to prevent others from knowing you read their messages, you won't know when they read yours.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### WhatsApp Message Details
 
  If you're looking for specific information about the messages you've sent in WhatsApp, here's how to see those details:
@@ -89,17 +73,9 @@ thumbnail: https://www.lifewire.com/thmb/Dw0MiDkV5BWC7VOpOtsXRx5eoaY=/400x300/fi
 ![Message details in WhatsApp](https://www.lifewire.com/thmb/kKfFfjrRV6uuvyv_nzBN_LBJWxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-read-my-text-message-4148206-69a5bd8788d44fe2ad7afbdcda9ae3e4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Messenger Read Receipts
 
  Like most texting apps,[Facebook Messenger](https://www.lifewire.com/facebook-messenger-4103719) includes a handy toggle called**Show read receipts** . When it's turned on, you'll be able to see when people read your messages and they'll see when you've read theirs.
@@ -111,18 +87,20 @@ thumbnail: https://www.lifewire.com/thmb/Dw0MiDkV5BWC7VOpOtsXRx5eoaY=/400x300/fi
 3. Scroll down and tap**Privacy & safety** .  
 ![The Chats, menu, and settings in the Facebook Messenger app for Android](https://www.lifewire.com/thmb/-ps7dMRHQclfLVgQWYJGmoAfjQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-messenger-app-settings-ac60afcaccab437aaa235122cf6cebc8.png)
 4. Choose**Read receipts** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Tap the toggle next to**Show read receipts** so it turns on.  
 ![The Privacy and security screen and read receipts toggle in the Facebook Messenger app](https://www.lifewire.com/thmb/bbHvAPlOyTbtWcVcsFhlUuuQUy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/read-receipts-facebook-messenger-c45c63e4858e4a67b967003f10089270.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Facebook Messenger app provides detailed indicators about the delivery and read status each time you send a message. When your message is actively sending, you'll briefly see a blue circle. When it's sent, you'll see a blue circle with a checkmark. When it's delivered, you'll see a filled-in blue circle. Finally, when it's read, you'll see a small version of your recipient's profile image below the message.
 
 ![Read indicators in Facebook Messenger](https://www.lifewire.com/thmb/KfSmMETDPxk2OzNUveEZTEEAf6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-read-my-text-message-4148206-6116e0f818784404a8debc67972541c2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Instagram Read Receipts
 
@@ -161,8 +139,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +146,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-perfect-screen-capture-on-mac-the-top-5-recommended-approaches/"><u>[New] 2024 Approved Perfect Screen Capture on Mac The Top 5 Recommended Approaches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-macs-top-10-easy-to-use-screencasting-programs-unveiled-for-2024/"><u>[New] Mac's Top 10 Easy-to-Use Screencasting Programs Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-thumbnails-that-get-views/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Thumbnails that Get Views</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2023-update-sony-bdp-s3700-in-depth-analysis-for-2024/"><u>2023 Update Sony BDP-S3700 in Depth Analysis for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpod-sync-guide-for-your-hp-desktop-or-laptop-users/"><u>AirPod Sync Guide for Your HP Desktop or Laptop Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enjoy-24-discount-on-airpods-pro-2-the-new-earbuds-that-double-as-hearing-devices-today-only-exclusive-offer/"><u>Enjoy 24% Discount on AirPods Pro 2 - The New Earbuds that Double as Hearing Devices, Today Only! Exclusive Offer</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-the-effectiveness-of-windows-defender-in-preventing-viral-threats-expert-analysis-by-yl-software/"><u>Exploring the Effectiveness of Windows Defender in Preventing Viral Threats – Expert Analysis by YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/fact-checking-are-discords-indolence-notifications-accurate/"><u>Fact-Checking: Are Discord's Indolence Notifications Accurate?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-apple-watchs-cellular-service-disruptions-effectively/"><u>Fixing the Apple Watch's Cellular Service Disruptions Effectively</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-hdmi-connection-between-your-laptop-and-tv-screen/"><u>How To: Set Up HDMI Connection Between Your Laptop and TV Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-how-apples-latest-m2-tablet-outshines-competitors-comprehensive-review/"><u>Top Picks : How Apple's Latest M2 Tablet Outshines Competitors | Comprehensive Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-tablets-comprehensive-reviews-by-tech-gurus-digital-trends/"><u>Top-Rated Tablets : Comprehensive Reviews by Tech Gurus | Digital Trends</u></a></li>
+</ul></div>
 

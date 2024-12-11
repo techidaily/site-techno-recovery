@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air with Powerful M1 Chip for Only $649 - Best Price Available | Shop Smart With ZDNET
-date: 2024-12-01T22:42:40.317Z
-updated: 2024-12-05T00:31:06.250Z
+date: 2024-12-09T07:16:47.098Z
+updated: 2024-12-10T18:18:13.552Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,15 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-acknowledgment-series-free-vs-paid-template-choices-for-2024/"><u>[New] Acknowledgment Series Free vs Paid Template Choices for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-the-art-of-action-shots-with-gopro-for-2024/"><u>[New] Mastering the Art of Action Shots with GoPro for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-squashing-social-media-smears-with-grace/"><u>[Updated] Squashing Social Media Smears with Grace</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-picart-technique-for-clean-images-for-2024/"><u>[Updated] The Ultimate PicArt Technique for Clean Images for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-learn-how-to-obtain-fee-free-pictorial-entertainment/"><u>2024 Approved Learn How To Obtain Fee-Free Pictorial Entertainment</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-preeminent-6-social-channels-for-commercial-expansion/"><u>2024 Approved Preeminent 6 Social Channels for Commercial Expansion</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategies-to-retrieve-accidentally-deleted-messages-on-mobile-phones/"><u>Comprehensive Strategies to Retrieve Accidentally Deleted Messages on Mobile Phones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-megapixels-to-ai-mastery-the-remarkable-journey-and-future-promise-of-smartphone-photography-explored/"><u>From Megapixels to AI Mastery: The Remarkable Journey and Future Promise of Smartphone Photography | Explored</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-office-how-the-new-microsoft-surface-pro-8-transforms-business-productivity-review/"><u>Inside the Office: How the New Microsoft Surface Pro 8 Transforms Business Productivity (Review )</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-split-and-cut-3gp-files-with-ease-a-comprehensive-guide/"><u>New 2024 Approved Split and Cut 3GP Files with Ease A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-pairing-setting-up-your-phone-with-the-oculus-quest-2-headset/"><u>Seamless Pairing: Setting up Your Phone with the Oculus Quest 2 Headset</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-itel-a70-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Itel A70</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repair-steps-for-iphone-with-fluid-in-charging-jack-what-you-need-to-know/"><u>Troubleshooting and Repair Steps for iPhone with Fluid in Charging Jack - What You Need to Know!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engineering-engaging-media-excerpts/"><u>[Updated] 2024 Approved Engineering Engaging Media Excerpts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-a-list-playbook-swiftly-climb-the-social-ladder-on-instagram-with-these-essentials/"><u>[Updated] 2024 Approved The A-List Playbook Swiftly Climb the Social Ladder on Instagram with These Essentials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eu-orders-apple-to-pay-19b-fine-over-violations-of-competitive-rules-in-app-distribution-news/"><u>EU Orders Apple to Pay €1.9B Fine Over Violations of Competitive Rules in App Distribution News</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-take-on-iphone-15-a-must-have-upgrade-for-tech-professionals-and-beyond-insights/"><u>Expert Take on iPhone 15: A Must-Have Upgrade for Tech Professionals and Beyond - Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-x6-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco X6 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-time-efficient-methods-for-recording-vimeo-videos/"><u>In 2024, Time-Efficient Methods for Recording Vimeo Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-dell-tapping-functionality-windows-7/"><u>Optimize Dell Tapping Functionality (Windows 7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/parent-approved-kid-friendly-tablets-the-ultimate-guide-to-choosing-the-right-one-insights-from-zdnet/"><u>Parent Approved Kid-Friendly Tablets: The Ultimate Guide to Choosing the Right One | Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-g24-power-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola G24 Power Screen | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-respiratory-tracking-capability-in-apples-vision-pro-revealed-by-zdnet/"><u>Upcoming Respiratory Tracking Capability in Apple’s Vision Pro, Revealed by ZDNet</u></a></li>
 </ul></div>
 

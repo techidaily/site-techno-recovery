@@ -1,7 +1,7 @@
 ---
 title: Email and Phone Lost? Here's How to Retrieve Your FB Credentials Without Them
-date: 2024-09-04T00:26:02.174Z
-updated: 2024-09-05T00:26:02.174Z
+date: 2024-12-07T03:41:31.040Z
+updated: 2024-12-11T09:43:10.404Z
 categories:
   - BestProducts
 description: This Article Describes Email and Phone Lost? Here's How to Retrieve Your FB Credentials Without Them
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * To log in when you've forgotten your password, select your profile from the**Recent Logins** section on Facebook.com.
@@ -20,6 +24,10 @@ Close
 * If you're using the mobile app, tap**Forgot password?** to see your reset options.
 
  This article explains what to do if you forget the password to your Facebook account. The instructions apply to desktop and mobile users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Reset a Facebook Password on a Desktop 
 
@@ -29,24 +37,33 @@ Close
  If you see your profile, select it to log in automatically. You do not need to know or have access to your phone or email to do this.  
 ![The Recent Logins box on the Facebook website](https://www.lifewire.com/thmb/jKziL6y4zSeALDb9KEzGfAOgXuU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-recent-logins-bb0d9b3fce79486d9f04545eef100a27.png)  
  This only works if you checked the box to save your password the last time you logged in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. If you're on a new device or Facebook doesn't remember your last login, select**Forgot password?** to open the Find Your Account page.
 3. Enter your name or the username associated with your account, then select**Search** .  
 ![Facebook's Find Your Account form with a box for entering your email or number](https://www.lifewire.com/thmb/kGjzRgz-FazMeBBiiHKJNDwpFH4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-find-your-account-31d395421c4240c7b4b8a7e8268e0957.png)  
  If you_do_ have access to your email account, enter it here. Then, select**Try another way** to see the option to reset your FB password with a code sent to your email account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Facebook will show you matching search results. Select**This Is My Account** if you see your profile picture.  
 ![A list of Facebook profiles with This Is My Account buttons](https://www.lifewire.com/thmb/zYXu2H-Jyf-SWvyWAY_JirbjyHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-reset-your-password-217cc36f47654a799cbb1c976edaa959.png)  
  Don't see it? Select**I am not in this list** and then enter the name of a Facebook friend to help locate your account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If you recognize the partial phone number or email shown on the screen, select that option and then choose**Continue** .  
 ![The Send code via SMS option selected on Facebook's Reset your password form](https://www.lifewire.com/thmb/DM1_OORPxdPHqWGUb7p2IMfW7iY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-reset-password-sms-c45f99b6211a4ac5a302907468a9a3ba.png)  
  If you found your account but no longer have access to the phone number or email that's tied to your account, Facebook can't verify your identity.
 6. If you found your account and selected a method for receiving your reset code, enter the security code you received and select**Continue** to follow the remaining on-screen steps.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Reset Facebook Password From the Facebook App 
 
  If you use Facebook on an iOS or Android device, here's how to recover your account:
@@ -56,18 +73,6 @@ Close
 3. Facebook will display part of the email or number associated with your account. If it looks right, select that reset option followed by**Continue** .  
 ![Facebook's Find Your Account form in the mobile app](https://www.lifewire.com/thmb/2qk50gzzgHMN8Zfn-eihVpmX0nk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-app-password-recovery-75f907d2c1c94a638e820bafac5173fe.png)
 4. Enter the code that was texted or emailed to you, then tap**Continue** .
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. When asked, create a new Facebook password, then tap**Continue** again to log in.
 
 [  What to Do When Facebook Isn't Sending Security Codes ](https://www.lifewire.com/fix-facebook-security-codes-5649770) 
@@ -103,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +115,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-ideal-media-player-vlc-versus-mx-player/"><u>[New] Finding the Ideal Media Player VLC versus MX Player</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-premier-sound-storylines/"><u>[Updated] Top Premier Sound Storylines</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-youtube-shorts-thumbnail-process/"><u>2024 Approved Streamline Your YouTube Shorts Thumbnail Process</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-apple-pay-later-program-insight-on-a-new-replacement-strategy-zdnet/"><u>Apple Discontinues Apple Pay Later Program: Insight on a New Replacement Strategy - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-scenes-of-truthgpt-discovery-authorities-encounter-mullvad-vpn-leading-free-pc-games-reviewed-and-a-guide-to-quality-keyboards/"><u>Behind the Scenes of TruthGPT Discovery, Authorities Encounter Mullvad VPN, Leading Free PC Games Reviewed, and a Guide to Quality Keyboards</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-realme-c33-2023-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Realme C33 2023</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-the-blockade-how-to-successfully-launch-your-adobe-app-after-encountering-error-0xc0000-(b)c(b)22/"><u>Bypassing the Blockade: How to Successfully Launch Your Adobe App After Encountering Error 0xC0000 <B>c</B>22</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/comment-executer-windows-11-directement-a-partir-dun-support-usb/"><u>Comment Exécuter Windows 11 Directement À Partir D'un Support USB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/epic-sale-alert-for-apple-enthusiasts-score-your-favorite-airpods-at-an-unbeatable-40-price-drop-this-4th-of-july-zdnet/"><u>Epic Sale Alert for Apple Enthusiasts! Score Your Favorite AirPods at an Unbeatable $40 Price Drop This 4Th of July | ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Zero 30 5G Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-side-loading-on-iphones-how-apple-balances-costs-with-rigorous-app-reviews/"><u>Navigating Side-Loading on iPhones: How Apple Balances Costs with Rigorous App Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-lameencdll-error-messages-for-improved-audacity-performance/"><u>Resolving lame_enc.dll Error Messages for Improved Audacity Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-popular-android-wear-apps/"><u>Ultimate Guide to the Most Popular Android Wear Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-the-best-bargains-on-apple-watches-in-july-2024-featured/"><u>Uncover the Best Bargains on Apple Watches in July 2024, Featured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unexpected-a-deep-dive-into-yesterdays-missing-imessages-insights-latest-analysis/"><u>Unexpected: A Deep Dive Into Yesterday's Missing iMessages – Insights Latest Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-the-full-power-of-siri-top-secret-voice-control-tricks-for-iphone-users-explore-on-zdnet/"><u>Unleash the Full Power of Siri: Top Secret Voice Control Tricks for iPhone Users - Explore on ZDNet</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-your-video-storytelling-with-professional-voiceovers/"><u>Updated In 2024, Elevate Your Video Storytelling with Professional Voiceovers</u></a></li>
+</ul></div>
 

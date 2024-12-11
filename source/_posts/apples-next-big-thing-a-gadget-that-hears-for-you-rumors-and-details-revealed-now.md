@@ -1,7 +1,7 @@
 ---
 title: Apple's Next Big Thing - A Gadget That Hears for You? Rumors & Details Revealed Now
-date: 2024-09-04T00:26:55.436Z
-updated: 2024-09-05T00:26:55.436Z
+date: 2024-12-08T09:49:43.163Z
+updated: 2024-12-10T17:34:22.303Z
 categories:
   - BestProducts
 description: This Article Describes Apple's Next Big Thing - A Gadget That Hears for You? Rumors & Details Revealed Now
@@ -21,6 +21,10 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
@@ -31,32 +35,18 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
@@ -64,11 +54,9 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple, Inc / USPTO
 
  It's not hard to imagine that this device could be a next-generation AirPods product. It also brings to mind wearable computers like the[Humane AI pin](https://www.theverge.com/24126502/humane-ai-pin-review) . While that particular product hasn't succeeded, the concept of a wearable device with a next-generation interface could likely crop up more in the coming years.
@@ -78,12 +66,6 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -93,17 +75,9 @@ Apple, Inc / USPTO
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="150" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
@@ -111,11 +85,9 @@ Apple, Inc / USPTO
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -126,14 +98,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +111,26 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/1-top-non-apple-non-anker-magsafe-wallet-deal-of-the-year-exclusive-review-and-sale-info-techinsights/"><u>1. Top Non-Apple, Non-Anker MagSafe Wallet Deal of the Year - Exclusive Review & Sale Info | TechInsights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-unlock-the-secret-score-your-complimentary-macbook-air-m3-with-this-clever-best-buy-offer-learn-the-trick/"><u>1. Unlock the Secret: Score Your Complimentary MacBook Air M3 with This Clever Best Buy Offer – Learn The Trick!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-streaming-breaking-the-virality-chain-on-twitter/"><u>2024 Approved Social Streaming Breaking the Virality Chain on Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-ipad-pro-assessment-understanding-why-it-exceeds-as-a-tablet-but-falls-short-of-replacing-my-macbook-insights/"><u>Comprehensive iPad Pro Assessment: Understanding Why It Exceeds as a Tablet but Falls Short of Replacing My MacBook - Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-free-h264-encoder-enhance-your-hd-videos-with-this-essential-codec/"><u>Download the Free H.264 Encoder: Enhance Your HD Videos with This Essential Codec</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-adjust-your-android-settings-to-prevent-amber-warning-displays/"><u>How To Adjust Your Android Settings to Prevent Amber Warning Displays</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-se-2022-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone SE (2022) When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oneplus-nord-ce-3-lite-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For OnePlus Nord CE 3 Lite 5G Unlock Without Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-m14-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy M14 5G Easily?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kindle-unlimited-breakdown-why-subscribe/"><u>Kindle Unlimited Breakdown: Why Subscribe?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lost-airpods-heres-how-you-can-retrieve-them-and-avoid-misplacement-in-the-future-digital-solutions-blog/"><u>Lost AirPods? Here's How You Can Retrieve Them and Avoid Misplacement in the Future | Digital Solutions Blog</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/paso-a-paso-los-dias-de-la-semana-en-hispanoamerica/"><u>Paso a Paso: Los Días De La Semana en Hispanoamérica</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-messy-mailboxes-unlock-a-stress-free-solution-that-keeps-your-email-organized-with-just-one-trick-find-out-more-here/"><u>Say Goodbye to Messy Mailboxes: Unlock a Stress-Free Solution that Keeps Your Email Organized with Just One Trick - Find Out More Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-early-access-buy-apple-watch-series-10-before-release-exclusive-savings-guide-techbargains/"><u>Secure Your Early Access: Buy Apple Watch Series 10 Before Release - Exclusive Savings Guide | TechBargains</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/silent-setup-success-pairing-your-airpods-with-the-quest-3-headset-tips-and-tricks-guide/"><u>Silent Setup Success: Pairing Your AirPods with the Quest 3 Headset – Tips & Tricks Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-toolwiz-photo-experience-analyzed-2023/"><u>The Ultimate Toolwiz Photo Experience, Analyzed 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-strategies-for-achieving-virality-on-youtube/"><u>Top 8 Strategies for Achieving Virality on YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-savings-discover-how-to-enjoy-more-with-apple-tvplus-in-just-five-strategies/"><u>Unlocking Savings: Discover How to Enjoy More with Apple TV+ in Just Five Strategies</u></a></li>
+</ul></div>
 

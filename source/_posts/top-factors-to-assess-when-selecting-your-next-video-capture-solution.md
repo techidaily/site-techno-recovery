@@ -1,7 +1,7 @@
 ---
 title: Top Factors to Assess When Selecting Your Next Video Capture Solution
-date: 2024-11-29T02:03:30.467Z
-updated: 2024-12-04T16:54:10.037Z
+date: 2024-12-06T08:10:55.755Z
+updated: 2024-12-10T18:56:46.152Z
 categories:
   - BestProducts
 description: This Article Describes Top Factors to Assess When Selecting Your Next Video Capture Solution
@@ -19,6 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/lo_yysJH3Y5yny6UwsWI_YfU6-c=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Skype Is Not Working
 
  There could be a microphone problem or an issue with your audio settings, so you can't hear the other person, or they can't hear you. Or maybe you can't log in to Skype because you've forgotten your password. Still, another reason could be that your external speakers or microphone are no longer working, and you need to get new[hardware](https://www.lifewire.com/computer-hardware-2625895) . Maybe Skype won't connect because the service itself is having issues.
@@ -29,6 +33,10 @@ thumbnail: https://www.lifewire.com/thmb/lo_yysJH3Y5yny6UwsWI_YfU6-c=/400x300/fi
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -36,10 +44,6 @@ thumbnail: https://www.lifewire.com/thmb/lo_yysJH3Y5yny6UwsWI_YfU6-c=/400x300/fi
  Enter the email address you used when you first signed up, and then follow the directions there to learn how to get a new password and log back in to start making video and audio calls again.
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2: Check to See if It's Skype's Problem
 
@@ -49,13 +53,13 @@ thumbnail: https://www.lifewire.com/thmb/lo_yysJH3Y5yny6UwsWI_YfU6-c=/400x300/fi
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
 
@@ -65,21 +69,25 @@ thumbnail: https://www.lifewire.com/thmb/lo_yysJH3Y5yny6UwsWI_YfU6-c=/400x300/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
@@ -110,10 +118,6 @@ thumbnail: https://www.lifewire.com/thmb/lo_yysJH3Y5yny6UwsWI_YfU6-c=/400x300/fi
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -134,10 +138,6 @@ thumbnail: https://www.lifewire.com/thmb/lo_yysJH3Y5yny6UwsWI_YfU6-c=/400x300/fi
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -149,6 +149,10 @@ thumbnail: https://www.lifewire.com/thmb/lo_yysJH3Y5yny6UwsWI_YfU6-c=/400x300/fi
  Otherwise, continue with Step 7 below for some other options.
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 7: Reinstall Skype
 
@@ -169,10 +173,6 @@ thumbnail: https://www.lifewire.com/thmb/lo_yysJH3Y5yny6UwsWI_YfU6-c=/400x300/fi
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -213,22 +213,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-ultimate-guide-to-using-tiktoks-best-and-secret-emojis-for-2024/"><u>[New] The Ultimate Guide to Using TikTok's Best & Secret Emojis for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effective-ways-to-save-your-ps4-games/"><u>[Updated] In 2024, Effective Ways to Save Your PS4 Games</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-angle-videos-for-improved-viewership/"><u>[Updated] In 2024, How to Angle Videos for Improved Viewership</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-perfect-your-content-with-tiktoks-number-manipulation-tricks-for-2024/"><u>[Updated] Perfect Your Content with TikTok's Number Manipulation Tricks for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-high-seas-of-soundtracking-leading-destinations-for-hearing-heroes-tts-downloads/"><u>2024 Approved High Seas of Soundtracking Leading Destinations for Hearing Heroes' TTS Downloads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v27-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V27 without App | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-meta-quest-2-and-quest-pro-a-detailed-guide-on-choosing-your-next-vr-device-zdnet/"><u>Comparing Meta Quest 2 and Quest Pro: A Detailed Guide on Choosing Your Next VR Device - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-cryptocurrency-profits-with-these-premium-psus-the-ideal-choices-for-eth-and-btc-miners/"><u>Enhance Cryptocurrency Profits with These Premium PSUs: The Ideal Choices for Eth & Btc Miners</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-distance-working-for-engineers-via-virtual-reality-and-digital-twins-the-zdnet-perspective/"><u>Enhancing Distance Working for Engineers via Virtual Reality and Digital Twins - The ZDNet Perspective</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fcc-expands-high-speed-access-to-6ghz-band-for-augmented-and-virtual-reality-equipments-insights-from-zdnet/"><u>FCC Expands High-Speed Access to 6GHz Band for Augmented & Virtual Reality Equipments, Insights From ZDNET</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/kompletter-leitfaden-fur-die-implementierung-von-d2d2c-datensicherung-von-festplatten-zu-der-cloud/"><u>Kompletter Leitfaden Für Die Implementierung Von D2D2C Datensicherung (Von Festplatten Zu Der Cloud)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-business-administration-via-apple-vision-pro-a-pricey-investment/"><u>Mastering Business Administration via Apple Vision Pro: A Pricey Investment</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-online-streams-your-easy-to-follow-internet-radio-recording-tutorial-for-2024/"><u>Mastering Online Streams Your Easy-to-Follow Internet Radio Recording Tutorial for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/meta-quest-3-outshines-rivals-as-zdnets-top-gadget-see-why-it-stands-out/"><u>Meta Quest 3 Outshines Rivals as ZDNet's Top Gadget - See Why It Stands Out!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/meta-quest-3-release-and-lying-down-mode-understanding-the-extended-timeline-insights-from-zdnet/"><u>Meta Quest 3 Release and 'Lying Down Mode': Understanding the Extended Timeline – Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-tech-game-with-the-newest-100-inch-ar-laptop-say-goodbye-to-monitors-now-zdnet/"><u>Revolutionize Your Tech Game with the Newest 100-Inch AR Laptop - Say Goodbye to Monitors Now | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-magic-behind-disneys-innovative-shared-vr-walking-experience-unveiled-by-zdnet/"><u>The Magic Behind Disney’s Innovative Shared VR Walking Experience Unveiled by ZDNet.</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-capture-coastlines-best-surfer-cams/"><u>[New] 2024 Approved Capture Coastlines Best Surfer Cams</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively-for-2024/"><u>[New] Unleash Vibrant Canvas Cropping, Adding, & Editing Sound Effectively for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-decoding-sonys-screenshot-system-an-in-depth-look-at-ps4-recording/"><u>[Updated] Decoding Sony's Screenshot System An In-Depth Look at PS4 Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-strategies-to-continue-live-video-on-facebook-for-2024/"><u>[Updated] Strategies to Continue Live Video on Facebook for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/10-amazing-emoji-facts-you-didnt-know/"><u>10 Amazing Emoji Facts You Didn't Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-spider-man-no-way-home-a-comprehensive-streaming-guide/"><u>Accessing 'Spider-Man: No Way Home' - A Comprehensive Streaming Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-new-world-connection-error-with-these-proven-strategies/"><u>Beat the 'New World Connection Error' With These Proven Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-easy-free-video-transformation-platforms-with-unmatched-features/"><u>Discover Easy, Free Video Transformation Platforms with Unmatched Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-troubleshoot-and-repair-missing-vcompdll-files-successfully/"><u>How to Troubleshoot and Repair Missing vcomp.dll Files Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immerse-yourself-with-these-15-fantastic-dolby-atmos-films-you-can-watch-from-home/"><u>Immerse Yourself with These 15 Fantastic Dolby Atmos Films You Can Watch From Home</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset/"><u>In 2024, How to Turn Your Smartphone Into a Virtual Reality (VR) Headset</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-fixed-shorts-are-now-easily-accessible/"><u>In 2024, YouTube Fixed Shorts Are Now Easily Accessible</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-restart-function-on-your-latest-iphone-15/"><u>Mastering the Restart Function on Your Latest iPhone 15</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-gpt-3-implementation-in-python-techniques-for-success/"><u>Seamless GPT-3 Implementation in Python: Techniques for Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-troubleshooting-non-opening-ms-word-files/"><u>Step-by-Step Guide: Troubleshooting Non-Opening MS Word Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-to-resolve-x3daudiodll-file-absentmissing-mistakes/"><u>Troubleshooting Steps to Resolve x3daudio.dll File Absent/Missing Mistakes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-stop-error-0x0000005c-expert-tips-for-resolving-hardware-abstraction-layer-issues/"><u>Troubleshooting Stop Error 0X0000005C - Expert Tips for Resolving Hardware Abstraction Layer Issues</u></a></li>
 </ul></div>
 

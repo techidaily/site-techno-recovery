@@ -1,7 +1,7 @@
 ---
 title: "Staying Power Unpacked: How iPhone Users Outlast Their Counterparts with Android in Phone Lifespan"
-date: 2024-12-03T04:51:42.132Z
-updated: 2024-12-04T20:31:28.008Z
+date: 2024-12-08T00:21:26.533Z
+updated: 2024-12-10T20:13:25.625Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,14 +126,19 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-innovative-finger-sets-taking-vr-to-new-heights/"><u>[New] 2024 Approved Innovative Finger Sets Taking VR to New Heights</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nhancing-youtube-watching-with-list-rearrangement/"><u>[New] Enhancing YouTube Watching with List Rearrangement</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fine-tune-youtube-video-pacing-desktopmobile-for-2024/"><u>[New] Fine-Tune YouTube Video Pacing - Desktop/Mobile for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/180-discounted-price-why-the-arlo-pro-5s-could-be-your-ideal-choice-for-ultimate-security-cameras-zdnet-insights/"><u>$180 Discounted Price! Why the Arlo Pro 5S Could Be Your Ideal Choice for Ultimate Security Cameras - ZDNET Insights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/farm-fun-and-fellowship-the-ultimate-agritainment-guide-for-2024/"><u>Farm Fun & Fellowship The Ultimate Agritainment Guide for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/steer-clear-of-virtual-reality-sickness-for-2024/"><u>Steer Clear of Virtual Reality Sickness for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-review-of-the-tesla-cybertruck-for-gardening-exceeds-expectations/"><u>ZDNET's In-Depth Review of the Tesla Cybertruck for Gardening - Exceeds Expectations!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-leading-ride-on-mowers-of-2ebuary-2024/"><u>ZDNet's Ultimate Guide to the Leading Ride-On Mowers of 2Ebuary 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-showdown-comparing-the-best-automatic-mowers-of-2024-expert-testing-results/"><u>ZDNet's Ultimate Showdown: Comparing the Best Automatic Mowers of 2024 | Expert Testing Results</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi-for-2024/"><u>[New] Shadowed Swords & Honored Combatants Must-Try Titles Inspired by Ghost of Tsushi for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-gear-for-effective-remote-podcast-recording/"><u>[Updated] Essential Gear for Effective Remote Podcast Recording</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/best-3-seagate-hard-drive-backup-solutions-for-windows-11-10-8-and/"><u>Best 3 Seagate Hard Drive Backup Solutions for Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-the-newest-ps-portable-official-release-timeline-pricing-info-features-and-retail-locations/"><u>Find the Newest PS Portable: Official Release Timeline, Pricing Info, Features, and Retail Locations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-register-and-activate-a-user-account-in-playstations-gaming-platform/"><u>How to Register and Activate a User Account in PlayStation's Gaming Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-service-temporarily-unavailable-error-503-on-your-website/"><u>How to Resolve 'Service Temporarily Unavailable' (Error 503) on Your Website</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-rotate-screen-in-windows-10-easy-guide/"><u>How to Rotate Screen in Windows 10 [Easy Guide]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-14-ultra-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi 14 Ultra Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/er-capturing-device-for-exceptional-youtube-productions-for-2024/"><u>Premier Capturing Device for Exceptional YouTube Productions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-the-cream-of-the-crop-exclusive-ipad-deals-await-you/"><u>Secure the Cream of the Crop: Exclusive iPad Deals Await You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-error-0x00000709/"><u>Steps to Rectify Error 0X00000709</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-dbghelpdll-not-detected-a-comprehensive-guide/"><u>Troubleshooting the 'dBghelp.dll' Not Detected - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-why-your-game-might-be-experiencing-significant-fps-dips/"><u>Unraveling the Mystery: Why Your Game Might Be Experiencing Significant FPS Dips</u></a></li>
 </ul></div>
 

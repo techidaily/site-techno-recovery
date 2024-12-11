@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Workspace: Set Up Two Displays on Your M3 MacBook Pro as Effortlessly as You Do on the MacBook Air - Insights"
-date: 2024-11-30T23:56:23.268Z
-updated: 2024-12-04T18:22:15.531Z
+date: 2024-12-04T23:44:39.041Z
+updated: 2024-12-11T02:40:27.256Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ The debut of [Apple's M1 chips](https://www.zdnet.com/article/mac-studio-vs-the-
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get](https://www.zdnet.com/article/iphone-16-pro-and-pro-max-hands-on/)
@@ -37,10 +41,6 @@ That's why it was such a surprise to me, and many other unsuspecting Mac Mini bu
 
 Sure, the diminutive PC does come equipped with an HDMI port as well. But what about folks upgrading from an Intel-based Mac Mini who were already using two Thunderbolt displays? Or those, like me, who had wrongly assumed when placing an order for the new Mac Mini that it would support two displays? Unfortunately, Apple has never provided a solution, unless you want to upgrade to a much more expensive, M1 Pro- or M1 Max-powered system like the [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-review/). So, it's up to us to find a way to make up for the M1 Mini's problematic downgrade. Apple might hope you'll drop hundreds, or thousands, more on an upgraded Mac to power your secondary Thunderbolt displays. I'll show you how to do it for less than $30\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to add a second Thunderbolt display to your M1 Mac Mini
 
 My personal Mac Mini with the required HDMI-to-Thunderbolt adapter (bottom left), its included USB-A-to-Micro-USB cable (top left), and the Thunderbolt 3 cable we'll be using to connect to our monitor (right).
@@ -53,17 +53,21 @@ Michael Gariffo/ZDNET
 * Two Thunderbolt-enabled displays
 * An HDMI-to-Thunderbolt adapter
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Estimated time:
 
 5 minutes 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Estimated cost:
 
 $30 (assuming you already have the Mac Mini and displays needed)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Acquire the specialized adapter
 
@@ -88,7 +92,7 @@ Michael Gariffo/ZDNET
 Once you have the adapter you need, the next step is to attach it to your Mac Mini system. First, insert the included HDMI cable into the HDMI port on the rear of your Mini. Then, insert the USB-A-to-Micro-USB cable into a free USB-A port on the back of your Mini and into the DC5V (or similarly named port) on your adapter. If you don't have a free USB-A port on your Mini, you can also plug the USB-A end of the 5VDC power cable into a powered hub or even a 5V plug-in power adapter. As long as it receives the required 5V of power to complete its conversion process, just about any source should work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Step 3: Connect the adapter to your Thunderbolt monitor
@@ -102,10 +106,6 @@ Chances are if you've made it this far, you've already got two Thunderbolt displ
 [iVanky Thunderbolt 3 Cable 2.3ft $19.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB097T5CGXN%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd26ed57-6b61-4ed1-b09d-842c808d3d89%7Cdtp&dtb=1)
 
 Thunderbolt 4 cables will also work, but they're more expensive, and there's no additional benefit from using them in this situation. Once you've got your Thunderbolt cable, insert one end into the port on the adapter and the other end into the Thunderbolt input on your monitor. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 4: Select the correct source on your monitor
 
@@ -121,11 +121,11 @@ If you're interested in the specific 43-inch M7 display I use, it can be found b
 
 From here, you should be able to use the newly connected display like any other Thunderbolt monitor, with the only exception being that it won't receive any power from the Mac Mini.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there other ways to add additional displays to a Mac Mini?
 
@@ -181,18 +181,24 @@ Displays with Thunderbolt inputs are also made by Acer, Samsung, LG, Viewsonic, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-culinary-craftsmanship-innovative-naming-for-food-shows/"><u>[New] In 2024, Culinary Craftsmanship Innovative Naming for Food Shows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-journey-to-youtubes-command-center-of-creativity/"><u>[Updated] Your Journey to YouTube's Command Center of Creativity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/access-comprehensive-apple-tech-information-manuals-specifications-and-repair-tips-all-in-one-destination/"><u>Access Comprehensive Apple Tech Information: Manuals, Specifications & Repair Tips - All In One Destination</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-11r-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus 11R</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-subtle-yet-powerful-ai-innovation-anticipated-revelation-at-wwdc-unveiled-by-zdnet/"><u>Apple's Subtle Yet Powerful AI Innovation: Anticipated Revelation at WWDC Unveiled by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/avoid-these-4-popular-apple-gadgets-based-on-recent-zdnet-analysis/"><u>Avoid These 4 Popular Apple Gadgets Based on Recent ZDNet Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722887163450-before-buying-a-smart-tv-here-are-7-must-know-considerations-you-need-to-know/"><u>Before Buying a Smart TV? Here Are 7 Must-Know Considerations You Need To Know!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciphering-depth-how-many-levels-constitute-royal-match/"><u>Deciphering Depth: How Many Levels Constitute Royal Match?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-parental-guides-to-choosing-superior-kids-tablets-insights-from-zdnet-ratings/"><u>Expert Parental Guides to Choosing Superior Kids’ Tablets - Insights From ZDNet Ratings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-samsung-galaxy-s23-tactical-edition-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Samsung Galaxy S23 Tactical Edition Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-m34-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy M34 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-gpts-blindspot-the-reason-behind-its-inability-to-recognize-its-own-output/"><u>Understanding GPT's Blindspot: The Reason Behind Its Inability to Recognize Its Own Output</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-photobooth-playback-error-constant-pause-issues/"><u>[New] 2024 Approved Photobooth Playback Error Constant Pause Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[Updated] 2024 Approved Best Hashtags for YouTube To Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-crafting-squares-for-viral-videos-in-a-social-media-world/"><u>[Updated] Crafting Squares for Viral Videos in a Social Media World</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-analyzing-video-storage-efficiency-in-high-capacity-formats-64128gb/"><u>2024 Approved Analyzing Video Storage Efficiency in High-Capacity Formats (64/128GB)</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-websites-to-download-game-of-thrones-ringtones/"><u>Best Websites to Download Game of Thrones Ringtones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-picks-the-ultimate-list-of-ongoing-presidents-day-savings-at-amazon-walmart-and-more/"><u>Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-getting-your-instagram-account-verified-by-verified/"><u>Expert Tips for Getting Your Instagram Account Verified by @Verified</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-vision-the-next-gen-robotic-homestead-companion-revealed/"><u>Exploring Apple's Vision: The Next-Gen Robotic Homestead Companion Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-vs-ipad-air-a-comprehensive-comparison-determining-the-ideal-device-for-your-needs-zdnet/"><u>IPad Vs. IPad Air: A Comprehensive Comparison – Determining the Ideal Device for Your Needs | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-2024s-most-unbeatable-apple-watch-promotions-insider-tips-and-tricks-from-zdnet/"><u>July 2024'S Most Unbeatable Apple Watch Promotions | Insider Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-your-footage-pro-level-tips-for-gopro-studio-users-for-2024/"><u>Maximize Your Footage Pro-Level Tips for GoPro Studio Users for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-correcting-ntldr-not-found-issues-on-your-pc/"><u>Step-by-Step Solutions for Correcting 'NTLDR Not Found' Issues on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-saving-memories-by-screencasting-ps4-gaming-adventures/"><u>Step-by-Step Tutorial: Saving Memories by Screencasting PS4 Gaming Adventures</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-to-close-up-mastery-on-roblox/"><u>The Ultimate Guide to Close-Up Mastery on Roblox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-tricks-to-go-viral-and-boost-your-presence-on-tiktok/"><u>The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-14-battery-performance-common-problems-and-solutions/"><u>Understanding iPhone 14 Battery Performance: Common Problems & Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-secrets-understanding-snapchats-emoji-language/"><u>Unraveling the Secrets: Understanding Snapchat's Emoji Language</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-11-and-wi-fi-security-how-to-retrieve-lost-login-credentials-easily/"><u>Windows 11 and Wi-Fi Security: How to Retrieve Lost Login Credentials Easily</u></a></li>
 </ul></div>
 

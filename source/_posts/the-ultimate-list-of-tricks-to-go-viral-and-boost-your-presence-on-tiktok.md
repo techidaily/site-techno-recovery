@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
-date: 2024-11-30T08:47:06.670Z
-updated: 2024-12-05T01:10:55.530Z
+date: 2024-12-09T03:48:57.353Z
+updated: 2024-12-11T07:37:53.270Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
@@ -27,16 +27,16 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
@@ -65,15 +65,15 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -86,10 +86,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -101,7 +97,7 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -125,6 +121,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -163,22 +163,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-maximizing-zoom-collaboration-essential-setup-tips/"><u>[New] In 2024, Maximizing Zoom Collaboration Essential Setup Tips</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-digital-footprint-crafting-compelling-shorts-thumbnails-for-2024/"><u>[Updated] Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-next-gen-options-to-record-high-quality-gaming-footage/"><u>[Updated] Next Gen Options to Record High-Quality Gaming Footage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/an-introduction-to-dts-virtual-x-sound-enhancement-system/"><u>An Introduction to DTS Virtual X Sound Enhancement System</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-xiaomi-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Xiaomi .</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/critical-fix-in-ios-update-how-version-1751-resolves-the-zombie-photos-issue/"><u>Critical Fix in iOS Update: How Version 17.5.1 Resolves the 'Zombie Photos' Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/end-of-apple-pay-later-by-apple-tech-giant-developing-new-financial-solution/"><u>End of Apple Pay Later by Apple: Tech Giant Developing New Financial Solution</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exposing-apples-bold-strategy-against-leading-browser-market-share-a-detailed-look-at-their-new-ad-campaign-zdnet/"><u>Exposing Apple's Bold Strategy Against Leading Browser Market Share: A Detailed Look at Their New Ad Campaign | ZDNET</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-started-on-youtube-setting-up-and-generating-income-for-2024/"><u>Getting Started on YouTube Setting Up & Generating Income for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-restore-failed-message-functionality-in-discord/"><u>Guide to Restore Failed Message Functionality in Discord</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-xs-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone XS?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-audio-integration-setting-up-a-subwoofer-for-optimal-use-with-samsungs-soundbars/"><u>Seamless Audio Integration: Setting Up a Subwoofer for Optimal Use with Samsung's Soundbars</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-computer-review-gear-and-software-insights/"><u>Tom's Computer Review: Gear & Software Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-gps-navigation-apps-for-your-iphone/"><u>Top 5 Essential GPS Navigation Apps for Your iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-industry-experts-featured/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Industry Experts - Featured</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-wont-my-ig-story-upload-expert-fixes-and-solutions/"><u>Why Won't My IG Story Upload? Expert Fixes and Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-jumping-into-the-virtual-discussions-via-google/"><u>[New] Jumping Into the Virtual Discussions via Google</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-essential-aspects-of-a-superior-4k-camera-lens-choice/"><u>2024 Approved Essential Aspects of a Superior 4K Camera Lens Choice</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-fcp-strategies-and-tactics-exposed/"><u>2024 Approved Free FCP Strategies and Tactics Exposed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-ramps-up-artificial-intelligence-prowess-with-latest-innovations-discover-the-power-of-new-models/"><u>Apple Ramps Up Artificial Intelligence Prowess with Latest Innovations – Discover the Power of New Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-takes-on-spotify-revolutionary-update-allows-seamless-transfer-of-playlists-insights-from-zdnet/"><u>Apple Takes On Spotify: Revolutionary Update Allows Seamless Transfer of Playlists - Insights From ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/driver-update-fixes-persistent-watchdog-bsod-problems/"><u>Driver Update Fixes Persistent Watchdog BSOD Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-blue-screen-fix-windows-troubleshoot/"><u>dxgkrnl.sys Blue Screen Fix - Windows Troubleshoot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-latest-visionos-upgrade-enhanced-personalization-and-more-features-unveiled/"><u>Exploring Apple's Latest VisionOS Upgrade: Enhanced Personalization and More Features Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-studios-unique-feature-that-influences-my-decision-over-upgrading-to-a-fall-release-of-the-m4-mac-mini-zdnet-perspectives/"><u>Mac Studio’s Unique Feature that Influences My Decision over Upgrading to a Fall Release of the M4 Mac Mini | ZDNet Perspectives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-screen-recording-on-iphones-a-step-by-step-instructional-article/"><u>Mastering Screen Recording on iPhones: A Step-by-Step Instructional Article</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-get-noticed-the-top-10-animated-text-tools-for-social-media-and-more-for-2024/"><u>New Get Noticed The Top 10 Animated Text Tools for Social Media and More for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-correcting-ieframedll-error-messages/"><u>Step-by-Step Solutions for Correcting ieframe.dll Error Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-utilizing-photo-cutout-features-on-your-iphones-ios-16/"><u>The Ultimate Tutorial for Utilizing Photo Cutout Features on Your iPhone's iOS 16</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-reasons-why-snagging-a-discounted-apple-ipad-pro-pre-prime-day-is-a-must-expert-analysis-by-zdnet/"><u>Top Reasons Why Snagging a Discounted Apple iPad Pro Pre-Prime Day Is A Must | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722867866396-upgrade-your-device-with-ios-18-no-charge-for-the-latest-innovations-and-news-revealed/"><u>Upgrade Your Device with iOS 1#8: No Charge for the Latest Innovations & News Revealed!</u></a></li>
 </ul></div>
 

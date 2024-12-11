@@ -1,7 +1,7 @@
 ---
 title: What to Expect at the 2025 Samsung Unpacked Event - News, Announcements & Rumors Ahead
-date: 2024-09-04T00:27:06.841Z
-updated: 2024-09-05T00:27:06.841Z
+date: 2024-12-09T23:02:33.670Z
+updated: 2024-12-11T06:58:00.225Z
 categories:
   - BestProducts
 description: This Article Describes What to Expect at the 2025 Samsung Unpacked Event - News, Announcements & Rumors Ahead
@@ -27,48 +27,34 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -88,11 +74,9 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -109,8 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +100,23 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/rom-dorm-room-to-mainstream-trending-short-hashtags/"><u>[New] From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-download-vlc-player-for-free-and-safe-on-mac/"><u>[Updated] 2024 Approved How to Download VLC Player for Free and Safe on Mac?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-androids-highest-rated-portable-gba-simulator-guide-for-2024/"><u>[Updated] Android's Highest-Rated Portable GBA Simulator Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capturing-marine-magic-pro-tips-for-filming-oceanic-scenes-using-gopro/"><u>[Updated] Capturing Marine Magic Pro Tips for Filming Oceanic Scenes Using GoPro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-mcb-theme-images-templates-and-more-for-2024/"><u>[Updated] Free MCB Theme Images, Templates & More for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-facing-the-falls-top-action-cameras-2023/"><u>[Updated] In 2024, Facing the Falls Top Action Cameras 2023</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/beyond-borders-blurring-techniques-for-global-audienes/"><u>Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/data-management-101-how-to-keep-tabs-on-your-online-traffic-usage/"><u>Data Management 101: How to Keep Tabs on Your Online Traffic Usage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-quick-methods-find-anyone-on-facebook-with-simple-tricks/"><u>Discover Quick Methods: Find Anyone on Facebook with Simple Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-resolving-stop-code-0x0000003d/"><u>Effective Solutions for Resolving Stop Code 0X0000003D</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enigmatic-engagements-in-top-escape-venues-for-2024/"><u>Enigmatic Engagements in Top Escape Venues for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-best-alarm-clock-apps-a-selection-of-our-top-picks/"><u>Exploring the Best Alarm Clock Apps: A Selection of Our Top Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hear-the-difference-with-airpods-pro-2s-new-hearing-aid-feature-at-an-unbeatable-price-save-24-now-special-deal/"><u>Hear the Difference with AirPods Pro 2'S New Hearing Aid Feature at an Unbeatable Price: Save 24% Now Special Deal!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimize-your-mac-experience-a-step-by-step-guide-to-activating-and-utilizing-hot-corners-expert-tips-from-zdnet/"><u>Optimize Your Mac Experience: A Step-by-Step Guide to Activating and Utilizing Hot Corners | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-mfcmapi20dll-the-ultimate-guide-to-fix-not-found-and-missing-errors/"><u>Resolving MFCMAPI20.DLL: The Ultimate Guide to Fix 'Not Found' And Missing Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-accessories-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated MagSafe Accessories : Comprehensive Reviews by Tech Gurus</u></a></li>
+</ul></div>
 

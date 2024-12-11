@@ -1,7 +1,7 @@
 ---
 title: "Efficient Spreadsheet Strategies: Joining Two Columns Together in Microsoft Excel"
-date: 2024-12-02T21:43:56.611Z
-updated: 2024-12-04T22:14:53.327Z
+date: 2024-12-07T02:36:09.530Z
+updated: 2024-12-10T21:04:16.817Z
 categories:
   - BestProducts
 description: "This Article Describes Efficient Spreadsheet Strategies: Joining Two Columns Together in Microsoft Excel"
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get the Microsoft Student Discount
 
  To get the Microsoft student discount, all you have to do is access the online Microsoft store through the student and military discount portal. Here's how the process works:
@@ -26,30 +30,23 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 2. The site tells you you're eligible for special pricing. Select**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -60,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 * Enrolled at a four-year university, two-year college, or a vocational school.
 
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Does Microsoft's Student Discount Get You?
 
@@ -73,7 +74,7 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does Microsoft Verify Student Enrollment?
@@ -115,21 +116,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-chasingpeakperformance-after-mycam/"><u>[New] ChasingPeakPerformance After MyCam</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/24-pro-find-out-in-this-in-depth-analysis-techradar/"><u>24 Pro? Find Out in This In-Depth Analysis! - TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-finewoven-collection-in-favor-of-new-partnership-with-beats-exclusive-insights-techcrunch/"><u>Apple Discontinues FineWoven Collection in Favor of New Partnership with Beats - Exclusive Insights | TechCrunch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beeper-integration-boosted-by-automattic-takeover-the-future-of-messaging-services-under-new-management/"><u>Beeper Integration Boosted by Automattic Takeover – The Future of Messaging Services Under New Management</u></a></li>
-<li><a href="https://facebook.techidaily.com/behind-the-scenes-of-innovation-essential-unseen-tech-news/"><u>Behind the Scenes of Innovation: Essential, Unseen Tech News</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-innovations-in-googles-latest-llm-venture-the-plm-2-model-explained/"><u>Decoding the Innovations in Google's Latest LLM Venture: The PLM 2 Model Explained</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/easy-steps-for-personalizing-computer-sounds-using-windows-control-panel-tutorial-from-yl-systems/"><u>Easy Steps for Personalizing Computer Sounds Using Windows Control Panel - Tutorial From YL Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-the-bad-pool-header-error-and-restoring-stability-in-windows-pressure-a-detailed-tutorial/"><u>Effective Solutions for Fixing the Bad Pool Header Error and Restoring Stability in Windows Pressure: A Detailed Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-deal-before-holidays-high-quality-used-apple-tv-and-free-siri-remote-priced-at-only-75-with-zdnets-expert-analysis/"><u>Exclusive Deal Before Holidays: High-Quality Used Apple TV & Free Siri Remote, Priced at Only $75 with ZDNet's Expert Analysis!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-can-i-create-and-maintain-multiple-channels-on-youtube-successfully/"><u>How Can I Create and Maintain Multiple Channels on YouTube Successfully?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-13t-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi 13T Pro Phone Network-Ready</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/may-2024s-top-atandt-phone-promotions-revealed-by-zdnet-for-maximum-value-and-quality-service/"><u>May 2024'S Top AT&T Phone Promotions Revealed by ZDNET for Maximum Value and Quality Service</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-by-step-guide-to-seamlessly-replace-backgrounds-on-instagram/"><u>Step-by-Step Guide to Seamlessly Replace Backgrounds on Instagram</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-price-of-permanence-uncovering-top-10-reasons-to-leave-facebook-behind/"><u>The Price of Permanence: Uncovering Top 10 Reasons to Leave Facebook Behind</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-hidden-gems-why-the-349-ipad-stole-the-show-at-apples-bold-new-era-launch/"><u>Unveiling Hidden Gems: Why the $349 iPad Stole the Show at Apple's Bold New Era Launch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-differences-apple-pencil-pro-vs-apple-pencil-2-showdown-finding-the-perfect-match-for-your-ipad-with-expertise/"><u>Unveiling the Differences: Apple Pencil Pro Vs. Apple Pencil 2 Showdown | Finding the Perfect Match for Your iPad with Expertise</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-backpack-essentials-for-filming-tours/"><u>[New] In 2024, Backpack Essentials for Filming Tours</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-snapshot-surge-no-money-required-image-uplift/"><u>[Updated] 2024 Approved Snapshot Surge No Money Required Image Uplift</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-showdowns-and-stunts-the-best-of-snowboard-cross/"><u>[Updated] Showdowns and Stunts The Best of Snowboard Cross</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skip-the-hassle-merging-skype-and-zoom-features/"><u>[Updated] Skip the Hassle Merging Skype & Zoom Features</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>2024 Approved Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquer-pokemon-unite-with-these-essential-gameplay-techniques/"><u>Conquer Pokémon Unite with These Essential Gameplay Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-apples-revolutionary-self-service-repair-includes-remote-tools-for-iphone-15-m2-mac-upgrades-insights/"><u>Discover How Apple's Revolutionary Self Service Repair Includes Remote Tools for iPhone 15, M2 Mac Upgrades - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/drench-proof-digital-companion-the-aquatic-abilities-of-the-iphone-15-pro-max/"><u>Drench-Proof Digital Companion: The Aquatic Abilities of the iPhone 15 Pro Max</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-depth-of-marital-love-through-apples-latest-tech-offering-a-zdnet-insight/"><u>Exploring the Depth of Marital Love Through Apple's Latest Tech Offering | A ZDNet Insight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-activating-dark-mode-on-your-iphone/"><u>Guide: Activating Dark Mode on Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-apple-watch-ultra-2-became-essential-to-me-now-with-a-100-labor-day-offer-highlighted-by-zdnet/"><u>How the Apple Watch Ultra 2 Became Essential to Me, Now with a $100 Labor Day Offer Highlighted by ZDNET</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-enhance-dell-servers-by-upgrading-the-integrated-smart-bmc-firmware/"><u>How To Enhance Dell Servers by Upgrading the Integrated Smart BMC Firmware</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 ProFRP Lock</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-users-tutorial-refreshing-and-purging-the-dns-cache/"><u>MacOS Users' Tutorial: Refreshing and Purging the DNS Cache</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-startup-struggles-the-definitive-fix-for-ntldr-and-boot-related-glitches/"><u>Overcoming Startup Struggles: The Definitive Fix for NTLDR and Boot-Related Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/set-up-slack-push-notifications-for-iphone-and-apple-watch-insights/"><u>Set Up Slack Push Notifications for iPhone and Apple Watch | Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-desired-visionos-capabilities-hopefuls-for-apples-unveiling-at-upcoming-wwdc-a-zdnet-perspective/"><u>Top 10 Desired VisionOS Capabilities Hopefuls for Apple’s Unveiling at Upcoming WWDC: A ZDNet Perspective</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-ipad-models-featured-and-evaluated-by-tech-experts-zdnets-guide/"><u>Top-Ranking iPad Models Featured & Evaluated by Tech Experts - ZDNet's Guide</u></a></li>
 </ul></div>
 

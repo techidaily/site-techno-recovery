@@ -1,7 +1,7 @@
 ---
 title: Score a Discounted New iPad (9Th Generation) at Only $250 Following Apple Event - Insights From ZDNet
-date: 2024-11-28T23:44:16.444Z
-updated: 2024-12-05T00:24:25.990Z
+date: 2024-12-09T02:08:24.412Z
+updated: 2024-12-11T04:27:53.802Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0e4f34d4-230d-440c-8396-9b59edfffe70%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,16 +69,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-infusing-instagram-reels-with-tunes-and-narration/"><u>[New] 2024 Approved Infusing Instagram Reels with Tunes & Narration</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-making-your-mark-strategies-for-monthly-growth-on-instagram/"><u>[New] In 2024, Making Your Mark Strategies for Monthly Growth on Instagram</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-video-frame-ratio-classifications/"><u>2024 Approved FB Video Frame Ratio Classifications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-easily-pair-your-logitech-mouse-in-minutes/"><u>Expert Advice: Easily Pair Your Logitech Mouse in Minutes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-hide-subtitles-during-your-amazon-prime-watch-party/"><u>How to Hide Subtitles During Your Amazon Prime Watch Party</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-leading-selection-of-premium-twitter-toolkits/"><u>The Leading Selection of Premium Twitter Toolkits</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-on-how-to-run-chkdsk-for-file-recovery/"><u>The Ultimate Tutorial on How to Run Chkdsk for File Recovery</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tips-and-tricks-to-restore-your-pc-games-from-corruption-latest-techniques/"><u>Tips and Tricks to Restore Your PC Games From Corruption – Latest Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/uncover-the-true-intent-behind-apples-latest-strategy-on-game-emulation/"><u>Uncover the True Intent Behind Apple's Latest Strategy on Game Emulation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-from-full-spectrum-to-focus-extracting-core-rhythms-for-multimedia-use-for-2024/"><u>Updated From Full Spectrum to Focus Extracting Core Rhythms for Multimedia Use for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-the-full-lineup-of-iphone-models-compatible-with-apples-new-ai-features-and-upgraded-siri-functionality/"><u>ZDNet Exclusive: The Full Lineup of iPhone Models Compatible with Apple's New AI Features and Upgraded Siri Functionality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-techniques-for-flawless-distance-audio-capture/"><u>[New] Top Techniques for Flawless Distance Audio Capture</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-masterful-guide-integrating-youtube-and-social-media-platforms-fb/"><u>2024 Approved Masterful Guide Integrating YouTube and Social Media Platforms FB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-entry-level-smartwatch-watch-se-anticipated-update-unveiling-potential-improvements-and-features/"><u>Apple's Entry-Level Smartwatch, Watch SE, Anticipated Update? Unveiling Potential Improvements and Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/banish-the-specter-of-unseen-touches-effective-fixes-for-your-apple-watch-according-to-zdnet/"><u>Banish the Specter of Unseen Touches: Effective Fixes for Your Apple Watch, According to ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-8-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-techniques-for-mastering-video-playback-reversal-in-snapchat/"><u>Innovative Techniques for Mastering Video Playback Reversal in Snapchat</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965307472-latest-nvidia-rtx-2060-graphics-card-drivers-for-windows-11-10-8-and-7-download-now/"><u>Latest NVIDIA RTX 2060 Graphics Card Drivers for Windows 11, 10, 8 & 7 - Download Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-on-dual-functional-macbook-stand-and-charging-station-offer-at-just-102/"><u>Save Big on Dual-Functional MacBook Stand & Charging Station Offer at Just $102</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-mobile-gaming-devices-a-comprehensive-review-by-zdnet/"><u>Top 5 Mobile Gaming Devices : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-emotion-analysis-with-artificial-intelligence-systems/"><u>Understanding Emotion Analysis with Artificial Intelligence Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
 

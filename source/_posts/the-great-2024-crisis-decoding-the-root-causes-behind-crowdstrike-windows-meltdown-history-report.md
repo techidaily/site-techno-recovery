@@ -1,7 +1,7 @@
 ---
 title: "The Great 2024 Crisis: Decoding The Root Causes Behind CrowdStrike-Windows Meltdown History Report"
-date: 2024-11-29T00:53:49.953Z
-updated: 2024-12-04T23:01:04.442Z
+date: 2024-12-06T16:16:33.146Z
+updated: 2024-12-11T03:32:39.516Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-meme-march-unstoppable-videos-hit-the-tweetsphere-for-2024/"><u>[New] Meme March Unstoppable Videos Hit the Tweetsphere for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-next-gen-sound-enabled-gadget-upcoming-release-details-and-pricing-revealed/"><u>Apple's Next-Gen Sound-Enabled Gadget: Upcoming Release Details & Pricing Revealed</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nubia-red-magic-8s-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nubia Red Magic 8S Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-tutorial-on-modifying-windows-11-taskbar-appearance-and-color-settings/"><u>Easy Tutorial on Modifying Windows 11 Taskbar Appearance and Color Settings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-techniques-for-modifying-gps-information-displayed-by-mobile-devices/"><u>Expert Techniques for Modifying GPS Information Displayed by Mobile Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oneplus-ace-2-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on OnePlus Ace 2 to Protect Your Individual Information</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-m6-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Poco M6 5G</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-concurrent-photoplusvideo-on-iphone/"><u>In 2024, The Art of Concurrent Photo+Video on iPhone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-m14-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy M14 4G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-performance-air-to-oil-intercoolers-top-aio-selections-for-hot-days-of-2024/"><u>Leading Performance Air-to-Oil Intercoolers: Top AIO Selections for Hot Days of 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-essence-of-great-edu-videos-a-compreenasion-guide-to-youtube-excellence/"><u>The Essence of Great Edu-Videos A Compreenasion Guide to YouTube Excellence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-three-essential-gadgets-that-will-maintain-the-shine-of-your-iphone-13-insights/"><u>Top Three Essential Gadgets That Will Maintain the Shine of Your iPhone 13: Insights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-repairing-pc-instances-of-robocop-my-last-stand/"><u>Troubleshooting and Repairing PC Instances of RoboCop: My Last Stand</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-the-latest-innovations-apple-watch-series-10-against-series-8-which-is-a-smart-choice-for-tech-enthusiasts/"><u>Comparing the Latest Innovations: Apple Watch Series 10 Against Series 8 - Which Is a Smart Choice for Tech Enthusiasts?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/declutter-your-email-effortlessly-learn-how-one-smart-trick-can-clean-up-chaos-without-multiple-accounts-or-complex-rules-according-to-zdnet/"><u>Declutter Your Email Effortlessly - Learn How One Smart Trick Can Clean Up Chaos Without Multiple Accounts Or Complex Rules, According To ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-the-new-pixel-watch-3-tackles-key-user-complaints-about-google-wearables-analysis/"><u>How the New Pixel Watch 3 Tackles Key User Complaints About Google Wearables Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-s23-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy S23 Ultra Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y78plus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y78+ to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a79-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo A79 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-drones-key-parts-for-peak-performance/"><u>Mastering Drones Key Parts for Peak Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-the-latest-pro-cams-for-full-spheres-for-2024/"><u>Navigating the Latest Pro Cams for Full Spheres for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-ocidll-missing-error-a-comprehensive-guide/"><u>Resolving oci.dll MISSING Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-liquid-detection-on-iphone-charging-port-what-are-your-choices/"><u>Troubleshooting Liquid Detection on iPhone Charging Port: What Are Your Choices?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tutorial-keeping-youtube-like-tweets-in-android-cache-for-2024/"><u>Tutorial Keeping YouTube-Like Tweets in Android Cache for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-hot-takes-the-10-craziest-tweets/"><u>Twitter's Hot Takes The 10 Craziest Tweets</u></a></li>
 </ul></div>
 

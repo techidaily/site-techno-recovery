@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Scheduling a Visit with Apple's Expert Technicians: An Easy How-To Guide"
-date: 2024-12-01T04:52:32.482Z
-updated: 2024-12-05T01:08:55.385Z
+date: 2024-12-04T01:41:06.496Z
+updated: 2024-12-11T09:09:57.397Z
 categories:
   - BestProducts
 description: "This Article Describes Master the Art of Scheduling a Visit with Apple's Expert Technicians: An Easy How-To Guide"
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  This article explains how to make an appointment using the Apple Store App. You can make an appointment for product demos, workshops, and (in most cases) repairs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Schedule an Appointment From the Apple Support App
 
  The Apple Support app provides troubleshooting and contact information, and it's the fastest way to get a Genius Bar appointment, especially if you own several Apple devices.
@@ -35,26 +39,18 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 5. Select**View Locations** under**Bring in for Repair** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select an Apple Store from the map, and then choose**Schedule** .  
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using the Apple Store App to Make Appointments
@@ -71,19 +67,24 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  If you have the Apple Support app on your phone, the Apple Store app will direct you there instead of the website.  
 ![A Store, the "Make a reservation" link, and the "Tell us what's happening" field in the Apple Store app](https://www.lifewire.com/thmb/ircG1uYJS77_UHCiiZH0GISmswg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-02-e508d0091eb04923ba10576b908d07ad.jpg)
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
 13. Your appointment is set. You'll receive a confirmation at your email address (and by phone, if you entered it in Step 10).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [How to Fix An iPhone That Won't Turn Off](https://www.lifewire.com/fix-iphone-wont-turn-of-4134989)
 
@@ -123,22 +124,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-everything-you-need-to-know-about-youtube-shorts/"><u>[Updated] 2024 Approved Everything You Need to Know About YouTube Shorts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-dynamic-duo-youtube-and-instagram-story-collaboration/"><u>[Updated] 2024 Approved The Dynamic Duo YouTube & Instagram Story Collaboration</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screenflow-for-mac-full-review/"><u>[Updated] ScreenFlow for Mac Full Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-8-iphone-selfie-stick-choices-revealed/"><u>[Updated] Top 8 iPhone Selfie Stick Choices Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-metacores-finest-vr-headsets-and-eyewear-guide/"><u>2024 Approved Metacore's Finest VR Headsets and Eyewear Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-uncertainty-check-cpu-generation-on-windows-8-ways/"><u>Avoid Uncertainty – Check CPU Generation on Windows (8 Ways)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/facial-recognition-unleashed-an-in-depth-review-of-the-game-changing-smart-lock-that-redefined-my-security-standards-zdnet/"><u>Facial Recognition Unleashed: An In-Depth Review of the Game-Changing Smart Lock That Redefined My Security Standards | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-the-ultimate-backyard-chef-our-2024-rankings-for-best-gas-grills-insights-from-zdnet/"><u>Find the Ultimate Backyard Chef: Our 2024 Rankings for Best Gas Grills - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/illuminate-your-backyard-upgrade-to-the-brightest-long-lasting-outdoor-leds-from-govee-get-set-for-an-enlightened-weekend/"><u>Illuminate Your Backyard: Upgrade to the Brightest, Long-Lasting Outdoor LEDs From Govee - Get Set for an Enlightened Weekend!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2x-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo T2x 5G Phone Without Password?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-the-suv-of-bicycles-a-viable-alternative-to-cars-discover-how-in-our-latest-exploration/"><u>Is the SUV of Bicycles a Viable Alternative to Cars? Discover How in Our Latest Exploration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/labor-day-bash-perfection-essential-strategies-and-advice-according-to-zdnet-experts/"><u>Labor Day Bash Perfection: Essential Strategies and Advice According to ZDNET Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/memorial-day-special-enhance-your-backyard-viewing-experience-with-discounted-outdoor-tvs-at-walmart-shop-now/"><u>Memorial Day Special: Enhance Your Backyard Viewing Experience with Discounted Outdoor TVs at Walmart - Shop Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/prime-day-deal-ended-save-56-on-a-self-watering-hydroponic-system-insights-and-reviews/"><u>Prime Day Deal Ended: Save $56 on a Self-Watering Hydroponic System - Insights & Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ring-spotlight-cam-pro-affordable-surveillance-with-a-holiday-discount-my-pleasant-surprise/"><u>Ring Spotlight Cam Pro: Affordable Surveillance with a Holiday Discount - My Pleasant Surprise!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/speed-up-conversions-winxvideo-ai-utilizes-gpu-power-for-rapid-video-and-audio-editing/"><u>Speed Up Conversions: Winxvideo AI Utilizes GPU Power for Rapid Video & Audio Editing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-free-camera-screen-recorders-deep-dive-review-and-top-alternatives/"><u>[Updated] 2024 Approved Free Camera Screen Recorders Deep Dive Review and Top Alternatives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-lost-contacts-recover-deleted-numbers-from-your-android-device/"><u>Discovering Lost Contacts: Recover Deleted Numbers From Your Android Device</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/gb-required-for-one-full-movie-hour-by-hour-for-2024/"><u>GB Required for One Full Movie, Hour by Hour for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hilarity-awaits-top-iphone-and-ipad-tricks-to-play-on-your-buddies/"><u>Hilarity Awaits: Top iPhone & iPad Tricks to Play on Your Buddies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieving-proficiency-comprehensive-photoshop-hdr-tutorial/"><u>In 2024, Achieving Proficiency Comprehensive Photoshop HDR Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-jaunt-vr-journey-explained/"><u>In 2024, The Jaunt VR Journey Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-and-android-showdown-a-detailed-look-at-apples-app-store-vs-google-play-stores/"><u>IOS and Android Showdown: A Detailed Look at Apple's App Store vs Google Play Stores</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/review-youtube-app-for-iphone-and-android-for-2024/"><u>Review YouTube App for iPhone and Android for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-fix-failed-display-driver-startup-in-windows-11/"><u>Steps to Fix Failed Display Driver Startup in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-redialing-anonymous-or-blocked-incoming-calls/"><u>The Ultimate Guide to Redialing Anonymous or Blocked Incoming Calls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-must-have-ebook-applications/"><u>Top 8 Must-Have eBook Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-how-to-repair-when-propsysdll-file-is-lost/"><u>Troubleshooting: How to Repair When PropSys.dll File Is Lost</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-fb-success-with-professional-360-video-tips/"><u>Unlock FB Success with Professional 360 Video Tips</u></a></li>
 </ul></div>
 

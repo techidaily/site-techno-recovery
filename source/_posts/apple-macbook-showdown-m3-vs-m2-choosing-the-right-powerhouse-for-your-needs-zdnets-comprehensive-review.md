@@ -1,7 +1,7 @@
 ---
 title: "Apple MacBook Showdown: M3 Vs. M2 - Choosing the Right Powerhouse for Your Needs | ZDNet's Comprehensive Review"
-date: 2024-11-29T23:12:23.350Z
-updated: 2024-12-05T08:44:40.526Z
+date: 2024-12-10T05:42:30.739Z
+updated: 2024-12-10T21:19:14.899Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **MacBook Air M3** | **MacBook Air M2**                           |                                              |
@@ -48,16 +52,12 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the M3 MacBook Air if...
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want the fastest Wi-Fi support available
@@ -73,7 +73,7 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
@@ -98,13 +98,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Cliff Joseph/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
@@ -119,7 +119,7 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -156,17 +156,20 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-playwrighting-for-public-broadcast/"><u>[Updated] Premier Playwrighting for Public Broadcast</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-vision-pro-revolutionizes-enterprise-asset-handling-with-advanced-device-management-features-discover-in-our-latest-zdnet-analysis/"><u>Apple Vision Pro Revolutionizes Enterprise Asset Handling with Advanced Device Management Features | Discover in Our Latest ZDNet Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/compact-computing-unleashed-is-the-new-m4-powered-mac-mini-comparable-in-size-to-an-apple-tv-exclusive/"><u>Compact Computing Unleashed: Is the New M4-Powered Mac Mini Comparable in Size to an Apple TV? Exclusive</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-spot-a-fake-friend-request/"><u>How to Spot a Fake Friend Request</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-18-rumored-to-enable-airpods-pros-hearing-aid-functionality-no-device-upgrade-required-what-you-need-to-know/"><u>IOS 18 Rumored to Enable AirPods Pro's Hearing Aid Functionality, No Device Upgrade Required: What You Need to Know</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-smart-7-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Smart 7 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-android-tablets-on-the-market-featuring-a-look-at-the-samsung-galaxy-tab-s4/"><u>The Best Android Tablets on the Market, Featuring a Look at the Samsung Galaxy Tab S4</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-discounts-on-amazon-in-september-2024-find-your-must-have-items-at-unbeatable-prices/"><u>Top Discounts on Amazon in September 2024 - Find Your Must-Have Items at Unbeatable Prices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-productivity-apps-for-ipad-streamline-your-tasks-and-improve-efficiency-insights-from-zdnet/"><u>Top Productivity Apps for iPad: Streamline Your Tasks & Improve Efficiency - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Smartwatches : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-microsoft-azure-transcription-capabilities/"><u>[New] Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/irtual-battlegrounds-a-million-moments-in-gaming/"><u>[New] Virtual Battlegrounds A Million Moments in Gaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hearth-warming-hear-from-happy-customers/"><u>[Updated] Hearth-Warming Hear From Happy Customers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swift-shadow-magic-one-minute/"><u>[Updated] Swift Shadow Magic, One Minute</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/assessment-of-the-iphone-14-meets-necessary-standards-in-performance-and-design-insights/"><u>Assessment of the iPhone 14: Meets Necessary Standards in Performance and Design - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-locating-mislaid-airpods-and-preventative-measures-for-future-losses-insights-from-zdnet/"><u>Effective Strategies for Locating Mislaid AirPods and Preventative Measures for Future Losses - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-xs-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone XS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-hdcp-mistakes-detailed-guide-on-diagnosis-and-correction/"><u>Mastering HDCP Mistakes: Detailed Guide on Diagnosis and Correction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/professional-guide-to-the-leading-tablets-comprehensive-evaluations/"><u>Professional Guide to the Leading Tablets : Comprehensive Evaluations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-wellness-apples-latest-announcement-of-four-groundbreaking-health-features-revealed-and-analyzed/"><u>Revolutionizing Wellness: Apple's Latest Announcement of Four Groundbreaking Health Features Revealed and Analyzed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/selecting-the-superior-vehicle-compasses-of-2024/"><u>Selecting the Superior Vehicle Compasses of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-airpods-pro-companions-elite-accessories-of-2023-cnet/"><u>The Ultimate Guide to AirPods Pro Companions - Elite Accessories of 2023 | CNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-by-experts/"><u>Top-Rated Stylus Tablets - Comprehensive Reviews by Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-aether-exploring-its-essence-and-entry-points-for-membership/"><u>Understanding Aether – Exploring Its Essence and Entry Points for Membership</u></a></li>
 </ul></div>
 

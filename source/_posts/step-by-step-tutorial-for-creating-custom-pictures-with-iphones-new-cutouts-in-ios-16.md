@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Creating Custom Pictures with iPhone's New Cutouts in iOS 16
-date: 2024-09-04T00:26:11.571Z
-updated: 2024-09-05T00:26:11.571Z
+date: 2024-12-06T07:19:14.506Z
+updated: 2024-12-11T02:05:59.005Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Tutorial for Creating Custom Pictures with iPhone's New Cutouts in iOS 16
@@ -19,6 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/Lg26HhAbkXuckyq27b268vJFCBw=/400x300/fi
 01
 
 of 09
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Duolingo](https://www.duolingo.com/)
 
@@ -53,6 +57,10 @@ of 09
 
 ![The list of Spanish lessons at Busuu ](https://www.lifewire.com/thmb/FG0HLJY09dAG1q_TcDQVOdclSZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/busuu-lessons-171537017ade4ea09b21608c5a8c484c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Initial placement tests that gauge your best starting level.
@@ -83,12 +91,6 @@ of 09
 
 ![Memrise free language learning courses](https://www.lifewire.com/thmb/2wtAxiwxjUbfdOEZAsiDcyewFRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/memrise-language-learning-courses-8fae9d27bfc04c5ea1a30b86a3e02ef0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Speak with an AI-powered language tutor.
@@ -117,22 +119,10 @@ of 09
 
 of 09
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [StudyStack](https://www.studystack.com/Languages)
 
 ![StudyStack Kazakh language learning flashcards](https://www.lifewire.com/thmb/r3Flgq3_9nYQG2CHSelmZfZac9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/studystack-kazakh-flashcards-824ce43a596749ba86a4691b64aae137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Community-created flashcards.
@@ -184,6 +174,10 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Mango Languages](https://mangolanguages.com/libraries/)
 
 ![Mango Languages Irish lesson](https://www.lifewire.com/thmb/GMJQXhwrtgMV-fX8tYWki-NylB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mango-languages-learn-irish-64fa0a50f5e74f8890e288ee61875b8a.png)
@@ -213,21 +207,13 @@ of 09
 of 09
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [FSI Languages Courses](https://www.fsi-language-courses.org/)
 
 ![A list of the most popular language learning lessons at FSI Language Courses](https://www.lifewire.com/thmb/kxllpzsA_C08VvqBNw7T74kIMvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fsi-language-courses-9fffc26e481d40d3b6bee51bad0678ce.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Courses were used by the U.S. government for training.
@@ -254,12 +240,6 @@ of 09
 
 ![learnalanguage options](https://www.lifewire.com/thmb/cIoZT0R5D-qf8EFyzsJL_7YeZMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/learnalanguage-8b3ef3cadcbb48198b1b0554ab06f9b6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Some lessons are offbeat and fun.
@@ -284,20 +264,16 @@ of 09
 of 09
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="150" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Global%20Languages&s=department%5Fcourse%5Fnumbers.sort%5Fcoursenum)
 
 ![MIT OpenCourseWare Chinese language learning lessons](https://www.lifewire.com/thmb/1VIFfqh6uBPyhYGR2uICnmwq6fQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mitopencourseware-0fec61fb314f4ab895bcbb79a1ac119e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -339,8 +315,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -348,4 +322,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-leading-drone-endurance-top-10-long-flight-contenders/"><u>[New] Leading Drone Endurance Top 10 Long-Flight Contenders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-prolific-performance-our-picks-for-top-8-workflow-planners/"><u>2024 Approved Prolific Performance Our Picks for Top 8 Workflow Planners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-pick-the-perfect-selfie-stick-a-6-step-guide/"><u>Discover How to Pick the Perfect Selfie Stick: A 6-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-problem-of-non-functional-search-in-windows-11-systems/"><u>Fixing the Problem of Non-Functional Search in Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-tackle-the-408-request-timed-out-error-effectively/"><u>How to Tackle the 408 Request Timed Out Error Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-convincing-openers-stellar-podcast-entries/"><u>In 2024, Convincing Openers Stellar Podcast Entries</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-madden-19-excellent-options-yet-sense-of-fatigue/"><u>In-Depth Evaluation of Madden 19: Excellent Options Yet Sense of Fatigue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-process-of-refunding-for-your-apple-vision-pro-smart-gadget-solutions/"><u>Mastering the Process of Refunding for Your Apple Vision Pro | Smart Gadget Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-low-voice-clarity-on-iphone-calls-effective-strategies-inside/"><u>Solving Low Voice Clarity on iPhone Calls: Effective Strategies Inside</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-create-flawless-animation-movies-for-2024/"><u>Step-by-Step Guide to Create Flawless Animation Movies for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-evolution-in-phablets-samsung-galaxy-z-fold-6s-release-info-and-full-specs-breakdown/"><u>The Next Evolution in Phablets: Samsung Galaxy Z Fold 6'S Release Info and Full Specs Breakdown</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-guide-to-capturing-life-in-full-hd-with-yi/"><u>The Ultimate Guide to Capturing Life in Full HD with Yi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-locating-missing-airpods-with-apples-find-my/"><u>Top 11 Solutions: Locating Missing AirPods with Apple's 'Find My'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-idevices-currently-worth-reconsidering-insights/"><u>Top 4 iDevices Currently Worth Reconsidering: Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
-date: 2024-11-28T07:10:50.761Z
-updated: 2024-12-04T22:05:53.531Z
+date: 2024-12-09T01:17:38.584Z
+updated: 2024-12-10T22:04:13.021Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
@@ -22,7 +22,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Isn't Showing Up in the List on Your iPad
@@ -34,7 +34,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 ![No AirPrint Printers Found message on an iPad.](https://www.lifewire.com/thmb/PINbY5NNM2YpYVf6BIRAjMvyfYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_my-ipad-wont-print-cant-find-printer-1994541-d3ec6679b22b423d876a15837e54cd6e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try these troubleshooting steps, in order:
@@ -50,7 +50,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 6. Verify it's an AirPrint printer. If this is a new printer, it should say that it's AirPrint compatible on the packaging. Some older printers use a specific app to print from the iPad, so refer to the owner's manual. You can see a[list of AirPrint printers on Apple's website](https://support.apple.com/en-us/HT201311) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Appears in the List
@@ -96,16 +96,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-pivotal-scene-choices-for-editors/"><u>[New] Pivotal Scene Choices for Editors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-chucklechamber-endless-options-to-spread-smiles/"><u>[Updated] ChuckleChamber Endless Options to Spread Smiles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/s-latency-with-av1-in-youtube-settings/"><u>Bypass Latency with AV1 in YouTube Settings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-cutting-edge-features-of-the-latest-ipad-calculator-app-a-potential-apple-pencil-investment/"><u>Exploring the Cutting-Edge Features of the Latest iPad Calculator App: A Potential Apple Pencil Investment?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-scoop-unveiling-potential-features-and-estimated-cost-of-the-new-google-pixel-watch/"><u>Inside Scoop: Unveiling Potential Features & Estimated Cost of the New Google Pixel Watch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protect-your-new-iphone-16-the-smart-way-expert-tips-on-choosing-the-right-case-even-if-youve-never-used-one-advice-series/"><u>Protect Your New iPhone 16 the Smart Way: Expert Tips on Choosing the Right Case - Even If You've Never Used One Advice Series</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/storytelling-in-cinema-from-idea-to-actuality/"><u>Storytelling in Cinema From Idea to Actuality</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-mini-tablets-of-2024-in-depth-comparisons-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Mini Tablets of 2024 - In Depth Comparisons and Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-nvidia-mx150-drivers-on-windows-with-our-comprehensive-guide/"><u>Update Your NVIDIA MX150 Drivers on Windows with Our Comprehensive Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo K11 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-iphone-15-stands-out-in-the-competitive-market-a-detailed-assessment-for-seasoned-users-gizmosphere/"><u>Why iPhone 15 Stands Out in the Competitive Market – A Detailed Assessment for Seasoned Users | GizmoSphere</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-your-digital-diaries-with-complimentary-upgrades/"><u>[New] 2024 Approved Elevate Your Digital Diaries with Complimentary Upgrades</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-eliminating-shake-effects-photographyvideo-guide/"><u>[Updated] In 2024, Eliminating Shake Effects Photography/Video Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipate-apples-innovative-buying-experience-the-all-new-vision-pro-set-to-arrive-in-february-as-revealed/"><u>Anticipate Apple's Innovative Buying Experience: The All-New Vision Pro Set to Arrive in February, As Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-blueprint-for-configuring-your-new-ipad-insights-by-zdnet/"><u>Beginner's Blueprint for Configuring Your New iPad: Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-guide-by-zdnet-to-find-out-which-is-ideal-for-you/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Guide by ZDNet to Find Out Which Is Ideal For You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-marvel-world-through-apple-vision-pro-on-its-launch-day-may-30-reported/"><u>Explore Marvel World Through Apple Vision Pro on Its Launch Day, May 30 | Reported</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/guidelines-for-renaming-yourself-in-online-meetings/"><u>Guidelines for Renaming Yourself in Online Meetings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/outstanding-performance-showcase-a-comprehensive-guide-to-linksys-wrt3200acm-the-top-pick-in-open-source-router-technology/"><u>Outstanding Performance Showcase: A Comprehensive Guide to Linksys WRT3200ACM - The Top Pick in Open-Source Router Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-after-apples-departure-alternatives-to-the-discontinued-iphone-13-and-15-pro-tech-insights/"><u>The Future After Apple's Departure: Alternatives to the Discontinued iPhone 13 & 15 Pro | Tech Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-spark-go-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Spark Go (2023) Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tech-picks-of-2024-in-depth-comparison-of-leading-brands-like-apple-and-dell-insights/"><u>Top Tech Picks of 2024: In-Depth Comparison of Leading Brands Like Apple & Dell - Insights</u></a></li>
 </ul></div>
 

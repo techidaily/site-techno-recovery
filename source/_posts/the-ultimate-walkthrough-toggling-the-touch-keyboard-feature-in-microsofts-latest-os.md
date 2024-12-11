@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Walkthrough: Toggling the Touch Keyboard Feature in Microsoft's Latest OS"
-date: 2024-12-01T00:18:50.944Z
-updated: 2024-12-04T20:51:10.905Z
+date: 2024-12-05T10:43:22.589Z
+updated: 2024-12-10T17:23:49.715Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Walkthrough: Toggling the Touch Keyboard Feature in Microsoft's Latest OS"
@@ -15,6 +15,11 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 >
 
 ## The Ultimate Walkthrough: Toggling the Touch Keyboard Feature in Microsoft's Latest OS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * The quickest methods: Press**Win + Ctrl + O** or type**RUN** in the Windows search box. In the Run dialog box, type**OSK** . Click**OK** .
@@ -23,19 +28,11 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 
  This article explains different ways to turn on or off the on-screen keyboard in Windows 10\. It also explains how to pin the keyboard to the Start menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use the Shortcut Keys for the On-Screen Keyboard
 
  If you like shortcuts, you'll love this: Press**Win + CTRL + O** on your physical keyboard. That will instantly display the on-screen keyboard without going through the Ease of Access center.
 
  Use the RUN command to open the keyboard, too. Type**RUN** in the search box, then type**OSK** and click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Turn on the On-Screen Keyboard Using the Ease of Access Center
 
@@ -44,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 1. Click**Start** , then click**Settings** .  
 ![The Windows Start button showing the Settings option.](https://www.lifewire.com/thmb/DJl8mWeFBXMcBD89P5uL9BgJ3h4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-EnableorDisabletheOnScreenKeyboardinWindows10-annotated-5813fcecfa554f9da0287958e4e7b644.jpg)
 2. Click**Ease of Access** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Scroll down and click**Keyboard** .  
 ![The Ease of Access menu showing the Keyboard option.](https://www.lifewire.com/thmb/-hk-yX7ph5_d4xmPvyJ5yR6MKbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EaseofAccessKeyboard-3775dd4845c9455caf9e2ab2d5bc2048.jpg)
@@ -55,14 +56,6 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 6. To close the keyboard, click the close button (**X)** at the top right of the keyboard or follow the above steps and move the slider back to**Off** . Either method will remove the keyboard from your screen and reposition the use of the on-screen keyboard to its default "off" option.  
 ![On-screen keyboard with the close (X) highlighted](https://www.lifewire.com/thmb/kYDMvug0GyD3GrUTRQRSdjAKAxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Closekeyboard-e71f23764cb9422aa37acc4cd54de131.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Get the On-Screen Keyboard (Kind of) Permanently
 
  You can't keep the keyboard displayed on your screen permanently; it will close when you turn off your computer. However, you can pin it to the Start menu, so it's quick and easy to find the Ease of Access menu and toggle the keyboard on when you need it.
@@ -73,17 +66,27 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 2. Click**Settings** .  
 ![The Windows Start button showing the Settings option.](https://www.lifewire.com/thmb/DJl8mWeFBXMcBD89P5uL9BgJ3h4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-EnableorDisabletheOnScreenKeyboardinWindows10-annotated-5813fcecfa554f9da0287958e4e7b644.jpg)
 3. Click**Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Ease of Access menu showing the Keyboard option.](https://www.lifewire.com/thmb/-hk-yX7ph5_d4xmPvyJ5yR6MKbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EaseofAccessKeyboard-3775dd4845c9455caf9e2ab2d5bc2048.jpg)
 4. Right-click**Keyboard** and click**Pin to Start** .  
 ![The Keyboard Pin to Start option.](https://www.lifewire.com/thmb/6onPeVu62gKPqEMc0mF5EZgPkl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pintostart-43a98be5b4e5458ebea70c1f99142f42.jpg)
 5. A pop-up window will ask you to confirm you want to pin the keyboard to Start. Click**Yes** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The pop up windows asking for confirmation before pinning the keyboard to Start.](https://www.lifewire.com/thmb/jdpQp9RhLDBPwiQqxerbtKzXDrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yes-b467b978554447f4bc4943f875534a98.jpg)
 6. The on-screen keyboard tile will now appear when you click the**Start** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard tile in the Start menu.](https://www.lifewire.com/thmb/N7xGBRkclSjmboYKhBv_J28ZglM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Keyboardtile-49c06bd0dbda47f792a1457560d7a768.jpg)
 7. Click**Keyboard** to take you directly to the Ease of Access menu.
 8. Toggle the keyboard to**On** .
@@ -128,15 +131,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/fusionflicker-compiling-media-on-sierra-screens-for-2024/"><u>FusionFlicker Compiling Media on Sierra Screens for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reviving-nostalgia-install-and-run-fallout-3-seamlessly-on-your-new-windows-11-computer/"><u>Reviving Nostalgia: Install and Run Fallout 3 Seamlessly on Your New Windows 11 Computer</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728471391970-sd/"><u>SDカードデータ失われた際、パナソニック製カードで効果的なファイル復元手法解説</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-advapi32dll-error-cracked-strategies-for-retrieving-or-replacing-missing-files/"><u>The Advapi32.dll Error Cracked: Strategies for Retrieving or Replacing Missing Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-camping-equipment-and-tools-insights-from-zdnet/"><u>Top 5 Essential Camping Equipment & Tools - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-fire-pit-models-dominating-2022-features-and-reviews-by-techradar/"><u>Top 5 Fire Pit Models Dominating 2022 - Features & Reviews by TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-ideal-household-greenery-choices-for-boosting-productivity-in-your-workspace-insights-from-zdnet/"><u>Top 5 Ideal Household Greenery Choices for Boosting Productivity in Your Workspace - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-pick-of-the-crop-inflatable-kayaks-choose-wisely-with-our-expert-picks/"><u>Top 5 Pick-of-the-Crop Inflatable Kayaks - Choose Wisely with Our Expert Picks!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-pc-instability-with-elite-dangerous/"><u>Troubleshooting and Solving PC Instability with Elite Dangerous</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ultimate-guide-the-most-effective-no-cost-applications-for-windows-migrations/"><u>Ultimate Guide: The Most Effective No-Cost Applications for Windows Migrations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-step-by-step-guide-to-perfect-gopro-videos-for-2024/"><u>[New] Step-by-Step Guide to Perfect GoPro Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-effortless-inclusion-youtube-media-on-slides/"><u>[Updated] Effortless Inclusion YouTube Media on Slides</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-youtubes-community-standards-as-a-viewer-or-creator/"><u>[Updated] Navigating YouTube's Community Standards as a Viewer or Creator</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-precision-playback-aligning-video-views-in-real-time-for-2024/"><u>[Updated] Precision Playback Aligning Video Views in Real-Time for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-best-mirrorless-cams-top-picks-for-your-next-vlog-project/"><u>[Updated] The Best Mirrorless Cams Top Picks for Your Next Vlog Project</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/building-bonds-before-buying-subscription-strategies-for-2024/"><u>Building Bonds Before Buying Subscription Strategies for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-rtx-gpus-a-detailed-look-into-their-functionality/"><u>Demystifying RTX GPUs - A Detailed Look Into Their Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improve-performance-how-to-reset-app-cache-on-your-android-device/"><u>Improve Performance: How to Reset App Cache on Your Android Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-12-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 12? How to Fix it?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-tips-for-snagging-quality-streams-on-facebook/"><u>In 2024, Tips for Snagging Quality Streams on Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-of-the-line-messaging-platform/"><u>In-Depth Analysis of the Line Messaging Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insider-secrets-the-roadmap-to-gaining-instagram-verification/"><u>Insider Secrets: The Roadmap to Gaining Instagram Verification</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-connecting-and-mapping-drives-in-macos/"><u>Step-by-Step Guide: Connecting and Mapping Drives in macOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-apps-of-the-year-for-easy-and-effective-house-painting-projects/"><u>The Best Apps of the Year for Easy and Effective House Painting Projects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-finding-rentals-with-these-10-essential-sites/"><u>Ultimate Guide: Finding Rentals with These 10 Essential Sites</u></a></li>
 </ul></div>
 

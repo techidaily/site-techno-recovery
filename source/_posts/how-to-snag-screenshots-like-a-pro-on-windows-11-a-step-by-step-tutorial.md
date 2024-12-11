@@ -1,7 +1,7 @@
 ---
 title: How to Snag Screenshots Like a Pro on Windows 11 – A Step-by-Step Tutorial
-date: 2024-09-09T09:13:57.922Z
-updated: 2024-09-10T09:13:57.922Z
+date: 2024-12-05T20:49:05.579Z
+updated: 2024-12-10T23:26:39.835Z
 categories:
   - BestProducts
 description: This Article Describes How to Snag Screenshots Like a Pro on Windows 11 – A Step-by-Step Tutorial
@@ -10,12 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 ---
 
 ## How to Quickly Capture Your Screen on Windows 11 - Four Steps Inside
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -24,12 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
  This article explains all the different ways to make Windows 11 screenshots.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -51,19 +44,11 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -80,11 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -92,6 +75,14 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
  Or, if you select the prompt that pops up at the bottom of the screen after taking the screenshot, it'll open in Snipping Tool. There are markup tools like a pencil and highlighter. You can also easily crop the screenshot further, print it out, copy text from it, import it into Paint, run it through Bing's reverse image search tool, and save it as a PNG, JPG, or GIF file.
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
 
@@ -101,12 +92,6 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -144,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +136,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-enhance-video-appeal-with-filmmaker-friendly-subscribe-button-tutorials-filmora/"><u>[New] 2024 Approved Enhance Video Appeal with Filmmaker-Friendly Subscribe Button Tutorials (Filmora)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-covert-calls-chroniclers-top-secret-audio-gadgets-androidios-for-2024/"><u>[New] Covert Calls Chroniclers Top-Secret Audio Gadgets (Android/iOS) for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>[New] In 2024, Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-discovering-the-best-portable-audio-recording-tech-for-macs/"><u>[Updated] 2024 Approved Discovering the Best Portable Audio Recording Tech for Macs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-footage-leading-cameras-of-2024/"><u>[Updated] High Definition Footage Leading Cameras of 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-voice-of-volume-6-free-apps-for-channeling-youtube-music-onto-android-devices/"><u>[Updated] In 2024, Voice of Volume 6 Free Apps for Channeling YouTube Music Onto Android Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-pova-5-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Pova 5 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-entertainment-on-roku-top-8-channels-for-the-year-2aturday-april-13-2024/"><u>Best Free Entertainment on Roku: Top 8 Channels for the Year 2Aturday, April 13, 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-features-for-the-latest-generation/"><u>Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-methods-for-dusting-and-wiping-down-your-hdtv-screens-safely/"><u>Comprehensive Methods for Dusting and Wiping Down Your HDTV Screens Safely</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-iphone-15-to-iphone-prise-the-following-points-in-your-answer/"><u>From iPhone 15 to iPhone Prise the Following Points in Your Answer:</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-samsung-un6nu8000fxza-smart-tv-performance-vs-price-point-analysis/"><u>In-Depth Look at the Samsung UN6#NU8000FXZA - Smart TV Performance vs Price Point Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-12-and-12-pro-protectors-the-ultimate-case-guide-zdnet/"><u>Top-Rated iPhone 12 & 12 Pro Protectors: The Ultimate Case Guide - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-comparison-samsung-galaxy-book-3-ultra-vs-apple-macbook-pro-the-definitive-guide-for-power-users/"><u>Ultimate Comparison: Samsung Galaxy Book 3 Ultra Vs. Apple MacBook Pro - The Definitive Guide for Power Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-your-handling-skills-the-right-methods-to-wield-iphones-and-airpods-in-unison-smart-advice/"><u>Upgrade Your Handling Skills: The Right Methods to Wield iPhones and AirPods in Unison | Smart Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-analysis-of-apple-airpods-pro-2021-upgrade-key-enhancements-unveiled/"><u>ZDNet's In-Depth Analysis of Apple AirPods Pro 2021 Upgrade: Key Enhancements Unveiled</u></a></li>
+</ul></div>
 
