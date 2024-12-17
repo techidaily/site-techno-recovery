@@ -1,7 +1,7 @@
 ---
 title: "Rising Through the Ranks: Samsung Expands Galaxy AI as Google Faces Antitrust Losses on the Global Innovation Index"
-date: 2024-12-03T18:35:24.880Z
-updated: 2024-12-10T17:43:46.625Z
+date: 2024-12-13T12:05:45.627Z
+updated: 2024-12-16T19:14:14.922Z
 tags:
   - apple
 categories:
@@ -71,26 +71,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-acoustic-architects-leading-sites-to-buy-skype-tones/"><u>[New] In 2024, Acoustic Architects Leading Sites to Buy Skype Tones</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-on-set-questions-answered-quickly/"><u>[New] In 2024, On-Set Questions Answered Quickly</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-achieving-prominence-in-online-gaming-content/"><u>[Updated] In 2024, Achieving Prominence in Online Gaming Content</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-tech-basics-essential-equipment-guide/"><u>[Updated] YouTube Tech Basics Essential Equipment Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-zooming-in-enhance-your-tiktok-videos/"><u>2024 Approved Zooming In Enhance Your TikTok Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/battle-of-the-titans-how-to-decide-between-a-google-pixel-watch-and-an-apple-watch-series-nine-for-unmatched-smartwatch-excellence/"><u>Battle of the Titans: How to Decide Between a Google Pixel Watch and an Apple Watch Series Nine for Unmatched Smartwatch Excellence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-list-18-premier-freeware-video-compressors-for-pc-and-mac/"><u>Discover the Ultimate List: 18 Premier Freeware Video Compressors for PC and Mac</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/essential-list-critical-6-fb-lite-downloads-for-2024/"><u>Essential List Critical 6 FB Lite Downloads for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-adding-several-locations-with-pin-drops-on-google-maps/"><u>Guide: Adding Several Locations with Pin Drops on Google Maps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-apples-cutting-edge-artificnial-intelligence-elevates-siri-and-customizes-user-experience-on-the-home-screen-expert-analysis-by-zdnet/"><u>How Apple's Cutting-Edge Artificnial Intelligence Elevates Siri and Customizes User Experience on the Home Screen | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Smart 7 HD</u></a></li>
-<li><a href="https://article-helps.techidaily.com/pixiz-masterclass-merging-photography-and-motion-for-2024/"><u>Pixiz Masterclass Merging Photography and Motion for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tiny-but-mighty-exploring-performance-and-portability-of-apples-latest-m4-powered-mac-mini-tech-insights-on-zdnet/"><u>Tiny but Mighty: Exploring Performance & Portability of Apple's Latest M4-Powered Mac Mini | Tech Insights on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-iphone-devices-unveiled-by-tech-experts-comprehensive-reviews/"><u>Top-Ranking iPhone Devices Unveiled by Tech Experts - Comprehensive Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-non-functional-search-in-windows-10/"><u>Troubleshooting Non-Functional Search in Windows 10?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-eradicating-permanent-display-impressions-on-screens/"><u>Ultimate Guide: Eradicating Permanent Display Impressions on Screens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-our-selection-of-leading-learning-applications/"><u>Unveiling Our Selection of Leading Learning Applications</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhance-online-presence-master-facebook-video-autoplay/"><u>[New] 2024 Approved Enhance Online Presence Master Facebook Video Autoplay</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-boosting-channel-traffic-with-youtube-backlink-tactics-for-2024/"><u>[Updated] Boosting Channel Traffic with YouTube Backlink Tactics for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-humble-beginnings-jake-paul-on-youtube-triumph/"><u>[Updated] From Humble Beginnings Jake Paul on YouTube Triumph</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/1725288630891-winxvideo-ai/"><u>利用 Winxvideo AI 提升影片质量，获取完美视频体验</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-intellectual-horizons-inside-meta-ai-technology/"><u>Exploring Intellectual Horizons: Inside Meta AI Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-create-a-detailed-route-with-multiple-markers-using-google-maps/"><u>How to Create a Detailed Route with Multiple Markers Using Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-overcome-connectivity-and-functionality-issues-with-tiktok/"><u>How to Overcome Connectivity and Functionality Issues with TikTok</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-100-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor 100</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-and-correct-error-code-327-in-star-wars-battlefront-ii-effortlessly/"><u>How to Troubleshoot and Correct Error Code 327 in Star Wars Battlefront II Effortlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-era-of-racing-vr-bike-selection-guide/"><u>New Era of Racing VR Bike Selection Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-windows-dciman32dll-disappearance-problems-with-ease-and-confidence/"><u>Overcoming Windows dciman32.dll Disappearance Problems with Ease and Confidence</u></a></li>
+<li><a href="https://techidaily.com/samsung-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-msstdfmtdll-file-missing-problem-a-step-by-step-guide/"><u>Solving the 'Msstdfmt.dll File Missing' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ins-and-outs-of-ussd-unstructured-supplementary-service-data/"><u>The Ins and Outs of USSD (Unstructured Supplementary Service Data)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-hulus-rununk13-error-with-easy-fixes/"><u>Troubleshooting Hulu's RUNUNK13 Error with Easy Fixes</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

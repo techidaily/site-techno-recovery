@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Set Up Multiple Network Interfaces on Your Mac - Get Ultimate Connectivity
-date: 2024-12-07T23:01:26.881Z
-updated: 2024-12-11T05:40:26.517Z
+date: 2024-12-10T22:12:35.077Z
+updated: 2024-12-16T19:38:58.444Z
 tags:
   - apple
 categories:
@@ -26,14 +26,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -41,7 +37,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -52,6 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -59,10 +59,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -80,6 +76,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,22 +140,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-immersive-journeys-youtubes-best-storytelling-of-23/"><u>[Updated] Immersive Journeys YouTube’s Best Storytelling of '23</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-the-way-in-personal-trail-tracking-drone-innovation/"><u>[Updated] Leading the Way in Personal Trail-Tracking Drone Innovation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-upgrade-video-experience-activate-av1-on-youtube/"><u>[Updated] Upgrade Video Experience Activate AV1 on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-pencil-inspired-vision-pro-controller-unveiled-in-latest-patent-reveal-insights-from-zdnet/"><u>Apple Pencil Inspired Vision Pro Controller Unveiled in Latest Patent Reveal - Insights From ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-humor-picture-processor/"><u>Best Humor Picture Processor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cant-retract-that-tiktok-learn-the-fix-for-removing-an-accidental-repost-here/"><u>Can't Retract That TikTok? Learn the Fix for Removing an Accidental Repost Here!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/charge-up-your-journey-identifying-ev-charging-options-with-google-maps/"><u>Charge Up Your Journey - Identifying EV Charging Options with Google Maps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decode-the-mystery-effective-solutions-for-halinitializationfailed-stop-0x0000005c/"><u>Decode the Mystery: Effective Solutions for HAL_INITIALIZATION_FAILED (STOP 0X0000005C)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/digital-dream-teams-8-youtubes-growth-phenoms-for-2024/"><u>Digital Dream Teams 8 YouTube's Growth Phenoms for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-when-your-system-cant-locate-propsysdll-files/"><u>Effective Fixes for When Your System Can't Locate PropSys.dll Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/four-advanced-gpt-checkers-tailored-for-teaching-staff-and-supervisors/"><u>Four Advanced GPT-Checkers Tailored for Teaching Staff and Supervisors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2020) to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/showcasing-contributions-and-thought-leadership/"><u>Showcasing Contributions & Thought Leadership</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-sony-showcase-2024-latest-releases-industry-updates-and-insights/"><u>The Sony Showcase 2024: Latest Releases, Industry Updates & Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/twitch-chat-5-things-that-confuse-streaming-newbies/"><u>Twitch Chat: 5 Things That Confuse Streaming Newbies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-face-off-samsung-galaxy-watch-ultra-versus-apple-watch-ultra-buyers-guide-by-wired/"><u>Ultimate Face-Off: Samsung Galaxy Watch Ultra versus Apple Watch Ultra – Buyer's Guide by Wired</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-virtual-warriors-journey-7-intense-fps-games/"><u>[New] In 2024, Virtual Warriors’ Journey - 7 Intense FPS Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infusing-homes-with-suns-invisible-light/"><u>[Updated] Infusing Homes with Sun's Invisible Light</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-preventing-frames-gaps-for-flawless-video-captures/"><u>2024 Approved Preventing Frames Gaps for Flawless Video Captures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-verizons-next-generation-5g-network/"><u>Anticipating Verizon's Next-Generation 5G Network</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-google-pixel-7a-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Google Pixel 7a</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/everyday-language-on-ai/"><u>Everyday Language on AI</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-preventing-social-media-platforms-intrusive-ads/"><u>In 2024, Preventing Social Media Platform's Intrusive Ads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-look-at-neo-qled-vs-oled-choosing-the-right-tv-display/"><u>In-Depth Look at Neo QLED Vs. OLED - Choosing the Right TV Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/keep-zoom-updated-a-users-guide-for-windows-and-macos-systems/"><u>Keep Zoom Updated: A User's Guide for Windows and macOS Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-animated-text-in-video-best-mobile-apps/"><u>New The Ultimate Guide to Animated Text in Video Best Mobile Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/order-matters-how-to-watch-x-men-movies-for-full-story-continuity/"><u>Order Matters: How to Watch X-Men Movies for Full Story Continuity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-0x80n070570-file-not-found-issue-on-your-windows-device/"><u>Resolving the 0X80n070570 File Not Found Issue on Your Windows Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/signal-vs-whatsapp-understanding-their-core-differences/"><u>Signal Vs. WhatsApp: Understanding Their Core Differences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-vcompdll-file-not-foundmissing-issues-on-your-pc-easy-steps-and-tips/"><u>Solving vcomp.dll File Not Found/Missing Issues on Your PC | Easy Steps & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-selecting-multiple-gmail-correspondences-with-precision/"><u>Step-by-Step Tutorial: Selecting Multiple Gmail Correspondences with Precision</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-insider-look-at-ios-video-recording-tools-for-2024/"><u>The Insider Look at IO's Video Recording Tools for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-why-your-microsoft-word-files-wont-open-and-how-to-solve-it/"><u>Troubleshooting: Why Your Microsoft Word Files Won't Open and How to Solve It</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4a-wav-movavi/"><u>オンラインでのフリー M4A からWAVへの音声変換 - Movavi</u></a></li>
 </ul></div>
 

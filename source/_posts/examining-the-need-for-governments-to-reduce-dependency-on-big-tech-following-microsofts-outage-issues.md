@@ -1,7 +1,7 @@
 ---
 title: Examining the Need for Governments to Reduce Dependency on Big Tech Following Microsoft's Outage Issues
-date: 2024-09-04T00:26:04.824Z
-updated: 2024-09-05T00:26:04.824Z
+date: 2024-12-13T23:11:25.602Z
+updated: 2024-12-17T14:13:35.241Z
 categories:
   - BestProducts
 description: This Article Describes Examining the Need for Governments to Reduce Dependency on Big Tech Following Microsoft's Outage Issues
@@ -23,6 +23,10 @@ of 07
 ## [Create Organized, Artistic Notes and Notebooks: Notebook](https://www.zoho.com/notebook/)
 
 ![Screen Shot of Ipad Note Taking App, Notebook by Zoho Corporation](https://www.lifewire.com/thmb/ynAJojse4D1qOQ6eFARWnpDUL1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.36.21PM-5b45520a46e0fb003752cb4e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -46,6 +50,10 @@ of 07
 02
 
 of 07
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Use Your Apple Pencil to Create Notes and Random Doodles: Nebo](https://www.nebo.app/)
 
@@ -101,22 +109,10 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [The Tools You Need to Finally Finish That Novel: Transom](https://apps.apple.com/us/app/transom-note-taking-for-writers/id927983947)
 
 ![Screen Shot of iPad Note Taking App, Transom, Note-taking for Writers by VoidMedia](https://www.lifewire.com/thmb/D-W0tDJzFgOogqVZz8Cg-uUV5HI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.02.33PM-5b4549d246e0fb0037b62987.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Fluid, no-frills app.
@@ -141,16 +137,14 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Convert Your Scribbles to Text: Notes Plus](https://www.writeon.cool/notes-plus/)
 
 ![Screen Shot of iPad app, Notes Plus by Viet Tran](https://www.lifewire.com/thmb/CdWqVs7w56VEyDvNrM4DKZLuBUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at7.51.16PM-5b4546d0c9e77c00372e65a0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Background audio recording.
@@ -178,27 +172,17 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Customizable Notes: Drafts](https://getdrafts.com/)
 
 ![Screen Shot of iPad Note-Taking App, Note Taking: Notes & NotebookNotepad plus Markdown Writer React Apps Pty Ltd](https://www.lifewire.com/thmb/MbKvv1tpHWkwSwZJMDdlHQCMaJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.39.39PM-5b441de2c9e77c00371bd2c5.png)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ​
 
  What We Like
@@ -229,12 +213,6 @@ of 07
 
 ![GoodNotes 5](https://www.lifewire.com/thmb/MjU51U1vy_MrNO2GF679jhCRDLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2023-01-20at6.25.22PM-9a3a3db8275544498ecbcf8db5bb5c98.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Ability to use GoodNotes as a digital whiteboard.
@@ -276,8 +254,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +261,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-strategic-approaches-broadcasting-live-sports-with-precision/"><u>[Updated] Strategic Approaches Broadcasting Live Sports with Precision</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-efficiency-in-exporting-photos-from-device-to-share-via-snapchat/"><u>2024 Approved Efficiency in Exporting Photos From Device to Share via Snapchat</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/amplify-printing-prowess-aio-upgrades-for-windows-7/"><u>Amplify Printing Prowess: AIO Upgrades for WIndows 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-xtwitter-client-tools-and-software/"><u>Best X/Twitter Client Tools and Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discord-outage-explained-determining-if-the-problem-lies-with-us-or-them/"><u>Discord Outage Explained: Determining If the Problem Lies With Us or Them</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-note-30-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Note 30 Is Unlocked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gently-introducing-scene/"><u>In 2024, Gently Introducing Scene</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-htc-u23-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-camera-problems-fix-the-lack-of-focus-now/"><u>Troubleshooting iPhone Camera Problems - Fix the Lack of Focus Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-made-simple-overcoming-the-challenge-of-code-0x80004005/"><u>Troubleshooting Made Simple: Overcoming the Challenge of Code 0X80004005</u></a></li>
+</ul></div>
 

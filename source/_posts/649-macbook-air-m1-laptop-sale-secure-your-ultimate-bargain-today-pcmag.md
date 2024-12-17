@@ -1,7 +1,7 @@
 ---
 title: "$649 MacBook Air M1 Laptop Sale: Secure Your Ultimate Bargain Today! | PCMag"
-date: 2024-12-09T10:45:40.269Z
-updated: 2024-12-10T17:04:12.884Z
+date: 2024-12-15T21:00:51.332Z
+updated: 2024-12-17T14:46:54.853Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-craft-unique-logos-using-complimentary-stock-graphics/"><u>[New] 2024 Approved Craft Unique Logos Using Complimentary Stock Graphics</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-exploring-echoes-in-social-space-an-old-fb-content-pathway/"><u>[New] Exploring Echoes in Social Space An Old FB Content Pathway</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-darkness-to-daylight-funniest-incarcerated-facebook-friends-quotes/"><u>[New] From Darkness to Daylight Funniest Incarcerated Facebook Friends Quotes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-spotlight-on-shared-screen-space/"><u>[Updated] 2024 Approved Spotlight on Shared Screen Space</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-amplify-detail-top-tips-for-shooting-up-closer-with-videoleap/"><u>2024 Approved Amplify Detail Top Tips for Shooting Up Closer with VideoLeap</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-enables-ai-conversational-capabilities-on-iosipados-and-macos-via-partnership-with-openai/"><u>Apple Enables AI Conversational Capabilities on iOS/iPadOS and macOS via Partnership with OpenAI</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-ideal-iphone-for-mobile-gaming-expert-recommendations/"><u>Choosing the Ideal iPhone for Mobile Gaming: Expert Recommendations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-the-new-google-gemini-feature-in-ios-boosts-your-iphones-capabilities-expert-analysis/"><u>Discover How the New Google Gemini Feature in iOS Boosts Your iPhone’s Capabilities | Expert Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-edge-win11s-lead-over-macos/"><u>Discover the Edge: Win11's Lead over MacOS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/earn-an-extra-150-with-every-school-related-mac-or-ipad-purchase-uncover-the-secret-steps-here/"><u>Earn an Extra $150 With Every School-Related Mac or iPad Purchase. Uncover the Secret Steps Here</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-identify-key-qualities-before-purchasing-a-projector/"><u>How to Identify Key Qualities Before Purchasing a Projector</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-false-friend-requests-online/"><u>Identifying Inauthentic Connections: A Guide to Recognizing False Friend Requests Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimize-sound-speed-with-these-essential-apps/"><u>In 2024, Optimize Sound Speed with These Essential Apps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/inaugural-vocal-augmented-communication-tool/"><u>Inaugural Vocal-Augmented Communication Tool</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-apple-event-at-wwdc-exploring-upcoming-features-in-ai-siri-enhancements-and-ios-18-innovations-zdnets-insight/"><u>Inside the Apple Event at WWDC: Exploring Upcoming Features in AI, Siri Enhancements & iOS 18 Innovations - ZDNet's Insight</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-device-managers-code/"><u>Resolving Device Manager's Code</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-retrieving-audio-from-your-zoom-h1-digital-recorder-at-no-cost/"><u>Step-by-Step Guide: Retrieving Audio From Your Zoom H1 Digital Recorder at No Cost</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-development-timeline-the-remarkable-transformation-of-ios-from-10-to-180/"><u>Unveiling the Development Timeline: The Remarkable Transformation of iOS From 1.0 to 18.0</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-tablet-unveiled-launch-date-and-detailed-specifications-revealed/"><u>Upcoming Google Pixel Tablet Unveiled - Launch Date & Detailed Specifications Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earning-mastery-youtube-short-video-tips/"><u>[New] In 2024, Earning Mastery Youtube Short Video Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-personalized-instagram-notification-melodies/"><u>[New] Personalized Instagram Notification Melodies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-cost-free-camera-screen-capture-tools-for-2024/"><u>[New] The Ultimate Guide to Cost-Free Camera Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-navigating-snapchats-new-spotlight-functionality/"><u>[Updated] Navigating Snapchat's New Spotlight Functionality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-installation-and-update-manual-epson-et-3760-printer-driver-for-windows-pcs/"><u>Complete Installation & Update Manual: Epson ET-3760 Printer Driver for Windows PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722901900318-concerts-by-international-orchestras-and-vocal-ensembles-opera-operetta-at-prague-castle/"><u>Concerts by International Orchestras and Vocal Ensembles (Opera, Operetta) at Prague Castle.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-manage-on-screen-keyboards-efficiently-on-your-pc-with-windows-10/"><u>Discover How to Manage On-Screen Keyboards Efficiently on Your PC with Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722870027566-diy-mechanical-keyboard-maintenebrance-easy-cleaning-strategies-inside/"><u>DIY Mechanical Keyboard Maintenebrance: Easy Cleaning Strategies Inside!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-change-youtube-clips-to-audio-format-for-pc-and-mac-users-efficiently/"><u>How to Change YouTube Clips to Audio Format for PC and Mac Users Efficiently</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/iphoneandroid-integrating-playlists-into-your-fb-music/"><u>IPhone/Android Integrating Playlists Into Your FB Music</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reative-summit-top-talent-junction/"><u>The Creative Summit Top Talent Junction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-overcoming-a-401-unauthorized-web-error-quickly-and-safely/"><u>The Ultimate Guide to Overcoming a '401 Unauthorized' Web Error Quickly and Safely</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-preferred-alternative-mobile-contact-solutions/"><u>Top 8 Preferred Alternative Mobile Contact Solutions</u></a></li>
 </ul></div>
 

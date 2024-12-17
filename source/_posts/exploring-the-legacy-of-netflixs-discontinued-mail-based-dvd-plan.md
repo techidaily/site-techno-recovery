@@ -1,7 +1,7 @@
 ---
 title: Exploring the Legacy of Netflix's Discontinued Mail-Based DVD Plan
-date: 2024-08-30T13:16:47.697Z
-updated: 2024-08-31T13:16:47.697Z
+date: 2024-12-14T07:57:09.957Z
+updated: 2024-12-17T04:43:45.029Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Legacy of Netflix's Discontinued Mail-Based DVD Plan
@@ -25,6 +25,10 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -44,8 +48,9 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -61,8 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -74,18 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -95,6 +89,10 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -106,9 +104,6 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -122,8 +117,9 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -132,9 +128,6 @@ thumbnail: https://www.lifewire.com/thmb/VJaNnkV7AQP2RVvtV5hLoWffSLs=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -155,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +155,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-cutting-edge-screencasting-harness-the-power-of-visual-storytelling/"><u>[New] In 2024, Cutting Edge Screencasting Harness the Power of Visual Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-cam-gear-mastering-low-speed-video-recording/"><u>[New] Ultimate Cam Gear Mastering Low-Speed Video Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-smartphones-and-tablets-leading-gb-gameplayers/"><u>[Updated] Smartphones & Tablets Leading GB Gameplayers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-steady-craft-fights-against-camera-jiggles-for-2024/"><u>[Updated] Steady Craft Fights Against Camera Jiggles for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95935392-9781844098606-change-your-story-change-your-life/"><u>Change Your Story, Change Your Life | Free Book</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-powerhousing-in-depth-look-at-the-superzoom-canon-sx720hs/"><u>Compact PowerHousing: In-Depth Look at the Superzoom Canon SX720HS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-vr-today-innovations-and-insights/"><u>In 2024, Inside VR Today Innovations and Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/now-accessible-next-gen-av1-encoding-solutions-for-hardware-and-software-integration/"><u>Now Accessible: Next-Gen AV1 Encoding Solutions for Hardware and Software Integration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-for-emailing-e-books-from-calibre-to-kindle-devices-over-lanwlan/"><u>Step-by-Step Guide for Emailing E-Books From Calibre to Kindle Devices over LAN/WLAN</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-converting-aax-files-to-mp3-on-windows-11/"><u>Step-by-Step Guide: Converting AAX Files to MP3 on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-converting-and-importing-ebooks-from-kindle-to-kobo-devices/"><u>Step-by-Step Guide: Converting and Importing eBooks From Kindle to Kobo Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-drm-removal-from-ebooks-starting-on-page-1/"><u>Step-by-Step Guide: DRM Removal From eBooks - Starting on Page 1</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-how-to-printer-documents-from-your-kindle-fire-device/"><u>Step-by-Step Guide: How to Printer Documents From Your Kindle Fire Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-how-to-safely-eliminate-drm-protection-from-epub-pdf-and-azw-digital-books/"><u>Step-by-Step Guide: How to Safely Eliminate DRM Protection From EPUB, PDF, and AZW Digital Books</u></a></li>
+</ul></div>
 

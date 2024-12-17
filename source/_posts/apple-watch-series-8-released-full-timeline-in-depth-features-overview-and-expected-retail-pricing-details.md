@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Series 8 Released: Full Timeline, In-Depth Features Overview & Expected Retail Pricing Details"
-date: 2024-08-30T13:16:57.611Z
-updated: 2024-08-31T13:16:57.611Z
+date: 2024-12-13T11:21:45.789Z
+updated: 2024-12-16T17:21:50.229Z
 categories:
   - BestProducts
 description: "This Article Describes Apple Watch Series 8 Released: Full Timeline, In-Depth Features Overview & Expected Retail Pricing Details"
@@ -21,6 +21,10 @@ In This Article
 * [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-foldable-iphone)
 
  One idea floating around is Apple combining an iPhone and an iPad to make a double-wide phone, or maybe the iPhone Flip will fold like the iconic Motorola Razr. These are just rumors for now, and some experts think Apple might release a foldable iPad before a flip phone. Whatever the case, the talk about a foldable Apple gadget is picking up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Summary
 
@@ -54,9 +58,6 @@ Patent US8929085B2.
 
 We don’t expect a foldable iPhone until at least 2026.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Foldable iPhone Price Rumors
 
  It won’t be cheap. Phones are increasingly approaching or even exceeding $1,000\. Just look at the[iPhone 15 Pro Max](https://www.lifewire.com/iphone-15-5202683) which starts at just over a grand.
@@ -69,27 +70,22 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 iPhone Fold concept.
 
 Michal Dufka
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.
@@ -103,8 +99,9 @@ No advertising on the website.
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -130,8 +127,9 @@ No advertising on the website.
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -142,14 +140,11 @@ No advertising on the website.
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +153,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-aerial-robotics-simplified-how-drones-fly-talk-and-work/"><u>[New] Aerial Robotics Simplified How Drones Fly, Talk & Work</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-the-art-of-laptop-video-capturing-for-2024/"><u>[New] Mastering the Art of Laptop Video Capturing for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unlock-the-secrets-of-altering-voice-sounds-on-ps5ps4-for-2024/"><u>[New] Unlock the Secrets of Altering Voice Sounds on PS5/PS4 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-video-movie-maker-for-windows-8/"><u>[Updated] 2024 Approved Video Movie Maker for Windows 8</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-android-and-ios-leaderboard-of-ps2-emulation-software/"><u>[Updated] In 2024, Android & iOS Leaderboard of PS2 Emulation Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-keep-unwanted-content-away-from-your-computer-and-phone/"><u>[Updated] In 2024, How to Keep Unwanted Content Away From Your Computer and Phone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-creator-studio-vs-youtube-studio-beta/"><u>[Updated] YouTube Creator Studio Vs. YouTube Studio (Beta)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-step-by-step-guide-adding-personalized-fonts-to-your-kindle-without-modifying-system-settings/"><u>1. Step-by-Step Guide: Adding Personalized Fonts to Your Kindle Without Modifying System Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieve-your-reading-goals-secrets-to-getting-free-ebooks-online/"><u>Achieve Your Reading Goals: Secrets to Getting Free eBooks Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-to-eliminating-digital-rights-management-from-e-books-and-apps/"><u>Complete Guide to Eliminating Digital Rights Management From E-Books and Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-understanding-feedback-product-manuals-insights-end-user-reviews-and-official-guides/"><u>Comprehensive Guide, Understanding, Feedback, Product Manuals, Insights, End-User Reviews, and Official Guides.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-e-reading-mastering-kindle-content-consumption-on-the-google-nexus-7-tablet/"><u>Effortless E-Reading: Mastering Kindle Content Consumption on the Google Nexus 7 Tablet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-ebooks-a-user-friendly-guide-to-adjusting-metadata-swiftly-in-ultimate-converter/"><u>Enhance Your eBooks: A User-Friendly Guide to Adjusting Metadata Swiftly in Ultimate Converter</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/how-can-you-securely-access-and-save-video-content-from-a-private-instagram-profile/"><u>How Can You Securely Access and Save Video Content From a Private Instagram Profile?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-a-malfunctioning-content-warning-on-your-voice-chat-platform/"><u>How to Fix a Malfunctioning Content Warning on Your Voice Chat Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-and-simple-account-creation-steps-for-seamless-online-registration/"><u>Quick and Simple Account Creation Steps for Seamless Online Registration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-amazons-kindle-drm-from-ebooks-in-windows-8/"><u>Step-by-Step Guide: Removing Amazon's Kindle DRM From Ebooks in Windows 8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-on-how-to-convert-and-save-audible-books-as-a-physical-cd-with-minimal-hassles/"><u>The Ultimate Tutorial on How to Convert and Save Audible Books as a Physical CD with Minimal Hassles</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-zte-axon-40-lite-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for ZTE Axon 40 Lite Bricked Devices | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Excel Essentials: The Process of Fusing Two Distinct Column Values"
-date: 2024-08-30T13:20:57.880Z
-updated: 2024-08-31T13:20:57.880Z
+date: 2024-12-11T17:15:17.219Z
+updated: 2024-12-17T13:05:48.528Z
 categories:
   - BestProducts
 description: "This Article Describes Excel Essentials: The Process of Fusing Two Distinct Column Values"
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
@@ -40,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 
 The plural of emoji is emoji, not emojis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## New Emoji Are Announced Regularly
 
  New emoji are being added all the time. In 2017 the Unicode Consortium finalized 69 new ones including a vampire, a genie, a mermaid, and many more.
@@ -52,9 +53,9 @@ The plural of emoji is emoji, not emojis.
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Emoji Tattoos Show Up in Odd Places
 
  What's the latest trend in tattoo art? Emoji, of course.
@@ -64,8 +65,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
@@ -73,29 +75,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Emoji Are Supported Just About Everywhere
 
  Using[X on mobile](https://www.lifewire.com/best-mobile-twitter-apps-3486098) devices has always been popular, but until X finally released emoji support on its web version in 2014, those little icons would show up as blank boxes if you visited Twitter.com on a laptop or desktop computer.
@@ -103,6 +95,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  They're not quite identical to the ones you see and type on mobile devices, but they come pretty close, and anything is better than a bunch of boxes filling up your X stream.
 
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Emoji Trivia
 
@@ -141,8 +137,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +144,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-digital-footprints-recording-nintendo-switch-sessions/"><u>[New] In 2024, Digital Footprints Recording Nintendo Switch Sessions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discovering-the-top-screen-grabber-software-win11/"><u>[New] In 2024, Discovering the Top Screen Grabber Software Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-into-retro-gaming-with-top-5-ps1-emulators-for-pc/"><u>[New] Step Into Retro Gaming with Top 5 PS1 Emulators for PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-decoding-the-copyright-code-for-insta-musicians-for-2024/"><u>[Updated] Decoding the Copyright Code for Insta Musicians for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-throughput-your-videos-8-top-android-apps/"><u>[Updated] Throughput Your Videos 8 Top Android Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-how-to-install-handbrake-with-libdvdcss-on-macos-monterey-and-windows-11/"><u>1. How to Install Handbrake with Libdvdcss on macOS Monterey and Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-channel-expansion-sharing-your-show-across-30-platforms/"><u>2024 Approved Channel Expansion Sharing Your Show Across 30 Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-oneplus-1-probing-into-pricing-forecasts-launch-dates-features-and-breaking-leaks/"><u>Discover OnePlus 1#: Probing Into Pricing Forecasts, Launch Dates, Features, and Breaking Leaks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-of-15-free-software-removal-tools/"><u>Discover the Ultimate Selection of 15 Free Software Removal Tools!</u></a></li>
+<li><a href="https://techidaily.com/1723808159596-do-you-need-a-vpn-yes-you-do-heres-why/"><u>Do You Need a VPN? Yes, You Do. Here’s Why</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-lib4eay32dll-file-not-found-effective-troubleshooting-techniques/"><u>Fixing the lib4eay32.dll File Not Found: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fubotv-streaming-made-easy-for-firestick-users-installation-and-setup-instructions/"><u>FuboTV Streaming Made Easy for Firestick Users: Installation & Setup Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-access-fandango-cinema-selection-on-your-apple-tv-platform/"><u>How to Access Fandango Cinema Selection on Your Apple TV Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reset-and-reinstall-a-defective-key-from-your-pcs-keyboard/"><u>How to Reset and Reinstall a Defective Key From Your PC's Keyboard</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/keeping-it-real-in-the-rat-race-of-retweets-and-likes-for-2024/"><u>Keeping It Real in the Rat Race of Retweets and Likes for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/power-problems-heres-how-to-bring-your-non-responsive-system-back-to-life/"><u>Power Problems? Here's How to Bring Your Non-Responsive System Back to Life!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-overcoming-windows-11-shutdown-problems/"><u>Solutions: Overcoming Windows 11 Shutdown Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-rebooting-your-macbook-pro-efficiently/"><u>Step-by-Step Guide: Rebooting Your MacBook Pro Efficiently</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-swedish-sound-system-simplified/"><u>The Swedish Sound System Simplified</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice for Repairing Broken MacBook Pro Keyboards: A Comprehensive Walkthrough"
-date: 2024-08-30T13:21:58.367Z
-updated: 2024-08-31T13:21:58.367Z
+date: 2024-12-14T16:17:28.092Z
+updated: 2024-12-16T23:55:03.286Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice for Repairing Broken MacBook Pro Keyboards: A Comprehensive Walkthrough"
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  You'll need to attempt fixes such as cleaning it, checking for updates, and removing potential problem apps to get your keyboard working again. Most of these fixes also work for MacBook Air keyboards.
 
  Apple's butterfly keyboards were such a problem; Apple had to issue a[Keyboard Service Program for the MacBook, MacBook Air, and MacBook Pro](https://support.apple.com/keyboard-service-program-for-mac-notebooks) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a MacBook Pro Keyboard That Isn't Working
 
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  Apple fixes some keyboard issues at no charge due to defects in the butterfly switch mechanisms, but customer support can tell you whether your MacBook is covered.
 
  Before you take your MacBook in for service, make sure to[back up the data on your Mac](https://www.lifewire.com/back-up-mac-to-external-hard-drive-with-time-machine-5069853) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes a MacBook Pro Keyboard to Stop Working?
 
@@ -92,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +107,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-discover-over-30-premium-free-ae-template-packs/"><u>[Updated] 2024 Approved Discover Over 30 Premium Free AE Template Packs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[Updated] 2024 Approved How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elevate-your-presence-online-capture-high-definition-webcam-footage-in-vlc/"><u>[Updated] In 2024, Elevate Your Presence Online Capture High-Definition Webcam Footage in VLC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-tecno-spark-go-2024-frp-bypass-by-drfone-android/"><u>About Tecno Spark Go (2024) FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-and-enjoy-a-step-by-step-guide-for-linking-samsung-soundbar-to-tv/"><u>Connect and Enjoy: A Step-by-Step Guide for Linking Samsung Soundbar to TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-and-enjoy-easy-methods-for-casting-apple-tv-plus-shows-onto-your-chromecast-device/"><u>Connect and Enjoy: Easy Methods for Casting Apple TV Plus Shows Onto Your Chromecast Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/guide-to-solve-windows-11-avi-media-player-problems-fixes-for-non-playing-files/"><u>Guide to Solve Windows 11 AVI Media Player Problems – Fixes for Non-Playing Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-integrate-psvr-console-gaming-into-your-pc-experience/"><u>How To Successfully Integrate PSVR Console Gaming Into Your PC Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-virality-10-strategies-for-success-on-instagram/"><u>Master the Art of Virality: 10 Strategies for Success on Instagram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roku-trouble-effective-solutions-when-you-cant-watch-netflix-anymore/"><u>Roku Trouble: Effective Solutions When You Can't Watch Netflix Anymore</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-art-of-freezing-time-a-comprehensive-guide-to-video-freeze-frames-for-2024/"><u>The Art of Freezing Time A Comprehensive Guide to Video Freeze Frames for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722852832472-troubleshoot-missing-wpcapdll-errors-in-windows-effortlessly/"><u>Troubleshoot Missing WPcapDLL Errors in Windows Effortlessly</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->

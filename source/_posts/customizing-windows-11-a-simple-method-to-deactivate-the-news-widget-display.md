@@ -1,7 +1,7 @@
 ---
 title: "Customizing Windows 11: A Simple Method to Deactivate the News Widget Display"
-date: 2024-08-30T13:16:45.584Z
-updated: 2024-08-31T13:16:45.584Z
+date: 2024-12-10T13:38:21.242Z
+updated: 2024-12-17T11:47:34.207Z
 categories:
   - BestProducts
 description: "This Article Describes Customizing Windows 11: A Simple Method to Deactivate the News Widget Display"
@@ -10,12 +10,21 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ---
 
 ## IPhone Texting Made Simple: Learn to Send Voice Messages Today
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * In the Messages app, tap and hold the**audio** icon while speaking. Release your finger and tap the**up arrow** .
 * Open the Voice Memos app and tap**record** . When finished, tap**stop** . Tap the three dots icon and select **Share** .
 
  This article explains two easy ways to send voice messages on your iPhone. You can create and share an audio message using the Messages and Voice Memos apps. This option is convenient if speaking is quicker and easier than typing or if you want your recipient to hear your voice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create and Send a Voice Message With Messages
 
@@ -36,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 6. Tap**Send** to share the audio message. Alternatively, tap**Play** to preview it, and**X** to cancel.  
 ![The recording bar, stop button, and cancel, send, and preview buttons for a voice message in Messages for iOS 17](https://www.lifewire.com/thmb/sTqipQrHLcQarZqKDQPXZpHwCWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Record-voice-memo-f1227deae1c04346af41582dfe9d820d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Drawbacks of Using Messages
 
  Here are a couple of disadvantages to using this function in Messages:
@@ -50,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
  If your recipient isn’t an iPhone user or you want to avoid the possible expiration of your audio message, consider sharing your message using Voice Memos.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Create and Send a Voice Message With Voice Memos
 
  The[Voice Memos app](https://www.lifewire.com/how-to-use-voice-memos-on-iphone-4799058) is excellent for capturing audio notes, speakers during a meeting, and more. Since you can easily share a voice recording from the app, this is a solid alternative to the Messages app on iPhone.
@@ -61,15 +67,17 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 3. When you finish with your message, tap the red **Stop** button.  
 ![Voice Memos app on iPhone showing record and stop buttons](https://www.lifewire.com/thmb/2_63ut4LxIyAJWKQ8B09aZfN3GQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-send-voice-messages-iphone-5199864-8bd9efbee2b74c8eb666703fa3a9dac4.jpg)
 4. The recording pops to the top section of the screen. You can tap the **Play** button to have a listen.  
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To share, tap the**three dots** next to the name of the recording.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip  
 
  If you want to rename the recording before you share it, tap the current title and type in the new one.
@@ -77,9 +85,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 6. Choose a sharing option from the Share Sheet. Depending on your iPhone's sharing options, you can send the audio message in a text message, email, or shared storage service like Dropbox.  
 ![Voice Memos app showing three-dot icon, Share selection and options](https://www.lifewire.com/thmb/Gw0s1etfHGcauSAdg887IPhFT2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-send-voice-messages-iphone-5199864-3f38aeb132ab4afeaa4be14920834a4d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  FAQ
 
 * How do I compose text messages on iPhone with my voice?  
@@ -109,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +121,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-grab-your-favorite-facebook-videos-today-for-2024/"><u>[New] Grab Your Favorite Facebook Videos Today for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>[New] Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhancing-visual-narratives-through-vsco-editing/"><u>[Updated] Enhancing Visual Narratives Through VSCO Editing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-up-audio-trouble-with-this-simple-guide-for-resolving-discord-muting-issues/"><u>Clear Up Audio Trouble with This Simple Guide for Resolving Discord Muting Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comment-eliminer-les-protections-drm-debooks-en-format-pdf-et-epub/"><u>Comment Éliminer Les Protections DRM D'eBooks en Format PDF Et EPUB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easily-convert-your-vitalsource-course-materials-to-pdf-the-cheapest-method/"><u>Easily Convert Your VitalSource Course Materials to PDF - The Cheapest Method!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-skits-building-a-parody-film/"><u>Laughing Skits Building a Parody Film</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-youtube-camera-buying-guide-for-2024/"><u>The Ultimate YouTube Camera Buying Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-resolving-digital-rights-management-drm-errors-effectively/"><u>Understanding and Resolving Digital Rights Management (DRM) Errors Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-a-world-of-reading-discover-the-benefits-of-kindle-unlimited/"><u>Unlock a World of Reading: Discover the Benefits of Kindle Unlimited</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zero-cost-ebook-info-enhancer-a-comprehensive-metadata-editor-for-epub-files/"><u>Zero Cost eBook Info Enhancer: A Comprehensive Metadata Editor for ePUB Files</u></a></li>
+</ul></div>
 

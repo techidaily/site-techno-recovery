@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights
-date: 2024-12-08T17:09:45.313Z
-updated: 2024-12-11T08:06:32.329Z
+date: 2024-12-14T18:26:55.021Z
+updated: 2024-12-17T08:50:39.720Z
 tags:
   - apple
 categories:
@@ -55,12 +55,16 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -73,7 +77,7 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -81,7 +85,7 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -122,23 +126,19 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,21 +179,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-mastering-gradual-audio-decline-in-adobe-premiere/"><u>[Updated] Mastering Gradual Audio Decline in Adobe Premiere</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-turning-pics-into-time-capsules-with-videos/"><u>2024 Approved Turning Pics Into Time Capsules With Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/advanced-guide-to-implementing-metaai-tools-on-your-instagram-account/"><u>Advanced Guide to Implementing MetaAI Tools on Your Instagram Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-tutorial-activating-echo-dot-setup-mode/"><u>Beginner's Tutorial: Activating Echo Dot Setup Mode</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-your-laptops-health-with-windows-10-battery-reports-usage-tips-included/"><u>Decoding Your Laptop's Health with Windows 10 Battery Reports: Usage Tips Included</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-wheel-movements-for-xpwin-7/"><u>Efficient Wheel Movements for XP/Win 7</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fix-your-game-nightmares-resolving-age-of-empires-4-non-launch-situations/"><u>Fix Your Game Nightmares: Resolving Age of Empires 4 Non-Launch Situations</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-13-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 13 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-review-of-apples-new-studio-display-specifications-unique-attributes-and-essential-insights-tech-analysis-by-zdnet/"><u>In-Depth Review of Apple's New Studio Display: Specifications, Unique Attributes & Essential Insights - Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-update-fixes-unsettling-glitch-that-brought-back-erased-images-insights-from-zdnet/"><u>IOS Update Fixes Unsettling Glitch That Brought Back Erased Images: Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-auto-play-on-fb-video-streams/"><u>Mastering Auto-Play on FB Video Streams</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sold-at-best-price-post-prime-day-technewszdnet/"><u>Sold at Best Price Post-Prime Day | TechNewsZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixes-for-nier-replicant-hd-remaster-startup-issues/"><u>Troubleshooting Guide: Fixes for NieR Replicant HD ReMASTER Startup Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-magic-of-apple-vision-pro-a-riveting-experience-with-my-beloved-tv-series-insights-from-zdnet/"><u>Unveiling the Magic of Apple Vision Pro: A Riveting Experience with My Beloved TV Series - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-choose-the-desktop-app-top-benefits-of-chatgpt-away-from-the-browser/"><u>Why Choose the Desktop App? Top Benefits of ChatGPT Away From the Browser</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-using-polarrs-image-tools/"><u>[New] Unlock Full Potential Using Polarr's Image Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-rhythm-ringtone-converting-tamil-music-into-phone-chimes/"><u>[Updated] 2024 Approved Rhythm Ringtone Converting Tamil Music Into Phone Chimes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-easy-guide-record-mov-files-on-win-11-pc/"><u>[Updated] In 2024, Easy Guide Record MOV Files on Win 11 PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-professional-top-10-hd-webcams-and-buyers-advice/"><u>[Updated] Professional Top 10 HD Webcams & Buyer's Advice</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unlock-youtubes-potential-with-expert-picture-posting-techniques/"><u>2024 Approved Unlock YouTube's Potential with Expert Picture Posting Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-mouse-and-window-lag-woes/"><u>Overcoming Mouse & Window Lag Woes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-email-management-how-to-automate-sorting-in-gmail-with-personalized-rules/"><u>Simplifying Email Management: How to Automate Sorting in Gmail With Personalized Rules</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-on-top-of-your-fitness-goals-with-these-10-essential-exercise-logging-tools-in-amelie2024/"><u>Stay on Top of Your Fitness Goals with These 10 Essential Exercise Logging Tools in Amelie_2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-disneyplus-must-watch-films-of-the-moment/"><u>Top Picks: Disney+ Must-Watch Films of the Moment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-combining-your-favorite-songs-into-one-master-spotify-list/"><u>Ultimate Guide: Combining Your Favorite Songs Into One Master Spotify List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-google-gemini-with-these-tips/"><u>Unlock the Power of Google Gemini with These Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlocking-the-potential-of-screenshotting-your-android-device-for-2024/"><u>Unlocking the Potential of Screenshotting Your Android Device for 2024</u></a></li>
 </ul></div>
 

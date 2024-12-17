@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Essentials: What You Need to Know When Purchasing Pre-Owned iPads"
-date: 2024-09-04T00:26:04.767Z
-updated: 2024-09-05T00:26:04.767Z
+date: 2024-12-14T18:48:41.118Z
+updated: 2024-12-16T20:42:51.135Z
 categories:
   - BestProducts
 description: "This Article Describes Top 5 Essentials: What You Need to Know When Purchasing Pre-Owned iPads"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -21,14 +25,28 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,11 +65,9 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -83,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +106,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-tutorial-for-aspiring-mukbang-creators/"><u>[Updated] Step-by-Step Tutorial for Aspiring Mukbang Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-user-friendly-approach-eliminating-errors-related-to-absent-or-damaged-mapi-32-dll-files/"><u>A User-Friendly Approach: Eliminating Errors Related to Absent or Damaged MAPI 32 DLL Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/adding-an-additional-security-barrier-in-gmail-using-2-factor-auth-activation/"><u>Adding An Additional Security Barrier in Gmail Using 2 Factor Auth Activation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-portable-android-device/"><u>Comprehensive Analysis of the Samsung Galaxy Tab S4: The Ultimate Portable Android Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exporting-your-favorite-tunes-a-guide-to-converting-spotify-playlists-into-written-form/"><u>Exporting Your Favorite Tunes: A Guide to Converting Spotify Playlists Into Written Form</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-bio-link-addition-on-tiktok/"><u>In 2024, Mastering Bio Link Addition on TikTok</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-kinship-ukraine-to-russia/"><u>Linguistic Kinship - Ukraine to Russia</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-mov-trimmers-top-picks-for-video-editing/"><u>New Best Free MOV Trimmers Top Picks for Video Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/obs-supreme-vs-streamlabs-empire-for-2024/"><u>OBS Supreme vs Streamlabs Empire for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-the-samsung-galaxy-z-flip-7-anticipated-costs-launch-timeline-and-exciting-specs-revealed/"><u>Sneak Peek at the Samsung Galaxy Z Flip 7: Anticipated Costs, Launch Timeline and Exciting Specs Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-iphone-gps-navigation-apps-you-cant-live-without/"><u>Top 5 Essential iPhone GPS Navigation Apps You Can't Live Without</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-pcs-airflow-opt-for-cooler-masters-advanced-dual-fan-graphics-card-solution/"><u>Transform Your PC's Airflow: Opt for Cooler Master's Advanced Dual-Fan Graphics Card Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/winning-against-shadows-effective-fixes-for-windows-11-black-screen-problems/"><u>Winning Against Shadows: Effective Fixes for Windows 11 Black Screen Problems</u></a></li>
+</ul></div>
 

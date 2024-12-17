@@ -1,7 +1,7 @@
 ---
 title: Empower Your Child's Education with These Top 6 Academic Support Applications
-date: 2024-08-30T13:19:25.048Z
-updated: 2024-08-31T13:19:25.048Z
+date: 2024-12-15T20:58:05.030Z
+updated: 2024-12-17T10:58:07.259Z
 categories:
   - BestProducts
 description: This Article Describes Empower Your Child's Education with These Top 6 Academic Support Applications
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/hfXMrNbC766AhaOB_d2U0Tt60Vk=/400x300/fi
 ---
 
 ## Efficiently Batch Edit Your Gmail Conversations with This Simple Selection Trick
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * To select every email, click the**checkbox** above the messages, then click**Select all \[#\] conversations** .
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/hfXMrNbC766AhaOB_d2U0Tt60Vk=/400x300/fi
 * This works for the Inbox, All Mail, and other labels. You can then delete, label, and archive emails in bulk.
 
  This article explains how to select every Gmail email at once from the desktop website. Doing so lets you apply a new label to the selected messages, bulk-delete emails,[mark them as read](https://www.lifewire.com/how-to-mark-email-read-in-gmail-1171945) , and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Select All Emails in Gmail
 
@@ -30,8 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/hfXMrNbC766AhaOB_d2U0Tt60Vk=/400x300/fi
 ![A list of emails selected in Gmail](https://www.lifewire.com/thmb/4VAxqfY1MDMB8VrzP3z18uSp99Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-gmail-messages-59c38ca927ab46cbb225ebda805c03cc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select All Gmail Emails From a Search
 
  Gmail provides some powerful[search tools to help you find emails quickly](https://www.lifewire.com/how-to-search-mail-in-gmail-1172081) . For example, you can locate your biggest emails, look for messages that have attachments, or find emails that arrived on a specific date.
@@ -44,11 +54,13 @@ thumbnail: https://www.lifewire.com/thmb/hfXMrNbC766AhaOB_d2U0Tt60Vk=/400x300/fi
 ![Gmail emails highlighted from a search](https://www.lifewire.com/thmb/n2qAQZOsSxNaeRsOvsrHDnmIFoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-conversations-match-search-b3214279e6b44aa89ebcfb82199b23f9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Can Do With Selected Emails
 
  Anything you can do with a single email, Gmail lets you do with a selection of messages. Here are some actions you can take when you select lots of emails at once:
@@ -101,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +120,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-vsco-image-enhancement/"><u>[New] Step-by-Step VSCO Image Enhancement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-beyond-one-angle-explore-our-11-multicam-review/"><u>[Updated] In 2024, Beyond One Angle Explore Our #11 Multicam Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-inside-the-studio-how-magix-video-pro-x-simplifies-production-for-2024/"><u>[Updated] Inside the Studio How Magix Video Pro X Simplifies Production for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-to-save-password-in-chrome-quickly-and-easily/"><u>Easy to Save Password in Chrome - Quickly & Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-get-your-epson-printer-online-with-wifi-the-ultimate-guide/"><u>Easy Ways to Get Your Epson Printer Online with WiFi – The Ultimate Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-accessing-blocked-torrent-sites-and-exploring-their-alternatives/"><u>Effective Strategies for Accessing Blocked Torrent Sites & Exploring Their Alternatives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-windows-10-performance-issues-and-improve-speed-expert-solutions/"><u>Fix Windows 10 Performance Issues & Improve Speed: Expert Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-zero-to-hero-top-time-lapse-video-editing-software/"><u>From Zero to Hero Top Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enhance-speed-for-a-seamless-google-chrome-experience/"><u>How to Enhance Speed for a Seamless Google Chrome Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-windows-spotlight-issues-on-windows-11-a-step-by-step-guide/"><u>How to Fix Windows Spotlight Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-quick-fix-in-windows-11/"><u>Implementing Quick Fix in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-edge-40-neo-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Edge 40 Neo FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-smart-7-hd-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Smart 7 HD</u></a></li>
+</ul></div>
 

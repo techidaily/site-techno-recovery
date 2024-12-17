@@ -1,7 +1,7 @@
 ---
 title: "The Great 2024 Crisis: Decoding The Root Causes Behind CrowdStrike-Windows Meltdown History Report"
-date: 2024-12-06T16:16:33.146Z
-updated: 2024-12-11T03:32:39.516Z
+date: 2024-12-14T16:11:41.245Z
+updated: 2024-12-17T14:59:39.180Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/comparing-the-latest-innovations-apple-watch-series-10-against-series-8-which-is-a-smart-choice-for-tech-enthusiasts/"><u>Comparing the Latest Innovations: Apple Watch Series 10 Against Series 8 - Which Is a Smart Choice for Tech Enthusiasts?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/declutter-your-email-effortlessly-learn-how-one-smart-trick-can-clean-up-chaos-without-multiple-accounts-or-complex-rules-according-to-zdnet/"><u>Declutter Your Email Effortlessly - Learn How One Smart Trick Can Clean Up Chaos Without Multiple Accounts Or Complex Rules, According To ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-the-new-pixel-watch-3-tackles-key-user-complaints-about-google-wearables-analysis/"><u>How the New Pixel Watch 3 Tackles Key User Complaints About Google Wearables Analysis</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-s23-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy S23 Ultra Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y78plus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y78+ to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a79-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo A79 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-drones-key-parts-for-peak-performance/"><u>Mastering Drones Key Parts for Peak Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/navigating-the-latest-pro-cams-for-full-spheres-for-2024/"><u>Navigating the Latest Pro Cams for Full Spheres for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-ocidll-missing-error-a-comprehensive-guide/"><u>Resolving oci.dll MISSING Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-liquid-detection-on-iphone-charging-port-what-are-your-choices/"><u>Troubleshooting Liquid Detection on iPhone Charging Port: What Are Your Choices?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tutorial-keeping-youtube-like-tweets-in-android-cache-for-2024/"><u>Tutorial Keeping YouTube-Like Tweets in Android Cache for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-hot-takes-the-10-craziest-tweets/"><u>Twitter's Hot Takes The 10 Craziest Tweets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-cinematic-dialogues-writing-the-movies-soul/"><u>[New] In 2024, Cinematic Dialogues Writing the Movie's Soul</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-prime-web-gems-crafting-unique-wrapped-masterpieces/"><u>[New] In 2024, Prime Web Gems Crafting Unique Wrapped Masterpieces</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-hashtag-usage-a-primer-for-gamers-yt/"><u>[New] Mastering the Art of Hashtag Usage A Primer for Gamers YT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-uncomplicated-methods-for-archiving-vimeo-content-for-2024/"><u>[New] Uncomplicated Methods for Archiving Vimeo Content for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-photobooth-playback-hang-up-seeking-solutions/"><u>[Updated] 2024 Approved Photobooth Playback Hang-Up - Seeking Solutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-guide-to-valheim-sowing-seeds/"><u>[Updated] Ultimate Guide to Valheim Sowing Seeds</u></a></li>
+<li><a href="https://win-community.techidaily.com/die-top-4-methoden-zur-sicherung-ihrer-personlichen-daten-und-anwendungen-vor-dem-grau/"><u>Die Top-4 Methoden Zur Sicherung Ihrer Persönlichen Daten Und Anwendungen Vor Dem Grau</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-new-web-browser-app-for-your-samsung-television-a-comprehensive-tutorial/"><u>Download New Web Browser App for Your Samsung Television – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-deals-on-verizon-device-upgrades-dont-miss-out/"><u>Exclusive Deals on Verizon Device Upgrades – Don’t Miss Out!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-bass-management-unveiling-its-purpose-and-operation/"><u>Exploring the World of Bass Management - Unveiling Its Purpose and Operation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-motorola-moto-g14-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Motorola Moto G14?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-using-two-monitors-with-macos-easily/"><u>Maximizing Productivity: Using Two Monitors with MacOS Easily</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-alerts-downloading-and-altering-tamil-tunes/"><u>Melodic Alerts Downloading and Altering Tamil Tunes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-downloading-the-apple-tv-streamer-on-firestick/"><u>Step-by-Step Tutorial: Downloading the Apple TV Streamer on Firestick</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/utilizing-microsofts-codex-copilot-feature-within-your-teams-workflow/"><u>Utilizing Microsoft's Codex Copilot Feature Within Your Teams Workflow</u></a></li>
 </ul></div>
 

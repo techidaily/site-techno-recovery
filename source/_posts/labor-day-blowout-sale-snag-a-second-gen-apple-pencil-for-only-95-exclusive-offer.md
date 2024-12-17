@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Blowout Sale: Snag a Second-Gen Apple Pencil for Only $95 Exclusive Offer!"
-date: 2024-12-04T00:14:21.280Z
-updated: 2024-12-10T21:59:27.240Z
+date: 2024-12-10T20:58:45.600Z
+updated: 2024-12-16T18:00:49.343Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,16 +71,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/treaming-masterpieces-best-movie-directories-on-yt-for-2024/"><u>[New] Streaming Masterpieces Best Movie Directories on YT for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-cinematic-influence-building-a-powerful-video-marketing-strategy/"><u>[Updated] 2024 Approved Instagram Cinematic Influence Building a Powerful Video Marketing Strategy</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-expert-advice-for-aspiring-youtube-stars-the-art-of-reaction-videos-3-essential-steps/"><u>[Updated] In 2024, Expert Advice for Aspiring YouTube Stars - The Art of Reaction Videos (3 Essential Steps)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spark-ars-color-palette-expansion-via-free-accessible-lut-downloads/"><u>2024 Approved Spark AR's Color Palette Expansion via Free, Accessible LUT Downloads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-shines-with-super-bowl-seasons-top-promo-a-look-beyond-the-game-insights-from-zdnet/"><u>Apple Shines with Super Bowl Season's Top Promo: A Look Beyond the Game - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-right-apple-tablet-a-comprehensive-showdown-between-ipad-pro-models-techradar/"><u>Choosing the Right Apple Tablet: A Comprehensive Showdown Between iPad Pro Models | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-remedies-for-when-you-encounter-an-mfplatdll-file-that-cant-be-found/"><u>Effective Remedies for When You Encounter an Mfplat.dll File That Can’t Be Found</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-ready-to-power-up-essential-anker-charging-gadgets-perfect-for-your-next-weeks-new-iphone-discover-at-zdnet/"><u>Get Ready to Power Up! Essential Anker Charging Gadgets Perfect for Your Next Week's New iPhone | Discover at ZDNET</u></a></li>
-<li><a href="https://driver-download.techidaily.com/samsung-850-evo-ssd-driving-software-installation-files/"><u>Samsung 850 EVO SSD Driving Software Installation Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/securing-early-access-discover-where-to-preorder-new-ipads-and-stylus-with-hottest-promotions-insider-tips/"><u>Securing Early Access: Discover Where to Preorder New iPads & Stylus with Hottest Promotions Insider Tips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/splitcam-analysis-where-does-it-rank-among-recorders/"><u>SplitCam Analysis Where Does It Rank Among Recorders?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-box-tastic-finds-discover-the-best-sites-for-boxes-at-steals/"><u>2024 Approved Box-Tastic Finds! Discover the Best Sites for Boxes at Steals</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-amd-driver-management-downloadplusupdate-techniques/"><u>Easy AMD Driver Management: Download+Update Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-skills-comprehensive-periscope-tutorial/"><u>Elevate Your Skills Comprehensive Periscope Tutorial</u></a></li>
+<li><a href="https://win-online.techidaily.com/from-chatting-to-commitment-masterful-strategies-for-developing-robust-relationships-via-massmail-software/"><u>From Chatting to Commitment: Masterful Strategies for Developing Robust Relationships via MassMail Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-12-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 12 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-10-premier-off-line-ipad-apps-for-pure-gaming-bliss/"><u>In 2024, Top 10 Premier Off-Line iPad Apps for Pure Gaming Bliss</u></a></li>
+<li><a href="https://extra-information.techidaily.com/investigating-the-realm-of-virtual-sticker-decoration/"><u>Investigating the Realm of Virtual Sticker Decoration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-meta-quest-microphone-features-a-comprehensive-guide/"><u>Navigating Meta Quest Microphone Features: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revamp-your-sound-experience-updating-the-audio-driver-in-windows-operating-systems-11107/"><u>Revamp Your Sound Experience: Updating the Audio Driver in Windows Operating Systems (11/10/7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/synchronize-your-samsung-in-ear-headphones-with-a-windows-or-macbook-easily/"><u>Synchronize Your Samsung In-Ear Headphones with a Windows or MacBook Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-discounts-hottest-gadgets-and-electronics-on-amazon-prime-day/"><u>Unbeatable Discounts: Hottest Gadgets and Electronics on Amazon Prime Day</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-iphone-privacy-settings-for-determining-an-individuals-location/"><u>Unlocking iPhone Privacy Settings for Determining an Individual’s Location</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722863282533-xbox-series-xs-audio-problems-heres-how-to-restore-your-headset-functionality/"><u>Xbox Series X/S Audio Problems? Here's How to Restore Your Headset Functionality</u></a></li>
 </ul></div>
 

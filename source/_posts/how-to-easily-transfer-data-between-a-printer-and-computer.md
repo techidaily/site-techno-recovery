@@ -1,7 +1,7 @@
 ---
 title: How to Easily Transfer Data Between a Printer and Computer
-date: 2024-08-30T13:18:18.288Z
-updated: 2024-08-31T13:18:18.288Z
+date: 2024-12-11T13:20:43.014Z
+updated: 2024-12-16T17:35:19.236Z
 categories:
   - BestProducts
 description: This Article Describes How to Easily Transfer Data Between a Printer and Computer
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/omprehensive-techniques-for-gauging-yt-popularity-and-monetization-for-2024/"><u>[New] Comprehensive Techniques for Gauging YT Popularity & Monetization for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-picks-the-10-most-affordable-video-conferencing-for-ios-and-android/"><u>[Updated] In 2024, Expert Picks The 10 Most Affordable Video Conferencing for iOS & Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-drone-transformation-trial-with-first-20-free-lutts/"><u>Aerial Drone Transformation - Trial with First 20 FREE LUTTs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-redmi-12-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Redmi 12 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-navigating-and-resolving-chatgpt-moderation-mistakes/"><u>Comprehensive Guide: Navigating and Resolving ChatGPT Moderation Mistakes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722897678540-discover-samsungs-next-big-thing-the-galaxy-z-fold-6-with-release-info-and-pricing-details/"><u>Discover Samsung's Next Big Thing: The Galaxy Z Fold 6 with Release Info & Pricing Details!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-hide-personal-contact-information-on-android-phones/"><u>Easy Steps to Hide Personal Contact Information on Android Phones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ergonomic-excellence-and-office-dynamics-for-peak-performance/"><u>Ergonomic Excellence and Office Dynamics for Peak Performance</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/t-tips-on-inserting-captions-into-youtube-videos-for-2024/"><u>Expert Tips on Inserting Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-banking-how-digital-intelligence-shapes-tomorrows-leading-financial-institutions-insights-from-abbyy/"><u>Future of Banking: How Digital Intelligence Shapes Tomorrow's Leading Financial Institutions – Insights From ABBYY</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-stop-amber-and-crisis-sms-alarms-on-your-iphone-device/"><u>Guide to Stop Amber and Crisis SMS Alarms on Your iPhone Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tuneful-texting-whatsapp-audio-integration/"><u>In 2024, Tuneful Texting WhatsApp Audio Integration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-marketplace-mastery-top-tips-for-adding-new-adventures-to-your-oculus-quest-2-library/"><u>Meta Marketplace Mastery: Top Tips for Adding New Adventures to Your Oculus Quest ^2 Library</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revamping-file-management-how-to-alter-folder-colors-on-a-mac-computer/"><u>Revamping File Management: How to Alter Folder Colors on a Mac Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-trustinstaller-approval-your-guide-to-file-modification-authorization/"><u>Securing TrustInstaller Approval: Your Guide to File Modification Authorization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-for-racing-enthusiasts-5-favorite-free-offline-games/"><u>Top Picks for Racing Enthusiasts: 5 Favorite Free Offline Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898619084-troubleshoot-helperdll-file-not-found-issues-with-these-simple-fixes/"><u>Troubleshoot Helper.dll File Not Found Issues with These Simple Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-solutions-for-not-found-mfc42ddll-error-messages/"><u>Troubleshooting and Solutions for 'Not Found' mfc42d.dll Error Messages</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-fine-tuning-your-films-rhythm-synchronizing-soundtracks-with-video-in-final-cut-pro-x/"><u>Updated In 2024, Fine-Tuning Your Films Rhythm Synchronizing Soundtracks with Video in Final Cut Pro X</u></a></li>
+</ul></div>
 

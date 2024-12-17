@@ -1,7 +1,7 @@
 ---
 title: "Instagram Insights: How to Know Who’s Saved Your Photos and Stories"
-date: 2024-08-30T13:19:22.525Z
-updated: 2024-08-31T13:19:22.525Z
+date: 2024-12-15T12:21:23.878Z
+updated: 2024-12-17T08:28:17.684Z
 categories:
   - BestProducts
 description: "This Article Describes Instagram Insights: How to Know Who’s Saved Your Photos and Stories"
@@ -19,6 +19,10 @@ In This Article
 * [Frequently Asked Questions](https://www.lifewire.com/#toc-frequently-asked-questions-c6fed4bb-9136-4083-9e82-76db0f224b34)
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Must-Haves: Computers, Laptops and Peripherals
 
@@ -44,6 +48,10 @@ Skynesher/Getty
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Look for Student Discounts
 
  Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
@@ -61,8 +69,9 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -90,11 +99,9 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
+
 ## Using Apps and Sites Can Support Good Study Habits
 
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
@@ -102,9 +109,9 @@ Skynesher/Getty
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
  If your child loves using their smartphone, give them something parent-approved to use!
@@ -144,14 +151,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +164,24 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-optimal-solution-screen-capture-for-youtube-success/"><u>[New] 2024 Approved Optimal Solution Screen Capture for YouTube Success</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-maximizing-viewing-tweeting-in-high-definition-hd/"><u>[New] Maximizing Viewing Tweeting in High Definition (HD)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-youtube-ad-expense-calculation-guide/"><u>[Updated] In 2024, Youtube Ad Expense Calculation Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-learning-photography-on-the-go-the-lunapic-approach/"><u>[Updated] Learning Photography on the Go The LunaPic Approach</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>2024 Approved Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-next-gen-gameplay-logging-alternatives-to-fbx/"><u>2024 Approved Next-Gen Gameplay Logging Alternatives to FBX</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-turning-voice-into-text-mastering-microsoft-words-speech-toolkit/"><u>2024 Approved Turning Voice Into Text Mastering Microsoft Word's Speech Toolkit</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-best-combined-cable-modem-router-packages-reviews-and-buyers-guide/"><u>2024'S Best Combined Cable Modem-Router Packages: Reviews & Buyer’s Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-persistent-problem-of-sticky-keys-in-windows-computers/"><u>Solving the Persistent Problem of Sticky Keys in Windows Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-booting-your-computer-using-usb-dvd-or-cd/"><u>Step-by-Step Guide: Booting Your Computer Using USB, DVD, or CD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-erasing-android-viruses-without-the-need-for-factory-resetting/"><u>Step-by-Step Guide: Erasing Android Viruses without the Need for Factory Resetting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-multiple-gpus-with-nvidias-scalable-link-interface/"><u>Step-by-Step Guide: Setting Up Multiple GPUs with Nvidia's Scalable Link Interface</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-wifi-printer/"><u>Step-by-Step Guide: Setting Up Your WiFi Printer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-turning-off-auto-driver-updates-in-windows-11/"><u>Step-by-Step Guide: Turning Off Auto Driver Updates in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-installing-fortnite-game-on-your-personal-computer-pc/"><u>Step-by-Step Instructions for Installing Fortnite Game on Your Personal Computer (PC)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-clearing-clutter-and-expanding-memory-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Clearing Clutter and Expanding Memory on Your Windows 10 PC</u></a></li>
+</ul></div>
 

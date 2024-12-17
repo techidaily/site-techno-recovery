@@ -1,7 +1,7 @@
 ---
 title: "Group Groove Gatherings: The Ultimate Guide to Spotify Party Plays"
-date: 2024-08-30T13:16:33.638Z
-updated: 2024-08-31T13:16:33.638Z
+date: 2024-12-10T03:48:19.841Z
+updated: 2024-12-16T18:57:40.871Z
 categories:
   - BestProducts
 description: "This Article Describes Group Groove Gatherings: The Ultimate Guide to Spotify Party Plays"
@@ -13,12 +13,20 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * Open the**Spotify app** on your phone or tablet and select a song or podcast episode.
 * Tap**Connect** \>**Start a Jam** \>**Invite Friends** and select a sharing method.
 
  This article includes instructions for how to use Spotify Jam (formerly Group Session) in the mobile app so you can start a music listening party with your friends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Make a Listening Party on Spotify 
 
@@ -33,6 +41,11 @@ Close
 4. Select**Start a Jam** .  
 ![The Connect and Start a Jam options in the Spotify mobile app for iOS.](https://www.lifewire.com/thmb/hbnOaAeCSXm009M05JwDePLv4Tc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_listen-to-spotify-with-friends-5120356-e39fc6468b2c4049bce87aaceda8d8c4.jpg)
 5. Click**Invite Friends** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If a friend's nearby, select**Scan QR code** to display a QR code they can scan to instantly join your Jam. You can also tap your phones together to allow your friend to join; this feature works if you're both logged in to Spotify and connected to Bluetooth.
 6. Select**Share link** to share a link with friends in messaging apps like Messages,[ WhatsApp](https://www.lifewire.com/what-is-whatsapp-all-about-4781062) , or[ Facebook Messenger](https://www.lifewire.com/facebook-messenger-4103719) .  
  Spotify lacks built-in chat functionality, so you’ll need to use a third-party app if you want to chat with friends during a Jam.
@@ -41,8 +54,13 @@ Close
  Anyone can exit a Jam by selecting**Leave** . If the host leaves the Jam, this action automatically ends the listening session for everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Spotify Jam (formerly Group Session)? 
 
  If you’re not in the mood for watching a video streaming service virtually with friends, Spotify has you covered.
@@ -86,8 +104,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +111,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-outlining-expenditures-the-price-tag-of-video-capturing-tunes/"><u>[New] Outlining Expenditures The Price Tag of Video Capturing Tunes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-exploring-igtv-a-beginners-primer-for-social-media-success/"><u>[Updated] Exploring IGTV A Beginner's Primer for Social Media Success</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-10-freepaid-luts-for-canon-camera/"><u>[Updated] In 2024, 10 Free/Paid LUTs for Canon Camera</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-secure-social-space-end-following-protocols/"><u>[Updated] In 2024, Secure Social Space End Following Protocols</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-video-loading-on-facebook/"><u>2024 Approved Mastering Video Loading on Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-chronicle-of-significant-tech-milestones-post-1844-unveiling-the-top-eleven-achievements/"><u>A Chronicle of Significant Tech Milestones Post-1844: Unveiling the Top Eleven Achievements</u></a></li>
+<li><a href="https://android-frp.techidaily.com/complete-mac-hdd-setup-via-visual-instructional-video/"><u>Complete Mac HDD Setup via Visual Instructional Video</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-overcome-android-device-wireless-security-verification-troubles/"><u>Easy Steps to Overcome Android Device Wireless Security Verification Troubles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-connected-televisions-what-makes-them-go-online/"><u>Exploring Connected Televisions: What Makes Them Go Online?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-eliminate-the-windows-recovery-area-from-your-system-effectively/"><u>How To Eliminate The Windows Recovery Area From Your System Effectively</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/rufususb/"><u>RufusでブータブルUSBがうまくいかない？これで一発！簡単解決法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/to-write-creatively-with-chatgpt-examining-its-strengths-and-weaknesses/"><u>To Write Creatively with ChatGPT: Examining Its Strengths and Weaknesses</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tier-165hz-gamespeed-displays/"><u>Top-Tier 165Hz Gamespeed Displays</u></a></li>
+</ul></div>
 

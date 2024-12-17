@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden In-Built Smart Radio Technology in Macs & iPads: Do You Possess One?"
-date: 2024-12-05T18:22:06.563Z
-updated: 2024-12-11T10:35:19.476Z
+date: 2024-12-13T20:17:47.022Z
+updated: 2024-12-17T10:26:06.563Z
 tags:
   - apple
 categories:
@@ -58,9 +58,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
 
@@ -69,10 +77,6 @@ Most Apple devices, except iPhones, have this printed on the back. If you can't 
 You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacBook Air](https://support.apple.com/en-us/102869), and [MacBook Pro](https://support.apple.com/en-us/108052) models on Apple's Support page.
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Access the Apple FCC database
 
@@ -94,11 +98,11 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## What is Thread?
 
@@ -107,6 +111,10 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 **Also: [Google is turning its TVs into Home hubs and giving devs access to over 600 million smart devices](https://www.zdnet.com/home-and-office/smart-home/google-is-turning-its-tvs-into-home-hubs-and-giving-devs-access-to-over-600-million-smart-devices/)**
 
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Thread border router?
 
@@ -125,7 +133,7 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple give some iPads and Macs Thread radios and not all?
@@ -144,10 +152,6 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the iPad a smart home hub?
 
 Not currently. The iPad used to be a smart home hub for HomeKit, but iPadOS 16 removed this capability. With that software update, Apple upgraded the Home app significantly and stopped supporting the iPad for new HomeKit features and automations. 
@@ -159,10 +163,6 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -204,22 +204,22 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-visual-verdict-top-8k-tvs-reviewed-and-rated-thoroughly/"><u>[New] 2024 Approved Visual Verdict Top 8K TVs Reviewed & Rated Thoroughly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-film-at-a-leisurely-pace-with-your-iphone/"><u>[Updated] Film at a Leisurely Pace with Your iPhone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-understanding-and-leveraging-influencers-on-snapchat/"><u>[Updated] Understanding and Leveraging Influencers on Snapchat</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-vibrance-in-video-summaries-with-neons-on-thumbnails/"><u>[Updated] Unleash Vibrance in Video Summaries with Neons on Thumbnails</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chromecast-noise-trouble-heres-how-to-get-the-volume-back/"><u>Chromecast Noise Trouble? Here's How to Get the Volume Back!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-ultimate-selection-of-mac-applications-curated-by-zdnet/"><u>Explore the Ultimate Selection of Mac Applications - Curated by ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-the-world-of-mp3s-an-in-depth-look-at-digital-music-formats/"><u>Exploring the World of MP3s: An In-Depth Look at Digital Music Formats</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-direct-transfer-of-youtube-playlists-stepwise-processing/"><u>In 2024, Direct Transfer of YouTube Playlists - Stepwise Processing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-x-fold-2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo X Fold 2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-naar-aac-konverteren-vrije-onlinelastigheid-movivid/"><u>MP3 Naar AAC Konverteren Vrije Onlinelastigheid - MoviVid</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722884429771-navigating-the-digital-world-must-have-gadgets-including-laptops-and-smartphones-and-your-next-book/"><u>Navigating the Digital World: Must-Have Gadgets Including Laptops & Smartphones & Your Next Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/proper-acknowledgment-techniques-crediting-ai-sources-like-chatgpt/"><u>Proper Acknowledgment Techniques: Crediting AI Sources Like ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlining-your-facebook-memories-how-to-add-multiple-photos-at-once/"><u>Streamlining Your Facebook Memories: How to Add Multiple Photos at Once</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-defense-elite-selection-of-iphone-16-and-pro-cases-for-2am-year-official-reviews-and-rankings/"><u>Ultimate Defense: Elite Selection of iPhone 16 & Pro Cases for 2Am Year, Official Reviews & Rankings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-2024s-leading-wireless-charger-picks-expert-ratings-and-reviews/"><u>Ultimate Guide to 2024'S Leading Wireless Charger Picks: Expert Ratings & Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-walkthrough-sending-messages-and-updates-via-apple-watch-for-easy-family-communication/"><u>ZDNet's Ultimate Walkthrough: Sending Messages & Updates via Apple Watch for Easy Family Communication</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-soundscapes-for-your-status-story/"><u>[New] Soundscapes for Your Status Story</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-tech-tussle-2022-gopro-hero5-clash-with-garmin-virb/"><u>[New] Tech Tussle 2022 GoPro Hero5 Clash with Garmin VIRB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-youtube-subscribe-link-easy-for-2024/"><u>[Updated] How to Make a YouTube Subscribe Link - Easy for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-psd-style-boosting/"><u>2024 Approved Ultimate PSD Style Boosting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creating-a-memorable-signature-for-your-professional-communications-on-godaddys-email-platform/"><u>Creating a Memorable Signature for Your Professional Communications on GoDaddy's Email Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-10-favored-complimentary-email-providers/"><u>Discover the Ultimate List: 10 Favored Complimentary Email Providers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-methods-for-embedding-descriptive-titles-into-your-ig-stories/"><u>Easy Methods for Embedding Descriptive Titles Into Your IG Stories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-methods-for-silencing-promotional-messages-on-iphones/"><u>Effective Methods for Silencing Promotional Messages on iPhones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-correcting-the-missing-user32dll-file-mistake/"><u>Effective Strategies for Correcting the Missing User32.dll File Mistake</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-methods-to-cancel-your-subscription-with-paramountplus/"><u>Effortless Methods to Cancel Your Subscription with Paramount+</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-internship-to-impact-unveiling-the-metamate-identity/"><u>From Internship to Impact: Unveiling the Metamate Identity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-review-10-most-effective-methods-for-live-cricket-streaming/"><u>In 2024, A Review 10 Most Effective Methods for Live Cricket Streaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instagrams-music-ownership-standards/"><u>Instagram's Music Ownership Standards</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reinitiate-your-macs-internet-setup-a-guide-to-adjusting-network-settings/"><u>Reinitiate Your Mac’s Internet Setup: A Guide to Adjusting Network Settings</u></a></li>
+<li><a href="https://techidaily.com/sign-a-pdf-v14-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.4 document with digital signature software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-netflix-error-a-step-by-step-guide-to-overcoming-issue-nw-1-19/"><u>Solving the Netflix Error: A Step-by-Step Guide to Overcoming Issue NW-1-19</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-for-the-missing-or-damaged-msstdfmtdll-problem/"><u>Troubleshooting Techniques for the 'Missing or Damaged msstdfmt.dll' Problem</u></a></li>
 </ul></div>
 

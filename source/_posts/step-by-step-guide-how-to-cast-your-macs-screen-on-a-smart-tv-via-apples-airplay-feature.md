@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: How to Cast Your Mac's Screen on a Smart TV Via Apple's AirPlay Feature"
-date: 2024-08-30T13:18:51.460Z
-updated: 2024-08-31T13:18:51.460Z
+date: 2024-12-12T10:19:44.611Z
+updated: 2024-12-16T20:55:52.305Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: How to Cast Your Mac's Screen on a Smart TV Via Apple's AirPlay Feature"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 ---
 
 ## Elevate Your Gaming Experience: How to Hit and Maintain a Steady 120 FPS on Sony's PlayStation Groove
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -31,14 +36,24 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -50,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-windows-11s-latest-traits-unveiled/"><u>[New] Windows 11'S Latest Traits Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-crafters-clash-determining-better-language-fiends/"><u>Code Crafters Clash: Determining Better Language Fiends</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-6s-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-lost-desktop-items-and-icons-on-your-updated-windows-11-system/"><u>How to Recover Lost Desktop Items & Icons on Your Updated Windows 11 System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-screenshot-on-windows-7-easily/"><u>How to Screenshot on Windows 7 [Easily]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-install-and-arrange-three-screens-for-maximum-productivity/"><u>How to Successfully Install and Arrange Three Screens for Maximum Productivity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-update-and-install-drivers-for-your-device-on-microsoft-windows-10-8-7-solved/"><u>How to Successfully Update and Install Drivers for Your Device on Microsoft Windows (10, 8, 7) [SOLVED]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-live-media-masters-choice-vmix-vs-wirecast-for-professionals/"><u>In 2024, Live Media Masters Choice VMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximize-your-results-with-these-10-free-jpeg-to-gif-tools/"><u>In 2024, Maximize Your Results with These 10 Free JPEG-to-GIF Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-warmth-in-visuals-ideal-winter-backgrounds-for-youtube/"><u>In 2024, Warmth in Visuals Ideal Winter Backgrounds for YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-screen-recording-a-comprehensive-tutorial-for-windows-10-and-mac-users/"><u>Mastering Screen Recording: A Comprehensive Tutorial for Windows 10 and Mac Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-stability-how-to-overcome-unreal-engine-cuation-issues-in-pc-games/"><u>Mastering Stability: How to Overcome Unreal Engine Cuation Issues in PC Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-gaming-experience-expert-tips-on-tuning-up-windows-11/"><u>Maximizing Your Gaming Experience: Expert Tips on Tuning Up Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimize-windows-11-by-flushing-browser-and-system-cache-clear-instructions-inside/"><u>Optimize Windows 11 by Flushing Browser and System Cache: Clear Instructions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-your-nonfunctional-astro-a20-microphone/"><u>Quick Solutions for Your Nonfunctional Astro A20 Microphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-finding-old-notifications-in-the-ios-notification-center/"><u>Step-by-Step Tutorial for Finding Old Notifications in the iOS Notification Center</u></a></li>
+</ul></div>
 

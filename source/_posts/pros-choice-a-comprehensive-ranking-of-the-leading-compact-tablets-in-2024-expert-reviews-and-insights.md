@@ -1,7 +1,7 @@
 ---
 title: "Pros' Choice: A Comprehensive Ranking of the Leading Compact Tablets in 202^[4 - Expert Reviews & Insights"
-date: 2024-12-05T08:51:25.071Z
-updated: 2024-12-10T23:46:28.376Z
+date: 2024-12-10T05:40:05.149Z
+updated: 2024-12-17T02:08:07.319Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ more buying choices
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -45,7 +45,7 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,7 +63,7 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -71,10 +71,6 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe8ca889-25e4-45e8-8c60-5312be920c4b%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
 
@@ -115,7 +111,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What I'd like to see in the next model
@@ -135,6 +131,10 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 **More ports, even if they're not on the iPad:** Adding more port options, from an extra USB-C to MicroSD/SD to a headphone jack, may be a potential fix for professionals who want to make the most of Apple's magical glass slab. The ability to quickly import photos and videos via an SD card and then edit them on Lightroom or Final Cut Pro/Premiere Rush would be helpful for creatives; a 3.5mm headphone jack would solve any audio latency and quality issues that engineers and sound designers face; and an extra USB-C port would give users more flexibility to charge and connect the iPad to other devices.
 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Final thought
 
@@ -176,18 +176,22 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-which-should-you-use-obs-studio-or-bandicam-in-2024/"><u>[New] Which Should You Use, OBS Studio or Bandicam, In 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-moto-e13-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Moto E13 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-technical-dive-into-gesture-and-movement-sensors/"><u>2024 Approved A Technical Dive Into Gesture and Movement Sensors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comctl32dll-unavailable-or-lost-heres-how-to-fix-it/"><u>Comctl32.dll Unavailable or Lost? Here's How to Fix It!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cutting-edge-features-explored-in-apples-latest-airpods-review-by-zdnet-generation-3-reimagined/"><u>Cutting Edge Features Explored in Apple's Latest AirPods Review by ZDNET – Generation 3 Reimagined!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-photography-top-tips-for-better-iphoneipad-shots/"><u>Enhancing Photography: Top Tips for Better iPhone/iPad Shots</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-engagement-in-discord-servers-with-bot-technology-a-how-to/"><u>Maximizing Engagement in Discord Servers with Bot Technology: A How-To</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-sharing-video-captures-of-ps5-games/"><u>Step-by-Step Instructions for Sharing Video Captures of PS5 Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamers-handbook-understanding-the-intricacies-of-twitch-chat-for-new-users/"><u>Streamer's Handbook: Understanding the Intricacies of Twitch Chat for New Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-cheat-sheet-6-ways-chatgpt-can-revolutionize-your-job-hunt/"><u>The Ultimate Cheat Sheet: 6 Ways ChatGPT Can Revolutionize Your Job Hunt</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-s23-ultra-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy S23 Ultra Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unbeatable-labor-day-offer-grab-a-24-discount-on-apples-airtags-at-walmart-zdnet-exclusive-deal/"><u>Unbeatable Labor Day Offer: Grab a $24 Discount on Apple's AirTags at Walmart | ZDNET Exclusive Deal!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ideal-mac-sniping-software-here-are-5-picks/"><u>[New] 2024 Approved The Ideal Mac Sniping Software - Here Are 5 Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-broadcasting-showdown-deciding-between-obs-and-twitch-studio/"><u>[Updated] 2024 Approved Broadcasting Showdown Deciding Between OBS and Twitch Studio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback/"><u>[Updated] In 2024, Average Earnings Per View What's the Income for YouTubers per Ad Playback?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-streamlabs-smoothly-with-obs-on-macbooks/"><u>[Updated] Integrating Streamlabs Smoothly with OBS on MacBooks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-gentle-audio-dimming-methods-in-os-xwindows/"><u>2024 Approved Gentle Audio Dimming Methods in OS X/Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-repairing-broken-email-functionality-on-your-iphone/"><u>Expert Advice on Repairing Broken Email Functionality on Your iPhone.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-free-space-clearing-out-applications-from-your-samsung-4k-tv-setup/"><u>How to Free Space: Clearing Out Applications From Your Samsung 4K TV Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-listen-to-spotify-with-friends/"><u>How to Listen to Spotify With Friends</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x9a-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor X9a Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-stereo-speakers-key-considerations-for-savvy-shoppers/"><u>Navigating the World of Stereo Speakers: Key Considerations for Savvy Shoppers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-your-next-move-should-you-embrace-ios-17/"><u>Navigating Your Next Move: Should You Embrace iOS 17?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pairing-disney-plus-with-chromecast-a-comprehensive-tutorial-on-smart-view-casting/"><u>Pairing Disney Plus with Chromecast – A Comprehensive Tutorial on Smart View Casting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-tips-how-to-switch-off-sticky-keys-in-windows-operating-system/"><u>Simple Tips: How To Switch Off Sticky Keys in Windows Operating System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-easy-way-to-progressively-reduce-sound-levels-in-lumafusion/"><u>The Easy Way to Progressively Reduce Sound Levels in Lumafusion</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-6s-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 6s Activation Lock</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-mp4-editor-for-windows-8-fast-and-user-friendly/"><u>The Ultimate MP4 Editor for Windows 8 Fast and User-Friendly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-full-potential-of-your-lg-television-by-watching-espn-plus/"><u>Unlocking the Full Potential of Your LG Television by Watching ESPN Plus</u></a></li>
 </ul></div>
 

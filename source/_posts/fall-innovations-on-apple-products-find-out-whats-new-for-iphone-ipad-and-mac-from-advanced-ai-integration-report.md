@@ -1,7 +1,7 @@
 ---
 title: Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration Report
-date: 2024-12-10T10:45:38.366Z
-updated: 2024-12-11T00:29:06.338Z
+date: 2024-12-12T03:56:15.687Z
+updated: 2024-12-17T11:28:29.787Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -111,10 +111,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -136,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,20 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-navigating-to-superior-websites-for-tamil-ringtone-saves-for-2024/"><u>[New] Navigating to Superior Websites for Tamil Ringtone Saves for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-battlefield-5-crashing-on-pc/"><u>[SOLVED] Battlefield 5 Crashing on PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-showdown-m3-macbook-air-versus-m2-which-ultraportable-laptop-wins-for-tech-enthusiasts/"><u>Apple Showdown: M3 MacBook Air Versus M2 - Which Ultraportable Laptop Wins for Tech Enthusiasts?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comprehensive-guide-understanding-shadow-copies-in-windows-10/"><u>Comprehensive Guide: Understanding Shadow Copies in Windows 10</u></a></li>
-<li><a href="https://win-webster.techidaily.com/customizing-your-pcs-display-with-windows-11-settings-expert-advice-from-digitalsolutions/"><u>Customizing Your PC's Display with Windows 11 Settings - Expert Advice From DigitalSolutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-correcting-errors-related-to-coredll-not-found/"><u>Effective Solutions for Correcting Errors Related to Core.dll Not Found</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-started-with-magic-mouse-free-driver-download-for-windows-users/"><u>Getting Started with Magic Mouse: Free Driver Download for Windows Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-edge-ipad-voice-recording-tools-3p/"><u>In 2024, Cutting-Edge iPad Voice Recording Tools 3P</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722862739087-incoming-google-pixel-6-gadget-insights-on-estimated-cost-launch-date-features-speculations-and-more/"><u>Incoming Google Pixel 6 Gadget – Insights on Estimated Cost, Launch Date, Features Speculations & More</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-y100i-power-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y100i Power 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/resolving-error-code-0x8004def7-on-windows-11-fixing-onedrive-issues/"><u>Resolving Error Code 0X8004DEF7 on Windows 11 - Fixing OneDrive Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-a15-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy A15 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-no-cost-music-streamers-best-picks-for-ios-and-android-users/"><u>Top 7 No-Cost Music Streamers: Best Picks for iOS & Android Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-m4-chips-powered-by-ai-set-to-transform-apples-entire-mac-lineup-anticipated-launch-dates-covered/"><u>Upcoming M4 Chips Powered by AI Set to Transform Apple’s Entire Mac Lineup – Anticipated Launch Dates Covered</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/wi-fi-calling-explained-how-to-make-voice-calls-over-internet-connection/"><u>Wi-Fi Calling Explained: How to Make Voice Calls Over Internet Connection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-content-effortless-download-of-youtube-video-for-ios/"><u>[New] Unleashing Content Effortless Download of Youtube Video for iOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-victory-apple-and-android-highlight-covers/"><u>[New] Visual Victory Apple & Android Highlight Covers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-vector-graphics-our-top-10-pics-stores/"><u>2024 Approved Mastering Vector Graphics Our Top 10 Pics Stores</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/flvwmvmp4movavi/"><u>完全無料の動画変換サービス - FLV/WMVをMP4に簡単変換！Movaviで使いやすい方法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722892744794-bridging-the-gap-between-ios-and-android-messaging-incorporating-imessage-on-your-android-phone/"><u>Bridging the Gap Between iOS & Android Messaging: Incorporating iMessage on Your Android Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/do-you-need-a-blu-ray-player-in-the-era-of-digital-media-a-comprehensive-guide/"><u>Do You Need a Blu-Ray Player in the Era of Digital Media? A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-the-dsounddll-not-detected-issue-on-your-pc/"><u>Effective Fixes for the ‘Dsound.dll’ Not Detected Issue on Your PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online-for-2024/"><u>Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-download-to-implementation-installing-obs-on-a-macpc-for-2024/"><u>From Download to Implementation Installing OBS on a MacPC for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-chromebooks-free-screen-capture-leaders-reviewed/"><u>In 2024, Chromebook's Free Screen Capture Leaders Reviewed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-integrating-twitter-and-facebook-with-ease/"><u>In 2024, Integrating Twitter and Facebook with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-story-the-history-and-closure-of-yahoo-messenger-explained/"><u>Inside Story: The History & Closure of Yahoo! Messenger Explained</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/optimized-with-the-help-of-cookiebot-boost-your-websites-performance/"><u>Optimized with the Help of Cookiebot: Boost Your Website's Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-recording-and-sharing-your-voice-on-iphone/"><u>Step-by-Step Instructions to Recording & Sharing Your Voice On iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-reboot-process-on-any-ipad-model/"><u>Ultimate Guide: Mastering the Reboot Process on Any iPad Model</u></a></li>
 </ul></div>
 

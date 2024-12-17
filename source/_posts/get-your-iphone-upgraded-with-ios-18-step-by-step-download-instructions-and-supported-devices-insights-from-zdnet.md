@@ -1,7 +1,7 @@
 ---
 title: Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights From ZDNET
-date: 2024-12-09T20:38:15.141Z
-updated: 2024-12-11T08:46:45.140Z
+date: 2024-12-10T22:16:59.636Z
+updated: 2024-12-17T13:05:33.319Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -49,7 +49,7 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -64,15 +64,15 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -83,7 +83,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -98,7 +98,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -161,18 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-strategy-breakthroughs-in-packaging/"><u>[New] In 2024, Strategy Breakthroughs in Packaging</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-rapid-races-recap-olympic-2022-short-track-sprints-for-2024/"><u>[Updated] Rapid Races Recap Olympic 2022 Short-Track Sprints for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/5-essential-productivity-techniques-and-apps-to-optimize-your-everyday-task-management-zdnet/"><u>5 Essential Productivity Techniques & Apps to Optimize Your Everyday Task Management | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/big-news-for-apple-developers-unveiling-enhanced-complimentary-artificial-intelligence-integration-in-key-development-tools/"><u>Big News for Apple Developers: Unveiling Enhanced, Complimentary Artificial Intelligence Integration in Key Development Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-camera-drivers-for-windows-users-win111087/"><u>Easy Guide to Downloading & Installing Camera Drivers for Windows Users (Win11/10/8/7)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-take-on-iphone-15-top-picks-and-insights-for-seasoned-professionals-a-comprehensive-analysis-by-techguru/"><u>Expert Take on iPhone 15: Top Picks and Insights for Seasoned Professionals - A Comprehensive Analysis by TechGuru</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-ultimate-magsafe-upgrades-of-2024-in-depth-analysis-by-zdnet/"><u>Exploring the Ultimate MagSafe Upgrades of 2024: In-Depth Analysis by ZDNET</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pros-finest-tools-free-and-exceptional-quality/"><u>In 2024, Premiere Pro's Finest Tools - Free & Exceptional Quality</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-tutorial-access-and-converse-via-imessage-on-your-windows-or-mac-computer/"><u>Step-by-Step Tutorial: Access and Converse via iMessage on Your Windows or Mac Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-most-anticipated-ios-18-updates-from-wwdc-2023-delving-into-advanced-ai-features-and-more-digital-innovations-journal/"><u>The Most Anticipated iOS 18 Updates From WWDC 2023 - Delving Into Advanced AI Features and More | Digital Innovations Journal</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-resolving-unresponsive-alexa-issues/"><u>Troubleshooting Steps: Resolving Unresponsive Alexa Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-six-highly-effective-dietary-journaling-apps/"><u>Unveiling Six Highly Effective Dietary Journaling Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-pinnacle-studio-for-mac-explore-these-excellent-alternative-options/"><u>Updated Pinnacle Studio for Mac Explore These Excellent Alternative Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-effortlessly-eradicate-unwanted-youtube-feedback/"><u>[Updated] 2024 Approved How to Effortlessly Eradicate Unwanted YouTube Feedback</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlocking-youtubes-potential-essential-tactics-and-strategies/"><u>[Updated] In 2024, Unlocking YouTube's Potential Essential Tactics and Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-streaming-content-netflix-movies-downloads-for-laptops-explained/"><u>Accessing Streaming Content: Netflix Movies Downloads for Laptops Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-honor-x7b-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Honor X7b</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-space-keep-memories-deleting-icloud-photos-but-not-your-iphone-gallery/"><u>Clear Space, Keep Memories: Deleting iCloud Photos but Not Your iPhone Gallery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-mac-mouse-sensitivity-a-step-by-step-guide/"><u>Disabling Mac Mouse Sensitivity: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-deals-score-big-savings-on-apple-watches-this-month/"><u>Exclusive Deals: Score Big Savings on Apple Watches This Month</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-adjust-or-eliminate-mouse-movement-intelligence-on-mac-computers/"><u>How to Adjust or Eliminate Mouse Movement Intelligence on Mac Computers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-night-photography-perfection-with-iphones/"><u>In 2024, Night Photography Perfection with iPhones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>In 2024, The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-reno-11-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Oppo Reno 11 5G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-for-cygwin1dll-errors-on-your-pc/"><u>The Ultimate Fixes for Cygwin1.dll Errors on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-accessibility-of-displays-in-nvidia-software/"><u>Tips for Restoring Accessibility of Displays in Nvidia Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
-date: 2024-12-09T01:17:38.584Z
-updated: 2024-12-10T22:04:13.021Z
+date: 2024-12-16T09:50:01.616Z
+updated: 2024-12-17T12:14:10.941Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
@@ -22,7 +22,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Isn't Showing Up in the List on Your iPad
@@ -34,7 +34,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 ![No AirPrint Printers Found message on an iPad.](https://www.lifewire.com/thmb/PINbY5NNM2YpYVf6BIRAjMvyfYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_my-ipad-wont-print-cant-find-printer-1994541-d3ec6679b22b423d876a15837e54cd6e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try these troubleshooting steps, in order:
@@ -50,7 +50,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 6. Verify it's an AirPrint printer. If this is a new printer, it should say that it's AirPrint compatible on the packaging. Some older printers use a specific app to print from the iPad, so refer to the owner's manual. You can see a[list of AirPrint printers on Apple's website](https://support.apple.com/en-us/HT201311) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Appears in the List
@@ -96,17 +96,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-your-digital-diaries-with-complimentary-upgrades/"><u>[New] 2024 Approved Elevate Your Digital Diaries with Complimentary Upgrades</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-eliminating-shake-effects-photographyvideo-guide/"><u>[Updated] In 2024, Eliminating Shake Effects Photography/Video Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipate-apples-innovative-buying-experience-the-all-new-vision-pro-set-to-arrive-in-february-as-revealed/"><u>Anticipate Apple's Innovative Buying Experience: The All-New Vision Pro Set to Arrive in February, As Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-blueprint-for-configuring-your-new-ipad-insights-by-zdnet/"><u>Beginner's Blueprint for Configuring Your New iPad: Insights by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-guide-by-zdnet-to-find-out-which-is-ideal-for-you/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Guide by ZDNet to Find Out Which Is Ideal For You</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-marvel-world-through-apple-vision-pro-on-its-launch-day-may-30-reported/"><u>Explore Marvel World Through Apple Vision Pro on Its Launch Day, May 30 | Reported</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/guidelines-for-renaming-yourself-in-online-meetings/"><u>Guidelines for Renaming Yourself in Online Meetings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/outstanding-performance-showcase-a-comprehensive-guide-to-linksys-wrt3200acm-the-top-pick-in-open-source-router-technology/"><u>Outstanding Performance Showcase: A Comprehensive Guide to Linksys WRT3200ACM - The Top Pick in Open-Source Router Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-after-apples-departure-alternatives-to-the-discontinued-iphone-13-and-15-pro-tech-insights/"><u>The Future After Apple's Departure: Alternatives to the Discontinued iPhone 13 & 15 Pro | Tech Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-spark-go-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Spark Go (2023) Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-tech-picks-of-2024-in-depth-comparison-of-leading-brands-like-apple-and-dell-insights/"><u>Top Tech Picks of 2024: In-Depth Comparison of Leading Brands Like Apple & Dell - Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-launch-your-filmmaking-dreams-xp-edition-preparation/"><u>[New] Launch Your Filmmaking Dreams XP Edition Preparation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-reign-in-your-posts-the-ultimate-guide-to-choosing-8-best-timers/"><u>[Updated] Reign in Your Posts The Ultimate Guide to Choosing 8 Best Timers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-true-story-of-youtube-earnings-and-viewer-volume-requirements/"><u>[Updated] The True Story of YouTube Earnings and Viewer Volume Requirements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparative-chat-convergence-insights-on-gpt-and-bings-bot-differences/"><u>Comparative Chat Convergence: Insights on GPT & Bing's Bot Differences</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic-5-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic 5 Phone? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-assign-or-move-users-into-groups-in-linux-a-step-by-step-guide/"><u>How to Assign or Move Users Into Groups in Linux: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-review-of-lazlive-live-selling-platform-with-guide/"><u>New 2024 Approved Review of LazLive Live Selling Platform With Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tips-and-tricks-fixing-a-broken-character-input-in-email-addresses/"><u>Tips and Tricks: Fixing a Broken @ Character Input in Email Addresses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-seamless-iphone-searches-using-circle-through-an-ingenious-shortcut/"><u>Unlock Seamless iPhone Searches Using Circle Through an Ingenious Shortcut</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-google-fi-vs-conventional-wireless-services-key-differences-explained/"><u>Unveiling Google Fi Vs. Conventional Wireless Services: Key Differences Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whatsapps-bold-gamble-proves-successful/"><u>WhatsApp's Bold Gamble Proves Successful</u></a></li>
 </ul></div>
 

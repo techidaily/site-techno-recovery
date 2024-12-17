@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Scoop on 2024'S Finest MagSafe Chargers: In-Depth Analysis & Ratings | ZDNet"
-date: 2024-12-03T16:31:06.958Z
-updated: 2024-12-11T00:38:13.894Z
+date: 2024-12-11T22:32:37.498Z
+updated: 2024-12-17T08:32:38.687Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ At ZDNET, we've tested all of the best smartwatches on the market, testing their
 
 Based on both our [hands-on testing](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/) and insights from experts, we named the [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) the best smartwatch overall due to its new processor, long battery life, storage capacity, high-quality titanium materials, [sleep-tracking capabilities](https://www.zdnet.com/article/how-to-sleep-better-with-the-apple-watch/), women's wellness features, and advanced workout metric feature suite. If you're not an Apple user, read on to see how watches from [Samsung](https://www.zdnet.com/article/best-android-smartwatch/) (including its newest [Galaxy Watch Ultra](https://www.zdnet.com/article/the-galaxy-watch-ultra-convinced-me-to-replace-my-apple-watch-in-less-than-a-week-heres-why/)), Google (including its newest [Pixel Watch 3](https://www.zdnet.com/article/hands-on-with-the-pixel-watch-3-the-three-features-google-got-right/)), [Garmin,](https://www.zdnet.com/article/best-garmin-watch/) Withings, and Amazfit compare, to find the best smartwatch for your needs and your wrist. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The best smartwatches of 2024
 
 Show less 
@@ -44,10 +48,6 @@ Cons
 * May be too large for small wrists
 
 ## Apple Watch Ultra 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best smartwatch overall
 
@@ -109,10 +109,14 @@ Cons
 * Not built for rugged adventures
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Pixel Watch 3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Google smartwatch
 
@@ -144,15 +148,7 @@ Cons
 * Large size not suitable for smaller wrists
 * Blood pressure certification taking much longer than advertised
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Watch Ultra
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Samsung smartwatch for outdoor adventurers
 
@@ -185,10 +181,6 @@ Pros
 Cons 
 * Large display is likely to consumer more battery power
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Watch 7
 
 ### Best Samsung smartwatch for smaller wrists
@@ -218,10 +210,6 @@ Pros
 Cons 
 * Less than two days of battery life
 * Limited sleep details
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Watch SE
 
@@ -259,10 +247,6 @@ Cons
 
 ## Garmin Venu 3S
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Garmin smartwatch alternative
 
 Garmin's watches are GPS sports watches focused on helping you improve your health, fitness, and performance. There are some features that rival smartwatches, but the Venu 3/3S is clearly the best Garmin to take on the Apple Watch and Samsung Galaxy Watch.
@@ -291,6 +275,10 @@ Pros
 Cons 
 * No Google Assistant support
 * Overwhelming smartphone app experience
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazfit Balance
 
@@ -325,6 +313,10 @@ Cons
 
 ## Withings ScanWatch 2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best hybrid smartwatch
 
 Withings is focused on providing advanced health and wellness products with the ScanWatch series available to capture data from your wrist. The Withings ScanWatch 2 continues to provide 30 day battery life in a hybrid watch with support for Android and iOS smartphones.
@@ -357,6 +349,10 @@ If you're an Android user, you may prefer a Samsung Galaxy Watch Ultra -- the ne
 | Amazfit Balance            | $220      | 14 days          | 46mm                  |
 | Withings ScanWatch 2       | $350      | 30 days          | 38 and 42mm           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right smartwatch for you?
 
 If you're in the Apple ecosystem, we highly recommend the Apple Watch Ultra, Apple Watch SE, or Apple Watch Series 9 due to the easy connectivity and convenience of features like Apple Pay and Apple Music.
@@ -378,10 +374,6 @@ However, finding the best smartwatch for you can be more complicated, especially
 | Garmin Venu 3S                | A smartwatch for advanced health tracking. You can see your recovery levels, advanced heart rate tracking, running metrics, and race time predictors. It also supports calls and your voice assistant.                                           |
 | Amazfit Balance               | An affordable smartwatch that punches far above its price. Its powerful smartphone application provides access to a wealth of health/fitness data while supporting calls and Amazon Alexa.                                                       |
 | Withings ScanWatch 2          | A hybrid watch that looks like a standard watch with analog hands, but underneath this elegant exterior is the power of the Withings health and wellness ecosystem.                                                                              |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Factors to consider when buying a smartwatch
 
@@ -427,17 +419,29 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Amazfit, and Withings watches work flawlessly with both Android and iPhone devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you use a cellular Apple Watch as a standalone device?
 
 While you can leave your iPhone at home while you run, go to the store, or stroll on the beach, you must have an iPhone turned on and connected to the internet at this other location. This is one reason why connecting to an iPhone and switching to an Android makes the Apple Watch useless with an Android phone.
 
 After initial setup, a cellular-enabled Samsung Galaxy Watch or Google Pixel Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 7, Watch Ultra, or Pixel Watch 3 running Wear OS, many more apps can be used on the go, so you can leave the phone behind in most cases.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
 
@@ -446,7 +450,7 @@ Health and fitness tracking have been the areas with the most innovations and im
 These smartwatches can also serve as capable GPS sports watches to track the details of your outdoor activities. Exercise guidance is provided on the watch with connected health applications on your smartphone so you can keep track of your progress, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the future of wearable technology?
@@ -482,10 +486,6 @@ Samsung provides blood pressure monitoring via its Galaxy Watch models in countr
 Eric Potter, USA weightlifting Level 1 Coach and Performance Coach at [Future](https://www.future.co/) Fitness, encourages people to choose a smartwatch based on compatibility, recommending an Apple Watch for iPhone users and a Samsung Galaxy Watch for Android fans. He notes that both smartwatches can track steps, heart rate, and exercise, but there are also crucial differences.
 
 "The Apple Watch has a larger interface allowing for easier viewing," he said. "On the other hand, the Samsung Galaxy Watch is cheaper than the Apple Watch, and the battery life tends to last longer."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative smartwatches worth considering?
 
@@ -543,24 +543,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-dissecting-instagrams-maximum-video-duration-rule/"><u>[New] Dissecting Instagram's Maximum Video Duration Rule</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-learning-the-top-10-educational-historians-yt/"><u>[New] Elevate Your Learning The Top 10 Educational Historians YT</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-best-practices-for-secure-youtube-mp4-conversion/"><u>[New] In 2024, Best Practices for Secure YouTube MP4 Conversion</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-how-to-join-someones-live-on-tiktok/"><u>[Updated] 2024 Approved How to Join Someone's Live on TikTok</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-assemble-films-for-streaming-organization/"><u>[Updated] Assemble Films for Streaming Organization</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-essential-steps-for-podcast-rss-feed-creation/"><u>2024 Approved Essential Steps for Podcast RSS Feed Creation</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/can-a-system-restore-delete-your-files-unraveling-the-mystery/"><u>Can a System Restore Delete Your Files? Unraveling the Mystery</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/conveniently-record-your-favorite-streams-top-5-grabber-apps-for-2024/"><u>Conveniently Record Your Favorite Streams Top 5 Grabber Apps for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-recover-from-winhttpdll-not-detected-errors-on-your-pc/"><u>How To Recover From 'Winhttp.dll Not Detected' Errors on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-18-guide-tailoring-the-apple-control-center-on-your-iphone-expert-tips-from-zdnet/"><u>IOS 18 Guide: Tailoring the Apple Control Center on Your iPhone - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/locating-stored-passwords-on-your-mac-a-comprehensive-guide/"><u>Locating Stored Passwords on Your Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/prevent-your-ipad-from-freezing-with-ios-18-essential-pre-installation-tips-techadvisor/"><u>Prevent Your iPad From Freezing with iOS 18: Essential Pre-Installation Tips | TechAdvisor</u></a></li>
-<li><a href="https://win-best.techidaily.com/resolving-graphics-card-issues-on-your-windows-pc-expert-tips-from-yl-computing/"><u>Resolving Graphics Card Issues on Your Windows PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-correcting-missing-msvcr100dll-errors-on-your-pc/"><u>Step-by-Step Solutions for Correcting Missing Msvcr100.dll Errors on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stream-the-latest-marvel-movie-spider-man-no-way-home-successfully/"><u>Stream the Latest Marvel Movie: Spider-Man: No Way Home Successfully</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlining-workflow-on-macos-setting-up-auto-hide-for-active-apps-in-stage-manager-zdnet-tips-and-tricks/"><u>Streamlining Workflow on macOS: Setting Up Auto-Hide for Active Apps in Stage Manager | ZDNET Tips & Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tackle-that-troublesome-blue-on-your-tv-discover-these-8-effective-fixes-now/"><u>Tackle That Troublesome Blue on Your TV - Discover These 8 Effective Fixes Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-true-expenses-of-free-phones-from-telecom-providers-expert-insights-revealed/"><u>Unveiling the True Expenses of Free Phones From Telecom Providers - Expert Insights Revealed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-elevate-your-content-top-5-reaction-video-makers-for-2024/"><u>Updated Elevate Your Content Top 5 Reaction Video Makers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-home-cinematic-wonders-fastest-tips-and-tricks/"><u>[New] 2024 Approved Home Cinematic Wonders Fastest Tips & Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-todays-vr-experience-insight/"><u>[New] In 2024, Today’s VR Experience Insight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-pinpoint-precise-pictures-with-facebooks-search-tools/"><u>Comprehensive Guide to Pinpoint Precise Pictures with Facebook's Search Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-locating-a-persons-email-contact-details/"><u>Effective Strategies for Locating a Person's Email Contact Details</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-facetime-woes-a-comprehensive-list-of-15-tips-to-restore-service/"><u>Fix Your FaceTime Woes: A Comprehensive List of 15 Tips to Restore Service!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-navigate-permissions-with-trustedinstaller-on-the-latest-windows-platforms/"><u>How to Navigate Permissions with TrustedInstaller on the Latest Windows Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-choices-best-android-simulators-for-macpc-enthusiasts/"><u>Innovative Choices Best Android Simulators for Mac/PC Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/micromobility-insights-keep-abreast-with-dates-emerging-stories-and-industry-whispers/"><u>Micromobility Insights: Keep Abreast with Dates, Emerging Stories & Industry Whispers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-quadro-upgrade-driver-release/"><u>NVIDIA Quadro Upgrade: Driver Release</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/ranking-the-best-top-10-video-editing-software-options-for-2024/"><u>Ranking the Best Top 10 Video Editing Software Options for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-getting-your-samsung-soundbar-back-online/"><u>Step-by-Step Solutions: Getting Your Samsung Soundbar Back Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamlined-sharing-the-best-shortened-link-apps-for-youtubers-for-2024/"><u>Streamlined Sharing The Best Shortened Link Apps for Youtubers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-shell32dll-missing-error-on-your-pc/"><u>Troubleshooting the 'Shell32.dll Missing' Error on Your PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-conversion-guide-sdr-to-stunning-hdr-visuals/"><u>Ultimate Conversion Guide SDR to Stunning HDR Visuals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-troubleshooting-guide-addressing-wi-fi-adapter-and-ap-mistakes/"><u>Ultimate Troubleshooting Guide: Addressing Wi-Fi Adapter and AP Mistakes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-essential-differences-between-macintosh-and-windows-computers/"><u>Understanding the Essential Differences Between Macintosh and Windows Computers</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/unlocking-ease-of-use-navigating-to-the-control-panel-in-windows-10-by-yl-computing/"><u>Unlocking Ease of Use: Navigating to the Control Panel in Windows 10 by YL Computing</u></a></li>
 </ul></div>
 

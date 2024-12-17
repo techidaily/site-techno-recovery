@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: The Best UK Series Streaming on Netflix Today"
-date: 2024-08-30T13:21:49.499Z
-updated: 2024-08-31T13:21:49.499Z
+date: 2024-12-14T19:42:59.134Z
+updated: 2024-12-17T05:17:49.664Z
 categories:
   - BestProducts
 description: "This Article Describes Top Picks: The Best UK Series Streaming on Netflix Today"
@@ -16,9 +16,17 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 of 17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Skater Girl (2021): A Film About Blazing Your Own Path](https://www.imdb.com/title/tt6964940)
 
 ![Rachel Saanchita Gupta and Shafin Patel in 'Skater Girl' ](https://www.lifewire.com/thmb/cwZVQ7uYBiAYcvdPSlqVmqpHVNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SkaterGirl-cdec994a3ed64e5ab479557cf51f0478.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Netflix
 
@@ -72,17 +80,10 @@ Netflix
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## [We Have a Ghost (2023): Beetlejuice Meets E.T.](https://www.imdb.com/title/tt7798604/)
 
 ![We Have a Ghost (2023)](https://www.lifewire.com/thmb/1EGVI2Nq-mma4U_gQew-CGQ3RnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-march-2023-5104880-ac5a5db9161a4853868564d1f68312a4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 6.1/10
@@ -111,6 +112,10 @@ of 17
 
 ![ Hadley Robinson in 'Moxie'](https://www.lifewire.com/thmb/cViIoDSZOArw-tKkr8FQPrdCLoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Moxie-68d4df625f46471dae9ab5360bfbddb8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Netflix
 
 **IMDb Rating** : 6.7/10
@@ -135,12 +140,13 @@ Netflix
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Enola Holmes (2020): There’s a New Holmes Detective In Town](https://www.imdb.com/title/tt7846844/)
 
 ![Enola Holmes on Netflix](https://www.lifewire.com/thmb/OslOCb_Qk4p9Meum1H4mUSf1cik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0018_21-best-teen-movies-on-netflix-5104880-452d2fa59e1745bf8a3fc0af6a9ce1b8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Netflix
 
@@ -166,9 +172,6 @@ Netflix
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [The Magician's Elephant (2023): A Fairy Tale in the Fallout of War](https://www.imdb.com/title/tt2560092/)
 
 ![The Magician's Elephant](https://www.lifewire.com/thmb/BYDCI1aumRw0Qx2xYvORWFnC82o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-april-2023-5104880-13571319bc4b43eeb24f8b8deab24e58.jpg)
@@ -227,16 +230,14 @@ Netflix
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Dog Gone (2023): A Boy, His Dog, and His Dad](https://www.imdb.com/title/tt15334430/)
 
 ![Rob Lowe and Johnny Berchtold in Dog Gone](https://www.lifewire.com/thmb/IiyivN5ibGrvcZQvEXKm0b2z9-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-february-2023-5104880-6888bdbae46b47a99f08eba800da5a1a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Netflix
 
 **IMDb Rating** : 6.1/10
@@ -261,13 +262,18 @@ Netflix
 
 of 17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [All the Bright Places (2020): An Important Mental Health Conversation Starter](https://www.imdb.com/title/tt3907584/)
 
 ![All the Bright Places on Netflix](https://www.lifewire.com/thmb/UQR6HggGGWRlE9y9NJB51lFwSfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Netflix
 
 **IMDb Rating** : 6.6/10
@@ -293,8 +299,9 @@ Netflix
 of 17
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Finding 'Ohana (2021): For Anyone Who Misses The Goonies](https://www.imdb.com/title/tt10332588/)
 
 ![Owen Vaccaro, Alex Aiono, Lindsay Watson, and Kea Peahu in 'Finding Ohana'](https://www.lifewire.com/thmb/IMA9uc_Ow-aeDZhjS9PkhC8dBZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FindingOhana-52f29856683f46fbbfed9a6c1fd854d7.jpg)
@@ -351,9 +358,6 @@ Netflix
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [Home Team (2022): A Feel-Good Football Comedy Loosely Based on a True Story](https://www.imdb.com/title/tt14592064)
 
 ![Sean Payton (Kevin James) gives an inspirational speech in 'Home Team' (2022)](https://www.lifewire.com/thmb/2YVXMtN3msfyVfW5qUiKAIsU-XA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HomeTeam-c6180d4339ab4cd2805a35caa1456475.jpg)
@@ -381,6 +385,10 @@ Netflix
 13
 
 of 17
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Rise of the Teenage Mutant Ninja Turtles: The Movie (2022) — Heroes in a Half Shell Go Intergalactic](https://www.imdb.com/title/tt9784708/)
 
@@ -438,17 +446,10 @@ _You Are So Not Invited to My Bat Mitzvah_ is a more grown-up Adam Sandler movie
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## [JJ+E (2021): A Swedish Romance About Class and Cultural Barriers](https://www.imdb.com/title/tt12299824/)
 
 ![Mustapha Aarab and Elsa Öhrn in "JJ+E"](https://www.lifewire.com/thmb/GsSfiMPeEZqpEPSOK7aqlmavCik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/JJE-c301e6e36bcb4f299aafd793f7dd3c25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 5.4/10
@@ -473,16 +474,10 @@ Netflix
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Vampires vs. The Bronx (2020): Best Gentrification Metaphor Since Candyman](https://www.imdb.com/title/tt8976576/)
 
 ![Jaden Michael, Gerald Jones III, and Gregory Diaz IV in 'Vampires vs. the Bronx'](https://www.lifewire.com/thmb/npr8WvdVzX6W7Rt5rDoo8LidXI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/VampiresvsTheBronx-914ba870a286419c9c1d0469cd624cd0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 5.7/10
@@ -507,13 +502,14 @@ Netflix
 
 of 17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Chupa (2023): E.T. Meets Mexican Folklore](https://www.imdb.com/title/tt14923260/)
 
 ![Evan Whitten in Chupa](https://www.lifewire.com/thmb/sUX_JwO30yy67jVEclJSrCm4eB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-may-2023-5104880-2dd49594c2524672a5c74e066681cbff.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 5.5/10
@@ -556,8 +552,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -565,4 +559,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-full-assessment-experiencing-the-world-in-360-with-samsung-for-2024/"><u>[New] Full Assessment Experiencing the World in 360° with Samsung for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-begin-a-new-era-of-editing-with-xps-video-suite/"><u>[New] In 2024, Begin a New Era of Editing with Xp's Video Suite</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-invisible-impact-the-underestimated-toll-of-trick-likes/"><u>[Updated] In 2024, Invisible Impact The Underestimated Toll of Trick Likes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-six-sensational-videos-that-keep-on-watchers/"><u>[Updated] Six Sensational Videos That Keep On Watchers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-zoom-for-beginners-essential-webinar-skills-unveiled-for-2024/"><u>[Updated] Zoom for Beginners Essential Webinar Skills Unveiled for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-poco-x6-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Poco X6 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-your-snaps-comprehensive-insights-into-snapchat-emojis-explained/"><u>Decode Your Snaps: Comprehensive Insights Into Snapchat Emojis Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnose-and-rectify-common-television-glitches-with-simple-techniques/"><u>Diagnose and Rectify Common Television Glitches with Simple Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-correcting-shelldll-absence-tips-and-techniques/"><u>Diagnosing and Correcting 'Shell.dll' Absence: Tips & Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-circuit-conquerors-ranking-your-top-5-speed-driven-games/"><u>In 2024, Circuit Conquerors Ranking Your Top 5 Speed-Driven Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/live-streaming-guide-how-to-access-samsung-unpacked-events/"><u>Live Streaming Guide: How To Access Samsung Unpacked Events</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-twitter-presence-with-strategic-post-scheduling-tips/"><u>Maximize Your Twitter Presence with Strategic Post Scheduling Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/restore-original-sound-in-tweet-video-links-for-2024/"><u>Restore Original Sound in Tweet Video Links for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-setting-up-your-echo-dot-device/"><u>Step-by-Step Instructions on Setting Up Your Echo Dot Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-role-of-ram-speeds-and-delays-in-determining-pc-efficiency/"><u>The Role of RAM Speeds and Delays in Determining PC Efficiency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-activating-and-configuring-a-universal-samsung-remote-for-your-television-setup/"><u>Ultimate Guide: Activating and Configuring a Universal Samsung Remote for Your Television Setup</u></a></li>
+</ul></div>
 

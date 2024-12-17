@@ -1,7 +1,7 @@
 ---
 title: "Comparing EV Types: Battery-Electric (BEV), Plug-In Hybrid (PHEV), Hydrogen Fuel Cell (FCEV) & Conventional Hybrids Explained"
-date: 2024-08-30T13:16:52.128Z
-updated: 2024-08-31T13:16:52.128Z
+date: 2024-12-11T19:25:26.797Z
+updated: 2024-12-16T20:30:44.940Z
 categories:
   - BestProducts
 description: "This Article Describes Comparing EV Types: Battery-Electric (BEV), Plug-In Hybrid (PHEV), Hydrogen Fuel Cell (FCEV) & Conventional Hybrids Explained"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  Electric vehicles come in a wide array of flavors, from all-electric battery electric vehicles (BEV) to gasoline-reliant hybrid-electric vehicles (HEV), with a whole rainbow of variations between. Some electric vehicles even rely on fuel cells or gasoline generators to provide electricity instead of powerful battery banks.
 
  The unifying factor is that every electric vehicle includes an electric motor to drive the vehicle, either alone or in concert with a gasoline-reliant internal combustion engine (ICE). While all of these vehicles use electricity in one way or another, only battery electric vehicles are pure EVs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Basic Breakdown 
 
@@ -43,9 +47,6 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  Since BEVs have to be plugged in, and charging can take a long time without a fast charging station, it’s only natural to be concerned about range. BEV range has increased a lot in recent years though, with some driving up to 400 miles on a single charge. Even the most affordable BEVs provide around 100 miles on a charge though, making them well-suited to city driving and moderate commutes. Longer trips can require some pre-planning depending on the range of the BEV, but charging stations are widely available in most areas.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Hybrid Electric Vehicles (HEV) 
 
  The reason that the term EV gets applied to vehicles that aren’t, strictly speaking, pure electric vehicles is that hybrid electrics were the first to reach the mainstream. These hybrid electric vehicles are a lot like traditional gas-powered vehicles with similar drivetrains, except they include both an electric motor and an internal combustion engine (ICE).
@@ -55,8 +56,9 @@ monkeybusinessimages/iStock/Getty Images Plus
 ![A hybrid car engine.](https://www.lifewire.com/thmb/uVPkl2cTlSiqQLXZPZWImBUQd1o=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Hybridcarengine_cipango27_istock_GettyImagesPlus-cf4ab821bf0046169f1cb7bd2fa1982c.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 A hybrid car engine. 
 
 cipango27/iStock/Getty Images Plus
@@ -66,6 +68,10 @@ cipango27/iStock/Getty Images Plus
  When not in use, the electric motor in an HEV will typically work in reverse, effectively generating electricity to charge the batteries instead of pulling power out to move the vehicle. This can effectively extend the range of an HEV and help reduce emissions. However, HEVs typically still produce about two thirds of the carbon emissions of vehicles that rely solely on a gas-powered ICE.
 
  The main benefit of an HEV is convenience. From the perspective of the driver, an HEV is no different from an ICE vehicle. You still fill it up with gas like a traditional ICE vehicle, and the electric part takes place under the hood and out of sight with no input from the driver. The downside is that they still burn fossil fuel and still produce a significant amount of carbon emissions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Plug-in Hybrids (PHEV): Parallel and Series 
 
@@ -80,8 +86,9 @@ cipango27/iStock/Getty Images Plus
 ![Close up of plug-in hybrid port of an Hybrid Electric Vehicle (PHEV).](https://www.lifewire.com/thmb/UZwtFdgGMf7WVcSLy44woscGk-A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PHEVpluginport_Boy_Anupong_Moment_Getty-663b083340fb44b5a8105fd74beffb53.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Close up of the plug-in/gas port of an Hybrid Electric Vehicle (PHEV). 
 
 Boy\_Anupong/Moment/Getty
@@ -94,9 +101,6 @@ Boy\_Anupong/Moment/Getty
 
  When an EREV is run in all-electric mode, without the gas generator running, they produce no tailpipe emissions, just like BEVs. However, they do produce carbon emissions whenever the gas generator is running. The catch is that the all-electric range typically tops out at around 80 miles, with some models providing even less.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fuel Cell Electric Vehicles 
 
  Fuel cell technology is intriguing, because it generates electricity without carbon emissions. There have been a number of different fuel cell technologies over the years, but the FCEVs that are available today all rely on a reaction between hydrogen and oxygen. Fuel cells are charged with hydrogen, which then reacts with oxygen to generate electricity as needed. The electricity powers an electric motor, similar to the way batteries power electric motors in BEVs, and the only byproducts are water vapor and warm air.
@@ -105,9 +109,6 @@ Boy\_Anupong/Moment/Getty
 
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  HydroGen 3 Fuel Cell Minivan Engine. 
 
 Arctic-Images/The Image Bank Unreleased
@@ -117,8 +118,9 @@ Arctic-Images/The Image Bank Unreleased
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.
@@ -153,8 +155,6 @@ Arctic-Images/The Image Bank Unreleased
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,22 @@ Arctic-Images/The Image Bank Unreleased
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-info.techidaily.com/cities-skylines-explored-how-this-game-became-a-planners-obsession/"><u>'Cities: Skylines' Explored: How This Game Became a Planner’s Obsession</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-reclaim-lost-facebook-watch-button/"><u>[Updated] In 2024, Reclaim Lost Facebook Watch Button</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-transfer-tactics-for-youtube-to-dailymotion-success/"><u>2024 Approved Transfer Tactics for YouTube to Dailymotion Success</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-motorola-moto-e13-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Motorola Moto E13 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-12plus-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme 12+ 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-for-accessing-espns-audible-app-via-mp3-players/"><u>Comprehensive Tutorial for Accessing ESPN’s Audible App via MP3 Players</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-joy-of-podcasting-with-top-rated-android-apps-for-listening-and-learning-through-audiobooks/"><u>Discover the Joy of Podcasting with Top-Rated Android Apps for Listening and Learning Through Audiobooks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-the-new-release-update-to-version-30814/"><u>Download the New Release: Update to Version 3.0.8.14</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/drm-free-conversion-services-how-to-unlock-ebooks-from-epub-pdf-and-azw-formats/"><u>DRM-Free Conversion Services: How to Unlock Ebooks From ePub, PDF & AZW Formats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/e-reader-showdown-of-the-year-amazons-kindle-oasis-against-kobos-aura-one-2017/"><u>E-Reader Showdown of the Year: Amazon's Kindle Oasis Against Kobo's Aura One (2017)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easily-activate-auto-rotate-feature-for-a-better-reading-experience-on-kindle-fire/"><u>Easily Activate Auto-Rotate Feature for a Better Reading Experience on Kindle Fire</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-data-formatting-techniques-optimizing-structure-and-readability/"><u>Effective Data Formatting Techniques: Optimizing Structure and Readability</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-amds-epyc-chips-triumph-over-nvidias-grace-superchip-see-them-beat-benchmark-records-by-twice-the-speed/"><u>How AMD's EPYC Chips Triumph Over Nvidia's Grace Superchip: See Them Beat Benchmark Records by Twice the Speed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-color-the-top-15-gopro-luts-for-filmmaking/"><u>Perfecting Color The Top 15 GoPro LUTs for Filmmaking</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722096633684-unlocking-linux-potential-setting-up-chatgpt-for-beginners-and-pros-alike/"><u>Unlocking Linux Potential: Setting Up ChatGPT for Beginners & Pros Alike!</u></a></li>
+</ul></div>
 

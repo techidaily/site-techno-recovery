@@ -1,7 +1,7 @@
 ---
 title: "Solving Issues with Unresponsive Optical Drives: A Step-by-Step Guide"
-date: 2024-09-04T00:26:04.875Z
-updated: 2024-09-05T00:26:04.875Z
+date: 2024-12-15T03:57:09.806Z
+updated: 2024-12-17T15:03:01.235Z
 categories:
   - BestProducts
 description: "This Article Describes Solving Issues with Unresponsive Optical Drives: A Step-by-Step Guide"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
  You've[correctly arranged your new speakers](https://www.lifewire.com/placing-speakers-correctly-3134857) . All the cables have been meticulously connected. Each piece of equipment has been switched on. Then, you hit "play" on the audio source, yet nothing happens. How frustrating!
 
  But don't toss your remote at the wall just yet. Instead, try these troubleshooting tips to get your brand new sound system up and working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Stereo Receiver That's Not Making Sound
 
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
  You'll need a 3.5 mm-to-RCA stereo audio cable to connect speakers that have 3.5 mm or RCA connections, such as a laptop or smartphone.
 5. **Check the source components** . First, test whatever source component (device) you're using—such as a CD player, DVD/Blu-ray player, or turntable—with another working TV or set of speakers. If the device still doesn't play properly, then your problem is most likely with the device.  
  If all source components are good, connect them back into the original receiver and set them to play some input. Toggle through each input source on the stereo receiver one by one. If the receiver works with some input sources but not others, the cables connecting the component to the receiver could be the problem. Replace any suspect cables and try the original component again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Causes of a Stereo Receiver Not Making Sound
 
@@ -54,8 +62,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -63,11 +69,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-conquering-live-broadcast-a-comprehensive-guide-for-youtube-and-twitch/"><u>[New] In 2024, Conquering Live Broadcast A Comprehensive Guide for YouTube & Twitch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-insiders-look-at-youtube-content-regulations/"><u>[New] In 2024, The Insider's Look at YouTube Content Regulations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-pro-selections-best-notebook-models-for-editing-professionals/"><u>[Updated] 2024 Approved Pro Selections Best Notebook Models for Editing Professionals</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unlimited-tiktok-videos-no-watermarks-free-downloads/"><u>[Updated] Unlimited TikTok Videos No Watermarks, Free Downloads</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-an-online-persona-with-a-facebook-image/"><u>Creating an Online Persona with a Facebook Image</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-to-modify-login-credentials-for-others-on-windows-os/"><u>Easy Methods to Modify Login Credentials for Others on Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-correcting-missing-dll-files-including-msvcr90dll/"><u>Expert Tips for Correcting Missing .dll Files, Including Msvcr90.dll</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-focusrite-scarlett-2i4-audio-interface-driver-download-for-pc/"><u>Free Focusrite Scarlett 2I4 Audio Interface Driver Download for PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-error-to-solution-expert-tips-on-resolving-the-infamous-code-0xc0000185-in-windows-environments/"><u>From Error to Solution: Expert Tips on Resolving the Infamous Code 0xC0000185 in Windows Environments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-f04-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy F04 Unlock Without Password</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-streamlining-video-sharing-zoom-and-tiktok-harmony/"><u>In 2024, Streamlining Video Sharing Zoom and TikTok Harmony</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722875945542-leveraging-meta-ai-tools-for-enhanced-engagement-on-instagram/"><u>Leveraging Meta AI Tools for Enhanced Engagement on Instagram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-pro-revival-how-to-guide-for-a-fresh-system-boot/"><u>MacBook Pro Revival: How-To Guide for a Fresh System Boot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-your-smart-tvs-chromecast-remote-in-5-easy-steps/"><u>Mastering Your Smart TV's Chromecast Remote in 5 Easy Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revolutionizing-your-photo-video-experience-for-2024/"><u>Revolutionizing Your Photo-Video Experience for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-how-to-repairing-whea-system-memory-failures-effectively/"><u>The Definitive How-To: Repairing WHEA System Memory Failures Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-interpreting-and-utilizing-windows-10s-battery-information-tool/"><u>The Ultimate Guide to Interpreting and Utilizing Windows 10’S Battery Information Tool</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

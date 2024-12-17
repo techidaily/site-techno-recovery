@@ -1,7 +1,7 @@
 ---
 title: Detecting Outages in Microsoft Teams - Understanding Connectivity Issues
-date: 2024-08-30T13:16:00.049Z
-updated: 2024-08-31T13:16:00.049Z
+date: 2024-12-10T01:09:22.426Z
+updated: 2024-12-16T18:31:48.653Z
 categories:
   - BestProducts
 description: This Article Describes Detecting Outages in Microsoft Teams - Understanding Connectivity Issues
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/lTSPMNOmP0XR0nftP6wBJsOtZFc=/400x300/fi
  If you can't make Skype work, there are a number of troubleshooting steps you can follow to see what the problem is and to get things up and running again.
 
  Lifewire / Maritsa Patrinos​
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Skype Is Not Working
 
@@ -40,12 +44,13 @@ thumbnail: https://www.lifewire.com/thmb/lTSPMNOmP0XR0nftP6wBJsOtZFc=/400x300/fi
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
 
@@ -56,17 +61,9 @@ thumbnail: https://www.lifewire.com/thmb/lTSPMNOmP0XR0nftP6wBJsOtZFc=/400x300/fi
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
@@ -109,8 +106,9 @@ thumbnail: https://www.lifewire.com/thmb/lTSPMNOmP0XR0nftP6wBJsOtZFc=/400x300/fi
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -132,8 +130,9 @@ thumbnail: https://www.lifewire.com/thmb/lTSPMNOmP0XR0nftP6wBJsOtZFc=/400x300/fi
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -146,10 +145,6 @@ thumbnail: https://www.lifewire.com/thmb/lTSPMNOmP0XR0nftP6wBJsOtZFc=/400x300/fi
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -159,17 +154,15 @@ thumbnail: https://www.lifewire.com/thmb/lTSPMNOmP0XR0nftP6wBJsOtZFc=/400x300/fi
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
@@ -206,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +206,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-carving-out-your-place-in-the-design-world-for-2024/"><u>[Updated] Carving Out Your Place in the Design World for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[Updated] In 2024, Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-max-views-max-impact-discover-best-posting-days/"><u>[Updated] In 2024, Max Views, Max Impact Discover Best Posting Days</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comparing-gopro-and-polaroids-video-editors-for-filmmakers/"><u>2024 Approved Comparing GoPro & Polaroid's Video Editors for Filmmakers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>2024 Approved Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-launch-of-the-google-pixel-fold-2nd-gen-projected-cost-release-timeline-and-leaked-specifications/"><u>Anticipated Launch of the Google Pixel Fold (2Nd Gen): Projected Cost, Release Timeline & Leaked Specifications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-aeuisy-portable-photovoltaic-generator-ideal-for-delicate-medical-equipment-operation/"><u>Comprehensive Guide to the AEUISY Portable Photovoltaic Generator: Ideal for Delicate Medical Equipment Operation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-coredll-not-found-issues-efficiently/"><u>Diagnosing and Repairing 'Core.dll' Not Found Issues Efficiently</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lost-your-ipad-access-heres-how-to-recover-from-a-missed-password/"><u>Lost Your iPad Access? Here’s How to Recover From a Missed Password!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-on-facebook-in-just-five-steps/"><u>Maximizing Productivity on Facebook in Just Five Steps!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-communication-hurdles-with-your-samsung-galaxy-watch/"><u>Overcoming Communication Hurdles with Your Samsung Galaxy Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-safe-online-a-comprehensive-tutorial-for-changing-x-password-settings/"><u>Stay Safe Online: A Comprehensive Tutorial for Changing X Password Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-d3d9dll-file-not-found-problem/"><u>Troubleshooting the d3d9.dll File Not Found Problem</u></a></li>
+</ul></div>
 

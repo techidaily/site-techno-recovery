@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More"
-date: 2024-12-09T10:18:10.720Z
-updated: 2024-12-11T09:43:58.541Z
+date: 2024-12-12T21:22:06.588Z
+updated: 2024-12-17T01:13:13.269Z
 tags:
   - apple
 categories:
@@ -23,16 +23,12 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best note-taking tablet you can buy right now?
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best note-taking tablets of 2024
 
@@ -80,6 +76,10 @@ Cons
 * Screen lags when browsing web or watching videos
 * Speaker could be better
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Boox Note Air 3 C
 
 ### Best lightweight note-taking tablet
@@ -113,6 +113,10 @@ Cons
 
 ## Amazon Kindle Scribe
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best note-taking tablet for reading
 
 The Kindle Scribe is perhaps the perfect example of part e-reader, part tablet. It has the same functions you've come to know and love in a Kindle, like a 300 ppi glare-free screen, weeks of battery life, and adjustable warm light. It's also compatible with Amazon's Basic or Premium Pen, so you can take handwritten notes or underline important quotations within the book you're reading. 
@@ -142,10 +146,6 @@ Cons
 * Missing apps
 
 ## Samsung Galaxy Tab S9
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best note-taking tablet for Android users
 
@@ -177,6 +177,10 @@ Cons
 * Important productivity apps are missing
 
 ## Amazon Fire Max 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best budget note-taking tablet
 
@@ -223,7 +227,7 @@ However, if you want a tablet you can use for school and for everyday things lik
 | Amazon Fire Max 11                    | A budget-friendly tablet for under $350\. It is compatible with the Amazon Stylus pen, and you can also attach a keyboard to it.     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best note-taking tablet
@@ -234,10 +238,6 @@ Before you buy a note-taking tablet, you'll want to consider the following:
 * **Stylus compatibility:** Most people use a stylus when taking notes on a tablet, so consider tablets that either come with a stylus right out of the box or have the option to buy one from the maker separately. It's important to note most universal styluses will also work with these tablets.
 * **Size:** Tablets that you will mainly use for note-taking purposes will have different requirements than tablets you need to replace a laptop with. Smaller size tablets are best for note-taking purposes and are lightweight and portable.
 * **Price:** Tablets will vary in price from $150 all the way up to $1,000 or more, depending on storage capacity, display quality, processors, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -251,6 +251,10 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a stylus for a note-taking tablet?
 
 Using a stylus is totally up to you, but it can definitely help with functionality. Some tablets come with a stylus, while others will have them sold separately. If you're looking at this from a cost perspective, consider the fact that the stylus will often be an added expense, but you may find it worth it for ease of use, especially if you're the type that likes the feeling of writing out your notes rather than typing them.
@@ -258,10 +262,6 @@ Using a stylus is totally up to you, but it can definitely help with functionali
 ## What are the best note-taking apps?
 
 The [best note-taking apps](https://www.zdnet.com/article/best-note-taking-app-for-ipad/) let you digitize your notes and to-dos while keeping them all in one place or syncing them to a cloud. Our favorites are Notability, Evernote, GoodNotes 5, and even Apple's free Notes app is a worthy choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does the Apple Pencil convert handwriting to text?
 
@@ -272,7 +272,7 @@ Yes--the Apple Pencil can convert your handwritten notes into text for better le
 3. Write with Apple Pencil, and Scribble automatically converts your handwriting into typed text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other note-taking tablets we've tested:
@@ -321,19 +321,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-pixelated-palace-beginner-friendly-home-design-guide/"><u>[New] Pixelated Palace Beginner-Friendly Home Design Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unleash-the-full-potential-of-discord-mastering-message-pinning/"><u>[New] Unleash the Full Potential of Discord Mastering Message Pinning</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-screens-making-a-music-video-on-iphone/"><u>2024 Approved Harmonizing Screens Making a Music Video on iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-stop-code-0x0000005c-steps-for-successful-troubleshooting/"><u>Fixing Stop Code 0X0000005C: Steps for Successful Troubleshooting</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-move-apple-music-playlists-to-youtube-music-and-back-again-the-ultimate-guide/"><u>How to Seamlessly Move Apple Music Playlists to YouTube Music and Back Again - The Ultimate Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-poco-x6-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Poco X6 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-apple-watch-usage-with-8-key-battery-saving-adjustments-expert-guide-by-zdnet/"><u>Revolutionize Your Apple Watch Usage with 8 Key Battery-Saving Adjustments | Expert Guide by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-is-foldable-unlocking-secrets-of-the-upcoming-google-pixel-fold-2-specs-launch-date-and-market-impact/"><u>The Future Is Foldable: Unlocking Secrets of the Upcoming Google Pixel Fold 2 – Specs, Launch Date, and Market Impact</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-13-must-hear-true-crime-series-on-podcast-platforms/"><u>Top 13 Must-Hear True Crime Series on Podcast Platforms</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-free-ai-powered-video-editing-tools-unlock-the-future-of-content-creation/"><u>Top Free AI-Powered Video Editing Tools: Unlock the Future of Content Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-canvas-image-tools-for-2024/"><u>Unlocking the Full Potential of Canva's Image Tools for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-list-7-video-mergers-with-no-watermarks/"><u>Updated 2024 Approved The Ultimate List 7 Video Mergers with No Watermarks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgraded-apple-technology-deciding-between-m1-and-m2-ipad-pros-which-suits-you-better-tech-advice/"><u>Upgraded Apple Technology: Deciding Between M1 & M2 iPad Pros – Which Suits You Better? | Tech Advice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-exposes-the-4-worst-times-to-invest-in-apple-products-wait-before-you-buy/"><u>ZDNet Exposes the 4 Worst Times to Invest in Apple Products - Wait Before You Buy!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lord-of-the-rings-movie-marathon-the-correct-viewing-order-explained/"><u>'Lord of the Rings' Movie Marathon: The Correct Viewing Order Explained</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-make-youtube-thumbnails-online-and-offline-for-2024/"><u>[New] How to Make YouTube Thumbnails Online & Offline for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leveraging-url-posts-for-maximum-impact-on-insta-storypost/"><u>[New] Leveraging URL Posts for Maximum Impact on Insta Story/Post</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pay-integration-a-comprehensive-guide-to-making-contactless-payments-with-an-apple-watch/"><u>Apple Pay Integration: A Comprehensive Guide to Making Contactless Payments with an Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-correcting-missing-ksuserdll-file-issues/"><u>Comprehensive Guide to Correcting Missing ksuser.dll File Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/home-viewing-made-easy-watching-fandango-movies-with-amazon-fire-stick/"><u>Home Viewing Made Easy: Watching Fandango Movies with Amazon Fire Stick</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-c67-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-avi-video-joiners-top-10-free-solutions-for-merging-avi-files/"><u>In 2024, Best AVI Video Joiners Top 10 Free Solutions for Merging AVI Files</u></a></li>
+<li><a href="https://win-docs.techidaily.com/installing-aomei-backupper-for-linux-tips-and-tricks-for-easy-setup/"><u>Installing AOMEI Backupper for Linux - Tips & Tricks for Easy Setup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mkv-zu-mp4-konvertierung-mit-perfekter-bild-und-tonqualitat-schnelles-handbuch/"><u>MKV Zu MP4 Konvertierung Mit Perfekter Bild- Und Tonqualität – Schnelles Handbuch</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-6s-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 6s lock with iCloud</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-time-capsules-online-how-to-explore-historical-web-content-with-wayback-machine/"><u>Unlocking Time Capsules Online: How to Explore Historical Web Content with Wayback Machine</u></a></li>
 </ul></div>
 

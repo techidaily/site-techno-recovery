@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Privacy: A Guide to Cleaning Up Trackers in Safari for macOS Users | ZDNet"
-date: 2024-12-09T06:16:38.034Z
-updated: 2024-12-10T19:59:55.954Z
+date: 2024-12-11T17:43:46.270Z
+updated: 2024-12-17T03:41:57.413Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,24 +119,17 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/xpert-tips-for-crafting-immersive-soundscapes-in-youtube-for-2024/"><u>[New] Expert Tips for Crafting Immersive Soundscapes in YouTube for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-videos-on-facebook-the-transfer-guide/"><u>[New] In 2024, Twitter Videos on Facebook The Transfer Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-list-of-15-youtube-openers/"><u>[Updated] 2024 Approved The Ultimate List of 15 YouTube Openers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choose-wisely-a-focus-on-7-important-aspects-of-motherboards/"><u>Choose Wisely: A Focus on 7 Important Aspects of Motherboards</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/comparing-the-macbook-pro-and-air-retina-advantages-and-disadvantages-revealed/"><u>Comparing the MacBook Pro and Air Retina: Advantages and Disadvantages Revealed</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/crucial-aspects-for-your-next-dash-cam-decision/"><u>Crucial Aspects for Your Next Dash Cam Decision</u></a></li>
-<li><a href="https://video-capture.techidaily.com/cutting-edge-techniques-for-captivate-content/"><u>Cutting-Edge Techniques for Captivate Content</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6 Plus Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-intrigue-of-apples-hidden-homeos-in-new-tv-software-what-developers-need-to-know-zdnet-reports/"><u>Exploring the Intrigue of Apple's Hidden 'homeOS' In New TV Software: What Developers Need to Know | ZDNet Reports</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-time-to-pre-order-the-apple-vision-pro-answer-these-crucial-5-questions-first-insights/"><u>Is It Time to Pre-Order the Apple Vision Pro? Answer These Crucial 5 Questions First - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/june-2024s-most-unbeatable-best-buy-deals-revealed-by-zdnet/"><u>June 2024'S Most Unbeatable Best Buy Deals Revealed by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/labor-day-blowout-score-the-2nd-gen-apple-pencil-for-just-95-limited-time-deal-on-zdnet/"><u>Labor Day Blowout! Score the 2Nd Gen Apple Pencil for Just $95 – Limited Time Deal on ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-airpod-maintenance-the-right-time-for-a-reset-expert-advice-by-zdnet/"><u>Mastering AirPod Maintenance: The Right Time for a Reset | Expert Advice by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protect-your-devices-the-crucial-fix-for-airtags-flawed-battery-safety-feature/"><u>Protect Your Devices: The Crucial Fix for AirTags’ Flawed Battery Safety Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-audio-on-a-budget-how-the-new-beats-solo-earbuds-challenge-airpods-pricing-expert-analysis/"><u>Revolutionizing Audio on a Budget: How the New Beats Solo Earbuds Challenge AirPods Pricing | Expert Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-get-canon-pro-100-up-and-running-on-windows/"><u>Step-by-Step Tutorial: Get Canon PRO 100 Up and Running on Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-honor-x50i-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor X50i Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-windows-movie-maker-tutorial-from-beginner-to-pro/"><u>Updated In 2024, Windows Movie Maker Tutorial From Beginner to Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-premier-filmmakers-digital-backdrop-changer/"><u>[Updated] 2024 Approved Premier Filmmaker's Digital Backdrop Changer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminating-rockaldlldll-missing-error-comprehensive-troubleshooting-guide/"><u>Eliminating 'rockaldll.dll' Missing Error – Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-photos-with-zoom-features-on-iphone-and-ipad/"><u>Enhancing Photos with Zoom Features on iPhone & iPad</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-of-both-worlds-premium-screen-quality-with-enduring-performance-on-a-leading-laptop-revealed-by-zdnet/"><u>Exploring the Best of Both Worlds – Premium Screen Quality with Enduring Performance on a Leading Laptop, Revealed by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-aficionados-compilation-ranking-the-leading-11-game-dealers/"><u>Game Aficionados' Compilation: Ranking the Leading 11 Game Dealers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-television-innovation-integrating-fb-live-experiences/"><u>In 2024, Television Innovation Integrating FB Live Experiences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/incoming-google-pixel-6-gadget-insights-on-estimated-cost-launch-date-features-speculations-and-more/"><u>Incoming Google Pixel 6 Gadget – Insights on Estimated Cost, Launch Date, Features Speculations & More!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/multiply-the-whole-number-2-by-the-denominator-3-to-get-6/"><u>Multiply the Whole Number 2 by the Denominator 3 to Get 6</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android/"><u>The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-picklist-for-best-imessage-games-to-play-in-ebytes-2024/"><u>The Ultimate Picklist for Best iMessage Games to Play in Ebytes 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-your-potential-master-resumes-via-chatgpt/"><u>Unleashing Your Potential: Master Resumes via ChatGPT</u></a></li>
 </ul></div>
 

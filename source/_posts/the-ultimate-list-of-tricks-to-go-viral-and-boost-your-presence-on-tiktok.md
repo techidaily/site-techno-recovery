@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
-date: 2024-12-09T03:48:57.353Z
-updated: 2024-12-11T07:37:53.270Z
+date: 2024-12-15T08:24:26.936Z
+updated: 2024-12-17T01:26:38.777Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
@@ -32,10 +32,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
@@ -49,6 +45,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Forward a message (F)** : Press**F** to forward an open message.
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reply to Email
 
@@ -64,10 +64,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Scroll down an email list (J)** : Press the**J** key to scroll down.
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
 
@@ -86,6 +82,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -95,10 +95,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -123,7 +119,7 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -133,6 +129,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -163,20 +163,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-jumping-into-the-virtual-discussions-via-google/"><u>[New] Jumping Into the Virtual Discussions via Google</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-essential-aspects-of-a-superior-4k-camera-lens-choice/"><u>2024 Approved Essential Aspects of a Superior 4K Camera Lens Choice</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-fcp-strategies-and-tactics-exposed/"><u>2024 Approved Free FCP Strategies and Tactics Exposed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-ramps-up-artificial-intelligence-prowess-with-latest-innovations-discover-the-power-of-new-models/"><u>Apple Ramps Up Artificial Intelligence Prowess with Latest Innovations – Discover the Power of New Models</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-takes-on-spotify-revolutionary-update-allows-seamless-transfer-of-playlists-insights-from-zdnet/"><u>Apple Takes On Spotify: Revolutionary Update Allows Seamless Transfer of Playlists - Insights From ZDNet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/driver-update-fixes-persistent-watchdog-bsod-problems/"><u>Driver Update Fixes Persistent Watchdog BSOD Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-blue-screen-fix-windows-troubleshoot/"><u>dxgkrnl.sys Blue Screen Fix - Windows Troubleshoot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-apples-latest-visionos-upgrade-enhanced-personalization-and-more-features-unveiled/"><u>Exploring Apple's Latest VisionOS Upgrade: Enhanced Personalization and More Features Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mac-studios-unique-feature-that-influences-my-decision-over-upgrading-to-a-fall-release-of-the-m4-mac-mini-zdnet-perspectives/"><u>Mac Studio’s Unique Feature that Influences My Decision over Upgrading to a Fall Release of the M4 Mac Mini | ZDNet Perspectives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-screen-recording-on-iphones-a-step-by-step-instructional-article/"><u>Mastering Screen Recording on iPhones: A Step-by-Step Instructional Article</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-get-noticed-the-top-10-animated-text-tools-for-social-media-and-more-for-2024/"><u>New Get Noticed The Top 10 Animated Text Tools for Social Media and More for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-correcting-ieframedll-error-messages/"><u>Step-by-Step Solutions for Correcting ieframe.dll Error Messages</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-utilizing-photo-cutout-features-on-your-iphones-ios-16/"><u>The Ultimate Tutorial for Utilizing Photo Cutout Features on Your iPhone's iOS 16</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-reasons-why-snagging-a-discounted-apple-ipad-pro-pre-prime-day-is-a-must-expert-analysis-by-zdnet/"><u>Top Reasons Why Snagging a Discounted Apple iPad Pro Pre-Prime Day Is A Must | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722867866396-upgrade-your-device-with-ios-18-no-charge-for-the-latest-innovations-and-news-revealed/"><u>Upgrade Your Device with iOS 1#8: No Charge for the Latest Innovations & News Revealed!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-secret-to-social-success-innovative-square-videography-tactics/"><u>[Updated] 2024 Approved The Secret to Social Success Innovative Square Videography Tactics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mmo-galaxy-the-finest-10-free-online-roleplayers/"><u>[Updated] MMO Galaxy The Finest 10 Free Online Roleplayers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategies-for-stumbling-upon-covert-youtube-videos/"><u>[Updated] Strategies for Stumbling Upon Covert YouTube Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/binge-worthy-uk-programs-to-watch-on-netflix-right-now/"><u>Binge-Worthy UK Programs to Watch on Netflix Right Now!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/break-boundaries-get-free-vob-handling-toolset-pc-and-mac/"><u>Break Boundaries Get Free VOB Handling Toolset (PC & Mac)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategies-to-address-and-resolve-error-stop-0x0000005c-hal-initialization-failed-issues/"><u>Comprehensive Strategies to Address and Resolve Error STOP 0X0000005C: Hal Initialization Failed Issues</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effizientes-archivieren-und-wiederherstellung-von-dateien-in-windows/"><u>Effizientes Archivieren Und Wiederherstellung Von Dateien in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facing-a-blank-screen-heres-why-your-youtube-videos-arent-playing/"><u>Facing a Blank Screen? Here’s Why Your YouTube Videos Aren't Playing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fubotv-for-fire-stick-a-user-friendly-guide-to-begin-your-subscription-journey/"><u>FuboTV for Fire Stick: A User-Friendly Guide to Begin Your Subscription Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlining-your-photos-the-ultimate-guide-to-merging-jpegs-into-one-pdf-file/"><u>Streamlining Your Photos: The Ultimate Guide to Merging JPEGs Into One PDF File</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/switching-the-on-screen-keyboard-onoff-in-windows-10-a-step-by-step-guide/"><u>Switching the On-Screen Keyboard On/Off in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-definitive-guide-to-appending-srt-track-in-videos/"><u>The Definitive Guide to Appending SRT Track in Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-resource-protection-failures/"><u>Troubleshooting and Solutions for Windows Resource Protection Failures</u></a></li>
+<li><a href="https://fox-links.techidaily.com/true-color-equalizer/"><u>True Color Equalizer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-full-potential-smooth-zooming-techniques-on-ios-devices/"><u>Unlock Full Potential: Smooth Zooming Techniques on iOS Devices</u></a></li>
 </ul></div>
 

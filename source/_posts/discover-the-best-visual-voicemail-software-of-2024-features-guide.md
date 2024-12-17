@@ -1,7 +1,7 @@
 ---
 title: Discover the Best Visual Voicemail Software of 202[4] - Features Guide
-date: 2024-09-04T00:26:03.393Z
-updated: 2024-09-05T00:26:03.393Z
+date: 2024-12-14T11:42:38.905Z
+updated: 2024-12-17T05:53:15.481Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Best Visual Voicemail Software of 202[4] - Features Guide
@@ -25,6 +25,10 @@ thumbnail: https://www.lifewire.com/thmb/mztVKX9lI9Ww1xVnnU1mure4W5Q=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -43,6 +47,10 @@ thumbnail: https://www.lifewire.com/thmb/mztVKX9lI9Ww1xVnnU1mure4W5Q=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -51,24 +59,12 @@ thumbnail: https://www.lifewire.com/thmb/mztVKX9lI9Ww1xVnnU1mure4W5Q=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -80,12 +76,6 @@ thumbnail: https://www.lifewire.com/thmb/mztVKX9lI9Ww1xVnnU1mure4W5Q=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -97,17 +87,9 @@ thumbnail: https://www.lifewire.com/thmb/mztVKX9lI9Ww1xVnnU1mure4W5Q=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="540" height="540" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -119,11 +101,9 @@ thumbnail: https://www.lifewire.com/thmb/mztVKX9lI9Ww1xVnnU1mure4W5Q=/400x300/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -136,12 +116,6 @@ thumbnail: https://www.lifewire.com/thmb/mztVKX9lI9Ww1xVnnU1mure4W5Q=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -149,6 +123,10 @@ thumbnail: https://www.lifewire.com/thmb/mztVKX9lI9Ww1xVnnU1mure4W5Q=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -170,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +155,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-tagging-and-title-strategies-for-youtube-success-stories/"><u>[New] In 2024, Tagging and Title Strategies for YouTube Success Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-15-essential-gaming-capture-programs-for-2024/"><u>[Updated] 15 Essential Gaming Capture Programs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-10-strategies-for-boosting-your-youtube-visibility/"><u>[Updated] 2024 Approved 10 Strategies for Boosting Your YouTube Visibility</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-from-vision-to-visuals-craft-your-story-with-youtube-editor/"><u>[Updated] In 2024, From Vision to Visuals Craft Your Story with YouTube Editor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-8-pitfalls-for-novice-youtube-creators/"><u>[Updated] In 2024, Top 8 Pitfalls for Novice YouTube Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-manual-integrating-srt-into-mp4-files/"><u>Complete Manual Integrating SRT Into MP4 Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-images-top-11-in-depth-color-adjustment-guides/"><u>Enhancing Images Top 11 In-Depth Color Adjustment Guides</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-unique-gaming-experiences-only-on-ps5/"><u>Explore the Unique Gaming Experiences Only on PS5</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/home-charging-guide-essential-tips-for-powering-up-your-electric-vehicle/"><u>Home Charging Guide: Essential Tips for Powering Up Your Electric Vehicle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-ntldr-is-missing-errors/"><u>How to Fix NTLDR Is Missing Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-realme-11-proplus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Realme 11 Pro+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-mac-personalization-a-guide-to-modifying-folder-shades/"><u>Mastering Mac Personalization: A Guide to Modifying Folder Shades</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/perfect-pixel-presets-mastering-picture-settings-on-a-samsung-4k-television/"><u>Perfect Pixel Presets: Mastering Picture Settings on a Samsung 4K Television</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revamp-your-iphone-photography-overcome-focus-problems-now/"><u>Revamp Your iPhone Photography: Overcome Focus Problems Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-mastering-the-art-of-cmos-and-bios-restoration/"><u>Step-by-Step Guide: Mastering the Art of CMOS and BIOS Restoration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-big-thing-discover-android-16s-upcoming-price-specifications-and-launch-date-for-free/"><u>The Next Big Thing: Discover Android 16'S Upcoming Price, Specifications, and Launch Date for Free</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-creativity-with-tiktok-video-tricks/"><u>Unleashing Creativity with TikTok Video Tricks</u></a></li>
+</ul></div>
 

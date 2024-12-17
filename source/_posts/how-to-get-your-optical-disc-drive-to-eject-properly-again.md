@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Optical Disc Drive to Eject Properly Again
-date: 2024-08-30T13:17:51.160Z
-updated: 2024-08-31T13:17:51.160Z
+date: 2024-12-10T20:55:13.531Z
+updated: 2024-12-16T21:58:49.824Z
 categories:
   - BestProducts
 description: This Article Describes How to Get Your Optical Disc Drive to Eject Properly Again
@@ -33,9 +33,19 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,7 +53,16 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -52,8 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +120,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-begin-your-editing-journey-adopting-movie-maker-for-w11/"><u>[Updated] Begin Your Editing Journey Adopting Movie Maker for W11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expertly-selected-graphics-cards-for-peak-streaming-clarity-for-2024/"><u>[Updated] Expertly Selected Graphics Cards for Peak Streaming Clarity for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-historical-knowledge-at-your-fingertips-best-yt-history-channels/"><u>[Updated] Historical Knowledge at Your Fingertips Best YT History Channels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-how-to-use-luts-to-spark-ar-and-download-free-lut/"><u>[Updated] How to Use LUTs to Spark AR & Download Free LUT</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tunefabs-top-screen-recorder-picks-for-2024/"><u>[Updated] Tunefab's Top Screen Recorder Picks for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leverage-ai-to-improve-teamwork-incorporating-github-copilot-in-your-microsoft-teams-operations/"><u>Leverage AI to Improve Teamwork: Incorporating GitHub Copilot in Your Microsoft Teams Operations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-common-issues-by-learning-how-to-factory-reset-your-samsung-tv-model/"><u>Solve Common Issues by Learning How to Factory Reset Your Samsung TV Model.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722883827890-troubleshoot-hulus-rununk13-issue-with-these-easy-fixes/"><u>Troubleshoot Hulu's RUNUNK13 Issue with These Easy Fixes!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-the-garmin-forerunner-945-a-breakdown-of-features-in-a-gps-running-watch-review/"><u>Unveiling the Power of The Garmin Forerunner 945: A Breakdown of Features in a GPS Running Watch Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wwdc-2025-sneak-peek-latest-apple-innovations-and-exclusive-updates-revealed/"><u>WWDC 2025 Sneak Peek: Latest Apple Innovations & Exclusive Updates Revealed</u></a></li>
+</ul></div>
 

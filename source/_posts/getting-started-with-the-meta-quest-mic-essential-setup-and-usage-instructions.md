@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with the Meta Quest Mic: Essential Setup and Usage Instructions"
-date: 2024-08-30T13:18:49.026Z
-updated: 2024-08-31T13:18:49.026Z
+date: 2024-12-13T04:31:22.517Z
+updated: 2024-12-16T18:03:17.317Z
 categories:
   - BestProducts
 description: "This Article Describes Getting Started with the Meta Quest Mic: Essential Setup and Usage Instructions"
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 * Walk with your buddy Pokémon to receive gifts, candy, and souvenirs.
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
@@ -35,22 +39,17 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
  While having your favorite Pokémon appear alongside you on your trainer profile and walk on the map can be cool, there are several more practical benefits to having a buddy Pokémon.
@@ -64,9 +63,6 @@ No advertising on the website.
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -83,8 +79,9 @@ No advertising on the website.
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
@@ -92,8 +89,9 @@ No advertising on the website.
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
  It doesn’t really matter at all who you choose to have as your_Pokémon Go_ buddy. At the end of the day, it comes down to what your particular aims are within the game.
@@ -124,8 +122,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +129,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-composing-cinematic-stories-on-an-iphone-learn-three-no-cost-methods-to-add-tunes/"><u>[New] Composing Cinematic Stories on an iPhone – Learn Three No-Cost Methods to Add Tunes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cutting-edge-approaches-to-crafting-top-fb-cover-videos-for-2024/"><u>[New] Cutting-Edge Approaches to Crafting Top FB Cover Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-best-android-video-capture-software-5/"><u>[New] In 2024, Ultimate Guide to Best Android Video Capture Software #5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/handling-disconnects-reestablishing-online-functionality-for-your-amazon-echo-device/"><u>Handling Disconnects: Reestablishing Online Functionality for Your Amazon Echo Device</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 13 mini</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy S24</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/make-any-video-play-on-your-iphone-the-ultimate-conversion-tutorial/"><u>Make Any Video Play on Your iPhone: The Ultimate Conversion Tutorial</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone SE (2020) to Android | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-connecting-your-printer-to-windows-11-tips-from-yl-computing/"><u>Step-by-Step Guide: Connecting Your Printer to Windows 11 - Tips From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-disabling-safe-mode-in-windows-10/"><u>Step-by-Step Guide: Disabling Safe Mode in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-mastering-the-multitasking-with-splitting-your-screen-on-windows-10/"><u>Step-by-Step Guide: Mastering the Multitasking with Splitting Your Screen on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-a-printer-driver-in-windows-os/"><u>Step-by-Step Guide: Removing a Printer Driver in Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-the-lock-screen-in-windows-10-without-hassle/"><u>Step-by-Step Guide: Removing the Lock Screen in Windows 10 Without Hassle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-defective-usb-port-issues-on-laptops/"><u>Step-by-Step Solution for Defective USB Port Issues on Laptops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-seamless-usb-driver-updates-across-multiple-windows-versions/"><u>Step-by-Step Tutorial for Seamless USB Driver Updates Across Multiple Windows Versions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-of-linking-a-printer-to-your-windows-10-pc/"><u>The Complete Walkthrough of Linking a Printer to Your Window's 10 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-components-expert-reviews-and-buying-guides/"><u>Tom's Computer Components - Expert Reviews & Buying Guides</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-fixing-logitech-mouse-issues-on-windows-10/"><u>Troubleshooting Guide: Fixing Logitech Mouse Issues on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-hxtsrexe-process-in-windows-11-a-complete-guide/"><u>Troubleshooting the hxtsr.exe Process in Windows 11 – A Complete Guide</u></a></li>
+</ul></div>
 

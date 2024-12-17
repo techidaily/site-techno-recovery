@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Clean Up and Remove Apps on Your Apple Computer
-date: 2024-08-30T13:21:20.548Z
-updated: 2024-08-31T13:21:20.548Z
+date: 2024-12-11T00:01:38.607Z
+updated: 2024-12-17T02:55:38.730Z
 categories:
   - BestProducts
 description: This Article Describes Easy Ways to Clean Up and Remove Apps on Your Apple Computer
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 ---
 
 ## Planning Your Apple Store Visit? Here's How to Make a Quick and Easy Appointment
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Using the Apple Store App is the easiest way to get in and get your device fixed at the Genius Bar.
@@ -27,6 +32,11 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 4. Select the specific problem from the next screen.  
 ![The "My Devices," "Repairs & Physical Damage," and problem options in the Apple Support app](https://www.lifewire.com/thmb/UlwcbBbGGUKP7TBki_iBvOT4Dgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-01-26333c8d674d49e19071966928058213.jpg)
 5. Select**View Locations** under**Bring in for Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select an Apple Store from the map, and then choose**Schedule** .  
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
@@ -34,8 +44,9 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using the Apple Store App to Make Appointments
 
  Another way to book an appointment is through the Apple Store app, but it has a few more steps.  
@@ -45,34 +56,27 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 3. On the next screen, tap**Find a store** .  
 ![Profile pic, Reservations option, and Find a Store in the Apple Store app](https://www.lifewire.com/thmb/McTZyDh1dHEy4jPR7CZmGNKvI5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-01-9cacdcf93f3a41d3851b1a2cca991204.jpg)
 4. Search for your closest Apple Store, or select one under**Nearby Stores** .
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Choose**Make a reservation** under**Genius Bar** .
 6. You'll go to Apple's support website, where you can describe your problem in the box under**Tell us what's happening** .  
  If you have the Apple Support app on your phone, the Apple Store app will direct you there instead of the website.  
 ![A Store, the "Make a reservation" link, and the "Tell us what's happening" field in the Apple Store app](https://www.lifewire.com/thmb/ircG1uYJS77_UHCiiZH0GISmswg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-02-e508d0091eb04923ba10576b908d07ad.jpg)
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
 13. Your appointment is set. You'll receive a confirmation at your email address (and by phone, if you entered it in Step 10).
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [How to Fix An iPhone That Won't Turn Off](https://www.lifewire.com/fix-iphone-wont-turn-of-4134989)
@@ -104,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +115,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/beyond-apowersoft-top-10-screen-capture-apps-analyzed/"><u>Beyond Apowersoft Top 10 Screen Capture Apps Analyzed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-fixing-a-malfunctioning-keyboard-on-your-macbook-pro/"><u>Expert Advice: Fixing a Malfunctioning Keyboard on Your MacBook Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fuse-voice-recordings-with-ppt-content/"><u>Fuse Voice Recordings with PPT Content</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-overcoming-the-cant-play-sound-error-messages/"><u>Immediate Fixes for Overcoming the 'Can't Play Sound' Error Messages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/os-melhores-ferramentas-de-apresentacao-em-2024-suas-principais-alternativas-gratis-e-pagas-reveladas/"><u>Os Melhores Ferramentas De Apresentação Em 2024 - Suas Principais Alternativas Grátis E Pagas Reveladas!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-obstacles-a-comprehensive-guide-to-repairing-the-ios-screen-mirroring-feature/"><u>Overcoming Obstacles: A Comprehensive Guide to Repairing the iOS Screen Mirroring Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-era-of-virtual-gaming-begins-sonys-psvr-2-news-and-breakdown-price-points-release-dates-and-tech-specs/"><u>The Next Era of Virtual Gaming Begins - Sony's PSVR 2 News and Breakdown: Price Points, Release Dates & Tech Specs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-removing-trustedinstaller-restrictions-in-windows-11/"><u>The Ultimate Tutorial: Removing TrustedInstaller Restrictions in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-power-banks-of-2024-comprehensive-review-by-tech-gurus-zdnet/"><u>Top-Rated Wireless Power Banks of 2024 - Comprehensive Review by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/flvswfmovavi/"><u>オンラインで無料FLVとSWFファイルの簡単な変換手順：Movavi 使い方ガイド</u></a></li>
+</ul></div>
 

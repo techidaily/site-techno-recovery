@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Apple Drops AirPods Price by $40 Before Independence Day - Exclusive Details"
-date: 2024-12-05T05:26:27.928Z
-updated: 2024-12-11T09:49:49.222Z
+date: 2024-12-10T21:12:49.950Z
+updated: 2024-12-17T09:32:16.881Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01ab4a9a-af6b-4a8d-9fb6-f2fc597fd05f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,17 +62,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unlock-the-secrets-of-webinar-recording-a-users-manual-macos-windows-for-2024/"><u>[New] Unlock the Secrets of Webinar Recording A User's Manual (macOS, Windows) for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-low-cost-high-impact-spherical-videography-devices-for-2024/"><u>[Updated] Low Cost, High Impact Spherical Videography Devices for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-complete-treatise-on-adobes-cloud-and-its-competitors/"><u>A Complete Treatise on Adobe's Cloud & Its Competitors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-free-and-paid-drawing-apps-for-android-os-for-2024/"><u>Best Free and Paid Drawing Apps for Android OS for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dealing-with-missing-comctl32dll-files-tips-and-tricks-for-a-smooth-fix/"><u>Dealing with Missing comctl32.dll Files: Tips and Tricks for a Smooth Fix</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dive-into-artificular-intelligence-discover-15-no-cost-on-demand-online-classes-curated-by-lifewire/"><u>Dive Into Artificular Intelligence: Discover 15 No-Cost, On-Demand Online Classes Curated by Lifewire</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-correcting-the-absence-of-mfc42ddll-on-your-system/"><u>Expert Advice: Correcting the Absence of mfc42d.dll on Your System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-setting-up-an-appointment-with-apples-knowledgeable-staff-at-the-genius-bar/"><u>Expert Tips for Setting Up an Appointment With Apple's Knowledgeable Staff at The Genius Bar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-recovering-misplaced-airpods-and-ensuring-they-stay-found-expert-advice-from-zdnet/"><u>Guide to Recovering Misplaced AirPods and Ensuring They Stay Found: Expert Advice From ZDNET</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-synchro-sound-creation-merging-audio-tracks-into-one-cohesive-file/"><u>New In 2024, Synchro-Sound Creation Merging Audio Tracks Into One Cohesive File</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-misguided-approach-to-academic-success-using-chatgpt-for-college-learners/"><u>The Misguided Approach to Academic Success Using ChatGPT for College Learners</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-top-11-supplements-for-dji-phantom-4-users-for-2024/"><u>The Top 11 Supplements for DJI Phantom 4 Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-prime-selection-highest-quality-stands/"><u>[New] 2024 Approved Prime Selection Highest Quality Stands</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-easy-dance-routines-to-follow-with-these-20-country-songs-tiktok/"><u>[Updated] Easy Dance Routines to Follow with These 20 Country Songs (TikTok)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-maximizing-your-firefox-multitasking-with-ffxp/"><u>[Updated] Maximizing Your Firefox Multitasking with FFXP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/win10-2024/"><u>免費高效Win10畫面錄影解決方案 - 【更新2024】</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-breakdown-of-items-that-accompany-your-nintendo-switch-box-set/"><u>A Breakdown of Items That Accompany Your Nintendo Switch Box Set</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-anonymity-master-the-art-of-making-your-number-unknown/"><u>Android Anonymity: Master the Art of Making Your Number Unknown</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-manage-games-in-steam-with-disk-management/"><u>Efficiently Manage Games in Steam with Disk Management</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-teamwork-skills-by-integrating-microsoft-teams-innovative-copilot-tool/"><u>Enhance Your Teamwork Skills by Integrating Microsoft Teams' Innovative Copilot Tool</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-s23plus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy S23+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/nintendo-switch-screen-caps-a-beginners-tutorial-on-snapping-photos-and-videos/"><u>Nintendo Switch Screen Caps: A Beginner's Tutorial on Snapping Photos & Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-activating-slack-alerts-on-the-apple-watch-tips-from-zdnet/"><u>Step-by-Step Guide: Activating Slack Alerts on the Apple Watch - Tips From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-ticklers-entertaining-iphoneipad-pranks-for-a-good-time/"><u>Tech Ticklers: Entertaining iPhone/iPad Pranks for a Good Time</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-iphone-photography-in-the-dark/"><u>The Art of iPhone Photography in the Dark</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-evolution-of-communication-inside-google-hangouts/"><u>The Evolution of Communication: Inside Google Hangouts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-for-setting-up-fandango-on-your-fire-stick/"><u>Ultimate Tutorial for Setting Up Fandango on Your Fire Stick</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-mystery-comprehending-google-hangouts-purpose-and-usage/"><u>Unveiling the Mystery: Comprehending Google Hangouts Purpose and Usage</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/vrs-best-immersion-top-ten-titles/"><u>VR's Best Immersion Top Ten Titles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/where-the-fun-never-stops-top-free-preschool-game-destinations-for-kids/"><u>Where the Fun Never Stops: Top Free Preschool Game Destinations for Kids</u></a></li>
 </ul></div>
 

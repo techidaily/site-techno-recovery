@@ -1,7 +1,7 @@
 ---
 title: "Citing AI Tools in Research: The Comprehensive Guide to Referencing ChatGPT Outputs"
-date: 2024-08-30T13:18:40.116Z
-updated: 2024-08-31T13:18:40.116Z
+date: 2024-12-15T15:07:22.826Z
+updated: 2024-12-17T08:16:40.986Z
 categories:
   - BestProducts
 description: "This Article Describes Citing AI Tools in Research: The Comprehensive Guide to Referencing ChatGPT Outputs"
@@ -48,9 +48,17 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Apple’s Translate: Best App for Apple Users](https://support.apple.com/guide/iphone/translate-text-voice-and-conversations-iphd74cb450f/ios)
 
 ![The Translate app on an iPhone](https://www.lifewire.com/thmb/VsN3CwMufBrP6juCYWXLtFA_I8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-translate-app-b0cfd610298e4933ba1bc1b38b158b02.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -72,9 +80,6 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Microsoft Translator: Best App for Group Translations](https://www.microsoft.com/translator/)
 
 ![Microsoft Translator on iOS](https://www.lifewire.com/thmb/YiuE24otzT25JyNjrNOLtenvspY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft-Translator-3c5394cfd0334f74b4cb9e3921a51d79.jpg)
@@ -105,9 +110,6 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [iTranslate: Best Paid Translator App for Frequent Travelers](https://itranslate.com/)
 
 ![iTranslate translation app for iOS](https://www.lifewire.com/thmb/Imjrbabrxr9ihstFJQXuzQl23mI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iTranslate-092e3c6331df471f804e8b37184d0365.jpg)
@@ -141,30 +143,17 @@ of 06
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Naver Papago: Best App for Sensing Context in Asian Languages](https://papago.naver.com/)
 
 ![The Naver Papgo Android translator app](https://www.lifewire.com/thmb/Z0s3T66q8miguef-FDRj8rnnqlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/papago-app-offline-translations-ba0b6e93638741758e45bf0fc46864a1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Simple interface.
@@ -194,15 +183,13 @@ The ultimate burning program for all your needs!</a>
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Speak & Translate: Best Freemium App With a Simple Interface
 
 ![Speak & Translate for iOS](https://www.lifewire.com/thmb/-bXEIEVNpUwnIplXSVo5TsPW3So=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SpeakTranslate-e9d08037f20c40419152e4a89bf94de3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Sync translation history via iCloud.
@@ -247,8 +234,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -256,4 +241,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection/"><u>[New] 2024 Approved Crafting the Perfect Strategy Exclusive YouTube to Gmail Connection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-29-cost-free-youtube-sound-extractors-free-youtube-audio-downloads/"><u>[Updated] 2024 Approved 29 Cost-Free YouTube Sound Extractors Free YouTube Audio Downloads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expand-your-gaming-library-5-best-xbox-hdds/"><u>[Updated] In 2024, Expand Your Gaming Library 5 Best Xbox HDDs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-cutting-edge-title-generator-for-online-sessions/"><u>2024 Approved Cutting-Edge Title Generator for Online Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-apple-tablets-showdown-ipad-pro-against-ipad-air-determine-the-ultimate-choice-for-your-needs/"><u>Best Apple Tablets Showdown: IPad Pro Against iPad Air - Determine the Ultimate Choice for Your Needs!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-hps-innovative-subscription-service-really-improve-your-printer-experience-and-love-for-the-brand/"><u>Can HP's Innovative Subscription Service Really Improve Your Printer Experience and Love for the Brand?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chromebook-voice-overhaul-guide-top-5-cloud-vocal-modification-tools-reviewed/"><u>Chromebook Voice Overhaul Guide Top 5 Cloud Vocal Modification Tools Reviewed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ddpai-mini3-review-dashcams-arent-usually-this-fun/"><u>DDpai Mini3 Review: Dashcams Aren’t Usually This Fun</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-repairing-broken-intel-raid-drives-under-windows-os/"><u>Step-by-Step Solutions for Repairing Broken Intel RAID Drives Under Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-repair-windows-system-health-checker-malfunctioning-feature/"><u>Steps to Repair Windows System Health Checker Malfunctioning Feature</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y100-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y100 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-beginners-guide-mastering-the-art-of-gopro-video-slicing-on-user-friendly-software/"><u>The Beginner's Guide: Mastering the Art of GoPro Video Slicing on User-Friendly Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-configuring-a-game-controller-steering-wheel-on-windows-or-mac/"><u>The Ultimate Tutorial for Configuring a Game Controller Steering Wheel on Windows or Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshoot-and-tame-hxtsrexe-issues-on-your-windows-n-complete-guide/"><u>Troubleshoot and Tame HxTsr.exe Issues on Your Windows N [Complete Guide]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-for-non-responsive-arch-bluetooth-mouse-post-windows-10-creators-patch/"><u>Troubleshooting Guide for Non-Responsive Arch Bluetooth Mouse Post Windows 10 Creators Patch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-transforming-pictures-into-animated-gifs/"><u>Ultimate Guide: Transforming Pictures Into Animated GIFs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-instructions-for-installing-inf-drivers-across-various-windows-operating-systems-windows-1078xpvista/"><u>Ultimate Instructions for Installing Inf Drivers Across Various Windows Operating Systems (Windows 10/7/8/XP/Vista)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/update-your-gmail-security-swiftly-a-simple-guide-to-changing-passwords/"><u>Update Your Gmail Security Swiftly: A Simple Guide to Changing Passwords</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/utorrent-free-download-for-windows-11/"><u>UTorrent Free Download For Windows 11</u></a></li>
+</ul></div>
 

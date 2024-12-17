@@ -1,7 +1,7 @@
 ---
 title: "Exposing AirTag Surveillance: Your Complete Manual on Privacy Protection"
-date: 2024-12-10T10:15:22.392Z
-updated: 2024-12-11T06:28:24.206Z
+date: 2024-12-11T02:49:48.983Z
+updated: 2024-12-17T02:20:45.487Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,20 +191,21 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-giroptics-virtual-sphere-breakdown/"><u>[New] In 2024, Giroptic's Virtual Sphere Breakdown</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-select-your-dreams-best-vr-bike-trails-for-2024/"><u>[New] Select Your Dreams Best VR Bike Trails for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hit-the-floor-with-optimal-posting-hours/"><u>[Updated] In 2024, Hit the Floor with Optimal Posting Hours</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-voice-changing-methods-in-free-fire/"><u>[Updated] Voice Changing Methods in Free Fire</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-expertise-in-iphones-high-dynamic-range-photography/"><u>2024 Approved Expertise in iPhone's High-Dynamic Range Photography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-youtube-titulos-con-algoritmos/"><u>2024 Approved Mastering YouTube Títulos Con Algoritmos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/p-by-step-approach-for-adding-soundtracks-to-youtube-clips-for-2024/"><u>A Step-by-Step Approach for Adding Soundtracks to YouTube Clips for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chatgpt-plus-is-it-a-smart-investment-top-5-benefits-of-joining-now/"><u>ChatGPT Plus: Is It a Smart Investment? Top 5 Benefits of Joining Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-ultimate-list-of-leading-microsoft-business-apps-on-ios-curated-by-zdnet/"><u>Explore the Ultimate List of Leading Microsoft Business Apps on iOS - Curated by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-novice-to-expert-a-comprehensive-guide-to-playing-pokemon-go/"><u>From Novice to Expert: A Comprehensive Guide to Playing 'Pokémon Go'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-something-wrong-with-youtube-how-to-tell-and-fix-it/"><u>Is Something Wrong With YouTube? How to Tell and Fix It</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leading-small-form-factor-pcs-for-gamers/"><u>Leading Small Form Factor PCs for Gamers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/score-a-steal-snagging-an-iphone-15-pro-max-at-just-001-on-amazon-the-inside-scoop/"><u>Score a Steal: Snagging an iPhone 15 Pro Max at Just $0.01 on Amazon - The Inside Scoop!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-comprehensive-tutorial-on-storing-and-accessing-drivers-license-in-iphone-wallet-across-regions/"><u>The Comprehensive Tutorial on Storing and Accessing Driver's License in iPhone Wallet Across Regions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722888501847-watch-every-superman-movie-in-their-official-storyline-order/"><u>Watch Every Superman Movie - In Their Official Storyline Order!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-lone-path-with-3d-printers-in-the-3dr-world/"><u>[New] A Lone Path with 3D Printers in the '3DR' World</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mending-a-singular-audio-unit/"><u>[New] Mending a Singular Audio Unit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-the-secret-strategies-of-instagram-influencers-for-2024/"><u>[New] Unlocking the Secret Strategies of Instagram Influencers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-secrets-of-effective-iptv-broadcasting-capture-for-2024/"><u>[Updated] Secrets of Effective IPTV Broadcasting Capture for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-10-histology-streams-for-academics/"><u>[Updated] Top 10 Histology Streams for Academics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-tips-for-crafting-vhs-images-on-computers/"><u>2024 Approved Advanced Tips for Crafting VHS Images on Computers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-premier-packages-select-laptops-for-advanced-video-workflows/"><u>2024 Approved Premier Packages Select Laptops for Advanced Video Workflows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-wi-fi-connection-woes-heres-how-to-solve-authentication-errors/"><u>Android Wi-Fi Connection Woes? Here's How to Solve Authentication Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bid-farewell-to-cortanacopilot-tips-for-a-clean-windows-cuh11-setup-without-ai-assistance/"><u>Bid Farewell to Cortana/Copilot: Tips for a Clean Windows Cuh11 Setup Without AI Assistance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-how-to-alter-virtual-position-on-phone-a-comprehensive-guide/"><u>Learn How to Alter Virtual Position on Phone - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/modify-your-online-presence-how-to-switch-your-discord-picture/"><u>Modify Your Online Presence: How to Switch Your Discord Picture</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-mastering-melody-match-identifying-tunes-on-your-iphone-devices/"><u>New In 2024, Mastering Melody Match Identifying Tunes on Your iPhone Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-these-in-your-ps5-journey/"><u>Prioritize These in Your PS5 Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/release-date-costs-and-features-find-your-playstation-portal-purchase-locations-included/"><u>Release Date, Costs & Features: Find Your PlayStation Portal - Purchase Locations Included</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-six-most-common-problems-causing-your-cars-battery-drainage/"><u>The Six Most Common Problems Causing Your Car's Battery Drainage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-the-users-who-liked-or-commented-on-your-instagram-post/"><u>Uncover the Users Who Liked or Commented on Your Instagram Post</u></a></li>
 </ul></div>
 
